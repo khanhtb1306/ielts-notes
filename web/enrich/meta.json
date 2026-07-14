@@ -1,0 +1,110 @@
+{
+  "stageSub": "Mục tiêu giai đoạn hiện tại: học chắc nội dung đã học đến Lesson 15.",
+  "courseSub": "Bản đồ nguồn kiến thức Lesson 1–15, dùng để tra kiến thức đến từ đâu.",
+  "pronSub": "IPA cơ bản, trọng âm, âm cuối, các âm dễ nhầm và collocation theo âm (Lesson 1–5).",
+  "grammarSub": "Khái niệm → công thức → cách dùng → dấu hiệu → ví dụ → bẫy lỗi.",
+  "speakingSub": "Giữ nguyên ví dụ thật, thêm cách ngắt hơi và audio để luyện nói đúng, dễ thuộc.",
+  "reviewSub": "Ôn cho kỳ thi cuối: Phần 1 Speaking tất cả chủ đề, Phần 2 kiến thức đã học. Tích vào ô để lưu tiến độ.",
+
+  "stageTitle": "Giai đoạn hiện tại, chưa phải toàn bộ khóa",
+  "stageIntro": "Tài liệu này tổng hợp kiến thức đã học đến Lesson 15. Các lesson sau sẽ được bổ sung theo tiến độ học.",
+  "courseIntro": "Dùng để biết kiến thức đến từ lesson nào. Khi ôn, ưu tiên ôn theo topic trong Pronunciation/Grammar/Speaking.",
+  "reviewTitle": "Ôn tập cho kỳ thi cuối giai đoạn",
+  "reviewIntro": "Kỳ thi cuối gồm 2 phần: Speaking theo tất cả chủ đề đã học và kiến thức Grammar/Pronunciation. Tích ô đã ôn để theo dõi tiến độ.",
+
+  "goals": [
+    "Hoàn thành tốt giai đoạn Pre-IELTS hiện tại.",
+    "Học theo đúng giáo trình: không bỏ bài, không học vượt, không lan man ngoài nội dung đã học.",
+    "Hiểu kiến thức đã học, không chỉ nhớ đáp án; biết vì sao đúng và vì sao sai.",
+    "Ghi nhớ lâu dài bằng cách hệ thống hóa và liên kết giữa các lesson.",
+    "Ưu tiên xây nền: phát âm IPA, rồi grammar nouns → tenses → modal verbs.",
+    "Speaking đúng ngữ pháp, dùng cấu trúc đã học, dễ học thuộc, phù hợp A1–A2 trước.",
+    "Vocabulary học theo chủ đề và theo âm, ôn lại nhiều lần.",
+    "Làm được homework, review và bài kiểm tra cuối giai đoạn hiện tại."
+  ],
+  "principles": [
+    { "title": "Ưu tiên số 1", "text": "Xây nền phát âm (Lesson 1–5) và grammar: nouns, quantifiers, pronouns, adjectives, determiners, prepositions, present, past, future, modal verbs." },
+    { "title": "Nguyên tắc học", "text": "Không học vượt, không lan man. Học theo giáo trình, hiểu vì sao đúng/sai, rồi mới luyện tự nhiên hơn." }
+  ],
+
+  "lessons": [
+    { "n": 1, "title": "Orientation + IPA overview", "focus": "Mục tiêu khóa, winning habits và bản đồ IPA; bắt đầu nguyên âm đơn.", "note": "Nắm 44 âm: 24 consonants + 20 vowels. Xem Pronunciation · Vowels.", "source": "Lesson 1.pptx" },
+    { "n": 2, "title": "Vowels", "focus": "Hoàn thiện 12 monophthongs và 8 diphthongs theo pattern chính tả.", "note": "Đọc từng âm trước khi ghép từ. Xem Pronunciation · Vowels.", "source": "Lesson 2.pptx" },
+    { "n": 3, "title": "Consonants 1", "focus": "Các cặp phụ âm b/p, d/t, g/k, v/f, z/s, ʒ/ʃ, dʒ/tʃ và collocations GET/GO.", "note": "Chú ý cặp hữu thanh/vô thanh. Xem Pronunciation · Consonants.", "source": "Lesson 3.pptx" },
+    { "n": 4, "title": "Consonants 2", "focus": "θ/ð, h/j, m/n/ŋ, l/r/w, minimal pairs và collocations TAKE/HAVE.", "note": "Luyện minimal pairs (sing/sin, run/rum). Xem Pronunciation · Consonants.", "source": "Lesson 4.pptx" },
+    { "n": 5, "title": "Reading IPA + Time", "focus": "Quy tắc đọc phiên âm, âm tiết, trọng âm, hỏi/nói giờ và collocations MAKE/say/tell/ask.", "note": "Đọc được phiên âm trước khi nhìn spelling. Xem Pronunciation · Reading & Time.", "source": "Lesson 5.pptx" },
+    { "n": 6, "title": "Nouns", "focus": "Common/proper nouns, singular/plural, plural rules và danh từ luôn số nhiều.", "note": "Xem Grammar Foundation · Danh từ.", "source": "Lesson 6.pptx" },
+    { "n": 7, "title": "Countable nouns + Quantifiers + Job", "focus": "Countable/uncountable, quantifiers và Speaking Job.", "note": "Liên kết Grammar Foundation với Speaking Job.", "source": "Lesson 7.pptx" },
+    { "n": 8, "title": "Pronouns + Appearance", "focus": "Personal/reflexive/demonstrative/interrogative pronouns và mô tả ngoại hình.", "note": "Xem Grammar Foundation · Đại từ và Speaking Appearance.", "source": "Lesson 8.pptx" },
+    { "n": 9, "title": "Adjectives + Family", "focus": "Tính từ, suffix/prefix, thứ tự tính từ và nói về gia đình.", "note": "Xem Grammar Foundation · Tính từ và Speaking Family.", "source": "Lesson 9 - Pre-IELTS.pptx" },
+    { "n": 10, "title": "Determiners + Personality", "focus": "Articles/determiners và mô tả tính cách.", "note": "Xem Grammar Foundation · Articles và Speaking Personality.", "source": "Lesson 10.pptx" },
+    { "n": 11, "title": "Prepositions", "focus": "Prepositions of position, place and time.", "note": "Đặc biệt in/on/at và vị trí đồ vật trong phòng.", "source": "Lesson 11.pptx" },
+    { "n": 12, "title": "Present tenses + House", "focus": "What is a verb, Present Simple, Present Continuous và Speaking House.", "note": "Xem Grammar Present Tenses và Speaking House.", "source": "Lesson 12.pptx" },
+    { "n": 13, "title": "Past tenses + Free time", "focus": "Past Simple, Past Continuous, -ed, irregular verbs và Speaking Free time.", "note": "Xem Grammar Past Tenses và Speaking Weekend.", "source": "Lesson 13.pptx" },
+    { "n": 14, "title": "Future tenses + Trip", "focus": "Future Simple, be going to và Speaking mô tả chuyến đi tương lai.", "note": "Xem Grammar Future Tenses và Speaking Trip.", "source": "Lesson 14.pptx" },
+    { "n": 15, "title": "Modal Verbs + Restaurant", "focus": "Modal verbs (ability/permission/advice/obligation/probability) và Speaking Food & Restaurant.", "note": "Xem Grammar Modal Verbs và Speaking Food & Restaurant.", "source": "Lesson 15.pptx" }
+  ],
+
+  "readGuide": [
+    { "topic": "Job", "text": "My dream is to become a teacher. / It is a good job for me / because I love working with kids.", "stress": "dream, teacher, good job, love, kids", "grammar": "want to become; because; Present Simple" },
+    { "topic": "Family", "text": "There are four people in my family: / my parents, / my younger brother / and me.", "stress": "four people, family, parents, younger brother", "grammar": "There are; possessive my" },
+    { "topic": "Appearance", "text": "My father is in his forties. / He is not very tall, / but he is well-built.", "stress": "father, forties, not very tall, well-built", "grammar": "be + adjective; but" },
+    { "topic": "House", "text": "My favorite room is my bedroom / because I feel free and comfortable there.", "stress": "favorite room, bedroom, free, comfortable", "grammar": "be + noun; because" },
+    { "topic": "Weekend", "text": "On the weekend, / I often go out for coffee / with my friends.", "stress": "weekend, often, coffee, friends", "grammar": "Present Simple; adverb of frequency" },
+    { "topic": "Trip (past)", "text": "The trip I remember the most / is my trip to Hue, Da Nang, and Hoi An.", "stress": "trip, remember, Hue, Da Nang, Hoi An", "grammar": "Past Simple setup" },
+    { "topic": "Trip (future)", "text": "I am going to go with my best friends. / We are going to travel by car.", "stress": "going to, best friends, travel, car", "grammar": "be going to; will" },
+    { "topic": "Restaurant", "text": "Last weekend, / I went to a seafood restaurant / with my family.", "stress": "last weekend, seafood restaurant, family", "grammar": "Past Simple; modal verbs" }
+  ],
+
+  "review": [
+    { "title": "Pronunciation Review", "ordered": true, "items": [
+      "20 vowels: 12 monophthongs + 8 diphthongs.",
+      "24 consonants, chú ý cặp vô thanh/hữu thanh.",
+      "Âm tiết = số nguyên âm; trọng âm: to hơn, cao hơn, dài hơn.",
+      "-s/-es: `/s/`, `/z/`, `/ɪz/`. -ed: `/t/`, `/d/`, `/ɪd/`.",
+      "Không nuốt âm cuối khi nói."
+    ] },
+    { "title": "Grammar Review", "ordered": true, "items": [
+      "Foundation: nouns, quantifiers, pronouns, adjectives, articles, prepositions.",
+      "Present: Present Simple vs Present Continuous.",
+      "Past: Past Simple, Past Continuous, irregular verbs, -ed pronunciation.",
+      "Future: will vs be going to.",
+      "Modal verbs: can/could, may/might, should/ought to, must/have to/need to."
+    ] },
+    { "title": "Speaking Review", "ordered": true, "items": [
+      "Bản thân, Công việc.",
+      "Gia đình, Ngoại hình, Tính cách.",
+      "House / Room.",
+      "Weekend / Free time.",
+      "Trip (quá khứ và tương lai).",
+      "Food & Restaurant."
+    ] },
+    { "title": "Common Mistake Review", "ordered": false, "items": [
+      "Quên `s/es` với he/she/it.",
+      "Sau `did/didn't` vẫn dùng V2.",
+      "Nhầm `many/much`, `a few/a little`.",
+      "Nhầm `a/an/the`.",
+      "Nhầm `in/on/at`.",
+      "Nuốt âm cuối khi đọc speaking.",
+      "Dùng sai modal: `she cans`, `can to`, hiểu nhầm `mustn't` = không cần."
+    ] },
+    { "title": "Self-check Tracker", "ordered": false, "items": [
+      "Tôi đã hiểu khái niệm chưa?",
+      "Tôi viết lại được công thức không?",
+      "Tôi biết vì sao câu đúng/sai không?",
+      "Tôi nói lại được speaking answer mà không nhìn quá nhiều không?",
+      "Tôi có lỗi nào cần ghi lại để ôn sau không?"
+    ] }
+  ],
+
+  "vocab": {
+    "Job": ["dream job", "well-paid", "work with kids", "hard work", "long hours", "on my feet all day"],
+    "Family": ["only child", "nuclear family", "younger brother", "elder sister", "siblings", "parents"],
+    "Appearance": ["good-looking", "average-looking", "slim", "well-built", "straight hair", "curly hair", "glasses"],
+    "Personality": ["neat", "organized", "easy-going", "sociable", "generous", "shy", "serious"],
+    "House": ["living room", "kitchen", "bathroom", "bedroom", "wardrobe", "next to", "in the middle of"],
+    "Weekend": ["go shopping", "go to the cinema", "work out", "take walks", "go jogging", "soundtrack"],
+    "Trip": ["travel", "trip", "sightseeing", "local food", "beautiful scenery", "wonderful", "crowded"],
+    "Restaurant": ["seafood restaurant", "main dish", "for dessert", "tasty", "book a table", "the service"]
+  }
+}

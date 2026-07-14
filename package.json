@@ -2,9 +2,10 @@
   "name": "ielts-foundation-notes",
   "version": "1.0.0",
   "private": true,
-  "description": "Pre-IELTS foundation notes up to Lesson 14.",
+  "description": "Pre-IELTS foundation notes up to Lesson 15.",
   "scripts": {
-    "start": "npx http-server . -p 5173 -c-1",
+    "build": "node build.mjs",
+    "start": "node build.mjs && npx http-server . -p 5173 -c-1",
     "serve": "npx http-server . -p 5173 -c-1"
   },
   "devDependencies": {

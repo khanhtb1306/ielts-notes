@@ -1,0 +1,52 @@
+{
+  "monophthongs": [
+    { "ipa": "iː", "word": "tea", "vi": "dài", "spell": "ea, ee, -y" },
+    { "ipa": "ɪ", "word": "sit", "vi": "ngắn", "spell": "i" },
+    { "ipa": "uː", "word": "food", "vi": "dài", "spell": "oo, ou, ue" },
+    { "ipa": "ʊ", "word": "book", "vi": "ngắn", "spell": "oo, u, ou" },
+    { "ipa": "e", "word": "ten", "vi": "ngắn", "spell": "e" },
+    { "ipa": "æ", "word": "hat", "vi": "ngắn", "spell": "a" },
+    { "ipa": "ɑː", "word": "car", "vi": "dài", "spell": "ar" },
+    { "ipa": "ʌ", "word": "cup", "vi": "ngắn", "spell": "u, o, ou" },
+    { "ipa": "ɔː", "word": "ball", "vi": "dài", "spell": "or, al, aw" },
+    { "ipa": "ɒ", "word": "hot", "vi": "ngắn", "spell": "o" },
+    { "ipa": "ɜː", "word": "bird", "vi": "dài", "spell": "ir, ur, er" },
+    { "ipa": "ə", "word": "teacher", "vi": "không nhấn", "spell": "nhiều cách" }
+  ],
+  "diphthongs": [
+    { "ipa": "ɪə", "word": "ear", "spell": "ea, ear, eer, ere" },
+    { "ipa": "eɪ", "word": "cake", "spell": "a, ai, ay" },
+    { "ipa": "eə", "word": "hair", "spell": "are, air, ear" },
+    { "ipa": "aʊ", "word": "house", "spell": "ow, ou" },
+    { "ipa": "ʊə", "word": "tourist", "spell": "ure, oor, ou" },
+    { "ipa": "ɔɪ", "word": "boy", "spell": "oi, oy" },
+    { "ipa": "aɪ", "word": "five", "spell": "i, y, igh" },
+    { "ipa": "əʊ", "word": "home", "spell": "o, ow, oa" }
+  ],
+  "consonants": [
+    { "ipa": "p", "word": "pen", "voiced": false },
+    { "ipa": "b", "word": "big", "voiced": true },
+    { "ipa": "t", "word": "tea", "voiced": false },
+    { "ipa": "d", "word": "day", "voiced": true },
+    { "ipa": "k", "word": "car", "voiced": false },
+    { "ipa": "ɡ", "word": "go", "voiced": true },
+    { "ipa": "f", "word": "fork", "voiced": false },
+    { "ipa": "v", "word": "very", "voiced": true },
+    { "ipa": "θ", "word": "think", "voiced": false },
+    { "ipa": "ð", "word": "this", "voiced": true },
+    { "ipa": "s", "word": "sit", "voiced": false },
+    { "ipa": "z", "word": "zoo", "voiced": true },
+    { "ipa": "ʃ", "word": "shop", "voiced": false },
+    { "ipa": "ʒ", "word": "vision", "voiced": true },
+    { "ipa": "tʃ", "word": "chair", "voiced": false },
+    { "ipa": "dʒ", "word": "jam", "voiced": true },
+    { "ipa": "m", "word": "map", "voiced": true },
+    { "ipa": "n", "word": "night", "voiced": true },
+    { "ipa": "ŋ", "word": "king", "voiced": true },
+    { "ipa": "h", "word": "hair", "voiced": false },
+    { "ipa": "l", "word": "love", "voiced": true },
+    { "ipa": "r", "word": "red", "voiced": true },
+    { "ipa": "w", "word": "winter", "voiced": true },
+    { "ipa": "j", "word": "yes", "voiced": true }
+  ]
+}
