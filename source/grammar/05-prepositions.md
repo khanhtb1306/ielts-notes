@@ -8,6 +8,8 @@ priority: High
 
 # Prepositions - Giới Từ
 
+> **Vì sao bài này quan trọng cho IELTS Task 1 & Speaking Part 2?** Task 1 map/process description dùng đầy giới từ vị trí (`next to, in front of, between, on the left of`). Speaking Part 2 "Describe a place" cũng thế. Sai `in/on/at` (VD `at Hanoi` thay vì `in Hanoi`) là lỗi Band 4.5 điển hình.
+
 Giới từ nối một vật/việc với vật/việc khác, cho biết **quan hệ** giữa chúng. Thường theo sau bởi một **danh từ hoặc đại từ** và nói về **vị trí, nơi chốn hoặc thời gian**.
 
 ## 01. Giới Từ Chỉ Vị Trí

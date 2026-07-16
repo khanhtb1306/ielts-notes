@@ -8,6 +8,8 @@ priority: High
 
 # Adjectives - Tính Từ
 
+> **Vì sao bài này quan trọng cho IELTS Speaking Part 1-2?** Speaking Part 2 (describe a person / place / trip) yêu cầu bạn xâu chuỗi nhiều tính từ. Sai thứ tự (`black long straight hair` thay vì `long straight black hair`) hoặc sai `-ed`/`-ing` (`I am boring` thay vì `bored`) là mất điểm Lexical Resource nhanh nhất.
+
 Tính từ là từ **miêu tả**, cho biết thêm về danh từ (a **smart** dog, a **tall** man).
 
 ## 01. Vị Trí Của Tính Từ

@@ -2,11 +2,13 @@
 title: Collocations theo âm (DC)
 vi: Cụm từ đi với DO/HAVE/GET/GO/TAKE/MAKE và say/tell/ask
 skill: Vocabulary
-lessons: Lesson 2-5
+lessons: Lesson 1-5
 priority: Medium
 ---
 
 # Collocations - Cụm Từ Thường Đi Cùng Nhau
+
+> **Vì sao bài này quan trọng cho IELTS Lexical Resource?** Examiner chấm Lexical Resource nhìn cả **collocation** — chọn từ đúng đi kèm. `do the housework` (đúng) vs `make the housework` (sai) đều dùng verb quen thuộc nhưng chỉ 1 collocation đúng. Nắm bank collocation cơ bản = ngay Band 5.5.
 
 Các cụm từ này học được qua Daily Challenge của Lesson 2–5, gắn với các âm đang luyện. Học cả **nghĩa** lẫn **cách phát âm theo cụm** và lặp lại nhiều lần.
 
@@ -19,7 +21,7 @@ Các cụm từ này học được qua Daily Challenge của Lesson 2–5, gắ
 | do the gardening | have a party |
 | do some exercise | have a go |
 | do your best | have a look |
-| do a business with | have a haircut / have my hair cut |
+| do business with | have a haircut / have my hair cut |
 
 ## 02. GET / GO
 

@@ -8,6 +8,8 @@ priority: High
 
 # Past Tenses - Nhóm Thì Quá Khứ
 
+> **Vì sao bài này quan trọng cho IELTS Speaking Part 2?** Part 2 (Describe a memorable trip / event / experience) BUỘC phải kể bằng thì quá khứ. Sai `Did you went...?` hoặc chưa nhớ V2 bất quy tắc là "chết" Speaking Band 5. Bài này + bảng V2 = trang bị vũ khí cho Part 2.
+
 ## 01. Past Simple - Quá Khứ Đơn
 
 ### Khi nào dùng?

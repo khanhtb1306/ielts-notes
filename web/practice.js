@@ -420,6 +420,22 @@
         score: graded.score,
         total: graded.total,
         breakdown: graded.breakdown,
+        detail: (graded.detail || []).map((d) => ({
+          i: d.i,
+          ok: d.ok,
+          topic: d.topic,
+          ans: d.ans,
+          q: {
+            id: d.q.id,
+            kind: d.q.kind,
+            prompt: d.q.prompt,
+            promptHtml: d.q.promptHtml,
+            correctAnswer: d.q.correctAnswer,
+            blanks: (d.q.blanks || []).map((b) => ({ answers: b.answers })),
+            pairs: d.q.pairs,
+            explanationHtml: d.q.explanationHtml
+          }
+        })),
         answers: session.answers,
         questions: session.questions,
         submittedAt: session.submittedAt
@@ -491,7 +507,7 @@
     let session = sid ? loadSession(sid) : null;
     if (!session && opts && opts.historyId) {
       const h = loadHistory().find((x) => x.id === opts.historyId);
-      if (h) session = { id: h.id, config: h.config, questions: h.questions, answers: h.answers, presetLabel: h.presetLabel, submittedAt: h.submittedAt, result: { score: h.score, total: h.total, breakdown: h.breakdown, detail: [] } };
+      if (h) session = { id: h.id, config: h.config, questions: h.questions, answers: h.answers, presetLabel: h.presetLabel, submittedAt: h.submittedAt, result: { score: h.score, total: h.total, breakdown: h.breakdown, detail: h.detail || [] } };
     }
     if (!session || !session.result) return `<pre class="callout warn">Không có kết quả cho phiên này.</pre>`;
     const r = session.result;

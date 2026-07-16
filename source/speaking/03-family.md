@@ -2,7 +2,7 @@
 title: Family
 vi: Gia đình
 skill: Speaking
-lessons: Lesson 9
+lessons: Lesson 4-9
 priority: High
 ---
 

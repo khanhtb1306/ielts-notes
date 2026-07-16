@@ -8,6 +8,8 @@ priority: High
 
 # Pronouns - Đại Từ
 
+> **Vì sao bài này quan trọng cho IELTS Speaking & Writing?** Học viên Việt hay lặp lại danh từ ("My mother … my mother …") → nghe robotic, mất điểm Fluency. Dùng đại từ đúng (subject/object/reflexive) làm câu tự nhiên và cohesive hơn — trực tiếp lên Band 5.5+.
+
 Đại từ dùng để **thay thế cho danh từ** (chung hoặc riêng), tránh lặp lại.
 
 Ví dụ: *Mary is a teacher.* → ***She** is a teacher.*

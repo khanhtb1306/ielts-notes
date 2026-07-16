@@ -40,6 +40,9 @@
       s.onerror = () => reject(new Error(`Failed to load dist/daily/${key}.js`));
       document.head.appendChild(s);
     });
+    // Clear the pending slot after settle so a failed load can be retried
+    // by a subsequent call (previous behaviour re-served the rejected promise).
+    pending[key].catch(() => {}).finally(() => { delete pending[key]; });
     return pending[key];
   }
   APP.loadDailyLesson = loadDailyLesson;

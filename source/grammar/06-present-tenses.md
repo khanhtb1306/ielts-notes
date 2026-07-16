@@ -8,6 +8,8 @@ priority: High
 
 # Present Tenses - Nhóm Thì Hiện Tại
 
+> **Vì sao bài này quan trọng cho IELTS Speaking Part 1?** Part 1 (self / hobbies / hometown / daily routine) dùng chủ yếu Present Simple. Sai `He work` (thiếu `-s`) hoặc lẫn Present Simple với Continuous là dấu hiệu Band 4-5 rõ ràng. Nắm chắc bài này = mở khoá 70% câu Speaking Part 1.
+
 ## 00. Verb Là Gì?
 
 Verb (động từ) thường là **từ chỉ hành động** - cho biết người, vật đang làm gì: *read, sing, climb, go, listen.*

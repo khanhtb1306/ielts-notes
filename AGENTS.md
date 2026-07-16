@@ -2,10 +2,14 @@
 
 ## Project Shape
 
-- Static offline Pre-IELTS notes + daily practice app. Runtime entrypoint = root `index.html` (self-contained; kể cả mở `file://`).
-- **Không bao giờ sửa `index.html` bằng tay** — đó là output của `build.mjs`.
-- Content ở `source/`, presentation ở `web/`, build ở `build.mjs`. Bundle output = `index.html` (inline) + `dist/daily/lesson-XX.js` (lazy-loaded chunks).
-- Scope hiện tại: Lesson 1–15 Notes + 16 daily lessons (L1-15 + `lesson-misc` Break/ôn) + Final Practice generator.
+Repo hiện có **2 stack song song** trong quá trình migrate:
+
+- **React app (chuẩn mới, active)**: `next/` — Vite + React 19 + TypeScript + Tailwind + shadcn/ui + Zustand + React Router 6 (HashRouter). Deploy target = GitHub Pages qua `.github/workflows/deploy.yml`.
+- **Vanilla app (legacy, giữ để reference)**: `web/` + `build.mjs` + root `index.html`. Vẫn build được (`npm run build` ở repo root) nhưng không còn được active phát triển.
+
+Content chung ở `source/` (markdown + JSON). Cả 2 stack đều đọc từ đó.
+
+**Scope hiện tại**: Lesson 1–15 Notes + 16 daily lessons (L1-15 + `lesson-misc` Break/ôn) + Final Practice generator.
 
 ## Content sources
 
@@ -41,69 +45,93 @@ Mỗi lesson một folder `source/daily/lesson-XX/`:
   - `speakingQuestions`: bộ câu hỏi Final Speaking Test.
   - `practicePresets`: preset cho generator (`id, label, totalQuestions, mix[{topic,percent}], questionTypes`).
 
-## Build pipeline (`build.mjs`)
+## React pipeline (`next/`, chuẩn hiện tại)
 
-Main steps:
-1. `loadDir('pronunciation'|'grammar'|'speaking')` — Notes markdown.
-2. `loadDaily()`:
-   - Đọc `topics-map.json` → tạo `ctx` (noteKeywords, hints, overrides, speakingQuestions, presets).
-   - Với mỗi `lesson-XX/`: `normalizeLesson()` = merge content + exercises + submission + raw challenges (để lấy options) + audio/image manifests. Tag topics qua `tagWithTopics()`. Group exercises theo challenge.
-   - Emit `dist/daily/lesson-XX.js` (chunk `window.__DAILY__[key]`).
-   - Build `topicsIndex` (chỉ chứa refs `{ lessonKey, kind, itemId, role, qkind }`, giữ inline nhẹ).
-3. Concat 4 module JS: `app.js` + `daily.js` + `topics.js` + `practice.js` + bootstrap `window.APP.init()`.
-4. `safeJson()` escape `</script>` để nhúng an toàn.
-5. Replace 3 marker trong `template.html`: `/*__STYLES__*/`, `/*__DATA__*/`, `/*__APP__*/`.
+- **Preprocess**: [next/scripts/preprocess.mjs](next/scripts/preprocess.mjs) port từ vanilla `build.mjs`. Đọc `source/` → sinh typed TS modules vào `next/src/data/`:
+  - `notes.ts` — 26 docs + meta + audio bank + IPA.
+  - `topics.ts` — topicsIndex + topicLabels + speakingQuestions + presets.
+  - `daily-index.ts` — 16 LessonSummary.
+  - `daily/lesson-XX.ts` — 16 Lesson chunks (lazy import).
+  - `daily-loader.ts` — key → () => Promise<Lesson>.
+- **Asset serving**: [next/scripts/vite-plugin-assets.mjs](next/scripts/vite-plugin-assets.mjs). Dev: middleware serve `/audio/*` + `/source/daily/*/images/*` từ repo root. Build: copy sang `next/dist/`.
+- **Types**: [next/src/types/content.ts](next/src/types/content.ts) — Question, Block, Lesson, TopicRef, Preset...
+- **Router**: HashRouter → `/#/daily/lesson-01`. 12 routes (Landing, Course, 3 Notes, Final, Daily index/detail, Topics index/detail, Practice/Runner/Result).
+- **State (Zustand)**:
+  - `data.ts` — thin selector over generated data.
+  - `practice.ts` — current session (sessionStorage).
+  - `history.ts` — max 50 entries (localStorage persist, key `ielts-practice-history`).
+  - `flashcard.ts` — Leitner per scope (`ielts-flashcard-progress`).
+  - `progress.ts` — Final Review checklist (`ielts-final-progress`).
+  - `theme.ts` — light/dark/system (`ielts-theme`).
+  - `ui.ts` — search + mobile menu.
+- **Grading**: [next/src/lib/grading.ts](next/src/lib/grading.ts) — 5 kinds. Fill_blank normalize case + whitespace.
+- **Sampling**: [next/src/lib/sample-pool.ts](next/src/lib/sample-pool.ts) — seeded Mulberry32 + largest-remainder rounding.
+- **Markdown**: [next/src/lib/markdown.ts](next/src/lib/markdown.ts) — mdToHtml → `dangerouslySetInnerHTML`.
+- **UI**: shadcn/ui components handcrafted trong [next/src/components/ui/](next/src/components/ui/).
 
-## Client architecture
+## Legacy vanilla pipeline (`build.mjs`, still functional)
 
-**`web/app.js`** publish `window.APP` — shell + Notes:
-- `APP.state = { page, opts }`, `APP.data = { docs, meta, audio, ipa, dailyIndex, topicsIndex, topicLabels, speakingQuestions, presets }`.
-- `APP.NAV`, `APP.TITLE`, `APP.SUB`, `APP.EYEBROW`, `APP.renderers`, `APP.wirers` — extend qua `push()` / assignment.
-- `APP.helpers.{el, esc, inline, slug, mdToHtml, audioHtml, audioById, speak, dictLookup, playUrl, ...}`.
-- `APP.go(page, opts)`, `APP.render(scrollToId)`, `APP.buildNav()`, `APP.init()`.
-- `render()` async: renderer trả string hoặc Promise<string>.
+Giữ để reference / rollback. Đầu vào giống hệt (`source/`). Output: root `index.html` + `dist/daily/lesson-XX.js`. Không active phát triển. Chi tiết pipeline cũ:
 
-**`web/daily.js`** — Daily · By Lesson:
-- `APP.loadDailyLesson(key)` — inject `<script src="dist/daily/lesson-XX.js">`, cache vào `window.__DAILY__`.
-- Renderers: `daily` (index 16 card), `daily-lesson` (detail + tabs Study/Exercises/Flashcard).
+1. `loadDir()` — Notes markdown.
+2. `loadDaily()` normalize lesson + tag topics + build topicsIndex.
+3. Emit `dist/daily/lesson-XX.js` chunks + inline `__DATA__`.
+4. Concat 4 module JS + replace 3 markers trong `web/template.html`.
 
-**`web/topics.js`** — Daily · By Topic:
-- Renderers: `topics` (grouped by skill), `topic-detail` (aggregates via refs, tab Study/Exercises/Flashcard/Speaking Q).
-
-**`web/practice.js`** — Final Practice:
-- `samplePool({ mix, total, seed, questionTypes, roles })` — seeded random per topic, largest-remainder rounding.
-- Session lưu `sessionStorage`. History lưu `localStorage` (`ielts-practice-history`, max 50).
-- Renderers: `practice` (form + preset picker + 5 phiên gần nhất), `practice-runner` (question-by-question), `practice-result` (score + breakdown + review sai).
-- Grading: single_choice/multi_select bằng ID; fill_blank case-insensitive normalize; matching bằng rightId.
+Client: `web/app.js` (shell + Notes) + `web/daily.js` + `web/topics.js` + `web/practice.js` extend qua `window.APP`.
 
 ## Commands
 
-- Build: `npm run build`
-- Dev serve: `npm start` (build + http-server) hoặc `npm run serve`
-- Syntax check bundle:
-  ```
-  node -e "const fs=require('fs'); const h=fs.readFileSync('index.html','utf8'); [...h.matchAll(/<script>([\s\S]*?)<\/script>/g)].forEach((m,i)=>{try{new Function(m[1]);console.log('#'+i+':OK')}catch(e){console.error('#'+i+':'+e.message)}})"
-  ```
+**React (chuẩn)**:
 
-Không có test / lint / CI.
+```bash
+cd next
+npm install
+npm run dev       # http://localhost:5173
+npm run build     # tsc -b && vite build → next/dist
+npm run preview   # local preview
+```
 
-## Editing Guidance
+**Vanilla legacy**:
+
+```bash
+npm run build     # ở repo root, output → index.html + dist/daily/*.js
+npm start         # build + http-server
+```
+
+**Audit scripts** (giữ ở repo root `scripts/`):
+
+```bash
+node scripts/audit-media.mjs
+node scripts/audit-curriculum.mjs
+node scripts/audit-data.mjs
+```
+
+Không có test / lint / CI ngoài GH Pages deploy (`.github/workflows/deploy.yml`).
+
+## Editing Guidance (React chuẩn)
 
 - Giữ tiếng Việt learner-facing.
-- Notes-first UI, chỉ page `practice` mới có interactive quiz.
-- Không sửa `index.html` bằng tay.
-- Khi thêm lesson daily: thả folder chuẩn (manifest + 5 json + audio + images + raw) rồi build.
-- Sửa taxonomy → `source/daily/topics-map.json` → build.
-- Thêm route mới: append `NAV`, `TITLE`, `SUB` vào từng `bootXxx()` module IIFE, add renderer + wirer. Đừng đụng vào `app.js` cho page mới.
-- Thêm Notes audio: file vào `audio/`, entry vào `web/enrich/audio.json` (map theo số câu trong markdown).
-- Thêm accent color cho page mới: sửa `styles.css` phần `.app[data-page="X"]`.
+- Notes-first UI: reveal câu đúng chỉ ở Practice runner + result. Study/Exercises tabs của Daily luôn hiển thị đáp án (đây là chế độ ôn).
+- Khi thêm lesson daily: thả folder chuẩn vào `source/daily/lesson-XX/` (manifest + 5 json + audio + images + raw) rồi restart `npm run dev` để `predev` sinh lại `src/data/`.
+- Sửa taxonomy → `source/daily/topics-map.json` → restart dev.
+- Thêm route mới: (1) thêm entry vào [next/src/lib/nav.ts](next/src/lib/nav.ts) NAV array, (2) tạo page component trong `next/src/pages/`, (3) add `<Route>` trong [next/src/App.tsx](next/src/App.tsx).
+- Thêm Notes audio: file vào `audio/`, entry vào `web/enrich/audio.json` (React app đọc chung file này qua preprocess). Map theo số `num` khớp với `[[audio:N]]` marker trong markdown.
+- Thêm shadcn/ui component mới: handcraft vào `next/src/components/ui/` (không dùng `npx shadcn add` vì network flaky).
 
 ## Common Pitfalls
 
-- **`</script>` trong template literal** sẽ đóng tag `<script>` sớm. Luôn viết `<\/script>` trong `.js` khi có tag script trong string.
-- **File path relative**: audio ở `audio/daily/lesson-XX/...` (repo root). Image ở `source/daily/lesson-XX/images/...`. Cả 2 relative từ `index.html` ở repo root — không đụng.
-- **Lazy load qua `<script src>` chạy trên `file://`** vì browser cho phép; nhưng `fetch()` thì không. Đừng chuyển sang fetch.
-- **Không lint script inside HTML**: chỉ có thể catch lỗi qua `new Function()` — chạy sanity check sau mọi build.
+- **HashRouter đường dẫn**: URL luôn có `#/`. `<Link to="/daily">` → `#/daily`. Đừng dùng `BrowserRouter` vì GH Pages sẽ 404 trên deep links.
+- **File path assets**: audio ở `audio/daily/lesson-XX/...` + image ở `source/daily/lesson-XX/images/...`. Preprocess giữ nguyên path → `assetsPlugin` serve/copy tương ứng. Đừng đổi convention.
+- **Preprocess không watch**: sửa file trong `source/` thì phải restart `npm run dev` để chạy lại `predev` hook. Không tự động hot-reload data.
+- **`src/data/` là generated**: đã gitignore, không commit.
+- **TypeScript 6+ deprecates `baseUrl`**: chỉ dùng `paths` alone trong tsconfig.
+
+### Legacy vanilla pitfalls (chỉ áp dụng nếu edit `web/`)
+
+- `</script>` trong template literal → viết `<\/script>` để escape.
+- Lazy load qua `<script src>` chạy trên `file://`; đừng chuyển sang `fetch()`.
+- Không lint script inside HTML, chỉ catch qua `new Function()`.
 
 ## GitHub
 
@@ -115,6 +143,10 @@ Không có test / lint / CI.
 
 ## Roadmap
 
-- [ ] Fine-tune per-question topic tagging (hiện đang tag theo challenge, over-tag khi challenge cover nhiều topic).
-- [ ] Thêm markdown notes cho `hometown`, `daily-routine`, `health-illness` (đánh dấu `needsNotes: true`).
-- [ ] Cân nhắc migrate sang React sau khi feature ổn định.
+- [x] Fine-tune per-question topic tagging (đã cải thiện trong audit Phase 7 — thu hẹp `noteKeywords`, thêm compound domain keywords).
+- [x] Thêm markdown notes cho `hometown`, `daily-routine`, `health-illness` (đã có).
+- [x] Migrate sang React (10 milestone M0-M10 đã complete — `next/`).
+- [ ] Sau khi verify React version stable, xoá vanilla `web/` + `build.mjs` + root `index.html` + `dist/` cũ.
+- [ ] Fuse.js fuzzy search cross-page (M9 skip).
+- [ ] Prereq badge trên Daily card + "Giáo viên nói gì" section trong Topic detail (cần schema migration).
+- [ ] Extract text từ `slides/*.pptx` để cross-check curriculum (optional, cần dev-dep).

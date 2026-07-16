@@ -1,12 +1,14 @@
 ---
-title: Weekend / Free time
-vi: Cuối tuần và thời gian rảnh
+title: Hobbies · Weekend & Free time
+vi: Sở thích, cuối tuần và thời gian rảnh
 skill: Speaking
-lessons: Lesson 13
+lessons: Lesson 12-13
 priority: High
 ---
 
-# Weekend / Free Time - Cuối Tuần Và Thời Gian Rảnh
+# Hobbies · Weekend / Free Time - Sở Thích Và Thời Gian Rảnh
+
+Chủ đề `hobbies` trong Speaking bank tương ứng với note này. Bao gồm hoạt động cuối tuần, thể thao, giải trí — tất cả các câu hỏi "What do you do in your free time?", "Do you like sports?", "Do you like movies?" đều nằm ở đây.
 
 ## 01. What do you often do on the weekend / in your free time?
 

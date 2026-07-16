@@ -8,6 +8,8 @@ priority: High
 
 # Vowels - Nguyên Âm
 
+> **Vì sao bài này quan trọng cho IELTS Speaking & Listening?** Học viên Việt hay đọc nguyên âm chỉ 1 tone ngắn duy nhất (`sheep` giống `ship`, `pen` giống `pan`) — làm examiner nghe lẫn nghĩa. IELTS Listening cũng test cặp `/iː/` vs `/ɪ/` liên tục. Phân biệt được vowel dài/ngắn/đôi = giảm mất điểm oan.
+
 Tiếng Anh có **20 nguyên âm**: 12 monophthongs (nguyên âm đơn) và 8 diphthongs (nguyên âm đôi). Nguyên âm quyết định số âm tiết của từ.
 
 > [!tip] Cách học

@@ -8,6 +8,8 @@ priority: High
 
 # Nouns & Quantifiers - Danh Từ Và Lượng Từ
 
+> **Vì sao bài này quan trọng cho IELTS Task 1 & Task 2?** Danh từ là "khung sườn" của mọi câu. Sai countable/uncountable là lỗi Band 4-5 điển hình (VD `many money`, `an information`). Nắm chắc quantifier giúp bạn viết câu miêu tả biểu đồ Task 1 tự nhiên (*a few students, a little water, a lot of tourists*).
+
 ## 01. Common vs Proper Nouns
 
 - **Common noun** (danh từ chung): người, con vật, nơi chốn, vật nói chung → teacher, cat, office.

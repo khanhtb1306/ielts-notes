@@ -8,6 +8,8 @@ priority: High
 
 # Modal Verbs - Động Từ Khuyết Thiếu
 
+> **Vì sao bài này quan trọng cho IELTS Writing Task 2 & Speaking Part 3?** Task 2 opinion/argumentative essay dùng nhiều modal cho suy đoán (`may/might`), khuyến nghị (`should`), khả năng (`can`). Speaking Part 3 giả định trả lời cũng thế. Sai `mustn't` (cấm) với `don't have to` (không cần) là lỗi kinh điển làm mất điểm — nắm chắc bài này để nói ideas rõ nghĩa.
+
 Modal verb là **trợ động từ** diễn tả: ability (khả năng), permission (xin phép), advice (lời khuyên), obligation (nghĩa vụ), possibility/probability (khả năng, suy đoán).
 
 ## 01. Công Thức & Quy Tắc

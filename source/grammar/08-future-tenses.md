@@ -8,6 +8,8 @@ priority: High
 
 # Future Tenses - Nhóm Tương Lai
 
+> **Vì sao bài này quan trọng cho IELTS Speaking Part 3?** Part 3 examiner hay hỏi "How will X change in the future?", "Do you think people will…?". Không phân biệt `will` (quyết định lúc nói) vs `be going to` (kế hoạch có sẵn) là dấu hiệu Band 5. Nắm được cả 2 = Band 6+.
+
 ## 01. Future Simple - `will`
 
 ### Khi nào dùng?

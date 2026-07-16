@@ -8,6 +8,8 @@ priority: High
 
 # Consonants - Phụ Âm
 
+> **Vì sao bài này quan trọng cho IELTS Speaking?** 3 âm khó nhất với học viên Việt là `/θ/` (think), `/ð/` (this), `/ʃ/` (shop) — không tồn tại trong tiếng Việt. Đọc nhầm `/θ/` thành `/t/` (thank → tank) mất điểm Pronunciation ngay lập tức. Bảng dưới liệt kê cặp voice/voiceless để luyện theo hệ thống.
+
 Tiếng Anh có **24 phụ âm**, chia thành 2 nhóm: **voiced (hữu thanh)** - dây thanh rung, và **unvoiced (vô thanh)** - dây thanh không rung. Nhiều phụ âm đi thành cặp cùng khẩu hình, chỉ khác rung/không rung.
 
 ## 01. Các Cặp Vô Thanh - Hữu Thanh

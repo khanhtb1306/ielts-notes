@@ -8,6 +8,8 @@ priority: High
 
 # Articles & Determiners - Mạo Từ Và Từ Hạn Định
 
+> **Vì sao bài này quan trọng cho IELTS Writing?** `a/an/the` là lỗi ngữ pháp Band 4-5 phổ biến nhất của học viên Việt (tiếng Việt không có mạo từ). Task 1 & Task 2 examiner đọc câu đầu là biết bạn dùng article đúng hay không → ảnh hưởng trực tiếp Grammatical Range & Accuracy.
+
 Determiners đứng trước danh từ để xác định danh từ đó. Gồm: articles (a/an/the), possessive (my, your...), demonstrative (this/that...), numerals, ordinals, quantifiers.
 
 ## 01. Articles - Mạo Từ

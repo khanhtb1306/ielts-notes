@@ -68,7 +68,7 @@ Câu ngắn khoe thiên nhiên. Học 1 danh từ + 1 tính từ mô tả là đ
 
 ## 06. Cách Đọc / Stress
 
-- ho·me·**town** — nhấn âm cuối: /ˈhoʊm.taʊn/.
+- **ho**·me·town — nhấn âm đầu: /ˈhoʊm.taʊn/.
 - **peace**·ful — nhấn âm đầu; đọc rõ /iː/ dài.
 - **cost** of **liv**·ing — nối "cost-of" thành /kɒstəv/.
 - **cro·wded** — /ˈkraʊ.dɪd/, chú ý /aʊ/.

@@ -8,6 +8,8 @@ priority: High
 
 # Reading IPA, Stress & Telling Time
 
+> **Vì sao bài này quan trọng cho IELTS Speaking Pronunciation criterion?** Speaking chấm 25% trên Pronunciation. Sai stress (`ho·me·**town**` thay vì `**home**·town`) làm examiner khó hiểu → tụt Band 4. Đọc IPA giúp bạn tự tra từ mới mà không lệ thuộc giáo viên — lifetime skill.
+
 ## 01. Quy Trình Đọc Phiên Âm
 
 1. **Xác định số âm tiết** = số nguyên âm trong từ.
