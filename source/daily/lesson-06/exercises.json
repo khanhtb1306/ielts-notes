@@ -1,0 +1,584 @@
+{
+  "lesson": 6,
+  "lessonKey": "lesson-06",
+  "questions": [
+    {
+      "id": "question-283279",
+      "sourceQuestionId": 283279,
+      "challengeId": 30043,
+      "classChallengeId": "81289",
+      "title": "Vocabulary: Jobs",
+      "type": 1,
+      "prompt": "Vocabulary: Jobs",
+      "introductionText": "Exercise 1. What do these people do? Read the paragraphs and fill in the blanks with the most suitable job. (Những người này làm nghề gì? Đọc các đoạn văn và điền vào chỗ trống công việc phù hợp nhất.)\n\na nurse\n\n |\n\na flight attendant\n\n |\n\na salesperson\n\n |\n\nan actor/an actress\n\n |\n\na construction worker\n\n |\n\na chef\n\n |",
+      "contentText": "",
+      "answerTemplateText": "1. I'm [input_0]. I sell computers. I like my job. It's really interesting. And I meet lots of interesting people.\n\n2.  I'm [input_1]. Yes, I like it a lot. I like acting in front of lots of people. One day I hope to write a book about my work.\n\n3. I'm [input_2]. It's an interesting job, and it's good for me because I love traveling and flying. I visit lots of countries every year. And well, I know it's silly, but I like my uniform.\n\n4.  I'm [input_3]. It's a good job for me because I like food and I love cooking. Lots of famous people come to our restaurant, too.\n\n5.  I'm [input_4]. Nursing is a good job for me. I like helping people—you know, sick people.\n\n6.  I'm [input_5]. I like my work because I work outside. It's hard work, but the pay's good and it keeps me in shape.",
+      "explanationText": "Giải thích: Người \"salesperson\" (nhân viên bán hàng) là người bán sản phẩm (ở đây là máy tính) và gặp gỡ nhiều người. Dịch nghĩa: Tôi là một nhân viên bán hàng. Tôi bán máy tính. Tôi thích công việc của mình. Nó thực sự thú vị. Và tôi gặp rất nhiều người thú vị.\n\nGiải thích: \"Actor/actress\" (diễn viên) là người thích diễn xuất trước nhiều người và có thể viết sách về công việc của mình. Dịch nghĩa: Tôi là một diễn viên/nữ diễn viên. Vâng, tôi rất thích nó. Tôi thích diễn xuất trước nhiều người. Một ngày nào đó tôi hy vọng sẽ viết một cuốn sách về công việc của mình.\n\nGiải thích: \"Flight attendant\" (tiếp viên hàng không) là người thích đi du lịch, bay lượn và ghé thăm nhiều quốc gia, đồng thời thích đồng phục. Dịch nghĩa: Tôi là một tiếp viên hàng không. Đó là một công việc thú vị, và nó tốt cho tôi vì tôi thích đi du lịch và bay lượn. Tôi ghé thăm rất nhiều quốc gia mỗi năm. Và tôi biết điều đó thật ngớ ngẩn, nhưng tôi thích bộ đồng phục của mình.\n\nGiải thích: \"Chef\" (đầu bếp) là người thích đồ ăn, yêu thích nấu nướng và làm việc trong nhà hàng có nhiều người nổi tiếng ghé thăm. Dịch nghĩa: Tôi là một đầu bếp. Đó là một công việc tốt cho tôi vì tôi thích đồ ăn và tôi yêu thích nấu nướng. Rất nhiều người nổi tiếng cũng đến nhà hàng của chúng tôi.\n\nGiải thích: \"Nurse\" (y tá) là người thích giúp đỡ người khác, đặc biệt là những người bị ốm. Dịch nghĩa: Tôi là một y tá. Nghề y tá là một công việc tốt đối với tôi. Tôi thích giúp đỡ mọi người—bạn biết đấy, những người ốm.\n\nGiải thích: \"Construction worker\" (công nhân xây dựng) là người thích làm việc ngoài trời, công việc vất vả nhưng được trả lương tốt và giúp giữ dáng. Dịch nghĩa: Tôi là một công nhân xây dựng. Tôi thích công việc của mình vì tôi làm việc ngoài trời. Đó là công việc vất vả, nhưng lương tốt và nó giúp tôi giữ dáng.",
+      "rawHtml": {
+        "title": "Vocabulary: Jobs",
+        "introduction": "<p><span id=\"docs-internal-guid-d031db36-7fff-bab7-36dc-ac5a29c08f6b\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: transparent; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 1. What do these people do? Read the paragraphs and fill in the blanks with the most suitable job.</span><span style=\"color: #242938; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> (Những người n&agrave;y l&agrave;m nghề g&igrave;? Đọc c&aacute;c đoạn văn v&agrave; điền v&agrave;o chỗ trống c&ocirc;ng việc ph&ugrave; hợp nhất.)</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span id=\"docs-internal-guid-30276402-7fff-dd2c-b854-7d0bccf4bf8c\"></span></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 451.27559055118115pt;\"><colgroup><col /><col /><col /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a nurse</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a flight attendant</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a salesperson</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">an actor/an actress</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a construction worker</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a chef</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. I'm </span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_0]</span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. I sell computers. I like my job. It's really interesting. And I meet lots of interesting people.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.  I'm </span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. Yes, I like it a lot. I like acting in front of lots of people. One day I hope to write a book about my work.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. I'm </span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_2]</span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. It's an interesting job, and it's good for me because I love traveling and flying. I visit lots of countries every year. And well, I know it's silly, but I like my uniform.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.  I'm </span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_3]</span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. It's a good job for me because I like food and I love cooking. Lots of famous people come to our restaurant, too.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5.  I'm </span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_4]</span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. Nursing is a good job for me. I like helping people—you know, sick people.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6.  I'm </span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_5]</span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. I like my work because I work outside. It's hard work, but the pay's good and it keeps me in shape.</span></span></p>\n<p><span id=\"docs-internal-guid-1670c6d5-7fff-15aa-f8a5-bb6f3310a85f\"></span></p>",
+        "explain": "<ol>\n<li>\n<p><strong>Giải thích:</strong> Người <strong>\"salesperson\"</strong> <em>(nhân viên bán hàng)</em> là người bán sản phẩm (ở đây là máy tính) và gặp gỡ nhiều người. <em><strong>Dịch nghĩa:</strong> Tôi là một nhân viên bán hàng. Tôi bán máy tính. Tôi thích công việc của mình. Nó thực sự thú vị. Và tôi gặp rất nhiều người thú vị.</em></p>\n</li>\n<li>\n<p><strong>Giải thích:</strong> <strong>\"Actor/actress\"</strong> <em>(diễn viên)</em> là người thích diễn xuất trước nhiều người và có thể viết sách về công việc của mình. <em><strong>Dịch nghĩa:</strong> Tôi là một diễn viên/nữ diễn viên. Vâng, tôi rất thích nó. Tôi thích diễn xuất trước nhiều người. Một ngày nào đó tôi hy vọng sẽ viết một cuốn sách về công việc của mình.</em></p>\n</li>\n<li>\n<p><strong>Giải thích:</strong> <strong>\"Flight attendant\"</strong> <em>(tiếp viên hàng không)</em> là người thích đi du lịch, bay lượn và ghé thăm nhiều quốc gia, đồng thời thích đồng phục. <em><strong>Dịch nghĩa:</strong> Tôi là một tiếp viên hàng không. Đó là một công việc thú vị, và nó tốt cho tôi vì tôi thích đi du lịch và bay lượn. Tôi ghé thăm rất nhiều quốc gia mỗi năm. Và tôi biết điều đó thật ngớ ngẩn, nhưng tôi thích bộ đồng phục của mình.</em></p>\n</li>\n<li>\n<p><strong>Giải thích:</strong> <strong>\"Chef\"</strong> <em>(đầu bếp)</em> là người thích đồ ăn, yêu thích nấu nướng và làm việc trong nhà hàng có nhiều người nổi tiếng ghé thăm.<em> <strong>Dịch nghĩa:</strong> Tôi là một đầu bếp. Đó là một công việc tốt cho tôi vì tôi thích đồ ăn và tôi yêu thích nấu nướng. Rất nhiều người nổi tiếng cũng đến nhà hàng của chúng tôi.</em></p>\n</li>\n<li>\n<p><strong>Giải thích:</strong> <strong>\"Nurse\"</strong> <em>(y tá)</em> là người thích giúp đỡ người khác, đặc biệt là những người bị ốm. <em><strong>Dịch nghĩa:</strong> Tôi là một y tá. Nghề y tá là một công việc tốt đối với tôi. Tôi thích giúp đỡ mọi người—bạn biết đấy, những người ốm.</em></p>\n</li>\n<li>\n<p><strong>Giải thích:</strong> <strong>\"Construction worker\"</strong> <em>(công nhân xây dựng)</em> là người thích làm việc ngoài trời, công việc vất vả nhưng được trả lương tốt và giúp giữ dáng. <em><strong>Dịch nghĩa:</strong> Tôi là một công nhân xây dựng. Tôi thích công việc của mình vì tôi làm việc ngoài trời. Đó là công việc vất vả, nhưng lương tốt và nó giúp tôi giữ dáng.</em></p>\n</li>\n</ol>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 6,
+        "totalCorrect": 6,
+        "userAnswer": {
+          "input_0": "a salesperson",
+          "input_1": "an actor",
+          "input_2": "a flight attendant",
+          "input_3": "a chef",
+          "input_4": "a nurse",
+          "input_5": "a construction worker"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "a salesperson"
+          ],
+          "input_1": [
+            "an actor",
+            "an actress"
+          ],
+          "input_2": [
+            "a flight attendant"
+          ],
+          "input_3": [
+            "a chef"
+          ],
+          "input_4": [
+            "a nurse"
+          ],
+          "input_5": [
+            "a construction worker"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-283280",
+      "sourceQuestionId": 283280,
+      "challengeId": 30043,
+      "classChallengeId": "81289",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2. Read the conversations 1-7 on the left and match the names with the photos.  (Đọc các đoạn hội thoại từ 1-7 bên trái và nối tên với hình ảnh thích hợp.)\n\n \n\nTed\n\n |\n\nSonia\n\n |\n\nBob\n\n |\n\nMarie\n\n |\n\nSuzanne\n\n |\n\n Martha\n\n |\n\nFred\n\n |",
+      "introductionText": "Exercise 2. Read the conversations 1-7 on the left and match the names with the photos.  (Đọc các đoạn hội thoại từ 1-7 bên trái và nối tên với hình ảnh thích hợp.)\n\n \n\nTed\n\n |\n\nSonia\n\n |\n\nBob\n\n |\n\nMarie\n\n |\n\nSuzanne\n\n |\n\n Martha\n\n |\n\nFred\n\n |",
+      "contentText": "",
+      "answerTemplateText": "A. [input_0]\n\nB. [input_1]\n\nC. [input_2]\n\nD. [input_3]\n\nE. [input_4]\n\nF. [input_5]\n\nG. [input_6]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-d9609ffc-7fff-1d07-36c3-72ea4f0567e3\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: transparent; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 2. Read the conversations 1-7 on the left and match the names with the photos. </span><span style=\"color: #242938; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> (Đọc các đoạn hội thoại từ 1-7 bên trái và nối tên với hình ảnh thích hợp.)</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span id=\"docs-internal-guid-858ae64e-7fff-d912-a9c1-e2f12679d8a8\"></span></span></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 451.27559055118115pt;\"><colgroup><col /><col /><col /><col /><col /><col /><col /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Ted</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sonia</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Bob</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Marie</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Suzanne</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> Martha</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Fred</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\">A. [input_0]</p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><img src=\"https://img.freepik.com/free-photo/front-view-lawyer-portrait_23-2151202373.jpg\" alt=\"Front view  lawyer portrait\" width=\"558\" height=\"372\" /></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\">B. <span style=\"color: #000000; background-color: transparent;\">[input_1]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"color: #000000; background-color: transparent;\"><img src=\"https://img.freepik.com/free-photo/man-talking-with-female-sales-person-car-show-room_1303-17083.jpg\" alt=\"Man talking with female sales person in a car show room\" width=\"544\" height=\"362\" /></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"color: #000000; background-color: transparent;\">C. <span style=\"color: #000000; background-color: transparent;\">[input_2]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\"><img src=\"https://img.freepik.com/free-photo/woman-home-with-notepad-notebook-thinking-about-plans_343596-4092.jpg\" alt=\"Woman at home with notepad notebook thinking about plans\" width=\"560\" height=\"372\" /></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\">D. <span style=\"color: #000000; background-color: transparent;\">[input_3]</span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\"><img src=\"https://img.freepik.com/free-photo/businessman-looking-wrist-watch_23-2148308539.jpg\" alt=\"Businessman looking at wrist watch\" width=\"553\" height=\"369\" /></span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\">E. <span style=\"color: #000000; background-color: transparent;\">[input_4]</span></span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\"><img src=\"https://img.freepik.com/free-photo/smiling-showing-one-male-teacher-wearing-glasses-holding-number-fans-sitting-table-with-school-tools-classroom_141793-114349.jpg\" alt=\"Smiling showing one male teacher wearing glasses holding number fans sitting at table with school tools in classroom\" width=\"563\" height=\"373\" /></span></span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\">F. [input_5]</span></span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\"><img src=\"https://img.freepik.com/free-photo/man-stretching-arms-beach_23-2147648928.jpg\" alt=\"Man stretching arms at the beach\" width=\"555\" height=\"369\" /></span></span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\">G. [input_6] </span></span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\"><span style=\"color: #000000; background-color: transparent;\"><img src=\"https://img.freepik.com/free-photo/medium-shot-professional-chef-posing_23-2151232169.jpg\" alt=\"Medium shot professional chef posing\" width=\"585\" height=\"389\" /></span></span></span></span></p>\n<p><span id=\"docs-internal-guid-c18cd914-7fff-e83d-f75d-5ddd9fc2023d\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"> </div>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 7,
+        "totalCorrect": 7,
+        "userAnswer": {
+          "input_6": "Sonia",
+          "input_5": "Bob",
+          "input_1": "Suzanne",
+          "input_0": "Marie",
+          "input_4": "Fred",
+          "input_3": "ted",
+          "input_2": "Martha"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "Marie"
+          ],
+          "input_1": [
+            "Suzanne"
+          ],
+          "input_2": [
+            "Martha"
+          ],
+          "input_3": [
+            "Ted"
+          ],
+          "input_4": [
+            "Fred"
+          ],
+          "input_5": [
+            "Bob"
+          ],
+          "input_6": [
+            "Sonia"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": [
+        {
+          "url": "https://img.freepik.com/free-photo/front-view-lawyer-portrait_23-2151202373.jpg",
+          "localFile": null
+        },
+        {
+          "url": "https://img.freepik.com/free-photo/man-talking-with-female-sales-person-car-show-room_1303-17083.jpg",
+          "localFile": null
+        },
+        {
+          "url": "https://img.freepik.com/free-photo/woman-home-with-notepad-notebook-thinking-about-plans_343596-4092.jpg",
+          "localFile": null
+        },
+        {
+          "url": "https://img.freepik.com/free-photo/businessman-looking-wrist-watch_23-2148308539.jpg",
+          "localFile": null
+        },
+        {
+          "url": "https://img.freepik.com/free-photo/smiling-showing-one-male-teacher-wearing-glasses-holding-number-fans-sitting-table-with-school-tools-classroom_141793-114349.jpg",
+          "localFile": null
+        },
+        {
+          "url": "https://img.freepik.com/free-photo/man-stretching-arms-beach_23-2147648928.jpg",
+          "localFile": null
+        },
+        {
+          "url": "https://img.freepik.com/free-photo/medium-shot-professional-chef-posing_23-2151232169.jpg",
+          "localFile": null
+        }
+      ]
+    },
+    {
+      "id": "question-283281",
+      "sourceQuestionId": 283281,
+      "challengeId": 30043,
+      "classChallengeId": "81289",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 3. Read the conversations 1-5, then translate the sentences using words in the brackets. (Đọc các đoạn hội thoại từ 1-5, sau đó dịch câu sử dụng từ trong ngoặc.)",
+      "introductionText": "Exercise 3. Read the conversations 1-5, then translate the sentences using words in the brackets. (Đọc các đoạn hội thoại từ 1-5, sau đó dịch câu sử dụng từ trong ngoặc.)",
+      "contentText": "",
+      "answerTemplateText": "1. Tôi thực sự phát ngán vì nó. (sick)\n\n[input_0]\n\n2. Tôi được trả lương cao. (well-paid)\n\n[input_1]\n\n3. Tôi phải mất hai giờ để đi đến trường mỗi ngày. (take)\n\n[input_2]\n\n4. Rắc rối duy nhất là, tôi phải làm việc nhiều giờ liền. (trouble; long)\n\n[input_3]\n\n5. Nó là công việc khó khăn. (work)\n\n[input_4]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-3c7d7807-7fff-4fa5-11ed-345f1e3e6d32\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: #ffffff; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 3. Read the conversations 1-5, then translate the sentences using words in the brackets. </span><span style=\"color: #242938; background-color: #ffffff; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Đọc c&aacute;c đoạn hội thoại từ 1-5, sau đ&oacute; dịch c&acirc;u sử dụng từ trong ngoặc.)</span></span></p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. Tôi thực sự phát ngán vì nó. <em>(sick)</em></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_0]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. Tôi được trả lương cao. <em>(well-paid)</em></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. Tôi phải mất hai giờ để đi đến trường mỗi ngày. <em>(take)</em></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; background-color: #ffffff;\">[input_2]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. Rắc rối duy nhất là, tôi phải làm việc nhiều giờ liền. <em>(trouble; long)</em></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_3]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. Nó là công việc khó khăn. <em>(work)</em></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_4]</span></p>\n<p><span id=\"docs-internal-guid-842adcd2-7fff-cd25-66b3-a6a7a3a6b9d5\"></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 5,
+        "totalCorrect": 5,
+        "userAnswer": {
+          "input_0": "I'm really sick of it.",
+          "input_1": "I'm well-paid.",
+          "input_2": "It takes me two hours to get to school every day.",
+          "input_3": "The only trouble is, I have to work long hours.",
+          "input_4": "It's hard work."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "I'm really sick of it."
+          ],
+          "input_1": [
+            "I'm well-paid."
+          ],
+          "input_2": [
+            "It takes me two hours to go to school every day.",
+            "It takes me two hours to get to school every day.",
+            "It takes me 2 hours to go to school every day.",
+            "It takes me 2 hours to get to school every day."
+          ],
+          "input_3": [
+            "The only trouble is, I have to work long hours."
+          ],
+          "input_4": [
+            "It's hard work."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-283282",
+      "sourceQuestionId": 283282,
+      "challengeId": 30043,
+      "classChallengeId": "81289",
+      "title": null,
+      "type": 2,
+      "prompt": "Exercise 4. Nghiên cứu kĩ và ghi lại ít nhất 10 từ vựng/ cấu trúc/ câu hay + nghĩa có trong bài.\n\nVí dụ:\n\n- I do the same thing every day: Tôi làm đi làm lại 1 việc mỗi ngày.\n\n- try to find a new job: cố tìm một công việc mới",
+      "introductionText": "Exercise 4. Nghiên cứu kĩ và ghi lại ít nhất 10 từ vựng/ cấu trúc/ câu hay + nghĩa có trong bài.\n\nVí dụ:\n\n- I do the same thing every day: Tôi làm đi làm lại 1 việc mỗi ngày.\n\n- try to find a new job: cố tìm một công việc mới",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-d8293560-7fff-c797-c544-87d635d2b1cb\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: #ffffff; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 4. Nghi&ecirc;n cứu kĩ v&agrave; ghi lại &iacute;t nhất 10 từ vựng/ cấu tr&uacute;c/ c&acirc;u hay + nghĩa c&oacute; trong b&agrave;i.</span></span></p>\n<p><em><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">V&iacute; dụ: </span></span></em></p>\n<p><em><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">- I do the same thing every day: T&ocirc;i l&agrave;m đi </span></span></em><span style=\"color: #242938; font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\"><em>l&agrave;m lại 1 việc mỗi ng&agrave;y.</em></span></span></p>\n<p><span style=\"color: #242938; font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\"><em>- try to find a new job: cố t&igrave;m một c&ocirc;ng việc mới</em></span></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "1. love working with kids = thích làm việc với trẻ em\n2. what do you like best about it? = bạn thích nhất điều gì ở nó?\n3. make all the difference = tạo nên sự khác biệt lớn\n4. the only trouble is = rắc rối duy nhất là\n5. travel a lot = đi công tác/di chuyển nhiều\n6. get to meet so many people = được gặp rất nhiều người\n7. long hours = giờ làm việc kéo dài\n8. hard work = công việc vất vả / công việc nặng nhọc.\n9. be well-paid = được trả lương cao\n10. be on my feet all night = phải đứng suốt đêm",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-283283",
+      "sourceQuestionId": 283283,
+      "challengeId": 30044,
+      "classChallengeId": "81290",
+      "title": "I. Grammar: Singular and Plural Nouns",
+      "type": 1,
+      "prompt": "I. Grammar: Singular and Plural Nouns",
+      "introductionText": "Exercise 1. Read the sentence and fill in the blank with the singular or plural noun given in the bracket. (Đọc câu và điền vào chỗ trống bằng danh từ số ít hoặc số nhiều được cho trong ngoặc đơn.)",
+      "contentText": "",
+      "answerTemplateText": "Example: There are many desks (desks/desk) in my classroom.\n\n1. I'm a [input_0] (salesperson/salespeople). I sell [input_1] (computers/computer).\n\n2. The [input_2] (students/student) are preparing for the exam.\n\n3. I meet lots of interesting [input_3] (people/person).\n\n4. One day I hope to write a [input_4] (book/books) about my work.\n\n5. My sister takes care of [input_5](dog/dogs) and [input_6](cats/cat); she's a [input_7](vets/vet).\n\n6. A great thing about my job is I can visit lots of [input_8] (countries/country) for work.\n\n7. I just started as a [input_9] (chef/chefs) in an Italian [input_10] (restaurant/ restaurants).\n\n8. Do you like teaching [input_11] (children/child)?",
+      "explanationText": "1. salesperson: Một người bán hàng, danh từ số ít phù hợp với \"I'm a...\".\n\ncomputers: Máy tính, danh từ số nhiều vì thường bán nhiều hơn một chiếc máy tính.\n\nDịch nghĩa: Tôi là một nhân viên bán hàng. Tôi bán máy tính.\n\n2. students: Học sinh/sinh viên, danh từ số nhiều phù hợp với động từ \"are preparing\".\n\nDịch nghĩa: Các học sinh đang chuẩn bị cho kỳ thi.\n\n3. people: Người, danh từ số nhiều (dạng đặc biệt) phù hợp với \"lots of\" (rất nhiều).\n\nDịch nghĩa: Tôi gặp rất nhiều người thú vị.\n\n4. book: Cuốn sách, danh từ số ít phù hợp với mạo từ \"a\".\n\nDịch nghĩa: Một ngày nào đó tôi hy vọng sẽ viết một cuốn sách về công việc của mình.\n\n5. dogs và cats: Chó và mèo, danh từ số nhiều vì thường chăm sóc nhiều hơn một con vật.\n\nvet: Bác sĩ thú y, danh từ số ít phù hợp với \"she's a...\".\n\nDịch nghĩa: Chị tôi chăm sóc chó và mèo; chị ấy là một bác sĩ thú y.\n\n6. countries: Quốc gia, danh từ số nhiều phù hợp với \"lots of\" (rất nhiều).\n\nDịch nghĩa: Một điều tuyệt vời về công việc của tôi là tôi có thể đến thăm rất nhiều quốc gia để làm việc.\n\n7. chef: Đầu bếp, danh từ số ít phù hợp với \"as a...\".\n\nrestaurant: Nhà hàng, danh từ số ít phù hợp với \"in an...\".\n\nDịch nghĩa: Tôi vừa bắt đầu làm đầu bếp tại một nhà hàng Ý.\n\n8. children: Trẻ em, danh từ số nhiều (dạng đặc biệt) khi nói đến việc dạy học nói chung.\n\nDịch nghĩa: Bạn có thích dạy trẻ em không?",
+      "rawHtml": {
+        "title": "I. Grammar: Singular and Plural Nouns",
+        "introduction": "<p><span id=\"docs-internal-guid-eb15b00d-7fff-a2f6-1549-223d784123b9\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 1. Read the sentence and fill in the blank with the singular or plural noun given in the bracket. </span><span style=\"color: #242938; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Đọc c&acirc;u v&agrave; điền v&agrave;o chỗ trống bằng danh từ số &iacute;t hoặc số nhiều được cho trong ngoặc đơn.)</span></span></p>",
+        "content": null,
+        "answerTemplate": "<p><span id=\"docs-internal-guid-d33b28c6-7fff-5706-07a6-6061453ec4fd\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><em><span style=\"color: #000000;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Example: There are many <span style=\"color: #ba372a;\">desks </span>(desks/desk) in my classroom.</span></span></span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"color: #000000;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. I'</span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">m a <span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_0]</span></span></span></span><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(</span><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">salesperson</span><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/salespeople). I sell </span></span><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_1]</span></span> </span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(</span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">computers</span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/computer).</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"color: #000000;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. The </span></span><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_2]</span></span> </span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(</span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">students/</span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">student) are preparing for the exam.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"color: #000000;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. I meet lots of interesting </span></span><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_3]</span></span> </span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(</span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">people</span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/person).</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"color: #000000;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. One day I hope to writ</span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">e a </span></span><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_4]</span></span> </span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(</span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">book</span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/books) about my work.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"color: #000000;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. My sister takes care of [input_5](dog/dogs) and [input_6](cats/cat); she's a [input_7](vets/vet)</span></span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"color: #000000;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. A great thing about my job is I can visit lots of </span></span><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_8]</span></span> </span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(</span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">countries</span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/country) for work.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"color: #000000;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. I just started as </span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a </span></span><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_9]</span></span> </span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(</span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">chef</span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/chefs) in </span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">an Italian </span><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_10]</span></span> </span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(</span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">restaurant</span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/ restaurants).</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"color: #000000;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. Do you like teaching </span></span><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_11]</span></span> </span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(</span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">children</span><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/child)?</span></span></p>",
+        "explain": "<p><strong>1. salesperson:</strong> Một người bán hàng, danh từ số ít phù hợp với \"I'm a...\".</p>\n<p><strong>computers:</strong> Máy tính, danh từ số nhiều vì thường bán nhiều hơn một chiếc máy tính.</p>\n<p><strong>Dịch nghĩa:</strong> Tôi là một <strong>nhân viên bán hàng</strong>. Tôi bán <strong>máy tính</strong>.</p>\n<p><strong>2. students:</strong> Học sinh/sinh viên, danh từ số nhiều phù hợp với động từ \"are preparing\".</p>\n<p><strong>Dịch nghĩa:</strong> Các <strong>học sinh</strong> đang chuẩn bị cho kỳ thi.</p>\n<p><strong>3. </strong><strong>people:</strong> Người, danh từ số nhiều (dạng đặc biệt) phù hợp với \"lots of\" (rất nhiều).</p>\n<p><strong>Dịch nghĩa:</strong> Tôi gặp rất nhiều <strong>người</strong> thú vị.</p>\n<p><strong>4. book:</strong> Cuốn sách, danh từ số ít phù hợp với mạo từ \"a\".</p>\n<p><strong>Dịch nghĩa:</strong> Một ngày nào đó tôi hy vọng sẽ viết một <strong>cuốn sách</strong> về công việc của mình.</p>\n<p><strong>5. </strong><strong>dogs</strong> và <strong>cats:</strong> Chó và mèo, danh từ số nhiều vì thường chăm sóc nhiều hơn một con vật.</p>\n<p><strong>vet:</strong> Bác sĩ thú y, danh từ số ít phù hợp với \"she's a...\".</p>\n<p><strong>Dịch nghĩa:</strong> Chị tôi chăm sóc <strong>chó</strong> và <strong>mèo</strong>; chị ấy là một <strong>bác sĩ thú y</strong>.</p>\n<p><strong>6. </strong><strong>countries:</strong> Quốc gia, danh từ số nhiều phù hợp với \"lots of\" (rất nhiều).</p>\n<p><strong>Dịch nghĩa:</strong> Một điều tuyệt vời về công việc của tôi là tôi có thể đến thăm rất nhiều <strong>quốc gia</strong> để làm việc.</p>\n<p><strong>7. </strong><strong>chef:</strong> Đầu bếp, danh từ số ít phù hợp với \"as a...\".</p>\n<p><strong>restaurant:</strong> Nhà hàng, danh từ số ít phù hợp với \"in an...\".</p>\n<p><strong>Dịch nghĩa:</strong> Tôi vừa bắt đầu làm <strong>đầu bếp</strong> tại một <strong>nhà hàng</strong> Ý.</p>\n<p><strong>8. </strong><strong>children:</strong> Trẻ em, danh từ số nhiều (dạng đặc biệt) khi nói đến việc dạy học nói chung.</p>\n<p><strong>Dịch nghĩa:</strong> Bạn có thích dạy <strong>trẻ em</strong> không?</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 12,
+        "totalCorrect": 11,
+        "userAnswer": {
+          "input_0": "salesperson",
+          "input_1": "computers",
+          "input_2": "students",
+          "input_3": "person",
+          "input_4": "book",
+          "input_5": "dogs",
+          "input_6": "cats",
+          "input_7": "vet",
+          "input_8": "countries",
+          "input_9": "chef",
+          "input_10": "restaurant",
+          "input_11": "children"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "salesperson"
+          ],
+          "input_1": [
+            "computers"
+          ],
+          "input_2": [
+            "students"
+          ],
+          "input_3": [
+            "people"
+          ],
+          "input_4": [
+            "book"
+          ],
+          "input_5": [
+            "dogs"
+          ],
+          "input_6": [
+            "cats"
+          ],
+          "input_7": [
+            "vet"
+          ],
+          "input_8": [
+            "countries"
+          ],
+          "input_9": [
+            "chef"
+          ],
+          "input_10": [
+            "restaurant"
+          ],
+          "input_11": [
+            "children"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": false,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": true,
+          "input_9": true,
+          "input_10": true,
+          "input_11": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-283284",
+      "sourceQuestionId": 283284,
+      "challengeId": 30044,
+      "classChallengeId": "81290",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2. Look at the pictures and fill in the blanks with the correct form of the words from the box. (Nhìn tranh và hoàn thành các câu với dạng từ phù hợp của các từ trong hộp.)\n\nfirefighter fish policeman sheep office worker housewife farmer woman  fisherman\n\n |",
+      "introductionText": "Exercise 2. Look at the pictures and fill in the blanks with the correct form of the words from the box. (Nhìn tranh và hoàn thành các câu với dạng từ phù hợp của các từ trong hộp.)\n\nfirefighter fish policeman sheep office worker housewife farmer woman  fisherman\n\n |",
+      "contentText": "",
+      "answerTemplateText": "1. My sister is [input_0], and she owns a lot of [input_1].\n\n \n\n2. They work as [input_2]. They are really busy.\n\n \n\n3. Many[input_3] are [input_4]. They stay at home and do the cleaning, cooking - they care for the family.\n\n \n\n4. John wants to become [input_5], so he has to do a lot of exercise.\n\n \n\n5. The [input_6] catches a lot of [input_7] to sell at the market.\n\n \n\n6. My dream job is to become [input_8], because I want to help other people.",
+      "explanationText": "1. Giải thích: \"Farmer\" là danh từ số ít, \"sheep\" có dạng số ít và số nhiều giống nhau.\n\nDịch nghĩa: Chị tôi là một nông dân, và chị ấy sở hữu rất nhiều cừu.\n\n2. Giải thích: \"They\" là số nhiều, nên nghề nghiệp cũng ở dạng số nhiều.\n\nDịch nghĩa: Họ làm doanh nhân/nhân viên văn phòng. Họ thực sự rất bận rộn.\n\n3.  Giải thích: \"Women\" và \"housewives\" là danh từ số nhiều bất quy tắc.\n\nDịch nghĩa: Nhiều phụ nữ là những bà nội trợ. Họ ở nhà và làm công việc dọn dẹp, nấu ăn - họ chăm sóc gia đình.\n\n4. Giải thích: \"Firefighter\" là danh từ số ít, chỉ một nghề nghiệp.\n\nDịch nghĩa: John muốn trở thành một lính cứu hỏa, vì vậy anh ấy phải tập thể dục rất nhiều.\n\n5. Giải thích: \"Fisherman\" là số ít đi với động từ \"catches\" số ít; \"fish\" có dạng số ít và số nhiều giống nhau.\n\nDịch nghĩa: Người ngư dân bắt được rất nhiều cá để bán ở chợ.\n\n6. Giải thích: \"Policeman\" là danh từ số ít, chỉ một nghề nghiệp.\n\nDịch nghĩa: Công việc mơ ước của tôi là trở thành một cảnh sát, vì tôi muốn giúp đỡ những người khác.",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-d23825a3-7fff-da85-b20c-7f9436583689\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 2. Look at the pictures and fill in the blanks with the correct form of the words from the box. </span><span style=\"color: #242938; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Nhìn tranh và hoàn thành các câu với dạng từ phù hợp của các từ trong hộp.)</span></span></p>\n<table>\n<tbody>\n<tr>\n<td>\n<p>firefighter fish policeman sheep office worker housewife farmer woman  fisherman</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"> </p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>1. </strong>My sister is [input_0], and she owns a lot of <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1762311111.jpeg\" alt=\"\" width=\"477\" height=\"317\" /></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000;\"><span style=\"background-color: transparent;\"><strong>2.</strong> They work as [input_2]. They are really busy. </span></span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><img src=\"https://media.istockphoto.com/id/515306510/photo/making-decision-on-the-move.jpg?s=612x612&w=0&k=20&c=2bKoyPS-Yfo8VymP16mLdfB3FIAsvhozT1crLqelFFQ=\" alt=\"1,077,200+ Businessmen Talking Stock Photos, Pictures & Royalty-Free Images  - iStock | Two businessmen talking, 2 businessmen talking, Group of  businessmen talking\" width=\"471\" height=\"314\" /></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000;\"><span style=\"background-color: transparent;\"><strong>3. </strong>Many[input_3] are [input_4]. They stay at home and do the cleaning, cooking - they care for the family</span><span style=\"background-color: transparent;\">.</span></span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><img src=\"https://i0.wp.com/www.yesmagazine.org/wp-content/uploads/imports/539f2133719c45c28ac92bd6b2587a18.jpg?fit=650%2C493&quality=90&ssl=1\" alt=\"7 Myths About Housewives, Debunked - YES! Magazine Solutions Journalism\" width=\"470\" height=\"357\" /></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000;\"><span style=\"background-color: transparent;\"><strong>4.</strong> John wants to become <span style=\"background-color: transparent;\">[input_5]</span>, so he has to do a lot of exercise</span><span style=\"background-color: transparent;\">.</span></span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><img src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOQ6-vflhVSifTPOLVOAKcVC5xQH3LEunxZQ&s\" alt=\"Serving the Whole Community: Recruiting and Retaining Minority Firefighters  - National Volunteer Fire Council\" width=\"316\" height=\"237\" /></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000;\"><span style=\"background-color: transparent;\"><strong>5. </strong>The [input_6] catches a lot of [input_7] to sell at the market</span><span style=\"background-color: transparent;\">.</span></span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><img src=\"https://thumbs.dreamstime.com/b/nov-fisherman-boat-catching-many-fish-mouth-bangpakong-river-chachengsao-province-east-thailand-108573714.jpg\" alt=\"On the Fisherman Boat, Catching Many Fish Stock Photo - Image of culture,  noon: 108573714\" width=\"450\" height=\"300\" /></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000;\"><span style=\"background-color: transparent;\"><strong>6. </strong>My dream job is to become [input_8], because I want to help other people</span><span style=\"background-color: transparent;\">.</span></span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><img src=\"https://as1.ftcdn.net/v2/jpg/03/67/41/02/1000_F_367410246_sxqZHu9Sl6LxvMqnmCX1yuOTGLRsc0lK.jpg\" alt=\"Poster Print Young handsome hispanic policeman\" width=\"441\" height=\"294\" /></p>\n<p><span id=\"docs-internal-guid-1850be81-7fff-8b5e-40b9-6ab9a63a5624\" style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"></span></p>",
+        "explain": "<p><strong>1. Giải thích:</strong> \"Farmer\" là danh từ số ít, \"sheep\" có dạng số ít và số nhiều giống nhau.</p>\n<p><strong>Dịch nghĩa:</strong> Chị tôi là <strong>một nông dân</strong>, và chị ấy sở hữu rất nhiều <strong>cừu</strong>.</p>\n<p><strong>2. Giải thích:</strong> \"They\" là số nhiều, nên nghề nghiệp cũng ở dạng số nhiều.</p>\n<p><strong>Dịch nghĩa:</strong> Họ làm <strong>doanh nhân/nhân viên văn phòng</strong>. Họ thực sự rất bận rộn.</p>\n<p><strong>3.  Giải thích:</strong> \"Women\" và \"housewives\" là danh từ số nhiều bất quy tắc.</p>\n<p><strong>Dịch nghĩa:</strong> Nhiều <strong>phụ nữ</strong> là <strong>những bà nội trợ</strong>. Họ ở nhà và làm công việc dọn dẹp, nấu ăn - họ chăm sóc gia đình.</p>\n<p><strong>4. Giải thích:</strong> \"Firefighter\" là danh từ số ít, chỉ một nghề nghiệp.</p>\n<p><strong>Dịch nghĩa:</strong> John muốn trở thành <strong>một lính cứu hỏa</strong>, vì vậy anh ấy phải tập thể dục rất nhiều.</p>\n<p><strong>5. Giải thích:</strong> \"Fisherman\" là số ít đi với động từ \"catches\" số ít; \"fish\" có dạng số ít và số nhiều giống nhau.</p>\n<p><strong>Dịch nghĩa:</strong> <strong>Người ngư dân</strong> bắt được rất nhiều <strong>cá</strong> để bán ở chợ.</p>\n<p><strong>6. Giải thích:</strong> \"Policeman\" là danh từ số ít, chỉ một nghề nghiệp.</p>\n<p><strong>Dịch nghĩa:</strong> Công việc mơ ước của tôi là trở thành <strong>một cảnh sát</strong>, vì tôi muốn giúp đỡ những người khác.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 9,
+        "totalCorrect": 8,
+        "userAnswer": {
+          "input_0": "a farmer",
+          "input_1": "sheep",
+          "input_6": "fisherman",
+          "input_7": "fish",
+          "input_5": "a firefighter",
+          "input_8": "a policeman",
+          "input_3": "women",
+          "input_4": "housewives",
+          "input_2": "office worker"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "a farmer"
+          ],
+          "input_1": [
+            "sheep"
+          ],
+          "input_2": [
+            "businessmen",
+            " office workers"
+          ],
+          "input_3": [
+            "women"
+          ],
+          "input_4": [
+            "housewives"
+          ],
+          "input_5": [
+            "a firefighter"
+          ],
+          "input_6": [
+            "fisherman"
+          ],
+          "input_7": [
+            "fish"
+          ],
+          "input_8": [
+            " a policeman"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": false,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/images/1762311111.jpeg",
+          "localFile": null
+        },
+        {
+          "url": "https://media.istockphoto.com/id/515306510/photo/making-decision-on-the-move.jpg?s=612x612&w=0&k=20&c=2bKoyPS-Yfo8VymP16mLdfB3FIAsvhozT1crLqelFFQ=",
+          "localFile": null
+        },
+        {
+          "url": "https://i0.wp.com/www.yesmagazine.org/wp-content/uploads/imports/539f2133719c45c28ac92bd6b2587a18.jpg?fit=650%2C493&quality=90&ssl=1",
+          "localFile": null
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOQ6-vflhVSifTPOLVOAKcVC5xQH3LEunxZQ&s",
+          "localFile": null
+        },
+        {
+          "url": "https://thumbs.dreamstime.com/b/nov-fisherman-boat-catching-many-fish-mouth-bangpakong-river-chachengsao-province-east-thailand-108573714.jpg",
+          "localFile": null
+        },
+        {
+          "url": "https://as1.ftcdn.net/v2/jpg/03/67/41/02/1000_F_367410246_sxqZHu9Sl6LxvMqnmCX1yuOTGLRsc0lK.jpg",
+          "localFile": null
+        }
+      ]
+    },
+    {
+      "id": "question-283285",
+      "sourceQuestionId": 283285,
+      "challengeId": 30044,
+      "classChallengeId": "81290",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 3. Are these sentences correct or incorrect? If a sentence is correct, write OK. If not, correct the sentence. (Những câu dưới đây sai hay đúng? Nếu đúng, viết OK. Nếu sai, sửa lại câu cho đúng.)",
+      "introductionText": "Exercise 3. Are these sentences correct or incorrect? If a sentence is correct, write OK. If not, correct the sentence. (Những câu dưới đây sai hay đúng? Nếu đúng, viết OK. Nếu sai, sửa lại câu cho đúng.)",
+      "contentText": "",
+      "answerTemplateText": "Example:\n\n- I work as a taxi driver. → OK\n\n- My mom has to read a lot of book for her job - she's a writer. → books\n\n1. They are nurse. They work in a big hospital. → [input_0]\n\n2. I am a student, and I want to be a singer in the future. → [input_1]\n\n3. I don't want to be a dentist, because I don't want to look at tooth all day! → [input_2]\n\n4. My jobs is great - the pay is good. → [input_3]\n\n5. They are a group of famous singer; everyone admires them → [input_4]\n\n6. Many person want to become businessmen, because that's a well-paid job. → [input_5]\n\n7. What I dislike about being a doctor is that I have to work long hours → [input_6]\n\n8. All of my friends are freelancers, because they don't want to work in a company.→ [input_7]\n\n9. He's a toy seller. He sells toies for children. → [input_8]\n\n10.Maya is a poet - she writes a lot of poems . → [input_9]",
+      "explanationText": "1. Giải thích: \"Nurse\" phải ở dạng số nhiều là \"nurses\" để phù hợp với chủ ngữ số nhiều \"They are\".\n\nDịch nghĩa: Họ là y tá. Họ làm việc trong một bệnh viện lớn.\n\n2. Dịch nghĩa: Tôi là một học sinh, và tôi muốn trở thành một ca sĩ trong tương lai.\n\n3. Giải thích: \"Tooth\" (răng) là danh từ số ít. Khi nói về việc nhìn \"răng\" nói chung hoặc nhiều cái răng, ta dùng dạng số nhiều bất quy tắc là \"teeth\".\n\nDịch nghĩa: Tôi không muốn làm nha sĩ, vì tôi không muốn nhìn vào răng cả ngày!\n\n4. Giải thích: \"Jobs\" (công việc) phải ở dạng số ít là \"job\" để phù hợp với động từ \"is great\" (số ít).\n\nDịch nghĩa: Công việc của tôi rất tuyệt vời – mức lương tốt.\n\n5. Giải thích: \"Singer\" (ca sĩ) phải ở dạng số nhiều là \"singers\" để phù hợp với cụm từ \"a group of famous\" (một nhóm ca sĩ nổi tiếng).\n\nDịch nghĩa: Họ là một nhóm ca sĩ nổi tiếng; mọi người đều ngưỡng mộ họ.\n\n6. Giải thích: \"Person\" (người) là danh từ số ít. Khi đi với \"Many\" (nhiều), ta phải dùng dạng số nhiều bất quy tắc là \"people\".\n\nDịch nghĩa: Nhiều người muốn trở thành doanh nhân, vì đó là một công việc được trả lương cao.\n\n7. Giải thích: \"Hour\" (giờ) phải ở dạng số nhiều là \"hours\" để phù hợp với tính từ \"long\" (dài) và ý nghĩa \"nhiều giờ làm việc\".\n\nDịch nghĩa: Điều tôi không thích khi làm bác sĩ là tôi phải làm việc nhiều giờ liền.\n\n8. Dịch nghĩa: Tất cả bạn bè tôi đều là những người làm nghề tự do, bởi vì họ không muốn làm việc trong một công ty.\n\n9. Giải thích: \"Toies\" là lỗi chính tả. Dạng số nhiều đúng của \"toy\" (đồ chơi) là \"toys\".\n\nDịch nghĩa: Anh ấy là người bán đồ chơi. Anh ấy bán đồ chơi cho trẻ em.\n\n10. Dịch nghĩa: Maya là một nhà thơ - cô ấy viết rất nhiều bài thơ.",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-08b19b80-7fff-9a5e-c551-5c6dfd9057ae\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 3. Are these sentences correct or incorrect? If a sentence is correct, write OK. If not, correct the sentence.</span><span style=\"color: #242938; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> (Những câu dưới đây sai hay đúng? Nếu đúng, viết OK. Nếu sai, sửa lại câu cho đúng.)</span></span></p>",
+        "content": null,
+        "answerTemplate": "<p><span id=\"docs-internal-guid-da10f526-7fff-3b44-cf75-8c845985688e\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><em><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Example: </span></span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><em><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">- I work as a taxi driver. </span></span></em><span style=\"color: #242938; font-family: Nunito, sans-serif; font-size: 10pt; white-space-collapse: preserve;\">→ </span><span style=\"color: #ba372a;\"><em><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">OK</span></span></em></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><em><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">- My mom has to read a lot of book for her job - she's a writer. </span></span></em><span style=\"color: #242938; font-family: Nunito, sans-serif; font-size: 13.3333px; white-space-collapse: preserve;\">→ </span><span style=\"color: #ba372a;\"><em><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">books</span></span></em></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. They are nurse. They work in a big hospital. </span></span><span style=\"color: #242938; font-family: Nunito, sans-serif; font-size: 13.3333px; white-space-collapse: preserve;\">→<span style=\"color: #e03e2d;\"> <span style=\"background-color: transparent; color: #e03e2d; white-space-collapse: preserve; font-family: Nunito-Regular; font-size: 12pt;\">[input_0]</span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. I am a student, and I want to be a singer in the future. </span></span><span style=\"color: #242938; font-family: Nunito, sans-serif; font-size: 13.3333px; white-space-collapse: preserve;\">→ <span style=\"background-color: transparent; color: #ff0000; white-space-collapse: preserve; font-family: Nunito-Regular; font-size: 12pt;\">[input_1]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. I don't want to be a dentist, because I don't want to look at tooth all day! </span></span><span style=\"color: #242938; font-family: Nunito, sans-serif; font-size: 13.3333px; white-space-collapse: preserve;\">→ <span style=\"background-color: transparent; color: #ff0000; white-space-collapse: preserve; font-family: Nunito-Regular; font-size: 12pt;\">[input_2]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. My jobs is great - the pay is good. </span></span><span style=\"color: #242938; font-family: Nunito, sans-serif; font-size: 13.3333px; white-space-collapse: preserve;\">→ <span style=\"background-color: transparent; color: #ff0000; white-space-collapse: preserve; font-family: Nunito-Regular; font-size: 12pt;\">[input_3]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. They are a group of famous singer; everyone admires them </span></span><span style=\"color: #242938; font-family: Nunito, sans-serif; font-size: 13.3333px; white-space-collapse: preserve;\">→ <span style=\"background-color: transparent; color: #ff0000; white-space-collapse: preserve; font-family: Nunito-Regular; font-size: 12pt;\">[input_4]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. Many person want to become businessmen, because that's a well-paid job. </span></span><span style=\"color: #242938; font-family: Nunito, sans-serif; font-size: 13.3333px; white-space-collapse: preserve;\">→ <span style=\"background-color: transparent; color: #ff0000; white-space-collapse: preserve; font-family: Nunito-Regular; font-size: 12pt;\">[input_5]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. What I dislike about being a doctor is that I have to work long hours </span></span><span style=\"color: #242938; font-family: Nunito, sans-serif; font-size: 13.3333px; white-space-collapse: preserve;\">→ <span style=\"background-color: transparent; color: #ff0000; white-space-collapse: preserve; font-family: Nunito-Regular; font-size: 12pt;\">[input_6]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. All of my friends are freelancers, because they don't want to work in a company.</span></span><span style=\"color: #242938; font-family: Nunito, sans-serif; font-size: 13.3333px; white-space-collapse: preserve;\">→ <span style=\"background-color: transparent; color: #ff0000; white-space-collapse: preserve; font-family: Nunito-Regular; font-size: 12pt;\">[input_7]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9. He's a toy seller. He sells toies for children. </span></span><span style=\"color: #242938; font-family: Nunito, sans-serif; font-size: 13.3333px; white-space-collapse: preserve;\">→ <span style=\"background-color: transparent; color: #ff0000; white-space-collapse: preserve; font-family: Nunito-Regular; font-size: 12pt;\">[input_8]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">10.Maya is a poet - she writes a lot of poems . </span></span><span style=\"color: #242938; font-family: Nunito, sans-serif; font-size: 13.3333px; white-space-collapse: preserve;\">→ <span style=\"background-color: transparent; color: #ff0000; white-space-collapse: preserve; font-family: Nunito-Regular; font-size: 12pt;\">[input_9]</span></span></p>",
+        "explain": "<p><strong>1. </strong><strong>Giải thích:</strong> \"Nurse\" phải ở dạng số nhiều là <strong>\"nurses\"</strong> để phù hợp với chủ ngữ số nhiều \"They are\".</p>\n<p><strong>Dịch nghĩa:</strong> Họ là <strong>y tá</strong>. Họ làm việc trong một bệnh viện lớn.</p>\n<p><strong>2. </strong><strong>Dịch nghĩa:</strong> Tôi là một học sinh, và tôi muốn trở thành một ca sĩ trong tương lai.</p>\n<p><strong>3. </strong><strong>Giải thích:</strong> \"Tooth\" (răng) là danh từ số ít. Khi nói về việc nhìn \"răng\" nói chung hoặc nhiều cái răng, ta dùng dạng số nhiều bất quy tắc là <strong>\"teeth\"</strong>.</p>\n<p><strong>Dịch nghĩa:</strong> Tôi không muốn làm nha sĩ, vì tôi không muốn nhìn vào <strong>răng</strong> cả ngày!</p>\n<p><strong>4. </strong><strong>Giải thích:</strong> \"Jobs\" (công việc) phải ở dạng số ít là <strong>\"job\"</strong> để phù hợp với động từ \"is great\" (số ít).</p>\n<p><strong>Dịch nghĩa:</strong> <strong>Công việc</strong> của tôi rất tuyệt vời – mức lương tốt.</p>\n<p><strong>5. </strong><strong>Giải thích:</strong> \"Singer\" (ca sĩ) phải ở dạng số nhiều là <strong>\"singers\"</strong> để phù hợp với cụm từ \"a group of famous\" (một nhóm ca sĩ nổi tiếng).</p>\n<p><strong>Dịch nghĩa:</strong> Họ là một nhóm <strong>ca sĩ</strong> nổi tiếng; mọi người đều ngưỡng mộ họ.</p>\n<p><strong>6. </strong><strong>Giải thích:</strong> \"Person\" (người) là danh từ số ít. Khi đi với \"Many\" (nhiều), ta phải dùng dạng số nhiều bất quy tắc là <strong>\"people\"</strong>.</p>\n<p><strong>Dịch nghĩa:</strong> Nhiều <strong>người</strong> muốn trở thành doanh nhân, vì đó là một công việc được trả lương cao.</p>\n<p><strong>7. </strong><strong>Giải thích:</strong> \"Hour\" (giờ) phải ở dạng số nhiều là <strong>\"hours\"</strong> để phù hợp với tính từ \"long\" (dài) và ý nghĩa \"nhiều giờ làm việc\".</p>\n<p><strong>Dịch nghĩa:</strong> Điều tôi không thích khi làm bác sĩ là tôi phải làm việc nhiều <strong>giờ</strong> liền.</p>\n<p><strong>8. </strong><strong>Dịch nghĩa:</strong> Tất cả bạn bè tôi đều là những người làm nghề tự do, bởi vì họ không muốn làm việc trong một công ty.</p>\n<p><strong>9. </strong><strong>Giải thích:</strong> \"Toies\" là lỗi chính tả. Dạng số nhiều đúng của \"toy\" (đồ chơi) là <strong>\"toys\"</strong>.</p>\n<p><strong>Dịch nghĩa:</strong> Anh ấy là người bán đồ chơi. Anh ấy bán <strong>đồ chơi</strong> cho trẻ em.</p>\n<p><strong>10. </strong><strong>Dịch nghĩa:</strong> Maya là một nhà thơ - cô ấy viết rất nhiều bài thơ.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 10,
+        "totalCorrect": 10,
+        "userAnswer": {
+          "input_0": "nurses",
+          "input_1": "OK",
+          "input_2": "teeth",
+          "input_3": "job",
+          "input_4": "singers",
+          "input_5": "people",
+          "input_6": "OK",
+          "input_7": "OK",
+          "input_8": "toys",
+          "input_9": "OK"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "nurses"
+          ],
+          "input_1": [
+            "OK"
+          ],
+          "input_2": [
+            "teeth"
+          ],
+          "input_3": [
+            "job"
+          ],
+          "input_4": [
+            "singers"
+          ],
+          "input_5": [
+            "people"
+          ],
+          "input_6": [
+            "OK"
+          ],
+          "input_7": [
+            "OK"
+          ],
+          "input_8": [
+            "toys"
+          ],
+          "input_9": [
+            "OK"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": true,
+          "input_9": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-283286",
+      "sourceQuestionId": 283286,
+      "challengeId": 30044,
+      "classChallengeId": "81290",
+      "title": "II. Speaking",
+      "type": 2,
+      "prompt": "II. Speaking",
+      "introductionText": "",
+      "contentText": "Chuẩn bị câu trả lời cho các câu sau, sử dụng các từ vựng, cấu trúc, câu học được phía trên và từ Challenge 1.\n\nXem thêm trong phần Gợi ý trả lời: Gợi ý\n\n1. What do you do?\n\n2. What is your dream job?\n\n3. What do you like about that job?\n\n4. Is there anything you dislike about that job?\n\nSau khi được GV hướng dẫn, viết câu trả lời đầy đủ cho từng câu hỏi vào file google docs và nộp lại.\n\nGV feedback xong thì học thuộc lòng câu trả lời.\n\nLink google docs (mở quyền nhận xét cho GV)",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "II. Speaking",
+        "introduction": null,
+        "content": "<div class=\"introduction\" style=\"box-sizing: border-box; padding: 0px 10px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\" data-v-8899ee50=\"\">\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: Nunito-BoldItalic; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-weight: bolder;\">Chuẩn bị c&acirc;u trả lời cho c&aacute;c c&acirc;u sau, sử dụng c&aacute;c từ vựng, cấu tr&uacute;c, c&acirc;u học được ph&iacute;a tr&ecirc;n v&agrave; từ Challenge 1.</span></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: Nunito-BoldItalic; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-weight: bolder;\">Xem th&ecirc;m trong phần&nbsp;Gợi &yacute; trả lời:</span>&nbsp;<a style=\"box-sizing: border-box; color: #0d638f; text-decoration-line: none; background-color: transparent; outline: 0px; border-radius: 0px !important; text-shadow: none !important;\" href=\"https://docs.google.com/document/d/1ioFU4DloOvqJGWI0oIHgY7Q7D0G24Q05/edit?usp=sharing&amp;ouid=116087920410815633677&amp;rtpof=true&amp;sd=true\" target=\"_blank\" rel=\"noopener\">Gợi &yacute;</a></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: Nunito-Regular; border-radius: 0px !important;\">1. What do you do?</span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: Nunito-Regular; border-radius: 0px !important;\">2. What is your dream job?</span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: Nunito-Regular; border-radius: 0px !important;\">3. What do you like about that job?</span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: Nunito-Regular; border-radius: 0px !important;\">4. Is there anything you dislike about that job?</span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; border-radius: 0px !important;\"><span style=\"font-weight: bolder; font-family: Nunito-BoldItalic; font-size: 12pt;\">Sau khi được GV hướng dẫn, viết c&acirc;u trả lời đầy đủ cho từng c&acirc;u hỏi v&agrave;o file google docs v&agrave; nộp lại.</span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; border-radius: 0px !important;\"><span style=\"font-weight: bolder; font-family: Nunito-BoldItalic; font-size: 12pt;\">GV feedback xong th&igrave; học thuộc l&ograve;ng c&acirc;u trả lời.</span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; border-radius: 0px !important;\"><span style=\"font-weight: bolder; color: #c0392b; font-family: Nunito-Regular; font-size: 12pt;\">Link google docs (mở quyền nhận x&eacute;t cho GV)</span></p>\n</div>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "https://docs.google.com/document/d/1oGwECEe29aWHwFD_fP-kJWoChkkbBB0ZIcPDtPn16rs/edit?usp=sharing",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    }
+  ]
+}

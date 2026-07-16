@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "lesson": 12,
+  "lessonKey": "lesson-12",
+  "title": "Lesson 12",
+  "source": "LangGo daily challenge API",
+  "rawFolder": "raw/",
+  "files": {
+    "overview": "overview.md",
+    "content": "content.json",
+    "exercises": "exercises.json",
+    "scripts": "scripts.json",
+    "submission": "submission.json",
+    "audioManifest": "audio/manifest.json",
+    "imageManifest": "images/manifest.json"
+  },
+  "challenges": [
+    {
+      "id": 32362,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "number": 1,
+      "title": "[PRE IELTS] LESSON 12 - CHALLENGE 1",
+      "note": "Vocabulary (Free time at home) | Listening (Entertainment)",
+      "day": 12,
+      "deadline": "2026-07-09 23:30:00",
+      "totalQuestion": 33,
+      "classification": "dc",
+      "rawFile": "raw/challenge-01-32362.json"
+    },
+    {
+      "id": 32363,
+      "challengeId": 32363,
+      "classChallengeId": "83533",
+      "number": 2,
+      "title": "[PRE IELTS] LESSON 12 - CHALLENGE 2",
+      "note": "Grammar (Present simple, Present continuous) | Speaking (Entertainment, Family, House)",
+      "day": 12,
+      "deadline": "2026-07-09 23:30:00",
+      "totalQuestion": 36,
+      "classification": "dc",
+      "rawFile": "raw/challenge-02-32363.json"
+    }
+  ]
+}

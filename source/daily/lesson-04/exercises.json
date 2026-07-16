@@ -1,0 +1,578 @@
+{
+  "lesson": 4,
+  "lessonKey": "lesson-04",
+  "questions": [
+    {
+      "id": "question-273622",
+      "sourceQuestionId": 273622,
+      "challengeId": 29126,
+      "classChallengeId": "80410",
+      "title": "I. Vocabulary: Make / made / made",
+      "type": 1,
+      "prompt": "I. Vocabulary: Make / made / made",
+      "introductionText": "Exercise 1. Complete the sentences with the correct words given from part A. (Hoàn thành câu sử dụng từ đúng đã được cho sẵn từ phần A.)",
+      "contentText": "",
+      "answerTemplateText": "1. In the morning, my mom always makes me [input_0] before I go to school.\n\n2. At noon, I often make [input_1] for myself and my younger sister.\n\n3. In the evening, my dad usually makes [input_2] for our family.\n\n4. When it is cold, I love making some hot [input_3].\n\n5. In class, we learn how to make a [input_4].",
+      "explanationText": "In the morning, my mom always makes me [breakfast] before I go to school.\n\nGiải thích: Vào buổi sáng, mẹ tôi luôn làm bữa sáng (make breakfast) cho tôi trước khi tôi đi học.\n\nAt noon, I often make [lunch] for myself and my younger sister.\n\nGiải thích: Vào buổi trưa, tôi thường làm bữa trưa (make lunch) cho bản thân mình và em gái.\n\nIn the evening, my dad usually makes [dinner] for our family.\n\nGiải thích: Vào buổi tối, bố tôi thường làm bữa tối (make dinner) cho cả gia đình.\n\nWhen it is cold, I love making some hot [tea/chocolate/coffee].\n\nGiải thích: Khi trời lạnh, tôi rất thích pha một chút trà/sô-cô-la/cà phê nóng (make tea/chocolate/coffee).\n\nIn class, we learn how to make a [film/video].\n\nGiải thích: Ở trên lớp, chúng tôi học cách làm một bộ phim hoặc video (make a film/video).",
+      "rawHtml": {
+        "title": "I. Vocabulary: Make / made / made",
+        "introduction": "<p style=\"line-height: 1.5;\"><span id=\"docs-internal-guid-bff71f0d-7fff-9e36-ad1f-5d6c8fcce527\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-ExtraBold;\">Exercise 1. Complete the sentences with the correct words given from part A.</span> </span><span style=\"font-size: 12pt; color: #242938; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Ho&agrave;n th&agrave;nh c&acirc;u sử dụng từ đ&uacute;ng đ&atilde; được cho sẵn từ phần A.)</span></span></p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.56; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. In the morning, my mom always makes me <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_0]</span></span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> before I go to school.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.56; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. At noon, I often make <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_1]</span></span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> for myself and my younger sister.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.56; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. In the evening, my dad usually makes <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_2]</span></span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> for our family.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.56; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. When it is cold, I love making some hot <span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_3]</span>.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.56; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span id=\"docs-internal-guid-6136279d-7fff-e3c1-e71c-2d5d07899975\" style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">5. In class, we learn how to make a <span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">[input_4]</span>.</span></span></p>",
+        "explain": "<ol start=\"1\" data-path-to-node=\"2\">\n<li>\n<p data-path-to-node=\"2,0,0\"><strong data-path-to-node=\"2,0,0\" data-index-in-node=\"0\">In the morning, my mom always makes me [breakfast] before I go to school.</strong></p>\n</li>\n</ol>\n<ul data-path-to-node=\"3\">\n<li>\n<p data-path-to-node=\"3,0,0\"><strong data-path-to-node=\"3,0,0\" data-index-in-node=\"0\">Giải thích:</strong> <em>Vào buổi sáng, mẹ tôi luôn làm bữa sáng (<strong data-path-to-node=\"3,0,0\" data-index-in-node=\"53\">make breakfast</strong>) cho tôi trước khi tôi đi học.</em></p>\n</li>\n</ul>\n<ol start=\"2\" data-path-to-node=\"4\">\n<li>\n<p data-path-to-node=\"4,0,0\"><strong data-path-to-node=\"4,0,0\" data-index-in-node=\"0\">At noon, I often make [lunch] for myself and my younger sister.</strong></p>\n</li>\n</ol>\n<ul data-path-to-node=\"5\">\n<li>\n<p data-path-to-node=\"5,0,0\"><strong data-path-to-node=\"5,0,0\" data-index-in-node=\"0\">Giải thích:</strong> <em>Vào buổi trưa, tôi thường làm bữa trưa (<strong data-path-to-node=\"5,0,0\" data-index-in-node=\"52\">make lunch</strong>) cho bản thân mình và em gái.</em></p>\n</li>\n</ul>\n<ol start=\"3\" data-path-to-node=\"6\">\n<li>\n<p data-path-to-node=\"6,0,0\"><strong data-path-to-node=\"6,0,0\" data-index-in-node=\"0\">In the evening, my dad usually makes [dinner] for our family.</strong></p>\n</li>\n</ol>\n<ul data-path-to-node=\"7\">\n<li>\n<p data-path-to-node=\"7,0,0\"><strong data-path-to-node=\"7,0,0\" data-index-in-node=\"0\">Giải thích:</strong> <em>Vào buổi tối, bố tôi thường làm bữa tối (<strong data-path-to-node=\"7,0,0\" data-index-in-node=\"53\">make dinner</strong>) cho cả gia đình.</em></p>\n</li>\n</ul>\n<ol start=\"4\" data-path-to-node=\"8\">\n<li>\n<p data-path-to-node=\"8,0,0\"><strong data-path-to-node=\"8,0,0\" data-index-in-node=\"0\">When it is cold, I love making some hot [tea/chocolate/coffee].</strong></p>\n</li>\n</ol>\n<ul data-path-to-node=\"9\">\n<li>\n<p data-path-to-node=\"9,0,0\"><strong data-path-to-node=\"9,0,0\" data-index-in-node=\"0\">Giải thích:</strong> <em>Khi trời lạnh, tôi rất thích pha một chút trà/sô-cô-la/cà phê nóng (<strong data-path-to-node=\"9,0,0\" data-index-in-node=\"81\">make tea/chocolate/coffee</strong>).</em></p>\n</li>\n</ul>\n<ol start=\"5\" data-path-to-node=\"10\">\n<li>\n<p data-path-to-node=\"10,0,0\"><strong data-path-to-node=\"10,0,0\" data-index-in-node=\"0\">In class, we learn how to make a [film/video].</strong></p>\n</li>\n</ol>\n<ul data-path-to-node=\"11\">\n<li>\n<p data-path-to-node=\"11,0,0\"><strong data-path-to-node=\"11,0,0\" data-index-in-node=\"0\">Giải thích:</strong> <em>Ở trên lớp, chúng tôi học cách làm một bộ phim hoặc video (<strong data-path-to-node=\"11,0,0\" data-index-in-node=\"72\">make a film/video</strong>).</em></p>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 5,
+        "totalCorrect": 5,
+        "userAnswer": {
+          "input_0": "breakfast",
+          "input_1": "lunch",
+          "input_2": "dinner",
+          "input_3": "tea",
+          "input_4": "film"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "breakfast"
+          ],
+          "input_1": [
+            "lunch"
+          ],
+          "input_2": [
+            "dinner"
+          ],
+          "input_3": [
+            "tea",
+            "chocolate",
+            "coffee"
+          ],
+          "input_4": [
+            "film",
+            "video"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-273623",
+      "sourceQuestionId": 273623,
+      "challengeId": 29126,
+      "classChallengeId": "80410",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2. Complete the sentences with make(s)/made me feel + an adjective from the box. (Hoàn thành câu bằng công thức make(s)/made me feel + tính từ trong hộp)",
+      "introductionText": "Exercise 2. Complete the sentences with make(s)/made me feel + an adjective from the box. (Hoàn thành câu bằng công thức make(s)/made me feel + tính từ trong hộp)",
+      "contentText": "sick          tired          sad          happy          angry\n\n |\n\nExample. That film about the war made me feel sad.",
+      "answerTemplateText": "1. Long lessons always make me feel [input_0].\n\n2. She was horrible to me; it made me feel [input_1].\n\n3. It's a lovely song. It makes me feel [input_2].\n\n4. That meal was horrible. It made me feel [input_3].",
+      "explanationText": "1. Long lessons always make me feel [tired].\n\nGiải thích: Những bài học dài thường khiến tôi cảm thấy mệt mỏi. Cụm từ là make someone feel tired (khiến ai đó cảm thấy mệt).\n\nDịch nghĩa: Những bài học dài luôn làm tôi cảm thấy mệt mỏi.\n\n2. She was horrible to me; it made me feel [angry].\n\nGiải thích: Khi ai đó đối xử tệ bạc, điều đó thường khiến bạn cảm thấy tức giận. Cụm từ là make someone feel angry (khiến ai đó tức giận).\n\nDịch nghĩa: Cô ấy thật tệ với tôi; điều đó làm tôi cảm thấy tức giận.\n\n3. It’s a lovely song. It makes me feel [happy].\n\nGiải thích: Một bài hát hay có thể khiến bạn cảm thấy vui vẻ. Cụm từ là make someone feel happy (khiến ai đó vui).\n\nDịch nghĩa: Đó là một bài hát đáng yêu. Nó làm tôi cảm thấy vui vẻ.\n\n4. That meal was horrible. It made me feel [sick].\n\nGiải thích: Một bữa ăn kinh khủng có thể khiến bạn cảm thấy khó chịu/buồn nôn. Cụm từ là make someone feel sick (khiến ai đó buồn nôn/khó chịu).\n\nDịch nghĩa: Bữa ăn đó thật kinh khủng. Nó làm tôi cảm thấy khó chịu.",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p style=\"line-height: 1.5;\"><span id=\"docs-internal-guid-0509bafb-7fff-5600-3099-294d76698c47\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; font-family: Nunito-ExtraBold;\">Exercise 2. Complete the sentences with make(s)/made me feel + an adjective from the box.</span><span style=\"font-size: 12pt; color: #242938; font-weight: bold; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-size: 12pt; color: #242938; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Ho&agrave;n th&agrave;nh c&acirc;u bằng c&ocirc;ng thức make(s)/made me feel + t&iacute;nh từ trong hộp)</span></span></p>",
+        "content": "<table border=\"1\" cellspacing=\"1\" cellpadding=\"1\">\n<tbody>\n<tr>\n<td>\n<p style=\"text-align: center;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">&nbsp; sick&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; tired&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; happy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; angry&nbsp;&nbsp;</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p><em><span style=\"font-family: Nunito-Regular; font-size: 16px;\">Example. That film about the war </span><span style=\"font-family: Nunito-Regular; font-size: 16px;\">made me feel <span style=\"color: #e03e2d;\">sad</span></span><span style=\"font-family: Nunito-Regular; font-size: 16px;\">.</span></em></p>",
+        "answerTemplate": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">1. Long lessons always make me feel [input_0].</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">2. She was horrible to me; it made me feel [input_1].</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">3. It's a lovely song. It makes me feel [input_2].</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">4. That meal was horrible. It made me feel [input_3].</span></p>",
+        "explain": "<p><strong>1. Long lessons always make me feel [tired].</strong></p>\n<ul>\n<li><strong>Giải thích:</strong> Những bài học dài thường <strong>khiến tôi cảm thấy mệt mỏi</strong>. Cụm từ là <strong>make someone feel tired</strong> (khiến ai đó cảm thấy mệt).</li>\n<li><em><strong>Dịch nghĩa:</strong> Những bài học dài luôn <strong>làm tôi cảm thấy mệt mỏi</strong>.</em></li>\n</ul>\n<p><strong>2. She was horrible to me; it made me feel [angry].</strong></p>\n<ul>\n<li><strong>Giải thích:</strong> Khi ai đó đối xử tệ bạc, điều đó thường <strong>khiến bạn cảm thấy tức giận</strong>. Cụm từ là <strong>make someone feel angry</strong> (khiến ai đó tức giận).</li>\n<li><em><strong>Dịch nghĩa:</strong> Cô ấy thật tệ với tôi; điều đó <strong>làm tôi cảm thấy tức giận</strong>.</em></li>\n</ul>\n<p><strong>3. It’s a lovely song. It makes me feel [happy].</strong></p>\n<ul>\n<li><strong>Giải thích:</strong> Một bài hát hay có thể <strong>khiến bạn cảm thấy vui vẻ</strong>. Cụm từ là <strong>make someone feel happy</strong> (khiến ai đó vui).</li>\n<li><em><strong>Dịch nghĩa:</strong> Đó là một bài hát đáng yêu. Nó <strong>làm tôi cảm thấy vui vẻ</strong>.</em></li>\n</ul>\n<p><strong>4. That meal was horrible. It made me feel [sick].</strong></p>\n<ul>\n<li><strong>Giải thích:</strong> Một bữa ăn kinh khủng có thể <strong>khiến bạn cảm thấy khó chịu/buồn nôn</strong>. Cụm từ là <strong>make someone feel sick</strong> (khiến ai đó buồn nôn/khó chịu).</li>\n<li><em><strong>Dịch nghĩa:</strong> Bữa ăn đó thật kinh khủng. Nó <strong>làm tôi cảm thấy khó chịu</strong>.</em></li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 4,
+        "totalCorrect": 4,
+        "userAnswer": {
+          "input_0": "tired",
+          "input_1": "angry",
+          "input_2": "happy",
+          "input_3": "sick"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "tired"
+          ],
+          "input_1": [
+            "angry"
+          ],
+          "input_2": [
+            "happy"
+          ],
+          "input_3": [
+            "sick"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-273624",
+      "sourceQuestionId": 273624,
+      "challengeId": 29126,
+      "classChallengeId": "80410",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 3. Complete the sentences using the expressions given in part C. (Hoàn thành các câu bên dưới bằng cách sử dụng các cụm từ đã được cho sẵn từ phần C.)",
+      "introductionText": "Exercise 3. Complete the sentences using the expressions given in part C. (Hoàn thành các câu bên dưới bằng cách sử dụng các cụm từ đã được cho sẵn từ phần C.)",
+      "contentText": "",
+      "answerTemplateText": "1. I always make a lot of [input_0] when I speak English.\n\n2. Our neighbours had a party last night. They made a lot of [input_1] .\n\n3. The kids are making a [input_2] in the bedroom.\n\n4. What do you think, the silver car or the white one? We must make our [input_3] today.\n\n5. I'm having a toothache. Can I make an [input_4] with the dentist?\n\n6. After waking up, I always remember to make my [input_5] .",
+      "explanationText": "I always make a lot of [mistakes] when I speak English.\n\nGiải thích: Tôi luôn mắc rất nhiều lỗi (make mistakes) khi tôi nói tiếng Anh.\n\nOur neighbours had a party last night. They made a lot of [noise].\n\nGiải thích: Những người hàng xóm của chúng tôi đã tổ chức tiệc tối qua. Họ đã làm ồn rất nhiều (make noise).\n\nThe kids are making a [mess] in the bedroom.\n\nGiải thích: Những đứa trẻ đang bày bừa (make a mess) ở trong phòng ngủ.\n\nWhat do you think, the silver car or the white one? We must make our [choice] today.\n\nGiải thích: Bạn nghĩ sao, chiếc xe màu bạc hay chiếc màu trắng? Chúng ta phải đưa ra lựa chọn (make a choice) của mình trong ngày hôm nay.\n\nI’m having a toothache. Can I make an [appointment] with the dentist?\n\nGiải thích: Tôi đang bị đau răng. Tôi có thể đặt lịch hẹn (make an appointment) với nha sĩ được không?\n\nAfter waking up, I always remember to make my [bed].\n\nGiải thích: Sau khi thức dậy, tôi luôn nhớ dọn dẹp giường (make my bed).",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p style=\"line-height: 1.5;\"><span id=\"docs-internal-guid-2af68402-7fff-c32e-3cb2-9f97e9726402\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-ExtraBold;\">Exercise 3. Complete the sentences using the expressions given in part C.</span> </span><span style=\"font-size: 12pt; color: #242938; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Ho&agrave;n th&agrave;nh c&aacute;c c&acirc;u b&ecirc;n dưới bằng c&aacute;ch sử dụng c&aacute;c cụm từ đ&atilde; được cho sẵn từ phần C.)</span></span></p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.56; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"color: #000000;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. I always make a lot of <span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_0]</span></span></span><span style=\"font-family: Nunito-Regular; background-color: transparent; font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> when I speak English.</span><span style=\"font-family: Nunito-Regular; background-color: transparent; font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.56; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"color: #000000;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. Our neighbours had a party last night. They made a lot of <span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_1]</span></span></span><span style=\"font-family: Nunito-Regular; background-color: transparent; font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> .</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.56; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"color: #000000;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. The kids are making a <span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_2]</span></span></span><span style=\"font-family: Nunito-Regular; background-color: transparent; font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> in the bedroom. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.56; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"color: #000000;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. What do you think, the silver car or the white one? We must make our <span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_3]</span></span></span><span style=\"font-family: Nunito-Regular; background-color: transparent; font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> today.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.56; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"color: #000000;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. I'm having a toothache. Can I make an <span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_4]</span></span></span><span style=\"font-family: Nunito-Regular; background-color: transparent; font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> with the dentist? </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.56; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"color: #000000;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. After waking up, I always remember to make my <span style=\"font-family: Nunito-Regular; background-color: transparent; font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_5]</span></span></span> .</span></span></p>\n<p><span id=\"docs-internal-guid-f2919f16-7fff-13bc-ecf8-dee5aa41f627\" style=\"font-family: Nunito-Regular;\"></span></p>",
+        "explain": "<ol start=\"1\" data-path-to-node=\"2\">\n<li>\n<p data-path-to-node=\"2,0,0\"><strong data-path-to-node=\"2,0,0\" data-index-in-node=\"0\">I always make a lot of [mistakes] when I speak English.</strong></p>\n</li>\n</ol>\n<ul data-path-to-node=\"3\">\n<li>\n<p data-path-to-node=\"3,0,0\"><strong data-path-to-node=\"3,0,0\" data-index-in-node=\"0\">Giải thích:</strong> <em>Tôi luôn mắc rất nhiều lỗi (<strong data-path-to-node=\"3,0,0\" data-index-in-node=\"40\">make mistakes</strong>) khi tôi nói tiếng Anh.</em></p>\n</li>\n</ul>\n<ol start=\"2\" data-path-to-node=\"4\">\n<li>\n<p data-path-to-node=\"4,0,0\"><strong data-path-to-node=\"4,0,0\" data-index-in-node=\"0\">Our neighbours had a party last night. They made a lot of [noise].</strong></p>\n</li>\n</ol>\n<ul data-path-to-node=\"5\">\n<li>\n<p data-path-to-node=\"5,0,0\"><strong data-path-to-node=\"5,0,0\" data-index-in-node=\"0\">Giải thích:</strong><em> Những người hàng xóm của chúng tôi đã tổ chức tiệc tối qua. Họ đã làm ồn rất nhiều (<strong data-path-to-node=\"5,0,0\" data-index-in-node=\"96\">make noise</strong>).</em></p>\n</li>\n</ul>\n<ol start=\"3\" data-path-to-node=\"6\">\n<li>\n<p data-path-to-node=\"6,0,0\"><strong data-path-to-node=\"6,0,0\" data-index-in-node=\"0\">The kids are making a [mess] in the bedroom.</strong></p>\n</li>\n</ol>\n<ul data-path-to-node=\"7\">\n<li>\n<p data-path-to-node=\"7,0,0\"><strong data-path-to-node=\"7,0,0\" data-index-in-node=\"0\">Giải thích:</strong> <em>Những đứa trẻ đang bày bừa (<strong data-path-to-node=\"7,0,0\" data-index-in-node=\"40\">make a mess</strong>) ở trong phòng ngủ.</em></p>\n</li>\n</ul>\n<ol start=\"4\" data-path-to-node=\"8\">\n<li>\n<p data-path-to-node=\"8,0,0\"><strong data-path-to-node=\"8,0,0\" data-index-in-node=\"0\">What do you think, the silver car or the white one? We must make our [choice] today.</strong></p>\n</li>\n</ol>\n<ul data-path-to-node=\"9\">\n<li>\n<p data-path-to-node=\"9,0,0\"><strong data-path-to-node=\"9,0,0\" data-index-in-node=\"0\">Giải thích:</strong> <em>Bạn nghĩ sao, chiếc xe màu bạc hay chiếc màu trắng? Chúng ta phải đưa ra lựa chọn (<strong data-path-to-node=\"9,0,0\" data-index-in-node=\"96\">make a choice</strong>) của mình trong ngày hôm nay.</em></p>\n</li>\n</ul>\n<ol start=\"5\" data-path-to-node=\"10\">\n<li>\n<p data-path-to-node=\"10,0,0\"><strong data-path-to-node=\"10,0,0\" data-index-in-node=\"0\">I’m having a toothache. Can I make an [appointment] with the dentist?</strong></p>\n</li>\n</ol>\n<ul data-path-to-node=\"11\">\n<li>\n<p data-path-to-node=\"11,0,0\"><strong data-path-to-node=\"11,0,0\" data-index-in-node=\"0\">Giải thích:</strong> <em>Tôi đang bị đau răng. Tôi có thể đặt lịch hẹn (<strong data-path-to-node=\"11,0,0\" data-index-in-node=\"59\">make an appointment</strong>) với nha sĩ được không?</em></p>\n</li>\n</ul>\n<ol start=\"6\" data-path-to-node=\"12\">\n<li>\n<p data-path-to-node=\"12,0,0\"><strong data-path-to-node=\"12,0,0\" data-index-in-node=\"0\">After waking up, I always remember to make my [bed].</strong></p>\n</li>\n</ol>\n<ul data-path-to-node=\"13\">\n<li>\n<p data-path-to-node=\"13,0,0\"><strong data-path-to-node=\"13,0,0\" data-index-in-node=\"0\">Giải thích:</strong> <em>Sau khi thức dậy, tôi luôn nhớ dọn dẹp giường (<strong data-path-to-node=\"13,0,0\" data-index-in-node=\"59\">make my bed</strong>).</em></p>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 6,
+        "totalCorrect": 6,
+        "userAnswer": {
+          "input_0": "mistakes",
+          "input_1": "noise",
+          "input_2": "mess",
+          "input_3": "choice",
+          "input_4": "appointment",
+          "input_5": "bed"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "mistakes"
+          ],
+          "input_1": [
+            "noise"
+          ],
+          "input_2": [
+            "mess"
+          ],
+          "input_3": [
+            "choice"
+          ],
+          "input_4": [
+            "appointment"
+          ],
+          "input_5": [
+            "bed"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-273625",
+      "sourceQuestionId": 273625,
+      "challengeId": 29126,
+      "classChallengeId": "80410",
+      "title": null,
+      "type": 2,
+      "prompt": "Exercise 4.\n\nGhi lại ít nhất 10 từ/ cụm từ/ câu học được từ phần Vocabulary, kèm theo nghĩa.",
+      "introductionText": "Exercise 4.\n\nGhi lại ít nhất 10 từ/ cụm từ/ câu học được từ phần Vocabulary, kèm theo nghĩa.",
+      "contentText": "Ví dụ: Make the bed - dọn giường",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-ExtraBold; font-size: 12pt;\"><strong>Exercise 4. </strong></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong>Ghi lại &iacute;t nhất 10 từ/ cụm từ/ c&acirc;u học được từ phần Vocabulary, k&egrave;m theo nghĩa.</strong></span></p>",
+        "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">V&iacute; dụ: Make the bed - dọn giường</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "make some coffee - pha cà phê\nmake dinner - nấu bữa tối\nmake breakfast - nấu bữa sáng\nmake some tea - pha trà\nmake a film - làm phim\nmake me feel tired - khiến tôi mệt mỏi\nmake a mistake - mắc lỗi\nmake an appointment - đặt lịch hẹn\nmake my bed - dọn giường\nmake noise - làm ồn\nmake a mess - làm lộn xộn\nmake a good choice - chọn khéo",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-273626",
+      "sourceQuestionId": 273626,
+      "challengeId": 29126,
+      "classChallengeId": "80410",
+      "title": "II. Pronunciation",
+      "type": 2,
+      "prompt": "II. Pronunciation",
+      "introductionText": "",
+      "contentText": "Link nộp bài:",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "II. Pronunciation",
+        "introduction": null,
+        "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong><em>Link nộp b&agrave;i:</em></strong></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "https://drive.google.com/drive/folders/1gnHXRMX_20jCmFtNGF9zgcuW42OjBRD7",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-273627",
+      "sourceQuestionId": 273627,
+      "challengeId": 29127,
+      "classChallengeId": "80411",
+      "title": "I. Vocabulary: Talking and Moving",
+      "type": 1,
+      "prompt": "I. Vocabulary: Talking and Moving",
+      "introductionText": "Talking",
+      "contentText": "Exercise 1. Fill in each gap with one word given in the box below. (Điền vào từng chỗ trống với một từ được cho sẵn trong hộp bên dưới.)\n\nsay\n\n |\n\ntell\n\n |\n\nask\n\n |\n\nspeak\n\n |\n\nanswer\n\n |\n\nreply\n\n |\n\nExample: Can you tell me where the Plaza Hotel is, please?",
+      "answerTemplateText": "1. Did you [input_0] \"Happy Birthday\" to your mother yesterday?\n\n2. He likes to [input_1] me a joke whenever he sees me.\n\n3. Can you [input_2] English?\n\n4. [input_3] me what the problem is so that I can help you!\n\n5. How do you [input_4] \"cat\" in Japanese?\n\n6. Let's [input_5] him to turn off the music, it's too noisy here.\n\n7. Can you [input_6] me your address?\n\n8. I think I should [input_7] for the bill.\n\n9. I was sad because my best friend didn't [input_8] to my texts two days ago.\n\n10. Lisa, can you [input_9] the door, please? I'm busy here.",
+      "explanationText": "1. Khi chúng ta nói \"Happy birthday\" trong ngoặc kép là chúng ta đang tường thuật lại lời nói của người khác, cụ thể ở đây là của nhân vật \"you\" trong câu\n\n=> chọn say \nDịch nghĩa: Hôm qua bạn có nói \"Chúc mừng sinh nhật\" với mẹ không?\n\n2. Khi chúng ta kể điều gì cho ai đó (ở đây là kể cho nhân vật \"me\" về \"a joke - 1 câu chuyện hài hước”), chúng ta sẽ dùng \"tell\"\n\n=> chọn tell\n\nDịch nghĩa: Anh ấy thích kể cho tôi một câu chuyện cười bất cứ khi nào anh ấy gặp tôi.\n\n3. Khi nói về khả năng sử dụng ngôn ngữ, ta dùng “speak”.\n\n=> ở đây chúng ta đang nói đến \"English\" (tiếng Anh) \n\n=> chọn speak\n\nDịch nghĩa: Bạn có thể nói tiếng Anh không?\n\n4. “Tell” đi với tân ngữ và một mệnh đề phía sau (trong câu này là cụm “me what the problem is”).\n\n=> Chọn tell\n\nDịch nghĩa: Hãy nói cho tôi vấn đề là gì để tôi có thể giúp bạn!\n\n5. Khi hỏi cách nói một từ, chúng ta dùng “say” + từ cụ thể.\n\n=> trong trường hợp này là \"say \"cat\" in Japanese\" (nói \"con mèo\" bằng tiếng Nhật)\n\nDịch nghĩa: Bạn nói \"cat\" trong tiếng Nhật như thế nào?\n\n6. “Ask” nếu mang tính nhờ vả lịch sự, “tell” nếu ra lệnh\n\n=> đều hợp ngữ cảnh và 1 trong 2 đáp án đều đúng\n\nDịch nghĩa: Chúng ta hãy bảo anh ấy tắt nhạc đi, ở đây ồn quá.\n\n7. “Tell” đi với tân ngữ khi yêu cầu cung cấp thông tin.\n\n=> đối với câu này, chúng ta đang cần hỏi thông tin về \"address\" (địa chỉ) => chọn tell\n\nDịch nghĩa: Bạn có thể cho tôi biết địa chỉ của bạn không?\n\n8. “Ask” dùng khi yêu cầu một vật hay dịch vụ, ví dụ như “the bill” (hoá đơn) trong câu này.\n\nDịch nghĩa: Tôi nghĩ tôi nên yêu cầu tính tiền.\n\n9. “Reply” dùng để phản hồi tin nhắn, thư từ.\n\n=> phù hợp nhất với câu này khi chúng ta đang cần phản hồi \"texts\" (tin nhắn)\n\nDịch nghĩa: Tôi đã buồn vì bạn thân của tôi đã không trả lời tin nhắn của tôi hai ngày trước. \n\n10 “Answer” dùng khi phản hồi chuông cửa, điện thoại, câu hỏi.\n\n=> trong ngữ cảnh này là mở cửa\n\nDịch nghĩa: Lisa, làm ơn ra mở cửa giúp tôi được không? Tôi đang bận.",
+      "rawHtml": {
+        "title": "I. Vocabulary: Talking and Moving",
+        "introduction": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong><span style=\"color: #c00000;\">Talking</span></strong></span></p>",
+        "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-family: Nunito-ExtraBold;\">Exercise 1. Fill in each gap with one word given in the box below.</span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-family: Nunito-ExtraBold;\"> </span>(Điền v&agrave;o từng chỗ trống với một từ được cho sẵn trong hộp b&ecirc;n dưới.)</span></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border-collapse: collapse; width: 451.276pt; border-color: initial; border-style: solid;\" border=\"1pt\" cellpadding=\"5pt\"><colgroup><col style=\"width: 150px;\" /><col style=\"width: 150px;\" /><col style=\"width: 150px;\" /><col style=\"width: 150px;\" /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"border-left: solid #000000 1pt; border-right: solid #ffffff 1pt; border-bottom: solid #000000 1pt; border-top: solid #000000 1pt; vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">say</span></p>\n</td>\n<td style=\"border-left: solid #ffffff 1pt; border-right: solid #ffffff 1pt; border-bottom: solid #000000 1pt; border-top: solid #000000 1pt; vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">tell</span></p>\n</td>\n<td style=\"border-left: solid #ffffff 1pt; border-right: solid #ffffff 1pt; border-bottom: solid #000000 1pt; border-top: solid #000000 1pt; vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">ask&nbsp;</span></p>\n</td>\n<td style=\"border-left: solid #ffffff 1pt; border-right: solid #000000 1pt; border-bottom: solid #000000 1pt; border-top: solid #000000 1pt; vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">speak</span></p>\n</td>\n</tr>\n<tr style=\"height: 22pt;\">\n<td style=\"border-left: solid #000000 1pt; border-right: solid #ffffff 1pt; border-bottom: solid #000000 1pt; border-top: solid #000000 1pt; vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word;\" colspan=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">answer</span></p>\n</td>\n<td style=\"border-left: solid #ffffff 1pt; border-right: solid #ffffff 1pt; border-bottom: solid #000000 1pt; border-top: solid #000000 1pt; vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word;\" colspan=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">reply</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><span id=\"docs-internal-guid-1bd3b5f2-7fff-1a04-11fb-95cbfd7faa88\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Example: Can you </span><span style=\"font-size: 12pt; color: #c0392b; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">tell </span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">me where the Plaza Hotel is, please?</span></span></p>",
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. Did you [input_0] \"Happy Birthday\" to your mother yesterday? </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. He likes to [input_1]</span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">me a joke whenever he sees me.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. Can you [input_2] English?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. [input_3] me what the problem is so that I can help you! </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. How do you [input_4] \"cat\" in Japanese? </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. Let's [input_5] him to turn off the music, it's too noisy here.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. Can you [input_6]</span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> me your address? </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. I think I should [input_7] for the bill. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9. I was sad because my best friend didn't [input_8] to my texts two days ago. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span id=\"docs-internal-guid-258ed828-7fff-b453-ac68-876e746bbd4b\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">10. Lisa, can you [input_9] the door, please? I'm busy here. </span></span></p>",
+        "explain": "<p>1. Khi chúng ta nói \"Happy birthday\" trong ngoặc kép là chúng ta đang tường thuật lại lời nói của người khác, cụ thể ở đây là của nhân vật \"you\" trong câu</p>\n<p>=&gt; chọn <span style=\"color: #e03e2d;\"><strong>say <br /></strong><span style=\"color: #000000;\"><strong>Dịch nghĩa:</strong> <em>Hôm qua bạn có nói \"Chúc mừng sinh nhật\" với mẹ không?</em></span><strong><br /></strong></span></p>\n<p>2. Khi chúng ta kể điều gì cho ai đó (ở đây là kể cho nhân vật \"me\" về \"a joke - 1 câu chuyện hài hước”), chúng ta sẽ dùng \"tell\"</p>\n<p>=&gt; chọn <span style=\"color: #e03e2d;\"><strong>tell</strong></span></p>\n<p><strong>Dịch nghĩa:</strong> <em>Anh ấy thích kể cho tôi một câu chuyện cười bất cứ khi nào anh ấy gặp tôi.</em></p>\n<p>3. Khi nói về khả năng sử dụng ngôn ngữ, ta dùng “speak”.</p>\n<p>=&gt; ở đây chúng ta đang nói đến \"English\" (tiếng Anh) </p>\n<p>=&gt; chọn <strong><span style=\"color: #e03e2d;\">speak</span></strong></p>\n<p><strong>Dịch nghĩa:</strong> <em>Bạn có thể nói tiếng Anh không?</em></p>\n<p>4. “Tell” đi với tân ngữ và một mệnh đề phía sau (trong câu này là cụm “me what the problem is”).</p>\n<p>=&gt; Chọn<strong data-start=\"541\" data-end=\"598\"> <span style=\"color: #e03e2d;\">tell</span></strong></p>\n<p data-start=\"603\" data-end=\"699\"><strong>Dịch nghĩa:</strong> <em>Hãy nói cho tôi vấn đề là gì để tôi có thể giúp bạn!</em></p>\n<p data-start=\"603\" data-end=\"699\">5. Khi hỏi cách nói một từ, chúng ta dùng <strong data-start=\"633\" data-end=\"642\">“<span style=\"color: #e03e2d;\">say</span>”</strong> + từ cụ thể.</p>\n<p data-start=\"603\" data-end=\"699\">=&gt; trong trường hợp này là \"say \"cat\" in Japanese\" (nói \"con mèo\" bằng tiếng Nhật)</p>\n<p data-start=\"603\" data-end=\"699\"><strong>Dịch nghĩa:</strong> <em>Bạn nói \"cat\" trong tiếng Nhật như thế nào?</em></p>\n<p data-start=\"603\" data-end=\"699\">6. “<strong><span style=\"color: #e03e2d;\">Ask</span></strong>” nếu mang tính nhờ vả lịch sự, “<span style=\"color: #e03e2d;\"><strong>tell</strong></span>” nếu ra lệnh</p>\n<p data-start=\"603\" data-end=\"699\">=&gt; đều hợp ngữ cảnh và 1 trong 2 đáp án đều đúng</p>\n<p data-start=\"856\" data-end=\"949\"><strong>Dịch nghĩa:</strong> <em>Chúng ta hãy bảo anh ấy tắt nhạc đi, ở đây ồn quá.</em></p>\n<p data-start=\"856\" data-end=\"949\">7. “<span style=\"color: #e03e2d;\"><strong>Tell</strong></span>” đi với tân ngữ khi yêu cầu cung cấp thông tin.</p>\n<p data-start=\"856\" data-end=\"949\">=&gt; đối với câu này, chúng ta đang cần hỏi thông tin về \"address\" (địa chỉ) =&gt; chọn <span style=\"color: #e03e2d;\"><strong>tell</strong></span></p>\n<p data-start=\"954\" data-end=\"1058\"><strong>Dịch nghĩa:</strong> <em>Bạn có thể cho tôi biết địa chỉ của bạn không?</em></p>\n<p data-start=\"954\" data-end=\"1058\">8. “<span style=\"color: #e03e2d;\"><strong>Ask</strong></span>” dùng khi yêu cầu một vật hay dịch vụ, ví dụ như “the bill” (hoá đơn) trong câu này.</p>\n<p data-start=\"954\" data-end=\"1058\"><strong>Dịch nghĩa:</strong> <em>Tôi nghĩ tôi nên yêu cầu tính tiền.</em></p>\n<p data-start=\"1063\" data-end=\"1187\">9. “<span style=\"color: #e03e2d;\"><strong>Reply</strong></span>” dùng để phản hồi tin nhắn, thư từ.</p>\n<p data-start=\"1063\" data-end=\"1187\">=&gt; phù hợp nhất với câu này khi chúng ta đang cần phản hồi \"texts\" (tin nhắn)</p>\n<p data-start=\"1063\" data-end=\"1187\"><strong>Dịch nghĩa:</strong> <em>Tôi đã buồn vì bạn thân của tôi đã không trả lời tin nhắn của tôi hai ngày trước.</em> </p>\n<p data-start=\"1193\" data-end=\"1316\" data-is-last-node=\"\">10 “<span style=\"color: #e03e2d;\"><strong>Answer</strong></span>” dùng khi phản hồi chuông cửa, điện thoại, câu hỏi.</p>\n<p data-start=\"1193\" data-end=\"1316\" data-is-last-node=\"\">=&gt; trong ngữ cảnh này là mở cửa</p>\n<p data-start=\"1193\" data-end=\"1316\" data-is-last-node=\"\"><strong>Dịch nghĩa:</strong> <em>Lisa, làm ơn ra mở cửa giúp tôi được không? Tôi đang bận.</em></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 10,
+        "totalCorrect": 9,
+        "userAnswer": {
+          "input_0": "say",
+          "input_1": "answer",
+          "input_2": "speak",
+          "input_3": "Tell",
+          "input_4": "say",
+          "input_5": "ask",
+          "input_6": "tell",
+          "input_7": "ask",
+          "input_8": "reply",
+          "input_9": "answer"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "say"
+          ],
+          "input_1": [
+            "tell"
+          ],
+          "input_2": [
+            "speak"
+          ],
+          "input_3": [
+            "Tell",
+            "tell"
+          ],
+          "input_4": [
+            "say"
+          ],
+          "input_5": [
+            "ask",
+            "tell"
+          ],
+          "input_6": [
+            "tell"
+          ],
+          "input_7": [
+            "ask"
+          ],
+          "input_8": [
+            "reply"
+          ],
+          "input_9": [
+            "answer"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": false,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": true,
+          "input_9": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-273628",
+      "sourceQuestionId": 273628,
+      "challengeId": 29127,
+      "classChallengeId": "80411",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2. Match the verbs on the left with the words on the right. (Nối động từ ở cột bên trái với cụm từ phù hợp)",
+      "introductionText": "Exercise 2. Match the verbs on the left with the words on the right. (Nối động từ ở cột bên trái với cụm từ phù hợp)",
+      "contentText": "1. say\n\n |\n\na. a letter\n\n |\n\n2. answer\n\n |\n\nb. someone to help you\n\n |\n\n3. ask for\n\n |\n\nc. Japanese\n\n |\n\n4. reply to\n\n |\n\nd. Happy New Year\n\n |\n\n5. tell\n\n |\n\ne. a friend\n\n |\n\n6. talk to\n\n |\n\nf. someone a joke\n\n |\n\n7. ask\n\n |\n\ng. the bill\n\n |\n\n8. speak\n\n |\n\nh. the door\n\n |\n\n \n\nExample: 1. d",
+      "answerTemplateText": "2. [input_0]\n\n3. [input_1]\n\n4. [input_2]\n\n5. [input_3]\n\n6. [input_4]\n\n7. [input_5]\n\n8. [input_6]",
+      "explanationText": "1. say - d. Happy New Year→ “Say” dùng để nói điều gì cụ thể, thường là một cụm từ/ lời chúc => nói \"Chúc mừng năm mới\"\n\n2. answer – h. the door→ “Answer” dùng khi phản hồi cuộc gọi, tiếng chuông, cửa,… => mở cửa\n\n3. ask for – g. the bill→ “Ask for” dùng khi yêu cầu một thứ gì đó => xin hóa đơn\n\n4. reply to – a. a letter→ “Reply to” dùng khi phản hồi thư, tin nhắn => phản hồi 1 bức thư\n\n5. tell – f. someone a joke→ “Tell” đi với tân ngữ và một thông tin cụ thể => kể ai đó một chuyện cười)\n\n6. talk to – e. a friend→ “Talk to” dùng để trò chuyện với ai đó => nói chuyện với bạn\n\n7. ask – b. someone to help you→ “Ask” ai đó làm gì => nhờ ai đó giúp bạn\n\n8. speak – c. Japanese→ “Speak” dùng khi nói về khả năng dùng ngôn ngữ => nói tiếng Nhật",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p style=\"line-height: 1.5;\"><span id=\"docs-internal-guid-f3472781-7fff-298a-589a-904cf6c928b2\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; font-family: Nunito-ExtraBold;\">Exercise 2. Match the verbs on the left with the words on the right</span><span style=\"font-size: 12pt; color: #242938; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-ExtraBold;\">.</span> (Nối động từ ở cột b&ecirc;n tr&aacute;i với cụm từ ph&ugrave; hợp)</span></span></p>",
+        "content": "<p dir=\"ltr\" style=\"line-height: 1.8; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n<p><span id=\"docs-internal-guid-b795ac92-7fff-15ce-5fa3-389fb8b75544\" style=\"font-family: Nunito-Regular;\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 451.276pt; height: 160.666px;\"><colgroup><col style=\"width: 300px;\" /><col style=\"width: 300px;\" /></colgroup>\n<tbody>\n<tr style=\"height: 20.0833px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000; height: 20.0833px; text-align: center;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. say</span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span class=\"Apple-tab-span\" style=\"white-space: pre;\"> </span></span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span class=\"Apple-tab-span\" style=\"white-space: pre;\"> </span></span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span class=\"Apple-tab-span\" style=\"white-space: pre;\"> </span></span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span class=\"Apple-tab-span\" style=\"white-space: pre;\"> </span></span></span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000; height: 20.0833px; text-align: center;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a. a letter</span></p>\n</td>\n</tr>\n<tr style=\"height: 20.0833px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000; height: 20.0833px; text-align: center;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. answer</span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span class=\"Apple-tab-span\" style=\"white-space: pre;\"> </span></span></span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000; height: 20.0833px; text-align: center;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">b. someone to help you</span></p>\n</td>\n</tr>\n<tr style=\"height: 20.0833px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000; height: 20.0833px; text-align: center;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. ask for</span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span class=\"Apple-tab-span\" style=\"white-space: pre;\"> </span></span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span class=\"Apple-tab-span\" style=\"white-space: pre;\"> </span></span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span class=\"Apple-tab-span\" style=\"white-space: pre;\"> </span></span></span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000; height: 20.0833px; text-align: center;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">c. Japanese</span></p>\n</td>\n</tr>\n<tr style=\"height: 20.0833px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000; height: 20.0833px; text-align: center;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. reply to</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000; height: 20.0833px; text-align: center;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">d. Happy New Year</span></p>\n</td>\n</tr>\n<tr style=\"height: 20.0833px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000; height: 20.0833px; text-align: center;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. tell</span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span class=\"Apple-tab-span\" style=\"white-space: pre;\"> </span></span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span class=\"Apple-tab-span\" style=\"white-space: pre;\"> </span></span></span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000; height: 20.0833px; text-align: center;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">e. a friend</span></p>\n</td>\n</tr>\n<tr style=\"height: 20.0833px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000; height: 20.0833px; text-align: center;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. talk to </span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000; height: 20.0833px; text-align: center;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">f. someone a joke</span></p>\n</td>\n</tr>\n<tr style=\"height: 20.0833px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000; height: 20.0833px; text-align: center;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. ask</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000; height: 20.0833px; text-align: center;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">g. the bill</span></p>\n</td>\n</tr>\n<tr style=\"height: 20.0833px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000; height: 20.0833px; text-align: center;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. speak</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000; height: 20.0833px; text-align: center;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">h. the door</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p><em><span style=\"font-family: Nunito-Regular;\">Example: 1. d</span></em></p>\n</div>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular;\">2. [input_0]</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">3. [input_1]</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">4. [input_2]</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">5. [input_3]</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">6. [input_4]</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">7. [input_5]</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">8. [input_6]</span></p>",
+        "explain": "<p data-start=\"111\" data-end=\"208\"><strong data-start=\"111\" data-end=\"138\">1. say - d. Happy New Year</strong><br data-start=\"138\" data-end=\"141\" />→ “Say” dùng để nói điều gì cụ thể, thường là một cụm từ/ lời chúc =&gt; nói \"Chúc mừng năm mới\"</p>\n<p data-start=\"213\" data-end=\"298\"><strong data-start=\"213\" data-end=\"237\">2. answer – h. the door</strong><br data-start=\"237\" data-end=\"240\" />→ “Answer” dùng khi phản hồi cuộc gọi, tiếng chuông, cửa,… =&gt; mở cửa</p>\n<p data-start=\"303\" data-end=\"388\"><strong data-start=\"303\" data-end=\"328\">3. ask for – g. the bill</strong><br data-start=\"328\" data-end=\"331\" />→ “Ask for” dùng khi yêu cầu một thứ gì đó =&gt; xin hóa đơn</p>\n<p data-start=\"393\" data-end=\"467\"><strong data-start=\"393\" data-end=\"419\">4. reply to – a. a letter</strong><br data-start=\"419\" data-end=\"422\" />→ “Reply to” dùng khi phản hồi thư, tin nhắn =&gt; phản hồi 1 bức thư</p>\n<p data-start=\"472\" data-end=\"578\"><strong data-start=\"472\" data-end=\"500\">5. tell – f. someone a joke</strong><br data-start=\"500\" data-end=\"503\" />→ “Tell” đi với tân ngữ và một thông tin cụ thể =&gt; kể ai đó một chuyện cười)</p>\n<p data-start=\"583\" data-end=\"652\"><strong data-start=\"583\" data-end=\"608\">6. talk to – e. a friend</strong><br data-start=\"608\" data-end=\"611\" />→ “Talk to” dùng để trò chuyện với ai đó =&gt; nói chuyện với bạn</p>\n<p data-start=\"657\" data-end=\"739\"><strong data-start=\"657\" data-end=\"689\">7. ask – b. someone to help you</strong><br data-start=\"689\" data-end=\"692\" />→ “Ask” ai đó làm gì =&gt; nhờ ai đó giúp bạn</p>\n<p data-start=\"744\" data-end=\"819\"><strong data-start=\"744\" data-end=\"767\">8. speak – c. Japanese</strong><br data-start=\"767\" data-end=\"770\" />→ “Speak” dùng khi nói về khả năng dùng ngôn ngữ =&gt; nói tiếng Nhật</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 7,
+        "totalCorrect": 1,
+        "userAnswer": {
+          "input_0": "d",
+          "input_1": "h",
+          "input_2": "b",
+          "input_3": "a",
+          "input_4": "f",
+          "input_5": "e",
+          "input_6": "c"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "h"
+          ],
+          "input_1": [
+            "g"
+          ],
+          "input_2": [
+            "a"
+          ],
+          "input_3": [
+            "f"
+          ],
+          "input_4": [
+            "e"
+          ],
+          "input_5": [
+            "b"
+          ],
+          "input_6": [
+            "c"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false,
+          "input_1": false,
+          "input_2": false,
+          "input_3": false,
+          "input_4": false,
+          "input_5": false,
+          "input_6": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-273629",
+      "sourceQuestionId": 273629,
+      "challengeId": 29127,
+      "classChallengeId": "80411",
+      "title": null,
+      "type": 1,
+      "prompt": "Moving",
+      "introductionText": "Moving",
+      "contentText": "Exercise 3. Fill in each gap with one word given in the box below. (Điền vào từng chỗ trống với một từ được cho sẵn trong hộp bên dưới.)\n\nwalk\n\n |\n\nrun\n\n |\n\njump\n\n |\n\ndance\n\n |\n\nswim\n\n |\n\nclimb\n\n |\n\nfall\n\n |\n\nExample: Jack likes to walk round the park every morning but Silvia prefers to run round it with her dog.",
+      "answerTemplateText": "1. People usually [input_0]  at a party.\n\n2. Every day I [input_1] three kilometers before breakfast.\n\n3. I learned how to [input_2] last summer. The water was cool and the swimming pool was very clean.\n\n4. Did you [input_3] any mountains on your trip?\n\n5. It is easy to [input_4] when the floor is slippery.\n\n6. It is better for you to [input_5] to work than to go by car.\n\n7. My children usually [input_6] up and down when they are excited.",
+      "explanationText": "Mỗi từ là một hành động di chuyển, chúng ta cần chọn đúng động từ cho phù hợp với ngữ cảnh trong câu.\n\n1. People usually [dance] at a party.\n\n“Party” là bữa tiệc, ở tiệc mọi người nhảy múa theo nhạc, nên dùng dance = nhảy múa.=> chọn dance\n\n2. Every day I [run/walk] three kilometers before breakfast.\n\nCâu này nói về tập thể dục trước bữa sáng (before breakfast).\n\nNếu bạn chạy thể dục → dùng run.\n\nNếu bạn đi bộ nhẹ nhàng → dùng walk.\n\n=> Cả hai đều đúng, tùy vào thói quen.\n\n3. I learned how to [swim] last summer.\n\n“Learned” là học, và đang nói về \"swimming pool\" (bể bơi) → học bơi.=> chọn swim\n\n4. Did you [climb] any mountains on your trip?\n\n“Mountains” là núi → leo núi dùng từ climb.\n\n5. It is easy to [fall] when the floor is slippery.\n\n“Slippery” = trơn, trượt → dễ bị ngã => dùng fall (ngã)\n\n6. It is better for you to [walk] to work than to go by car.\n\nNói về việc đi làm, đi bộ thường tốt hơn đi xe.=> Chọn walk\n\n7. My children usually [jump] up and down when they are excited.\n\n“Excited” = hào hứng → khi trẻ con hào hứng thì thường hay nhảy lên nhảy xuống, dùng jump.",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-size: 12pt; font-family: Nunito-ExtraBold;\"><span style=\"color: #c00000;\">Moving</span></span></p>",
+        "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-family: Nunito-ExtraBold;\">Exercise 3. Fill in each gap with one word given in the box below.</span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000; font-family: Nunito-ExtraBold;\"> </span>(Điền v&agrave;o từng chỗ trống với một từ được cho sẵn trong hộp b&ecirc;n dưới.)</span></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 451.27559055118115pt;\"><colgroup><col /><col /><col /><col /><col /><col /><col /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">walk</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">run</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">jump</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">dance</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">swim</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">climb</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">fall</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><span id=\"docs-internal-guid-5ebabec1-7fff-e511-c0b5-cd9b61e91de0\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Example: Jack likes to </span><span style=\"font-size: 12pt; color: #c0392b; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">walk </span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">round the park every morning but Silvia prefers to </span><span style=\"font-size: 12pt; color: #c0392b; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">run</span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> round it with her dog.</span></span></p>",
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. People usually [input_0]  at a party. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. Every day I [input_1] three kilometers before breakfast. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. I learned how to [input_2] last summer. The water was cool and the swimming pool was very clean.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. Did you [input_3] any mountains on your trip? </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. It is easy to [input_4] when the floor is slippery. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. It is better for you to [input_5] to work than to go by car.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span id=\"docs-internal-guid-642c2fa0-7fff-26f9-0a7a-55ca5c1e4567\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">7. My children usually [input_6] up and down when they are excited. </span></span></p>",
+        "explain": "<p>Mỗi từ là một<strong> </strong>hành động di chuyển, chúng ta cần chọn đúng động từ cho phù hợp với ngữ cảnh trong câu.</p>\n<p data-start=\"573\" data-end=\"621\">1. <strong data-start=\"581\" data-end=\"619\">People usually [dance] at a party.</strong></p>\n<p>“Party” là bữa tiệc, ở tiệc mọi người nhảy múa theo nhạc, nên dùng dance = nhảy múa.<br data-start=\"725\" data-end=\"728\" />=&gt; chọn <span style=\"color: #e03e2d;\"><strong>dance</strong></span></p>\n<p data-start=\"751\" data-end=\"822\">2. <strong data-start=\"759\" data-end=\"820\">Every day I [run/walk] three kilometers before breakfast.</strong></p>\n<p>Câu này nói về tập thể dục trước bữa sáng (before breakfast).</p>\n<ul data-start=\"870\" data-end=\"1002\">\n<li data-start=\"870\" data-end=\"914\">Nếu bạn <strong data-start=\"880\" data-end=\"896\">chạy thể dục</strong> → dùng <span style=\"color: #e03e2d;\"><strong data-start=\"904\" data-end=\"911\">run</strong></span>.</li>\n<li data-start=\"915\" data-end=\"1002\">Nếu bạn <strong data-start=\"925\" data-end=\"944\">đi bộ nhẹ nhàng</strong> → dùng <span style=\"color: #e03e2d;\"><strong data-start=\"952\" data-end=\"960\">walk</strong></span>.</li>\n<li data-start=\"915\" data-end=\"1002\">=&gt; Cả hai đều đúng, tùy vào thói quen.</li>\n</ul>\n<p data-start=\"1004\" data-end=\"1054\">3. <strong data-start=\"1012\" data-end=\"1052\">I learned how to [swim] last summer.</strong></p>\n<p>“Learned” là học, và đang nói về \"swimming pool\" (bể bơi) → học bơi.<br data-start=\"1120\" data-end=\"1123\" /><span data-start=\"1126\" data-end=\"1143\">=&gt; </span>chọn<strong data-start=\"1126\" data-end=\"1143\"> <span style=\"color: #e03e2d;\">swim</span></strong></p>\n<p data-start=\"1145\" data-end=\"1202\">4. <strong data-start=\"1153\" data-end=\"1200\">Did you [climb] any mountains on your trip?</strong></p>\n<p>“Mountains” là núi → leo núi dùng từ <span style=\"color: #e03e2d;\"><strong data-start=\"1247\" data-end=\"1256\">climb</strong></span>.</p>\n<p data-start=\"1283\" data-end=\"1345\">5. <strong data-start=\"1291\" data-end=\"1343\">It is easy to [fall] when the floor is slippery.</strong></p>\n<p>“Slippery” = trơn, trượt → dễ bị ngã =&gt; dùng <strong><span style=\"color: #e03e2d;\">fall</span></strong> (ngã)</p>\n<p data-start=\"1429\" data-end=\"1500\">6. <strong data-start=\"1437\" data-end=\"1498\">It is better for you to [walk] to work than to go by car.</strong></p>\n<p>Nói về việc đi làm, đi bộ thường tốt hơn đi xe.<br data-start=\"1550\" data-end=\"1553\" /><span data-start=\"1556\" data-end=\"1573\">=&gt; Chọn </span><span style=\"color: #e03e2d;\"><strong data-start=\"1556\" data-end=\"1573\">walk</strong></span></p>\n<p data-start=\"1575\" data-end=\"1650\">7. <strong data-start=\"1583\" data-end=\"1648\">My children usually [jump] up and down when they are excited.</strong></p>\n<p>“Excited” = hào hứng → khi trẻ con hào hứng thì thường hay <strong data-start=\"1689\" data-end=\"1712\">nhảy lên nhảy xuống</strong>, dùng <span style=\"color: #e03e2d;\"><strong data-start=\"1719\" data-end=\"1727\">jump</strong></span>.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 7,
+        "totalCorrect": 7,
+        "userAnswer": {
+          "input_0": "dance",
+          "input_1": "run",
+          "input_2": "swim",
+          "input_3": "climb",
+          "input_4": "fall",
+          "input_5": "walk",
+          "input_6": "jump"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "dance"
+          ],
+          "input_1": [
+            "run",
+            "walk"
+          ],
+          "input_2": [
+            "swim"
+          ],
+          "input_3": [
+            "climb"
+          ],
+          "input_4": [
+            "fall"
+          ],
+          "input_5": [
+            "walk"
+          ],
+          "input_6": [
+            "jump"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-273630",
+      "sourceQuestionId": 273630,
+      "challengeId": 29127,
+      "classChallengeId": "80411",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 4. Fill in each gap with the words given in the box below. (Điền vào từng chỗ trống với các từ được cho sẵn trong hộp bên dưới.\n\ngo by\n\n |\n\ntake\n\n |\n\nride\n\n |\n\ndrive\n\n |\n\nExample. Can you ride a motorbike?",
+      "introductionText": "",
+      "contentText": "Exercise 4. Fill in each gap with the words given in the box below. (Điền vào từng chỗ trống với các từ được cho sẵn trong hộp bên dưới.\n\ngo by\n\n |\n\ntake\n\n |\n\nride\n\n |\n\ndrive\n\n |\n\nExample. Can you ride a motorbike?",
+      "answerTemplateText": "1. I work for a railway company. I [input_0] a train.\n\n2. They sometimes [input_1] the underground to work.\n\n3. My mom and dad go away from home a lot. They usually [input_2] a plane.\n\n4. Would you like to [input_3]  a horse?\n\n5. Do you prefer to [input_4] motorbike?\n\n6. You never forget how to [input_5] a bicycle.",
+      "explanationText": "1. “Drive” dùng cho người điều khiển phương tiện lớn, có động cơ (xe, tàu, v.v.).→ I work for a railway company. I [drive] a train.\n\n2. “Take” dùng cho việc sử dụng phương tiện giao thông công cộng.→ They sometimes [take] the underground to work.\n\n3. “Take” cũng dùng cho máy bay, tàu, taxi, xe buýt,…→ My mom and dad go away from home a lot. They usually [take] a plane.\n\n4. “Ride” dùng khi cưỡi động vật hoặc điều khiển xe đạp/xe máy/ngựa.→ Would you like to [ride] a horse?\n\n5. “Go by” = đi bằng phương tiện nào đó (go by car/bus/motorbike).→ Do you prefer to [go by] motorbike?\n\n6. “Ride” dùng với xe đạp – loại phương tiện mình điều khiển bằng sức người.→ You never forget how to [ride] a bicycle.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-ExtraBold;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 4.</span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Fill in each gap with the words given in the box below.</span></span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-family: Nunito-ExtraBold;\"> </span>(Điền v&agrave;o từng chỗ trống với c&aacute;c từ được cho sẵn trong hộp b&ecirc;n dưới.</span></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 451.27559055118115pt;\"><colgroup><col /><col /><col /><col /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"border-left: solid #000000 1pt; border-right: solid #ffffff 1pt; border-bottom: solid #000000 1pt; border-top: solid #000000 1pt; vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">go by</span></p>\n</td>\n<td style=\"border-left: solid #ffffff 1pt; border-right: solid #ffffff 1pt; border-bottom: solid #000000 1pt; border-top: solid #000000 1pt; vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">take</span></p>\n</td>\n<td style=\"border-left: solid #ffffff 1pt; border-right: solid #ffffff 1pt; border-bottom: solid #000000 1pt; border-top: solid #000000 1pt; vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">ride</span></p>\n</td>\n<td style=\"border-left: solid #ffffff 1pt; border-right: solid #000000 1pt; border-bottom: solid #000000 1pt; border-top: solid #000000 1pt; vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">drive</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span id=\"docs-internal-guid-4f6c8850-7fff-9329-73dc-728fdb6208e1\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Example. Can you </span><span style=\"font-size: 12pt; color: #c0392b; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">ride </span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a motorbike?</span></span></p>",
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito,sans-serif; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. I work for a railway company. I [input_0] a train. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito,sans-serif; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. They sometimes [input_1] the underground to work. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito,sans-serif; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. My mom and dad go away from home a lot. They usually [input_2] a plane. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito,sans-serif; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. Would you like to [input_3]  a horse? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito,sans-serif; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. Do you prefer to [input_4] motorbike? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito,sans-serif; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. You never forget how to [input_5] a bicycle. </span></p>\n<p><span id=\"docs-internal-guid-fa1f55a2-7fff-dfa8-cdb7-3464e2dd527e\"></span></p>",
+        "explain": "<p data-start=\"92\" data-end=\"226\"><strong data-start=\"92\" data-end=\"103\">1. “Drive”</strong> dùng cho người điều khiển phương tiện lớn, có động cơ (xe, tàu, v.v.).<br data-start=\"169\" data-end=\"172\" />→ I work for a railway company. I <strong data-start=\"206\" data-end=\"217\">[drive]</strong> a train.</p>\n<p data-start=\"231\" data-end=\"352\"><strong data-start=\"231\" data-end=\"241\">2. “Take”</strong> dùng cho việc sử dụng phương tiện giao thông công cộng.<br data-start=\"297\" data-end=\"300\" />→ They sometimes <strong data-start=\"317\" data-end=\"327\">[take]</strong> the underground to work.</p>\n<p data-start=\"357\" data-end=\"488\"><strong data-start=\"357\" data-end=\"367\">3. “Take”</strong> cũng dùng cho máy bay, tàu, taxi, xe buýt,…<br data-start=\"411\" data-end=\"414\" />→ My mom and dad go away from home a lot. They usually <strong data-start=\"469\" data-end=\"479\">[take]</strong> a plane.</p>\n<p data-start=\"493\" data-end=\"604\"><strong data-start=\"493\" data-end=\"503\">4. “Ride”</strong> dùng khi cưỡi động vật hoặc điều khiển xe đạp/xe máy/ngựa.<br data-start=\"562\" data-end=\"565\" />→ Would you like to <strong data-start=\"585\" data-end=\"595\">[ride]</strong> a horse?</p>\n<p data-start=\"609\" data-end=\"720\"><strong data-start=\"609\" data-end=\"620\">5. “Go by”</strong> = đi bằng phương tiện nào đó (go by car/bus/motorbike).<br data-start=\"676\" data-end=\"679\" />→ Do you prefer to <strong data-start=\"698\" data-end=\"709\">[go by]</strong> motorbike?</p>\n<p data-start=\"725\" data-end=\"852\"><strong data-start=\"725\" data-end=\"735\">6. “Ride”</strong> dùng với xe đạp – loại phương tiện mình điều khiển bằng sức người.<br data-start=\"802\" data-end=\"805\" />→ You never forget how to <strong data-start=\"831\" data-end=\"841\">[ride]</strong> a bicycle.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 6,
+        "totalCorrect": 6,
+        "userAnswer": {
+          "input_0": "drive",
+          "input_1": "take",
+          "input_2": "take",
+          "input_3": "ride",
+          "input_4": "go by",
+          "input_5": "ride"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "drive"
+          ],
+          "input_1": [
+            "take"
+          ],
+          "input_2": [
+            "take"
+          ],
+          "input_3": [
+            "ride"
+          ],
+          "input_4": [
+            "go by"
+          ],
+          "input_5": [
+            "ride"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-273631",
+      "sourceQuestionId": 273631,
+      "challengeId": 29127,
+      "classChallengeId": "80411",
+      "title": null,
+      "type": 2,
+      "prompt": "Exercise 5.  Ghi lại ít nhất 10 từ/ cụm từ/ câu học được từ phần Vocabulary, kèm theo nghĩa.",
+      "introductionText": "Exercise 5.  Ghi lại ít nhất 10 từ/ cụm từ/ câu học được từ phần Vocabulary, kèm theo nghĩa.",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-size: 12pt; font-family: Nunito-ExtraBold;\"><strong>Exercise 5.&nbsp;&nbsp;Ghi lại &iacute;t nhất 10 từ/ cụm từ/ c&acirc;u học được từ phần Vocabulary, k&egrave;m theo nghĩa.</strong></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "say please - nói làm ơn\nsay Happy Birthday - chúc mừng sinh nhật\ntell a joke - kể chuyện cười\ntell a story - kể chuyện\ntell someone the time - nói giờ cho ai\nask a question - đặt câu hỏi\nask for the bill - xin hóa đơn\nask someone the way - hỏi đường\nreply to an email - trả lời email\nanswer the telephone - nghe điện thoại\nanswer the door - mở cửa\ngo by bus - đi xe buýt\nride a motorbike - đi xe máy",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    }
+  ]
+}

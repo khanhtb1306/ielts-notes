@@ -1,0 +1,1348 @@
+{
+  "listItem": {
+    "id": "82862",
+    "challenge_id": 31677,
+    "class_id": "177286917873dop75b27mv",
+    "day": 11,
+    "deadline": "2026-07-06 23:30:00",
+    "challenge_title": "[PRE IELTS] BREAK 2 - CHALLENGE 1",
+    "challenge_note": null,
+    "challenge_status": 1,
+    "challenge_band": "161433861829325240c1g7",
+    "total_question": 35,
+    "classification": "break",
+    "student_challenge": {
+      "id": 569978,
+      "class_challenge_id": 82862,
+      "class_id": "177286917873dop75b27mv",
+      "challenge_id": 31677,
+      "cts_id": "1780455880vwydc1i2ehir",
+      "rate": 1,
+      "comment": "<p>Hi Khánh, bài này mình làm khá tốt nhé. Lần sau em chú ý các dấu câu để hệ thống không bôi đỏ nha.</p>\r\n<p>Với dạng bài nghe, sau khi check đáp án xong em cần nghe lại song song với đọc script để hiểu tại sao mình lại sai, từ đó rút kinh nghiệm cho các bài sau nha.</p>",
+      "url": null,
+      "redo_comment": null,
+      "cancel_comment": null,
+      "date_redo": null,
+      "status_mark": "graded",
+      "status_mark_date": "2026-07-11 01:08:28",
+      "flag_overdue": 0,
+      "flag_not_star": 0,
+      "flag_not_submit": 0,
+      "flag_late_redo": 0,
+      "flag_late_submit": 0,
+      "flag_status_mark": 0,
+      "updated_by": null,
+      "updated": "2026-07-11 01:08:28",
+      "created_by": "1779875378vawpfok6ii4u",
+      "created": "2026-07-05 22:57:18",
+      "correct_answer": 21,
+      "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+      "submitted_at": "2026-07-05 22:57:18",
+      "re_submitted_at": null,
+      "answers": [],
+      "tab_switch_count": 0
+    }
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "82862",
+        "challenge_id": 31677,
+        "class_id": "177286917873dop75b27mv",
+        "day": 11,
+        "deadline": "2026-07-06 23:30:00",
+        "flag_status_mark": 1,
+        "flag_not_submit": 0,
+        "created": "2026-07-02 18:12:38",
+        "created_by": null,
+        "challenge": {
+          "id": "31677",
+          "title": "[PRE IELTS] BREAK 2 - CHALLENGE 1",
+          "note": null,
+          "day": "25",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "161433861829325240c1g7",
+          "created": "2026-07-02 18:12:29",
+          "updated": null,
+          "created_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+          "updated_by": null,
+          "total_question": 35,
+          "classification": "break",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 8069
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 569978,
+        "class_challenge_id": 82862,
+        "class_id": "177286917873dop75b27mv",
+        "challenge_id": 31677,
+        "cts_id": "1780455880vwydc1i2ehir",
+        "rate": 1,
+        "comment": "<p>Hi Khánh, bài này mình làm khá tốt nhé. Lần sau em chú ý các dấu câu để hệ thống không bôi đỏ nha.</p>\r\n<p>Với dạng bài nghe, sau khi check đáp án xong em cần nghe lại song song với đọc script để hiểu tại sao mình lại sai, từ đó rút kinh nghiệm cho các bài sau nha.</p>",
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": "graded",
+        "status_mark_date": "2026-07-11 01:08:28",
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": null,
+        "updated": "2026-07-11 01:08:28",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-07-05 22:57:18",
+        "correct_answer": 21,
+        "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+        "submitted_at": "2026-07-05 22:57:18",
+        "re_submitted_at": null,
+        "answers": {
+          "301022": {
+            "total_question": 2,
+            "total_correct_result_answer": 0,
+            "user_answer": {
+              "input_0": "7. I am well paid.",
+              "input_1": "10. I do the same thing every day."
+            },
+            "correct_answer": {
+              "input_0": [
+                "7",
+                "I am well paid."
+              ],
+              "input_1": [
+                "10",
+                "I do the same thing every day."
+              ]
+            },
+            "result_answer": {
+              "input_0": false,
+              "input_1": false
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 301022,
+            "challenge_id": 31677
+          },
+          "301023": {
+            "total_question": 2,
+            "total_correct_result_answer": 0,
+            "user_answer": {
+              "input_0": "2. I love working with kids.",
+              "input_1": "6. It takes me an hour to drive there every day."
+            },
+            "correct_answer": {
+              "input_0": [
+                "2",
+                "I love working with kids."
+              ],
+              "input_1": [
+                "6",
+                "It takes me an hour to drive there every day."
+              ]
+            },
+            "result_answer": {
+              "input_0": false,
+              "input_1": false
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 301023,
+            "challenge_id": 31677
+          },
+          "301024": {
+            "total_question": 2,
+            "total_correct_result_answer": 0,
+            "user_answer": {
+              "input_0": "9. The people I work with are so nice.",
+              "input_1": "8. I have to travel a lot."
+            },
+            "correct_answer": {
+              "input_0": [
+                "9",
+                "The people I work with are so nice."
+              ],
+              "input_1": [
+                "8",
+                "I have to travel a lot."
+              ]
+            },
+            "result_answer": {
+              "input_0": false,
+              "input_1": false
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 301024,
+            "challenge_id": 31677
+          },
+          "301025": {
+            "total_question": 2,
+            "total_correct_result_answer": 0,
+            "user_answer": {
+              "input_0": "1. I get to meet so many people.",
+              "input_1": "3. I'm always really"
+            },
+            "correct_answer": {
+              "input_0": [
+                "1",
+                "I get to meet so many people."
+              ],
+              "input_1": [
+                "3",
+                "I'm always really tired when I get home at night."
+              ]
+            },
+            "result_answer": {
+              "input_0": false,
+              "input_1": false
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 301025,
+            "challenge_id": 31677
+          },
+          "301026": {
+            "total_question": 2,
+            "total_correct_result_answer": 0,
+            "user_answer": {
+              "input_0": "5. The tips are great.",
+              "input_1": "4. It's hard work and pretty tiring."
+            },
+            "correct_answer": {
+              "input_0": [
+                "5",
+                "The tips are great."
+              ],
+              "input_1": [
+                "4",
+                "It's hard work and pretty tiring, too."
+              ]
+            },
+            "result_answer": {
+              "input_0": false,
+              "input_1": false
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 301026,
+            "challenge_id": 31677
+          },
+          "301027": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": [
+              621518
+            ],
+            "correct_answer": [
+              621518
+            ],
+            "result_answer": {
+              "621518": true
+            },
+            "has_answer_empty": false,
+            "type": 5,
+            "question_id": 301027,
+            "challenge_id": 31677
+          },
+          "301028": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": [
+              621520
+            ],
+            "correct_answer": [
+              621520
+            ],
+            "result_answer": {
+              "621520": true
+            },
+            "has_answer_empty": false,
+            "type": 5,
+            "question_id": 301028,
+            "challenge_id": 31677
+          },
+          "301029": {
+            "total_question": 2,
+            "total_correct_result_answer": 2,
+            "user_answer": [
+              621523,
+              621525
+            ],
+            "correct_answer": [
+              621523,
+              621525
+            ],
+            "result_answer": {
+              "621523": true,
+              "621525": true
+            },
+            "has_answer_empty": false,
+            "type": 5,
+            "question_id": 301029,
+            "challenge_id": 31677
+          },
+          "301030": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": [
+              621528
+            ],
+            "correct_answer": [
+              621528
+            ],
+            "result_answer": {
+              "621528": true
+            },
+            "has_answer_empty": false,
+            "type": 5,
+            "question_id": 301030,
+            "challenge_id": 31677
+          },
+          "301031": {
+            "total_question": 2,
+            "total_correct_result_answer": 2,
+            "user_answer": [
+              621530,
+              621531
+            ],
+            "correct_answer": [
+              621530,
+              621531
+            ],
+            "result_answer": {
+              "621530": true,
+              "621531": true
+            },
+            "has_answer_empty": false,
+            "type": 5,
+            "question_id": 301031,
+            "challenge_id": 31677
+          },
+          "301032": {
+            "total_question": 1,
+            "total_correct_result_answer": 0,
+            "user_answer": {
+              "input_0": "He's not very tall."
+            },
+            "correct_answer": {
+              "input_0": [
+                "He's not very tall, about average."
+              ]
+            },
+            "result_answer": {
+              "input_0": false
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 301032,
+            "challenge_id": 31677
+          },
+          "301033": {
+            "total_question": 1,
+            "total_correct_result_answer": 0,
+            "user_answer": {
+              "input_0": "She's about 170 centimeters tall."
+            },
+            "correct_answer": {
+              "input_0": [
+                "She's pretty tall, about 170 centimeters."
+              ]
+            },
+            "result_answer": {
+              "input_0": false
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 301033,
+            "challenge_id": 31677
+          },
+          "301034": {
+            "total_question": 1,
+            "total_correct_result_answer": 0,
+            "user_answer": {
+              "input_0": "She's got short curly hair and glasses."
+            },
+            "correct_answer": {
+              "input_0": [
+                "She's got glasses and short curly hair."
+              ]
+            },
+            "result_answer": {
+              "input_0": false
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 301034,
+            "challenge_id": 31677
+          },
+          "301035": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": {
+              "input_0": "She's got dark brown hair."
+            },
+            "correct_answer": {
+              "input_0": [
+                "She's got dark brown hair."
+              ]
+            },
+            "result_answer": {
+              "input_0": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 301035,
+            "challenge_id": 31677
+          },
+          "301036": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": {
+              "input_0": "I'd like to meet her."
+            },
+            "correct_answer": {
+              "input_0": [
+                "I'd like to meet her."
+              ]
+            },
+            "result_answer": {
+              "input_0": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 301036,
+            "challenge_id": 31677
+          },
+          "301037": {
+            "total_question": 3,
+            "total_correct_result_answer": 3,
+            "user_answer": [
+              621532,
+              621534,
+              621535
+            ],
+            "correct_answer": [
+              621532,
+              621534,
+              621535
+            ],
+            "result_answer": {
+              "621532": true,
+              "621534": true,
+              "621535": true
+            },
+            "has_answer_empty": false,
+            "type": 5,
+            "question_id": 301037,
+            "challenge_id": 31677
+          },
+          "301038": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": [
+              621536
+            ],
+            "correct_answer": [
+              621536
+            ],
+            "result_answer": {
+              "621536": true
+            },
+            "has_answer_empty": false,
+            "type": 5,
+            "question_id": 301038,
+            "challenge_id": 31677
+          },
+          "301039": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": [
+              621542
+            ],
+            "correct_answer": [
+              621542
+            ],
+            "result_answer": {
+              "621542": true
+            },
+            "has_answer_empty": false,
+            "type": 5,
+            "question_id": 301039,
+            "challenge_id": 31677
+          },
+          "301040": {
+            "total_question": 2,
+            "total_correct_result_answer": 1,
+            "user_answer": [
+              621545
+            ],
+            "correct_answer": [
+              621545,
+              621547
+            ],
+            "result_answer": {
+              "621545": true
+            },
+            "has_answer_empty": false,
+            "type": 5,
+            "question_id": 301040,
+            "challenge_id": 31677
+          },
+          "301041": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 621549,
+            "correct_answer": 621549,
+            "result_answer": {
+              "621549": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 301041,
+            "challenge_id": 31677
+          },
+          "301042": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 621553,
+            "correct_answer": 621553,
+            "result_answer": {
+              "621553": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 301042,
+            "challenge_id": 31677
+          },
+          "301043": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 621554,
+            "correct_answer": 621554,
+            "result_answer": {
+              "621554": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 301043,
+            "challenge_id": 31677
+          },
+          "301044": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 621559,
+            "correct_answer": 621559,
+            "result_answer": {
+              "621559": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 301044,
+            "challenge_id": 31677
+          },
+          "301045": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 621560,
+            "correct_answer": 621560,
+            "result_answer": {
+              "621560": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 301045,
+            "challenge_id": 31677
+          },
+          "301046": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 621563,
+            "correct_answer": 621563,
+            "result_answer": {
+              "621563": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 301046,
+            "challenge_id": 31677
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 85509,
+          "content": "<p><span style=\"font-family: Nunito-ExtraBold; font-size: 16pt;\"><span style=\"color: #e03e2d;\"><span style=\"color: #ba372a;\">Điền form khảo sát tình hình cải thiện Winning habits:</span> </span><span style=\"color: #3598db;\"><a style=\"color: #3598db;\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfNwJX_Q-nW69jS9vWx3an2EoujeJ7ZLjO9puzyEc4zFMfl0A/viewform\" target=\"_blank\" rel=\"noopener\">LINK</a></span></span></p>\n<p><span style=\"font-family: Nunito-Bold; font-size: 12pt;\">Exercise 1</span></p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 85510,
+          "content": null,
+          "index": 1,
+          "type": "audio",
+          "audio_url": "https://api-quiz-maker.langgo.vn/storage/audio/1715586182.mp3",
+          "video_url": null,
+          "transcript": "<p><span id=\"docs-internal-guid-728f8258-7fff-e165-5bdf-02df8ac0ec71\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse;\"><colgroup><col width=\"329\" /><col width=\"348\" /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: So</span><span style=\"color: #000000; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> how do you like your job</span><span style=\"color: #000000; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, Bill?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Well, it was okay at first, but now, after two years, I don&rsquo;t like it.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Oh, why&rsquo;s that?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: It&rsquo;s boring. </span><span style=\"color: #000000; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I do the same thing every day. I&rsquo;m really sick of it.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: So why don&rsquo;t you change jobs?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: </span><span style=\"color: #000000; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I&rsquo;m well-paid</span><span style=\"color: #000000; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. I like the money!</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Oh, I see. But you should leave if you&rsquo;re not happy.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Yeah, maybe I should.</span></p>\n<br /><br />\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Do you like teaching children, Christine?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Oh, yes! I love working with kids. They&rsquo;re so much fun.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Well, I guess you have the perfect job!</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Yeah, I like it a lot. </span><span style=\"color: #000000; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">There&rsquo;s just one thing I don&rsquo;t like.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: What&rsquo;s that?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: The distance to school. It&rsquo;s too far away. </span><span style=\"color: #000000; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">It takes me an hour to drive there every day.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Wow. That must be awful!</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: It is, but the schools that are near me are not as good.</span></p>\n<br /><br />\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: How is your new job going, Anna?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Good, thanks. I really like it.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: </span><span style=\"color: #000000; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">What do you like best about it?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: I think it&rsquo;s the people I work with. They are so nice.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: People make all the difference in a job, don&rsquo;t they?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: They sure do. </span><span style=\"color: #000000; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The only trouble is, I have to travel a lot.</span><span style=\"color: #000000; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> I&rsquo;m away from home for about two weeks every month.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Yeah, that can be difficult.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: It is. I hope I won&rsquo;t have to travel so much next year.</span></p>\n<br />\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Do you enjoy being a salesperson, Nancy?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Yes, I do like it. </span><span style=\"color: #000000; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I get to meet so many people.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Is it hard work?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Yes, it can be. </span><span style=\"color: #000000; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I don&rsquo;t like the long hours.</span><span style=\"color: #000000; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"color: #000000; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I&rsquo;m always really tired when I get home at night.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: That&rsquo;s too bad. Why don&rsquo;t you quit?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Because </span><span style=\"color: #000000; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I think my boss is great to work for.</span></span></p>\n<br /><br />\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: How long have you been working in a restaurant, Martin?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: For more than five years.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Wow. You must really enjoy it.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Oh no, I don&rsquo;t enjoy it at all! </span><span style=\"color: #000000; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">It&rsquo;s hard work and pretty tiring, too.</span><span style=\"color: #000000; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> I&rsquo;m on my feet all night.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Oh, I see.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: But the tips are great. I really should find a better job soon, though.</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Vậy bạn thấy c&ocirc;ng việc của m&igrave;nh như thế n&agrave;o, Bill?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Ban đầu th&igrave; kh&ocirc;ng sao, nhưng b&acirc;y giờ, sau hai năm, t&ocirc;i kh&ocirc;ng th&iacute;ch điều đ&oacute;.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Ồ, tại sao vậy?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B:&nbsp; N&oacute; rất l&agrave; nh&agrave;m ch&aacute;n. T&ocirc;i l&agrave;m đi l&agrave;m lại 1 việc mỗi ng&agrave;y. T&ocirc;i thực sự ph&aacute;t ng&aacute;n v&igrave; n&oacute;.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Vậy tại sao bạn kh&ocirc;ng thay đổi c&ocirc;ng việc?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: T&ocirc;i được trả lương cao. T&ocirc;i th&iacute;ch tiền!</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Ồ, t&ocirc;i hiểu rồi. Nhưng bạn n&ecirc;n rời đi nếu bạn kh&ocirc;ng hạnh ph&uacute;c.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: V&acirc;ng, c&oacute; lẽ t&ocirc;i n&ecirc;n l&agrave;m vậy.</span></p>\n<br />\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Bạn c&oacute; th&iacute;ch dạy trẻ em kh&ocirc;ng, Christine?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Ồ, v&acirc;ng! T&ocirc;i th&iacute;ch l&agrave;m việc với trẻ em. Ch&uacute;ng rất vui.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Ch&agrave;, t&ocirc;i đo&aacute;n bạn c&oacute; một c&ocirc;ng việc ho&agrave;n hảo!</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: V&acirc;ng, t&ocirc;i th&iacute;ch n&oacute; rất nhiều. Chỉ c&oacute; một điều t&ocirc;i kh&ocirc;ng th&iacute;ch.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Đ&oacute; l&agrave; c&aacute;i g&igrave;?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Khoảng c&aacute;ch đến trường. N&oacute; qu&aacute; xa. T&ocirc;i phải mất một giờ để l&aacute;i xe đến đ&oacute; mỗi ng&agrave;y.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Ch&agrave;. Điều đ&oacute; chắc l&agrave; rất khủng khiếp!</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Đ&uacute;ng vậy, nhưng những trường gần t&ocirc;i kh&ocirc;ng tốt bằng.</span></p>\n<br /><br /><br />\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: C&ocirc;ng việc mới của bạn thế n&agrave;o rồi, Anna?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Tốt, cảm ơn nha. T&ocirc;i thực sự th&iacute;ch n&oacute;.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Bạn th&iacute;ch điều g&igrave; nhất về n&oacute;?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: T&ocirc;i nghĩ đ&oacute; l&agrave; những người t&ocirc;i l&agrave;m việc c&ugrave;ng. Họ rất tốt bụng.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Mọi người tạo ra sự kh&aacute;c biệt trong một c&ocirc;ng việc nhỉ?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Họ chắc chắn l&agrave;m được điều đ&oacute;. Rắc rối duy nhất l&agrave;, t&ocirc;i phải đi lại rất nhiều. T&ocirc;i phải xa&nbsp; nh&agrave; khoảng hai tuần mỗi th&aacute;ng.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: V&acirc;ng, điều đ&oacute; c&oacute; thể kh&oacute; khăn.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Đ&uacute;ng vậy. T&ocirc;i hy vọng m&igrave;nh sẽ kh&ocirc;ng phải đi lại nhiều v&agrave;o năm tới.</span></p>\n<br />\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Bạn c&oacute; th&iacute;ch l&agrave;m nh&acirc;n vi&ecirc;n b&aacute;n h&agrave;ng kh&ocirc;ng, Nancy?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: V&acirc;ng, t&ocirc;i th&iacute;ch n&oacute;. T&ocirc;i được gặp rất nhiều người.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: N&oacute; c&oacute; vất vả kh&ocirc;ng?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: C&oacute; thể đ&oacute;. T&ocirc;i kh&ocirc;ng th&iacute;ch phải l&agrave;m nhiều giờ liền. T&ocirc;i lu&ocirc;n thực sự mệt mỏi khi về nh&agrave; v&agrave;o buổi tối.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Điều đ&oacute; qu&aacute; tệ. Tại sao bạn kh&ocirc;ng bỏ việc đi?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Bởi v&igrave; t&ocirc;i nghĩ rằng sếp của t&ocirc;i rất tuyệt khi được l&agrave;m việc.</span></p>\n<br />\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Bạn đ&atilde; l&agrave;m việc trong nh&agrave; h&agrave;ng được bao l&acirc;u rồi, Martin?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Trong hơn 5 năm.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Ch&agrave;. Chắc bạn th&iacute;ch n&oacute; lắm nhỉ.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Ồ kh&ocirc;ng, t&ocirc;i kh&ocirc;ng th&iacute;ch th&uacute; g&igrave; cả! Đ&oacute; l&agrave; c&ocirc;ng việc kh&oacute; khăn v&agrave; cũng kh&aacute; mệt mỏi. T&ocirc;i phải đứng suốt đ&ecirc;m.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Ồ, t&ocirc;i hiểu rồi.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Nhưng m&agrave; được nhiều tiền bo cũng th&iacute;ch. Tuy nhi&ecirc;n, t&ocirc;i n&ecirc;n một c&ocirc;ng việc tốt hơn.</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>",
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 85511,
+          "content": "<p><span style=\"font-family: Nunito-Bold; font-size: 16px;\">Exercise 2</span></p>",
+          "index": 2,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 85512,
+          "content": null,
+          "index": 3,
+          "type": "audio",
+          "audio_url": "https://api-quiz-maker.langgo.vn/storage/audio/1715586253.mp3",
+          "video_url": null,
+          "transcript": "<p><span id=\"docs-internal-guid-32e4df8e-7fff-f452-e10c-bf06f55aa3ce\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: -33.75pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse;\"><colgroup><col width=\"345\" /><col width=\"338\" /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: It&rsquo;s my little boy! We were looking for some pants for my husband. Now I can&rsquo;t find him.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Don&rsquo;t worry, ma&rsquo;am. We&rsquo;ll find him. How old is he?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: He&rsquo;s seven.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: I see. And </span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">what color is his hair?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: It&rsquo;s light brown.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Don&rsquo;t worry. We&rsquo;ll find him for you.</span></p>\n<br /><br />\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: My little girl was here a minute ago, and now I can&rsquo;t find her.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: She&rsquo;s probably in the toy section. Can you describe her?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Yes, she&rsquo;s five years old.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: And </span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">what color hair does she have?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Brown. And it&rsquo;s very curly.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: All right. Let&rsquo;s go to the toy section and see if she&rsquo;s there.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Has anyone seen a young kid?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: How old, sir?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: He&rsquo;s ten. He&rsquo;s always getting lost. Drives me crazy.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Where did you last see him?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Over by the video equipment.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: What color is his hair?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Blond, and pretty long. Too long!</span></p>\n<br />\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Excuse me. I&rsquo;ve lost my little boy. We were looking at some microwaves and he was bored and&hellip;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Calm down, sir. </span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Can you describe him?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Yes. He&rsquo;s eight. Really cute.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: And what color is his hair?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Dark brown.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Okay. Let&rsquo;s see where he is. Just sit down and relax.</span></p>\n<br /><br />\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Excuse me. I&rsquo;ve lost my daughter!</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Is she around 13, about average height, with short blond hair?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Why, yes.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: She&rsquo;s looking for you&mdash;over there, in the shoe department.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Thanks a lot!</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Đ&oacute; l&agrave; cậu con trai nhỏ của t&ocirc;i! Ch&uacute;ng t&ocirc;i đang t&igrave;m v&agrave;i c&aacute;i quần cho chồng t&ocirc;i. B&acirc;y giờ t&ocirc;i kh&ocirc;ng thể t&igrave;m thấy thằng b&eacute;.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt; text-align: left;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Xin đừng lo lắng, thưa b&agrave;. Ch&uacute;ng t&ocirc;i sẽ t&igrave;m được thằng b&eacute;. N&oacute; bao nhi&ecirc;u tuổi vậy?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: N&oacute; bảy tuổi.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: T&ocirc;i hiểu rồi. V&agrave; t&oacute;c của n&oacute; ấy m&agrave;u g&igrave;?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: N&oacute; c&oacute; m&agrave;u n&acirc;u nhạt.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Đừng lo lắng. Ch&uacute;ng t&ocirc;i sẽ t&igrave;m thằng b&eacute; cho b&agrave;.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Con g&aacute;i nhỏ của t&ocirc;i mới ở đ&acirc;y một ph&uacute;t trước, v&agrave; b&acirc;y giờ t&ocirc;i kh&ocirc;ng thể t&igrave;m thấy n&oacute;.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: C&oacute; lẽ con b&eacute; đang ở trong gian h&agrave;ng đồ chơi. Bạn c&oacute; thể m&ocirc; tả con b&eacute;?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: V&acirc;ng, con b&eacute; năm tuổi.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: V&agrave; n&oacute; c&oacute; m&aacute;i t&oacute;c m&agrave;u g&igrave;?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: M&agrave;u n&acirc;u. V&agrave; rất xoăn.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Được rồi. H&atilde;y sang gian đồ chơi v&agrave; xem n&oacute; c&oacute; ở đ&oacute; kh&ocirc;ng.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: C&oacute; ai nh&igrave;n thấy một đứa trẻ nhỏ kh&ocirc;ng?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Bao nhi&ecirc;u tuổi, thưa &ocirc;ng?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: N&oacute; mười tuổi. N&oacute; suốt ng&agrave;y đi lạc ấy. L&agrave;m t&ocirc;i ph&aacute;t đi&ecirc;n l&ecirc;n được.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Lần cuối &ocirc;ng nh&igrave;n thấy n&oacute; l&agrave; ở đ&acirc;u?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Ở chỗ thiết bị video.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: T&oacute;c của thằng b&eacute; m&agrave;u g&igrave;?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: T&oacute;c v&agrave;ng v&agrave; kh&aacute; d&agrave;i. Rất d&agrave;i!</span></p>\n<br />\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Xin lỗi. T&ocirc;i đ&atilde; bị lạc đứa con trai nhỏ của m&igrave;nh. Ch&uacute;ng t&ocirc;i đang xem một số l&ograve; vi s&oacute;ng v&agrave; thằng b&eacute; cảm thấy buồn ch&aacute;n v&agrave;&hellip;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: B&igrave;nh tĩnh, thưa &ocirc;ng. &Ocirc;ng c&oacute; thể mi&ecirc;u tả thằng b&eacute; được kh&ocirc;ng?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: V&acirc;ng. N&oacute; t&aacute;m tuổi. Rất dễ thương.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: V&agrave; t&oacute;c của n&oacute; m&agrave;u g&igrave;?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: M&agrave;u n&acirc;u sẫm.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Được rồi. Để xem n&oacute; đang ở đ&acirc;u. &Ocirc;ng cứ ngồi xuống v&agrave; b&igrave;nh tĩnh nha.</span></p>\n<br />\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Xin lỗi. T&ocirc;i vừa bị lạc con g&aacute;i của m&igrave;nh!</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: N&oacute; khoảng 13 tuổi, chiều cao trung b&igrave;nh, với m&aacute;i t&oacute;c ngắn m&agrave;u v&agrave;ng phải kh&ocirc;ng?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Đ&uacute;ng rồi.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Con b&eacute; đang t&igrave;m bạn đ&oacute; &mdash; ở đằng kia k&igrave;a, trong khu gi&agrave;y d&eacute;p &yacute;.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Cảm ơn rất nhiều!</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>",
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 85513,
+          "content": "<p><span style=\"font-family: Nunito-Bold; font-size: 16px;\">Exercise 3</span></p>",
+          "index": 4,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 85514,
+          "content": null,
+          "index": 5,
+          "type": "audio",
+          "audio_url": "https://api-quiz-maker.langgo.vn/storage/audio/1715586330.mp3",
+          "video_url": null,
+          "transcript": "<p><span id=\"docs-internal-guid-ba432665-7fff-2d11-c29b-7c97da9b28e8\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: -33pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse;\"><colgroup><col width=\"344\" /><col width=\"340\" /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: </span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">What does your girlfriend look like</span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, Tony?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Cindy? Oh, she&rsquo;s tall. And </span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">she&rsquo;s got long, dark brown hair.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2</span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: </span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Tell me about your boyfriend</span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, Anne.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Well, his name&rsquo;s Bob. He&rsquo;s 17. Let me see&hellip;. Well, he&rsquo;s got curly blond hair. </span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">He&rsquo;s not very tall - about average</span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. But </span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">he&rsquo;s really good-looking.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: So, Bob, what&rsquo;s the new girl in class like?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: She&rsquo;s pretty tall, about 170 centimeters. She&rsquo;s got glasses and short curly hair. I think she&rsquo;s about 20.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: What&rsquo;s her name?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: I can&rsquo;t remember. Anne, I think.</span></p>\n<br />\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: So tell me about your cousin, Paul.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Well, she&rsquo;s very pretty.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Really! Is she blond?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: No, she&rsquo;s got dark brown hair. Everybody likes her. She&rsquo;s an actress.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Really? I&rsquo;d like to meet her.</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Bạn g&aacute;i của bạn tr&ocirc;ng như thế n&agrave;o, Tony?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Cindy? Ồ, c&ocirc; ấy cao. V&agrave; c&ocirc; ấy c&oacute; m&aacute;i t&oacute;c d&agrave;i, m&agrave;u n&acirc;u sẫm.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: H&atilde;y kể cho t&ocirc;i nghe về bạn trai của bạn, Anne.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: &Agrave;, anh ấy t&ecirc;n l&agrave; Bob. Anh ấy 17 tuổi.&nbsp; Để xem n&agrave;o&hellip;. Ch&agrave;, anh ấy c&oacute; m&aacute;i t&oacute;c v&agrave;ng xoăn. Anh ấy kh&ocirc;ng cao lắm - chỉ ở mức trung b&igrave;nh. Nhưng anh ấy thực sự đẹp trai.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Vậy, Bob, bạn nữ mới trong lớp tr&ocirc;ng như thế n&agrave;o?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: C&ocirc; ấy kh&aacute; cao, khoảng 170 cm. C&ocirc; ấy đeo k&iacute;nh v&agrave; t&oacute;c ngắn uốn xoăn. T&ocirc;i nghĩ c&ocirc; ấy khoảng 20 tuổi.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: C&ocirc; ấy t&ecirc;n g&igrave;?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: T&ocirc;i kh&ocirc;ng nhớ. Anne, t&ocirc;i nghĩ vậy.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: H&atilde;y kể cho t&ocirc;i nghe về chị/em họ của bạn, Paul.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Ch&agrave;, c&ocirc; ấy rất xinh.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Thật hả! C&ocirc; ấy c&oacute; t&oacute;c v&agrave;ng kh&ocirc;ng?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Kh&ocirc;ng, c&ocirc; ấy c&oacute; m&aacute;i t&oacute;c m&agrave;u n&acirc;u sẫm. Mọi người đều th&iacute;ch c&ocirc; ấy. C&ocirc; ấy l&agrave; một nữ diễn vi&ecirc;n.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Thật &agrave;? T&ocirc;i muốn gặp c&ocirc; ấy.</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>",
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 85515,
+          "content": "<p><span style=\"font-family: Nunito-Bold; font-size: 16px;\">Exercise 4</span></p>",
+          "index": 6,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 85516,
+          "content": null,
+          "index": 7,
+          "type": "audio",
+          "audio_url": "https://api-quiz-maker.langgo.vn/storage/audio/1715586471.mp3",
+          "video_url": null,
+          "transcript": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sonia was very well dressed.</span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> She had on a jacket and a long, dark blue skirt. She was also wearing a yellow blouse. She wasn&rsquo;t carrying a bag, but she did have a small wallet with her. Oh, and I remember she had nice gold earrings. I also remember her shoes. She was wearing black shoes with very high heels.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sonia ăn mặc rất đẹp. C&ocirc; mặc một chiếc &aacute;o kho&aacute;c v&agrave; một chiếc v&aacute;y d&agrave;i m&agrave;u xanh đậm. C&ocirc; ấy đang mặc một chiếc &aacute;o c&aacute;nh m&agrave;u v&agrave;ng. C&ocirc; ấy kh&ocirc;ng mang theo t&uacute;i, nhưng c&ocirc; ấy c&oacute; một chiếc v&iacute; nhỏ b&ecirc;n m&igrave;nh. Ồ, v&agrave; t&ocirc;i nhớ c&ocirc; ấy c&oacute; đ&ocirc;i b&ocirc;ng tai bằng v&agrave;ng rất đẹp. T&ocirc;i cũng nhớ đ&ocirc;i gi&agrave;y của c&ocirc; ấy. C&ocirc; ấy đi một đ&ocirc;i gi&agrave;y đen với g&oacute;t rất cao.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Brian was very casually dressed.</span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> He was wearing some really old jeans&mdash;you know, the ones with holes in them&mdash;with a new wide leather belt and a white T-shirt. He had on some boots, high brown ones. They looked really nice. He also had a red scarf. He usually wears a couple of big rings, but he wasn&rsquo;t wearing any at the party. He was wearing an interesting silver watch, though.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Brian ăn mặc rất giản dị. Anh ta đang mặc một chiếc quần jean cũ - bạn biết đấy, những chiếc c&oacute; lỗ thủng - với một chiếc thắt lưng da bản rộng mới v&agrave; một chiếc &aacute;o ph&ocirc;ng trắng. Anh ta đi ủng, những đ&ocirc;i cao m&agrave;u n&acirc;u. Ch&uacute;ng tr&ocirc;ng thực sự đẹp. Anh ấy cũng c&oacute; một chiếc khăn qu&agrave;ng cổ m&agrave;u đỏ. Anh ấy thường đeo một v&agrave;i chiếc nhẫn to, nhưng anh ấy kh&ocirc;ng đeo chiếc n&agrave;o trong bữa tiệc. Tuy nhi&ecirc;n, anh ấy đang đeo một chiếc đồng hồ m&agrave;u bạc tr&ocirc;ng kh&aacute; hay.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Kevin was wearing a yellow shirt and a green tie. I didn&rsquo;t like the tie, but I liked the shirt. He also had on brown pants. He was wearing sneakers with long white socks&mdash;kind of cute, actually. And he had a leather bag over one shoulder.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Kevin mặc một chiếc &aacute;o sơ mi m&agrave;u v&agrave;ng v&agrave; một chiếc c&agrave; vạt m&agrave;u xanh l&aacute; c&acirc;y. T&ocirc;i kh&ocirc;ng th&iacute;ch c&agrave; vạt, nhưng t&ocirc;i th&iacute;ch c&aacute;i &aacute;o sơ mi. Anh ta cũng mặc một chiếc quần d&agrave;i m&agrave;u n&acirc;u. Anh ấy đang đi gi&agrave;y thể thao với đ&ocirc;i tất d&agrave;i m&agrave;u trắng - kh&aacute; dễ thương. V&agrave; anh ta đeo một chiếc t&uacute;i da tr&ecirc;n một b&ecirc;n vai.</span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><strong id=\"docs-internal-guid-6a3713d1-7fff-77bf-b732-efca0844969a\" style=\"font-weight: normal;\">&nbsp;</strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mrs. Graham looked really good. She had on an interesting long red skirt and a beautiful gold and black jacket. And she had some lovely earrings and a nice necklace. She also had a long pink scarf over one shoulder. She didn&rsquo;t have a bag. She was wearing sandals.</span></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B&agrave; Graham tr&ocirc;ng thực sự rất đẹp. B&agrave; ấy mặc một chiếc v&aacute;y d&agrave;i m&agrave;u đỏ th&uacute; vị v&agrave; một chiếc &aacute;o kho&aacute;c v&agrave;ng đen tuyệt đẹp. V&agrave; b&agrave; ấy đeo đ&ocirc;i b&ocirc;ng tai xinh xắn v&agrave; một chiếc v&ograve;ng cổ đẹp. B&agrave; ấy cũng c&oacute; một chiếc khăn hồng d&agrave;i qua một b&ecirc;n vai. B&agrave; ấy kh&ocirc;ng đeo t&uacute;i. B&agrave; ấy đang đi một đ&ocirc;i d&eacute;p xăng đan.</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span></p>",
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 85517,
+          "content": "<p><span style=\"font-family: Nunito-Bold; font-size: 16px;\">Exercise 5</span></p>",
+          "index": 8,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 85518,
+          "content": null,
+          "index": 9,
+          "type": "audio",
+          "audio_url": "https://api-quiz-maker.langgo.vn/storage/audio/1715586528.mp3",
+          "video_url": null,
+          "transcript": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Both of my parents are taller than me. My dad is pretty tall, but my brother is even taller than my dad. Together they look like a basketball team! My sister and I are the short ones in the family.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Cả bố mẹ t&ocirc;i đều cao hơn t&ocirc;i. Bố t&ocirc;i kh&aacute; cao, nhưng anh trai t&ocirc;i thậm ch&iacute; c&ograve;n cao hơn bố t&ocirc;i. Tr&ocirc;ng họ giống như một đội b&oacute;ng rổ! Em g&aacute;i t&ocirc;i v&agrave; t&ocirc;i l&agrave; những người l&ugrave;n trong gia đ&igrave;nh.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">My brother isn&rsquo;t interested in music at all</span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. He&rsquo;s into cars, like my dad. But I&rsquo;m not interested in cars. I play the guitar and the piano. I guess I love music because of my mom. </span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">She sings beautifully.</span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">She plays the piano really well</span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, too.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Anh trai t&ocirc;i kh&ocirc;ng th&iacute;ch &acirc;m nhạc ch&uacute;t n&agrave;o. Anh ấy th&iacute;ch &ocirc; t&ocirc;, giống như bố t&ocirc;i. Nhưng t&ocirc;i kh&ocirc;ng th&iacute;ch &ocirc; t&ocirc;. T&ocirc;i chơi guitar v&agrave; piano. T&ocirc;i đo&aacute;n t&ocirc;i y&ecirc;u &acirc;m nhạc v&igrave; mẹ t&ocirc;i. B&agrave; ấy h&aacute;t rất hay. B&agrave; ấy chơi piano cũng rất giỏi.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I love animals. I have a dog and I keep a couple of parrots in a big cage in my room. </span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I love taking photographs of wild birds</span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> when I&rsquo;m in the countryside. My dad and I often go away for the weekend and we have a great time birdwatching. My sister thinks I&rsquo;m crazy. </span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">When my sister has free time, she loves to play cards.</span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> I can&rsquo;t stand card games.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">T&ocirc;i y&ecirc;u động vật. T&ocirc;i c&oacute; một con ch&oacute; v&agrave; t&ocirc;i nu&ocirc;i một v&agrave;i con vẹt trong một c&aacute;i lồng lớn trong ph&ograve;ng của t&ocirc;i. T&ocirc;i th&iacute;ch chụp ảnh c&aacute;c lo&agrave;i chim hoang d&atilde; khi t&ocirc;i ở n&ocirc;ng th&ocirc;n. Bố t&ocirc;i v&agrave; t&ocirc;i thường đi xa v&agrave;o cuối tuần v&agrave; ch&uacute;ng t&ocirc;i c&oacute; một khoảng thời gian tuyệt vời để ngắm chim. Em g&aacute;i t&ocirc;i nghĩ rằng t&ocirc;i bị đi&ecirc;n. Khi em g&aacute;i t&ocirc;i c&oacute; thời gian rảnh, c&ocirc; ấy rất th&iacute;ch chơi b&agrave;i. T&ocirc;i kh&ocirc;ng thể chịu được tr&ograve; chơi b&agrave;i.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I enjoy reading.</span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> I read a lot of books and I love going to the library. My dad likes outdoor things. </span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">He&rsquo;s really into sports and swimming</span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, and he always tells me I should get more interested in sports. But Mom tells me that reading is the best way to learn. She always gives me books that she&rsquo;s been reading.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">T&ocirc;i th&iacute;ch đọc s&aacute;ch. T&ocirc;i đọc rất nhiều s&aacute;ch v&agrave; t&ocirc;i th&iacute;ch đến thư viện. Bố t&ocirc;i th&iacute;ch những thứ ngo&agrave;i trời. Anh ấy thực sự th&iacute;ch thể thao v&agrave; bơi lội, v&agrave; anh ấy lu&ocirc;n n&oacute;i với t&ocirc;i rằng t&ocirc;i n&ecirc;n quan t&acirc;m hơn đến thể thao. Nhưng mẹ n&oacute;i với t&ocirc;i rằng đọc l&agrave; c&aacute;ch tốt nhất để học. C&ocirc; ấy lu&ocirc;n đưa cho t&ocirc;i những cuốn s&aacute;ch m&agrave; c&ocirc; ấy đang đọc.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I&rsquo;m very interested in computers</span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. I&rsquo;m always teaching myself new computer programs and I have a lot of great software. </span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">My brother and I spend all our free time in computer stores and on the Internet.</span><span style=\"color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> My sister is more interested in the arts. She likes music and she loves to read. She hates computers!</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">T&ocirc;i rất th&iacute;ch m&aacute;y t&iacute;nh. T&ocirc;i lu&ocirc;n tự học c&aacute;c chương tr&igrave;nh m&aacute;y t&iacute;nh mới v&agrave; t&ocirc;i c&oacute; rất nhiều phần mềm tuyệt vời. Anh trai t&ocirc;i v&agrave; t&ocirc;i d&agrave;nh tất cả thời gian rảnh rỗi của ch&uacute;ng t&ocirc;i trong c&aacute;c cửa h&agrave;ng m&aacute;y t&iacute;nh v&agrave; tr&ecirc;n Internet. Em g&aacute;i t&ocirc;i quan t&acirc;m đến nghệ thuật hơn. C&ocirc; ấy th&iacute;ch &acirc;m nhạc v&agrave; c&ocirc; ấy th&iacute;ch đọc. C&ocirc; ấy gh&eacute;t m&aacute;y t&iacute;nh!</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I love traveling. My mother and I go to a different place every year. Both of us love to learn new things about cultures. My father never goes with us because he hates flying. My older sister is in college, so she stays home and studies while we&rsquo;re away. Sometimes I wish my sister and my father would travel with us because I miss them.</span></p>\n<p><span id=\"docs-internal-guid-c3d7dff3-7fff-3015-5afa-4c9b8cd1ec90\" style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">T&ocirc;i th&iacute;ch đi du lịch. Mẹ t&ocirc;i v&agrave; t&ocirc;i đi đến một nơi kh&aacute;c nhau mỗi năm. Cả hai ch&uacute;ng t&ocirc;i đều th&iacute;ch t&igrave;m hiểu những điều mới mẻ về c&aacute;c nền văn h&oacute;a. Bố t&ocirc;i kh&ocirc;ng bao giờ đi với ch&uacute;ng t&ocirc;i v&igrave; &ocirc;ng ấy gh&eacute;t đi m&aacute;y bay. Chị g&aacute;i t&ocirc;i đang học đại học, v&igrave; vậy chị ấy ở nh&agrave; v&agrave; học trong khi ch&uacute;ng t&ocirc;i đi vắng. Đ&ocirc;i khi t&ocirc;i ước chị t&ocirc;i v&agrave; bố t&ocirc;i đi du lịch với ch&uacute;ng t&ocirc;i v&igrave; t&ocirc;i nhớ họ.</span></p>",
+          "layout_audio": "full",
+          "align": "center"
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 31677,
+          "id": 301022,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-4af38d46-7fff-5a08-02c4-d55a27efd192\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"><span style=\"font-family: Nunito-BoldItalic; font-size: 12pt;\">Speaker 1:</span></div>",
+          "explain": null,
+          "introduction": "<p><span id=\"docs-internal-guid-31b5f3ef-7fff-83c1-5781-7e1612f39986\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-family: Nunito-ExtraBold;\">Exercise 1: L</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-family: Nunito-ExtraBold;\">isten and match the aspects that the speakers like and dislike about the jobs</span> <em>(Nghe và nối những điều mà người nói thích hay không thích về công việc của mình.) </em></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n<table style=\"border: none; width: 253px;\">\n<tbody>\n<tr style=\"height: 21pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. I get to meet so many people.</span></p>\n</td>\n</tr>\n<tr style=\"height: 21pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. I love working with kids.</span></p>\n</td>\n</tr>\n<tr style=\"height: 21pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. I’m always really tired when I get home at night.</span></p>\n</td>\n</tr>\n<tr style=\"height: 21pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. It’s hard work and pretty tiring, too. </span></p>\n</td>\n</tr>\n<tr style=\"height: 21pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. The tips are great.</span></p>\n</td>\n</tr>\n<tr style=\"height: 21pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. It takes me an hour to drive there every day. </span></p>\n</td>\n</tr>\n<tr style=\"height: 21pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. I am well paid.</span></p>\n</td>\n</tr>\n<tr style=\"height: 21pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. I have to travel a lot.</span></p>\n</td>\n</tr>\n<tr style=\"height: 29.7979pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9. The people I work with are so nice. </span></p>\n</td>\n</tr>\n<tr style=\"height: 21pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">10. I do the same thing every day.</span></p>\n</td>\n</tr>\n</tbody>\n</table>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 72684,
+              "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">What I like about my job: <span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_0]</span></span></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">What I don't like about my job: <span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_1]</span></span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301023,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-4af38d46-7fff-5a08-02c4-d55a27efd192\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"><span style=\"font-family: Nunito-BoldItalic; font-size: 12pt;\">Speaker 2:</span></div>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 72685,
+              "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">What I like about my job: <span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_0]</span></span></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">What I don't like about my job: <span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_1]</span></span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301024,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-4af38d46-7fff-5a08-02c4-d55a27efd192\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"><span style=\"font-family: Nunito-BoldItalic; font-size: 12pt;\">Speaker 3:</span></div>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 72686,
+              "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">What I like about my job: <span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_0]</span></span></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">What I don't like about my job: <span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_1]</span></span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301025,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-4af38d46-7fff-5a08-02c4-d55a27efd192\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"><span style=\"font-family: Nunito-BoldItalic; font-size: 12pt;\">Speaker 4:</span></div>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 72687,
+              "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">What I like about my job: <span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_0]</span></span></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">What I don't like about my job: <span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_1]</span></span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301026,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-4af38d46-7fff-5a08-02c4-d55a27efd192\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"><span style=\"font-family: Nunito-BoldItalic; font-size: 12pt;\">Speaker 5:</span></div>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 72688,
+              "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">What I like about my job: <span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_0]</span></span></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">What I don't like about my job: <span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_1]</span></span></span></p>\n<p> </p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301027,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-BoldItalic; font-size: 12pt;\">Conversation 1:</span></p>",
+          "explain": null,
+          "introduction": "<p><span id=\"docs-internal-guid-40d3b9a8-7fff-3ea4-1393-fe38d752e68f\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-family: Nunito-ExtraBold;\"><strong><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 2:</span></strong></span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-ExtraBold;\"><strong> Listen and choose the correct description of the kid. You can choose more than one answer</strong></span> (<em>Nghe v&agrave; chọn mi&ecirc;u tả đ&uacute;ng về đứa b&eacute; đang cần t&igrave;m. Em c&oacute; thể chọn nhiều hơn một đ&aacute;p &aacute;n.) </em></span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 5,
+          "answer": {
+            "answers": [
+              {
+                "id": 621517,
+                "content": "a. dark brown hair"
+              },
+              {
+                "id": 621518,
+                "content": "b. light brown hair"
+              },
+              {
+                "id": 621519,
+                "content": "c. light brown eyes"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301028,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-BoldItalic; font-size: 12pt;\">Conversation 2:</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 5,
+          "answer": {
+            "answers": [
+              {
+                "id": 621520,
+                "content": "a. brown, curly hair"
+              },
+              {
+                "id": 621521,
+                "content": "b. brown, straight hair."
+              },
+              {
+                "id": 621522,
+                "content": "c. brown, short hair"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301029,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-BoldItalic; font-size: 12pt;\">Conversation 3:</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 5,
+          "answer": {
+            "answers": [
+              {
+                "id": 621523,
+                "content": "a. blond hair"
+              },
+              {
+                "id": 621524,
+                "content": "b. black hair"
+              },
+              {
+                "id": 621525,
+                "content": "c. long hair"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301030,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-BoldItalic;\">Conversation 4:&nbsp;</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 5,
+          "answer": {
+            "answers": [
+              {
+                "id": 621526,
+                "content": "a. dark brown skin"
+              },
+              {
+                "id": 621527,
+                "content": "b. light brown hair"
+              },
+              {
+                "id": 621528,
+                "content": "c. dark brown hair"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301031,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span style=\"font-family: Nunito-BoldItalic;\">Conversation 5:</span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 5,
+          "answer": {
+            "answers": [
+              {
+                "id": 621529,
+                "content": "a. short"
+              },
+              {
+                "id": 621530,
+                "content": "b. short blond hair"
+              },
+              {
+                "id": 621531,
+                "content": "c. average height."
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301032,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\">1.&nbsp;</span><span style=\"box-sizing: border-box; color: #242938; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve; background-color: #ffffff;\"> tall / , / not / about / average / he&rsquo;s / very / .</span></p>",
+          "explain": null,
+          "introduction": "<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-family: Nunito-ExtraBold;\">Exercise 3: Listen to the audio and rearrange the words into correct sentences</span> <em>(Nghe ghi &acirc;m v&agrave; sắp xếp lại c&aacute;c từ v&agrave;o th&agrave;nh c&acirc;u đ&uacute;ng) </em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 72689,
+              "content": "<p><span style=\"font-family: Nunito-Regular; color: #000000; font-size: 12pt;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301033,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"box-sizing: border-box; color: #242938; font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\">2.&nbsp;<span style=\"box-sizing: border-box; white-space-collapse: preserve;\">centimeters / tall / about </span></span><span style=\"box-sizing: border-box; color: #242938; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve; background-color: #ffffff;\">/ , / </span><span style=\"box-sizing: border-box; color: #242938; font-family: Nunito-Regular; font-size: 12pt; white-space-collapse: preserve; background-color: #ffffff;\">She&rsquo;s / pretty / 170 / . </span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 72690,
+              "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301034,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"color: #242938; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve; background-color: #ffffff;\">3. She&rsquo;s / curly / glasses / and / got / short/ hair / .</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 72691,
+              "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_0]</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301035,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">4.&nbsp;<span style=\"white-space-collapse: preserve;\">dark/ got/ she&rsquo;s/ hair/ brown. </span></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 72692,
+              "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301036,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\">5.&nbsp;<span style=\"white-space-collapse: preserve;\">meet/ like/ to/ I&rsquo;d/ her.</span></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; white-space-collapse: preserve; color: #000000;\">&nbsp;</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 72693,
+              "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301037,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">1.&nbsp;</span></p>",
+          "explain": null,
+          "introduction": "<p><span id=\"docs-internal-guid-f3577689-7fff-2d88-a0a8-9c1978e8fe1c\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-ExtraBold;\">Exercise 4: Listen to the audio and choose the items that the person is wearing, you can choose more than 1 item.</span> <em>(Nghe v&agrave; chọn những đồ m&agrave; người đ&oacute; đang mặc. Bạn c&oacute; thể chọn nhiều hơn một m&oacute;n đồ)</em></span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 5,
+          "answer": {
+            "answers": [
+              {
+                "id": 621532,
+                "content": "a. Sonia had a jacket"
+              },
+              {
+                "id": 621533,
+                "content": "b. Sonia had blue jeans"
+              },
+              {
+                "id": 621534,
+                "content": "c. Sonia had gold earrings"
+              },
+              {
+                "id": 621535,
+                "content": "d. Sonia had a wallet"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301038,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">2.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 5,
+          "answer": {
+            "answers": [
+              {
+                "id": 621536,
+                "content": "a. Brian had old jeans"
+              },
+              {
+                "id": 621537,
+                "content": "b. Brian had a green scarf"
+              },
+              {
+                "id": 621538,
+                "content": "c. Brian had a big ring"
+              },
+              {
+                "id": 621539,
+                "content": "d. Brian had an old belt"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301039,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">3.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 5,
+          "answer": {
+            "answers": [
+              {
+                "id": 621540,
+                "content": "a. Kevin had a T-shirt."
+              },
+              {
+                "id": 621541,
+                "content": "b. Kevin had a leather belt."
+              },
+              {
+                "id": 621542,
+                "content": "c. Kevin had brown pants."
+              },
+              {
+                "id": 621543,
+                "content": "d. Kevin had long brown socks."
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301040,
+          "name": null,
+          "title": null,
+          "content": "<p>4.</p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 5,
+          "answer": {
+            "answers": [
+              {
+                "id": 621544,
+                "content": "a. Mrs. Graham had a short pink scarf."
+              },
+              {
+                "id": 621545,
+                "content": "b. Mrs. Graham had an interesting long red skirt."
+              },
+              {
+                "id": 621546,
+                "content": "c. Mrs. Graham had a bag."
+              },
+              {
+                "id": 621547,
+                "content": "d. Mrs. Graham had sandals."
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301041,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">1. </span><span style=\"white-space-collapse: preserve;\">Who is the tallest in her family? </span></p>",
+          "explain": null,
+          "introduction": "<p><span id=\"docs-internal-guid-b548eb96-7fff-be21-6e5c-3e8ab2d746a7\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; font-family: Nunito-ExtraBold;\">Exercise 5:</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-ExtraBold;\"> Listen to the audio and choose the correct</span> <em>(Nghe v&agrave; chọn đ&aacute;p &aacute;n đ&uacute;ng)</em></span></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: Nunito-SemiBold;\">(Speaker 1) Wen Ping</span><span style=\"font-family: Nunito-SemiBold;\">&nbsp;</span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 621548,
+                "content": "a. Her father is the tallest in her family."
+              },
+              {
+                "id": 621549,
+                "content": "b. Her brother is the tallest in her family."
+              },
+              {
+                "id": 621550,
+                "content": "c. She is the tallest in her family."
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301042,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-287ea678-7fff-5373-ac6e-0844e1b117ea\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">2. Who is interested in music? </span></span></p>",
+          "explain": null,
+          "introduction": "<p><span style=\"font-family: Nunito-SemiBold;\">(Speaker 2) Michael</span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 621551,
+                "content": "a. His brother is interested in music."
+              },
+              {
+                "id": 621552,
+                "content": "b. His father is interested in music."
+              },
+              {
+                "id": 621553,
+                "content": "c. He is interested in music."
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301043,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-93012ed2-7fff-850c-4e1f-5dbfe9ed5a36\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">3. Who likes to go away for the weekend? </span></span></p>",
+          "explain": null,
+          "introduction": "<p><span style=\"font-family: Nunito-SemiBold;\">(Speaker 3) Justin</span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 621554,
+                "content": "a. He and his dad like to go away for the weekend."
+              },
+              {
+                "id": 621555,
+                "content": "b. He and his sister like to go away for the weekend."
+              },
+              {
+                "id": 621556,
+                "content": "c. He and his mother like to go away for the weekend."
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301044,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-ba1e4f67-7fff-0e66-a868-6b9e87788c09\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">4. Who in her family is really into sports and swimming? </span></span></p>",
+          "explain": null,
+          "introduction": "<p><span style=\"font-family: Nunito-SemiBold;\">(Speaker 4) Susan</span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 621557,
+                "content": "a. She is into sports and swimming."
+              },
+              {
+                "id": 621558,
+                "content": "b. Her mother is into sports and swimming."
+              },
+              {
+                "id": 621559,
+                "content": "c. Her father is into sports and swimming."
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301045,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-c6cf695f-7fff-8f16-0b35-94b5b344b120\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">5. Who hates computers? </span></span></p>",
+          "explain": null,
+          "introduction": "<p><span style=\"font-family: Nunito-SemiBold;\">(Speaker 5) Robert</span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 621560,
+                "content": "a. His sister hates computer."
+              },
+              {
+                "id": 621561,
+                "content": "b. He hates computers."
+              },
+              {
+                "id": 621562,
+                "content": "c. His brother hates computers."
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31677,
+          "id": 301046,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-72980a36-7fff-424e-b083-9b44d73eecf0\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">6. Who goes to a different place every year?</span></span></p>",
+          "explain": null,
+          "introduction": "<p><span style=\"font-family: Nunito-SemiBold;\">(Speaker 6) Beth</span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 621563,
+                "content": "a. Her mother goes to a different place every year."
+              },
+              {
+                "id": 621564,
+                "content": "b. Her sister goes to a different place every year."
+              },
+              {
+                "id": 621565,
+                "content": "c. Her father goes to a different place every year."
+              }
+            ]
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

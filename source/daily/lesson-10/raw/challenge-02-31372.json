@@ -1,0 +1,697 @@
+{
+  "listItem": {
+    "id": "82564",
+    "challenge_id": 31372,
+    "class_id": "177286917873dop75b27mv",
+    "day": 10,
+    "deadline": "2026-07-02 12:30:00",
+    "challenge_title": "[PRE IELTS] LESSON 10 - CHALLENGE 2",
+    "challenge_note": "Grammar (Determiners)",
+    "challenge_status": 1,
+    "challenge_band": "161433861829325240c1g7",
+    "total_question": 56,
+    "classification": "dc",
+    "student_challenge": {
+      "id": 565352,
+      "class_challenge_id": 82564,
+      "class_id": "177286917873dop75b27mv",
+      "challenge_id": 31372,
+      "cts_id": "1780455880vwydc1i2ehir",
+      "rate": 1,
+      "comment": "<p>Hi Khánh, bài này em làm khá tốt nha.</p>\r\n<p>Em xem kĩ các câu sai để rút kinh nghiệm cho bài sau nhé.</p>",
+      "url": null,
+      "redo_comment": null,
+      "cancel_comment": null,
+      "date_redo": null,
+      "status_mark": "graded",
+      "status_mark_date": "2026-07-04 21:05:13",
+      "flag_overdue": 0,
+      "flag_not_star": 0,
+      "flag_not_submit": 0,
+      "flag_late_redo": 0,
+      "flag_late_submit": 0,
+      "flag_status_mark": 0,
+      "updated_by": null,
+      "updated": "2026-07-04 21:05:13",
+      "created_by": "1779875378vawpfok6ii4u",
+      "created": "2026-07-01 21:11:54",
+      "correct_answer": 49,
+      "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+      "submitted_at": "2026-07-01 21:11:54",
+      "re_submitted_at": null,
+      "answers": [],
+      "tab_switch_count": 0
+    }
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "82564",
+        "challenge_id": 31372,
+        "class_id": "177286917873dop75b27mv",
+        "day": 10,
+        "deadline": "2026-07-02 12:30:00",
+        "flag_status_mark": 1,
+        "flag_not_submit": 1,
+        "created": "2026-06-30 19:29:21",
+        "created_by": null,
+        "challenge": {
+          "id": "31372",
+          "title": "[PRE IELTS] LESSON 10 - CHALLENGE 2",
+          "note": "Grammar (Determiners)",
+          "day": "22",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "161433861829325240c1g7",
+          "created": "2026-06-30 19:29:20",
+          "updated": null,
+          "created_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+          "updated_by": null,
+          "total_question": 56,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 8068
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 565352,
+        "class_challenge_id": 82564,
+        "class_id": "177286917873dop75b27mv",
+        "challenge_id": 31372,
+        "cts_id": "1780455880vwydc1i2ehir",
+        "rate": 1,
+        "comment": "<p>Hi Khánh, bài này em làm khá tốt nha.</p>\r\n<p>Em xem kĩ các câu sai để rút kinh nghiệm cho bài sau nhé.</p>",
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": "graded",
+        "status_mark_date": "2026-07-04 21:05:13",
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": null,
+        "updated": "2026-07-04 21:05:13",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-07-01 21:11:54",
+        "correct_answer": 49,
+        "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+        "submitted_at": "2026-07-01 21:11:54",
+        "re_submitted_at": null,
+        "answers": {
+          "297875": {
+            "total_question": 20,
+            "total_correct_result_answer": 17,
+            "user_answer": {
+              "input_0": "my",
+              "input_1": "his",
+              "input_2": "its",
+              "input_3": "its",
+              "input_4": "his",
+              "input_5": "your",
+              "input_6": "their",
+              "input_7": "his",
+              "input_8": "their",
+              "input_9": "our",
+              "input_10": "its",
+              "input_11": "their",
+              "input_12": "our",
+              "input_13": "their",
+              "input_14": "your",
+              "input_15": "his",
+              "input_16": "your",
+              "input_17": "their",
+              "input_18": "my",
+              "input_19": "my"
+            },
+            "correct_answer": {
+              "input_0": [
+                "her"
+              ],
+              "input_1": [
+                "his"
+              ],
+              "input_2": [
+                "my"
+              ],
+              "input_3": [
+                "its"
+              ],
+              "input_4": [
+                "his"
+              ],
+              "input_5": [
+                "your"
+              ],
+              "input_6": [
+                "their"
+              ],
+              "input_7": [
+                "his"
+              ],
+              "input_8": [
+                "their"
+              ],
+              "input_9": [
+                "our"
+              ],
+              "input_10": [
+                "its"
+              ],
+              "input_11": [
+                "their"
+              ],
+              "input_12": [
+                "our"
+              ],
+              "input_13": [
+                "their"
+              ],
+              "input_14": [
+                "your"
+              ],
+              "input_15": [
+                "his"
+              ],
+              "input_16": [
+                "your"
+              ],
+              "input_17": [
+                "Their"
+              ],
+              "input_18": [
+                "her"
+              ],
+              "input_19": [
+                "my"
+              ]
+            },
+            "result_answer": {
+              "input_0": false,
+              "input_1": true,
+              "input_2": false,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true,
+              "input_10": true,
+              "input_11": true,
+              "input_12": true,
+              "input_13": true,
+              "input_14": true,
+              "input_15": true,
+              "input_16": true,
+              "input_17": true,
+              "input_18": false,
+              "input_19": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 297875,
+            "challenge_id": 31372
+          },
+          "297876": {
+            "total_question": 27,
+            "total_correct_result_answer": 23,
+            "user_answer": {
+              "input_0": "a",
+              "input_1": "the",
+              "input_2": "the",
+              "input_3": "x",
+              "input_4": "the",
+              "input_5": "a",
+              "input_6": "an",
+              "input_7": "the",
+              "input_8": "the",
+              "input_9": "a",
+              "input_10": "x",
+              "input_11": "an",
+              "input_12": "x",
+              "input_13": "a",
+              "input_14": "a",
+              "input_15": "the",
+              "input_16": "the",
+              "input_17": "the",
+              "input_18": "an",
+              "input_19": "the",
+              "input_20": "x",
+              "input_21": "an",
+              "input_22": "an",
+              "input_23": "a",
+              "input_24": "x",
+              "input_25": "a",
+              "input_26": "the"
+            },
+            "correct_answer": {
+              "input_0": [
+                "the"
+              ],
+              "input_1": [
+                "the"
+              ],
+              "input_2": [
+                "the"
+              ],
+              "input_3": [
+                "x"
+              ],
+              "input_4": [
+                "a"
+              ],
+              "input_5": [
+                "a"
+              ],
+              "input_6": [
+                "the"
+              ],
+              "input_7": [
+                "the"
+              ],
+              "input_8": [
+                "the"
+              ],
+              "input_9": [
+                "x"
+              ],
+              "input_10": [
+                "x"
+              ],
+              "input_11": [
+                "an"
+              ],
+              "input_12": [
+                "x"
+              ],
+              "input_13": [
+                "a"
+              ],
+              "input_14": [
+                "a"
+              ],
+              "input_15": [
+                "the"
+              ],
+              "input_16": [
+                "the"
+              ],
+              "input_17": [
+                "the"
+              ],
+              "input_18": [
+                "an"
+              ],
+              "input_19": [
+                "the"
+              ],
+              "input_20": [
+                "x"
+              ],
+              "input_21": [
+                "an"
+              ],
+              "input_22": [
+                "an"
+              ],
+              "input_23": [
+                "a"
+              ],
+              "input_24": [
+                "x"
+              ],
+              "input_25": [
+                "a"
+              ],
+              "input_26": [
+                "the"
+              ]
+            },
+            "result_answer": {
+              "input_0": false,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": false,
+              "input_5": true,
+              "input_6": false,
+              "input_7": true,
+              "input_8": true,
+              "input_9": false,
+              "input_10": true,
+              "input_11": true,
+              "input_12": true,
+              "input_13": true,
+              "input_14": true,
+              "input_15": true,
+              "input_16": true,
+              "input_17": true,
+              "input_18": true,
+              "input_19": true,
+              "input_20": true,
+              "input_21": true,
+              "input_22": true,
+              "input_23": true,
+              "input_24": true,
+              "input_25": true,
+              "input_26": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 297876,
+            "challenge_id": 31372
+          },
+          "297877": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "Why are you always in a good mood?",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 297877,
+            "challenge_id": 31372
+          },
+          "297878": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "Red, yellow and blue are the three primary colours.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 297878,
+            "challenge_id": 31372
+          },
+          "297879": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "Photoshop is a program for editing digital images.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 297879,
+            "challenge_id": 31372
+          },
+          "297880": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "Acid rain is a big problem in parts of Europe.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 297880,
+            "challenge_id": 31372
+          },
+          "297881": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "We went out for a meal last night at an Indian restaurant in South Street.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 297881,
+            "challenge_id": 31372
+          },
+          "297882": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "My brother became an engineer because he liked playing with motors.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 297882,
+            "challenge_id": 31372
+          },
+          "297883": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "I lost all my work when the computer crashed.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 297883,
+            "challenge_id": 31372
+          },
+          "297884": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "This is the book she gave me.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 297884,
+            "challenge_id": 31372
+          },
+          "297885": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "It takes one hour to finish a unit of this book.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 297885,
+            "challenge_id": 31372
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 84706,
+          "content": null,
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 31372,
+          "id": 297875,
+          "name": null,
+          "title": "GRAMMAR",
+          "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-ExtraBold;\"><strong style=\"box-sizing: border-box; background-color: #ffffff;\">1. Fill in the blanks with&nbsp;<span style=\"box-sizing: border-box;\">my, your, his, her, its, our, their. (Điền v&agrave;o chỗ trống với my, your, his, her, its, our, their.)</span></strong></span></p>",
+          "explain": "<p><strong>1. Ann likes her teachers at school.</strong></p>\n<p><strong>Giải thích:</strong> Ann là con gái, nên để chỉ giáo viên của cô ấy, ta dùng <strong>her</strong>.</p>\n<p><em><strong>Dịch:</strong> Ann thích các giáo viên của cô ấy ở trường.</em></p>\n<p><strong>2. Is this Peter’s book? No, his book is in the schoolbag.</strong></p>\n<p><strong>Giải thích:</strong> Peter là con trai, nên để chỉ sách của anh ấy, ta dùng <strong>his</strong>.</p>\n<p><em><strong>Dịch:</strong> Đây có phải sách của Peter không? Không, sách của anh ấy ở trong cặp sách.</em></p>\n<p><strong>3. Mary, is this your bike? No, my bike is behind the house.</strong></p>\n<p><strong>Giải thích:</strong> Mary đang được hỏi, nên cô ấy sẽ trả lời \"xe đạp của tôi\", ta dùng <strong>my</strong>.</p>\n<p><em><strong>Dịch:</strong> Mary, đây có phải xe đạp của bạn không? Không, xe đạp của tôi ở sau nhà.</em></p>\n<p><strong>4. The hamster is in its cage.</strong></p>\n<p><strong>Giải thích:</strong> \"The hamster\" là một con vật, nên để chỉ lồng của nó, ta dùng <strong>its</strong>.</p>\n<p><em><strong>Dịch:</strong> Chú chuột hamster đang ở trong lồng của nó.</em></p>\n<p><strong>5. Henry helps his little brother.</strong></p>\n<p><strong>Giải thích:</strong> Henry là con trai, nên để chỉ em trai của anh ấy, ta dùng <strong>his</strong>.</p>\n<p><em><strong>Dịch:</strong> Henry giúp em trai của anh ấy.</em></p>\n<p><strong>6. Children, where are your exercise books?</strong></p>\n<p><strong>Giải thích:</strong> Khi giáo viên nói chuyện với \"Children\" (số nhiều), thì sách của họ là <strong>your</strong>.</p>\n<p><em><strong>Dịch:</strong> Các em, sách bài tập của các em ở đâu?</em></p>\n<p><strong>7. The boys play with their ball.</strong></p>\n<p><strong>Giải thích:</strong> \"The boys\" là số nhiều, nên để chỉ quả bóng của họ, ta dùng <strong>their</strong>.</p>\n<p><em><strong>Dịch:</strong> Các cậu bé chơi với quả bóng của họ.</em></p>\n<p><strong>8. Tommy writes his homework.</strong></p>\n<p><strong>Giải thích:</strong> Tommy là con trai, nên để chỉ bài tập về nhà của cậu ấy, ta dùng <strong>his</strong>.</p>\n<p><em><strong>Dịch:</strong> Tommy viết bài tập về nhà của cậu ấy.</em></p>\n<p><strong>9. Paul and Cathy eat their sandwiches.</strong></p>\n<p><strong>Giải thích:</strong> \"Paul and Cathy\" là hai người (số nhiều), nên để chỉ bánh sandwich của họ, ta dùng <strong>their</strong>.</p>\n<p><em><strong>Dịch:</strong> Paul và Cathy ăn bánh mì kẹp của họ.</em></p>\n<p><strong>10. My sister and I go to our grandmother.</strong></p>\n<p><strong>Giải thích:</strong> Chủ ngữ là \"My sister and I\" (chị tôi và tôi), nên để chỉ bà của chúng tôi, ta dùng <strong>our</strong>.</p>\n<p><em><strong>Dịch:</strong> Chị gái tôi và tôi đi đến nhà bà của chúng tôi.</em></p>\n<p><strong>11. The monkey eats its bananas.</strong></p>\n<p><strong>Giải thích:</strong> \"The monkey\" là một con vật, nên để chỉ chuối của nó, ta dùng <strong>its</strong>.</p>\n<p><em><strong>Dịch:</strong> Con khỉ ăn chuối của nó.</em></p>\n<p><strong>12. The cats drink their milk.</strong></p>\n<p><strong>Giải thích:</strong> \"The cats\" là số nhiều, nên để chỉ sữa của chúng, ta dùng <strong>their</strong>.</p>\n<p><em><strong>Dịch:</strong> Những con mèo uống sữa của chúng.</em></p>\n<p><strong>13. Tom and I like spaghetti. It is our favourite food.</strong></p>\n<p><strong>Giải thích:</strong> Chủ ngữ là \"Tom and I\" (Tom và tôi), nên món ăn yêu thích của chúng tôi là <strong>our</strong>.</p>\n<p><em><strong>Dịch:</strong> Tom và tôi thích mì ý. Đó là món ăn yêu thích của chúng tôi.</em></p>\n<p><strong>14. Carol and Bob do not like their classroom.</strong></p>\n<p><strong>Giải thích:</strong> \"Carol and Bob\" là số nhiều, nên để chỉ lớp học của họ, ta dùng <strong>their</strong>.</p>\n<p><em><strong>Dịch:</strong> Carol và Bob không thích lớp học của họ.</em></p>\n<p><strong>15. Can I play with your computer game, Tom?</strong></p>\n<p><strong>Giải thích:</strong> Người nói đang hỏi Tom, nên trò chơi máy tính của Tom là <strong>your</strong>.</p>\n<p><em><strong>Dịch:</strong> Tớ chơi trò chơi máy tính của cậu được không, Tom?</em></p>\n<p><strong>16. Dad always washes his car on Sundays.</strong></p>\n<p><strong>Giải thích:</strong> \"Dad\" là đàn ông, nên để chỉ xe của ông ấy, ta dùng <strong>his</strong>.</p>\n<p><em><strong>Dịch:</strong> Bố luôn rửa xe của ông ấy vào các ngày Chủ nhật.</em></p>\n<p><strong>17. What's your telephone number, Susan?</strong></p>\n<p><strong>Giải thích:</strong> Người nói đang hỏi Susan, nên số điện thoại của Susan là <strong>your</strong>.</p>\n<p><em><strong>Dịch:</strong> Số điện thoại của bạn là gì, Susan?</em></p>\n<p><strong>18. Ann has two brothers. Their names are Bill and George.</strong></p>\n<p><strong>Giải thích:</strong> \"Two brothers\" (hai anh em trai) là số nhiều, nên tên của họ là <strong>their</strong>.</p>\n<p><em><strong>Dịch:</strong> Ann có hai người anh trai. Tên của họ là Bill và George.</em></p>\n<p><strong>19. Lucy likes her new bike.</strong></p>\n<p><strong>Giải thích:</strong> Lucy là con gái, nên để chỉ xe đạp của cô ấy, ta dùng <strong>her</strong>.</p>\n<p><em><strong>Dịch:</strong> Lucy thích chiếc xe đạp mới của cô ấy.</em></p>\n<p><strong>20. I can't find my new shirt. Have you seen it?</strong></p>\n<p><strong>Giải thích:</strong> Chủ ngữ là \"I\", nên chiếc áo sơ mi của tôi là <strong>my</strong>.</p>\n<p><em><strong>Dịch:</strong> Tớ không tìm thấy chiếc áo sơ mi mới của tớ. Cậu có thấy nó không?</em></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 71902,
+              "content": "<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">1. Ann likes [input_0] teachers at school.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">2. Is this Peter's book? No, [input_1] book is in the schoolbag.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">3. Mary, is this your bike? No, [input_2] bike is behind the house.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">4. The hamster is in [input_3] cage.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">5. Henry helps [input_4] little brother.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">6. Children, where are [input_5] exercise books?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">7. The boys play with [input_6] ball.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">8. Tommy writes [input_7] homework.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">9. Paul and Cathy eat [input_8] sandwiches.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">10. My sister and I go to [input_9] grandmother.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">11. The monkey eats [input_10] bananas.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">12. The cats drink [input_11] milk.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">13. Tom and I like spaghetti. It is [input_12] favourite food.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">14. Carol and Bob do not like [input_13] classroom.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">15. Can I play with [input_14] computer game, Tom?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">16. Dad always washes [input_15] car on Sundays.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">17. What's [input_16] telephone number, Susan?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">18. Ann has two brothers. [input_17] names are Bill and George.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">19. Lucy likes [input_18] new bike.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">20. I can't find [input_19] new shirt. Have you seen it?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"> </p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31372,
+          "id": 297876,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-ExtraBold; color: #000000;\"><strong style=\"box-sizing: border-box; background-color: #ffffff;\">Exercise 2. Fill in the blanks with&nbsp;<em style=\"box-sizing: border-box;\">a, an, the or x. (Điền v&agrave;o chỗ trống với a, an, the hoặc x.)</em></strong></span></p>",
+          "explain": "<p><strong>1. Look at the sea!</strong></p>\n<p><strong>Giải thích:</strong> \"the sea\" (biển) là một danh từ xác định, chỉ một đối tượng cụ thể mà người nói và người nghe đều biết.</p>\n<p><em><strong>Dịch:</strong> Nhìn ra biển kìa!</em></p>\n<p><strong>2. Who is the lady in the picture?</strong></p>\n<p><strong>Giải thích:</strong> \"the lady\" và \"the picture\" đều là danh từ xác định, cả hai người đang nói chuyện đều hiểu đang nhắc đến người phụ nữ và bức tranh cụ thể nào.</p>\n<p><em><strong>Dịch:</strong> Người phụ nữ trong bức tranh là ai vậy?</em></p>\n<p><strong>3. I visited South Africa last summer.</strong></p>\n<p><strong>Giải thích:</strong> Tên quốc gia \"South Africa\" (Nam Phi) không cần mạo từ.</p>\n<p><em><strong>Dịch:</strong> Hè năm ngoái tôi đã đến thăm Nam Phi.</em></p>\n<p><strong>4. The book is about a man who lives on a small island.</strong></p>\n<p><strong>Giải thích:</strong> \"a man\" và \"a small island\" là những danh từ không xác định, được nhắc đến lần đầu.</p>\n<p><em><strong>Dịch:</strong> Cuốn sách nói về một người đàn ông sống trên một hòn đảo nhỏ.</em></p>\n<p><strong>5. I work as the only English teacher at this school.</strong></p>\n<p><strong>Giải thích:</strong> \"the only English teacher\" là danh từ xác định, vì chỉ có một người duy nhất giữ vai trò đó.</p>\n<p><em><strong>Dịch:</strong> Tôi là giáo viên tiếng Anh duy nhất ở trường này.</em></p>\n<p><strong>6. Harry fixed the car, so we can go to the lake.</strong></p>\n<p><strong>Giải thích:</strong> \"the car\" và \"the lake\" đều là danh từ xác định, vì cả hai người đều biết đó là cái xe và cái hồ nào.</p>\n<p><em><strong>Dịch:</strong> Harry đã sửa xong cái xe, nên chúng ta có thể đến hồ rồi.</em></p>\n<p><strong>7. She goes to work by bike.</strong></p>\n<p><strong>Giải thích:</strong> Sau giới từ \"by\" khi chỉ phương tiện di chuyển, ta không dùng mạo từ.</p>\n<p><em><strong>Dịch:</strong> Cô ấy đi làm bằng xe đạp.</em></p>\n<p><strong>8. Jamy likes music, he plays an instrument.</strong></p>\n<p><strong>Giải thích:</strong> \"music\" là danh từ chung chung, không cần mạo từ. \"an instrument\" là một danh từ không xác định, vì người nghe chưa biết đó là nhạc cụ gì.</p>\n<p><em><strong>Dịch:</strong> Jamy thích âm nhạc, cậu ấy chơi một loại nhạc cụ.</em></p>\n<p><strong>9. Marie enjoys eating Swiss cheese.</strong></p>\n<p><strong>Giải thích:</strong> \"Swiss cheese\" là danh từ không đếm được và đang được nhắc đến một cách chung chung, nên không cần mạo từ.</p>\n<p><em><strong>Dịch:</strong> Marie thích ăn phô mai Thụy Sĩ.</em></p>\n<p><strong>10. We have a small house in a village in the Netherlands.</strong></p>\n<p><strong>Giải thích:</strong> \"a small house\" và \"a village\" là các danh từ không xác định. Tên quốc gia \"the Netherlands\" (Hà Lan) luôn đi kèm với mạo từ \"the\".</p>\n<p><em><strong>Dịch:</strong> Chúng tôi có một ngôi nhà nhỏ trong một ngôi làng ở Hà Lan.</em></p>\n<p><strong>11. I like the blue T-shirt over there better than the red one.</strong></p>\n<p><strong>Giải thích:</strong> \"the blue T-shirt\" và \"the red one\" đều là danh từ xác định, vì người nói và người nghe đều nhìn thấy hai cái áo cụ thể đó.</p>\n<p><em><strong>Dịch:</strong> Tớ thích cái áo phông xanh ở đằng kia hơn cái áo màu đỏ.</em></p>\n<p><strong>12. Their car does 150 miles an hour.</strong></p>\n<p><strong>Giải thích:</strong> \"an hour\" dùng để diễn tả tốc độ trên mỗi giờ. \"hour\" bắt đầu bằng một nguyên âm trong cách phát âm, nên ta dùng \"an\".</p>\n<p><em><strong>Dịch:</strong> Chiếc xe của họ đi được 150 dặm một giờ.</em></p>\n<p><strong>13. Where's the USB drive I lent you last week?</strong></p>\n<p><strong>Giải thích:</strong> \"the USB drive\" là danh từ xác định, vì người nói và người nghe đều biết cái USB đó đã được cho mượn từ tuần trước.</p>\n<p><em><strong>Dịch:</strong> Cái USB mà tớ cho cậu mượn tuần trước đâu rồi?</em></p>\n<p><strong>14. Do you still live in Bristol?</strong></p>\n<p><strong>Giải thích:</strong> Tên thành phố \"Bristol\" không cần mạo từ.</p>\n<p><em><strong>Dịch:</strong> Bạn vẫn sống ở Bristol à?</em></p>\n<p><strong>15. Is your mother working in an old office building?</strong></p>\n<p><strong>Giải thích:</strong> \"an old office building\" là danh từ không xác định, chỉ một tòa nhà văn phòng cũ bất kỳ. \"old\" bắt đầu bằng nguyên âm nên ta dùng \"an\".</p>\n<p><em><strong>Dịch:</strong> Mẹ bạn đang làm việc trong một tòa nhà văn phòng cũ phải không?</em></p>\n<p><strong>16. Carol's father works as an electrician.</strong></p>\n<p><strong>Giải thích:</strong> \"an electrician\" là một danh từ không xác định, chỉ một nghề nghiệp. \"electrician\" bắt đầu bằng nguyên âm nên ta dùng \"an\".</p>\n<p><em><strong>Dịch:</strong> Bố của Carol làm thợ điện.</em></p>\n<p><strong>17. The tomatoes are 99 pence a kilo.</strong></p>\n<p><strong>Giải thích:</strong> \"a kilo\" dùng để diễn tả giá trên mỗi kg.</p>\n<p><em><strong>Dịch:</strong> Cà chua giá 99 xu một cân.</em></p>\n<p><strong>18. What do you usually have for breakfast?</strong></p>\n<p><strong>Giải thích:</strong> \"breakfast\" là tên bữa ăn, không cần mạo từ.</p>\n<p><em><strong>Dịch:</strong> Bạn thường ăn gì vào bữa sáng?</em></p>\n<p><strong>19. Ben has a terrible headache.</strong></p>\n<p><strong>Giải thích:</strong> \"a terrible headache\" là một danh từ không xác định, chỉ một cơn đau đầu bất kỳ. \"terrible\" bắt đầu bằng một phụ âm, nên ta dùng \"a\".</p>\n<p><em><strong>Dịch:</strong> Ben bị đau đầu khủng khiếp.</em></p>\n<p><strong>20. After this tour you have the whole afternoon free to explore the city.</strong></p>\n<p><strong>Giải thích:</strong> \"the whole afternoon\" là một khoảng thời gian xác định, được nhấn mạnh là \"toàn bộ\" buổi chiều.</p>\n<p><em><strong>Dịch:</strong> Sau chuyến tham quan này, bạn có cả buổi chiều rảnh rỗi để khám phá thành phố.</em></p>\n<p><span id=\"docs-internal-guid-9f4a7f3d-7fff-ce56-992d-a420a3badd17\" style=\"font-family: Nunito-Regular;\"></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 71903,
+              "content": "<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">1. Look at [input_0] sea!</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">2. Who is [input_1] lady in [input_2]  picture?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">3. I visited [input_3] South Africa last summer.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">4. The book is about [input_4] man who lives on [input_5] small island.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">5. I work as [input_6] only English teacher at this school.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">6. Harry fixed [input_7] car, so we can go to [input_8] lake.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">7. She goes to work by [input_9] bike.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">8. Jamy likes [input_10] music, he plays [input_11] instrument.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">9. Marie enjoys eating [input_12] Swiss cheese.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">10. We have [input_13] small house in [input_14] village in [input_15] Netherlands.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">11. I like [input_16] blue T-shirt over there better than [input_17] red one.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">12. Their car does 150 miles [input_18] hour.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">13. Where's [input_19] USB drive I lent you last week?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">14. Do you still live in [input_20] Bristol?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">15. Is your mother working in [input_21] old office building?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">16. Carol's father works as [input_22] electrician.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">17. The tomatoes are 99 pence [input_23] kilo.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">18. What do you usually have for [input_24] breakfast?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">19. Ben has [input_25] terrible headache.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">20. After this tour you have [input_26] whole afternoon free to explore the city.</span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31372,
+          "id": 297877,
+          "name": null,
+          "title": null,
+          "content": "<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">Exercise 3. Correct the sentences by adding a, an or the.&nbsp;<em style=\"box-sizing: border-box;\">(Sửa lại c&aacute;c c&acirc;u sau bằng c&aacute;ch th&ecirc;m a, an hoặc the)</em></strong></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">a. I need&nbsp;<em style=\"box-sizing: border-box;\">new mouse</em>&nbsp;for my computer.&nbsp;<strong style=\"box-sizing: border-box;\">Answer:&nbsp;<em style=\"box-sizing: border-box;\">I need a new mouse for my computer.</em></strong></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">b. Why are you always in good mood?&nbsp;<strong style=\"box-sizing: border-box;\">Answer:</strong></span></span></p>",
+          "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 6pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #e03e2d; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Why are you always in a good mood? <em>(Tại sao bạn luôn vui vẻ vậy?) </em></span></p>\n<p><span id=\"docs-internal-guid-f22893e7-7fff-0473-acc4-4a67e297aabb\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">‘Mood’ là danh từ đếm được, số ít,  nói về trạng thái cảm xúc tại một thời điểm → không xác định, dùng ‘a’<br /><br /></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 31372,
+          "id": 297878,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"background-color: #ffffff;\">c. Red, yellow and blue are three primary colours.&nbsp;</span><strong style=\"box-sizing: border-box; background-color: #ffffff;\">Answer:</strong></span></p>",
+          "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 6pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #e03e2d; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Red, yellow and blue are the three primary colours. <em>(Đỏ, vàng và xanh dương là ba màu cơ bản.)</em></span></p>\n<p><span id=\"docs-internal-guid-d9b59fab-7fff-60c0-a8c5-8bd256ecbbb2\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Không phải kể chung một số màu sắc, mà đây là ba màu cụ thể được coi là màu cơ bản trong các màu → được xác định, dùng ‘the’</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 31372,
+          "id": 297879,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">d. Photoshop is program for editing digital images. <strong>Answer:</strong></span></p>",
+          "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 6pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #e03e2d; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Photoshop is a program for editing digital images. <em>(Photoshop là một chương trình để chỉnh sửa hình ảnh kỹ thuật số.)</em></span></p>\n<p><span id=\"docs-internal-guid-6ac8eba6-7fff-ea8b-513a-585eed358b52\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">‘Program’ là danh từ đếm được số ít, nhắc đến lần đầu và là ví dụ một trong rất nhiều những phần mềm thiết kế → không xác định, dùng ‘a’</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 31372,
+          "id": 297880,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">e. Acid rain is big problem in parts of Europe. <strong>Answer:</strong></span></p>",
+          "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 6pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #e03e2d; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Acid rain is a big problem in parts of Europe. <em>(Mưa axit là một vấn đề lớn ở một số vùng của châu Âu.)</em></span></p>\n<p><span id=\"docs-internal-guid-d66929cf-7fff-3dc5-1c78-084ce2394666\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">‘problem’ là danh từ đếm được số ít, mưa axit nói chung là một trong những vấn đề lớn ở nhiều nơi thuộc châu Âu chứ không phải 1 vấn đề cụ thể từng được đề cập trước đó hay là đối tượng cả người nghe và người nói cùng hiểu và xác định được → không xác định, dùng ‘a’</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 31372,
+          "id": 297881,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">f. We went out for meal last night at Indian restaurant in South Street. <strong>Answer:</strong></span></p>",
+          "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 6pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #e03e2d; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">We went out for a meal last night at an Indian restaurant on South Street. <em>(Tối qua chúng tôi đã đi ăn tối ở một nhà hàng Ấn Độ trên phố South.)</em></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">‘Meal’ và ‘Indian restaurant’ đều là danh từ đếm được số ít. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Ta đang nói chung về việc đi ra ngoài ăn một bữa (một bữa bất kì trong vô số bữa ăn có thể xảy ra tối qua, cũng không có bối cảnh nhắc đến bữa ăn trước đó) → không xác định, dùng ‘a’</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">‘Indian restaurant’ ám chỉ một nhà hàng Ấn bất kì trên phố South, bắt đầu với nguyên âm → dùng ‘an’</span></p>\n<p><span id=\"docs-internal-guid-8db56aef-7fff-823e-8a25-9833799e30bf\" style=\"font-family: Nunito-Regular;\"></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 31372,
+          "id": 297882,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">g. My brother became engineer because he liked playing with motors. <strong>Answer:</strong></span></p>",
+          "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 6pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #e03e2d; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">My brother became an engineer because he liked playing with motors. <em>(Anh trai tôi trở thành một kỹ sư vì anh ấy thích mày mò với các động cơ.)</em></span></p>\n<p><span id=\"docs-internal-guid-303d2bf7-7fff-d118-eb58-0eec8ac464ec\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Giới thiệu về mong muốn công việc lần đầu. ‘Engineer’ là danh từ đếm được số ít, bắt đầu với nguyên âm → dùng ‘an’</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 31372,
+          "id": 297883,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">h. I lost all my work when a computer crashed.<strong> Answer:</strong></span></p>",
+          "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 6pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #e03e2d; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I lost all my work when the computer crashed. <em>(Tôi đã mất hết công việc khi máy tính bị hỏng.)</em></span></p>\n<p><span id=\"docs-internal-guid-dc93a2d2-7fff-0763-8136-98a73422393a\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">‘computer’ là danh từ đếm được số ít. Trường hợp này không phải một cái máy tính mới, ngẫu nhiên, mà phải là cái máy mà ‘I’ đang làm việc mà lại bị sập để rồi mất hết phần công việc đang làm → đã xác dịnh, dùng ‘the’</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 31372,
+          "id": 297884,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">i. This is book she gave me.<strong> Answer:</strong></span></p>",
+          "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 6pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #e03e2d; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This is the book she gave me. <em>(Đây là cuốn sách cô ấy đã đưa cho tôi.)</em></span></p>\n<p><span id=\"docs-internal-guid-5d6a57d4-7fff-452c-8980-362f80e2dc83\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">‘Book’ là danh từ đếm được số ít. Đây không phải là một quyển sách nói chung, bất kì mà cụ thể đúng là cuốn mà cô ấy đã cho tôi → đã xác định, dùng ‘the’</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 31372,
+          "id": 297885,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">j. It takes one hour to finish unit of this book. <strong>Answer:</strong></span></p>",
+          "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 6pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #e03e2d; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">It takes one hour to finish a unit of this book. <em>(Mất một tiếng để hoàn thành một bài học của cuốn sách này.)</em></span></p>\n<p><span id=\"docs-internal-guid-b2564044-7fff-7f55-b8d6-42aecb63f24d\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">‘Unit’ là danh từ đếm được số ít. Ý nói chung là chương nào trong cuốn sách cũng sẽ mất một tiếng để hoàn thành → không xác định, dùng ‘a’</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

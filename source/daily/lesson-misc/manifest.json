@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "lesson": null,
+  "lessonKey": "lesson-misc",
+  "title": "Break Challenges",
+  "source": "LangGo daily challenge API",
+  "rawFolder": "raw/",
+  "files": {
+    "overview": "overview.md",
+    "content": "content.json",
+    "exercises": "exercises.json",
+    "scripts": "scripts.json",
+    "submission": "submission.json",
+    "audioManifest": "audio/manifest.json",
+    "imageManifest": "images/manifest.json"
+  },
+  "challenges": [
+    {
+      "id": 29472,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "number": 1,
+      "title": "[PRE IELTS] BREAK 1 - CHALLENGE 1",
+      "note": "",
+      "day": 5,
+      "deadline": "2026-06-19 23:30:00",
+      "totalQuestion": 35,
+      "classification": "break",
+      "rawFile": "raw/challenge-01-29472.json"
+    },
+    {
+      "id": 31677,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "number": 1,
+      "title": "[PRE IELTS] BREAK 2 - CHALLENGE 1",
+      "note": "",
+      "day": 11,
+      "deadline": "2026-07-06 23:30:00",
+      "totalQuestion": 35,
+      "classification": "break",
+      "rawFile": "raw/challenge-01-31677.json"
+    },
+    {
+      "id": 29473,
+      "challengeId": 29473,
+      "classChallengeId": "80745",
+      "number": 2,
+      "title": "[PRE IELTS] BREAK 1 - CHALLENGE 2",
+      "note": "",
+      "day": 5,
+      "deadline": "2026-06-19 23:30:00",
+      "totalQuestion": 1,
+      "classification": "break",
+      "rawFile": "raw/challenge-02-29473.json"
+    },
+    {
+      "id": 31678,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "number": 2,
+      "title": "[PRE IELTS] BREAK 2 - CHALLENGE 2",
+      "note": "",
+      "day": 11,
+      "deadline": "2026-07-06 23:30:00",
+      "totalQuestion": 46,
+      "classification": "break",
+      "rawFile": "raw/challenge-02-31678.json"
+    }
+  ]
+}

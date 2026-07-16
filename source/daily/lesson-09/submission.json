@@ -1,0 +1,580 @@
+{
+  "lesson": 9,
+  "lessonKey": "lesson-09",
+  "items": [
+    {
+      "challengeId": 31006,
+      "classChallengeId": "82213",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 48,
+      "submittedAt": "2026-06-29 22:13:28",
+      "markedAt": "2026-07-04 13:19:00",
+      "commentText": "Hi Khánh, bài này em làm tốt nha.\n\r\nEm xem kĩ phần giải thích đáp án để rút kinh nghiệm bài sau làm tốt hơn nhé.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "293791": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "excellent – xuất sắc, rất tốt\ndreadful – kinh khủng, tồi tệ\nhorrible – khủng khiếp, kinh khủng\neasy-going – dễ tính, thoải mái\nselfish – ích kỷ\nbrilliant – xuất sắc, thông minh\nmarvelous – tuyệt vời, đáng kinh ngạc\nnasty – khó chịu, xấu tính\nfine – tốt, ổn\nwonderful – tuyệt vời\nnaughty – nghịch ngợm, hư (thường dùng cho trẻ em)\nwell-behaved – ngoan, cư xử tốt\nkind – tốt bụng, tử tế\ndifficult – khó tính (khi nói về tính cách)",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 293791,
+          "challenge_id": 31006
+        },
+        "293792": {
+          "total_question": 14,
+          "total_correct_result_answer": 12,
+          "user_answer": {
+            "23605": 29327,
+            "23606": 29327,
+            "23607": 29327,
+            "23608": 29327,
+            "23609": 29326,
+            "23610": 29327,
+            "23611": 29327,
+            "23612": 29326,
+            "23613": 29327,
+            "23614": 29326,
+            "23615": 29326,
+            "23616": 29327,
+            "23617": 29326,
+            "23618": 29326
+          },
+          "correct_answer": {
+            "23605": 29327,
+            "23606": 29326,
+            "23607": 29327,
+            "23608": 29327,
+            "23609": 29326,
+            "23610": 29327,
+            "23611": 29327,
+            "23612": 29326,
+            "23613": 29327,
+            "23614": 29326,
+            "23615": 29326,
+            "23616": 29327,
+            "23617": 29327,
+            "23618": 29326
+          },
+          "result_answer": {
+            "23605": true,
+            "23606": false,
+            "23607": true,
+            "23608": true,
+            "23609": true,
+            "23610": true,
+            "23611": true,
+            "23612": true,
+            "23613": true,
+            "23614": true,
+            "23615": true,
+            "23616": true,
+            "23617": false,
+            "23618": true
+          },
+          "has_answer_empty": [],
+          "type": 6,
+          "question_id": 293792,
+          "challenge_id": 31006
+        },
+        "293793": {
+          "total_question": 10,
+          "total_correct_result_answer": 9,
+          "user_answer": {
+            "input_0": "weather",
+            "input_1": "idea",
+            "input_4": "day",
+            "input_5": "smell",
+            "input_6": "boy",
+            "input_7": "view",
+            "input_8": "girl",
+            "input_2": "idea",
+            "input_3": "news",
+            "input_9": "habit"
+          },
+          "correct_answer": {
+            "input_0": [
+              "weather"
+            ],
+            "input_1": [
+              "hotel"
+            ],
+            "input_2": [
+              "idea"
+            ],
+            "input_3": [
+              "news"
+            ],
+            "input_4": [
+              "day"
+            ],
+            "input_5": [
+              "smell"
+            ],
+            "input_6": [
+              "boy"
+            ],
+            "input_7": [
+              "view"
+            ],
+            "input_8": [
+              "girl"
+            ],
+            "input_9": [
+              "habit"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": false,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 293793,
+          "challenge_id": 31006
+        },
+        "293794": {
+          "total_question": 6,
+          "total_correct_result_answer": 5,
+          "user_answer": {
+            "input_0": "dreadful",
+            "input_1": "horrible",
+            "input_2": "awful",
+            "input_3": "well-behaved",
+            "input_4": "of",
+            "input_5": "busy"
+          },
+          "correct_answer": {
+            "input_0": [
+              "dreadful"
+            ],
+            "input_1": [
+              "horrible"
+            ],
+            "input_2": [
+              "awful"
+            ],
+            "input_3": [
+              "well-behaved"
+            ],
+            "input_4": [
+              "of"
+            ],
+            "input_5": [
+              "bad"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 293794,
+          "challenge_id": 31006
+        },
+        "293795": {
+          "total_question": 8,
+          "total_correct_result_answer": 8,
+          "user_answer": {
+            "input_0": "What's your friend Pauline like?",
+            "input_1": "He's really friendly and easy to talk to.",
+            "input_2": "She doesn't expect anything in return.",
+            "input_3": "She's so serious all the time.",
+            "input_4": "He's kind of shy and not very talkative.",
+            "input_5": "Sounds like we have a lot in common",
+            "input_6": "She always looks like she's in a bad mood.",
+            "input_7": "It's difficult to get him to laugh."
+          },
+          "correct_answer": {
+            "input_0": [
+              "What's your friend Pauline like?"
+            ],
+            "input_1": [
+              "He's really friendly and easy to talk to."
+            ],
+            "input_2": [
+              "She doesn't expect anything in return."
+            ],
+            "input_3": [
+              "She's so serious all the time."
+            ],
+            "input_4": [
+              "He's kind of shy and not very talkative."
+            ],
+            "input_5": [
+              "Sounds like we have a lot in common."
+            ],
+            "input_6": [
+              "She always looks like she's in a bad mood."
+            ],
+            "input_7": [
+              "It's difficult to get him to laugh."
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 293795,
+          "challenge_id": 31006
+        },
+        "293796": {
+          "total_question": 7,
+          "total_correct_result_answer": 7,
+          "user_answer": {
+            "23619": 29332,
+            "23620": 29333,
+            "23621": 29329,
+            "23622": 29328,
+            "23623": 29334,
+            "23624": 29331,
+            "23625": 29330
+          },
+          "correct_answer": {
+            "23619": 29332,
+            "23620": 29333,
+            "23621": 29329,
+            "23622": 29328,
+            "23623": 29334,
+            "23624": 29331,
+            "23625": 29330
+          },
+          "result_answer": {
+            "23619": true,
+            "23620": true,
+            "23621": true,
+            "23622": true,
+            "23623": true,
+            "23624": true,
+            "23625": true
+          },
+          "has_answer_empty": [],
+          "type": 6,
+          "question_id": 293796,
+          "challenge_id": 31006
+        },
+        "293797": {
+          "total_question": 6,
+          "total_correct_result_answer": 5,
+          "user_answer": {
+            "input_0": "She's always telling jokes.",
+            "input_1": "He's always doing crazy things.",
+            "input_2": "He's really easy to talk to and friendly.",
+            "input_3": "He's very smart and easy-going.",
+            "input_4": "She looks like she's always in a bad mood.",
+            "input_5": "He doesn't seem to enjoy any jokes."
+          },
+          "correct_answer": {
+            "input_0": [
+              "She's always telling jokes."
+            ],
+            "input_1": [
+              "He's always doing crazy things."
+            ],
+            "input_2": [
+              "He's really friendly and easy to talk to.",
+              "He's really easy to talk to and friendly."
+            ],
+            "input_3": [
+              "He's very easy-going and smart.",
+              "He's very smart and easy-going."
+            ],
+            "input_4": [
+              "She always looks like she's in a bad mood."
+            ],
+            "input_5": [
+              "He doesn't seem to enjoy any jokes."
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": false,
+            "input_5": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 293797,
+          "challenge_id": 31006
+        },
+        "293798": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "be great to be with – rất vui khi ở cùng ai.\nmake someone laugh – làm ai cười.\ntell jokes – kể chuyện cười.\nbe friendly and easy to talk to – thân thiện và dễ nói chuyện.\ngo out and meet people – đi chơi và gặp gỡ mọi người.\nlove giving things to people – thích tặng đồ cho mọi người.\nnot expect anything in return – không mong nhận lại điều gì.\nlook like someone is in a bad mood – trông như ai đó đang có tâm trạng không tốt.\nhave a lot in common – có nhiều điểm chung.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 293798,
+          "challenge_id": 31006
+        }
+      }
+    },
+    {
+      "challengeId": 31007,
+      "classChallengeId": "82214",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 36,
+      "submittedAt": "2026-06-29 22:29:25",
+      "markedAt": "2026-07-04 20:22:10",
+      "commentText": "Hi Khánh, bài này em làm tốt nhé. Phần script em làm cũng ổn rồi nha.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "293799": {
+          "total_question": 16,
+          "total_correct_result_answer": 15,
+          "user_answer": {
+            "input_2": "ful",
+            "input_3": "less",
+            "input_4": "im",
+            "input_5": "dis",
+            "input_6": "un",
+            "input_0": "il",
+            "input_1": "im",
+            "input_7": "ir",
+            "input_8": "ful",
+            "input_9": "less",
+            "input_10": "in",
+            "input_11": "un",
+            "input_12": "full",
+            "input_13": "less",
+            "input_14": "un",
+            "input_15": "in"
+          },
+          "correct_answer": {
+            "input_0": [
+              "il"
+            ],
+            "input_1": [
+              "im"
+            ],
+            "input_2": [
+              "ful",
+              "less"
+            ],
+            "input_3": [
+              "less",
+              "ful"
+            ],
+            "input_4": [
+              "im"
+            ],
+            "input_5": [
+              "dis"
+            ],
+            "input_6": [
+              "un"
+            ],
+            "input_7": [
+              "ir"
+            ],
+            "input_8": [
+              "ful",
+              "less"
+            ],
+            "input_9": [
+              "less",
+              "ful"
+            ],
+            "input_10": [
+              "in"
+            ],
+            "input_11": [
+              "un"
+            ],
+            "input_12": [
+              "ful",
+              "less"
+            ],
+            "input_13": [
+              "less",
+              "ful"
+            ],
+            "input_14": [
+              "un"
+            ],
+            "input_15": [
+              "in"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true,
+            "input_10": true,
+            "input_11": true,
+            "input_12": false,
+            "input_13": true,
+            "input_14": true,
+            "input_15": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 293799,
+          "challenge_id": 31007
+        },
+        "293800": {
+          "total_question": 20,
+          "total_correct_result_answer": 20,
+          "user_answer": {
+            "input_0": "dishonest",
+            "input_1": "responsible",
+            "input_2": "irresponsible",
+            "input_3": "unhealthy",
+            "input_4": "tidy",
+            "input_5": "selfish",
+            "input_6": "patient",
+            "input_7": "bossy",
+            "input_8": "polite",
+            "input_9": "lazy",
+            "input_10": "careful",
+            "input_11": "talkative",
+            "input_12": "generous",
+            "input_13": "easy-going",
+            "input_14": "confident",
+            "input_15": "hot-tempered",
+            "input_16": "helpful",
+            "input_17": "humble",
+            "input_18": "kind",
+            "input_19": "creative"
+          },
+          "correct_answer": {
+            "input_0": [
+              "dishonest"
+            ],
+            "input_1": [
+              "responsible"
+            ],
+            "input_2": [
+              "irresponsible"
+            ],
+            "input_3": [
+              "unhealthy"
+            ],
+            "input_4": [
+              "tidy"
+            ],
+            "input_5": [
+              "selfish"
+            ],
+            "input_6": [
+              "patient"
+            ],
+            "input_7": [
+              "bossy"
+            ],
+            "input_8": [
+              "polite"
+            ],
+            "input_9": [
+              "lazy"
+            ],
+            "input_10": [
+              "careful"
+            ],
+            "input_11": [
+              "talkative"
+            ],
+            "input_12": [
+              "generous"
+            ],
+            "input_13": [
+              "easy-going"
+            ],
+            "input_14": [
+              "confident"
+            ],
+            "input_15": [
+              "hot-tempered"
+            ],
+            "input_16": [
+              "helpful"
+            ],
+            "input_17": [
+              "humble"
+            ],
+            "input_18": [
+              "kind"
+            ],
+            "input_19": [
+              "creative"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true,
+            "input_10": true,
+            "input_11": true,
+            "input_12": true,
+            "input_13": true,
+            "input_14": true,
+            "input_15": true,
+            "input_16": true,
+            "input_17": true,
+            "input_18": true,
+            "input_19": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 293800,
+          "challenge_id": 31007
+        },
+        "293801": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://docs.google.com/document/d/1gXCsH5rLPyc4A9xJxOtJXKkCw9O5e272Lk47iCEJBxg/edit?usp=drive_link",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 293801,
+          "challenge_id": 31007
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "lesson": 9,
+  "lessonKey": "lesson-09",
+  "title": "Lesson 9",
+  "source": "LangGo daily challenge API",
+  "rawFolder": "raw/",
+  "files": {
+    "overview": "overview.md",
+    "content": "content.json",
+    "exercises": "exercises.json",
+    "scripts": "scripts.json",
+    "submission": "submission.json",
+    "audioManifest": "audio/manifest.json",
+    "imageManifest": "images/manifest.json"
+  },
+  "challenges": [
+    {
+      "id": 31006,
+      "challengeId": 31006,
+      "classChallengeId": "82213",
+      "number": 1,
+      "title": "[PRE IELTS] LESSON 9 - CHALLENGE 1",
+      "note": "Vocabulary (adjectives) | Listening transcript",
+      "day": 9,
+      "deadline": "2026-06-29 23:30:00",
+      "totalQuestion": 53,
+      "classification": "dc",
+      "rawFile": "raw/challenge-01-31006.json"
+    },
+    {
+      "id": 31007,
+      "challengeId": 31007,
+      "classChallengeId": "82214",
+      "number": 2,
+      "title": "[PRE IELTS] LESSON 9 - CHALLENGE 2",
+      "note": "Grammar | Shadowing | Speaking (Personality)",
+      "day": 9,
+      "deadline": "2026-06-29 23:30:00",
+      "totalQuestion": 37,
+      "classification": "dc",
+      "rawFile": "raw/challenge-02-31007.json"
+    }
+  ]
+}

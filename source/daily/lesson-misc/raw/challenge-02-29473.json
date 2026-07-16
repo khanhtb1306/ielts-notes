@@ -1,0 +1,484 @@
+{
+  "listItem": {
+    "id": "80745",
+    "challenge_id": 29473,
+    "class_id": "177286917873dop75b27mv",
+    "day": 5,
+    "deadline": "2026-06-19 23:30:00",
+    "challenge_title": "[PRE IELTS] BREAK 1 - CHALLENGE 2",
+    "challenge_note": null,
+    "challenge_status": 1,
+    "challenge_band": "161433861829325240c1g7",
+    "total_question": 1,
+    "classification": "break",
+    "student_challenge": {
+      "id": 552563,
+      "class_challenge_id": 80745,
+      "class_id": "177286917873dop75b27mv",
+      "challenge_id": 29473,
+      "cts_id": "1780455880vwydc1i2ehir",
+      "rate": 1,
+      "comment": "<p>Hi Khánh, cô gửi nhận xét cho bài của mình nha.</p>\r\n<p><strong>Phát âm</strong></p>\r\n<ul>\r\n<li>\r\n<p><strong>your</strong> /jɔːr/ (hoặc /jʊər/): em đang phát âm chưa đúng âm <strong>/j/</strong> ở đầu từ. Khi đọc, lưỡi nâng gần vòm miệng rồi chuyển nhanh sang nguyên âm phía sau, tránh đọc thành âm \"d\" hoặc bỏ mất âm đầu.</p>\r\n</li>\r\n<li>\r\n<p><strong>nurse</strong> /nɜːrs/: em đang thiếu âm cuối <strong>/s/</strong>. Cần đọc rõ âm cuối để từ được đầy đủ và chính xác hơn.</p>\r\n</li>\r\n<li>\r\n<p><strong>does</strong> /dʌz/: em đọc sai nguyên âm <strong>/ʌ/</strong>. Khẩu hình mở tự nhiên, lưỡi thả lỏng ở giữa miệng, tránh đọc thành âm /o/ hoặc /u/.</p>\r\n</li>\r\n<li>\r\n<p><strong>eggs</strong> /eɡz/: em cần đọc rõ hơn nguyên âm <strong>/e/</strong>. Khẩu hình mở vừa phải, giữ âm ngắn và dứt khoát, tránh kéo sang các nguyên âm khác.</p>\r\n</li>\r\n<li>\r\n<p><strong>twice</strong> /twaɪs/: em cần chú ý đọc rõ âm cuối <strong>/aɪ/</strong></p>\r\n</li>\r\n</ul>\r\n<p>Em đọc kĩ feedback và cố gắng cải thiện để bài sau làm tốt hơn nhé.</p>",
+      "url": null,
+      "redo_comment": null,
+      "cancel_comment": null,
+      "date_redo": null,
+      "status_mark": "graded",
+      "status_mark_date": "2026-06-23 22:53:26",
+      "flag_overdue": 0,
+      "flag_not_star": 0,
+      "flag_not_submit": 0,
+      "flag_late_redo": 0,
+      "flag_late_submit": 0,
+      "flag_status_mark": 0,
+      "updated_by": null,
+      "updated": "2026-06-23 22:53:26",
+      "created_by": "1779875378vawpfok6ii4u",
+      "created": "2026-06-17 23:16:26",
+      "correct_answer": 1,
+      "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+      "submitted_at": "2026-06-17 23:16:26",
+      "re_submitted_at": null,
+      "answers": [
+        {
+          "id": 8015023,
+          "question_id": 44624,
+          "choice_id": null,
+          "user_id": null,
+          "content": "https://docs.google.com/document/d/13BJ6Hj7Eo9y2X1awiqq2x3L4SMzMVzOr6-oPd0aIQ3I/edit?usp=sharing",
+          "student_challenge_id": 80745,
+          "index": 0,
+          "created_at": "2024-10-01 23:54:04",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8015024,
+          "question_id": 44625,
+          "choice_id": 38415,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80745,
+          "index": 0,
+          "created_at": "2024-10-01 23:54:04",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8015025,
+          "question_id": 44626,
+          "choice_id": 38419,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80745,
+          "index": 0,
+          "created_at": "2024-10-01 23:54:04",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8015026,
+          "question_id": 44627,
+          "choice_id": 38422,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80745,
+          "index": 0,
+          "created_at": "2024-10-01 23:54:04",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8015027,
+          "question_id": 44628,
+          "choice_id": 38424,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80745,
+          "index": 0,
+          "created_at": "2024-10-01 23:54:04",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8015028,
+          "question_id": 44629,
+          "choice_id": 38426,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80745,
+          "index": 0,
+          "created_at": "2024-10-01 23:54:04",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8015029,
+          "question_id": 44630,
+          "choice_id": null,
+          "user_id": null,
+          "content": "To be honest: thành thật mà nói \n structure: kết cấu  \nutilities: tiện ích \n wear and tear: hao mòn \ntrade-offs: đánh đổi \nrefrigerator: tủ lạnh \ninclude: bao gồm \ncovered: che phủ \nguarantee: bảo đảm \ntenant: người thuê nhà",
+          "student_challenge_id": 80745,
+          "index": 0,
+          "created_at": "2024-10-01 23:54:04",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        }
+      ],
+      "tab_switch_count": 0
+    }
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "80745",
+        "challenge_id": 29473,
+        "class_id": "177286917873dop75b27mv",
+        "day": 5,
+        "deadline": "2026-06-19 23:30:00",
+        "flag_status_mark": 1,
+        "flag_not_submit": 0,
+        "created": "2026-06-16 22:24:45",
+        "created_by": null,
+        "challenge": {
+          "id": "29473",
+          "title": "[PRE IELTS] BREAK 1 - CHALLENGE 2",
+          "note": null,
+          "day": "12",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "161433861829325240c1g7",
+          "created": "2026-06-16 22:24:44",
+          "updated": null,
+          "created_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+          "updated_by": null,
+          "total_question": 1,
+          "classification": "break",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 8056
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 552563,
+        "class_challenge_id": 80745,
+        "class_id": "177286917873dop75b27mv",
+        "challenge_id": 29473,
+        "cts_id": "1780455880vwydc1i2ehir",
+        "rate": 1,
+        "comment": "<p>Hi Khánh, cô gửi nhận xét cho bài của mình nha.</p>\r\n<p><strong>Phát âm</strong></p>\r\n<ul>\r\n<li>\r\n<p><strong>your</strong> /jɔːr/ (hoặc /jʊər/): em đang phát âm chưa đúng âm <strong>/j/</strong> ở đầu từ. Khi đọc, lưỡi nâng gần vòm miệng rồi chuyển nhanh sang nguyên âm phía sau, tránh đọc thành âm \"d\" hoặc bỏ mất âm đầu.</p>\r\n</li>\r\n<li>\r\n<p><strong>nurse</strong> /nɜːrs/: em đang thiếu âm cuối <strong>/s/</strong>. Cần đọc rõ âm cuối để từ được đầy đủ và chính xác hơn.</p>\r\n</li>\r\n<li>\r\n<p><strong>does</strong> /dʌz/: em đọc sai nguyên âm <strong>/ʌ/</strong>. Khẩu hình mở tự nhiên, lưỡi thả lỏng ở giữa miệng, tránh đọc thành âm /o/ hoặc /u/.</p>\r\n</li>\r\n<li>\r\n<p><strong>eggs</strong> /eɡz/: em cần đọc rõ hơn nguyên âm <strong>/e/</strong>. Khẩu hình mở vừa phải, giữ âm ngắn và dứt khoát, tránh kéo sang các nguyên âm khác.</p>\r\n</li>\r\n<li>\r\n<p><strong>twice</strong> /twaɪs/: em cần chú ý đọc rõ âm cuối <strong>/aɪ/</strong></p>\r\n</li>\r\n</ul>\r\n<p>Em đọc kĩ feedback và cố gắng cải thiện để bài sau làm tốt hơn nhé.</p>",
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": "graded",
+        "status_mark_date": "2026-06-23 22:53:26",
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": null,
+        "updated": "2026-06-23 22:53:26",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-06-17 23:16:26",
+        "correct_answer": 1,
+        "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+        "submitted_at": "2026-06-17 23:16:26",
+        "re_submitted_at": null,
+        "answers": {
+          "276955": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "https://drive.google.com/file/d/1CzJQW-Sgca8rhMzxbpWtEr0ufdl3bzvE/view?usp=sharing",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 276955,
+            "challenge_id": 29473
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "1781712015fl05rca2ujqp",
+        "class_challenge_id": 80745,
+        "contact_id": "1779875378vawpfok6ii4u",
+        "highlight": null,
+        "note": null,
+        "created_at": "2026-06-17T16:00:15.000000Z",
+        "updated_at": "2026-06-17T16:00:25.000000Z"
+      },
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 79601,
+          "content": "<p><span style=\"font-family: Nunito-ExtraBold; font-size: 16pt; background-color: #ba372a; color: #ffffff;\"> SHADOWING </span></p>\n<p><span style=\"font-size: 12pt;\"><span style=\"font-family: Nunito-ExtraBold; box-sizing: border-box; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Listen and repeat these sentences. </span><span style=\"box-sizing: border-box; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; font-family: Nunito-Regular;\">(Nghe và nhắc lại các câu sau.)</span></span></p>\n<p><span style=\"white-space-collapse: preserve; font-size: 12pt; font-family: Nunito-Regular;\">1. What does your mother do? - My mother is a nurse.</span></p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 79602,
+          "content": null,
+          "index": 1,
+          "type": "audio",
+          "audio_url": "https://api-quiz-maker.langgo.vn/storage/audio/1717470439.mp3",
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "compact",
+          "align": "center"
+        },
+        {
+          "id": 79603,
+          "content": null,
+          "index": 2,
+          "type": "audio",
+          "audio_url": "https://api-quiz-maker.langgo.vn/storage/audio/1717473605.mp3",
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "compact",
+          "align": "center"
+        },
+        {
+          "id": 79604,
+          "content": "<p><span style=\"white-space-collapse: preserve; font-size: 12pt; font-family: Nunito-Regular;\">2. My brother does exercise every day.</span></p>",
+          "index": 3,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 79605,
+          "content": null,
+          "index": 4,
+          "type": "audio",
+          "audio_url": "https://api-quiz-maker.langgo.vn/storage/audio/1717473739.mp3",
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "compact",
+          "align": "center"
+        },
+        {
+          "id": 79606,
+          "content": "<p><span style=\"white-space-collapse: preserve; font-size: 12pt; font-family: Nunito-Regular;\">3. My father does the washing in my family.</span></p>",
+          "index": 5,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 79607,
+          "content": null,
+          "index": 6,
+          "type": "audio",
+          "audio_url": "https://api-quiz-maker.langgo.vn/storage/audio/1717473802.mp3",
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "compact",
+          "align": "center"
+        },
+        {
+          "id": 79608,
+          "content": "<p><span style=\"white-space-collapse: preserve; font-size: 12pt; font-family: Nunito-Regular;\">4. I often have a shower at 7 pm.</span></p>",
+          "index": 7,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 79609,
+          "content": null,
+          "index": 8,
+          "type": "audio",
+          "audio_url": "https://api-quiz-maker.langgo.vn/storage/audio/1717473855.mp3",
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "compact",
+          "align": "center"
+        },
+        {
+          "id": 79610,
+          "content": "<p><span style=\"white-space-collapse: preserve; font-size: 12pt; font-family: Nunito-Regular;\">5. I often have bread with eggs and a glass of milk for breakfast.</span></p>",
+          "index": 9,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 79611,
+          "content": null,
+          "index": 10,
+          "type": "audio",
+          "audio_url": "https://api-quiz-maker.langgo.vn/storage/audio/1717473838.mp3",
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "compact",
+          "align": "center"
+        },
+        {
+          "id": 79612,
+          "content": "<p><span style=\"white-space-collapse: preserve; font-size: 12pt; font-family: Nunito-Regular;\">6. I like going sightseeing when I'm on holiday.</span></p>",
+          "index": 11,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 79613,
+          "content": null,
+          "index": 12,
+          "type": "audio",
+          "audio_url": "https://api-quiz-maker.langgo.vn/storage/audio/1717473906.mp3",
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "compact",
+          "align": "center"
+        },
+        {
+          "id": 79614,
+          "content": "<p><span style=\"white-space-collapse: preserve; font-size: 12pt; font-family: Nunito-Regular;\">7. I go for a walk twice a week.</span></p>",
+          "index": 13,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 79615,
+          "content": null,
+          "index": 14,
+          "type": "audio",
+          "audio_url": "https://api-quiz-maker.langgo.vn/storage/audio/1717473920.mp3",
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "compact",
+          "align": "center"
+        },
+        {
+          "id": 79616,
+          "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">8. I often go to school by motorbike.</span></p>",
+          "index": 15,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 79617,
+          "content": null,
+          "index": 16,
+          "type": "audio",
+          "audio_url": "https://api-quiz-maker.langgo.vn/storage/audio/1717473933.mp3",
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "compact",
+          "align": "center"
+        },
+        {
+          "id": 79618,
+          "content": "<p> </p>\n<p> </p>\n<p> </p>",
+          "index": 17,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 29473,
+          "id": 276955,
+          "name": null,
+          "title": "SHADOWING",
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span id=\"docs-internal-guid-39fbe986-7fff-84a1-10ad-52aee9c4f3c3\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-ExtraBold;\"><span style=\"white-space-collapse: preserve;\"><strong>Record and submit your link here:</strong></span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

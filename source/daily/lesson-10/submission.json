@@ -1,0 +1,797 @@
+{
+  "lesson": 10,
+  "lessonKey": "lesson-10",
+  "items": [
+    {
+      "challengeId": 31371,
+      "classChallengeId": "82563",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 45,
+      "submittedAt": "2026-07-01 21:06:21",
+      "markedAt": "2026-07-04 20:53:15",
+      "commentText": "Hi Khánh, bài này em làm tốt nha.\n\r\nEm xem kĩ phần giải thích đáp án để rút kinh nghiệm bài sau làm tốt hơn nhé.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "297868": {
+          "total_question": 6,
+          "total_correct_result_answer": 6,
+          "user_answer": {
+            "input_0": "lamp",
+            "input_4": "radio",
+            "input_5": "TV",
+            "input_1": "armchair",
+            "input_3": "remote control",
+            "input_2": "curtains"
+          },
+          "correct_answer": {
+            "input_0": [
+              "b",
+              "lamp"
+            ],
+            "input_1": [
+              "e",
+              "armchair"
+            ],
+            "input_2": [
+              "f",
+              "curtains"
+            ],
+            "input_3": [
+              "c",
+              "remote control"
+            ],
+            "input_4": [
+              "d",
+              "radio"
+            ],
+            "input_5": [
+              "a",
+              "TV"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 297868,
+          "challenge_id": 31371
+        },
+        "297869": {
+          "total_question": 9,
+          "total_correct_result_answer": 4,
+          "user_answer": {
+            "input_0": "I don't often listen to the radio.",
+            "input_1": "We need some more bookshelves in this room.",
+            "input_2": "I watch television all evening yesterday.",
+            "input_3": "It's dark now. Please close the curtains.",
+            "input_4": "Jim has some very nice furniture in his house.",
+            "input_5": "She have a shower in the afternoon.",
+            "input_6": "She walks downstair so she can make dinner for the family.",
+            "input_7": "I don't watch TV anymore,  so but can you turn the TV on?",
+            "input_8": "She is sleepy,so she goes to bed early."
+          },
+          "correct_answer": {
+            "input_0": [
+              "I don't often listen to the radio."
+            ],
+            "input_1": [
+              "We need some more bookshelves in this room."
+            ],
+            "input_2": [
+              "I watched television all evening yesterday."
+            ],
+            "input_3": [
+              "It's dark now. Please close the curtains."
+            ],
+            "input_4": [
+              "Jim has some very nice furniture in his house."
+            ],
+            "input_5": [
+              "She takes a shower in the afternoon."
+            ],
+            "input_6": [
+              "She walks downstairs so she can make dinner for the family."
+            ],
+            "input_7": [
+              "I don't watch TV anymore, so can you turn the TV off?",
+              "I don't watch TV anymore, so can you turn off the TV?"
+            ],
+            "input_8": [
+              "She is sleepy, so she goes to bed early."
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": false,
+            "input_3": true,
+            "input_4": true,
+            "input_5": false,
+            "input_6": false,
+            "input_7": false,
+            "input_8": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 297869,
+          "challenge_id": 31371
+        },
+        "297870": {
+          "total_question": 12,
+          "total_correct_result_answer": 11,
+          "user_answer": {
+            "input_0": "living room",
+            "input_1": "bedroom",
+            "input_2": "tow bedrooms",
+            "input_3": "kitchen",
+            "input_4": "bathroom",
+            "input_5": "bedrooms",
+            "input_6": "small",
+            "input_7": "bedroom",
+            "input_8": "living room",
+            "input_9": "seven people",
+            "input_10": "bedrooms",
+            "input_11": "small one"
+          },
+          "correct_answer": {
+            "input_0": [
+              "living room"
+            ],
+            "input_1": [
+              "bedroom"
+            ],
+            "input_2": [
+              "living room"
+            ],
+            "input_3": [
+              "kitchen"
+            ],
+            "input_4": [
+              "bathroom"
+            ],
+            "input_5": [
+              "bedrooms"
+            ],
+            "input_6": [
+              "small"
+            ],
+            "input_7": [
+              "bedroom",
+              "living room"
+            ],
+            "input_8": [
+              "living room",
+              "bedroom"
+            ],
+            "input_9": [
+              "seven people",
+              " 7 people"
+            ],
+            "input_10": [
+              "bedrooms"
+            ],
+            "input_11": [
+              "small bedroom",
+              "small one"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": false,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true,
+            "input_10": true,
+            "input_11": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 297870,
+          "challenge_id": 31371
+        },
+        "297871": {
+          "total_question": 10,
+          "total_correct_result_answer": 6,
+          "user_answer": {
+            "input_0": "is",
+            "input_1": "is",
+            "input_2": "has",
+            "input_3": "Do",
+            "input_4": "like",
+            "input_5": "is",
+            "input_6": "has",
+            "input_7": "look",
+            "input_8": "have",
+            "input_9": "have"
+          },
+          "correct_answer": {
+            "input_0": [
+              "is"
+            ],
+            "input_1": [
+              "is"
+            ],
+            "input_2": [
+              "has"
+            ],
+            "input_3": [
+              "Do"
+            ],
+            "input_4": [
+              "live"
+            ],
+            "input_5": [
+              "is"
+            ],
+            "input_6": [
+              "has"
+            ],
+            "input_7": [
+              "looks"
+            ],
+            "input_8": [
+              "don't have",
+              "do not have"
+            ],
+            "input_9": [
+              "don't have",
+              "do not have"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": false,
+            "input_5": true,
+            "input_6": true,
+            "input_7": false,
+            "input_8": false,
+            "input_9": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 297871,
+          "challenge_id": 31371
+        },
+        "297872": {
+          "total_question": 15,
+          "total_correct_result_answer": 12,
+          "user_answer": {
+            "input_0": "good",
+            "input_1": "fine",
+            "input_2": "small",
+            "input_3": "small",
+            "input_4": "really good",
+            "input_5": "too expensive",
+            "input_6": "cheap",
+            "input_7": "good",
+            "input_8": "nice",
+            "input_9": "big",
+            "input_10": "cheap",
+            "input_11": "comfortable",
+            "input_12": "good",
+            "input_13": "too big",
+            "input_14": "good"
+          },
+          "correct_answer": {
+            "input_0": [
+              "good"
+            ],
+            "input_1": [
+              "fine"
+            ],
+            "input_2": [
+              "small"
+            ],
+            "input_3": [
+              "small"
+            ],
+            "input_4": [
+              "good"
+            ],
+            "input_5": [
+              "expensive"
+            ],
+            "input_6": [
+              "cheap",
+              "used"
+            ],
+            "input_7": [
+              "used",
+              "cheap"
+            ],
+            "input_8": [
+              "nice",
+              "big"
+            ],
+            "input_9": [
+              "big",
+              "nice"
+            ],
+            "input_10": [
+              "cheap",
+              "comfortable"
+            ],
+            "input_11": [
+              "comfortable",
+              "cheap"
+            ],
+            "input_12": [
+              "good",
+              "too big"
+            ],
+            "input_13": [
+              "too big",
+              "good"
+            ],
+            "input_14": [
+              "good"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": false,
+            "input_5": false,
+            "input_6": true,
+            "input_7": false,
+            "input_8": true,
+            "input_9": true,
+            "input_10": true,
+            "input_11": true,
+            "input_12": true,
+            "input_13": true,
+            "input_14": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 297872,
+          "challenge_id": 31371
+        },
+        "297873": {
+          "total_question": 5,
+          "total_correct_result_answer": 5,
+          "user_answer": {
+            "input_0": "What is your apartment like?",
+            "input_1": "How many rooms does your apartment have?",
+            "input_2": "What is your place like?",
+            "input_3": "We don't have much furniture.",
+            "input_4": "The bathroom is very small."
+          },
+          "correct_answer": {
+            "input_0": [
+              "What is your apartment like?"
+            ],
+            "input_1": [
+              "How many rooms does your apartment have?"
+            ],
+            "input_2": [
+              "What is your place like?"
+            ],
+            "input_3": [
+              "We don't have much furniture."
+            ],
+            "input_4": [
+              "The bathroom is very small."
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 297873,
+          "challenge_id": 31371
+        },
+        "297874": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "What's your apartment like? — Căn hộ của bạn như thế nào?\nIt's comfortable. — Nó rất thoải mái.\nIt's pretty small. — Nó khá nhỏ.\nIt's got only one room. — Nó chỉ có một phòng.\nHow many rooms does it have? — Nó có bao nhiêu phòng?\nIt has two bedrooms, a living room, and a huge kitchen. — Nó có hai phòng ngủ, một phòng khách và một nhà bếp rất lớn.\nI sleep in the living room. — Tôi ngủ ở phòng khách.\nI live with my sister. — Tôi sống cùng chị/em gái của mình.\nWe don't have much furniture yet. — Chúng tôi vẫn chưa có nhiều đồ nội thất.\nThe bookshelf looks really good. — Giá sách trông rất đẹp.\nThe dinner table is very nice and big enough. — Bàn ăn rất đẹp và đủ lớn.\nI need to buy one. — Tôi cần mua một cái.\nSounds great! — Nghe tuyệt đấy!\nI haven't been able to find one. — Tôi vẫn chưa thể tìm được một cái.\nIt's really comfortable. — Nó thực sự rất thoải mái.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 297874,
+          "challenge_id": 31371
+        }
+      }
+    },
+    {
+      "challengeId": 31372,
+      "classChallengeId": "82564",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 49,
+      "submittedAt": "2026-07-01 21:11:54",
+      "markedAt": "2026-07-04 21:05:13",
+      "commentText": "Hi Khánh, bài này em làm khá tốt nha.\n\r\nEm xem kĩ các câu sai để rút kinh nghiệm cho bài sau nhé.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "297875": {
+          "total_question": 20,
+          "total_correct_result_answer": 17,
+          "user_answer": {
+            "input_0": "my",
+            "input_1": "his",
+            "input_2": "its",
+            "input_3": "its",
+            "input_4": "his",
+            "input_5": "your",
+            "input_6": "their",
+            "input_7": "his",
+            "input_8": "their",
+            "input_9": "our",
+            "input_10": "its",
+            "input_11": "their",
+            "input_12": "our",
+            "input_13": "their",
+            "input_14": "your",
+            "input_15": "his",
+            "input_16": "your",
+            "input_17": "their",
+            "input_18": "my",
+            "input_19": "my"
+          },
+          "correct_answer": {
+            "input_0": [
+              "her"
+            ],
+            "input_1": [
+              "his"
+            ],
+            "input_2": [
+              "my"
+            ],
+            "input_3": [
+              "its"
+            ],
+            "input_4": [
+              "his"
+            ],
+            "input_5": [
+              "your"
+            ],
+            "input_6": [
+              "their"
+            ],
+            "input_7": [
+              "his"
+            ],
+            "input_8": [
+              "their"
+            ],
+            "input_9": [
+              "our"
+            ],
+            "input_10": [
+              "its"
+            ],
+            "input_11": [
+              "their"
+            ],
+            "input_12": [
+              "our"
+            ],
+            "input_13": [
+              "their"
+            ],
+            "input_14": [
+              "your"
+            ],
+            "input_15": [
+              "his"
+            ],
+            "input_16": [
+              "your"
+            ],
+            "input_17": [
+              "Their"
+            ],
+            "input_18": [
+              "her"
+            ],
+            "input_19": [
+              "my"
+            ]
+          },
+          "result_answer": {
+            "input_0": false,
+            "input_1": true,
+            "input_2": false,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true,
+            "input_10": true,
+            "input_11": true,
+            "input_12": true,
+            "input_13": true,
+            "input_14": true,
+            "input_15": true,
+            "input_16": true,
+            "input_17": true,
+            "input_18": false,
+            "input_19": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 297875,
+          "challenge_id": 31372
+        },
+        "297876": {
+          "total_question": 27,
+          "total_correct_result_answer": 23,
+          "user_answer": {
+            "input_0": "a",
+            "input_1": "the",
+            "input_2": "the",
+            "input_3": "x",
+            "input_4": "the",
+            "input_5": "a",
+            "input_6": "an",
+            "input_7": "the",
+            "input_8": "the",
+            "input_9": "a",
+            "input_10": "x",
+            "input_11": "an",
+            "input_12": "x",
+            "input_13": "a",
+            "input_14": "a",
+            "input_15": "the",
+            "input_16": "the",
+            "input_17": "the",
+            "input_18": "an",
+            "input_19": "the",
+            "input_20": "x",
+            "input_21": "an",
+            "input_22": "an",
+            "input_23": "a",
+            "input_24": "x",
+            "input_25": "a",
+            "input_26": "the"
+          },
+          "correct_answer": {
+            "input_0": [
+              "the"
+            ],
+            "input_1": [
+              "the"
+            ],
+            "input_2": [
+              "the"
+            ],
+            "input_3": [
+              "x"
+            ],
+            "input_4": [
+              "a"
+            ],
+            "input_5": [
+              "a"
+            ],
+            "input_6": [
+              "the"
+            ],
+            "input_7": [
+              "the"
+            ],
+            "input_8": [
+              "the"
+            ],
+            "input_9": [
+              "x"
+            ],
+            "input_10": [
+              "x"
+            ],
+            "input_11": [
+              "an"
+            ],
+            "input_12": [
+              "x"
+            ],
+            "input_13": [
+              "a"
+            ],
+            "input_14": [
+              "a"
+            ],
+            "input_15": [
+              "the"
+            ],
+            "input_16": [
+              "the"
+            ],
+            "input_17": [
+              "the"
+            ],
+            "input_18": [
+              "an"
+            ],
+            "input_19": [
+              "the"
+            ],
+            "input_20": [
+              "x"
+            ],
+            "input_21": [
+              "an"
+            ],
+            "input_22": [
+              "an"
+            ],
+            "input_23": [
+              "a"
+            ],
+            "input_24": [
+              "x"
+            ],
+            "input_25": [
+              "a"
+            ],
+            "input_26": [
+              "the"
+            ]
+          },
+          "result_answer": {
+            "input_0": false,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": false,
+            "input_5": true,
+            "input_6": false,
+            "input_7": true,
+            "input_8": true,
+            "input_9": false,
+            "input_10": true,
+            "input_11": true,
+            "input_12": true,
+            "input_13": true,
+            "input_14": true,
+            "input_15": true,
+            "input_16": true,
+            "input_17": true,
+            "input_18": true,
+            "input_19": true,
+            "input_20": true,
+            "input_21": true,
+            "input_22": true,
+            "input_23": true,
+            "input_24": true,
+            "input_25": true,
+            "input_26": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 297876,
+          "challenge_id": 31372
+        },
+        "297877": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "Why are you always in a good mood?",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 297877,
+          "challenge_id": 31372
+        },
+        "297878": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "Red, yellow and blue are the three primary colours.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 297878,
+          "challenge_id": 31372
+        },
+        "297879": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "Photoshop is a program for editing digital images.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 297879,
+          "challenge_id": 31372
+        },
+        "297880": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "Acid rain is a big problem in parts of Europe.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 297880,
+          "challenge_id": 31372
+        },
+        "297881": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "We went out for a meal last night at an Indian restaurant in South Street.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 297881,
+          "challenge_id": 31372
+        },
+        "297882": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "My brother became an engineer because he liked playing with motors.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 297882,
+          "challenge_id": 31372
+        },
+        "297883": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "I lost all my work when the computer crashed.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 297883,
+          "challenge_id": 31372
+        },
+        "297884": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "This is the book she gave me.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 297884,
+          "challenge_id": 31372
+        },
+        "297885": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "It takes one hour to finish a unit of this book.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 297885,
+          "challenge_id": 31372
+        }
+      }
+    }
+  ]
+}

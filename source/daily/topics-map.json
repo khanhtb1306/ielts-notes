@@ -1,0 +1,252 @@
+{
+  "version": 1,
+  "description": "Topic taxonomy + Speaking question bank + Final Practice presets. Sửa file này rồi npm run build để reflect vào app.",
+  "topicLabels": {
+    "articles-determiners": { "label": "Articles & Determiners", "skill": "grammar" },
+    "word-classes":         { "label": "Word Classes (N/V/Adj/Adv)", "skill": "grammar", "needsNotes": true },
+    "present-tenses":       { "label": "Present Tenses", "skill": "grammar" },
+    "past-tenses":          { "label": "Past Tenses", "skill": "grammar" },
+    "future-tenses":        { "label": "Future Tenses", "skill": "grammar" },
+    "pronouns":             { "label": "Pronouns (incl. reflexive)", "skill": "grammar" },
+    "adjectives":           { "label": "Adjectives & Adverbs", "skill": "grammar" },
+    "nouns-quantifiers":    { "label": "Nouns & Quantifiers", "skill": "grammar" },
+    "modal-verbs":          { "label": "Modal Verbs", "skill": "grammar" },
+    "prepositions":         { "label": "Prepositions", "skill": "grammar" },
+
+    "vowels":               { "label": "Vowels", "skill": "pronunciation" },
+    "consonants":           { "label": "Consonants", "skill": "pronunciation" },
+    "reading-stress-time":  { "label": "Reading, Stress & Time", "skill": "pronunciation" },
+
+    "collocations":         { "label": "Collocations (do/get/take/have/make)", "skill": "vocabulary" },
+
+    "self":                 { "label": "Self · Name/Age", "skill": "speaking" },
+    "hometown":             { "label": "Hometown", "skill": "speaking" },
+    "job":                  { "label": "Job / School", "skill": "speaking" },
+    "hobbies":              { "label": "Hobbies", "skill": "speaking" },
+    "daily-routine":        { "label": "Daily Routine / Time", "skill": "speaking" },
+    "family":               { "label": "Family", "skill": "speaking" },
+    "appearance":           { "label": "Appearance", "skill": "speaking" },
+    "personality":          { "label": "Personality", "skill": "speaking" },
+    "house":                { "label": "House / Room", "skill": "speaking" },
+    "trip":                 { "label": "Trip / Vacations", "skill": "speaking" },
+    "food-restaurant":      { "label": "Food & Restaurant", "skill": "speaking" },
+    "health-illness":       { "label": "Health & Illness", "skill": "speaking" }
+  },
+
+  "noteKeywords": {
+    "vocabulary (do)":      ["collocations"],
+    "vocabulary (get":      ["collocations"],
+    "vocabulary (go":       ["collocations"],
+    "vocabulary (take":     ["collocations"],
+    "vocabulary (have":     ["collocations"],
+    "vocabulary (make":     ["collocations"],
+    "vocabulary (say":      ["collocations"],
+    "vocabulary":           ["collocations"],
+    "pronunciation (vowel": ["vowels"],
+    "pronunciation (conson":["consonants"],
+    "pronunciation (readin":["reading-stress-time"],
+    "pronunciation (stress":["reading-stress-time"],
+    "pronunciation (time":  ["reading-stress-time"],
+    "pronunciation":        ["vowels"],
+    "nouns":                ["nouns-quantifiers"],
+    "quantifier":           ["nouns-quantifiers"],
+    "pronoun":              ["pronouns"],
+    "adjective":            ["adjectives"],
+    "adverb":               ["adjectives"],
+    "determiner":           ["articles-determiners"],
+    "article":              ["articles-determiners"],
+    "preposition":          ["prepositions"],
+    "present simple":       ["present-tenses"],
+    "present continuous":   ["present-tenses"],
+    "present":              ["present-tenses"],
+    "past simple":          ["past-tenses"],
+    "past continuous":      ["past-tenses"],
+    "past":                 ["past-tenses"],
+    "future":               ["future-tenses"],
+    "will":                 ["future-tenses"],
+    "going to":             ["future-tenses"],
+    "modal":                ["modal-verbs"],
+    "self":                 ["self"],
+    "hometown":             ["hometown"],
+    "job":                  ["job"],
+    "hobb":                 ["hobbies"],
+    "family":               ["family"],
+    "appearance":           ["appearance"],
+    "personality":          ["personality"],
+    "house":                ["house"],
+    "room":                 ["house"],
+    "trip":                 ["trip"],
+    "travel":               ["trip"],
+    "food":                 ["food-restaurant"],
+    "restaurant":           ["food-restaurant"],
+    "health":               ["health-illness"],
+    "illness":              ["health-illness"],
+    "routine":              ["daily-routine"]
+  },
+
+  "lessonTopicHints": {
+    "lesson-01": ["vowels", "collocations"],
+    "lesson-02": ["vowels", "collocations"],
+    "lesson-03": ["consonants", "collocations"],
+    "lesson-04": ["consonants", "collocations"],
+    "lesson-05": ["reading-stress-time", "collocations"],
+    "lesson-06": ["nouns-quantifiers"],
+    "lesson-07": ["nouns-quantifiers", "job"],
+    "lesson-08": ["pronouns", "appearance"],
+    "lesson-09": ["adjectives", "family"],
+    "lesson-10": ["articles-determiners", "personality"],
+    "lesson-11": ["prepositions"],
+    "lesson-12": ["present-tenses", "house"],
+    "lesson-13": ["past-tenses", "hobbies"],
+    "lesson-14": ["future-tenses", "trip"],
+    "lesson-15": ["modal-verbs", "food-restaurant"],
+    "lesson-misc": []
+  },
+
+  "questionOverrides": {},
+  "blockOverrides": {},
+
+  "speakingQuestions": {
+    "self": [
+      { "q": "What's your name?" },
+      { "q": "How do you spell your name?" },
+      { "q": "How old are you?" },
+      { "q": "When is your birthday?" }
+    ],
+    "hometown": [
+      { "q": "Where do you come from?" },
+      { "q": "What do you like about your hometown?" },
+      { "q": "Is there anything you dislike about your hometown?" },
+      { "q": "Are there any lakes or rivers / woods or forests / hills or mountains in your hometown?" }
+    ],
+    "job": [
+      { "q": "What do you do?" },
+      { "q": "Are you a student or are you working?" },
+      { "q": "What is your dream job? Why?" }
+    ],
+    "hobbies": [
+      { "q": "What do you often do in your free time? / What are your hobbies?" },
+      { "q": "What do you often do on the weekend?" },
+      { "q": "Do you like sports? How often?" },
+      { "q": "Do you like watching movies?", "subQuestions": [
+        "What kinds of movies do you like?",
+        "What is your favorite movie?"
+      ] },
+      { "q": "Do you like reading books?" },
+      { "q": "Do you like listening to music?" },
+      { "q": "Do you like playing games?" }
+    ],
+    "daily-routine": [
+      { "q": "What time is it in your country?" },
+      { "q": "What time do you...", "subQuestions": [
+        "get up?",
+        "go to school/work?",
+        "have breakfast / lunch / dinner?",
+        "come home from school/work?",
+        "go to bed?"
+      ] },
+      { "q": "How do you go to school/work?" },
+      { "q": "How often do you...", "subQuestions": [
+        "phone your friend?",
+        "clean the house?",
+        "read the newspaper?",
+        "have friends round? (When you have friends round, what do you like to do?)"
+      ] }
+    ],
+    "family": [
+      { "q": "Do you live in a big family?" },
+      { "q": "What does your father / mother do?" },
+      { "q": "What does he/she like?" }
+    ],
+    "appearance": [
+      { "q": "What does he/she look like?" },
+      { "q": "What kind of hair does he/she have?" },
+      { "q": "What kinds of clothes does he/she often wear?" }
+    ],
+    "personality": [
+      { "q": "What is he/she like?" },
+      { "q": "Is he/she friendly / talkative / humorous / generous?" }
+    ],
+    "house": [
+      { "q": "What is your favorite room in your house?" },
+      { "q": "Can you describe your living room / bedroom / kitchen?" }
+    ],
+    "trip": [
+      { "q": "Do you love traveling?" },
+      { "q": "Tell me about one trip you remember the most." },
+      { "q": "Tell me about one trip you want to take in the future." }
+    ],
+    "food-restaurant": [
+      { "q": "What are your favorite foods / drinks? Are they good for you?" },
+      { "q": "Do you like eating out? How often do you go to a restaurant?" }
+    ],
+    "health-illness": [
+      { "q": "Do you have a healthy diet?" },
+      { "q": "Do you exercise? What exercise do you do?" },
+      { "q": "Do you often feel stressed?" },
+      { "q": "What should you do if you...", "subQuestions": [
+        "have a headache / toothache?",
+        "have got a cold?"
+      ] }
+    ]
+  },
+
+  "practicePresets": [
+    {
+      "id": "grammar-final",
+      "label": "Final Test Grammar · 30 câu (theo đề mẫu)",
+      "skill": "grammar",
+      "totalQuestions": 30,
+      "mix": [
+        { "topic": "articles-determiners", "percent": 33 },
+        { "topic": "word-classes",         "percent": 22 },
+        { "topic": "present-tenses",       "percent": 11 },
+        { "topic": "past-tenses",          "percent": 11 },
+        { "topic": "pronouns",             "percent": 7  },
+        { "topic": "adjectives",           "percent": 7  },
+        { "topic": "nouns-quantifiers",    "percent": 5  },
+        { "topic": "future-tenses",        "percent": 4  }
+      ],
+      "questionTypes": ["fill_blank", "single_choice", "multi_select", "matching"]
+    },
+    {
+      "id": "grammar-final-45",
+      "label": "Final Test Grammar · 45 câu (full size)",
+      "skill": "grammar",
+      "totalQuestions": 45,
+      "mix": [
+        { "topic": "articles-determiners", "percent": 33 },
+        { "topic": "word-classes",         "percent": 22 },
+        { "topic": "present-tenses",       "percent": 11 },
+        { "topic": "past-tenses",          "percent": 11 },
+        { "topic": "pronouns",             "percent": 7  },
+        { "topic": "adjectives",           "percent": 7  },
+        { "topic": "nouns-quantifiers",    "percent": 5  },
+        { "topic": "future-tenses",        "percent": 4  }
+      ],
+      "questionTypes": ["fill_blank", "single_choice", "multi_select", "matching"]
+    },
+    {
+      "id": "pronunciation-quick",
+      "label": "Pronunciation Quick · 20 câu",
+      "skill": "pronunciation",
+      "totalQuestions": 20,
+      "mix": [
+        { "topic": "vowels",              "percent": 45 },
+        { "topic": "consonants",          "percent": 40 },
+        { "topic": "reading-stress-time", "percent": 15 }
+      ],
+      "questionTypes": ["fill_blank", "single_choice", "multi_select"]
+    },
+    {
+      "id": "vocab-collocations",
+      "label": "Collocations Drill · 20 câu",
+      "skill": "vocabulary",
+      "totalQuestions": 20,
+      "mix": [
+        { "topic": "collocations", "percent": 100 }
+      ],
+      "questionTypes": ["fill_blank", "single_choice", "matching"]
+    }
+  ]
+}

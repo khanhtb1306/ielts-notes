@@ -1,0 +1,393 @@
+{
+  "lesson": 3,
+  "lessonKey": "lesson-03",
+  "items": [
+    {
+      "challengeId": 28778,
+      "classChallengeId": "80071",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 23,
+      "submittedAt": "2026-06-12 23:03:43",
+      "markedAt": "2026-06-15 19:12:45",
+      "commentText": "Helu Khánh, cô gửi nhận xét cho bài làm của mình nha.\n\r\nVề phần trả lời câu hỏi:\n\r\n\r\n\r\nEm cần chú ý viết câu trả lời đầy đủ hơn nhé, tránh trả lời quá ngắn hoặc thiếu thành phần trong câu. \n\r\n\n\r\n\r\n/f/\n\r\nEm nhớ đọc âm IPA 3 lần trước khi đọc từ theo đúng yêu cầu của bài nhé. Về cách phát âm, âm này em làm khá tốt.\n\r\n/v/\n\r\nEm cũng cần đọc âm IPA 3 lần trước khi vào phần từ vựng.\n\r\nTừ village /ˈvɪlɪdʒ/ em đang phát âm chưa chính xác. Em nên nghe lại audio mẫu và chú ý hơn đến nguyên âm /ɪ/ cũng như âm cuối /dʒ/ trong từ này.\n\r\n/d/\n\r\nHiện tại em đang đọc âm /d/ giống tên chữ cái \"D\" trong tiếng Anh thay vì đọc đúng âm IPA.\n\r\nKhi phát âm /d/, đầu lưỡi chạm nhẹ vào lợi trên phía sau răng cửa rồi hạ xuống nhanh để tạo âm. Đây là âm hữu thanh nên cần có độ rung ở cổ họng. \n\r\n/s/\n\r\nEm nhớ đọc âm IPA 3 lần trước khi đọc từ nhé. Về cách phát âm âm /s/, em làm khá tốt.\n\r\n/ʃ/\n\r\nÂm /ʃ/ nhìn chung em phát âm đúng. Tuy nhiên với những từ có âm này ở cuối như push /pʊʃ/, em cần đọc rõ âm cuối hơn để từ được trọn vẹn.\n\r\n/ʒ/\n\r\nÂm /ʒ/ của em cần phát âm nặng và rõ hơn một chút để người nghe dễ nhận biết.\n\r\nTừ Asia /ˈeɪʒə/ hiện tại âm /ʒ/ vẫn chưa thật sự rõ.\n\r\nNgoài ra từ measure /ˈmeʒə(r)/ em đang đọc sai nguyên âm /e/. Em cần mở khẩu hình vừa phải và giữ nguyên âm ngắn để phát âm chính xác hơn.\n\r\n/dʒ/\n\r\nÂm /dʒ/ của em hiện tại còn thiếu độ bật nên nghe chưa đủ mạnh.\n\r\nNgoài ra từ fridge /frɪdʒ/ em đang phát âm âm cuối /dʒ/ chưa rõ. Em cần hạ lưỡi xuống nhanh hơn và kết thúc từ dứt khoát để âm cuối được nhận diện rõ ràng.\n\r\n/t/, /k/, /g/, /p/, /b/, /z/, /tʃ/\n\r\nCác âm này em làm khá tốt. Khẩu hình và cách phát âm nhìn chung đã chính xác, em tiếp tục duy trì nhé.\n\r\nEm đọc kĩ nhận xét và luyện tập lại để mình ngày càng tiến bộ hơn nhé.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "269507": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "It takes me 2 hours",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 269507,
+          "challenge_id": 28778
+        },
+        "269508": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "It takes me 15 minutes",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 269508,
+          "challenge_id": 28778
+        },
+        "269509": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "It takes me 10 minutes",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 269509,
+          "challenge_id": 28778
+        },
+        "269510": {
+          "total_question": 10,
+          "total_correct_result_answer": 9,
+          "user_answer": {
+            "input_0": "take some water",
+            "input_1": "take an umbrella",
+            "input_2": "take a camera",
+            "input_3": "take an English course",
+            "input_4": "take a look",
+            "input_5": "take some Japanese lessons",
+            "input_6": "take a photo",
+            "input_7": "take the underground",
+            "input_8": "take an exam",
+            "input_9": "take the bus"
+          },
+          "correct_answer": {
+            "input_0": [
+              "take some water"
+            ],
+            "input_1": [
+              "take an umbrella"
+            ],
+            "input_2": [
+              "take a camera",
+              "take my camera"
+            ],
+            "input_3": [
+              "take an English course"
+            ],
+            "input_4": [
+              "take a look"
+            ],
+            "input_5": [
+              "take some Japanese lessons"
+            ],
+            "input_6": [
+              "take a photo",
+              "take some photos"
+            ],
+            "input_7": [
+              "take the bus",
+              "take the underground"
+            ],
+            "input_8": [
+              "take an exam"
+            ],
+            "input_9": [
+              "take a chance"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 269510,
+          "challenge_id": 28778
+        },
+        "269511": {
+          "total_question": 10,
+          "total_correct_result_answer": 10,
+          "user_answer": {
+            "input_0": "B",
+            "input_1": "D",
+            "input_2": "A",
+            "input_3": "C",
+            "input_4": "F",
+            "input_5": "E",
+            "input_6": "H",
+            "input_7": "J",
+            "input_8": "I",
+            "input_9": "G"
+          },
+          "correct_answer": {
+            "input_0": [
+              "B"
+            ],
+            "input_1": [
+              "D"
+            ],
+            "input_2": [
+              "A"
+            ],
+            "input_3": [
+              "C"
+            ],
+            "input_4": [
+              "F"
+            ],
+            "input_5": [
+              "E"
+            ],
+            "input_6": [
+              "H"
+            ],
+            "input_7": [
+              "J"
+            ],
+            "input_8": [
+              "I"
+            ],
+            "input_9": [
+              "G"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 269511,
+          "challenge_id": 28778
+        },
+        "269512": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://drive.google.com/file/d/1bKTAE-tcwJZnoyY6fLLPyqOjZCeE8ZSy/view?usp=sharing",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 269512,
+          "challenge_id": 28778
+        }
+      }
+    },
+    {
+      "challengeId": 28779,
+      "classChallengeId": "80072",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 18,
+      "submittedAt": "2026-06-12 23:12:22",
+      "markedAt": "2026-06-15 11:20:43",
+      "commentText": "Hi Khánh, bài này mình cần làm cẩn thận hơn nhé.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCô thấy em còn điền sai các cụm từ nhiều. Em chú ý xem kĩ lại các cụm từ trong mục bên trái, sau đó ghép vào câu. Phần nào trong đề có sẵn rồi thì em không cần ghi lại. Nếu vẫn chưa hiểu được thì em bấm vào mục giải thích chi tiết đáp án phía dưới.\n\r\n \n\r\n\n\r\n\n\r\n\n\r\nCố gắng học tốt hơn em nha.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "269513": {
+          "total_question": 12,
+          "total_correct_result_answer": 6,
+          "user_answer": {
+            "input_0": "call a friend",
+            "input_1": "go to work",
+            "input_2": "watch TV",
+            "input_3": "dinner",
+            "input_4": "go to bed",
+            "input_5": "get up",
+            "input_6": "bathroom",
+            "input_7": "shower",
+            "input_8": "walk",
+            "input_9": "letters/emails",
+            "input_10": "clothes",
+            "input_11": "house"
+          },
+          "correct_answer": {
+            "input_0": [
+              "friend",
+              "friends"
+            ],
+            "input_1": [
+              "to work"
+            ],
+            "input_2": [
+              "TV",
+              "television"
+            ],
+            "input_3": [
+              "dinner"
+            ],
+            "input_4": [
+              "bed",
+              "sleep"
+            ],
+            "input_5": [
+              "home"
+            ],
+            "input_6": [
+              "bathroom"
+            ],
+            "input_7": [
+              "shower",
+              "bath"
+            ],
+            "input_8": [
+              "walk"
+            ],
+            "input_9": [
+              "letters",
+              "emails"
+            ],
+            "input_10": [
+              "clothes"
+            ],
+            "input_11": [
+              "house"
+            ]
+          },
+          "result_answer": {
+            "input_0": false,
+            "input_1": false,
+            "input_2": false,
+            "input_3": true,
+            "input_4": false,
+            "input_5": false,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": false,
+            "input_10": true,
+            "input_11": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 269513,
+          "challenge_id": 28779
+        },
+        "269514": {
+          "total_question": 12,
+          "total_correct_result_answer": 11,
+          "user_answer": {
+            "input_0": "6 o'clock",
+            "input_1": "6 o'clock.",
+            "input_2": "bus",
+            "input_3": "home",
+            "input_4": "6",
+            "input_5": "TV",
+            "input_6": "3",
+            "input_7": "make",
+            "input_8": "7",
+            "input_9": "go for a walk",
+            "input_10": "bed",
+            "input_11": "10"
+          },
+          "correct_answer": {
+            "input_0": [
+              ""
+            ],
+            "input_1": [
+              "bath",
+              "shower"
+            ],
+            "input_2": [
+              "bus",
+              "bike",
+              "motorbike",
+              "bicycle",
+              "motorcycle",
+              "car",
+              "train",
+              "electric motorbike",
+              "electric bike",
+              "electric bicycle",
+              "electric car"
+            ],
+            "input_3": [
+              "home"
+            ],
+            "input_4": [
+              ""
+            ],
+            "input_5": [
+              "TV",
+              "movies",
+              "television",
+              "films",
+              "a film",
+              "a movie",
+              "a video",
+              "a show"
+            ],
+            "input_6": [
+              ""
+            ],
+            "input_7": [
+              "make",
+              "have"
+            ],
+            "input_8": [
+              ""
+            ],
+            "input_9": [
+              ""
+            ],
+            "input_10": [
+              "bed",
+              "sleep"
+            ],
+            "input_11": [
+              ""
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": false,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true,
+            "input_10": true,
+            "input_11": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 269514,
+          "challenge_id": 28779
+        },
+        "269515": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "get home: về nhà\nhave a bath: tắm (bồn)\ngo to the bathroom: đi vệ sinh\ngo to work: đi làm\nmake dinner: làm bữa tối\ngo to bed: đi ngủ\nwash clothes: giặt quần áo\nclean the house: lau nhà\ngo for a walk: đi dạo\nwrite letters/emails: viết thư/email\nphone a friend: gọi điện cho bạn\nhave a shower: tắm (vòi hoa sen)",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 269515,
+          "challenge_id": 28779
+        }
+      }
+    }
+  ]
+}

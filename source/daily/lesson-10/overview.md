@@ -1,0 +1,1157 @@
+# Lesson 10 Daily Practice
+
+Generated from LangGo daily challenge API. Raw responses are kept in `raw/` for comparison.
+
+- Challenges: 2
+- Content blocks: 2
+- Exercise blocks: 18
+- Script blocks: 21
+- Audio files: 5
+- Images: 8
+
+## [PRE IELTS] LESSON 10 - CHALLENGE 1
+
+**Note:** Vocabulary (Objects in the house) | Listening transcript (Describing apartments)
+
+- Challenge ID: 31371
+- Class challenge ID: 82563
+- Deadline: 2026-07-02 12:30:00
+- Raw: `raw/challenge-01-31371.json`
+
+### Study Content
+
+VOCABULARY 
+
+PART 1: IN THE KITCHEN /ˈkɪtʃ.ən/
+
+A. What's in the kitchen?
+
+B. Things we use in the kitchen
+
+C. Things we use for eating and drinking
+
+ 
+
+D. Expressions
+
+A: Where can I find a mug/ a cloth? 
+
+B: They are in the cupboard.
+
+A: Can I help with the washing-up/ cooking? 
+
+B: Yes, please! You can dry the plates. / You can cook some rice. 
+
+A: Where does this cup/ plate/ frying pan go? 
+
+B: Put it in this cupboard, please. 
+
+PART 2: IN THE BEDROOM /ˈbed.ruːm/ AND BATHROOM /ˈbɑːθ.ruːm/
+
+A. Bedroom
+
+B. Bathroom
+
+C. Joanna's routine
+
+Joanna goes to bed at 11 o'clock. 
+
+She goes upstairs to her bedroom.
+
+She gets undressed and gets into bed.
+
+She reads for a bit.
+
+She turns off the light and falls asleep.
+
+She wakes up when her alarm clock rings.
+
+She gets up.
+
+She takes a shower, brushes her teeth and gets dressed.
+
+She goes downstairs to the kitchen for breakfast.
+
+PART 3. IN THE LIVING ROOM
+
+ A. Things in the living room
+
+B. Useful verbs
+
+C. Expressions
+
+ LISTENING TRANSCRIPT  Describing apartments
+
+Exercise 1.
+
+1.
+
+A: What's your apartment like, Ken?
+
+B: It's comfortable, but it's pretty small. It's only got one room.
+
+A: Really? Don't you have a bedroom?
+
+B: No, I sleep in the living room.
+
+A: What about your dog?
+
+B: She sleeps in the living room, too! Right next to me.
+
+2.
+
+A: What's your new apartment like, Celia?
+
+B: It's really big. I love it.
+
+A: How many rooms does it have?
+
+B: Lots. It's got two bedrooms, a living room, and a huge kitchen and bathroom.
+
+A: Sounds great. So, when can I come and stay with you?
+
+3.
+
+A: Do you like your apartment, Joe?
+
+B: Not really. It's very small.
+
+A: Really?
+
+B: Yeah, just one bedroom and a living room.
+
+A: That isn't so small. How many people live with you?
+
+B: Seven!
+
+A: Seven! Wow!
+
+4.
+
+A: Do you live with your sister, Ellen?
+
+B: Yes, I do.
+
+A: What's your place like?
+
+B: It's nice. It's got two bedrooms, a big one and a small one.
+
+A: That's great.
+
+B: Yes, but I've got the small one.
+
+A: Oh.
+
+ |
+
+1.
+
+A: Căn hộ của bạn như thế nào, Ken?
+
+B: Nó thoải mái, nhưng nó khá nhỏ. Nó chỉ có một phòng.
+
+A: Thế hả? Bạn không có phòng ngủ à?
+
+B: Không, tôi ngủ trong phòng khách.
+
+A: Còn con chó của bạn thì sao?
+
+B: Nó cũng ngủ trong phòng khách! Ngay bên cạnh tôi.
+
+2.
+
+A: Căn hộ mới của bạn như thế nào, Celia?
+
+B: Nó thực sự to. Tôi thích nó.
+
+A: Nó có bao nhiêu phòng?
+
+B: Rất nhiều. Nó có hai phòng ngủ, một phòng khách, một nhà bếp và phòng tắm lớn.
+
+A: Nghe hay đấy. Vì vậy, khi nào tôi có thể đến và ở lại với bạn?
+
+3.
+
+A: Bạn có thích căn hộ của mình không, Joe?
+
+B: Không hẳn. Nó rất nhỏ.
+
+A: Thật hả?
+
+B: Vâng, chỉ một phòng ngủ và một phòng khách.
+
+A: Đó không phải là quá nhỏ. Có bao nhiêu người sống với bạn?
+
+B: Bảy!
+
+A: Bảy! Ồ!
+
+4.
+
+A: Bạn có sống với chị gái của bạn không, Ellen?
+
+B: Vâng, tôi có.
+
+A: Chỗ ở của bạn như thế nào?
+
+B: Tốt. Nó có hai phòng ngủ, một lớn và một nhỏ.
+
+A: Điều đó thật tuyệt.
+
+B: Ừ, nhưng tôi ở cái phòng nhỏ.
+
+A: Ồ.
+
+ |
+
+ 
+
+Exercise 2.
+
+1.
+
+A: Does the kitchen have everything you need, like a stove and a refrigerator?
+
+B: It's got a stove but it doesn't have a refrigerator. I need to buy one.
+
+2.
+
+A: You don't have a bed in your bedroom?
+
+B: No bed. Just a TV. I sleep on a mattress on the floor.
+
+A: Really?
+
+3.
+
+A: We don't have much furniture yet. We don't even have a sofa in the living room.
+
+B: Hey. I've got one I can sell you.
+
+A: Really? Great.
+
+4.
+
+A: The bathroom is very small. Just a shower and a toilet.
+
+B: You can come and take a bath at my place any time.
+
+A: Thanks, I probably will.
+
+ |
+
+1.
+
+A: Nhà bếp có mọi thứ bạn cần, như bếp nấu và tủ lạnh không?
+
+B: Nó có một cái bếp nhưng nó không có tủ lạnh. Tôi cần mua một cái.
+
+2.
+
+A: Bạn không có giường trong phòng ngủ của mình à?
+
+B: Không có giường. Chỉ có một chiếc TV. Tôi ngủ trên một tấm nệm trên sàn nhà.
+
+A: Thật á?
+
+3.
+
+A: Chúng tôi chưa có nhiều đồ đạc. Chúng tôi thậm chí không có ghế sofa trong phòng khách.
+
+B: Này. Tôi có một cái mà tôi có thể bán cho bạn.
+
+A: Thật không? Tuyệt quá.
+
+4.
+
+A: Phòng tắm rất nhỏ. Chỉ có mỗi một vòi hoa sen và một nhà vệ sinh.
+
+B: Bạn có thể đến và tắm ở chỗ của tôi bất cứ lúc nào.
+
+A: Cảm ơn, có thể tôi sẽ làm thế đó.
+
+ |
+
+ 
+
+Exercise 3. 
+
+1.
+
+The bookshelf looks really good in the living room. And the TV is just fine. When I find a stereo, I'm going to put it in the bookshelf. I don't have a stereo now because I want to find a cheap one. I'm going to check out the sales next week. I've got a dinner table, but I still need a sofa. Now I have to sit at the dinner table to watch TV. My living room is small, so I want a small sofa.
+
+Giá sách trông thực sự hợp trong phòng khách. Và TV cũng ổn. Khi tôi tìm được một dàn âm thanh, tôi sẽ đặt nó vào giá sách. Tôi hiện không có dàn  âm thanh vì tôi muốn tìm một cái giá rẻ. Tuần tới tôi sẽ check xem thế nào. Tôi đã có một bàn ăn tối, nhưng tôi vẫn cần một chiếc ghế sofa. Giờ tôi phải ngồi vào bàn ăn tối để xem TV. Phòng khách của tôi nhỏ, vì vậy tôi muốn có một chiếc ghế sofa nhỏ.
+
+ 
+
+2.
+
+If you have an old bookshelf you aren't using, I'd be really happy to buy it! I haven't been able to find one that is the right size. All the ones I looked at were too big. Right now there are books all over the floor. But I managed to pick up a really good TV and stereo at a yard sale last weekend. I still need to find a dinner table. All the ones I looked at in the stores were too expensive.
+
+Nếu bạn có một giá sách cũ mà bạn không sử dụng, tôi thực sự rất muốn mua nó! Tôi không thể tìm thấy một cái có kích thước phù hợp. Tất cả những cái tôi đã nhìn đều quá lớn. Hiện giờ sách đầy khắp sàn. Nhưng tôi đã chọn được một chiếc TV và 1 dàn âm thanh thực sự tốt tại một buổi bán hàng bãi vào cuối tuần trước. Tôi vẫn cần tìm một bàn ăn tối. Tất cả những thứ tôi đã xem trong các cửa hàng đều quá đắt.
+
+ 
+
+3.
+
+I was thinking about getting a bookshelf, but I don't have many books yet, so I guess I can wait. I was lucky. I got a really cheap used TV the other day. It only cost $50 and it works really well. It's nice to have something to watch. Right now I don't have enough money to buy a stereo. The dinner table is very nice and big enough for six people. I bought a cheap sofa, too. It's really comfortable.
+
+Tôi đã nghĩ đến việc mua một giá sách, nhưng tôi chưa có nhiều sách, vì vậy tôi đoán tôi có thể đợi. Tôi đã may mắn. Hôm trước tôi mua được một chiếc TV cũ rất rẻ. Nó chỉ có giá $ 50 và nó hoạt động thực sự tốt. Thật tuyệt khi có thứ gì đó để xem. Hiện tại, tôi không có đủ tiền để mua một dàn âm thanh nổi. Bàn ăn rất đẹp và đủ to cho sáu người. Tôi cũng đã mua một chiếc ghế sofa giá rẻ. Nó thực sự thoải mái.
+
+ 
+
+4.
+
+The bookshelf is good, though it's probably a little too big for the living room. I need a TV, but I'm waiting for the new models. I have a good stereo. So that's good. However, I still haven't bought a dinner table. I saw a great one last week. The sales clerk said that they're having a big sale next week, so I'm waiting for that. For now, I'm eating my meals while sitting on the sofa.
+
+ 
+
+Giá sách khá ổn, mặc dù nó có thể hơi to so với phòng khách. Tôi cần một chiếc TV, nhưng tôi đang đợi các mẫu mới. Tôi có một dàn âm thanh tốt. Vậy thì tốt. Tuy nhiên, tôi vẫn chưa mua bàn ăn tối. Tôi đã thấy một cái rất ổn vào tuần trước. Nhân viên bán hàng nói rằng họ sẽ có một đợt giảm giá lớn vào tuần tới, vì vậy tôi đang chờ đợi điều đó. Hiện tại, tôi đang ngồi trên ghế sofa khi dùng bữa.
+
+ 
+
+Exercise 4.
+
+1. What is your apartment like?
+
+2. How many rooms does your apartment have?
+
+3. What's your place like?
+
+4. We don't have much furniture.
+
+5. The bathroom is very small.
+
+### Exercises
+
+#### Vocabulary
+
+- Type: 1
+
+Vocabulary
+
+**Answer template / submitted view:**
+
+1. switch on the [input_0]
+
+2. relax in a/an [input_1]
+
+3. close the [input_2]
+
+4. pass the [input_3]
+
+5. listen to the [input_4]
+
+6. watch [input_5]
+
+ |
+
+a. TV
+
+b. lamp
+
+c. remote control
+
+d. radio
+
+e. armchair
+
+f. curtains
+
+ 
+
+ |
+
+**Explanation:**
+
+1. switch on the lamp
+
+Dịch: bật đèn
+
+2. relax in an armchair
+
+Dịch: thư giãn trên ghế bành
+
+3. close the curtains
+
+Dịch: đóng rèm cửa
+
+4. pass the remote control
+
+Dịch: đưa cái điều khiển
+
+5. listen to the radio
+
+Dịch: nghe đài
+
+6. watch TV
+
+Dịch: xem TV
+
+#### question-297869
+
+- Type: 1
+
+Exercise 2: Correct the mistakes in the sentences. (Sửa lỗi sai trong các câu sau.)
+
+1. This evening let's just relax us at home.
+
+Correct: This evening let's just relax at home.
+
+**Answer template / submitted view:**
+
+2. I don't often listen the radio.
+
+Correct: [input_0]
+
+3. We need some more bookshelfs in this room.
+
+Correct: [input_1]
+
+4. I watched at television all evening yesterday.
+
+Correct: [input_2]
+
+5. It's dark now. Please make the curtains.
+
+Correct: [input_3]
+
+6. Jim has some very nice furnitures in his house.
+
+Correct: [input_4]
+
+7. She makes a shower in the afternoon. 
+
+Correct: [input_5]
+
+8. She walk downstair so she can make dinner for the family. 
+
+Correct: [input_6]
+
+9. I don't watch TV anymore, so can you turn the TV on?
+
+Correct: [input_7]
+
+10. She is sleepy, so she stay to the bed early.
+
+Correct: [input_8]
+
+**Explanation:**
+
+2. I don't often listen the radio.
+
+Lỗi sai: thiếu giới từ to sau "listen"
+
+Câu đúng: I don't often listen to the radio. (Tôi không thường nghe đài.)
+
+3. We need some more bookshelfs in this room.
+
+Lỗi sai: bookshelfs (số nhiều của "bookshelf" phải là "bookshelves")
+
+Câu đúng: We need some more bookshelves in this room. (Chúng ta cần thêm vài cái giá sách trong phòng này.)
+
+4. I watched at television all evening yesterday.
+
+Lỗi sai: giới từ at thừa
+
+Câu đúng: I watched television all evening yesterday. (Tôi đã xem TV cả tối qua.)
+
+5. It's dark now. Please make the curtains.
+
+Lỗi sai: động từ make (đúng phải là "close")
+
+Câu đúng: It's dark now. Please close the curtains. (Bây giờ trời tối rồi. Làm ơn đóng rèm lại.)
+
+6. Jim has some very nice furnitures in his house.
+
+Lỗi sai: furnitures ("furniture" là danh từ không đếm được, không có dạng số nhiều)
+
+Câu đúng: Jim has some very nice furniture in his house. (Jim có vài món đồ nội thất rất đẹp trong nhà.)
+
+7. She makes a shower in the afternoon.
+
+Lỗi sai: động từ makes (đúng phải là "takes")
+
+Câu đúng: She takes a shower in the afternoon. (Cô ấy tắm vào buổi chiều.)
+
+8. She walk downstair so she can make dinner for the family.
+
+Lỗi sai: thiếu -s sau "walk" & thiếu -s sau "downstairs"
+
+Câu đúng: She walks downstairs so she can make dinner for the family. (Cô ấy đi xuống lầu để có thể nấu bữa tối cho gia đình.)
+
+9. I don’t watch TV anymore, so can you turn the TV on?
+
+Lỗi sai: động từ on (ý nghĩa không hợp lý, đúng phải là "off")
+
+Câu đúng: I don’t watch TV anymore, so can you turn the TV off? (Tôi không xem TV nữa, nên bạn có thể tắt TV đi không?)
+
+10. She is sleepy, so she stay to the bed early.
+
+Lỗi sai: thiếu -s sau "stay" & giới từ to (đúng phải là "in")
+
+Câu đúng: She is sleepy, so she stays in bed early. (Cô ấy buồn ngủ nên cô ấy đi ngủ sớm.)
+
+#### Listening transcript: Describing apartments
+
+- Type: 1
+
+Listening transcript: Describing apartments
+
+**Answer template / submitted view:**
+
+Conversation 1 (Ken):
+
+The apartment has a [input_0], but it doesn't have a [input_1]. 
+
+Conversation 2 (Celia):
+
+The apartment has a [input_2], and a huge [input_3] and [input_4], and it has two [input_5]. 
+
+Conversation 3 (Joe):
+
+The apartment is very [input_6]. It has a [input_7] and a [input_8] , but [input_9] live with Joe. 
+
+Conversation 4 (Ellen):
+
+The apartment has two [input_10]. Ellen has the [input_11].
+
+**Explanation:**
+
+1. (Ken): Căn hộ có một phòng khách, nhưng không có phòng ngủ.
+
+2. (Celia): Căn hộ có một phòng khách, một nhà bếp và phòng tắm rất lớn, và nó có hai phòng ngủ.
+
+3. (Joe): Căn hộ rất nhỏ. Nó có một phòng ngủ/phòng khách và một phòng khách/phòng ngủ, nhưng có bảy người/ 7 người sống cùng Joe.
+
+4. (Ellen): Căn hộ có hai phòng ngủ. Ellen có phòng ngủ nhỏ.
+
+#### question-297871
+
+- Type: 1
+
+Exercise 2: Fill in the blanks with the correct verbs below, you may need to change the word form. You can also use a word more than once. (Điền vào ô trống động từ đúng, em có thể phải đổi loại từ dựa theo chủ ngữ. Em cũng có thể dùng 1 từ nhiều hơn 1 lần.)
+
+               be               have           live         look
+
+ |
+
+**Answer template / submitted view:**
+
+1. What [input_0] your bedroom like?
+
+2. It [input_1] comfortable, but it [input_2] only one room.
+
+3. [input_3] you [input_4] with your sister?
+
+4. The bathroom [input_5] very small. It [input_6] only a shower and a toilet. 
+
+5. The bookshelf [input_7] really good in the living room.
+
+6. We [input_8] much furniture yet. (not)
+
+7. You [input_9] a bed in your bedroom. (not)
+
+**Explanation:**
+
+What is your bedroom like? (Phòng ngủ của bạn trông như thế nào?)
+
+It is comfortable, but it has only one room. (Nó thoải mái, nhưng nó chỉ có một phòng.)
+
+Do you live with your sister? (Bạn có sống với chị/em gái của bạn không?)
+
+The bathroom is very small. It has only a shower and a toilet. (Phòng tắm rất nhỏ. Nó chỉ có một vòi sen và một bồn cầu.)
+
+The bookshelf looks really good in the living room. (Cái giá sách trông rất đẹp trong phòng khách.)
+
+We do not have much furniture yet. (Chúng tôi chưa có nhiều đồ nội thất.)
+
+You do not have a bed in your bedroom. (Bạn không có một cái giường trong phòng ngủ của mình.)
+
+#### question-297872
+
+- Type: 1
+
+Exercise 3: Read people's description of their house in exercise 3 and write the adjectives that describe the furniture. (Đọc miêu tả về nhà trong bài 3 và viết các tính từ dùng để miêu tả nội thất trong đó.)
+
+**Answer template / submitted view:**
+
+1. 
+
+ bookshelf : [input_0]
+
+TV: [input_1]
+
+living room: [input_2]
+
+sofa: [input_3] 
+
+ 
+
+2.
+
+TV and radio: [input_4]
+
+dinner tables: [input_5] 
+
+ 
+
+3. 
+
+TV: [input_6], [input_7]
+
+dinner table: [input_8], [input_9]
+
+sofa: [input_10], [input_11]
+
+ 
+
+4. 
+
+bookshelf: [input_12], [input_13]
+
+stereo: [input_14]
+
+#### question-297873
+
+- Type: 1
+
+Exercise 4: Rearrange the words into correct sentences. Then, listen to the audio and repeat the sentences. (Sắp xếp các câu sau thành câu đúng. Sau đó, nghe ghi âm và lặp lại các câu đúng ngữ điệu và phát âm)
+
+**Answer template / submitted view:**
+
+1. apartment / is / your / What / like / ?
+
+[input_0]
+
+ 
+
+2. rooms / does / apartment /have / How / many / your / ?
+
+[input_1]
+
+ 
+
+3. like / is / your / What / place / ?
+
+[input_2]
+
+ 
+
+4. furniture / have / don't / We / much / .
+
+[input_3]
+
+ 
+
+5. small / is / The / bathroom / very / .
+
+[input_4]
+
+**Explanation:**
+
+What is your apartment like? (Căn hộ của bạn trông như thế nào?)
+
+How many rooms does your apartment have? (Căn hộ của bạn có bao nhiêu phòng?)
+
+What is your place like? (Nơi ở của bạn trông như thế nào?)
+
+We don’t have much furniture. (Chúng tôi không có nhiều đồ nội thất.)
+
+The bathroom is very small. (Phòng tắm rất nhỏ.)
+
+#### New words/phrases + Good structures/sentences
+
+- Type: 2
+
+New words/phrases + Good structures/sentences
+
+### Submission / Feedback
+
+Status: graded
+
+Correct answer: 45
+
+Hi Khánh, bài này em làm tốt nha.
+
+Em xem kĩ phần giải thích đáp án để rút kinh nghiệm bài sau làm tốt hơn nhé.
+
+## [PRE IELTS] LESSON 10 - CHALLENGE 2
+
+**Note:** Grammar (Determiners)
+
+- Challenge ID: 31372
+- Class challenge ID: 82564
+- Deadline: 2026-07-02 12:30:00
+- Raw: `raw/challenge-02-31372.json`
+
+### Study Content
+
+### Exercises
+
+#### GRAMMAR
+
+- Type: 1
+
+GRAMMAR
+
+**Answer template / submitted view:**
+
+1. Ann likes [input_0] teachers at school.
+
+2. Is this Peter's book? No, [input_1] book is in the schoolbag.
+
+3. Mary, is this your bike? No, [input_2] bike is behind the house.
+
+4. The hamster is in [input_3] cage.
+
+5. Henry helps [input_4] little brother.
+
+6. Children, where are [input_5] exercise books?
+
+7. The boys play with [input_6] ball.
+
+8. Tommy writes [input_7] homework.
+
+9. Paul and Cathy eat [input_8] sandwiches.
+
+10. My sister and I go to [input_9] grandmother.
+
+11. The monkey eats [input_10] bananas.
+
+12. The cats drink [input_11] milk.
+
+13. Tom and I like spaghetti. It is [input_12] favourite food.
+
+14. Carol and Bob do not like [input_13] classroom.
+
+15. Can I play with [input_14] computer game, Tom?
+
+16. Dad always washes [input_15] car on Sundays.
+
+17. What's [input_16] telephone number, Susan?
+
+18. Ann has two brothers. [input_17] names are Bill and George.
+
+19. Lucy likes [input_18] new bike.
+
+20. I can't find [input_19] new shirt. Have you seen it?
+
+**Explanation:**
+
+1. Ann likes her teachers at school.
+
+Giải thích: Ann là con gái, nên để chỉ giáo viên của cô ấy, ta dùng her.
+
+Dịch: Ann thích các giáo viên của cô ấy ở trường.
+
+2. Is this Peter’s book? No, his book is in the schoolbag.
+
+Giải thích: Peter là con trai, nên để chỉ sách của anh ấy, ta dùng his.
+
+Dịch: Đây có phải sách của Peter không? Không, sách của anh ấy ở trong cặp sách.
+
+3. Mary, is this your bike? No, my bike is behind the house.
+
+Giải thích: Mary đang được hỏi, nên cô ấy sẽ trả lời "xe đạp của tôi", ta dùng my.
+
+Dịch: Mary, đây có phải xe đạp của bạn không? Không, xe đạp của tôi ở sau nhà.
+
+4. The hamster is in its cage.
+
+Giải thích: "The hamster" là một con vật, nên để chỉ lồng của nó, ta dùng its.
+
+Dịch: Chú chuột hamster đang ở trong lồng của nó.
+
+5. Henry helps his little brother.
+
+Giải thích: Henry là con trai, nên để chỉ em trai của anh ấy, ta dùng his.
+
+Dịch: Henry giúp em trai của anh ấy.
+
+6. Children, where are your exercise books?
+
+Giải thích: Khi giáo viên nói chuyện với "Children" (số nhiều), thì sách của họ là your.
+
+Dịch: Các em, sách bài tập của các em ở đâu?
+
+7. The boys play with their ball.
+
+Giải thích: "The boys" là số nhiều, nên để chỉ quả bóng của họ, ta dùng their.
+
+Dịch: Các cậu bé chơi với quả bóng của họ.
+
+8. Tommy writes his homework.
+
+Giải thích: Tommy là con trai, nên để chỉ bài tập về nhà của cậu ấy, ta dùng his.
+
+Dịch: Tommy viết bài tập về nhà của cậu ấy.
+
+9. Paul and Cathy eat their sandwiches.
+
+Giải thích: "Paul and Cathy" là hai người (số nhiều), nên để chỉ bánh sandwich của họ, ta dùng their.
+
+Dịch: Paul và Cathy ăn bánh mì kẹp của họ.
+
+10. My sister and I go to our grandmother.
+
+Giải thích: Chủ ngữ là "My sister and I" (chị tôi và tôi), nên để chỉ bà của chúng tôi, ta dùng our.
+
+Dịch: Chị gái tôi và tôi đi đến nhà bà của chúng tôi.
+
+11. The monkey eats its bananas.
+
+Giải thích: "The monkey" là một con vật, nên để chỉ chuối của nó, ta dùng its.
+
+Dịch: Con khỉ ăn chuối của nó.
+
+12. The cats drink their milk.
+
+Giải thích: "The cats" là số nhiều, nên để chỉ sữa của chúng, ta dùng their.
+
+Dịch: Những con mèo uống sữa của chúng.
+
+13. Tom and I like spaghetti. It is our favourite food.
+
+Giải thích: Chủ ngữ là "Tom and I" (Tom và tôi), nên món ăn yêu thích của chúng tôi là our.
+
+Dịch: Tom và tôi thích mì ý. Đó là món ăn yêu thích của chúng tôi.
+
+14. Carol and Bob do not like their classroom.
+
+Giải thích: "Carol and Bob" là số nhiều, nên để chỉ lớp học của họ, ta dùng their.
+
+Dịch: Carol và Bob không thích lớp học của họ.
+
+15. Can I play with your computer game, Tom?
+
+Giải thích: Người nói đang hỏi Tom, nên trò chơi máy tính của Tom là your.
+
+Dịch: Tớ chơi trò chơi máy tính của cậu được không, Tom?
+
+16. Dad always washes his car on Sundays.
+
+Giải thích: "Dad" là đàn ông, nên để chỉ xe của ông ấy, ta dùng his.
+
+Dịch: Bố luôn rửa xe của ông ấy vào các ngày Chủ nhật.
+
+17. What's your telephone number, Susan?
+
+Giải thích: Người nói đang hỏi Susan, nên số điện thoại của Susan là your.
+
+Dịch: Số điện thoại của bạn là gì, Susan?
+
+18. Ann has two brothers. Their names are Bill and George.
+
+Giải thích: "Two brothers" (hai anh em trai) là số nhiều, nên tên của họ là their.
+
+Dịch: Ann có hai người anh trai. Tên của họ là Bill và George.
+
+19. Lucy likes her new bike.
+
+Giải thích: Lucy là con gái, nên để chỉ xe đạp của cô ấy, ta dùng her.
+
+Dịch: Lucy thích chiếc xe đạp mới của cô ấy.
+
+20. I can't find my new shirt. Have you seen it?
+
+Giải thích: Chủ ngữ là "I", nên chiếc áo sơ mi của tôi là my.
+
+Dịch: Tớ không tìm thấy chiếc áo sơ mi mới của tớ. Cậu có thấy nó không?
+
+#### question-297876
+
+- Type: 1
+
+Exercise 2. Fill in the blanks with a, an, the or x. (Điền vào chỗ trống với a, an, the hoặc x.)
+
+**Answer template / submitted view:**
+
+1. Look at [input_0] sea!
+
+2. Who is [input_1] lady in [input_2]  picture?
+
+3. I visited [input_3] South Africa last summer.
+
+4. The book is about [input_4] man who lives on [input_5] small island.
+
+5. I work as [input_6] only English teacher at this school.
+
+6. Harry fixed [input_7] car, so we can go to [input_8] lake.
+
+7. She goes to work by [input_9] bike.
+
+8. Jamy likes [input_10] music, he plays [input_11] instrument.
+
+9. Marie enjoys eating [input_12] Swiss cheese.
+
+10. We have [input_13] small house in [input_14] village in [input_15] Netherlands.
+
+11. I like [input_16] blue T-shirt over there better than [input_17] red one.
+
+12. Their car does 150 miles [input_18] hour.
+
+13. Where's [input_19] USB drive I lent you last week?
+
+14. Do you still live in [input_20] Bristol?
+
+15. Is your mother working in [input_21] old office building?
+
+16. Carol's father works as [input_22] electrician.
+
+17. The tomatoes are 99 pence [input_23] kilo.
+
+18. What do you usually have for [input_24] breakfast?
+
+19. Ben has [input_25] terrible headache.
+
+20. After this tour you have [input_26] whole afternoon free to explore the city.
+
+**Explanation:**
+
+1. Look at the sea!
+
+Giải thích: "the sea" (biển) là một danh từ xác định, chỉ một đối tượng cụ thể mà người nói và người nghe đều biết.
+
+Dịch: Nhìn ra biển kìa!
+
+2. Who is the lady in the picture?
+
+Giải thích: "the lady" và "the picture" đều là danh từ xác định, cả hai người đang nói chuyện đều hiểu đang nhắc đến người phụ nữ và bức tranh cụ thể nào.
+
+Dịch: Người phụ nữ trong bức tranh là ai vậy?
+
+3. I visited South Africa last summer.
+
+Giải thích: Tên quốc gia "South Africa" (Nam Phi) không cần mạo từ.
+
+Dịch: Hè năm ngoái tôi đã đến thăm Nam Phi.
+
+4. The book is about a man who lives on a small island.
+
+Giải thích: "a man" và "a small island" là những danh từ không xác định, được nhắc đến lần đầu.
+
+Dịch: Cuốn sách nói về một người đàn ông sống trên một hòn đảo nhỏ.
+
+5. I work as the only English teacher at this school.
+
+Giải thích: "the only English teacher" là danh từ xác định, vì chỉ có một người duy nhất giữ vai trò đó.
+
+Dịch: Tôi là giáo viên tiếng Anh duy nhất ở trường này.
+
+6. Harry fixed the car, so we can go to the lake.
+
+Giải thích: "the car" và "the lake" đều là danh từ xác định, vì cả hai người đều biết đó là cái xe và cái hồ nào.
+
+Dịch: Harry đã sửa xong cái xe, nên chúng ta có thể đến hồ rồi.
+
+7. She goes to work by bike.
+
+Giải thích: Sau giới từ "by" khi chỉ phương tiện di chuyển, ta không dùng mạo từ.
+
+Dịch: Cô ấy đi làm bằng xe đạp.
+
+8. Jamy likes music, he plays an instrument.
+
+Giải thích: "music" là danh từ chung chung, không cần mạo từ. "an instrument" là một danh từ không xác định, vì người nghe chưa biết đó là nhạc cụ gì.
+
+Dịch: Jamy thích âm nhạc, cậu ấy chơi một loại nhạc cụ.
+
+9. Marie enjoys eating Swiss cheese.
+
+Giải thích: "Swiss cheese" là danh từ không đếm được và đang được nhắc đến một cách chung chung, nên không cần mạo từ.
+
+Dịch: Marie thích ăn phô mai Thụy Sĩ.
+
+10. We have a small house in a village in the Netherlands.
+
+Giải thích: "a small house" và "a village" là các danh từ không xác định. Tên quốc gia "the Netherlands" (Hà Lan) luôn đi kèm với mạo từ "the".
+
+Dịch: Chúng tôi có một ngôi nhà nhỏ trong một ngôi làng ở Hà Lan.
+
+11. I like the blue T-shirt over there better than the red one.
+
+Giải thích: "the blue T-shirt" và "the red one" đều là danh từ xác định, vì người nói và người nghe đều nhìn thấy hai cái áo cụ thể đó.
+
+Dịch: Tớ thích cái áo phông xanh ở đằng kia hơn cái áo màu đỏ.
+
+12. Their car does 150 miles an hour.
+
+Giải thích: "an hour" dùng để diễn tả tốc độ trên mỗi giờ. "hour" bắt đầu bằng một nguyên âm trong cách phát âm, nên ta dùng "an".
+
+Dịch: Chiếc xe của họ đi được 150 dặm một giờ.
+
+13. Where's the USB drive I lent you last week?
+
+Giải thích: "the USB drive" là danh từ xác định, vì người nói và người nghe đều biết cái USB đó đã được cho mượn từ tuần trước.
+
+Dịch: Cái USB mà tớ cho cậu mượn tuần trước đâu rồi?
+
+14. Do you still live in Bristol?
+
+Giải thích: Tên thành phố "Bristol" không cần mạo từ.
+
+Dịch: Bạn vẫn sống ở Bristol à?
+
+15. Is your mother working in an old office building?
+
+Giải thích: "an old office building" là danh từ không xác định, chỉ một tòa nhà văn phòng cũ bất kỳ. "old" bắt đầu bằng nguyên âm nên ta dùng "an".
+
+Dịch: Mẹ bạn đang làm việc trong một tòa nhà văn phòng cũ phải không?
+
+16. Carol's father works as an electrician.
+
+Giải thích: "an electrician" là một danh từ không xác định, chỉ một nghề nghiệp. "electrician" bắt đầu bằng nguyên âm nên ta dùng "an".
+
+Dịch: Bố của Carol làm thợ điện.
+
+17. The tomatoes are 99 pence a kilo.
+
+Giải thích: "a kilo" dùng để diễn tả giá trên mỗi kg.
+
+Dịch: Cà chua giá 99 xu một cân.
+
+18. What do you usually have for breakfast?
+
+Giải thích: "breakfast" là tên bữa ăn, không cần mạo từ.
+
+Dịch: Bạn thường ăn gì vào bữa sáng?
+
+19. Ben has a terrible headache.
+
+Giải thích: "a terrible headache" là một danh từ không xác định, chỉ một cơn đau đầu bất kỳ. "terrible" bắt đầu bằng một phụ âm, nên ta dùng "a".
+
+Dịch: Ben bị đau đầu khủng khiếp.
+
+20. After this tour you have the whole afternoon free to explore the city.
+
+Giải thích: "the whole afternoon" là một khoảng thời gian xác định, được nhấn mạnh là "toàn bộ" buổi chiều.
+
+Dịch: Sau chuyến tham quan này, bạn có cả buổi chiều rảnh rỗi để khám phá thành phố.
+
+#### question-297877
+
+- Type: 2
+
+Exercise 3. Correct the sentences by adding a, an or the. (Sửa lại các câu sau bằng cách thêm a, an hoặc the)
+
+a. I need new mouse for my computer. Answer: I need a new mouse for my computer.
+
+b. Why are you always in good mood? Answer:
+
+**Explanation:**
+
+Why are you always in a good mood? (Tại sao bạn luôn vui vẻ vậy?)
+
+‘Mood’ là danh từ đếm được, số ít,  nói về trạng thái cảm xúc tại một thời điểm → không xác định, dùng ‘a’
+
+#### question-297878
+
+- Type: 2
+
+c. Red, yellow and blue are three primary colours. Answer:
+
+**Explanation:**
+
+Red, yellow and blue are the three primary colours. (Đỏ, vàng và xanh dương là ba màu cơ bản.)
+
+Không phải kể chung một số màu sắc, mà đây là ba màu cụ thể được coi là màu cơ bản trong các màu → được xác định, dùng ‘the’
+
+#### question-297879
+
+- Type: 2
+
+d. Photoshop is program for editing digital images. Answer:
+
+**Explanation:**
+
+Photoshop is a program for editing digital images. (Photoshop là một chương trình để chỉnh sửa hình ảnh kỹ thuật số.)
+
+‘Program’ là danh từ đếm được số ít, nhắc đến lần đầu và là ví dụ một trong rất nhiều những phần mềm thiết kế → không xác định, dùng ‘a’
+
+#### question-297880
+
+- Type: 2
+
+e. Acid rain is big problem in parts of Europe. Answer:
+
+**Explanation:**
+
+Acid rain is a big problem in parts of Europe. (Mưa axit là một vấn đề lớn ở một số vùng của châu Âu.)
+
+‘problem’ là danh từ đếm được số ít, mưa axit nói chung là một trong những vấn đề lớn ở nhiều nơi thuộc châu Âu chứ không phải 1 vấn đề cụ thể từng được đề cập trước đó hay là đối tượng cả người nghe và người nói cùng hiểu và xác định được → không xác định, dùng ‘a’
+
+#### question-297881
+
+- Type: 2
+
+f. We went out for meal last night at Indian restaurant in South Street. Answer:
+
+**Explanation:**
+
+We went out for a meal last night at an Indian restaurant on South Street. (Tối qua chúng tôi đã đi ăn tối ở một nhà hàng Ấn Độ trên phố South.)
+
+‘Meal’ và ‘Indian restaurant’ đều là danh từ đếm được số ít. 
+
+Ta đang nói chung về việc đi ra ngoài ăn một bữa (một bữa bất kì trong vô số bữa ăn có thể xảy ra tối qua, cũng không có bối cảnh nhắc đến bữa ăn trước đó) → không xác định, dùng ‘a’
+
+‘Indian restaurant’ ám chỉ một nhà hàng Ấn bất kì trên phố South, bắt đầu với nguyên âm → dùng ‘an’
+
+#### question-297882
+
+- Type: 2
+
+g. My brother became engineer because he liked playing with motors. Answer:
+
+**Explanation:**
+
+My brother became an engineer because he liked playing with motors. (Anh trai tôi trở thành một kỹ sư vì anh ấy thích mày mò với các động cơ.)
+
+Giới thiệu về mong muốn công việc lần đầu. ‘Engineer’ là danh từ đếm được số ít, bắt đầu với nguyên âm → dùng ‘an’
+
+#### question-297883
+
+- Type: 2
+
+h. I lost all my work when a computer crashed. Answer:
+
+**Explanation:**
+
+I lost all my work when the computer crashed. (Tôi đã mất hết công việc khi máy tính bị hỏng.)
+
+‘computer’ là danh từ đếm được số ít. Trường hợp này không phải một cái máy tính mới, ngẫu nhiên, mà phải là cái máy mà ‘I’ đang làm việc mà lại bị sập để rồi mất hết phần công việc đang làm → đã xác dịnh, dùng ‘the’
+
+#### question-297884
+
+- Type: 2
+
+i. This is book she gave me. Answer:
+
+**Explanation:**
+
+This is the book she gave me. (Đây là cuốn sách cô ấy đã đưa cho tôi.)
+
+‘Book’ là danh từ đếm được số ít. Đây không phải là một quyển sách nói chung, bất kì mà cụ thể đúng là cuốn mà cô ấy đã cho tôi → đã xác định, dùng ‘the’
+
+#### question-297885
+
+- Type: 2
+
+j. It takes one hour to finish unit of this book. Answer:
+
+**Explanation:**
+
+It takes one hour to finish a unit of this book. (Mất một tiếng để hoàn thành một bài học của cuốn sách này.)
+
+‘Unit’ là danh từ đếm được số ít. Ý nói chung là chương nào trong cuốn sách cũng sẽ mất một tiếng để hoàn thành → không xác định, dùng ‘a’
+
+### Submission / Feedback
+
+Status: graded
+
+Correct answer: 49
+
+Hi Khánh, bài này em làm khá tốt nha.
+
+Em xem kĩ các câu sai để rút kinh nghiệm cho bài sau nhé.
+

@@ -1,0 +1,840 @@
+{
+  "lesson": 13,
+  "lessonKey": "lesson-13",
+  "questions": [
+    {
+      "id": "question-313157",
+      "sourceQuestionId": 313157,
+      "challengeId": 32728,
+      "classChallengeId": "83881",
+      "title": "GRAMMAR",
+      "type": 1,
+      "prompt": "GRAMMAR",
+      "introductionText": "Exercise 1. Read what Laura says about a typical working day\n\nYesterday was a typical working day for Laura. Write what she did or didn't do yesterday.",
+      "contentText": "",
+      "answerTemplateText": "1. She got up at 7 o'clock.\n\n2. She [input_0] a big breakfast. \n\n3. She [input_1].\n\n4. It [input_2] to get to work. \n\n5. She [input_3] at 8.45.\n\n6. She [input_4] lunch. \n\n7. She [input_5] at 5 o'clock.\n\n8. She [input_6] tired when [input_7] home. \n\n9. She[input_8] a meal yesterday evening. \n\n10. She [input_9] out yesterday evening.\n\n11. She [input_10] at 11 o'clock. \n\n12. She [input_11] well last night.",
+      "explanationText": "Học viên chia động từ ở dạng quá khứ đơn. Chú ý các động từ bất quy tắc.",
+      "rawHtml": {
+        "title": "GRAMMAR",
+        "introduction": "<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-ExtraBold;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">Exercise 1. Read what Laura says about a typical working day</strong></span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-ExtraBold;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">Yesterday was a typical working day for Laura. Write what she did or didn&rsquo;t do yesterday.</strong></span></span></p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">1. She <em style=\"box-sizing: border-box;\"><u style=\"box-sizing: border-box;\">got up</u></em> at 7 o'clock.</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">2. She [input_0] a big breakfast. </span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">3. She [input_1].</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">4. It [input_2] to get to work. </span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">5. </span></span><span style=\"font-family: Nunito-Regular; font-size: 16px;\">She </span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">[input_3] at 8.45.</span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">6. </span></span><span style=\"font-family: Nunito-Regular; font-size: 16px;\">She </span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">[input_4] lunch. </span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">7. </span></span><span style=\"font-family: Nunito-Regular; font-size: 16px;\">She </span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">[input_5] at 5 o'clock.</span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">8. </span></span><span style=\"font-family: Nunito-Regular; font-size: 16px;\">She </span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">[input_6] tired when [input_7] home. </span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">9. </span></span><span style=\"font-family: Nunito-Regular; font-size: 16px;\">She</span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">[input_8] a meal yesterday evening. </span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">10. </span></span><span style=\"font-family: Nunito-Regular; font-size: 16px;\">She </span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">[input_9] out yesterday evening.</span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">11. </span></span><span style=\"font-family: Nunito-Regular; font-size: 16px;\">She </span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">[input_10] at 11 o'clock. </span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">12. </span></span><span style=\"font-family: Nunito-Regular; font-size: 16px;\">She </span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">[input_11] well last night.</span></p>",
+        "explain": "<p><span id=\"docs-internal-guid-565e499b-7fff-1d0a-e466-706eb6c407bd\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Học vi&ecirc;n chia động từ ở dạng qu&aacute; khứ đơn. Ch&uacute; &yacute; c&aacute;c động từ bất quy tắc.</span></span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 12,
+        "totalCorrect": 8,
+        "userAnswer": {
+          "input_0": "had",
+          "input_1": "walked to work",
+          "input_2": "took her about half an hour",
+          "input_3": "started work",
+          "input_4": "never had",
+          "input_5": "finished work",
+          "input_6": "was always",
+          "input_7": "she got",
+          "input_8": "was usually cooked",
+          "input_9": "didn't go",
+          "input_10": "went to bed",
+          "input_11": "always slept"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "had"
+          ],
+          "input_1": [
+            "walked to work"
+          ],
+          "input_2": [
+            "took her half an hour",
+            "took her about half an hour"
+          ],
+          "input_3": [
+            "started work"
+          ],
+          "input_4": [
+            "didn't have",
+            "did not have"
+          ],
+          "input_5": [
+            "finished work"
+          ],
+          "input_6": [
+            "was"
+          ],
+          "input_7": [
+            "she was",
+            "she got"
+          ],
+          "input_8": [
+            "cooked"
+          ],
+          "input_9": [
+            "didn't go",
+            "did not go"
+          ],
+          "input_10": [
+            "went to bed"
+          ],
+          "input_11": [
+            "slept"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": false,
+          "input_5": true,
+          "input_6": false,
+          "input_7": true,
+          "input_8": false,
+          "input_9": true,
+          "input_10": true,
+          "input_11": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-313158",
+      "sourceQuestionId": 313158,
+      "challengeId": 32728,
+      "classChallengeId": "83881",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2. Complete the sentences using the following verbs in the correct form:",
+      "introductionText": "Exercise 2. Complete the sentences using the following verbs in the correct form:",
+      "contentText": "have |\nbe |\nrain |\nfail |\ngo |\ntry |\nbreak |\nlose |\ngo |\nwrite |",
+      "answerTemplateText": "1. Mozart wrote more than 600 pieces of music.\n\n2. Phuong [input_0] a good vacation in Da Lat last year. \n\n3. I went to Nha Trang last week.  I [input_1] for the sunshine, but it [input_2] every day. So I couldn't get a tan.\n\n4. Dave [input_3] skiing this morning and unfortunately [input_4] his leg.\n\n5. Yesterday [input_5] awful because I [input_6] the exam.\n\n6. Ngan [input_7] all her money 2 days ago. It's understandable because she [input_8] to make money from gambling (đánh bạc) in Las Vegas.",
+      "explanationText": "Dựa vào nghĩa của cụm từ và câu\n\n2. had\n\nhave a vacation: có 1 kỳ nghỉ\n\n3. went - rained\n\ngo for the sunshine: đi vì ánh nắng mặt trời\n\nit rained every day: trời đã mưa mỗi ngày\n\n4. went - broke\n\ngo skiing: đi trượt tuyết\n\nbreak his leg: anh ta làm gãy chân\n\n5. was - failed\n\nYesterday was awful: hôm qua thật tệ\n\nfail the exam: trượt bài kiểm tra\n\n6. lost - tried\n\nlost all her money: cô ấy mất hết tiền\n\ntried to: đã cố gắng làm gì",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: Nunito-ExtraBold; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">Exercise 2. Complete the sentences using the following verbs in the correct form:</strong></span></span></p>",
+        "content": "<table style=\"border-spacing: 0px; background-color: #ffffff; font-family: Arial, sans-serif; font-size: 12px; width: 500px; border-radius: 0px !important;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\">\n<tbody style=\"box-sizing: border-box;\">\n<tr style=\"box-sizing: border-box;\">\n<td style=\"box-sizing: border-box; padding: 0px; border-radius: 0px !important; text-align: center;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">have</span></span></td>\n<td style=\"box-sizing: border-box; padding: 0px; border-radius: 0px !important; text-align: center;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">be</span></span></td>\n<td style=\"box-sizing: border-box; padding: 0px; border-radius: 0px !important; text-align: center;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">rain</span></span></td>\n<td style=\"box-sizing: border-box; padding: 0px; border-radius: 0px !important; text-align: center;\"><span style=\"box-sizing: border-box; font-family: Nunito-Regular; border-radius: 0px !important; font-size: 12pt;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">fail</span></span></td>\n<td style=\"box-sizing: border-box; padding: 0px; border-radius: 0px !important; text-align: center;\"><span style=\"box-sizing: border-box; font-family: Nunito-Regular; border-radius: 0px !important; font-size: 12pt;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">go</span></span></td>\n<td style=\"box-sizing: border-box; padding: 0px; border-radius: 0px !important; text-align: center;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">try</span></span></td>\n<td style=\"box-sizing: border-box; padding: 0px; border-radius: 0px !important; text-align: center;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">break</span></span></td>\n<td style=\"box-sizing: border-box; padding: 0px; border-radius: 0px !important; text-align: center;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">lose</span></span></td>\n<td style=\"box-sizing: border-box; padding: 0px; border-radius: 0px !important; text-align: center;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">go</span></span></td>\n<td style=\"box-sizing: border-box; padding: 0px; border-radius: 0px !important; text-align: center;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><s style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">write</strong></s></span></span></td>\n</tr>\n</tbody>\n</table>",
+        "answerTemplate": "<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">1. Mozart <em style=\"box-sizing: border-box;\"><u style=\"box-sizing: border-box;\">wrote</u></em> more than 600 pieces of music.</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">2. Phuong [input_0] a good vacation in Da Lat last year. </span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">3. I went to Nha Trang last week.  I [input_1] for the sunshine, but it [input_2] every day. So I couldn't get a tan.</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">4. Dave [input_3] skiing this morning and unfortunately [input_4] his leg.</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">5. Yesterday [input_5] awful because I [input_6] the exam.</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">6. Ngan [input_7] all her money 2 days ago. It's understandable because she [input_8] to make money from <span style=\"box-sizing: border-box; border-radius: 0px !important; background-color: #ffcccc;\">gambling</span> (đánh bạc) in Las Vegas.  </span></span></p>",
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dựa v&agrave;o nghĩa của cụm từ v&agrave; c&acirc;u</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">had</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">have a vacation: c&oacute; 1 kỳ nghỉ</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">went - rained</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">go for the sunshine: đi v&igrave; &aacute;nh nắng mặt trời</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">it rained every day: trời đ&atilde; mưa mỗi ng&agrave;y</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">went - broke</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">go skiing: đi trượt tuyết</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">break his leg: anh ta l&agrave;m g&atilde;y ch&acirc;n</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">was - failed</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Yesterday was awful: h&ocirc;m qua thật tệ</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">fail the exam: trượt b&agrave;i kiểm tra</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">lost - tried</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">lost all her money: c&ocirc; ấy mất hết tiền</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">tried to: đ&atilde; cố gắng l&agrave;m g&igrave;</span></p>\n<p><span id=\"docs-internal-guid-7deee3f1-7fff-4d43-ba77-23d808aebd64\" style=\"font-family: Nunito-Regular;\"></span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 9,
+        "totalCorrect": 8,
+        "userAnswer": {
+          "input_0": "had",
+          "input_1": "went",
+          "input_2": "rained",
+          "input_3": "tried",
+          "input_4": "broke",
+          "input_5": "was",
+          "input_6": "failed",
+          "input_7": "lost",
+          "input_8": "tried"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "had"
+          ],
+          "input_1": [
+            "went"
+          ],
+          "input_2": [
+            "rained"
+          ],
+          "input_3": [
+            "went"
+          ],
+          "input_4": [
+            "broke"
+          ],
+          "input_5": [
+            "was"
+          ],
+          "input_6": [
+            "failed"
+          ],
+          "input_7": [
+            "lost"
+          ],
+          "input_8": [
+            "tried"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": false,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-313159",
+      "sourceQuestionId": 313159,
+      "challengeId": 32728,
+      "classChallengeId": "83881",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 3. You ask James about his holiday. Write your questions.",
+      "introductionText": "Exercise 3. You ask James about his holiday. Write your questions.",
+      "contentText": "",
+      "answerTemplateText": "Hi. How are things?\n\nFine, thanks. I've just had a great holiday.\n\n1. Where did you go?\n\nTo the U.S. We went on a trip from San Francisco to Denver. \n\n2. How [input_0]? By car?\n\nYes, we hired a car in San Francisco.\n\n3. It's a long way to drive. How long [input_1] to get to Denver?\n\nTwo weeks.\n\n4. Where [input_2]? In hotels?\n\nYes, small hotels or motels. \n\n5. [input_3] good?\n\nYes, but it was very hot – sometimes too hot.\n\n6. [input_4] the Grand Canyon?\n\nOf course. It was wonderful.",
+      "explanationText": "2. did you travel / did you go\n\nCâu trả lời là \"We hired a car in San Francisco\" => câu hỏi về phương tiện đi chuyển\n\n3. did it take / did it take you\n\nCâu trả lời là \"two weeks\" => câu hỏi về thời gian di chuyển\n\n4. did you stay\n\nCâu trả lời là \"small hotels or motels\" => câu hỏi về chỗ ở\n\n5. Was the weather\n\nCâu trả lời là \"it was very hot - sometimes too hot\" => câu hỏi về thời tiết\n\n6. Did you go to / Did you see / Did you visit\n\nCâu trả lời là \"It was wonderful\" => câu hỏi về cảm giác về Grand Canyon",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-ExtraBold; font-size: 12pt;\"><strong style=\"box-sizing: border-box; background-color: #ffffff;\">Exercise 3. You ask James about his holiday. Write your questions.&nbsp;</strong></span></p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Hi. How are things?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Fine, thanks. I've just had a great holiday.</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">1. Where <em style=\"box-sizing: border-box;\"><u style=\"box-sizing: border-box;\">did you go</u></em>?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">To the U.S. We went on a trip from San Francisco to Denver. </span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">2. How [input_0]? By car?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Yes, we hired a car in San Francisco.</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">3. It's a long way to drive. How long [input_1] to get to Denver?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Two weeks.</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">4. Where [input_2]? In hotels?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Yes, small hotels or motels. </span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">5. [input_3] good?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Yes, but it was very hot – sometimes too hot.</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">6. [input_4] the Grand Canyon?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Of course. It was wonderful.</span></span></p>",
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">did you travel / did you go</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&acirc;u trả lời l&agrave; &ldquo;We hired a car in San Francisco&rdquo; =&gt; c&acirc;u hỏi về phương tiện đi chuyển</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">did it take / did it take you</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&acirc;u trả lời l&agrave; &ldquo;two weeks&rdquo; =&gt; c&acirc;u hỏi về thời gian di chuyển</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">did you stay</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&acirc;u trả lời l&agrave; &ldquo;small hotels or motels&rdquo; =&gt; c&acirc;u hỏi về chỗ ở</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Was the weather</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&acirc;u trả lời l&agrave; &ldquo;it was very hot &ndash; sometimes too hot&rdquo; =&gt; c&acirc;u hỏi về thời tiết</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Did you go to / Did you see / Did you visit</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&acirc;u trả lời l&agrave; &ldquo;It was wonderful&rdquo; =&gt; c&acirc;u hỏi về cảm gi&aacute;c về Grand Canyon</span></p>\n<p><span id=\"docs-internal-guid-12ad2029-7fff-9f83-6a4a-63e1502942a9\" style=\"font-family: Nunito-Regular;\"></span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 5,
+        "totalCorrect": 5,
+        "userAnswer": {
+          "input_0": "did you travel",
+          "input_1": "did it take",
+          "input_2": "did you stay",
+          "input_3": "Was the weather",
+          "input_4": "Did you visit"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "did you travel",
+            "did you go"
+          ],
+          "input_1": [
+            "did it take",
+            "did it take you"
+          ],
+          "input_2": [
+            "did you stay"
+          ],
+          "input_3": [
+            "Was the weather"
+          ],
+          "input_4": [
+            "Did you go to",
+            "Did you see",
+            "Did you visit"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-313160",
+      "sourceQuestionId": 313160,
+      "challengeId": 32728,
+      "classChallengeId": "83881",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 4. Complete the sentences. Put the verb into the correct form, positive or negative.",
+      "introductionText": "Exercise 4. Complete the sentences. Put the verb into the correct form, positive or negative.",
+      "contentText": "",
+      "answerTemplateText": "1. It was warm, so I took off my coat. (take)\n\n2. The film wasn't very good. I didn't enjoy it much. (enjoy)\n\n3. The ski trip was awful because there [input_0] no snow. (be)\n\n4. Our father [input_1] a lot of time singing with us on the way to Sapa  (spend)\n\n5. The bed was very uncomfortable. I [input_2] well. (sleep)\n\n6. Last weekend, I had a terrific time. I [input_3] (swim) every day and [input_4] (learn) how to windsurf. \n\n7. The hotel wasn't very expensive. It [input_5] much to stay there. (cost)\n\n8. Sounds like she [input_6] (have) fun, because she went sightseeing a lot and [input_7] (take) tons of beautiful photos.\n\n9. The trip to Hue was great. We [input_8] (go) sightseeing around the Imperial Citadel and [input_9] (enjoy) a lot of delicious local food.\n\n10. They [input_10] (visit) their grandma by car, and it [input_11] (take) us 2 hours to get there. I [input_12] (feel) awful due to carsickness. (say xe ô tô)",
+      "explanationText": "Học viên chia động từ ở dạng quá khứ đơn. Chú ý dạng chủ động và bị động.",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-ExtraBold; font-size: 12pt;\"><strong style=\"box-sizing: border-box; background-color: #ffffff;\">Exercise 4. Complete the sentences. Put the verb into the correct form, positive or negative.&nbsp;</strong></span></p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">1. It was warm, so I <u style=\"box-sizing: border-box;\"><em style=\"box-sizing: border-box;\">took</em></u> off my coat. (take)</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">2. The film wasn't very good. I <u style=\"box-sizing: border-box;\"><em style=\"box-sizing: border-box;\">didn't enjoy</em></u> it much. (enjoy)</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">3. The ski trip was awful because there [input_0] no snow. (be)</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">4. Our father [input_1] a lot of time singing with us on the way to Sapa  (spend)</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">5. The bed was very uncomfortable. I [input_2] well. (sleep)</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">6. Last weekend, I had a terrific time. I [input_3] (swim) every day and [input_4] (learn) how to windsurf. </span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">7. The hotel wasn't very expensive. It [input_5] much to stay there. (cost)</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">8. Sounds like she [input_6] (have) fun, because she went sightseeing a lot and [input_7] (take) tons of beautiful photos.</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">9. The trip to Hue was great. We [input_8] (go) sightseeing around the Imperial Citadel and [input_9] (enjoy) a lot of delicious local food.</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">10. They [input_10] (visit) their grandma by car, and it [input_11] (take) us 2 hours to get there. I [input_12] (feel) awful due to <span style=\"background-color: #f8cac6;\">carsickness</span>. (say xe ô tô)</span></span></p>",
+        "explain": "<p><span id=\"docs-internal-guid-58c0e41d-7fff-e22e-9ca7-974e294261d1\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Học vi&ecirc;n chia động từ ở dạng qu&aacute; khứ đơn. Ch&uacute; &yacute; dạng chủ động v&agrave; bị động.</span></span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 13,
+        "totalCorrect": 13,
+        "userAnswer": {
+          "input_0": "was",
+          "input_1": "spent",
+          "input_2": "didn't sleep",
+          "input_3": "swam",
+          "input_4": "learned",
+          "input_5": "didn't cost",
+          "input_6": "had",
+          "input_7": "took",
+          "input_8": "went",
+          "input_9": "enjoyed",
+          "input_10": "visited",
+          "input_11": "took",
+          "input_12": "felt"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "was"
+          ],
+          "input_1": [
+            "spent"
+          ],
+          "input_2": [
+            "didn't sleep",
+            "did not sleep"
+          ],
+          "input_3": [
+            "swam"
+          ],
+          "input_4": [
+            "learnt",
+            "learned"
+          ],
+          "input_5": [
+            "didn't cost",
+            "did not cost"
+          ],
+          "input_6": [
+            "had"
+          ],
+          "input_7": [
+            "took"
+          ],
+          "input_8": [
+            "went"
+          ],
+          "input_9": [
+            "enjoyed"
+          ],
+          "input_10": [
+            "visited"
+          ],
+          "input_11": [
+            "took"
+          ],
+          "input_12": [
+            "felt"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": true,
+          "input_9": true,
+          "input_10": true,
+          "input_11": true,
+          "input_12": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-313161",
+      "sourceQuestionId": 313161,
+      "challengeId": 32728,
+      "classChallengeId": "83881",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 5: Put the verbs into the correct form. (Chia động từ về dạng đúng.)",
+      "introductionText": "Exercise 5: Put the verbs into the correct form. (Chia động từ về dạng đúng.)",
+      "contentText": "",
+      "answerTemplateText": "1. She [input_0] (study) for her exam when the power [input_1] (go) out.\n\n2. We [input_2] (play) soccer in the park when it [input_3] (start) raining.\n\n3. They [input_4] (watch) a movie before their flight.\n\n4. I [input_5] (cook) dinner when the phone [input_6] (ring).\n\n5. He [input_7] (read) a book when his friend [input_8] (arrived).\n\n6. The children [input_9] (play) in the backyard while their parents [input_10] (prepare) lunch.\n\n7. The students [input_11] (work) on their projects at 11:30 last night.\n\n8. My parents [input_12] (travel) to Europe when I had the exam.\n\n9. The dog [input_13] (bark) loudly during the thunderstorm.\n\n10. We [input_14] (have) a picnic when the ants invaded (xâm chiếm) our blanket.",
+      "explanationText": "1. was studying – went → Hành động \"đang học\" (was studying) diễn ra trong quá khứ khi một hành động khác \"mất điện\" (went) xảy ra. Quá khứ tiếp diễn + quá khứ đơn.\n\n2. were playing – started → Hành động \"đang chơi\" (were playing) bị gián đoạn bởi một hành động \"bắt đầu mưa\" (started). Quá khứ tiếp diễn + quá khứ đơn.\n\n3. watched → Hành động \"xem phim\" xảy ra và hoàn thành trước chuyến bay. Dùng quá khứ đơn vì không có sự nhấn mạnh vào quá trình.\n\n4. was cooking – rang → Hành động \"đang nấu ăn\" (was cooking) bị gián đoạn bởi \"chuông điện thoại reo\" (rang). Quá khứ tiếp diễn + quá khứ đơn.\n\n5. was reading – arrived → Hành động \"đang đọc sách\" (was reading) bị gián đoạn bởi \"bạn đến\" (arrived). Quá khứ tiếp diễn + quá khứ đơn.\n\n6. were playing – were preparing → Hai hành động \"đang chơi\" (were playing) và \"đang chuẩn bị\" (were preparing) diễn ra cùng lúc. Dấu hiệu nhận biết hai hành động diễn ra cùng lúc là \"while\" (trong khi hành động 1 đang diễn ra, thì hành động 2 đang diễn ra). Cả hai dùng quá khứ tiếp diễn.\n\n7. were working → Hành động \"đang làm việc\" diễn ra tại một thời điểm cụ thể trong quá khứ (11:30 tối). Dùng quá khứ tiếp diễn.\n\n8. were traveling → Hành động \"đang du lịch\" diễn ra tại thời điểm \"tôi thi\". Dùng quá khứ tiếp diễn.\n\n9. was barking → Hành động \"đang sủa\" diễn ra trong khoảng thời gian cơn bão (during the thunderstorm). Dùng quá khứ tiếp diễn.\n\n10. were having → Hành động \"đang tổ chức picnic\" bị gián đoạn bởi \"đàn kiến xâm chiếm\". Quá khứ tiếp diễn + quá khứ đơn.",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-874955e4-7fff-25f9-9d23-90921194a7c5\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-ExtraBold; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 5: Put the verbs into the correct form</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. (Chia động từ về dạng đ&uacute;ng.)</span></span></p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. She [input_0] (study) for her exam when the power [input_1] (go) out.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. We [input_2] (play) soccer in the park when it [input_3] (start) raining.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. They [input_4] (watch) a movie before their flight.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. I [input_5] (cook) dinner when the phone [input_6] (ring).</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. He [input_7]</span><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> (read) a book when his friend [input_8] (arrived).</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. The children [input_9] (play) in the backyard while their parents [input_10] (prepare) lunch.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. The students [input_11]</span><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> (work) on their projects at 11:30 last night.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. My parents [input_12] (travel) to Europe when I had the exam.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9. The dog [input_13] (bark) loudly during the thunderstorm.</span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span id=\"docs-internal-guid-1a92d1a8-7fff-edb9-63e5-7c00fa218cd0\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">10. We [input_14] (have) a picnic when the ants </span><span style=\"color: #000000; background-color: #ffcccc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">invaded </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(xâm chiếm) </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">our blanket.</span></span></p>",
+        "explain": "<p><strong data-start=\"3\" data-end=\"26\" data-is-only-node=\"\">1. <span style=\"color: #ba372a;\">was studying </span>– <span style=\"color: #ba372a;\">went</span></strong><span style=\"color: #ba372a;\"> </span>→ Hành động \"đang học\" (was studying) diễn ra trong quá khứ khi một hành động khác \"mất điện\" (went) xảy ra. Quá khứ tiếp diễn + quá khứ đơn.</p>\n<p><strong data-start=\"174\" data-end=\"200\" data-is-only-node=\"\">2. <span style=\"color: #ba372a;\">were playing</span> – <span style=\"color: #ba372a;\">started</span></strong><span style=\"color: #ba372a;\"> </span>→ Hành động \"đang chơi\" (were playing) bị gián đoạn bởi một hành động \"bắt đầu mưa\" (started). Quá khứ tiếp diễn + quá khứ đơn.</p>\n<p><strong data-start=\"334\" data-end=\"345\" data-is-only-node=\"\">3. <span style=\"color: #ba372a;\">watched</span></strong><span style=\"color: #ba372a;\"> </span>→ Hành động \"xem phim\" xảy ra và hoàn thành trước chuyến bay. Dùng quá khứ đơn vì không có sự nhấn mạnh vào quá trình.</p>\n<p><strong data-start=\"470\" data-end=\"492\" data-is-only-node=\"\">4. <span style=\"color: #ba372a;\">was cooking</span> – <span style=\"color: #ba372a;\">rang</span></strong><span style=\"color: #ba372a;\"> </span>→ Hành động \"đang nấu ăn\" (was cooking) bị gián đoạn bởi \"chuông điện thoại reo\" (rang). Quá khứ tiếp diễn + quá khứ đơn.</p>\n<p><strong data-start=\"620\" data-end=\"645\" data-is-only-node=\"\">5. <span style=\"color: #ba372a;\">was reading </span>– <span style=\"color: #ba372a;\">arrived</span></strong><span style=\"color: #ba372a;\"> </span>→ Hành động \"đang đọc sách\" (was reading) bị gián đoạn bởi \"bạn đến\" (arrived). Quá khứ tiếp diễn + quá khứ đơn.</p>\n<p><strong data-start=\"764\" data-end=\"797\" data-is-only-node=\"\">6. <span style=\"color: #ba372a;\">were playing </span>– <span style=\"color: #ba372a;\">were preparing</span></strong> → Hai hành động \"đang chơi\" (were playing) và \"đang chuẩn bị\" (were preparing) diễn ra cùng lúc. Dấu hiệu nhận biết hai hành động diễn ra cùng lúc là \"while\" (trong khi hành động 1 đang diễn ra, thì hành động 2 đang diễn ra). Cả hai dùng quá khứ tiếp diễn.</p>\n<p><strong data-start=\"931\" data-end=\"947\" data-is-only-node=\"\">7. <span style=\"color: #ba372a;\">were working</span></strong> → Hành động \"đang làm việc\" diễn ra tại một thời điểm cụ thể trong quá khứ (11:30 tối). Dùng quá khứ tiếp diễn.</p>\n<p><strong data-start=\"1065\" data-end=\"1083\" data-is-only-node=\"\">8. <span style=\"color: #ba372a;\">were traveling</span></strong><span style=\"color: #ba372a;\"> </span>→ Hành động \"đang du lịch\" diễn ra tại thời điểm \"tôi thi\". Dùng quá khứ tiếp diễn.</p>\n<p><strong data-start=\"1173\" data-end=\"1188\" data-is-only-node=\"\">9. <span style=\"color: #ba372a;\">was barking</span></strong> → Hành động \"đang sủa\" diễn ra trong khoảng thời gian cơn bão (during the thunderstorm). Dùng quá khứ tiếp diễn.</p>\n<p><strong data-start=\"1282\" data-end=\"1297\" data-is-only-node=\"\">10. <span style=\"color: #ba372a;\">were having</span></strong> → Hành động \"đang tổ chức picnic\" bị gián đoạn bởi \"đàn kiến xâm chiếm\". Quá khứ tiếp diễn + quá khứ đơn.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 15,
+        "totalCorrect": 13,
+        "userAnswer": {
+          "input_0": "was studying",
+          "input_1": "went",
+          "input_2": "were playing",
+          "input_3": "started",
+          "input_4": "watched",
+          "input_5": "was cooking",
+          "input_6": "rang",
+          "input_7": "was reading",
+          "input_8": "arived",
+          "input_9": "were playing",
+          "input_10": "were preparing",
+          "input_11": "were working",
+          "input_12": "were traveling",
+          "input_13": "barked",
+          "input_14": "were having"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "was studying"
+          ],
+          "input_1": [
+            "went"
+          ],
+          "input_2": [
+            "were playing"
+          ],
+          "input_3": [
+            "started"
+          ],
+          "input_4": [
+            "watched"
+          ],
+          "input_5": [
+            "was cooking"
+          ],
+          "input_6": [
+            "rang"
+          ],
+          "input_7": [
+            "was reading"
+          ],
+          "input_8": [
+            "arrived"
+          ],
+          "input_9": [
+            "were playing"
+          ],
+          "input_10": [
+            "were preparing"
+          ],
+          "input_11": [
+            "were working"
+          ],
+          "input_12": [
+            "were traveling",
+            "were travelling"
+          ],
+          "input_13": [
+            "was barking"
+          ],
+          "input_14": [
+            "were having"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": false,
+          "input_9": true,
+          "input_10": true,
+          "input_11": true,
+          "input_12": true,
+          "input_13": false,
+          "input_14": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-313162",
+      "sourceQuestionId": 313162,
+      "challengeId": 32728,
+      "classChallengeId": "83881",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 6. The picture below shows what was happening at 8 am yesterday at LangGo Beach. Choose the correct answers.",
+      "introductionText": "Exercise 6. The picture below shows what was happening at 8 am yesterday at LangGo Beach. Choose the correct answers.",
+      "contentText": "",
+      "answerTemplateText": "It was a beautiful day at LangGo Beach. The sun [input_0] (shined/shining/was shining/shone) and the wind [input_1] (was blowing/blowed/blown/blows) gently. \n\n(1) While Linh [input_2] (flyed/were flying/flew/was flying) a kite, (2) Tom [input_3] (goes/was going/went/is going) fishing. \n\nAt that moment, (3) Thang [input_4] (was windsurfing/windsurfed/windsurfing/windsurfs).\n\n(4) Nam [input_5] (was doing/did/was going/went) snorkeling, (5) while Bob and Joe [input_6] (played/were playing/was going/were doing) water volleyball. \n\n(6) Hoa [input_7] (was diving/dived/was divering/dove), when she [input_8] (finded/was finding/found/was founding) a big fish.\n\n(7) Hung [input_9] (was carrying/was carried/carries/carried) a green bag and an umbrella. \n\n(8) Linh [input_10] (listened/listening/was listening/to listen) to the radio on the beach, while (9) Phuong [input_11] (walked/was walking/was walked/walking) behind her little sister.",
+      "explanationText": "0. were shining - was blowing\n\nHành động đang diễn ra tại 1 thời điểm cụ thể trong quá khứ => dùng thì quá khứ tiếp diễn\n\nCâu 1, 2, 3, 4, 5 cũng tương tự vì đang miêu tả những hành động đang diễn ra tại 1 thời điểm cụ thể trong quá khứ hoặc 2 hành động xảy ra cùng 1 lúc => dùng thì quá khứ tiếp diễn\n\n6. was diving - found\n\n1 hành động đang diễn ra (lặn) thì 1 hành động khác chen vào (tìm thấy 1 chú cá lớn)\n\nCâu 7, 8, 9 cũng tương tự vì đang miêu tả những hành động đang diễn ra tại 1 thời điểm cụ thể trong quá khứ hoặc 2 hành động xảy ra cùng 1 lúc => dùng thì quá khứ tiếp diễn",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-ExtraBold; font-size: 12pt;\"><strong style=\"box-sizing: border-box; background-color: #ffffff;\">Exercise 6. The picture below shows what was happening at 8 am yesterday at LangGo Beach. Choose the correct answers.</strong></span></p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">It was a beautiful day at LangGo Beach. The sun [input_0] (shined/shining/was shining/shone) and the wind [input_1] (was blowing/blowed/blown/blows) gently. </span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">(1) While Linh [input_2] (flyed/were flying/flew/was flying) a kite, (2) Tom [input_3] (goes/was going/went/is going) fishing. </span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">At that moment, (3) Thang [input_4] (was windsurfing/windsurfed/windsurfing/windsurfs).</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">(4) Nam [input_5] (was doing/did/was going/went) snorkeling, (5) while Bob and Joe [input_6] (played/were playing/was going/were doing) water volleyball. </span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">(6) Hoa [input_7] (was diving/dived/was divering/dove), when she [input_8] (finded/was finding/found/was founding) a big fish.</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">(7) Hung [input_9] (was carrying/was carried/carries/carried) a green bag and an umbrella. </span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">(8) Linh [input_10] (listened/listening/was listening/to listen) to the radio on the beach, while (9) Phuong [input_11] (walked/was walking/was walked/walking) behind her little sister.</span></span></p>",
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-family: Nunito-ExtraBold;\">0. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">were shining - was blowing</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">H&agrave;nh động đang diễn ra tại 1 thời điểm cụ thể trong qu&aacute; khứ =&gt; d&ugrave;ng th&igrave; qu&aacute; khứ tiếp diễn</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-family: Nunito-ExtraBold;\">C&acirc;u 1, 2, 3, 4, 5</span> </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">cũng tương tự v&igrave; đang mi&ecirc;u tả những </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">h&agrave;nh động đang diễn ra tại 1 thời điểm cụ thể trong qu&aacute; khứ hoặc 2 h&agrave;nh động xảy ra c&ugrave;ng 1 l&uacute;c =&gt; d&ugrave;ng th&igrave; qu&aacute; khứ tiếp diễn</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-family: Nunito-ExtraBold;\">6.</span> </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">was diving - found</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1 h&agrave;nh động đang diễn ra (lặn) th&igrave; 1 h&agrave;nh động kh&aacute;c chen v&agrave;o (t&igrave;m thấy 1 ch&uacute; c&aacute; lớn)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span id=\"docs-internal-guid-21912450-7fff-bd45-e238-d57e6c92ce63\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-ExtraBold;\">C&acirc;u 7, 8, 9</span> </span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">cũng tương tự v&igrave; đang mi&ecirc;u tả những </span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">h&agrave;nh động đang diễn ra tại 1 thời điểm cụ thể trong qu&aacute; khứ hoặc 2 h&agrave;nh động xảy ra c&ugrave;ng 1 l&uacute;c =&gt; d&ugrave;ng th&igrave; qu&aacute; khứ tiếp diễn</span></span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 12,
+        "totalCorrect": 10,
+        "userAnswer": {
+          "input_0": "was shining",
+          "input_1": "was blowing",
+          "input_2": "was flying",
+          "input_3": "was going",
+          "input_4": "was windsurfing",
+          "input_5": "was doing",
+          "input_6": "were playing",
+          "input_7": "was diving",
+          "input_8": "finded",
+          "input_9": "was carrying",
+          "input_10": "was listening",
+          "input_11": "was walking"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "was shining"
+          ],
+          "input_1": [
+            "was blowing"
+          ],
+          "input_2": [
+            "was flying"
+          ],
+          "input_3": [
+            "was going"
+          ],
+          "input_4": [
+            "was windsurfing"
+          ],
+          "input_5": [
+            "was going"
+          ],
+          "input_6": [
+            "were playing"
+          ],
+          "input_7": [
+            "was diving"
+          ],
+          "input_8": [
+            "found"
+          ],
+          "input_9": [
+            "was carrying"
+          ],
+          "input_10": [
+            "was listening"
+          ],
+          "input_11": [
+            "was walking"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": false,
+          "input_6": true,
+          "input_7": true,
+          "input_8": false,
+          "input_9": true,
+          "input_10": true,
+          "input_11": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-313163",
+      "sourceQuestionId": 313163,
+      "challengeId": 32729,
+      "classChallengeId": "83882",
+      "title": "II. LISTENING: VACATIONS",
+      "type": 1,
+      "prompt": "II. LISTENING: VACATIONS",
+      "introductionText": "",
+      "contentText": "",
+      "answerTemplateText": "Exercise 1: Listen to five people talking about holiday problems. Match the people (1-5) to the problems (a-e). (Hãy nghe năm người nói về các vấn đề trong kỳ nghỉ. Nối những người (1-5) với các vấn đề (a-e).)\n\n \n\n1   Casey [input_0]\n\n2   Johnny [input_1]\n\n3   Tom [input_2]\n\n4   Tracey [input_3]\n\n5   Liz [input_4]\n\n \n\n \n\na   He / She felt ill.\n\nb   He / She broke his / her leg.\n\nc   He / She lost some money.\n\nd   He / She missed a train.\n\ne   He / She dropped a camera.",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "II. LISTENING: VACATIONS",
+        "introduction": null,
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 1:</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Listen to five people talking about holiday problems. Match the people (1-5) to the problems (a-e). </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Hãy nghe năm người nói về các vấn đề trong kỳ nghỉ. Nối những người (1-5) với các vấn đề (a-e).)</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1   Casey [input_0]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2   Johnny [input_1]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3   Tom [input_2]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4   Tracey [input_3]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5   Liz [input_4]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a   He / She felt ill.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">b   He / She broke his / her leg.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">c   He / She lost some money.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">d   He / She missed a train.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">e   He / She dropped a camera.</span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 5,
+        "totalCorrect": 0,
+        "userAnswer": {
+          "input_0": "He missed a train.",
+          "input_1": "He dropped a camera.",
+          "input_2": "He felt ill.",
+          "input_3": "She lost some money.",
+          "input_4": "She broke her leg."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "d"
+          ],
+          "input_1": [
+            "e"
+          ],
+          "input_2": [
+            "a"
+          ],
+          "input_3": [
+            "c"
+          ],
+          "input_4": [
+            "b"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false,
+          "input_1": false,
+          "input_2": false,
+          "input_3": false,
+          "input_4": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-313164",
+      "sourceQuestionId": 313164,
+      "challengeId": 32729,
+      "classChallengeId": "83882",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2: Listen to Adrian talking about his holiday. Did he do all of these things? Write Y (Yes) or N (No). (Hãy nghe Adrian nói về kỳ nghỉ của anh ấy. Anh ấy có làm tất cả những điều này không? Viết Y (Có) hoặc N (Không).)",
+      "introductionText": "",
+      "contentText": "Exercise 2: Listen to Adrian talking about his holiday. Did he do all of these things? Write Y (Yes) or N (No). (Hãy nghe Adrian nói về kỳ nghỉ của anh ấy. Anh ấy có làm tất cả những điều này không? Viết Y (Có) hoặc N (Không).)",
+      "answerTemplateText": "1   Travel by plane [input_0]\n\n2   Stay in a hotel [input_1]\n\n3   Like the food [input_2]\n\n4   Go to the beach [input_3]\n\n5   Break his camera [input_4]\n\n6   Lose his money [input_5]\n\n7   Write postcards [input_6]\n\n8   Enjoy his holiday [input_7]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-10cc4457-7fff-edd6-12df-26970498467d\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 2: Listen to Adrian talking about his holiday. Did he do all of these things? Write Y (Yes) or N (No). </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(H&atilde;y nghe Adrian n&oacute;i về kỳ nghỉ của anh ấy. Anh ấy c&oacute; l&agrave;m tất cả những điều n&agrave;y kh&ocirc;ng? Viết Y (C&oacute;) hoặc N (Kh&ocirc;ng).)</span></span></p>",
+        "answerTemplate": "<p><span id=\"docs-internal-guid-5af28eac-7fff-cc0c-451b-c38bd6ba5873\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">1   Travel by plane [input_0]</span></div>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">2   Stay in a hotel [input_1]</span></div>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">3   Like the food [input_2]</span></div>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">4   Go to the beach [input_3]</span></div>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">5   Break his camera [input_4]</span></div>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">6   Lose his money [input_5]</span></div>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">7   Write postcards [input_6]</span></div>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">8   Enjoy his holiday [input_7]</span></div>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"> </div>\n</div>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 8,
+        "totalCorrect": 7,
+        "userAnswer": {
+          "input_0": "N",
+          "input_1": "Y",
+          "input_2": "Y",
+          "input_3": "Y",
+          "input_4": "N",
+          "input_5": "Y",
+          "input_6": "N",
+          "input_7": "Y"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "N"
+          ],
+          "input_1": [
+            "Y"
+          ],
+          "input_2": [
+            "Y"
+          ],
+          "input_3": [
+            "Y"
+          ],
+          "input_4": [
+            "N"
+          ],
+          "input_5": [
+            "N"
+          ],
+          "input_6": [
+            "N"
+          ],
+          "input_7": [
+            "Y"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": false,
+          "input_6": true,
+          "input_7": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-313165",
+      "sourceQuestionId": 313165,
+      "challengeId": 32729,
+      "classChallengeId": "83882",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 3: Listen. What word completes each statement? Write the correct letter. (Nghe. Từ nào phù hợp để hoàn thiện các câu sau? Viết đáp án đúng)",
+      "introductionText": "",
+      "contentText": "Exercise 3: Listen. What word completes each statement? Write the correct letter. (Nghe. Từ nào phù hợp để hoàn thiện các câu sau? Viết đáp án đúng)",
+      "answerTemplateText": "1. The weather was [input_0]\n\n2. The people were [input_1]\n\n3. The ski trip was [input_2]\n\n4. Their trip to France was very [input_3]\n\n5. Her trip to the beach was [input_4]\n\n6. The hotel wasn't [input_5]\n\n7. The shopping in Thailand was [input_6]\n\n8. His vacation was too [input_7]\n\n \n\na. fantastic \n\nb. terrible \n\nc. disappointing \n\nd. nice\n\ne. clean\n\nf. awful \n\ng. short\n\nh. terrific",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-cf4a69f2-7fff-6fbb-773c-796cf46435fb\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 3: Listen. What word completes each statement? Write the correct letter.</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> (Nghe. Từ n&agrave;o ph&ugrave; hợp để ho&agrave;n thiện c&aacute;c c&acirc;u sau? Viết đ&aacute;p &aacute;n đ&uacute;ng) </span></span></p>",
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. The weather was [input_0]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. The people were [input_1]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. The ski trip was [input_2]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. Their trip to France was very [input_3]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. Her trip to the beach was [input_4]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. The hotel wasn't [input_5]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. The shopping in Thailand was [input_6]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. His vacation was too [input_7]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a. fantastic </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">b. terrible </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">c. disappointing </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">d. nice</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">e. clean</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">f. awful </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">g. short</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">h. terrific</span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 8,
+        "totalCorrect": 8,
+        "userAnswer": {
+          "input_0": "terrible",
+          "input_1": "nice",
+          "input_2": "awful",
+          "input_3": "disappointing",
+          "input_4": "terrific",
+          "input_5": "clean",
+          "input_6": "fantastic",
+          "input_7": "short"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "terrible",
+            "b"
+          ],
+          "input_1": [
+            "nice",
+            "d"
+          ],
+          "input_2": [
+            "awful",
+            "f"
+          ],
+          "input_3": [
+            "c",
+            "disappointing"
+          ],
+          "input_4": [
+            "h",
+            "terrific"
+          ],
+          "input_5": [
+            "clean",
+            "e"
+          ],
+          "input_6": [
+            "fantastic",
+            "a"
+          ],
+          "input_7": [
+            "short",
+            "g"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-313166",
+      "sourceQuestionId": 313166,
+      "challengeId": 32729,
+      "classChallengeId": "83882",
+      "title": "USEFUL STRUCTURES",
+      "type": 2,
+      "prompt": "USEFUL STRUCTURES",
+      "introductionText": "",
+      "contentText": "Xem kĩ transcript và ghi lại ít nhất 10 cụm từ/ cấu trúc/ câu hay:",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "USEFUL STRUCTURES",
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-79001c6b-7fff-de6e-5aab-e7362a65f20a\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-family: Nunito-Regular;\">Xem kĩ transcript v&agrave; ghi lại &iacute;t nhất 10 cụm từ/ cấu tr&uacute;c/ c&acirc;u ha</span>y:</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "go on holiday to + place : đi du lịch đến...\ngo with + someone : đi cùng ai\ngo by + means of transport : đi bằng phương tiện...\nThe journey took + time : chuyến đi mất... (thời gian)\nstay in a hotel : ở khách sạn\ngo to the beach : đi biển\nforget to + V : quên làm gì\nhave a great time : có khoảng thời gian tuyệt vời\ntake a photo of + someone : chụp ảnh ai\nfall off a bike and break a leg : ngã xe đạp và gãy chân",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-313167",
+      "sourceQuestionId": 313167,
+      "challengeId": 32729,
+      "classChallengeId": "83882",
+      "title": "III. SPEAKING",
+      "type": 2,
+      "prompt": "III. SPEAKING",
+      "introductionText": "",
+      "contentText": "Chuẩn bị câu trả lời cho các câu sau, sử dụng các từ vựng, cấu trúc, câu học được phía trên và từ bài Listening\n\nXem thêm phần gợi ý trả lời: Gợi ý\n\n1. Do you love travelling? Why?\n\n2. Tell me about one trip you remember the most.\n\nViết câu trả lời đầy đủ cho từng câu hỏi vào file google docs và nộp lại.\n\nGV feedback xong thì học thuộc lòng câu trả lời.\n\nSau khi được GV hướng dẫn thêm trên lớp, HV tiếp tục hoàn thiện câu trả lời và luyện tập.\n\nLink google docs (mở quyền nhận xét cho GV)",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "III. SPEAKING",
+        "introduction": null,
+        "content": "<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Chuẩn bị câu trả lời cho các câu sau, sử dụng các từ vựng, cấu trúc, câu học được phía trên và từ bài Listening</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Xem thêm phần gợi ý trả lời</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">: </span><a style=\"text-decoration: none;\" href=\"https://docs.google.com/document/d/1AfoxLT-rloDwnGqUfE9TMDp9gT9iRFA8/edit\" target=\"_blank\" rel=\"noopener\"><span style=\"color: #0d638f; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Gợi ý</span></a></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. Do you love travelling? Why?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. Tell me about one trip you remember the most.</span></p>\n<p><strong>Viết câu trả lời đầy đủ cho từng câu hỏi vào file google docs và nộp lại.</strong></p>\n<p><strong>GV feedback xong thì học thuộc lòng câu trả lời.</strong></p>\n<p><strong>Sau khi được GV hướng dẫn thêm trên lớp, HV tiếp tục hoàn thiện câu trả lời và luyện tập.</strong></p>\n<p><span id=\"docs-internal-guid-d26a6571-7fff-c388-cd68-86cd1b3bd8a5\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #c0392b; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Link google docs (mở quyền nhận xét cho GV)</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "https://docs.google.com/document/d/1Z0Hcp0WvL6ksoNA2lir4ExCJXflGnUiIm0DoSa_cDas/edit?tab=t.0",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    }
+  ]
+}

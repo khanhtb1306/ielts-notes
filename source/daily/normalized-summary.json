@@ -1,0 +1,181 @@
+{
+  "generatedAt": "2026-07-15T16:33:10.652Z",
+  "lessons": [
+    {
+      "lessonKey": "lesson-01",
+      "challenges": 3,
+      "contentBlocks": 5,
+      "questionBlocks": 16,
+      "scriptBlocks": 21,
+      "audioFiles": 77,
+      "audioWithScript": 77,
+      "audioWithoutScript": 0,
+      "images": 0
+    },
+    {
+      "lessonKey": "lesson-02",
+      "challenges": 2,
+      "contentBlocks": 2,
+      "questionBlocks": 17,
+      "scriptBlocks": 18,
+      "audioFiles": 72,
+      "audioWithScript": 66,
+      "audioWithoutScript": 6,
+      "images": 10
+    },
+    {
+      "lessonKey": "lesson-03",
+      "challenges": 2,
+      "contentBlocks": 2,
+      "questionBlocks": 9,
+      "scriptBlocks": 13,
+      "audioFiles": 93,
+      "audioWithScript": 93,
+      "audioWithoutScript": 0,
+      "images": 5
+    },
+    {
+      "lessonKey": "lesson-04",
+      "challenges": 2,
+      "contentBlocks": 2,
+      "questionBlocks": 10,
+      "scriptBlocks": 14,
+      "audioFiles": 61,
+      "audioWithScript": 60,
+      "audioWithoutScript": 1,
+      "images": 12
+    },
+    {
+      "lessonKey": "lesson-05",
+      "challenges": 2,
+      "contentBlocks": 7,
+      "questionBlocks": 10,
+      "scriptBlocks": 18,
+      "audioFiles": 13,
+      "audioWithScript": 13,
+      "audioWithoutScript": 0,
+      "images": 0
+    },
+    {
+      "lessonKey": "lesson-06",
+      "challenges": 2,
+      "contentBlocks": 3,
+      "questionBlocks": 8,
+      "scriptBlocks": 13,
+      "audioFiles": 10,
+      "audioWithScript": 10,
+      "audioWithoutScript": 0,
+      "images": 13
+    },
+    {
+      "lessonKey": "lesson-07",
+      "challenges": 2,
+      "contentBlocks": 3,
+      "questionBlocks": 42,
+      "scriptBlocks": 46,
+      "audioFiles": 10,
+      "audioWithScript": 10,
+      "audioWithoutScript": 0,
+      "images": 9
+    },
+    {
+      "lessonKey": "lesson-08",
+      "challenges": 2,
+      "contentBlocks": 4,
+      "questionBlocks": 10,
+      "scriptBlocks": 15,
+      "audioFiles": 8,
+      "audioWithScript": 8,
+      "audioWithoutScript": 0,
+      "images": 1
+    },
+    {
+      "lessonKey": "lesson-09",
+      "challenges": 2,
+      "contentBlocks": 3,
+      "questionBlocks": 11,
+      "scriptBlocks": 16,
+      "audioFiles": 14,
+      "audioWithScript": 14,
+      "audioWithoutScript": 0,
+      "images": 1
+    },
+    {
+      "lessonKey": "lesson-10",
+      "challenges": 2,
+      "contentBlocks": 2,
+      "questionBlocks": 18,
+      "scriptBlocks": 21,
+      "audioFiles": 5,
+      "audioWithScript": 5,
+      "audioWithoutScript": 0,
+      "images": 8
+    },
+    {
+      "lessonKey": "lesson-11",
+      "challenges": 2,
+      "contentBlocks": 2,
+      "questionBlocks": 15,
+      "scriptBlocks": 19,
+      "audioFiles": 0,
+      "audioWithScript": 0,
+      "audioWithoutScript": 0,
+      "images": 5
+    },
+    {
+      "lessonKey": "lesson-12",
+      "challenges": 2,
+      "contentBlocks": 8,
+      "questionBlocks": 27,
+      "scriptBlocks": 36,
+      "audioFiles": 11,
+      "audioWithScript": 11,
+      "audioWithoutScript": 0,
+      "images": 6
+    },
+    {
+      "lessonKey": "lesson-13",
+      "challenges": 2,
+      "contentBlocks": 11,
+      "questionBlocks": 11,
+      "scriptBlocks": 24,
+      "audioFiles": 13,
+      "audioWithScript": 13,
+      "audioWithoutScript": 0,
+      "images": 4
+    },
+    {
+      "lessonKey": "lesson-14",
+      "challenges": 2,
+      "contentBlocks": 10,
+      "questionBlocks": 17,
+      "scriptBlocks": 29,
+      "audioFiles": 10,
+      "audioWithScript": 10,
+      "audioWithoutScript": 0,
+      "images": 10
+    },
+    {
+      "lessonKey": "lesson-15",
+      "challenges": 2,
+      "contentBlocks": 37,
+      "questionBlocks": 20,
+      "scriptBlocks": 56,
+      "audioFiles": 17,
+      "audioWithScript": 17,
+      "audioWithoutScript": 0,
+      "images": 0
+    },
+    {
+      "lessonKey": "lesson-misc",
+      "challenges": 4,
+      "contentBlocks": 39,
+      "questionBlocks": 77,
+      "scriptBlocks": 118,
+      "audioFiles": 19,
+      "audioWithScript": 19,
+      "audioWithoutScript": 0,
+      "images": 0
+    }
+  ]
+}

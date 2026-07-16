@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "lesson": 13,
+  "lessonKey": "lesson-13",
+  "title": "Lesson 13",
+  "source": "LangGo daily challenge API",
+  "rawFolder": "raw/",
+  "files": {
+    "overview": "overview.md",
+    "content": "content.json",
+    "exercises": "exercises.json",
+    "scripts": "scripts.json",
+    "submission": "submission.json",
+    "audioManifest": "audio/manifest.json",
+    "imageManifest": "images/manifest.json"
+  },
+  "challenges": [
+    {
+      "id": 32728,
+      "challengeId": 32728,
+      "classChallengeId": "83881",
+      "number": 1,
+      "title": "[PRE IELTS] LESSON 13 - CHALLENGE 1",
+      "note": "Grammar (Past simple, Past continuous)",
+      "day": 13,
+      "deadline": "2026-07-11 12:30:00",
+      "totalQuestion": 66,
+      "classification": "dc",
+      "rawFile": "raw/challenge-01-32728.json"
+    },
+    {
+      "id": 32729,
+      "challengeId": 32729,
+      "classChallengeId": "83882",
+      "number": 2,
+      "title": "[PRE IELTS] LESSON 13 - CHALLENGE 2",
+      "note": "Vocabulary (Holidays) | Listening (Vacation) | Speaking (Travelling)",
+      "day": 13,
+      "deadline": "2026-07-11 12:30:00",
+      "totalQuestion": 23,
+      "classification": "dc",
+      "rawFile": "raw/challenge-02-32729.json"
+    }
+  ]
+}

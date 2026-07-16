@@ -1,0 +1,604 @@
+{
+  "lesson": 14,
+  "lessonKey": "lesson-14",
+  "items": [
+    {
+      "challengeId": 33068,
+      "classChallengeId": "84206",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 30,
+      "submittedAt": "2026-07-12 21:51:32",
+      "markedAt": "2026-07-15 21:40:03",
+      "commentText": "Hi Khánh, bài này em làm tốt nhé. Em cũng đừng quên học thêm các từ mới trong DC để mở rộng vốn từ của mình hơn nha.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "316825": {
+          "total_question": 9,
+          "total_correct_result_answer": 8,
+          "user_answer": {
+            "input_0": "will you be",
+            "input_1": "will be",
+            "input_2": "'ll miss",
+            "input_3": "will i hear",
+            "input_4": "'ll get",
+            "input_5": "'ll talk",
+            "input_6": "'ll buy",
+            "input_7": "'ll take",
+            "input_8": "will make"
+          },
+          "correct_answer": {
+            "input_0": [
+              "will you be"
+            ],
+            "input_1": [
+              "'ll be",
+              "will be"
+            ],
+            "input_2": [
+              "'ll miss",
+              "will miss"
+            ],
+            "input_3": [
+              "Will I hear"
+            ],
+            "input_4": [
+              "'ll get",
+              "will get"
+            ],
+            "input_5": [
+              "'ll talk",
+              "will talk"
+            ],
+            "input_6": [
+              "'ll buy",
+              "will buy"
+            ],
+            "input_7": [
+              "'ll take",
+              "will take"
+            ],
+            "input_8": [
+              "won't make"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 316825,
+          "challenge_id": 33068
+        },
+        "316826": {
+          "total_question": 10,
+          "total_correct_result_answer": 10,
+          "user_answer": {
+            "input_0": "are going to",
+            "input_1": "will",
+            "input_2": "will",
+            "input_3": "is going to",
+            "input_4": "will",
+            "input_5": "are going to",
+            "input_6": "won't",
+            "input_7": "are going to",
+            "input_8": "will",
+            "input_9": "are you going to"
+          },
+          "correct_answer": {
+            "input_0": [
+              "are going to",
+              "'re going to"
+            ],
+            "input_1": [
+              "will"
+            ],
+            "input_2": [
+              "will ",
+              "'ll"
+            ],
+            "input_3": [
+              "is going to",
+              "'s going to"
+            ],
+            "input_4": [
+              "will"
+            ],
+            "input_5": [
+              "are going to",
+              "'re going to"
+            ],
+            "input_6": [
+              "won't",
+              "will not"
+            ],
+            "input_7": [
+              "are going to"
+            ],
+            "input_8": [
+              "will",
+              "'ll"
+            ],
+            "input_9": [
+              "are you going to"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 316826,
+          "challenge_id": 33068
+        },
+        "316827": {
+          "total_question": 5,
+          "total_correct_result_answer": 5,
+          "user_answer": {
+            "input_0": "am going to Da Nang",
+            "input_1": "am going to spend time with my best friends",
+            "input_2": "will be very hot and sunny",
+            "input_3": "are going to bring our bikinis and lots of sunscreen",
+            "input_4": "will lie on the beach and get a suntan"
+          },
+          "correct_answer": {
+            "input_0": [
+              "'m going to Da Nang",
+              "am going to Da Nang"
+            ],
+            "input_1": [
+              "'m going to spend time with my best friends",
+              "am going to spend time with my best friends"
+            ],
+            "input_2": [
+              "will be very hot and sunny",
+              "'ll be very hot and sunny"
+            ],
+            "input_3": [
+              "are going to bring our bikinis and lots of sunscreen",
+              "'re going to bring our bikinis and lots of sunscreen"
+            ],
+            "input_4": [
+              "will lie on the beach and get a suntan",
+              "'ll lie on the beach and get a suntan"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 316827,
+          "challenge_id": 33068
+        },
+        "316828": {
+          "total_question": 4,
+          "total_correct_result_answer": 3,
+          "user_answer": {
+            "input_0": "is going to rain heavily again",
+            "input_1": "are going to go on a romantic holiday to Da Lat",
+            "input_2": "will stay at my uncle's homestay",
+            "input_3": "am going to take my fiance to some small vendors to have some porridge and warm soy milk"
+          },
+          "correct_answer": {
+            "input_0": [
+              "is going to rain heavily again",
+              "'s going to rain heavily again"
+            ],
+            "input_1": [
+              "are going to go on a romantic holiday in Da Lat",
+              "'re going to go on a romantic holiday in Da Lat"
+            ],
+            "input_2": [
+              "will stay at my uncle's homestay",
+              "'ll stay at my uncle's homestay"
+            ],
+            "input_3": [
+              "'m going to take my fiance to some small vendors to have some porridge and warm soy milk",
+              "am going to take my fiance to some small vendors to have some porridge and warm soy milk"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": false,
+            "input_2": true,
+            "input_3": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 316828,
+          "challenge_id": 33068
+        },
+        "316829": {
+          "total_question": 4,
+          "total_correct_result_answer": 4,
+          "user_answer": {
+            "input_0": "will go backpacking",
+            "input_1": "am going to go on this adventure on my own",
+            "input_2": "will be nice with lots of sea breeze",
+            "input_3": "am going to enjoy delicious food and take many pictures to add to my blog"
+          },
+          "correct_answer": {
+            "input_0": [
+              "will go backpacking",
+              "'ll go backpacking"
+            ],
+            "input_1": [
+              "'m going to go on this adventure on my own",
+              "am going to go on this adventure on my own"
+            ],
+            "input_2": [
+              "will be nice with lots of sea breeze",
+              "'ll be nice with lots of sea breeze"
+            ],
+            "input_3": [
+              "am going to enjoy delicious food and take many pictures to add to my blog",
+              "'m going to enjoy delicious food and take many pictures to add to my blog"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 316829,
+          "challenge_id": 33068
+        }
+      }
+    },
+    {
+      "challengeId": 33069,
+      "classChallengeId": "84207",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 33,
+      "submittedAt": "2026-07-12 22:47:02",
+      "markedAt": "2026-07-15 21:49:17",
+      "commentText": "Hi Khánh, bài này mình cũng làm rất tốt nhé. Em chỉ cần chú ý làm bài nghe cẩn thận hơn chút là được nha.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "316830": {
+          "total_question": 5,
+          "total_correct_result_answer": 5,
+          "user_answer": {
+            "input_0": "toy shop",
+            "input_1": "butcher",
+            "input_2": "newsagent",
+            "input_3": "gift shop",
+            "input_4": "baker"
+          },
+          "correct_answer": {
+            "input_0": [
+              "toy shop"
+            ],
+            "input_1": [
+              "butcher"
+            ],
+            "input_2": [
+              "newsagent"
+            ],
+            "input_3": [
+              "gift shop"
+            ],
+            "input_4": [
+              "baker"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 316830,
+          "challenge_id": 33069
+        },
+        "316831": {
+          "total_question": 5,
+          "total_correct_result_answer": 5,
+          "user_answer": {
+            "input_0": "supermarket",
+            "input_1": "post office",
+            "input_2": "gift shop",
+            "input_3": "bookshop",
+            "input_4": "department store"
+          },
+          "correct_answer": {
+            "input_0": [
+              "supermarket"
+            ],
+            "input_1": [
+              "post office"
+            ],
+            "input_2": [
+              "gift shop"
+            ],
+            "input_3": [
+              "bookshop"
+            ],
+            "input_4": [
+              "department store",
+              "supermarket"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 316831,
+          "challenge_id": 33069
+        },
+        "316832": {
+          "total_question": 3,
+          "total_correct_result_answer": 3,
+          "user_answer": {
+            "input_0": "cost",
+            "input_1": "pay",
+            "input_2": "bag"
+          },
+          "correct_answer": {
+            "input_0": [
+              "cost"
+            ],
+            "input_1": [
+              "pay"
+            ],
+            "input_2": [
+              "bag"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 316832,
+          "challenge_id": 33069
+        },
+        "316833": {
+          "total_question": 5,
+          "total_correct_result_answer": 4,
+          "user_answer": {
+            "input_0": "$4099",
+            "input_1": "$36.95",
+            "input_2": "$26.95",
+            "input_3": "$12.25",
+            "input_4": "$125"
+          },
+          "correct_answer": {
+            "input_0": [
+              "4,099",
+              "$4,099"
+            ],
+            "input_1": [
+              "36.95",
+              "$36.95"
+            ],
+            "input_2": [
+              "26.95",
+              "$26.95"
+            ],
+            "input_3": [
+              "12.25",
+              "$12.25"
+            ],
+            "input_4": [
+              "125",
+              "$125"
+            ]
+          },
+          "result_answer": {
+            "input_0": false,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 316833,
+          "challenge_id": 33069
+        },
+        "316834": {
+          "total_question": 10,
+          "total_correct_result_answer": 9,
+          "user_answer": {
+            "input_0": "$14.95",
+            "input_1": "10",
+            "input_2": "$9.65",
+            "input_3": "$10.35",
+            "input_4": "$8.15",
+            "input_5": "$11.85",
+            "input_6": "$12.49",
+            "input_7": "$7.51",
+            "input_8": "$18.25",
+            "input_9": "$1.75"
+          },
+          "correct_answer": {
+            "input_0": [
+              "19.90",
+              "$19.90"
+            ],
+            "input_1": [
+              "10",
+              "10 cents"
+            ],
+            "input_2": [
+              "9.65",
+              "$9.65"
+            ],
+            "input_3": [
+              "10.35",
+              "$10.35"
+            ],
+            "input_4": [
+              "8.15",
+              "$8.15"
+            ],
+            "input_5": [
+              "11.85",
+              "$11.85"
+            ],
+            "input_6": [
+              "12.49",
+              "$12.49"
+            ],
+            "input_7": [
+              "7.51",
+              "$7.51"
+            ],
+            "input_8": [
+              "18.25",
+              "$18.25"
+            ],
+            "input_9": [
+              "1.75",
+              "$1.75"
+            ]
+          },
+          "result_answer": {
+            "input_0": false,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 316834,
+          "challenge_id": 33069
+        },
+        "316835": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 658377,
+          "correct_answer": 658377,
+          "result_answer": {
+            "658377": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 316835,
+          "challenge_id": 33069
+        },
+        "316836": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 658378,
+          "correct_answer": 658378,
+          "result_answer": {
+            "658378": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 316836,
+          "challenge_id": 33069
+        },
+        "316837": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 658380,
+          "correct_answer": 658380,
+          "result_answer": {
+            "658380": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 316837,
+          "challenge_id": 33069
+        },
+        "316838": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 658382,
+          "correct_answer": 658382,
+          "result_answer": {
+            "658382": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 316838,
+          "challenge_id": 33069
+        },
+        "316839": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 658385,
+          "correct_answer": 658385,
+          "result_answer": {
+            "658385": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 316839,
+          "challenge_id": 33069
+        },
+        "316840": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 658387,
+          "correct_answer": 658387,
+          "result_answer": {
+            "658387": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 316840,
+          "challenge_id": 33069
+        },
+        "316841": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "on sale: đang giảm giá\nDo you want to try them on?: Bạn có muốn đi thử không?\nI'm just looking: Tôi chỉ đang đi xem thôi\nI'll take them: Tôi sẽ lấy chúng\nThat comes to...: Tổng cộng là...\nHere's your change: Đây là tiền thừa của bạn\nI'll think about it: Tôi sẽ suy nghĩ thêm\nused to + V: đã từng làm gì (nhưng giờ không còn)\ncan/can't afford to V: có/không có đủ khả năng để làm gì\nIt costs (sb) + money + to V: tốn bao nhiêu tiền để làm gì\nbe run by the government: được quản lý bởi chính phủ\ntwice that: gấp đôi khoản đó\nThat means...: Điều đó có nghĩa là...\nIt costs me less... than it used to cost: ...tốn ít hơn so với trước đây",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 316841,
+          "challenge_id": 33069
+        }
+      }
+    }
+  ]
+}

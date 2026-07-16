@@ -1,0 +1,92 @@
+{
+  "lesson": 10,
+  "lessonKey": "lesson-10",
+  "folder": "../../../audio/daily/lesson-10",
+  "items": [
+    {
+      "id": "lesson-10-audio-001",
+      "challengeId": 31371,
+      "classChallengeId": "82563",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1715590975.mp3",
+      "localFile": "audio/daily/lesson-10/31371-1-1715590975.mp3",
+      "bytes": 38914,
+      "status": "exists",
+      "script": "What is your apartment like?",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-84705"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-10-audio-002",
+      "challengeId": 31371,
+      "classChallengeId": "82563",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1715590990.mp3",
+      "localFile": "audio/daily/lesson-10/31371-2-1715590990.mp3",
+      "bytes": 48527,
+      "status": "exists",
+      "script": "How many rooms does your apartment have?",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-84705"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-10-audio-003",
+      "challengeId": 31371,
+      "classChallengeId": "82563",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1715591003.mp3",
+      "localFile": "audio/daily/lesson-10/31371-3-1715591003.mp3",
+      "bytes": 35570,
+      "status": "exists",
+      "script": "What's your place like?",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-84705"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-10-audio-004",
+      "challengeId": 31371,
+      "classChallengeId": "82563",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1715591085.mp3",
+      "localFile": "audio/daily/lesson-10/31371-4-1715591085.mp3",
+      "bytes": 41004,
+      "status": "exists",
+      "script": "We don't have much furniture",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-84705"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-10-audio-005",
+      "challengeId": 31371,
+      "classChallengeId": "82563",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1715591104.mp3",
+      "localFile": "audio/daily/lesson-10/31371-5-1715591104.mp3",
+      "bytes": 42675,
+      "status": "exists",
+      "script": "The bathroom is very small",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-84705"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    }
+  ]
+}

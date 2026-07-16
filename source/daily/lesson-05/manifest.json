@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "lesson": 5,
+  "lessonKey": "lesson-05",
+  "title": "Lesson 5",
+  "source": "LangGo daily challenge API",
+  "rawFolder": "raw/",
+  "files": {
+    "overview": "overview.md",
+    "content": "content.json",
+    "exercises": "exercises.json",
+    "scripts": "scripts.json",
+    "submission": "submission.json",
+    "audioManifest": "audio/manifest.json",
+    "imageManifest": "images/manifest.json"
+  },
+  "challenges": [
+    {
+      "id": 29470,
+      "challengeId": 29470,
+      "classChallengeId": "80742",
+      "number": 1,
+      "title": "[PRE IELTS] LESSON 5 - CHALLENGE 1",
+      "note": "Pronunciation (review) | Listening (names)",
+      "day": 5,
+      "deadline": "2026-06-18 12:30:00",
+      "totalQuestion": 72,
+      "classification": "dc",
+      "rawFile": "raw/challenge-01-29470.json"
+    },
+    {
+      "id": 29471,
+      "challengeId": 29471,
+      "classChallengeId": "80743",
+      "number": 2,
+      "title": "[PRE IELTS] LESSON 5 - CHALLENGE 2",
+      "note": "Vocabulary | Pronunciation | Listening (Telling time)",
+      "day": 5,
+      "deadline": "2026-06-18 12:30:00",
+      "totalQuestion": 23,
+      "classification": "dc",
+      "rawFile": "raw/challenge-02-29471.json"
+    }
+  ]
+}

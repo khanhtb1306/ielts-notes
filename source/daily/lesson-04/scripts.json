@@ -1,0 +1,527 @@
+{
+  "lesson": 4,
+  "lessonKey": "lesson-04",
+  "items": [
+    {
+      "id": "script-content-78756",
+      "sourceType": "content",
+      "sourceId": 78756,
+      "challengeId": 29126,
+      "classChallengeId": "80410",
+      "title": null,
+      "scriptText": "I. VOCABULARY: Make / made / made A. Make Dad is making some coffee. Mum is making dinner. I'll make some tea / hot chocolate. /ˈtʃɒk.lət/ I make breakfast / lunch / dinner every day. She's making a film / video. B. It makes me (feel) … Going by train always makes me (feel) tired. My friend called me stupid. It made me (feel) angry. That film made me (feel) sad. C. Expressions You use make, NOT do in these expressions: - I made a mistake in the exercise. - I want to make an appointment with the doctor. - When I get up I make my bed. - The children are making noise. - Yes, and they are making a mess in the living room! - I love your new dress, you made a good choice! II. PRONUNCIATION Quay video phát âm mỗi âm 3 lần kèm các ví dụ sau. /θ/: think , thousand , Thursday , anything , month /ð/: mother , father , this , together , brother /m/: mom , map , most , them , awesome /n/: nose , nine , sun , now , next /ŋ/: sing , English , think , long , link /h/: hair , hat , how , hand , hope /w/: what , wet , wing , where , why /j/: yard , you , yours , yes , yellow /r/: really , red , run , ring , right /l/: love , learn , level , lot , pencil",
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709179552.mp3",
+          "localFile": "audio/daily/lesson-04/29126-1-1709179552.mp3",
+          "script": "Dad is making some coffee",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709179709.mp3",
+          "localFile": "audio/daily/lesson-04/29126-2-1709179709.mp3",
+          "script": "Mum is making dinner",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709179725.mp3",
+          "localFile": "audio/daily/lesson-04/29126-3-1709179725.mp3",
+          "script": "",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709179860.mp3",
+          "localFile": "audio/daily/lesson-04/29126-4-1709179860.mp3",
+          "script": "I make breakfast",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709179886.mp3",
+          "localFile": "audio/daily/lesson-04/29126-5-1709179886.mp3",
+          "script": "video",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709180828.mp3",
+          "localFile": "audio/daily/lesson-04/29126-6-1709180828.mp3",
+          "script": "in the exercise",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709180841.mp3",
+          "localFile": "audio/daily/lesson-04/29126-7-1709180841.mp3",
+          "script": "with the doctor",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709180853.mp3",
+          "localFile": "audio/daily/lesson-04/29126-8-1709180853.mp3",
+          "script": "When I get up I make my bed",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709180863.mp3",
+          "localFile": "audio/daily/lesson-04/29126-9-1709180863.mp3",
+          "script": "The children are making noise",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1712306329.mp3",
+          "localFile": "audio/daily/lesson-04/29126-10-1712306329.mp3",
+          "script": "in the living room!",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709180887.mp3",
+          "localFile": "audio/daily/lesson-04/29126-11-1709180887.mp3",
+          "script": "you made a good choice!",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709115755.mp3",
+          "localFile": "audio/daily/lesson-04/29126-12-1709115755.mp3",
+          "script": "think",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709115771.mp3",
+          "localFile": "audio/daily/lesson-04/29126-13-1709115771.mp3",
+          "script": "thousand",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709115778.mp3",
+          "localFile": "audio/daily/lesson-04/29126-14-1709115778.mp3",
+          "script": "Thursday",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709115787.mp3",
+          "localFile": "audio/daily/lesson-04/29126-15-1709115787.mp3",
+          "script": "anything",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709115793.mp3",
+          "localFile": "audio/daily/lesson-04/29126-16-1709115793.mp3",
+          "script": "month",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709115877.mp3",
+          "localFile": "audio/daily/lesson-04/29126-17-1709115877.mp3",
+          "script": "mother",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709115883.mp3",
+          "localFile": "audio/daily/lesson-04/29126-18-1709115883.mp3",
+          "script": "father",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709115889.mp3",
+          "localFile": "audio/daily/lesson-04/29126-19-1709115889.mp3",
+          "script": "this",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709115897.mp3",
+          "localFile": "audio/daily/lesson-04/29126-20-1709115897.mp3",
+          "script": "together",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709115905.mp3",
+          "localFile": "audio/daily/lesson-04/29126-21-1709115905.mp3",
+          "script": "brother",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709173995.mp3",
+          "localFile": "audio/daily/lesson-04/29126-22-1709173995.mp3",
+          "script": "mom",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709174004.mp3",
+          "localFile": "audio/daily/lesson-04/29126-23-1709174004.mp3",
+          "script": "map",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709174011.mp3",
+          "localFile": "audio/daily/lesson-04/29126-24-1709174011.mp3",
+          "script": "most",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709174092.mp3",
+          "localFile": "audio/daily/lesson-04/29126-25-1709174092.mp3",
+          "script": "them",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709174107.mp3",
+          "localFile": "audio/daily/lesson-04/29126-26-1709174107.mp3",
+          "script": "awesome",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709174169.mp3",
+          "localFile": "audio/daily/lesson-04/29126-27-1709174169.mp3",
+          "script": "nose",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709174179.mp3",
+          "localFile": "audio/daily/lesson-04/29126-28-1709174179.mp3",
+          "script": "nine",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709174186.mp3",
+          "localFile": "audio/daily/lesson-04/29126-29-1709174186.mp3",
+          "script": "sun",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709174194.mp3",
+          "localFile": "audio/daily/lesson-04/29126-30-1709174194.mp3",
+          "script": "now",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709174202.mp3",
+          "localFile": "audio/daily/lesson-04/29126-31-1709174202.mp3",
+          "script": "next",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176073.mp3",
+          "localFile": "audio/daily/lesson-04/29126-32-1709176073.mp3",
+          "script": "sing",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176093.mp3",
+          "localFile": "audio/daily/lesson-04/29126-33-1709176093.mp3",
+          "script": "English",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176101.mp3",
+          "localFile": "audio/daily/lesson-04/29126-34-1709176101.mp3",
+          "script": "think",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176108.mp3",
+          "localFile": "audio/daily/lesson-04/29126-35-1709176108.mp3",
+          "script": "long",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176114.mp3",
+          "localFile": "audio/daily/lesson-04/29126-36-1709176114.mp3",
+          "script": "link",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176122.mp3",
+          "localFile": "audio/daily/lesson-04/29126-37-1709176122.mp3",
+          "script": "hair",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176129.mp3",
+          "localFile": "audio/daily/lesson-04/29126-38-1709176129.mp3",
+          "script": "hat",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176135.mp3",
+          "localFile": "audio/daily/lesson-04/29126-39-1709176135.mp3",
+          "script": "how",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176141.mp3",
+          "localFile": "audio/daily/lesson-04/29126-40-1709176141.mp3",
+          "script": "hand",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176147.mp3",
+          "localFile": "audio/daily/lesson-04/29126-41-1709176147.mp3",
+          "script": "hope",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176317.mp3",
+          "localFile": "audio/daily/lesson-04/29126-42-1709176317.mp3",
+          "script": "what",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176327.mp3",
+          "localFile": "audio/daily/lesson-04/29126-43-1709176327.mp3",
+          "script": "wet",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176335.mp3",
+          "localFile": "audio/daily/lesson-04/29126-44-1709176335.mp3",
+          "script": "wing",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176342.mp3",
+          "localFile": "audio/daily/lesson-04/29126-45-1709176342.mp3",
+          "script": "where",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176352.mp3",
+          "localFile": "audio/daily/lesson-04/29126-46-1709176352.mp3",
+          "script": "why",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176393.mp3",
+          "localFile": "audio/daily/lesson-04/29126-47-1709176393.mp3",
+          "script": "yard",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176426.mp3",
+          "localFile": "audio/daily/lesson-04/29126-48-1709176426.mp3",
+          "script": "you",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176434.mp3",
+          "localFile": "audio/daily/lesson-04/29126-49-1709176434.mp3",
+          "script": "yours",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176443.mp3",
+          "localFile": "audio/daily/lesson-04/29126-50-1709176443.mp3",
+          "script": "yes",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176450.mp3",
+          "localFile": "audio/daily/lesson-04/29126-51-1709176450.mp3",
+          "script": "yellow",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176721.mp3",
+          "localFile": "audio/daily/lesson-04/29126-52-1709176721.mp3",
+          "script": "really",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176839.mp3",
+          "localFile": "audio/daily/lesson-04/29126-53-1709176839.mp3",
+          "script": "red",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176846.mp3",
+          "localFile": "audio/daily/lesson-04/29126-54-1709176846.mp3",
+          "script": "run",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176854.mp3",
+          "localFile": "audio/daily/lesson-04/29126-55-1709176854.mp3",
+          "script": "ring",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176863.mp3",
+          "localFile": "audio/daily/lesson-04/29126-56-1709176863.mp3",
+          "script": "right",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176979.mp3",
+          "localFile": "audio/daily/lesson-04/29126-57-1709176979.mp3",
+          "script": "love",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176986.mp3",
+          "localFile": "audio/daily/lesson-04/29126-58-1709176986.mp3",
+          "script": "learn",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709176993.mp3",
+          "localFile": "audio/daily/lesson-04/29126-59-1709176993.mp3",
+          "script": "level",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709177001.mp3",
+          "localFile": "audio/daily/lesson-04/29126-60-1709177001.mp3",
+          "script": "lot",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709177008.mp3",
+          "localFile": "audio/daily/lesson-04/29126-61-1709177008.mp3",
+          "script": "pencil",
+          "source": "html_data_url"
+        }
+      ],
+      "fallbackForMissingAudio": false
+    },
+    {
+      "id": "script-content-78757",
+      "sourceType": "content",
+      "sourceId": 78757,
+      "challengeId": 29127,
+      "classChallengeId": "80411",
+      "title": null,
+      "scriptText": "​ ​I. VOCABULARY: Talking and Moving Talking A. Say (say / said / said) We use say when we report someone's words. She said, 'This is horrible!' He said that he wanted a drink. We say hello / goodbye and we say please / thank you / Happy Birthday / Merry Christmas / Happy New Year / Congratulations! /kənˌɡrætʃ.əˈleɪ.ʃən/ We use say when we ask about a language. B. Tell (tell / told / told) Tell is usually followed immediately by a person. Say is not followed immediately by a person. Tell is often used with how and wh-words (when, what, why, where) to find out and give information. Tell me when you want to have dinner. She told me how to send a message. You can tell someone the time / a story / a joke / your name / address / phone number. Error warning He told me his name. NOT He said me his name. Can you tell me where the bus station is? NOT Can you say me …? | C. Ask Ask is used for questions. My sister asked me where I was going. / My sister asked (me), 'Where are you going?' A: Can I ask you a question? B: Yes. A: What day of the week were you born? B: Thursday. You can ask someone the way / the time. You can ask somebody to do something and ask someone for something. I asked him to turn off the radio. (or I said, 'Please turn off the radio.') She asked for the bill. (or She said, 'Can I have the bill, please?') D. Speak / talk / answer / reply I like talking to you. (having a conversation with you) Error warning Do you speak Japanese? (used languages) NOT Do you talk Japansese? | Can you answer the telephone / the door, please? (pick up the phone / open the door to see who it is) Teacher: Who can answer the next question? Joanna? He didn't reply to my email. (also used for letters / faxes / texts) Moving A. Without transport | | | | | walk run | jump dance | swim | climb | fall | B. Transport verb | transport | example | go by | car / plane / bus / train / bike / motorbike / ship / taxi / underground (NOT by a car) | We went to Paris by train last summer. | take | a / the bus / train / plane / a taxi / the underground | I took a taxi home yesterday. | ride | a bicycle / bike / motorbike / horse | I always rode my bike to school. | drive | a car / bus / train | My uncle drove a bus for ten years. | The pilot flies a plane. A: How did you get to Istanbul? B: We flew there. Error warning: You arrive at or in a place. NOT arrive to a place. | C. Expressions 1. Làm ơn đưa tôi lọ muối. 2. Tôi có thể giúp bạn xách hành lý được không? 3. Tôi vừa lỡ chuyến tàu. 4. Nếu chúng ta không rời đi bây giờ, chúng ta sẽ không bắt được chuyến tàu",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-question-273622",
+      "sourceType": "exercise",
+      "sourceId": 273622,
+      "challengeId": 29126,
+      "classChallengeId": "80410",
+      "title": "I. Vocabulary: Make / made / made",
+      "scriptText": "I. Vocabulary: Make / made / made\n\n1. In the morning, my mom always makes me [input_0] before I go to school. 2. At noon, I often make [input_1] for myself and my younger sister. 3. In the evening, my dad usually makes [input_2] for our family. 4. When it is cold, I love making some hot [input_3]. 5. In class, we learn how to make a [input_4]\n\nIn the morning, my mom always makes me [breakfast] before I go to school. Giải thích: Vào buổi sáng, mẹ tôi luôn làm bữa sáng (make breakfast) cho tôi trước khi tôi đi học. At noon, I often make [lunch] for myself and my younger sister. Giải thích: Vào buổi trưa, tôi thường làm bữa trưa (make lunch) cho bản thân mình và em gái. In the evening, my dad usually makes [dinner] for our family. Giải thích: Vào buổi tối, bố tôi thường làm bữa tối (make dinner) cho cả gia đình. When it is cold, I love making some hot [tea/chocolate/coffee]. Giải thích: Khi trời lạnh, tôi rất thích pha một chút trà/sô-cô-la/cà phê nóng (make tea/chocolate/coffee). In class, we learn how to make a [film/video]. Giải thích: Ở trên lớp, chúng tôi học cách làm một bộ phim hoặc video (make a film/video)",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-question-273623",
+      "sourceType": "exercise",
+      "sourceId": 273623,
+      "challengeId": 29126,
+      "classChallengeId": "80410",
+      "title": null,
+      "scriptText": "Exercise 2. Complete the sentences with make(s)/made me feel + an adjective from the box. /made me feel + tính từ trong hộp)\n\n1. Long lessons always make me feel [input_0]. 2. She was horrible to me; it made me feel [input_1]. 3. It's a lovely song. It makes me feel [input_2]. 4. That meal was horrible. It made me feel [input_3]\n\n1. Long lessons always make me feel [tired]. Giải thích: Những bài học dài thường khiến tôi cảm thấy mệt mỏi. Cụm từ là make someone feel tired . Dịch nghĩa: Những bài học dài luôn làm tôi cảm thấy mệt mỏi. 2. She was horrible to me; it made me feel [angry]. Giải thích: Khi ai đó đối xử tệ bạc, điều đó thường khiến bạn cảm thấy tức giận. Cụm từ là make someone feel angry . Dịch nghĩa: Cô ấy thật tệ với tôi; điều đó làm tôi cảm thấy tức giận. 3. It’s a lovely song. It makes me feel [happy]. Giải thích: Một bài hát hay có thể khiến bạn cảm thấy vui vẻ. Cụm từ là make someone feel happy . Dịch nghĩa: Đó là một bài hát đáng yêu. Nó làm tôi cảm thấy vui vẻ. 4. That meal was horrible. It made me feel [sick]. Giải thích: Một bữa ăn kinh khủng có thể khiến bạn cảm thấy khó chịu/buồn nôn. Cụm từ là make someone feel sick . Dịch nghĩa: Bữa ăn đó thật kinh khủng. Nó làm tôi cảm thấy khó chịu",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-question-273624",
+      "sourceType": "exercise",
+      "sourceId": 273624,
+      "challengeId": 29126,
+      "classChallengeId": "80410",
+      "title": null,
+      "scriptText": "Exercise 3. Complete the sentences using the expressions given in part C\n\n1. I always make a lot of [input_0] when I speak English. 2. Our neighbours had a party last night. They made a lot of [input_1] . 3. The kids are making a [input_2] in the bedroom. 4. What do you think, the silver car or the white one? We must make our [input_3] today. 5. I'm having a toothache. Can I make an [input_4] with the dentist? 6. After waking up, I always remember to make my [input_5]\n\nI always make a lot of [mistakes] when I speak English. Giải thích: Tôi luôn mắc rất nhiều lỗi (make mistakes) khi tôi nói tiếng Anh. Our neighbours had a party last night. They made a lot of [noise]. Giải thích: Những người hàng xóm của chúng tôi đã tổ chức tiệc tối qua. Họ đã làm ồn rất nhiều (make noise). The kids are making a [mess] in the bedroom. Giải thích: Những đứa trẻ đang bày bừa (make a mess) ở trong phòng ngủ. What do you think, the silver car or the white one? We must make our [choice] today. Giải thích: Bạn nghĩ sao, chiếc xe màu bạc hay chiếc màu trắng? Chúng ta phải đưa ra lựa chọn (make a choice) của mình trong ngày hôm nay. I’m having a toothache. Can I make an [appointment] with the dentist? Giải thích: Tôi đang bị đau răng. Tôi có thể đặt lịch hẹn (make an appointment) với nha sĩ được không? After waking up, I always remember to make my [bed]. Giải thích: Sau khi thức dậy, tôi luôn nhớ dọn dẹp giường (make my bed)",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-question-273625",
+      "sourceType": "exercise",
+      "sourceId": 273625,
+      "challengeId": 29126,
+      "classChallengeId": "80410",
+      "title": null,
+      "scriptText": "Exercise 4. Ghi lại ít nhất 10 từ/ cụm từ/ câu học được từ phần Vocabulary, kèm theo nghĩa",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-question-273626",
+      "sourceType": "exercise",
+      "sourceId": 273626,
+      "challengeId": 29126,
+      "classChallengeId": "80410",
+      "title": "II. Pronunciation",
+      "scriptText": "II. Pronunciation",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-question-273627",
+      "sourceType": "exercise",
+      "sourceId": 273627,
+      "challengeId": 29127,
+      "classChallengeId": "80411",
+      "title": "I. Vocabulary: Talking and Moving",
+      "scriptText": "I. Vocabulary: Talking and Moving\n\n1. Did you [input_0] \"Happy Birthday\" to your mother yesterday? 2. He likes to [input_1] me a joke whenever he sees me. 3. Can you [input_2] English? 4. [input_3] me what the problem is so that I can help you! 5. How do you [input_4] \"cat\" in Japanese? 6. Let's [input_5] him to turn off the music, it's too noisy here. 7. Can you [input_6] me your address? 8. I think I should [input_7] for the bill. 9. I was sad because my best friend didn't [input_8] to my texts two days ago. 10. Lisa, can you [input_9] the door, please? I'm busy here\n\n1. Khi chúng ta nói \"Happy birthday\" trong ngoặc kép là chúng ta đang tường thuật lại lời nói của người khác, cụ thể ở đây là của nhân vật \"you\" trong câu => chọn say Dịch nghĩa: Hôm qua bạn có nói \"Chúc mừng sinh nhật\" với mẹ không? 2. Khi chúng ta kể điều gì cho ai đó , chúng ta sẽ dùng \"tell\" => chọn tell Dịch nghĩa: Anh ấy thích kể cho tôi một câu chuyện cười bất cứ khi nào anh ấy gặp tôi. 3. Khi nói về khả năng sử dụng ngôn ngữ, ta dùng “speak”. => ở đây chúng ta đang nói đến \"English\" => chọn speak Dịch nghĩa: Bạn có thể nói tiếng Anh không? 4. “Tell” đi với tân ngữ và một mệnh đề phía sau . => Chọn tell Dịch nghĩa: Hãy nói cho tôi vấn đề là gì để tôi có thể giúp bạn! 5. Khi hỏi cách nói một từ, chúng ta dùng “say” + từ cụ thể. => trong trường hợp này là \"say \"cat\" in Japanese\" Dịch nghĩa: Bạn nói \"cat\" trong tiếng Nhật như thế nào? 6. “Ask” nếu mang tính nhờ vả lịch sự, “tell” nếu ra lệnh => đều hợp ngữ cảnh và 1 trong 2 đáp án đều đúng Dịch nghĩa: Chúng ta hãy bảo anh ấy tắt nhạc đi, ở đây ồn quá. 7. “Tell” đi với tân ngữ khi yêu cầu cung cấp thông tin. => đối với câu này, chúng ta đang cần hỏi thông tin về \"address\" => chọn tell Dịch nghĩa: Bạn có thể cho tôi biết địa chỉ của bạn không? 8. “Ask” dùng khi yêu cầu một vật hay dịch vụ, ví dụ như “the bill” trong câu này. Dịch nghĩa: Tôi nghĩ tôi nên yêu cầu tính tiền. 9. “Reply” dùng để phản hồi tin nhắn, thư từ. => phù hợp nhất với câu này khi chúng ta đang cần phản hồi \"texts\" Dịch nghĩa: Tôi đã buồn vì bạn thân của tôi đã không trả lời tin nhắn của tôi hai ngày trước. 10 “Answer” dùng khi phản hồi chuông cửa, điện thoại, câu hỏi. => trong ngữ cảnh này là mở cửa Dịch nghĩa: Lisa, làm ơn ra mở cửa giúp tôi được không? Tôi đang bận",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-question-273628",
+      "sourceType": "exercise",
+      "sourceId": 273628,
+      "challengeId": 29127,
+      "classChallengeId": "80411",
+      "title": null,
+      "scriptText": "Exercise 2. Match the verbs on the left with the words on the right\n\n2. [input_0] 3. [input_1] 4. [input_2] 5. [input_3] 6. [input_4] 7. [input_5] 8. [input_6]\n\n1. say - d. Happy New Year→ “Say” dùng để nói điều gì cụ thể, thường là một cụm từ/ lời chúc => nói \"Chúc mừng năm mới\" 2. answer – h. the door→ “Answer” dùng khi phản hồi cuộc gọi, tiếng chuông, cửa,… => mở cửa 3. ask for – g. the bill→ “Ask for” dùng khi yêu cầu một thứ gì đó => xin hóa đơn 4. reply to – a. a letter→ “Reply to” dùng khi phản hồi thư, tin nhắn => phản hồi 1 bức thư 5. tell – f. someone a joke→ “Tell” đi với tân ngữ và một thông tin cụ thể => kể ai đó một chuyện cười) 6. talk to – e. a friend→ “Talk to” dùng để trò chuyện với ai đó => nói chuyện với bạn 7. ask – b. someone to help you→ “Ask” ai đó làm gì => nhờ ai đó giúp bạn 8. speak – c. Japanese→ “Speak” dùng khi nói về khả năng dùng ngôn ngữ => nói tiếng Nhật",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-question-273629",
+      "sourceType": "exercise",
+      "sourceId": 273629,
+      "challengeId": 29127,
+      "classChallengeId": "80411",
+      "title": null,
+      "scriptText": "Moving\n\n1. People usually [input_0] at a party. 2. Every day I [input_1] three kilometers before breakfast. 3. I learned how to [input_2] last summer. The water was cool and the swimming pool was very clean. 4. Did you [input_3] any mountains on your trip? 5. It is easy to [input_4] when the floor is slippery. 6. It is better for you to [input_5] to work than to go by car. 7. My children usually [input_6] up and down when they are excited\n\nMỗi từ là một hành động di chuyển, chúng ta cần chọn đúng động từ cho phù hợp với ngữ cảnh trong câu. 1. People usually [dance] at a party. “Party” là bữa tiệc, ở tiệc mọi người nhảy múa theo nhạc, nên dùng dance = nhảy múa.=> chọn dance 2. Every day I [run/walk] three kilometers before breakfast. Câu này nói về tập thể dục trước bữa sáng (before breakfast). Nếu bạn chạy thể dục → dùng run. Nếu bạn đi bộ nhẹ nhàng → dùng walk. => Cả hai đều đúng, tùy vào thói quen. 3. I learned how to [swim] last summer. “Learned” là học, và đang nói về \"swimming pool\" → học bơi.=> chọn swim 4. Did you [climb] any mountains on your trip? “Mountains” là núi → leo núi dùng từ climb. 5. It is easy to [fall] when the floor is slippery. “Slippery” = trơn, trượt → dễ bị ngã => dùng fall 6. It is better for you to [walk] to work than to go by car. Nói về việc đi làm, đi bộ thường tốt hơn đi xe.=> Chọn walk 7. My children usually [jump] up and down when they are excited. “Excited” = hào hứng → khi trẻ con hào hứng thì thường hay nhảy lên nhảy xuống, dùng jump",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-question-273630",
+      "sourceType": "exercise",
+      "sourceId": 273630,
+      "challengeId": 29127,
+      "classChallengeId": "80411",
+      "title": null,
+      "scriptText": "Exercise 4. Fill in each gap with the words given in the box below. (Điền vào từng chỗ trống với các từ được cho sẵn trong hộp bên dưới. go by | take | ride | drive | Example. Can you ride a motorbike?\n\n1. I work for a railway company. I [input_0] a train. 2. They sometimes [input_1] the underground to work. 3. My mom and dad go away from home a lot. They usually [input_2] a plane. 4. Would you like to [input_3] a horse? 5. Do you prefer to [input_4] motorbike? 6. You never forget how to [input_5] a bicycle\n\n1. “Drive” dùng cho người điều khiển phương tiện lớn, có động cơ .→ I work for a railway company. I [drive] a train. 2. “Take” dùng cho việc sử dụng phương tiện giao thông công cộng.→ They sometimes [take] the underground to work. 3. “Take” cũng dùng cho máy bay, tàu, taxi, xe buýt,…→ My mom and dad go away from home a lot. They usually [take] a plane. 4. “Ride” dùng khi cưỡi động vật hoặc điều khiển xe đạp/xe máy/ngựa.→ Would you like to [ride] a horse? 5. “Go by” = đi bằng phương tiện nào đó (go by car/bus/motorbike).→ Do you prefer to [go by] motorbike? 6. “Ride” dùng với xe đạp – loại phương tiện mình điều khiển bằng sức người.→ You never forget how to [ride] a bicycle",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-question-273631",
+      "sourceType": "exercise",
+      "sourceId": 273631,
+      "challengeId": 29127,
+      "classChallengeId": "80411",
+      "title": null,
+      "scriptText": "Exercise 5. Ghi lại ít nhất 10 từ/ cụm từ/ câu học được từ phần Vocabulary, kèm theo nghĩa",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-feedback-80410",
+      "sourceType": "feedback",
+      "sourceId": "80410",
+      "challengeId": 29126,
+      "classChallengeId": "80410",
+      "title": "Teacher feedback",
+      "scriptText": "Helu Khánh, cô gửi nhận xét cho bài làm của mình nha. Trước hết, cô đã nhắc ở các bài trước về việc đọc âm IPA 3 lần trước rồi mới đọc từ, tuy nhiên em vẫn chưa thực hiện đúng yêu cầu. Vì vậy bài này cô sẽ không tick sao nhé. /θ/ Cô thấy em đã có cố gắng và làm tốt hơn so với trên lớp. Tuy nhiên âm /θ/ vẫn còn hơi bị ảnh hưởng bởi âm \"th\" tiếng Việt. Em tiếp tục chú ý đặt đầu lưỡi nhẹ giữa hai hàm răng và đẩy hơi ra ngoài để âm tự nhiên hơn nhé. /m/ Từ most /moʊst/ em đang thiếu cụm âm cuối /st/ nên từ chưa đầy đủ. Ngoài ra từ awesome /ˈɔː.səm/ em phát âm chưa đúng phần awe /ɔː/. Em cần tròn môi hơn và kéo âm dài hơn một chút. /n/ Từ nose /noʊz/ em đang đọc thành nurse /nɝːs/ nên sai nguyên âm. Ngoài ra từ next /nekst/ em phát âm chưa đúng cụm âm cuối, em cần đọc rõ /kst/ để từ được đầy đủ hơn. /ŋ/ Em chưa phát âm đúng âm /ŋ/. Khi đọc âm này, phần cuối lưỡi nâng lên chạm ngạc mềm và hơi đi qua mũi, không bật thêm âm \"ngờ\" tiếng Việt. Em luyện thêm với các từ sing /sɪŋ/, long /lɔːŋ/, link /lɪŋk/ nhé. /j/ Em cần phát âm âm /j/ nhẹ hơn. Hiện tại các từ trong nhóm đều bị đọc khá nặng. Ngoài ra từ yard /jɑːrd/ còn thiếu âm cuối nên chưa chính xác. Em chú ý chuyển âm nhẹ nhàng hơn và đọc đầy đủ các âm trong từ. /r/ Em đang đọc âm /r/ giống tên chữ cái \"R\" trong tiếng Anh nên chưa đúng cách phát âm. Với âm /r/, đầu lưỡi không chạm vào răng hay lợi mà hơi cong nhẹ về phía sau. /l/ Em chưa phát âm đúng âm /l/. Ngoài ra một số từ trong nhóm còn sai nguyên âm hoặc phụ âm như level /ˈlev.əl/, lot /lɑːt/ và pencil /ˈpen.səl/. Em cần chú ý vị trí đặt lưỡi của âm /l/ và đọc rõ từng âm trong từ thay vì đọc theo thói quen tiếng Việt. /ð/, /h/, /w/ Các âm này em phát âm khá tốt và tương đối chính xác. Em tiếp tục duy trì nhé. Em đọc kĩ nhận xét và luyện tập lại để mình ngày càng tiến bộ hơn nhé",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-feedback-80411",
+      "sourceType": "feedback",
+      "sourceId": "80411",
+      "challengeId": 29127,
+      "classChallengeId": "80411",
+      "title": "Teacher feedback",
+      "scriptText": "Hi Khánh, em làm bài này khá ổn nhé. Cô thấy em đang sai bài ghép cụm từ nhiều. Em đọc kĩ phần giải thích đáp án để hiểu tại sao mình lại sai nhé. Em rút kinh nghiệm để bài sau làm tốt hơn nha",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    }
+  ]
+}

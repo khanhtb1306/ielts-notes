@@ -1,0 +1,1225 @@
+{
+  "lesson": 12,
+  "lessonKey": "lesson-12",
+  "questions": [
+    {
+      "id": "question-308917",
+      "sourceQuestionId": 308917,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "title": "I. Vocabulary: Free time at home",
+      "type": 1,
+      "prompt": "I. Vocabulary: Free time at home",
+      "introductionText": "",
+      "contentText": "Exercise 1: What are these people doing? (Những người này đang làm gì?)",
+      "answerTemplateText": "1. She's watching TV.\n\n \n\n |\n\n2. He's  [input_0].\n\n |\n\n3. She's using the [input_1].\n\n |\n\n4. He's [input_2].\n\n |\n\n5. She's [input_3].\n\n |\n\n6. He's [input_4].\n\n |",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "I. Vocabulary: Free time at home",
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\"><strong>Exercise 1: What are these people doing? </strong><em>(Những người n&agrave;y đang l&agrave;m g&igrave;?)</em></span></p>\n<p>&nbsp;</p>",
+        "answerTemplate": "<table style=\"border-collapse: collapse; width: 80.2809%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 20.1577%;\">\n<p><span style=\"font-family: Nunito-Regular;\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1715577009.png\" alt=\"\" width=\"150\" height=\"97\" /></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; text-align: center; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-family: Nunito-Regular; border-radius: 0px !important; font-size: 12pt;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">1. She's <em style=\"box-sizing: border-box;\"><u style=\"box-sizing: border-box;\">watching TV.</u></em></span></span></p>\n<p><span style=\"box-sizing: border-box; font-family: Nunito-Regular; border-radius: 0px !important; font-size: 12pt;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><em style=\"box-sizing: border-box;\"><u style=\"box-sizing: border-box;\"> </u></em></span></span></p>\n</td>\n<td style=\"width: 24.7651%;\">\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1715577027.png\" alt=\"\" width=\"150\" height=\"85\" /></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; text-align: center; background-color: #ffffff;\">2. He's  [input_0].</span></p>\n</td>\n<td style=\"width: 55.0976%;\">\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1715577050.png\" alt=\"\" width=\"150\" height=\"92\" /></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; text-align: center; background-color: #ffffff;\">3. She's using the [input_1].</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 20.1577%;\">\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1715577075.png\" alt=\"\" width=\"150\" height=\"97\" /></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; text-align: center; background-color: #ffffff;\">4. He's [input_2].</span></p>\n</td>\n<td style=\"width: 24.7651%;\">\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1715577098.png\" alt=\"\" width=\"150\" height=\"95\" /></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; text-align: center; background-color: #ffffff;\">5. She's [input_3].</span></p>\n</td>\n<td style=\"width: 55.0976%;\">\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1715577111.png\" alt=\"\" width=\"150\" height=\"93\" /></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; text-align: center; background-color: #ffffff;\">6. He's [input_4].</span></p>\n</td>\n</tr>\n</tbody>\n</table>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 5,
+        "totalCorrect": 1,
+        "userAnswer": {
+          "input_0": "read a newspaper",
+          "input_1": "computer",
+          "input_2": "garden",
+          "input_3": "cook",
+          "input_4": "listen to music"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "reading a newspaper"
+          ],
+          "input_1": [
+            "Internet",
+            "computer"
+          ],
+          "input_2": [
+            "gardening"
+          ],
+          "input_3": [
+            "cooking"
+          ],
+          "input_4": [
+            "listening to music"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false,
+          "input_1": true,
+          "input_2": false,
+          "input_3": false,
+          "input_4": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/images/1715577009.png",
+          "localFile": null
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/images/1715577027.png",
+          "localFile": null
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/images/1715577050.png",
+          "localFile": null
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/images/1715577075.png",
+          "localFile": null
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/images/1715577098.png",
+          "localFile": null
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/images/1715577111.png",
+          "localFile": null
+        }
+      ]
+    },
+    {
+      "id": "question-308918",
+      "sourceQuestionId": 308918,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2: Match the beginning of each sentence from 1-10 to the correct ending from A-J to finish the sentences. (Ghép đoạn đầu của từng câu từ 1-10 với đoạn cuối từ A-J để hoàn thành các câu.)",
+      "introductionText": "",
+      "contentText": "Exercise 2: Match the beginning of each sentence from 1-10 to the correct ending from A-J to finish the sentences. (Ghép đoạn đầu của từng câu từ 1-10 với đoạn cuối từ A-J để hoàn thành các câu.)",
+      "answerTemplateText": "Beginning:\n\n1. Sometimes I listen [input_0].\n\n2. I like reading [input_1].\n\n3. I hang [input_2].\n\n4. A lot of people like doing [input_3].\n\n5. Do you ever invite [input_4]?\n\n6. The children play [input_5].\n\n7. I want to go [input_6].\n\n8. Did you watch [input_7]?\n\n9. My dad grows [input_8].\n\n10. Shall we take [input_9].\n\n \n\n \n\n |\n\nEnding: \n\nA. out with my friends every Sunday.\n\nB. gardening, they like to grow flowers in their backyards.\n\nC. friends to dinner?\n\nD. magazines more than newspapers.\n\nE. to podcasts when I do housework.\n\nF. some photos here? It's so beautiful.\n\nG. the TV programme about Namibia yesterday?\n\nH. vegetables in his garden.\n\nI. computer games on Fridays.\n\nJ. shopping with my mom this evening.\n\n |",
+      "explanationText": "1. Sometimes I listen [E] to podcasts when I do housework.\n\nDịch: Thỉnh thoảng tôi nghe podcast khi làm việc nhà.\n\n2. I like reading [D] magazines more than newspapers.\n\nDịch: Tôi thích đọc tạp chí hơn là đọc báo.\n\n3. I hang [A] out with my friends every Sunday.\n\nDịch: Tôi đi chơi với bạn bè mỗi Chủ nhật.\n\n4. A lot of people like doing [B] gardening, they like to grow flowers in their backyards.\n\nDịch: Rất nhiều người thích làm vườn, họ thích trồng hoa ở sân sau nhà.\n\n5. Do you ever invite [C] friends to dinner?\n\nDịch: Bạn có bao giờ mời bạn bè đến ăn tối không?\n\n6. The children play [I] computer games on Fridays.\n\nDịch: Bọn trẻ chơi trò chơi điện tử vào các ngày thứ Sáu.\n\n7. I want to go [J] shopping with my mom this evening.\n\nDịch: Tối nay tôi muốn đi mua sắm với mẹ.\n\n8. Did you watch [G] the TV programme about Namibia yesterday?\n\nDịch: Hôm qua bạn có xem chương trình TV về Namibia không?\n\n9. My dad grows [H] vegetables in his garden.\n\nDịch: Bố tôi trồng rau trong vườn.\n\n10. Shall we take [F] some photos here? It’s so beautiful.\n\nDịch: Chúng ta chụp vài bức ảnh ở đây nhé? Đẹp quá.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #242938; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 2:</span><span style=\"color: #242938; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"color: #242938; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Match the beginning of each sentence from 1-10 to the correct ending from A-J to finish the sentences</span><span style=\"color: #242938; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">. </span><span style=\"color: #242938; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Ghép đoạn đầu của từng câu từ 1-10 với đoạn cuối từ A-J để hoàn thành các câu.)</span></span></p>",
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.1; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n<p style=\"line-height: 1.1;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; font-family: Nunito-Regular;\"><span id=\"docs-internal-guid-29cf7298-7fff-0155-a5fe-5acb723d7912\"></span></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; table-layout: fixed; width: 863px;\"><colgroup><col style=\"width: 366px;\" /><col style=\"width: 366px;\" /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000; text-align: left;\">\n<p><strong><span style=\"color: #242938;\">Beginning: </span></strong></p>\n<p><span style=\"color: #242938;\">1. Sometimes I listen [input_0].</span></p>\n<p><span style=\"color: #242938;\">2. I like reading <span style=\"color: #242938;\">[input_1]</span>.</span></p>\n<p><span style=\"color: #242938;\">3. I hang <span style=\"color: #242938;\">[input_2]</span>.</span></p>\n<p><span style=\"color: #242938;\">4. A lot of people like doing <span style=\"color: #242938;\">[input_3]</span>.</span></p>\n<p><span style=\"color: #242938;\">5. Do you ever invite <span style=\"color: #242938;\">[input_4]</span>?</span></p>\n<p><span style=\"color: #242938;\">6. The children play <span style=\"color: #242938;\">[input_5]</span>.</span></p>\n<p><span style=\"color: #242938;\">7. I want to go <span style=\"color: #242938;\">[input_6]</span>.</span></p>\n<p><span style=\"color: #242938;\">8. Did you watch <span style=\"color: #242938;\">[input_7]</span>?</span></p>\n<p><span style=\"color: #242938;\">9. My dad grows <span style=\"color: #242938;\">[input_8]</span>.</span></p>\n<p><span style=\"color: #242938;\">10. Shall we take <span style=\"color: #242938;\">[input_9]</span>. </span></p>\n<p> </p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000; text-align: left;\">\n<p><strong>Ending: </strong></p>\n<p>A. out with my friends every Sunday.</p>\n<p>B. gardening, they like to grow flowers in their backyards.</p>\n<p>C. friends to dinner?</p>\n<p>D. magazines more than newspapers.</p>\n<p>E. to podcasts when I do housework.</p>\n<p>F. some photos here? It's so beautiful.</p>\n<p>G. the TV programme about Namibia yesterday?</p>\n<p>H. vegetables in his garden.</p>\n<p>I. computer games on Fridays.</p>\n<p>J. shopping with my mom this evening.</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>",
+        "explain": "<p><strong>1. Sometimes I listen [E] to podcasts when I do housework.</strong></p>\n<p><em><strong>Dịch:</strong> Thỉnh thoảng tôi nghe podcast khi làm việc nhà.</em></p>\n<p><strong>2. I like reading [D] magazines more than newspapers.</strong></p>\n<p><em><strong>Dịch:</strong> Tôi thích đọc tạp chí hơn là đọc báo.</em></p>\n<p><strong>3. I hang [A] out with my friends every Sunday.</strong></p>\n<p><em><strong>Dịch:</strong> Tôi đi chơi với bạn bè mỗi Chủ nhật.</em></p>\n<p><strong>4. A lot of people like doing [B] gardening, they like to grow flowers in their backyards.</strong></p>\n<p><em><strong>Dịch:</strong> Rất nhiều người thích làm vườn, họ thích trồng hoa ở sân sau nhà.</em></p>\n<p><strong>5. Do you ever invite [C] friends to dinner?</strong></p>\n<p><em><strong>Dịch:</strong> Bạn có bao giờ mời bạn bè đến ăn tối không?</em></p>\n<p><strong>6. The children play [I] computer games on Fridays.</strong></p>\n<p><em><strong>Dịch:</strong> Bọn trẻ chơi trò chơi điện tử vào các ngày thứ Sáu.</em></p>\n<p><strong>7. I want to go [J] shopping with my mom this evening.</strong></p>\n<p><em><strong>Dịch:</strong> Tối nay tôi muốn đi mua sắm với mẹ.</em></p>\n<p><strong>8. Did you watch [G] the TV programme about Namibia yesterday?</strong></p>\n<p><em><strong>Dịch:</strong> Hôm qua bạn có xem chương trình TV về Namibia không?</em></p>\n<p><strong>9. My dad grows [H] vegetables in his garden.</strong></p>\n<p><em><strong>Dịch:</strong> Bố tôi trồng rau trong vườn.</em></p>\n<p><strong>10. Shall we take [F] some photos here? It’s so beautiful.</strong></p>\n<p><em><strong>Dịch:</strong> Chúng ta chụp vài bức ảnh ở đây nhé? Đẹp quá.</em></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 10,
+        "totalCorrect": 8,
+        "userAnswer": {
+          "input_0": "to podcasts when I do housework",
+          "input_1": "magazines more than newspapers",
+          "input_7": "the TV programme about Namibia yesterday?",
+          "input_8": "vegetables in his garden",
+          "input_4": "friends to dinner",
+          "input_6": "out with my friends every Sunday",
+          "input_5": "computer games on Fridays",
+          "input_9": "some photos here? It's so beautiful",
+          "input_3": "gardening, they like to grow flowers in their backyards",
+          "input_2": "shopping with my mom this evening."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "E",
+            "E. to podcasts when I do housework.",
+            "to podcasts when I do housework"
+          ],
+          "input_1": [
+            "D",
+            "D. magazines more than newspapers",
+            "magazines more than newspapers"
+          ],
+          "input_2": [
+            "a",
+            "A. out with my friends every Sunday",
+            "out with my friends every Sunday",
+            "out with my friends every Sunday",
+            "out with my friends every Sunday"
+          ],
+          "input_3": [
+            "B",
+            " gardening, they like to grow flowers in their backyards",
+            "B. gardening, they like to grow flowers in their backyards"
+          ],
+          "input_4": [
+            "C",
+            "C. friends to dinner",
+            "friends to dinner"
+          ],
+          "input_5": [
+            "I",
+            "computer games on Fridays",
+            "I. computer games on Fridays"
+          ],
+          "input_6": [
+            "J",
+            "shopping with my mom this evening",
+            "J. shopping with my mom this evening"
+          ],
+          "input_7": [
+            "G",
+            "G. the TV programme about Namibia yesterday",
+            "the TV programme about Namibia yesterday"
+          ],
+          "input_8": [
+            "H",
+            "H. vegetables in his garden",
+            "vegetables in his garden"
+          ],
+          "input_9": [
+            "F",
+            "some photos here? It's so beautiful",
+            "F. some photos here? It's so beautiful"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": false,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": false,
+          "input_7": true,
+          "input_8": true,
+          "input_9": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308919",
+      "sourceQuestionId": 308919,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "title": "II. Listening: Entertainment",
+      "type": 3,
+      "prompt": "II. Listening: Entertainment",
+      "introductionText": "Exercise 1: People are talking about activities on the weekend. Are these statements true or false? Listen and choose the correct answer. (Những người này đang nói về hoạt động cuối tuần. Các câu sau đúng hay sai? Nghe và chọn đáp án đúng.)",
+      "contentText": "​1. They agree to go and see the movie.​",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "II. Listening: Entertainment",
+        "introduction": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-family: Nunito-Regular;\"><strong>&nbsp;Exercise 1: People are talking about activities on the weekend. Are these statements true or false? Listen and choose the correct answer.</strong></span><em><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"> (Những người n&agrave;y đang n&oacute;i về hoạt động cuối tuần. C&aacute;c c&acirc;u sau đ&uacute;ng hay sai? Nghe v&agrave; chọn đ&aacute;p &aacute;n đ&uacute;ng.)</span></em></span></p>",
+        "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">​1. They agree to go and see the movie.​</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 639429,
+        "correctAnswer": 639429,
+        "resultAnswer": {
+          "639429": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308920",
+      "sourceQuestionId": 308920,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "title": null,
+      "type": 3,
+      "prompt": "2. The weather is going to be rainy on Saturday.",
+      "introductionText": "",
+      "contentText": "2. The weather is going to be rainy on Saturday.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">2. The weather is going to be rainy on Saturday.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 639432,
+        "correctAnswer": 639432,
+        "resultAnswer": {
+          "639432": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308921",
+      "sourceQuestionId": 308921,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "title": null,
+      "type": 3,
+      "prompt": "3. The game is at 3 o'clock.",
+      "introductionText": "",
+      "contentText": "3. The game is at 3 o'clock.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">3. The game is at 3 o&rsquo;clock.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 639434,
+        "correctAnswer": 639434,
+        "resultAnswer": {
+          "639434": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308922",
+      "sourceQuestionId": 308922,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "title": null,
+      "type": 3,
+      "prompt": "4. They want to go rollerblading this weekend.",
+      "introductionText": "",
+      "contentText": "4. They want to go rollerblading this weekend.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">4. They want to go rollerblading this weekend.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 639435,
+        "correctAnswer": 639435,
+        "resultAnswer": {
+          "639435": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308923",
+      "sourceQuestionId": 308923,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "title": null,
+      "type": 3,
+      "prompt": "5. They will go shopping on Saturday morning.",
+      "introductionText": "",
+      "contentText": "5. They will go shopping on Saturday morning.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">5. They will go shopping on Saturday morning.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 639438,
+        "correctAnswer": 639438,
+        "resultAnswer": {
+          "639438": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308924",
+      "sourceQuestionId": 308924,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "title": null,
+      "type": 3,
+      "prompt": "6. They agreed to ride to a park and have a picnic.",
+      "introductionText": "",
+      "contentText": "6. They agreed to ride to a park and have a picnic.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">6. They agreed to ride to a park and have a picnic.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 639439,
+        "correctAnswer": 639439,
+        "resultAnswer": {
+          "639439": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308925",
+      "sourceQuestionId": 308925,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "title": null,
+      "type": 4,
+      "prompt": "Exercise 2: These people are calling friends about the weekend. (Những người này đang gọi cho bạn bè về cuối tuần)\n\nChoose the correct answer for each question. (Nghe lại và chọn đáp án chính xác cho từng câu hỏi)\n\n1. When does Bob want to go to the movies?",
+      "introductionText": "",
+      "contentText": "Exercise 2: These people are calling friends about the weekend. (Những người này đang gọi cho bạn bè về cuối tuần)\n\nChoose the correct answer for each question. (Nghe lại và chọn đáp án chính xác cho từng câu hỏi)\n\n1. When does Bob want to go to the movies?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong>Exercise 2: These people are calling friends about the weekend.&nbsp;</strong>(Những người n&agrave;y đang gọi cho bạn b&egrave; về cuối tuần)</span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><em><strong>Choose the correct answer for each question.&nbsp;</strong>(Nghe lại v&agrave; chọn đ&aacute;p &aacute;n ch&iacute;nh x&aacute;c cho từng c&acirc;u hỏi)</em></span></p>\n<p dir=\"ltr\">&nbsp;</p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong>1. When does Bob want to go to the movies?</strong></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 639443,
+        "correctAnswer": 639443,
+        "resultAnswer": {
+          "639443": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308926",
+      "sourceQuestionId": 308926,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "title": null,
+      "type": 4,
+      "prompt": "2. When is the party?",
+      "introductionText": "",
+      "contentText": "2. When is the party?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><strong style=\"font-family: Nunito-Regular; font-size: 16px;\">2. When is the party?&nbsp;</strong></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 639444,
+        "correctAnswer": 639444,
+        "resultAnswer": {
+          "639444": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308927",
+      "sourceQuestionId": 308927,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "title": null,
+      "type": 4,
+      "prompt": "3. When does Ken want to go out with Nancy?",
+      "introductionText": "",
+      "contentText": "3. When does Ken want to go out with Nancy?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong>3. When does Ken want to go out with Nancy?</strong></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 639448,
+        "correctAnswer": 639448,
+        "resultAnswer": {
+          "639448": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308928",
+      "sourceQuestionId": 308928,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "title": null,
+      "type": 4,
+      "prompt": "4. When is the game?",
+      "introductionText": "",
+      "contentText": "4. When is the game?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong>4. When is the game?</strong></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 639451,
+        "correctAnswer": 639451,
+        "resultAnswer": {
+          "639451": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308929",
+      "sourceQuestionId": 308929,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "title": null,
+      "type": 4,
+      "prompt": "5. When is the movie on TV?",
+      "introductionText": "",
+      "contentText": "5. When is the movie on TV?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong>5. When is the movie on TV?&nbsp;</strong></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 639455,
+        "correctAnswer": 639455,
+        "resultAnswer": {
+          "639455": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308930",
+      "sourceQuestionId": 308930,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "title": null,
+      "type": 4,
+      "prompt": "Exercise 3: These people are calling friends about the weekend. (Những người này đang gọi cho bạn bè về cuối tuần)\n\nWhat is each invitation for? Choose the correct answer. (Nghe lại và chọn xem những lời mời đó dành cho mục đích gì)",
+      "introductionText": "Exercise 3: These people are calling friends about the weekend. (Những người này đang gọi cho bạn bè về cuối tuần)\n\nWhat is each invitation for? Choose the correct answer. (Nghe lại và chọn xem những lời mời đó dành cho mục đích gì)",
+      "contentText": "1.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p>&nbsp;</p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong>Exercise 3: These people are calling friends about the weekend.&nbsp;</strong>(Những người n&agrave;y đang gọi cho bạn b&egrave; về cuối tuần)</span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><em><strong>What is each invitation for? Choose the correct answer.&nbsp;</strong>(Nghe lại v&agrave; chọn xem những lời mời đ&oacute; d&agrave;nh cho mục đ&iacute;ch g&igrave;)</em></span></p>",
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">1.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 639457,
+        "correctAnswer": 639457,
+        "resultAnswer": {
+          "639457": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308931",
+      "sourceQuestionId": 308931,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "title": null,
+      "type": 4,
+      "prompt": "2.",
+      "introductionText": "",
+      "contentText": "2.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">2.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 639461,
+        "correctAnswer": 639461,
+        "resultAnswer": {
+          "639461": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308932",
+      "sourceQuestionId": 308932,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "title": null,
+      "type": 4,
+      "prompt": "3.",
+      "introductionText": "",
+      "contentText": "3.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">3.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 639462,
+        "correctAnswer": 639462,
+        "resultAnswer": {
+          "639462": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308933",
+      "sourceQuestionId": 308933,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "title": null,
+      "type": 4,
+      "prompt": "4.",
+      "introductionText": "",
+      "contentText": "4.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">4.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 639466,
+        "correctAnswer": 639466,
+        "resultAnswer": {
+          "639466": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308934",
+      "sourceQuestionId": 308934,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "title": null,
+      "type": 4,
+      "prompt": "5.",
+      "introductionText": "",
+      "contentText": "5.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">5.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 639468,
+        "correctAnswer": 639468,
+        "resultAnswer": {
+          "639468": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308935",
+      "sourceQuestionId": 308935,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "title": null,
+      "type": 4,
+      "prompt": "6.",
+      "introductionText": "",
+      "contentText": "6.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">6.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 639473,
+        "correctAnswer": 639473,
+        "resultAnswer": {
+          "639473": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308936",
+      "sourceQuestionId": 308936,
+      "challengeId": 32362,
+      "classChallengeId": "83532",
+      "title": "II. Useful structures",
+      "type": 2,
+      "prompt": "II. Useful structures",
+      "introductionText": "Xem kĩ script và ghi lại ít nhất 10 từ vựng/ cấu trúc/ câu hay kèm nghĩa: Script",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "II. Useful structures",
+        "introduction": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">Xem kĩ script v&agrave; ghi lại &iacute;t nhất 10 từ vựng/ cấu tr&uacute;c/ c&acirc;u hay k&egrave;m nghĩa: <strong><a href=\"https://docs.google.com/document/d/1mRVE5i0AbsA35wcTVmcPcwUmtNlmLFeYgWt8akLrevo/edit?usp=sharing\" data-cke-saved-href=\"https://docs.google.com/document/d/1mRVE5i0AbsA35wcTVmcPcwUmtNlmLFeYgWt8akLrevo/edit?usp=sharing\"><span style=\"color: #c0392b;\">Script</span></a></strong></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "hang out with friends: đi chơi với bạn\ninvite friends to dinner: mời bạn đến ăn tối\ngrow vegetables: trồng rau\nwatch TV programme: xem chương trình trên TV\nread magazines: đọc tạp chí\ndoing anything special: Làm bất kì điều gì đặc biệt\ngoing away: đi xa\nappointment: cuộc hẹn\nsome other time: lúc khác\nrollerblading: trượt ba tin",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308937",
+      "sourceQuestionId": 308937,
+      "challengeId": 32363,
+      "classChallengeId": "83533",
+      "title": "I. Grammar: Present Simple",
+      "type": 1,
+      "prompt": "I. Grammar: Present Simple",
+      "introductionText": "Exercise 1: Complete the sentences using the correct form of the verbs in brackets. (Hoàn thành các câu sau sử dụng dạng đúng của động từ cho sẵn)\n\nExample 1: Tanya always (listen) listens to podcasts when she is on a train.\n\nExample 2: My best friend (not / cook) doesn't cook very often because she is busy.",
+      "contentText": "",
+      "answerTemplateText": "1. On the weekend, my mom sometimes [input_0] (invite) her friends to dinner. She often [input_1](cook) delicious meals for them.\n\n2. My friends and I [input_2](play) computer games together every Sunday. After that, we often [input_3] (watch) TV in my living room.\n\n3. My aunt [input_4] (grow) vegetables in her garden so she [input_5] (not / need) to buy them in the supermarket.\n\n4. My sister rarely  [input_6] (read) newspapers. However, she  [input_7] (love) reading books.\n\n5. Julia [input_8] (not / take) a lot of photos when she [input_9] (hang) out with her friends.",
+      "explanationText": "1. invites - cooks\n\nCả 2 câu đều chia ở hiện tại đơn vì có từ \"often\" và \"sometimes\", cũng như chia động từ dựa vào chủ ngữ \"my mom\" / \"she\" (ngôi thứ 3 số ít) nên cần chia động từ\n\n2. play - watch\n\nCả 2 câu đều chia ở hiện tại đơn vì có từ \"every Sunday\" và \"often\", cũng như chia động từ dựa vào chủ ngữ \"my friends and I\" / \"we\" (số nhiều) nên không cần chia động từ\n\n3. grows - doesn't need\n\nCâu được chia động từ dựa vào chủ ngữ \"my aunt\" / \"she\" (ngôi thứ 3 số ít) nên cần chia động từ\n\n4. reads - loves\n\nCả 2 câu đều chia ở hiện tại đơn vì có từ \"rarely\" , cũng như chia động từ dựa vào chủ ngữ \"my sister\" / \"she\" (ngôi thứ 3 số ít) nên cần chia động từ\n\n5. doesn't take - hangs\n\nCâu được chia động từ dựa vào chủ ngữ \"Julia\" / \"she\" (ngôi thứ 3 số ít) nên cần chia động từ",
+      "rawHtml": {
+        "title": "I. Grammar: Present Simple",
+        "introduction": "<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-ExtraBold;\"><strong>Exercise 1: Complete the sentences using the correct form of the verbs in brackets.</strong></span><em><span style=\"font-family: Nunito-ExtraBold;\"> </span>(Ho&agrave;n th&agrave;nh c&aacute;c c&acirc;u sau sử dụng dạng đ&uacute;ng của động từ cho sẵn)</em></span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular;\"><em>Example 1: Tanya always (listen)&nbsp;<span style=\"color: #ba372a;\">listens</span>&nbsp;to podcasts when she is on a train.</em></span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular;\"><em>Example 2: My best friend (not / cook)&nbsp;<span style=\"color: #ba372a;\">doesn&rsquo;t cook</span> very often because she is busy.&nbsp;</em></span></p>\n<p dir=\"ltr\">&nbsp;</p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.56; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. On the weekend, my mom sometimes [input_0] (invite)</span><span style=\"font-size: 12pt; background-color: #ffffff; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">her friends to dinner. She often <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_1]</span></span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(cook) delicious meals for them.</span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.56; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. My friends and I <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_2]</span></span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(play)</span><span style=\"font-size: 12pt; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">computer games together every Sunday. After that, we often <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_3]</span></span><span style=\"background-color: transparent; font-size: 12pt; white-space-collapse: preserve;\"> (watch) TV in my living room.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.56; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. My aunt <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_4]</span> </span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(grow) vegetables in her garden so she <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_5]</span> </span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(not / need) to buy them in the supermarket. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.56; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. My sister rarely  <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_6]</span></span><span style=\"font-size: 12pt; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(read) newspapers. However, she </span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_7]</span></span><span style=\"font-size: 12pt; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(love) reading books. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.56; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. Julia <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_8]</span></span><span style=\"font-size: 12pt; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(not / take) a lot of photos when she <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_9]</span> </span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(hang) out with her friends.</span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span></span></p>\n<p><span id=\"docs-internal-guid-05f07981-7fff-47fe-d603-ad139df59fb5\" style=\"color: #000000;\"></span></p>",
+        "explain": "<h3 dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">invites - cooks&nbsp;</span></span></h3>\n<h3 dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Cả 2 c&acirc;u đều chia ở hiện tại đơn v&igrave; c&oacute; từ &ldquo;often\" v&agrave; &ldquo;sometimes\", cũng như chia động từ dựa v&agrave;o chủ ngữ &ldquo;my mom\" / &ldquo;she\" (ng&ocirc;i thứ 3 số &iacute;t) n&ecirc;n cần chia động từ</span></h3>\n<h3 dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">play - watch&nbsp;</span></span></h3>\n<h3 dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Cả 2 c&acirc;u đều chia ở hiện tại đơn v&igrave; c&oacute; từ &ldquo;every Sunday\" v&agrave; &ldquo;often\", cũng như chia động từ dựa v&agrave;o chủ ngữ &ldquo;my friends and I\" / &ldquo;we\" (số nhiều) n&ecirc;n kh&ocirc;ng cần chia động từ</span></h3>\n<h3 dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">grows - doesn't need</span></span></h3>\n<h3 dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&acirc;u được chia động từ dựa v&agrave;o chủ ngữ &ldquo;my aunt\" / &ldquo;she\" (ng&ocirc;i thứ 3 số &iacute;t) n&ecirc;n cần chia động từ</span></h3>\n<h3 dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">reads - loves</span></span></h3>\n<h3 dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Cả 2 c&acirc;u đều chia ở hiện tại đơn v&igrave; c&oacute; từ &ldquo;rarely&rdquo; , cũng như chia động từ dựa v&agrave;o chủ ngữ &ldquo;my sister\" / &ldquo;she\" (ng&ocirc;i thứ 3 số &iacute;t) n&ecirc;n cần chia động từ</span></h3>\n<h3 dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">doesn't take - hangs</span></span></h3>\n<h3 dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&acirc;u được chia động từ dựa v&agrave;o chủ ngữ &ldquo;Julia\" / &ldquo;she\" (ng&ocirc;i thứ 3 số &iacute;t) n&ecirc;n cần chia động từ</span></h3>\n<p><span id=\"docs-internal-guid-b79961e1-7fff-e03e-f438-29c999aff9f1\"></span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 10,
+        "totalCorrect": 8,
+        "userAnswer": {
+          "input_0": "invites",
+          "input_1": "cooks",
+          "input_2": "play",
+          "input_3": "watch",
+          "input_4": "grows",
+          "input_5": "does not need",
+          "input_6": "reads",
+          "input_7": "loves",
+          "input_8": "does not take",
+          "input_9": "hangs"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "invites"
+          ],
+          "input_1": [
+            "cooks"
+          ],
+          "input_2": [
+            "play"
+          ],
+          "input_3": [
+            "watch"
+          ],
+          "input_4": [
+            "grows"
+          ],
+          "input_5": [
+            "doesn't need"
+          ],
+          "input_6": [
+            "reads"
+          ],
+          "input_7": [
+            "loves"
+          ],
+          "input_8": [
+            "doesn't take"
+          ],
+          "input_9": [
+            "hangs"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": false,
+          "input_6": true,
+          "input_7": true,
+          "input_8": false,
+          "input_9": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308938",
+      "sourceQuestionId": 308938,
+      "challengeId": 32363,
+      "classChallengeId": "83533",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2: Complete the sentences using the correct forms of the verbs in the box below. (Hoàn thành các câu sau sử dụng dạng đúng của các động từ trong bảng dưới đây.)\n\nwatch\n\n |\n\ngo\n\n |\n\ntake\n\n |\n\nlisten\n\n |\n\nhang\n\n |",
+      "introductionText": "Exercise 2: Complete the sentences using the correct forms of the verbs in the box below. (Hoàn thành các câu sau sử dụng dạng đúng của các động từ trong bảng dưới đây.)\n\nwatch\n\n |\n\ngo\n\n |\n\ntake\n\n |\n\nlisten\n\n |\n\nhang\n\n |",
+      "contentText": "",
+      "answerTemplateText": "1. David seldom [input_0] out with his friends during the week. \n\n2. My friend [input_1] shopping with her family once a week. \n\n3. Joe always [input_2] movies with his family on Saturday night. \n\n4. My little brother never [input_3] photos when he travels. \n\n5. I [input_4] to my favorite podcast every Monday.",
+      "explanationText": "1. hangs\n\nCâu được chia động từ dựa vào chủ ngữ \"David\" (ngôi thứ 3 số ít) nên cần chia động từ\n\nhang out = đi ra ngoài chơi\n\n2. goes\n\nCâu được chia động từ dựa vào chủ ngữ \"my friend\" (ngôi thứ 3 số ít) nên cần chia động từ\n\ngo shopping = đi mua sắm\n\n3. watches\n\nCâu được chia động từ dựa vào chủ ngữ \"Joe\" (ngôi thứ 3 số ít) nên cần chia động từ\n\nwatch movies = xem phim\n\n4. takes\n\nCâu được chia động từ dựa vào chủ ngữ \"my little brother\" (ngôi thứ 3 số ít) nên cần chia động từ\n\ntake photos = chụp ảnh\n\n5. listen\n\nCâu được chia động từ dựa vào chủ ngữ \"I\" (ngôi thứ nhất) nên không cần chia động từ\n\nlisten to podcasts = nghe podcast",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-ExtraBold;\"><strong>Exercise 2: Complete the sentences using the correct forms of the verbs in the box below. </strong></span><em>(Ho&agrave;n th&agrave;nh c&aacute;c c&acirc;u sau sử dụng dạng đ&uacute;ng của c&aacute;c động từ trong bảng dưới đ&acirc;y.)</em></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.56; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; table-layout: fixed; width: 451.276pt; height: 10.2px;\"><colgroup><col /><col /><col /><col /><col /></colgroup>\n<tbody>\n<tr style=\"height: 10.2px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 10.2px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">watch</span></strong></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 10.2px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">go</span></strong></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 10.2px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">take</span></strong></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 10.2px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">listen</span></strong></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 10.2px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">hang</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><span id=\"docs-internal-guid-8b101f0f-7fff-3b97-ceac-fc9b0b831d89\"></span></p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular;\">1. David seldom [input_0]</span><span style=\"font-family: Nunito-Regular;\"> out with his friends during the week. </span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular;\">2. My friend [input_1] </span><span style=\"font-family: Nunito-Regular;\">shopping with her family once a week. </span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular;\">3. Joe always [input_2]</span><span style=\"font-family: Nunito-Regular;\"> movies with his family on Saturday night. </span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular;\">4. My little brother never <span style=\"font-family: Nunito-Regular;\">[input_3]</span></span><span style=\"font-family: Nunito-Regular;\"> photos when he travels. </span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular;\">5. I <span style=\"font-family: Nunito-Regular;\">[input_4]</span> </span><span style=\"font-family: Nunito-Regular;\">to my favorite podcast every Monday.</span></p>",
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">hangs</span></span></p>\n<h3 dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&acirc;u được chia động từ dựa v&agrave;o chủ ngữ &ldquo;David\" (ng&ocirc;i thứ 3 số &iacute;t) n&ecirc;n cần chia động từ</span></h3>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">hang out = đi ra ngo&agrave;i chơi</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">goes</span></span></p>\n<h3 dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&acirc;u được chia động từ dựa v&agrave;o chủ ngữ &ldquo;my friend\" (ng&ocirc;i thứ 3 số &iacute;t) n&ecirc;n cần chia động từ</span></h3>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">go shopping = đi mua sắm</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">watches</span></span></p>\n<h3 dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&acirc;u được chia động từ dựa v&agrave;o chủ ngữ &ldquo;Joe\" (ng&ocirc;i thứ 3 số &iacute;t) n&ecirc;n cần chia động từ</span></h3>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">watch movies = xem phim</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">takes</span></span></p>\n<h3 dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&acirc;u được chia động từ dựa v&agrave;o chủ ngữ &ldquo;my little brother\" (ng&ocirc;i thứ 3 số &iacute;t) n&ecirc;n cần chia động từ</span></h3>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">take photos = chụp ảnh</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">listen</span></span></p>\n<h3 dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&acirc;u được chia động từ dựa v&agrave;o chủ ngữ &ldquo;I\" (ng&ocirc;i thứ nhất) n&ecirc;n kh&ocirc;ng cần chia động từ</span></h3>\n<h3 dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">listen to podcasts = nghe podcast</span></h3>\n<p><span id=\"docs-internal-guid-c20bc436-7fff-2939-35d7-534bb53b9d8f\"></span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 5,
+        "totalCorrect": 5,
+        "userAnswer": {
+          "input_0": "hangs",
+          "input_1": "goes",
+          "input_2": "watches",
+          "input_3": "takes",
+          "input_4": "listen"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "hangs"
+          ],
+          "input_1": [
+            "goes"
+          ],
+          "input_2": [
+            "watches"
+          ],
+          "input_3": [
+            "takes"
+          ],
+          "input_4": [
+            "listen"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308939",
+      "sourceQuestionId": 308939,
+      "challengeId": 32363,
+      "classChallengeId": "83533",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 3: Write the questions for the answers by using the correct order of words in the brackets. (Viết các câu hỏi cho câu trả lời bằng cách dùng đúng thứ tự các từ được cho trong ngoặc đơn)\n\nExample \n\n(What / your / do / often / do / you / in / free time?) → What do you often do in your free time?\n\nI often go swimming in my free time.",
+      "introductionText": "",
+      "contentText": "Exercise 3: Write the questions for the answers by using the correct order of words in the brackets. (Viết các câu hỏi cho câu trả lời bằng cách dùng đúng thứ tự các từ được cho trong ngoặc đơn)\n\nExample \n\n(What / your / do / often / do / you / in / free time?) → What do you often do in your free time?\n\nI often go swimming in my free time.",
+      "answerTemplateText": "1. [input_0] (What / you / like / do / to / with / do / friends? / your)\n\nI like to go for coffee with my friends.\n\n2.  [input_1] (What / your family members / do / free time? / often / do / their / in) \n\nMy family usually go to a movie and watch the latest movies. They like action movies. \n\n3. [input_2] (Do / often / go / you / fishing? ) \n\nI go fishing once or twice per week with my grandfather. \n\n4.[input_3]  (What / favorite / your / computer game? / is) \n\nMy favorite computer game is League of Legends, but now I'm busy with work so I rarely play it. \n\n5. [input_4] (How often / you / do / chat / your friends / with / online?)\n\nI chat to my friends every day on the Internet, and we usually talk about movies and music.",
+      "explanationText": "Bài tập này đã có những từ gợi ý theo đúng trật tự. HV cần dựa vào các chủ ngữ có trong câu trả lời để suy ra chủ ngữ trong câu hỏi. Lựa chọn trợ động từ phù hợp với chủ ngữ.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-ExtraBold;\"><strong>Exercise 3: Write the questions for the answers by using the correct order of words in the brackets</strong>.</span> (Viết các câu hỏi cho câu trả lời bằng cách dùng đúng thứ tự các từ được cho trong ngoặc đơn)</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">Example </span></p>\n<p><span style=\"font-family: Nunito-Regular;\">(What / your / do / often / do / you / in / free time?) → <span style=\"color: #ba372a;\">What do you often do in your free time?</span></span></p>\n<p><span style=\"font-family: Nunito-Regular;\">I often go swimming in my free time. </span></p>",
+        "answerTemplate": "<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular;\">1. [input_0]</span><span style=\"font-family: Nunito-Regular;\"> (What / you / like / do / to / with / do / friends? / your)</span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular;\">I like to go for coffee with my friends.</span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular;\">2.  <span style=\"font-family: Nunito-Regular;\">[input_1]</span></span><span style=\"font-family: Nunito-Regular;\"> (What / your family members / do / free time? / often / do / their / in) </span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular;\">My family usually go to a movie and watch the latest movies. They like action movies. </span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular;\">3. [input_2] (Do / often / go / you / fishing? ) </span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular;\">I go fishing once or twice per week with my grandfather. </span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular;\">4.[input_3]</span><span style=\"font-family: Nunito-Regular;\">  (What / favorite / your / computer game? / is) </span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular;\">My favorite computer game is League of Legends, but now I'm busy with work so I rarely play it. </span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular;\">5. <span style=\"font-family: Nunito-Regular;\">[input_4]</span> </span><span style=\"font-family: Nunito-Regular;\">(How often / you / do / chat / your friends / with / online?)</span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular;\">I chat to my friends every day on the Internet, and we usually talk about movies and music.</span></p>\n<p> </p>",
+        "explain": "<p style=\"line-height: 1.5;\"><span id=\"docs-internal-guid-f6fffcfa-7fff-98f4-3487-766a254150ea\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Bài tập này đã có những từ gợi ý theo đúng trật tự. HV cần dựa vào các chủ ngữ có trong câu trả lời để suy ra chủ ngữ trong câu hỏi. Lựa chọn trợ động từ phù hợp với chủ ngữ. </span></span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 5,
+        "totalCorrect": 4,
+        "userAnswer": {
+          "input_0": "What do you like to do with your friends?",
+          "input_1": "What do your family members often do in their free time?",
+          "input_2": "Do you go often fishing?",
+          "input_3": "What is your favorite computer game?",
+          "input_4": "How often do you chat with your friends online?"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "What do you like to do with your friends?"
+          ],
+          "input_1": [
+            "What do your family members often do in their free time?"
+          ],
+          "input_2": [
+            "Do you often go fishing?"
+          ],
+          "input_3": [
+            "What is your favorite computer game?"
+          ],
+          "input_4": [
+            "How often do you chat with your friends online?"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": false,
+          "input_3": true,
+          "input_4": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308940",
+      "sourceQuestionId": 308940,
+      "challengeId": 32363,
+      "classChallengeId": "83533",
+      "title": "II. Grammar: Present continuous",
+      "type": 1,
+      "prompt": "II. Grammar: Present continuous",
+      "introductionText": "Exercise 1: Complete the sentences using the present continuous tense of the verbs in the brackets.  (Hoàn thành các câu sau sử dụng thì hiện tại tiếp diễn của động từ cho sẵn trong ngoặc đơn.)\n\nExample: I am meeting (meet) my sister for dinner tonight.",
+      "contentText": "",
+      "answerTemplateText": "1. We [input_0] (go) to the movies tomorrow.\n\n2. Anne [input_1] (have) a party on Friday night.\n\n3. Ken [input_2] (play) tennis with his classmates at the moment.\n\n4. I [input_3] (not work) this weekend, so we can go out for dinner on Saturday.\n\n5. Chloe[input_4] (not / sing) on stage right now, she [input_5] (play) an instrument.",
+      "explanationText": "1. are going\n\nChủ ngữ 'We' ngôi thứ nhất số nhiều nên cần đi cùng 'are'. Động từ ở dạng tiếp diễn &rarr; are going\n\n2. is having\n\nChủ ngữ \"Anne\" ngôi thứ ba số ít nên cần đi cùng 'is'. Động từ ở dạng tiếp diễn &rarr; is having\n\n3. is playing\n\nChủ ngữ 'Ken' ngôi thứ ba số ít nên cần đi cùng \"is\". Động từ ở dạng tiếp diễn &rarr; is playing\n\n4. am not working\n\nChủ ngữ 'I' là nên cần đi cùng 'am'. Động từ ở dạng tiếp diễn &rarr; am not working\n\n5. is not singing - is playing\n\nChủ ngữ \"Chloe\" / \"She\" là ngôi thứ ba số ít cần đi cùng 'is'. Động từ ở dạng tiếp diễn &rarr; is not singing - is playing",
+      "rawHtml": {
+        "title": "II. Grammar: Present continuous",
+        "introduction": "<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\"><strong><span style=\"font-family: Nunito-ExtraBold;\">Exercise 1: Complete the sentences using the present continuous tense of the verbs in the brackets.&nbsp;</span> </strong><em>(Ho&agrave;n th&agrave;nh c&aacute;c c&acirc;u sau sử dụng th&igrave; hiện tại tiếp diễn của động từ cho sẵn trong ngoặc đơn.)</em></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><em><span style=\"font-family: Nunito-Regular;\">Example: I <span style=\"color: #ba372a;\">am meeting</span> (meet) my sister for dinner tonight.&nbsp;</span></em></p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. We <span style=\"white-space-collapse: preserve;\">[input_0]</span></span><span style=\"white-space-collapse: preserve;\"> (go) to the movies tomorrow. </span></span></p>\n<p dir=\"ltr\" style=\"background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. Anne [input_1] (have) a party on Friday night. </span></p>\n<p dir=\"ltr\" style=\"background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. Ken <span style=\"white-space-collapse: preserve;\">[input_2]</span> </span><span style=\"white-space-collapse: preserve;\">(play) tennis with his classmates at the moment. </span></span></p>\n<p dir=\"ltr\" style=\"background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. I <span style=\"white-space-collapse: preserve;\">[input_3]</span> </span><span style=\"white-space-collapse: preserve;\">(not work) this weekend, so we can go out for dinner on Saturday.</span></span></p>\n<p dir=\"ltr\" style=\"background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. Chloe<span style=\"white-space-collapse: preserve;\">[input_4]</span></span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> (not / sing) on stage right now, she <span style=\"white-space-collapse: preserve;\">[input_5]</span> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(play) an instrument. </span></span></p>\n<p style=\"line-height: 1.5;\"><span id=\"docs-internal-guid-8371d97d-7fff-31ef-682f-4a94e97ae85d\" style=\"color: #000000; font-family: Nunito-Regular;\"></span></p>",
+        "explain": "<h3 dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">are going</span></span></h3>\n<h3 dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Chủ ngữ &lsquo;We&rsquo; ng&ocirc;i thứ nhất số nhiều n&ecirc;n cần đi c&ugrave;ng &lsquo;are&rsquo;. Động từ ở dạng tiếp diễn &rarr; are going</span></h3>\n<h3 dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">is having</span></span></h3>\n<h3 dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Chủ ngữ &ldquo;Anne\" ng&ocirc;i thứ ba số &iacute;t n&ecirc;n cần đi c&ugrave;ng &lsquo;is&rsquo;. Động từ ở dạng tiếp diễn &rarr; is having</span></h3>\n<h3 dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">is playing</span></span></h3>\n<h3 dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Chủ ngữ &lsquo;Ken&rsquo; ng&ocirc;i thứ ba số &iacute;t n&ecirc;n cần đi c&ugrave;ng &ldquo;is\". Động từ ở dạng tiếp diễn &rarr; is playing</span></h3>\n<h3 dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">am not working</span></span></h3>\n<h3 dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Chủ ngữ &lsquo;I&rsquo; l&agrave; n&ecirc;n cần đi c&ugrave;ng &lsquo;am&rsquo;. Động từ ở dạng tiếp diễn &rarr; am not working</span></h3>\n<h3 dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">is not singing - is playing</span></span></h3>\n<h3 dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Chủ ngữ &ldquo;Chloe&rdquo; / &rdquo;She\" l&agrave; ng&ocirc;i thứ ba số &iacute;t cần đi c&ugrave;ng &lsquo;is&rsquo;. Động từ ở dạng tiếp diễn &rarr; is not singing - is playing</span></h3>\n<p><span id=\"docs-internal-guid-0a4f2d44-7fff-1b10-4fe5-2fea6b00d2a5\" style=\"font-family: Nunito-Regular;\"></span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 6,
+        "totalCorrect": 6,
+        "userAnswer": {
+          "input_0": "are going",
+          "input_1": "is having",
+          "input_2": "is playing",
+          "input_3": "am not working",
+          "input_4": "is not singing",
+          "input_5": "is playing"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "are going"
+          ],
+          "input_1": [
+            "is having",
+            "'s having"
+          ],
+          "input_2": [
+            "is playing",
+            "'s playing"
+          ],
+          "input_3": [
+            "am not working",
+            "'m not working"
+          ],
+          "input_4": [
+            "is not singing",
+            " isn't singing"
+          ],
+          "input_5": [
+            "is playing",
+            "'s playing"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308941",
+      "sourceQuestionId": 308941,
+      "challengeId": 32363,
+      "classChallengeId": "83533",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2: Complete the following sentences with either 1) the present simple form of the verb, or 2) the present continuous form of the verb. (Hoàn thành các câu sau, sử dụng thì hiện tại đơn hoặc hiện tại tiếp diễn)\n\nExample: My mom can't come to the phone right now because she is gardening (she / garden) in the backyard.",
+      "introductionText": "",
+      "contentText": "Exercise 2: Complete the following sentences with either 1) the present simple form of the verb, or 2) the present continuous form of the verb. (Hoàn thành các câu sau, sử dụng thì hiện tại đơn hoặc hiện tại tiếp diễn)\n\nExample: My mom can't come to the phone right now because she is gardening (she / garden) in the backyard.",
+      "answerTemplateText": "1. [input_0] (you / come) to the party tonight?\n\n2. [input_1] (we / go) to the beach every Thursday evening. \n\n3. [input_2] (My friends and I / go) camping together this weekend. \n\n4. [input_3] (dad / watch) the game in the living room right now? \n\n5. [input_4](the children / not / go swimming) every day. \n\n6. [input_5] (my mom / like) traveling during summer. \n\n7. It's a date! Jim and I [input_6] (Jim and I / have) a picnic in the park this Sunday. \n\n8. [input_7] (Sophia / cook) in the kitchen right now and it smells so good!",
+      "explanationText": "1. Are you coming\n\nCó dấu hiệu 'tonight' (tối nay). Người nói có ý hỏi nhân vật 'you' có định đến vào tối nay không (dự định tương lai) &rarr; hiện tại tiếp diễn (chủ ngữ 'you' nên cần đi cùng 'are')\n\n2. We go\n\nCó dấu hiệu \"every Thursday evening\", ý nói hoạt động đi biển là hoạt động xảy ra có tính lặp lại mỗi tối thứ 5. &rarr; hiện tại đơn (chủ ngữ 'we' nên động từ để nguyên thể \"go\")\n\n3. My friends and I are going camping\n\nCó dấu hiệu \"this weekend\", ý nói hoạt động đi biển là hoạt động xảy ra trong tương lai gần. &rarr; hiện tại tiếp diễn (chủ ngữ 'my friends and I' số nhiều nên động từ to be là \"are\")\n\n4. Is dad watching\n\nCó dấu hiệu 'now' thể hiện nhân vật đang chơi golf ngay tại thời điểm nói  &rarr; hiện tại tiếp diễn (chủ ngữ 'Dad' nên cần đi cùng 'is')\n\n5. The children do not / don't go swimming\n\nCó dấu hiệu 'every day' thể hiện nhân vật đang làm hành động này thường xuyên &rarr; hiện tại đơn (chủ ngữ 'the children' số nhiều nên cần đi cùng 'am')\n\n6. My mom likes\n\nCó dấu hiệu \"during summer\" thể hiện nhân vật đang làm hành động này mỗi mùa hè &rarr; hiện tại đơn (chủ ngữ \"my mom\" số ít nên cần đi chia động từ thành \"likes\")\n\n7. Jim and I are having\n\nCó dấu hiệu \"this Sunday\", ý nói hoạt động đi biển là hoạt động xảy ra trong tương lai gần. &rarr; hiện tại tiếp diễn (chủ ngữ 'Jim and I' số nhiều nên động từ to be là \"are\")\n\n8. Sophia is cooking\n\nCó dấu hiệu 'now' thể hiện nhân vật đang nấu ăn ngay tại thời điểm nói  &rarr; hiện tại tiếp diễn (chủ ngữ \"Sophia\" nên cần đi cùng 'is')",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\"><strong><span style=\"font-family: Nunito-ExtraBold;\">Exercise 2: Complete the following sentences with either 1) the present simple form of the verb, or 2) the present continuous form of the verb.</span><em> </em></strong><em>(Ho&agrave;n th&agrave;nh c&aacute;c c&acirc;u sau, sử dụng th&igrave; hiện tại đơn hoặc hiện tại tiếp diễn)</em></span></p>\n<p><span style=\"font-family: Nunito-Regular;\"><em>Example: My mom can&rsquo;t come to the phone right now because <span style=\"color: #ba372a;\">she is gardening</span> (she / garden) in the backyard.&nbsp;</em></span></p>\n<p>&nbsp;</p>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">1. [input_0] (you / come) to the party tonight?</span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">2. [input_1] (we / go) to the beach every Thursday evening. </span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">3. [input_2] (My friends and I / go) camping together this weekend. </span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">4. [input_3] (dad / watch) the game in the living room right now? </span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">5. [input_4](the children / not / go swimming) every day. </span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">6. [input_5] (my mom / like) traveling during summer. </span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">7. It's a date! Jim and I [input_6] (Jim and I / have) a picnic in the park this Sunday. </span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">8. [input_7] (Sophia / cook) in the kitchen right now and it smells so good! </span></p>\n<p> </p>",
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Are you coming</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&oacute; dấu hiệu &lsquo;tonight&rsquo; (tối nay). Người n&oacute;i c&oacute; &yacute; hỏi nh&acirc;n vật &lsquo;you&rsquo; c&oacute; định đến v&agrave;o tối nay kh&ocirc;ng (dự định tương lai) &rarr; hiện tại tiếp diễn (chủ ngữ &lsquo;you&rsquo; n&ecirc;n cần đi c&ugrave;ng &lsquo;are&rsquo;)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.</span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> We go</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&oacute; dấu hiệu &ldquo;every Thursday evening\", &yacute; n&oacute;i hoạt động đi biển l&agrave; hoạt động xảy ra c&oacute; t&iacute;nh lặp lại mỗi tối thứ 5. &rarr; hiện tại đơn (chủ ngữ &lsquo;we&rsquo; n&ecirc;n động từ để nguy&ecirc;n thể &ldquo;go\")</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">My friends and I are going camping</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&oacute; dấu hiệu &ldquo;this weekend\", &yacute; n&oacute;i hoạt động đi biển l&agrave; hoạt động xảy ra trong tương lai gần. &rarr; hiện tại tiếp diễn (chủ ngữ &lsquo;my friends and I&rsquo; số nhiều n&ecirc;n động từ to be l&agrave; &ldquo;are\")</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Is dad watching</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&oacute; dấu hiệu &lsquo;now&rsquo; thể hiện nh&acirc;n vật đang chơi golf ngay tại thời điểm n&oacute;i&nbsp; &rarr; hiện tại tiếp diễn (chủ ngữ &lsquo;Dad&rsquo; n&ecirc;n cần đi c&ugrave;ng &lsquo;is&rsquo;)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The children do not / don't go swimming</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&oacute; dấu hiệu &lsquo;every day&rsquo; thể hiện nh&acirc;n vật đang l&agrave;m h&agrave;nh động n&agrave;y thường xuy&ecirc;n &rarr; hiện tại đơn (chủ ngữ &lsquo;the children&rsquo; số nhiều n&ecirc;n cần đi c&ugrave;ng &lsquo;am&rsquo;)&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6.</span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> My mom likes</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&oacute; dấu hiệu &ldquo;during summer\" thể hiện nh&acirc;n vật đang l&agrave;m h&agrave;nh động n&agrave;y mỗi m&ugrave;a h&egrave; &rarr; hiện tại đơn (chủ ngữ &ldquo;my mom\" số &iacute;t n&ecirc;n cần đi chia động từ th&agrave;nh &ldquo;likes\")&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Jim and I are having</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&oacute; dấu hiệu &ldquo;this Sunday\", &yacute; n&oacute;i hoạt động đi biển l&agrave; hoạt động xảy ra trong tương lai gần. &rarr; hiện tại tiếp diễn (chủ ngữ &lsquo;Jim and I&rsquo; số nhiều n&ecirc;n động từ to be l&agrave; &ldquo;are\")</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sophia is cooking</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&oacute; dấu hiệu &lsquo;now&rsquo; thể hiện nh&acirc;n vật đang nấu ăn ngay tại thời điểm n&oacute;i&nbsp; &rarr; hiện tại tiếp diễn (chủ ngữ &ldquo;Sophia\" n&ecirc;n cần đi c&ugrave;ng &lsquo;is&rsquo;)</span></p>\n<p><span id=\"docs-internal-guid-4299352f-7fff-ca22-1ae0-80d51ecc7145\"></span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 8,
+        "totalCorrect": 5,
+        "userAnswer": {
+          "input_0": "Are you coming",
+          "input_1": "We are going",
+          "input_2": "My friends and I are going",
+          "input_3": "Is dad watching",
+          "input_4": "The children are not go swimming",
+          "input_5": "My mom is liking",
+          "input_6": "are having",
+          "input_7": "Sophia is cooking"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "Are you coming"
+          ],
+          "input_1": [
+            "We go"
+          ],
+          "input_2": [
+            "My friends and I are going"
+          ],
+          "input_3": [
+            "Is dad watching"
+          ],
+          "input_4": [
+            "The children do not",
+            "The children don't go swimming"
+          ],
+          "input_5": [
+            "My mom likes"
+          ],
+          "input_6": [
+            "are having"
+          ],
+          "input_7": [
+            "Sophia is cooking",
+            "Sophia's cooking"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": false,
+          "input_2": true,
+          "input_3": true,
+          "input_4": false,
+          "input_5": false,
+          "input_6": true,
+          "input_7": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308942",
+      "sourceQuestionId": 308942,
+      "challengeId": 32363,
+      "classChallengeId": "83533",
+      "title": "III. SPEAKING",
+      "type": 2,
+      "prompt": "III. SPEAKING",
+      "introductionText": "",
+      "contentText": "Chuẩn bị câu trả lời cho các câu sau, sử dụng các từ vựng, cấu trúc, câu học được phía trên và từ bài Listening.\n\nXem thêm phần gợi ý trả lời: Gợi ý\n\n1. What do you often do in your free time?\n\n2. What do your family members often do in their free time?\n\n3. When you have friends round, what do you like to do?\n\n4. Do you like reading books? What do you like to read most?\n\n5. How often do you chat to your friends online?\n\n6. Do you like listening to music? What kinds of music do you often listen to?\n\n7. Do you often play games? What is your favorite computer game?\n\nSau khi được GV hướng dẫn, viết câu trả lời đầy đủ cho từng câu hỏi vào file google docs và nộp lại.\n\nGV feedback xong thì học thuộc lòng câu trả lời để tiếp tục thực hành trong các buổi học và phụ đạo tiếp theo.\n\nLink google docs (mở quyền nhận xét cho GV)",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "III. SPEAKING",
+        "introduction": null,
+        "content": "<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"box-sizing: border-box; border-radius: 0px !important; color: #c0392b;\"><strong style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">&nbsp;</span></span></strong></span><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">Chuẩn bị c&acirc;u trả lời cho c&aacute;c c&acirc;u sau, sử dụng c&aacute;c từ vựng, cấu tr&uacute;c, c&acirc;u học được ph&iacute;a tr&ecirc;n v&agrave; từ b&agrave;i Listening.</strong></span></span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">Xem th&ecirc;m phần gợi &yacute; trả lời:</strong>&nbsp;<a style=\"box-sizing: border-box; background-color: transparent; color: #0d638f; text-decoration-line: none; outline: 0px; border-radius: 0px !important; text-shadow: none !important;\" href=\"https://docs.google.com/document/d/1mw4A-3sZcb35QHa0m47MCvEYv5WE2GKJ/edit?usp=sharing&amp;ouid=116087920410815633677&amp;rtpof=true&amp;sd=true\" target=\"_blank\" rel=\"noopener\">Gợi &yacute;</a></span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">1. What do you often do in your free time?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">2. What do your family members often do in their free time?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">3. When you have friends round, what do you like to do?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">4. Do you like reading books? What do you like to read most?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">5. How often do you chat to your friends online?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">6. Do you like listening to music? What kinds of music do you often listen to?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">7. Do you often play games? What is your favorite computer game?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">Sau khi được GV hướng dẫn, viết c&acirc;u trả lời đầy đủ cho từng c&acirc;u hỏi v&agrave;o file google docs v&agrave; nộp lại.</strong></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">GV feedback xong th&igrave; học thuộc l&ograve;ng c&acirc;u trả lời để tiếp tục thực h&agrave;nh trong c&aacute;c buổi học v&agrave; phụ đạo tiếp theo.</strong></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important; color: #c0392b;\"><strong style=\"box-sizing: border-box;\">Link google docs (mở quyền nhận x&eacute;t cho GV)</strong></span></span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "https://docs.google.com/document/d/16-79UHqCHKFnwnS3t505z7kl_1KTD7k4ZLFYMrrvOts/edit?usp=sharing",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-308943",
+      "sourceQuestionId": 308943,
+      "challengeId": 32363,
+      "classChallengeId": "83533",
+      "title": null,
+      "type": 2,
+      "prompt": "Quay video trả lời các câu hỏi (Học viên học thuộc câu trả lời đã soạn rồi tự nói, không đọc script):\n\n(HV tập trả lời tất cả các trường hợp có trong câu hỏi. VD: What does your father/ mother do? => Trả lời cả trường hợp father và mother)\n\nFAMILY\n\n1.    Do you live in a big family? How many members are there in your family?\n\n2.    What does your father/ mother do?\n\n3.    What does your father/ mother look like?\n\n4.    What kinds of clothes does your father/ mother often wear?\n\n5.    What is your father/ mother like?\n\n6.    What does your father/ mother like?\n\nHOUSE\n\n1. What is your house like? How many rooms are there in your house? / Do you live in a big house?\n\n2. What is your favorite room in your house? Why?\n\n3. Can you describe your bedroom / living room / kitchen?\n\nĐiền link video dưới đây:",
+      "introductionText": "Quay video trả lời các câu hỏi (Học viên học thuộc câu trả lời đã soạn rồi tự nói, không đọc script):\n\n(HV tập trả lời tất cả các trường hợp có trong câu hỏi. VD: What does your father/ mother do? => Trả lời cả trường hợp father và mother)\n\nFAMILY\n\n1.    Do you live in a big family? How many members are there in your family?\n\n2.    What does your father/ mother do?\n\n3.    What does your father/ mother look like?\n\n4.    What kinds of clothes does your father/ mother often wear?\n\n5.    What is your father/ mother like?\n\n6.    What does your father/ mother like?\n\nHOUSE\n\n1. What is your house like? How many rooms are there in your house? / Do you live in a big house?\n\n2. What is your favorite room in your house? Why?\n\n3. Can you describe your bedroom / living room / kitchen?\n\nĐiền link video dưới đây:",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p class=\"MsoNormal\" style=\"line-height: 2;\"> </p>\n<p class=\"MsoNormal\" style=\"line-height: 2;\"><span style=\"background-color: #fbeeb8;\"><strong><span style=\"font-family: Nunito-Regular;\">Quay video trả lời các câu hỏi (Học viên học thuộc câu trả lời đã soạn rồi tự nói, không đọc script):</span></strong></span></p>\n<p class=\"MsoNormal\" style=\"line-height: 2;\"><span style=\"font-family: Nunito-Regular;\"><em>(HV tập trả lời tất cả các trường hợp có trong câu hỏi. VD: What does your father/ mother do? =&gt; Trả lời cả trường hợp father và mother)</em> </span></p>\n<p class=\"MsoNormal\" style=\"line-height: 2;\"><span style=\"font-family: Nunito-Regular;\"><strong>FAMILY</strong></span></p>\n<p style=\"line-height: 2;\"><span style=\"font-family: Nunito-Regular;\"><!-- [if !supportLists]-->1.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal;\">    </span><!--[endif]-->Do you live in a big family? How many members are there in your family?</span></p>\n<p style=\"line-height: 2;\"><span style=\"font-family: Nunito-Regular;\"><!-- [if !supportLists]-->2.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal;\">    </span><!--[endif]-->What does your father/ mother do?</span></p>\n<p style=\"line-height: 2;\"><span style=\"font-family: Nunito-Regular;\"><!-- [if !supportLists]-->3.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal;\">    </span><!--[endif]-->What does your father/ mother look like?</span></p>\n<p style=\"line-height: 2;\"><span style=\"font-family: Nunito-Regular;\"><!-- [if !supportLists]-->4.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal;\">    </span><!--[endif]-->What kinds of clothes does your father/ mother often wear?</span></p>\n<p style=\"line-height: 2;\"><span style=\"font-family: Nunito-Regular;\"><!-- [if !supportLists]-->5.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal;\">    </span><!--[endif]-->What is your father/ mother like?</span></p>\n<p style=\"line-height: 2;\"><span style=\"font-family: Nunito-Regular;\"><!-- [if !supportLists]-->6.<span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 7pt; line-height: normal;\">    </span><!--[endif]-->What does your father/ mother like?</span></p>\n<p class=\"MsoNormal\" style=\"line-height: 2;\"><span style=\"font-family: Nunito-Regular;\"><strong>HOUSE</strong></span></p>\n<p style=\"line-height: 2;\"><span style=\"font-family: Nunito-Regular;\">1. What is your house like? How many rooms are there in your house? / Do you live in a big house?</span></p>\n<p style=\"line-height: 2;\"><span style=\"font-family: Nunito-Regular;\">2. What is your favorite room in your house? Why?</span></p>\n<p style=\"line-height: 2;\"><span style=\"font-family: Nunito-Regular;\">3. Can you describe your bedroom / living room / kitchen?</span></p>\n<p class=\"MsoNormal\" style=\"line-height: 2;\"><span style=\"color: #ba372a;\"><strong><span style=\"font-family: Nunito-Regular;\">Điền link video dưới đây: </span></strong></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "https://drive.google.com/file/d/1kmoJSTyhnJ8cgMdzJ8vVuw8lgfl5fTym/view?usp=sharing",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    }
+  ]
+}

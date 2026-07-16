@@ -1,0 +1,637 @@
+{
+  "lesson": 13,
+  "lessonKey": "lesson-13",
+  "items": [
+    {
+      "challengeId": 32728,
+      "classChallengeId": "83881",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 57,
+      "submittedAt": "2026-07-11 14:52:29",
+      "markedAt": "2026-07-13 17:48:24",
+      "commentText": "Hi Khánh, em làm bài này tốt nhé. Tuy nhiên em nhớ chú ý deadline để nộp bài đúng giờ hơn nha.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "313157": {
+          "total_question": 12,
+          "total_correct_result_answer": 8,
+          "user_answer": {
+            "input_0": "had",
+            "input_1": "walked to work",
+            "input_2": "took her about half an hour",
+            "input_3": "started work",
+            "input_4": "never had",
+            "input_5": "finished work",
+            "input_6": "was always",
+            "input_7": "she got",
+            "input_8": "was usually cooked",
+            "input_9": "didn't go",
+            "input_10": "went to bed",
+            "input_11": "always slept"
+          },
+          "correct_answer": {
+            "input_0": [
+              "had"
+            ],
+            "input_1": [
+              "walked to work"
+            ],
+            "input_2": [
+              "took her half an hour",
+              "took her about half an hour"
+            ],
+            "input_3": [
+              "started work"
+            ],
+            "input_4": [
+              "didn't have",
+              "did not have"
+            ],
+            "input_5": [
+              "finished work"
+            ],
+            "input_6": [
+              "was"
+            ],
+            "input_7": [
+              "she was",
+              "she got"
+            ],
+            "input_8": [
+              "cooked"
+            ],
+            "input_9": [
+              "didn't go",
+              "did not go"
+            ],
+            "input_10": [
+              "went to bed"
+            ],
+            "input_11": [
+              "slept"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": false,
+            "input_5": true,
+            "input_6": false,
+            "input_7": true,
+            "input_8": false,
+            "input_9": true,
+            "input_10": true,
+            "input_11": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 313157,
+          "challenge_id": 32728
+        },
+        "313158": {
+          "total_question": 9,
+          "total_correct_result_answer": 8,
+          "user_answer": {
+            "input_0": "had",
+            "input_1": "went",
+            "input_2": "rained",
+            "input_3": "tried",
+            "input_4": "broke",
+            "input_5": "was",
+            "input_6": "failed",
+            "input_7": "lost",
+            "input_8": "tried"
+          },
+          "correct_answer": {
+            "input_0": [
+              "had"
+            ],
+            "input_1": [
+              "went"
+            ],
+            "input_2": [
+              "rained"
+            ],
+            "input_3": [
+              "went"
+            ],
+            "input_4": [
+              "broke"
+            ],
+            "input_5": [
+              "was"
+            ],
+            "input_6": [
+              "failed"
+            ],
+            "input_7": [
+              "lost"
+            ],
+            "input_8": [
+              "tried"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": false,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 313158,
+          "challenge_id": 32728
+        },
+        "313159": {
+          "total_question": 5,
+          "total_correct_result_answer": 5,
+          "user_answer": {
+            "input_0": "did you travel",
+            "input_1": "did it take",
+            "input_2": "did you stay",
+            "input_3": "Was the weather",
+            "input_4": "Did you visit"
+          },
+          "correct_answer": {
+            "input_0": [
+              "did you travel",
+              "did you go"
+            ],
+            "input_1": [
+              "did it take",
+              "did it take you"
+            ],
+            "input_2": [
+              "did you stay"
+            ],
+            "input_3": [
+              "Was the weather"
+            ],
+            "input_4": [
+              "Did you go to",
+              "Did you see",
+              "Did you visit"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 313159,
+          "challenge_id": 32728
+        },
+        "313160": {
+          "total_question": 13,
+          "total_correct_result_answer": 13,
+          "user_answer": {
+            "input_0": "was",
+            "input_1": "spent",
+            "input_2": "didn't sleep",
+            "input_3": "swam",
+            "input_4": "learned",
+            "input_5": "didn't cost",
+            "input_6": "had",
+            "input_7": "took",
+            "input_8": "went",
+            "input_9": "enjoyed",
+            "input_10": "visited",
+            "input_11": "took",
+            "input_12": "felt"
+          },
+          "correct_answer": {
+            "input_0": [
+              "was"
+            ],
+            "input_1": [
+              "spent"
+            ],
+            "input_2": [
+              "didn't sleep",
+              "did not sleep"
+            ],
+            "input_3": [
+              "swam"
+            ],
+            "input_4": [
+              "learnt",
+              "learned"
+            ],
+            "input_5": [
+              "didn't cost",
+              "did not cost"
+            ],
+            "input_6": [
+              "had"
+            ],
+            "input_7": [
+              "took"
+            ],
+            "input_8": [
+              "went"
+            ],
+            "input_9": [
+              "enjoyed"
+            ],
+            "input_10": [
+              "visited"
+            ],
+            "input_11": [
+              "took"
+            ],
+            "input_12": [
+              "felt"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true,
+            "input_10": true,
+            "input_11": true,
+            "input_12": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 313160,
+          "challenge_id": 32728
+        },
+        "313161": {
+          "total_question": 15,
+          "total_correct_result_answer": 13,
+          "user_answer": {
+            "input_0": "was studying",
+            "input_1": "went",
+            "input_2": "were playing",
+            "input_3": "started",
+            "input_4": "watched",
+            "input_5": "was cooking",
+            "input_6": "rang",
+            "input_7": "was reading",
+            "input_8": "arived",
+            "input_9": "were playing",
+            "input_10": "were preparing",
+            "input_11": "were working",
+            "input_12": "were traveling",
+            "input_13": "barked",
+            "input_14": "were having"
+          },
+          "correct_answer": {
+            "input_0": [
+              "was studying"
+            ],
+            "input_1": [
+              "went"
+            ],
+            "input_2": [
+              "were playing"
+            ],
+            "input_3": [
+              "started"
+            ],
+            "input_4": [
+              "watched"
+            ],
+            "input_5": [
+              "was cooking"
+            ],
+            "input_6": [
+              "rang"
+            ],
+            "input_7": [
+              "was reading"
+            ],
+            "input_8": [
+              "arrived"
+            ],
+            "input_9": [
+              "were playing"
+            ],
+            "input_10": [
+              "were preparing"
+            ],
+            "input_11": [
+              "were working"
+            ],
+            "input_12": [
+              "were traveling",
+              "were travelling"
+            ],
+            "input_13": [
+              "was barking"
+            ],
+            "input_14": [
+              "were having"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": false,
+            "input_9": true,
+            "input_10": true,
+            "input_11": true,
+            "input_12": true,
+            "input_13": false,
+            "input_14": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 313161,
+          "challenge_id": 32728
+        },
+        "313162": {
+          "total_question": 12,
+          "total_correct_result_answer": 10,
+          "user_answer": {
+            "input_0": "was shining",
+            "input_1": "was blowing",
+            "input_2": "was flying",
+            "input_3": "was going",
+            "input_4": "was windsurfing",
+            "input_5": "was doing",
+            "input_6": "were playing",
+            "input_7": "was diving",
+            "input_8": "finded",
+            "input_9": "was carrying",
+            "input_10": "was listening",
+            "input_11": "was walking"
+          },
+          "correct_answer": {
+            "input_0": [
+              "was shining"
+            ],
+            "input_1": [
+              "was blowing"
+            ],
+            "input_2": [
+              "was flying"
+            ],
+            "input_3": [
+              "was going"
+            ],
+            "input_4": [
+              "was windsurfing"
+            ],
+            "input_5": [
+              "was going"
+            ],
+            "input_6": [
+              "were playing"
+            ],
+            "input_7": [
+              "was diving"
+            ],
+            "input_8": [
+              "found"
+            ],
+            "input_9": [
+              "was carrying"
+            ],
+            "input_10": [
+              "was listening"
+            ],
+            "input_11": [
+              "was walking"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": false,
+            "input_6": true,
+            "input_7": true,
+            "input_8": false,
+            "input_9": true,
+            "input_10": true,
+            "input_11": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 313162,
+          "challenge_id": 32728
+        }
+      }
+    },
+    {
+      "challengeId": 32729,
+      "classChallengeId": "83882",
+      "statusMark": "graded",
+      "rate": 0,
+      "correctAnswer": 17,
+      "submittedAt": "2026-07-11 15:45:52",
+      "markedAt": "2026-07-15 18:43:28",
+      "commentText": "Hi Khánh, bài này cô check ra 96% AI nên cô sẽ không tick sao nhé. Nếu bài này em tự làm thì mình nhắn riêng cô nha.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "313163": {
+          "total_question": 5,
+          "total_correct_result_answer": 0,
+          "user_answer": {
+            "input_0": "He missed a train.",
+            "input_1": "He dropped a camera.",
+            "input_2": "He felt ill.",
+            "input_3": "She lost some money.",
+            "input_4": "She broke her leg."
+          },
+          "correct_answer": {
+            "input_0": [
+              "d"
+            ],
+            "input_1": [
+              "e"
+            ],
+            "input_2": [
+              "a"
+            ],
+            "input_3": [
+              "c"
+            ],
+            "input_4": [
+              "b"
+            ]
+          },
+          "result_answer": {
+            "input_0": false,
+            "input_1": false,
+            "input_2": false,
+            "input_3": false,
+            "input_4": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 313163,
+          "challenge_id": 32729
+        },
+        "313164": {
+          "total_question": 8,
+          "total_correct_result_answer": 7,
+          "user_answer": {
+            "input_0": "N",
+            "input_1": "Y",
+            "input_2": "Y",
+            "input_3": "Y",
+            "input_4": "N",
+            "input_5": "Y",
+            "input_6": "N",
+            "input_7": "Y"
+          },
+          "correct_answer": {
+            "input_0": [
+              "N"
+            ],
+            "input_1": [
+              "Y"
+            ],
+            "input_2": [
+              "Y"
+            ],
+            "input_3": [
+              "Y"
+            ],
+            "input_4": [
+              "N"
+            ],
+            "input_5": [
+              "N"
+            ],
+            "input_6": [
+              "N"
+            ],
+            "input_7": [
+              "Y"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": false,
+            "input_6": true,
+            "input_7": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 313164,
+          "challenge_id": 32729
+        },
+        "313165": {
+          "total_question": 8,
+          "total_correct_result_answer": 8,
+          "user_answer": {
+            "input_0": "terrible",
+            "input_1": "nice",
+            "input_2": "awful",
+            "input_3": "disappointing",
+            "input_4": "terrific",
+            "input_5": "clean",
+            "input_6": "fantastic",
+            "input_7": "short"
+          },
+          "correct_answer": {
+            "input_0": [
+              "terrible",
+              "b"
+            ],
+            "input_1": [
+              "nice",
+              "d"
+            ],
+            "input_2": [
+              "awful",
+              "f"
+            ],
+            "input_3": [
+              "c",
+              "disappointing"
+            ],
+            "input_4": [
+              "h",
+              "terrific"
+            ],
+            "input_5": [
+              "clean",
+              "e"
+            ],
+            "input_6": [
+              "fantastic",
+              "a"
+            ],
+            "input_7": [
+              "short",
+              "g"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 313165,
+          "challenge_id": 32729
+        },
+        "313166": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "go on holiday to + place : đi du lịch đến...\ngo with + someone : đi cùng ai\ngo by + means of transport : đi bằng phương tiện...\nThe journey took + time : chuyến đi mất... (thời gian)\nstay in a hotel : ở khách sạn\ngo to the beach : đi biển\nforget to + V : quên làm gì\nhave a great time : có khoảng thời gian tuyệt vời\ntake a photo of + someone : chụp ảnh ai\nfall off a bike and break a leg : ngã xe đạp và gãy chân",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 313166,
+          "challenge_id": 32729
+        },
+        "313167": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://docs.google.com/document/d/1Z0Hcp0WvL6ksoNA2lir4ExCJXflGnUiIm0DoSa_cDas/edit?tab=t.0",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 313167,
+          "challenge_id": 32729
+        }
+      }
+    }
+  ]
+}

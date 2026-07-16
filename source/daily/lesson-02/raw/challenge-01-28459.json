@@ -1,0 +1,825 @@
+{
+  "listItem": {
+    "id": "79762",
+    "challenge_id": 28459,
+    "class_id": "177286917873dop75b27mv",
+    "day": 2,
+    "deadline": "2026-06-11 12:30:00",
+    "challenge_title": "[PRE IELTS] LESSON 2 - CHALLENGE 1",
+    "challenge_note": "Vocabulary (get/got/got) | Pronunciation (Vowels)",
+    "challenge_status": 1,
+    "challenge_band": "161433861829325240c1g7",
+    "total_question": 18,
+    "classification": "dc",
+    "student_challenge": {
+      "id": 545924,
+      "class_challenge_id": 79762,
+      "class_id": "177286917873dop75b27mv",
+      "challenge_id": 28459,
+      "cts_id": "1780455880vwydc1i2ehir",
+      "rate": 1,
+      "comment": "<p>Hi Khánh, cô gửi nhận xét cho challenge của mình nha.</p>\r\n<p>Trước tiên, cô lưu ý là em cần đọc mỗi âm IPA 3 lần theo đúng yêu cầu của đề bài trước khi chuyển sang phần từ vựng. Bài sau em nhớ thực hiện đầy đủ nhé.</p>\r\n<p><strong>/ɔː/</strong><br />Em cần kéo dài âm hơn để ra đúng đặc trưng của âm /ɔː/. Hiện tại âm vẫn hơi ngắn nên chưa thể hiện rõ sự khác biệt với các nguyên âm khác.</p>\r\n<p><strong>/ɔɪ/</strong><br />Từ \"oil\" đang thiếu âm cuối /l/. Em cần kết thúc từ rõ hơn bằng cách đặt đầu lưỡi chạm nhẹ lợi trên để tạo đúng âm /l/.</p>\r\n<p><strong>/aʊ/</strong><br />Trong từ \"hour\", chữ \"h\" là âm câm nên em không cần phát âm âm /h/ ở đầu từ. Hãy bắt đầu trực tiếp bằng nguyên âm đôi /aʊ/.</p>\r\n<p><strong>/əʊ/</strong><br />Từ \"boat\" hiện chưa đọc đúng nguyên âm đôi /əʊ/. Em cần bắt đầu từ âm /ə/ rồi lướt nhẹ sang /ʊ/, tránh đọc thành nguyên âm đơn hoặc đọc quá ngắn.</p>\r\n<p><strong>/ɒ/, /ɜː/, /ə/, /eə/, /ɪə/, /ʊə/, /eɪ/, /aɪ/</strong><br />Các âm này em phát âm khá tốt, khẩu hình và cách đọc nhìn chung đã đúng. Em tiếp tục duy trì và luyện tập thường xuyên nhé.</p>\r\n<p>Em đọc kĩ nhận xét và luyện tập lại để mình ngày càng tiến bộ hơn nhé.</p>",
+      "url": null,
+      "redo_comment": null,
+      "cancel_comment": null,
+      "date_redo": null,
+      "status_mark": "graded",
+      "status_mark_date": "2026-06-11 13:03:08",
+      "flag_overdue": 0,
+      "flag_not_star": 0,
+      "flag_not_submit": 0,
+      "flag_late_redo": 0,
+      "flag_late_submit": 0,
+      "flag_status_mark": 0,
+      "updated_by": null,
+      "updated": "2026-06-11 13:03:08",
+      "created_by": "1779875378vawpfok6ii4u",
+      "created": "2026-06-10 23:27:19",
+      "correct_answer": 17,
+      "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+      "submitted_at": "2026-06-10 23:27:19",
+      "re_submitted_at": null,
+      "answers": [
+        {
+          "id": 7914489,
+          "question_id": 39166,
+          "choice_id": null,
+          "user_id": null,
+          "content": "https://drive.google.com/file/d/1nsVjeIxX7XHXZIMwmkNJaRS3gWRTmi_k/view?usp=sharing",
+          "student_challenge_id": 79762,
+          "index": 0,
+          "created_at": "2024-09-30 18:19:43",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        }
+      ],
+      "tab_switch_count": 0
+    }
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "79762",
+        "challenge_id": 28459,
+        "class_id": "177286917873dop75b27mv",
+        "day": 2,
+        "deadline": "2026-06-11 12:30:00",
+        "flag_status_mark": 1,
+        "flag_not_submit": 1,
+        "created": "2026-06-09 19:44:38",
+        "created_by": null,
+        "challenge": {
+          "id": "28459",
+          "title": "[PRE IELTS] LESSON 2 - CHALLENGE 1",
+          "note": "Vocabulary (get/got/got) | Pronunciation (Vowels)",
+          "day": "3",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "161433861829325240c1g7",
+          "created": "2026-06-09 19:44:37",
+          "updated": null,
+          "created_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+          "updated_by": null,
+          "total_question": 18,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 8048
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 545924,
+        "class_challenge_id": 79762,
+        "class_id": "177286917873dop75b27mv",
+        "challenge_id": 28459,
+        "cts_id": "1780455880vwydc1i2ehir",
+        "rate": 1,
+        "comment": "<p>Hi Khánh, cô gửi nhận xét cho challenge của mình nha.</p>\r\n<p>Trước tiên, cô lưu ý là em cần đọc mỗi âm IPA 3 lần theo đúng yêu cầu của đề bài trước khi chuyển sang phần từ vựng. Bài sau em nhớ thực hiện đầy đủ nhé.</p>\r\n<p><strong>/ɔː/</strong><br />Em cần kéo dài âm hơn để ra đúng đặc trưng của âm /ɔː/. Hiện tại âm vẫn hơi ngắn nên chưa thể hiện rõ sự khác biệt với các nguyên âm khác.</p>\r\n<p><strong>/ɔɪ/</strong><br />Từ \"oil\" đang thiếu âm cuối /l/. Em cần kết thúc từ rõ hơn bằng cách đặt đầu lưỡi chạm nhẹ lợi trên để tạo đúng âm /l/.</p>\r\n<p><strong>/aʊ/</strong><br />Trong từ \"hour\", chữ \"h\" là âm câm nên em không cần phát âm âm /h/ ở đầu từ. Hãy bắt đầu trực tiếp bằng nguyên âm đôi /aʊ/.</p>\r\n<p><strong>/əʊ/</strong><br />Từ \"boat\" hiện chưa đọc đúng nguyên âm đôi /əʊ/. Em cần bắt đầu từ âm /ə/ rồi lướt nhẹ sang /ʊ/, tránh đọc thành nguyên âm đơn hoặc đọc quá ngắn.</p>\r\n<p><strong>/ɒ/, /ɜː/, /ə/, /eə/, /ɪə/, /ʊə/, /eɪ/, /aɪ/</strong><br />Các âm này em phát âm khá tốt, khẩu hình và cách đọc nhìn chung đã đúng. Em tiếp tục duy trì và luyện tập thường xuyên nhé.</p>\r\n<p>Em đọc kĩ nhận xét và luyện tập lại để mình ngày càng tiến bộ hơn nhé.</p>",
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": "graded",
+        "status_mark_date": "2026-06-11 13:03:08",
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": null,
+        "updated": "2026-06-11 13:03:08",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-06-10 23:27:19",
+        "correct_answer": 17,
+        "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+        "submitted_at": "2026-06-10 23:27:19",
+        "re_submitted_at": null,
+        "answers": {
+          "266036": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 540064,
+            "correct_answer": 540064,
+            "result_answer": {
+              "540064": true
+            },
+            "has_answer_empty": false,
+            "type": 3,
+            "question_id": 266036,
+            "challenge_id": 28459
+          },
+          "266037": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 540073,
+            "correct_answer": 540073,
+            "result_answer": {
+              "540073": true
+            },
+            "has_answer_empty": false,
+            "type": 3,
+            "question_id": 266037,
+            "challenge_id": 28459
+          },
+          "266038": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 540079,
+            "correct_answer": 540079,
+            "result_answer": {
+              "540079": true
+            },
+            "has_answer_empty": false,
+            "type": 3,
+            "question_id": 266038,
+            "challenge_id": 28459
+          },
+          "266039": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 540090,
+            "correct_answer": 540090,
+            "result_answer": {
+              "540090": true
+            },
+            "has_answer_empty": false,
+            "type": 3,
+            "question_id": 266039,
+            "challenge_id": 28459
+          },
+          "266040": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 540099,
+            "correct_answer": 540099,
+            "result_answer": {
+              "540099": true
+            },
+            "has_answer_empty": false,
+            "type": 3,
+            "question_id": 266040,
+            "challenge_id": 28459
+          },
+          "266041": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 540110,
+            "correct_answer": 540110,
+            "result_answer": {
+              "540110": true
+            },
+            "has_answer_empty": false,
+            "type": 3,
+            "question_id": 266041,
+            "challenge_id": 28459
+          },
+          "266042": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 540117,
+            "correct_answer": 540117,
+            "result_answer": {
+              "540117": true
+            },
+            "has_answer_empty": false,
+            "type": 3,
+            "question_id": 266042,
+            "challenge_id": 28459
+          },
+          "266043": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 540124,
+            "correct_answer": 540124,
+            "result_answer": {
+              "540124": true
+            },
+            "has_answer_empty": false,
+            "type": 3,
+            "question_id": 266043,
+            "challenge_id": 28459
+          },
+          "266044": {
+            "total_question": 8,
+            "total_correct_result_answer": 7,
+            "user_answer": {
+              "input_0": "job",
+              "input_1": "got",
+              "input_2": "newspaper",
+              "input_3": "taxi",
+              "input_4": "coffee",
+              "input_5": "airport",
+              "input_6": "married",
+              "input_7": "doctor"
+            },
+            "correct_answer": {
+              "input_0": [
+                "job"
+              ],
+              "input_1": [
+                "get"
+              ],
+              "input_2": [
+                "newspaper"
+              ],
+              "input_3": [
+                "taxi"
+              ],
+              "input_4": [
+                "coffee"
+              ],
+              "input_5": [
+                "airport"
+              ],
+              "input_6": [
+                "married"
+              ],
+              "input_7": [
+                "doctor"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": false,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 266044,
+            "challenge_id": 28459
+          },
+          "266045": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "Get dark – Trời tối dần\nGet better – Khỏe hơn\nGet a newspaper – Mua một tờ báo\nGet a job – Kiếm một công việc\nGet a taxi – Bắt taxi\nGet some coffee – Mua/uống cà phê\nGet a doctor – Tìm bác sĩ\nGet married – Kết hôn\nGet home – Về nhà\nGet there – Đến đó\nGet back – Trở về\nGet back home – Trở về nhà\nGet tired – Trở nên mệt mỏi\nGet wet – Bị ướt\nGet hot – Trở nên nóng",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 266045,
+            "challenge_id": 28459
+          },
+          "266047": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "https://drive.google.com/file/d/1QAPKRf8Th_k3DAOPuVhjzFUqm5xvER18/view?usp=sharing",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 266047,
+            "challenge_id": 28459
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "1781082066zrj2fx28q51y",
+        "class_challenge_id": 79762,
+        "contact_id": "1779875378vawpfok6ii4u",
+        "highlight": "[{\"id\": \"1781082036tw1bpsr5c53c\", \"text\": \"___ \", \"endOffset\": 63, \"startOffset\": 59, \"endContainer\": \"div.question-item.question-266039\", \"startContainer\": \"div.question-item.question-266039\"}]",
+        "note": "{\"1781082036tw1bpsr5c53c\": \"cold\"}",
+        "created_at": "2026-06-10T09:01:06.000000Z",
+        "updated_at": "2026-06-10T09:01:13.000000Z"
+      },
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 76954,
+          "content": "<p><span style=\"font-family: Nunito-ExtraBold; font-size: 16pt; color: #ffffff; background-color: #ba372a;\">​<strong> VOCABULARY: get/got/got </strong></span></p>\n<p><span style=\"color: #c0392b; font-family: Nunito-Regular; font-size: 12pt;\"><strong>A. Get + Adjective → for changes <em>(thể hiện sự thay đổi)</em></strong></span></p>\n<p><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1711601599.png\" alt=\"\" width=\"516\" height=\"119\" /></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><em>Trời sáng.                            Trời đang tối dần.                         Trời tối.</em></span></p>\n<p><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1711601563.png\" alt=\"\" width=\"514\" height=\"125\" /></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><em>Cô ấy ốm.                   Cô ấy đang khoẻ dần.             Cô ấy đã khoẻ hơn.</em></span></p>\n<p><span style=\"color: #c0392b; font-family: Nunito-Regular; font-size: 12pt;\"><strong>B. Get + Nouns = Buy or find something <em>(Mua/ tìm (kiếm) cái gì đó)</em></strong></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708750051.mp3\" /> Get a newspaper: <em>Mua 1 tờ báo</em></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708750170.mp3\" /> Get a job: <em>Kiếm 1 công việc</em></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708750180.mp3\" /> Get a taxi: <em>Bắt 1 chiếc taxi</em></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708750190.mp3\" /> Get some coffee: <em>Mua ít cà phê</em></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708750203.mp3\" /> Get a doctor: <em>Tìm gặp 1 bác sĩ</em></span></p>\n<p><span style=\"color: #c0392b; font-family: Nunito-Regular; font-size: 12pt;\"><strong>C. Expressions</strong></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">Maria and David are <em><strong>getting married <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708932813.mp3\" /> </strong></em>in April. <em>(Maria và David sẽ kết hôn vào tháng 4)</em></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">When you <strong>get to</strong> New York, call me. [arrive at, reach] <em>(Khi nào bạn đến New York thì gọi tôi nhé)</em></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">How can I get to the airport? (<em>Tôi có thể đến sân bay bằng phương tiện gì/ cách nào?)</em></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">When I <strong>get home</strong>, I have my lunch. <em>(Khi tôi về đến nhà, tôi ăn trưa.)</em></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">I will <strong>get there</strong> at 6 p.m. <em>(Tôi sẽ đến đó lúc 6 giờ tối.)</em></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">I'll see you when you <strong>get back from</strong> Hong Kong [return, come home] <em>(Tôi sẽ gặp bạn khi bạn từ Hong Kong về.)</em></span></p>\n<p> </p>\n<p><span style=\"color: #ffffff; font-family: Nunito-ExtraBold; font-size: 16pt; background-color: #ba372a;\"><strong> II. PRONUNCIATION </strong></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Quay video phát âm mỗi âm 3 lần kèm các ví dụ sau: </strong></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">- /ɔː/: saw <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708750798.mp3\" />, corn <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708750812.mp3\" />, ball <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708750823.mp3\" />, morning <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708750832.mp3\" />, store <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708750843.mp3\" /></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">- /ɒ/: pot <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708751151.mp3\" />, shop <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708751168.mp3\" />, hop <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708751196.mp3\" />, on <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708751207.mp3\" />, lot <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708751227.mp3\" /></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">- /ɜː/: bird <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708932724.mp3\" />, nurse <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708932738.mp3\" />, person <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708932754.mp3\" />, hurt <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708932777.mp3\" />, work <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708932794.mp3\" /></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">- /ə/: teacher <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933147.mp3\" />, banana <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933156.mp3\" />, doctor <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933165.mp3\" />, mother <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933174.mp3\" />, ago <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933183.mp3\" /></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">- /eə/: bear <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933406.mp3\" />, chair <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933417.mp3\" />, there <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933427.mp3\" />, hair <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933437.mp3\" />, care <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933446.mp3\" /></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">- /ɪə/: deer <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933635.mp3\" />, here <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933642.mp3\" />, beer <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933648.mp3\" />, cheers <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933667.mp3\" />, clear <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933673.mp3\" /></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">- /ʊə/: tour <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933940.mp3\" />, poor <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933951.mp3\" />, sure <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933959.mp3\" />, tourist <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933968.mp3\" />, mature <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933975.mp3\" /></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">- /eɪ/: eight <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708933982.mp3\" />, rain <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934015.mp3\" />, plane <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934005.mp3\" />, wait <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934023.mp3\" />, date <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934031.mp3\" /></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">- /aɪ/: rice <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934228.mp3\" />, light <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934235.mp3\" />, night <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934243.mp3\" />, height <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934250.mp3\" />, fly <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934263.mp3\" /></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">- /ɔɪ/: oil <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934272.mp3\" />, joy <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934571.mp3\" />, coin <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934286.mp3\" />, choice <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934293.mp3\" />, boy <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934299.mp3\" /></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">- /aʊ/: now <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934585.mp3\" />, ground <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934592.mp3\" />, sound <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934598.mp3\" />, hour <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934603.mp3\" />, flower <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934608.mp3\" /></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">- /əʊ/: boat <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934646.mp3\" />, phone <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934652.mp3\" />, snow <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934659.mp3\" />, flow <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934666.mp3\" />, grow <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708934672.mp3\" /></span></p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 28459,
+          "id": 266036,
+          "name": null,
+          "title": "I. Vocabulary",
+          "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">1. I studied too much and I got ___.</span></p>",
+          "explain": "<p><strong>I studied too much and I got [tired].</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi học quá nhiều, trạng thái mà bạn thường cảm thấy là mệt mỏi. <strong>\"Get tired\"</strong> có nghĩa là trở nên mệt mỏi.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi học quá nhiều nên tôi <strong>bị mệt</strong>.</em></p>\n</li>\n</ul>",
+          "introduction": "<p><span style=\"font-family: Nunito-ExtraBold; font-size: 12pt;\"><strong>Exercise 1. </strong></span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong>Choose the correct word. </strong><em>(Chọn từ th&iacute;ch hợp.)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 3,
+          "answer": {
+            "answers": [
+              {
+                "id": 540063,
+                "content": "hot"
+              },
+              {
+                "id": 540064,
+                "content": "tired"
+              },
+              {
+                "id": 540065,
+                "content": "sick"
+              },
+              {
+                "id": 540066,
+                "content": "dark"
+              },
+              {
+                "id": 540067,
+                "content": "wet"
+              },
+              {
+                "id": 540068,
+                "content": "light"
+              },
+              {
+                "id": 540069,
+                "content": "cold"
+              },
+              {
+                "id": 540070,
+                "content": "better"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 28459,
+          "id": 266037,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">2.I stayed out in the rain for too long and I got __</span></p>",
+          "explain": "<p><strong>I stayed out in the rain for too long and I got [sick].</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Ở ngoài mưa quá lâu thường khiến bạn bị ốm. <strong>\"Get sick\"</strong> có nghĩa là bị ốm/trở nên ốm.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi ở ngoài mưa quá lâu nên tôi <strong>bị ốm</strong>.</em></p>\n</li>\n</ul>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 3,
+          "answer": {
+            "answers": [
+              {
+                "id": 540071,
+                "content": "hot"
+              },
+              {
+                "id": 540072,
+                "content": "tired"
+              },
+              {
+                "id": 540073,
+                "content": "sick"
+              },
+              {
+                "id": 540074,
+                "content": "dark"
+              },
+              {
+                "id": 540075,
+                "content": "wet"
+              },
+              {
+                "id": 540076,
+                "content": "light"
+              },
+              {
+                "id": 540077,
+                "content": "cold"
+              },
+              {
+                "id": 540078,
+                "content": "better"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 28459,
+          "id": 266038,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">3. I sat in the sun too much and I got ___<em>.</em></span></p>",
+          "explain": "<p><strong>I sat in the sun too much and I got [hot].</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Ngồi dưới nắng nhiều sẽ khiến cơ thể bạn nóng lên. <strong>\"Get hot\"</strong> có nghĩa là trở nên nóng.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi ngồi dưới nắng quá nhiều nên tôi <strong>bị nóng</strong>.</em></p>\n</li>\n</ul>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 3,
+          "answer": {
+            "answers": [
+              {
+                "id": 540079,
+                "content": "hot"
+              },
+              {
+                "id": 540080,
+                "content": "tired"
+              },
+              {
+                "id": 540081,
+                "content": "sick"
+              },
+              {
+                "id": 540082,
+                "content": "dark"
+              },
+              {
+                "id": 540083,
+                "content": "wet"
+              },
+              {
+                "id": 540084,
+                "content": "light"
+              },
+              {
+                "id": 540085,
+                "content": "cold"
+              },
+              {
+                "id": 540086,
+                "content": "better"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 28459,
+          "id": 266039,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">4. In winter in the north, the sun sets early, and it gets ___ very quickly.</span></p>",
+          "explain": "<p><strong>In winter in the north, the sun sets early, and it gets [dark] very quickly.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi mặt trời lặn sớm, trời sẽ trở nên tối. <strong>\"Get dark\"</strong> có nghĩa là trời trở tối.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Vào mùa đông ở phía bắc, mặt trời lặn sớm và trời <strong>trở tối</strong> rất nhanh.</em></p>\n</li>\n</ul>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 3,
+          "answer": {
+            "answers": [
+              {
+                "id": 540087,
+                "content": "hot"
+              },
+              {
+                "id": 540088,
+                "content": "tired"
+              },
+              {
+                "id": 540089,
+                "content": "sick"
+              },
+              {
+                "id": 540090,
+                "content": "dark"
+              },
+              {
+                "id": 540091,
+                "content": "wet"
+              },
+              {
+                "id": 540092,
+                "content": "light"
+              },
+              {
+                "id": 540093,
+                "content": "cold"
+              },
+              {
+                "id": 540094,
+                "content": "better"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 28459,
+          "id": 266040,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">5. John got very ___ in the rain.</span></p>",
+          "explain": "<p><strong>John got very [wet] in the rain.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi ở trong mưa, bạn sẽ bị ướt. <strong>\"Get wet\"</strong> có nghĩa là bị ướt.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> John <strong>bị ướt</strong> rất nhiều dưới trời mưa.</em></p>\n</li>\n</ul>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 3,
+          "answer": {
+            "answers": [
+              {
+                "id": 540095,
+                "content": "hot"
+              },
+              {
+                "id": 540096,
+                "content": "tired"
+              },
+              {
+                "id": 540097,
+                "content": "sick"
+              },
+              {
+                "id": 540098,
+                "content": "dark"
+              },
+              {
+                "id": 540099,
+                "content": "wet"
+              },
+              {
+                "id": 540100,
+                "content": "light"
+              },
+              {
+                "id": 540101,
+                "content": "cold"
+              },
+              {
+                "id": 540102,
+                "content": "better"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 28459,
+          "id": 266041,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">6. I&rsquo;ve taken some medicines, and I&rsquo;m getting __________ now.</span></p>",
+          "explain": "<p><strong>I’ve taken some medicines, and I’m getting [better] now.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Sau khi uống thuốc, tình trạng sức khỏe của bạn sẽ cải thiện. <strong>\"Get better\"</strong> có nghĩa là trở nên tốt hơn/khỏi bệnh.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi đã uống thuốc rồi, và bây giờ tôi đang <strong>dần khá hơn</strong>.</em></p>\n</li>\n</ul>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 3,
+          "answer": {
+            "answers": [
+              {
+                "id": 540103,
+                "content": "hot"
+              },
+              {
+                "id": 540104,
+                "content": "tired"
+              },
+              {
+                "id": 540105,
+                "content": "sick"
+              },
+              {
+                "id": 540106,
+                "content": "dark"
+              },
+              {
+                "id": 540107,
+                "content": "wet"
+              },
+              {
+                "id": 540108,
+                "content": "light"
+              },
+              {
+                "id": 540109,
+                "content": "cold"
+              },
+              {
+                "id": 540110,
+                "content": "better"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 28459,
+          "id": 266042,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">7. The weather is getting __________ because it's November already.</span></p>",
+          "explain": "<p><strong>The weather is getting [cold] because it's November already.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Tháng Mười Một là mùa đông, thời tiết sẽ trở nên lạnh hơn. <strong>\"Get cold\"</strong> có nghĩa là trời trở lạnh.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Thời tiết đang <strong>trở lạnh</strong> vì đã là tháng Mười Một rồi.</em></p>\n</li>\n</ul>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 3,
+          "answer": {
+            "answers": [
+              {
+                "id": 540111,
+                "content": "hot"
+              },
+              {
+                "id": 540112,
+                "content": "tired"
+              },
+              {
+                "id": 540113,
+                "content": "sick"
+              },
+              {
+                "id": 540114,
+                "content": "dark"
+              },
+              {
+                "id": 540115,
+                "content": "wet"
+              },
+              {
+                "id": 540116,
+                "content": "light"
+              },
+              {
+                "id": 540117,
+                "content": "cold"
+              },
+              {
+                "id": 540118,
+                "content": "better"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 28459,
+          "id": 266043,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">8. The sun is coming up. It's getting __________.&nbsp;</span></p>",
+          "explain": "<p><strong>The sun is coming up. It's getting [light].</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi mặt trời mọc, trời sẽ trở nên sáng. <strong>\"Get light\"</strong> có nghĩa là trời trở sáng.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Mặt trời đang lên. Trời đang <strong>dần sáng</strong>.</em></p>\n</li>\n</ul>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 3,
+          "answer": {
+            "answers": [
+              {
+                "id": 540119,
+                "content": "hot"
+              },
+              {
+                "id": 540120,
+                "content": "tired"
+              },
+              {
+                "id": 540121,
+                "content": "sick"
+              },
+              {
+                "id": 540122,
+                "content": "dark"
+              },
+              {
+                "id": 540123,
+                "content": "wet"
+              },
+              {
+                "id": 540124,
+                "content": "light"
+              },
+              {
+                "id": 540125,
+                "content": "cold"
+              },
+              {
+                "id": 540126,
+                "content": "better"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 28459,
+          "id": 266044,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": "<ol start=\"1\">\n<li>\n<p><strong>I really want to get a good [job] to earn a lot of money.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Để <strong>kiếm nhiều tiền (earn a lot of money)</strong>, bạn cần có một <strong>công việc (job)</strong> tốt. Cụm từ là <strong>get a job</strong> (có được một công việc).</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi thực sự muốn có một <strong>công việc</strong> tốt để kiếm nhiều tiền.</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>When you [get] back home, use the key card to open the door.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi <strong>trở về nhà (back home)</strong>, bạn dùng thẻ khóa để mở cửa. Cụm từ là <strong>get back</strong> (trở về).</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Khi bạn <strong>trở về</strong> nhà, hãy dùng thẻ khóa để mở cửa.</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>I went to the bookshop and got a [newspaper] to read.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi đến <strong>hiệu sách (bookshop)</strong> và muốn đọc, bạn thường mua một <strong>tờ báo (newspaper)</strong> hoặc sách. Ở đây, \"newspaper\" phù hợp hơn vì thường là thứ đọc nhanh. Cụm từ là <strong>get a newspaper</strong> (mua một tờ báo).</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi đã đến hiệu sách và mua một <strong>tờ báo</strong> để đọc.</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>I didn't know how to get there, so I got a [taxi].</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi không biết đường <strong>đi đến đó (get there)</strong>, bạn thường <strong>bắt taxi (taxi)</strong> để được đưa đến nơi. Cụm từ là <strong>get a taxi</strong> (bắt một chiếc taxi).</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi không biết làm thế nào để đến đó, vì vậy tôi đã <strong>bắt taxi</strong>.</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>My mother always gets some [coffee] in the morning to keep her awake.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Để <strong>giữ tỉnh táo (keep her awake)</strong> vào buổi sáng, mẹ tôi thường uống <strong>cà phê (coffee)</strong>. Cụm từ là <strong>get some coffee</strong> (lấy/mua cà phê).</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Mẹ tôi luôn mua một ít <strong>cà phê</strong> vào buổi sáng để giữ cho bà tỉnh táo.</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>I had got to the [airport] before that flight took off.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Trước khi <strong>chuyến bay cất cánh (flight took off)</strong>, bạn cần phải đến <strong>sân bay (airport)</strong>. Cụm từ là <strong>get to the airport</strong> (đến sân bay).</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi đã đến <strong>sân bay</strong> trước khi chuyến bay đó cất cánh.</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>They got [married] 5 years ago and now they have 2 children.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Sau 5 năm và có 2 con, họ hẳn đã <strong>kết hôn (married)</strong>. Cụm từ là <strong>get married</strong> (kết hôn).</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Họ đã <strong>kết hôn</strong> 5 năm trước và bây giờ họ có 2 con.</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>He's going to get a [doctor] because he doesn’t feel well.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi <strong>không khỏe (doesn’t feel well)</strong>, bạn cần đi gặp <strong>bác sĩ (doctor)</strong>. Cụm từ là <strong>get a doctor</strong> (gọi/tìm bác sĩ).</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Anh ấy sẽ đi tìm <strong>bác sĩ</strong> vì anh ấy cảm thấy không khỏe.</em></p>\n</li>\n</ul>\n</li>\n</ol>",
+          "introduction": "<p>&nbsp;</p>\n<p><span style=\"font-family: Nunito-ExtraBold; font-size: 12pt;\"><strong>Exercise 2. </strong></span><span style=\"font-family: Nunito-Regular;\"><strong>Write ONE WORD from the Vocabulary section in each blank to make a meaningful sentence. </strong><em>(Viết MỘT TỪ từ phần Từ Vựng v&agrave;o mỗi &ocirc; trống để tạo 1 c&acirc;u c&oacute; &yacute; nghĩa.)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 64528,
+              "content": "<p><span style=\"font-family: Nunito-Regular;\">1. I really want to get a good [input_0] to <span style=\"background-color: #f8cac6;\">earn a lot of money</span> <span style=\"font-family: Nunito-Regular;\"><em>(kiếm nhiều tiền)</em></span>.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">2. When you [input_1] back home, use the key card to open the door.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">3. I went to the bookshop and got a [input_2] to read.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">4. I didn't know how to <span style=\"background-color: #f8cac6;\">get there</span> <em>(đi đến đó)</em>, so I got a [input_3].</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">5. My mother always gets some [input_4] in the morning to keep her <span style=\"background-color: #f8cac6;\">awake</span> <em>(tỉnh táo)</em>.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">6. I had got to the [input_5] before that flight <span style=\"background-color: #f8cac6;\">took off</span> <em>(cất cánh)</em>.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">7. They got [input_6] 5 years ago and now they have 2 children.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">8. He's going to get a [input_7] because he doesn't feel well.</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 28459,
+          "id": 266045,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span style=\"font-family: Nunito-ExtraBold; font-size: 12pt;\"><strong>Exercise 3.&nbsp;</strong></span><span style=\"font-family: Nunito-ExtraBold;\"><strong><span style=\"font-family: Nunito-Regular;\">Note down at least 10 words/phrases with their definitions. </span></strong><span style=\"font-family: Nunito-Regular;\"><em>(Ghi lại &iacute;t nhất 10 từ vựng/c&acirc;u học được từ phần Vocabulary, k&egrave;m theo nghĩa.)</em></span></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: Nunito-ExtraBold;\"><span style=\"font-family: Nunito-Regular;\"><em style=\"font-family: 'Nunito Regular';\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">V&iacute; dụ: Get married - Kết h&ocirc;n</span></em></span></span></p>\n<p>&nbsp;</p>\n<p><span id=\"docs-internal-guid-e21be559-7fff-e9f8-80d5-9e2f32295c7a\"></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 28459,
+          "id": 266046,
+          "name": "blank 1",
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": null,
+          "answer": null
+        },
+        {
+          "challenge_id": 28459,
+          "id": 266047,
+          "name": null,
+          "title": "II. Pronunciation",
+          "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Link video:&nbsp;</strong></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 28459,
+          "id": 266048,
+          "name": "blank 1",
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": null,
+          "answer": null
+        }
+      ],
+      "message": null
+    }
+  }
+}

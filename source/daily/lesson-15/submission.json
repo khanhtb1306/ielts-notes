@@ -1,0 +1,495 @@
+{
+  "lesson": 15,
+  "lessonKey": "lesson-15",
+  "items": [
+    {
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "statusMark": null,
+      "rate": 0,
+      "correctAnswer": 47,
+      "submittedAt": "2026-07-15 21:47:30",
+      "markedAt": null,
+      "commentText": "",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "320683": {
+          "total_question": 15,
+          "total_correct_result_answer": 12,
+          "user_answer": {
+            "input_0": "may",
+            "input_1": "can't",
+            "input_2": "could",
+            "input_3": "should",
+            "input_4": "may",
+            "input_5": "don't need",
+            "input_6": "can't",
+            "input_7": "must",
+            "input_8": "can",
+            "input_9": "needn’t",
+            "input_10": "will",
+            "input_11": "can",
+            "input_12": "need to",
+            "input_13": "may not",
+            "input_14": "must not"
+          },
+          "correct_answer": {
+            "input_0": [
+              "might",
+              "may"
+            ],
+            "input_1": [
+              "can't",
+              "cannot"
+            ],
+            "input_2": [
+              "could"
+            ],
+            "input_3": [
+              "should"
+            ],
+            "input_4": [
+              "may",
+              "might"
+            ],
+            "input_5": [
+              "do not need",
+              "don't need"
+            ],
+            "input_6": [
+              "can't",
+              "cannot"
+            ],
+            "input_7": [
+              "must"
+            ],
+            "input_8": [
+              "can"
+            ],
+            "input_9": [
+              "needn't",
+              "need not"
+            ],
+            "input_10": [
+              "will"
+            ],
+            "input_11": [
+              "could",
+              "can"
+            ],
+            "input_12": [
+              "must"
+            ],
+            "input_13": [
+              "might not"
+            ],
+            "input_14": [
+              "must not",
+              "mustn't",
+              "can't",
+              "cannot"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": false,
+            "input_10": true,
+            "input_11": true,
+            "input_12": false,
+            "input_13": false,
+            "input_14": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 320683,
+          "challenge_id": 33411
+        },
+        "320684": {
+          "total_question": 5,
+          "total_correct_result_answer": 5,
+          "user_answer": {
+            "input_0": "d",
+            "input_1": "a",
+            "input_2": "b",
+            "input_3": "e",
+            "input_4": "c"
+          },
+          "correct_answer": {
+            "input_0": [
+              "d"
+            ],
+            "input_1": [
+              "a"
+            ],
+            "input_2": [
+              "b"
+            ],
+            "input_3": [
+              "e"
+            ],
+            "input_4": [
+              "c"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 320684,
+          "challenge_id": 33411
+        },
+        "320685": {
+          "total_question": 1,
+          "total_correct_result_answer": 0,
+          "user_answer": 667447,
+          "correct_answer": 667449,
+          "result_answer": {
+            "667447": false
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 320685,
+          "challenge_id": 33411
+        },
+        "320686": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 667452,
+          "correct_answer": 667452,
+          "result_answer": {
+            "667452": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 320686,
+          "challenge_id": 33411
+        },
+        "320687": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 667456,
+          "correct_answer": 667456,
+          "result_answer": {
+            "667456": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 320687,
+          "challenge_id": 33411
+        },
+        "320688": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 667462,
+          "correct_answer": 667462,
+          "result_answer": {
+            "667462": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 320688,
+          "challenge_id": 33411
+        },
+        "320689": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 667463,
+          "correct_answer": 667463,
+          "result_answer": {
+            "667463": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 320689,
+          "challenge_id": 33411
+        },
+        "320690": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 667468,
+          "correct_answer": 667468,
+          "result_answer": {
+            "667468": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 320690,
+          "challenge_id": 33411
+        },
+        "320691": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 667473,
+          "correct_answer": 667473,
+          "result_answer": {
+            "667473": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 320691,
+          "challenge_id": 33411
+        },
+        "320692": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 667475,
+          "correct_answer": 667475,
+          "result_answer": {
+            "667475": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 320692,
+          "challenge_id": 33411
+        },
+        "320693": {
+          "total_question": 18,
+          "total_correct_result_answer": 16,
+          "user_answer": {
+            "input_0": "steak restaurant",
+            "input_1": "opened",
+            "input_2": "interesting appetizer",
+            "input_3": "nice",
+            "input_4": "fresh",
+            "input_5": "dressing",
+            "input_6": "vegetables",
+            "input_7": "fresh",
+            "input_8": "tasty",
+            "input_9": "Chinese restaurant",
+            "input_10": "neighborhood",
+            "input_11": "main dish",
+            "input_12": "pork",
+            "input_13": "dry",
+            "input_14": "tasteless",
+            "input_15": "had ever tasted",
+            "input_16": "dessert",
+            "input_17": "fresh fruit"
+          },
+          "correct_answer": {
+            "input_0": [
+              "steak restaurant"
+            ],
+            "input_1": [
+              "opened"
+            ],
+            "input_2": [
+              "interesting appetizer"
+            ],
+            "input_3": [
+              "nice"
+            ],
+            "input_4": [
+              "fresh"
+            ],
+            "input_5": [
+              "dressing"
+            ],
+            "input_6": [
+              "vegetables"
+            ],
+            "input_7": [
+              "fresh"
+            ],
+            "input_8": [
+              "tasty"
+            ],
+            "input_9": [
+              "Chinese restaurant"
+            ],
+            "input_10": [
+              "neighborhood"
+            ],
+            "input_11": [
+              "main dish"
+            ],
+            "input_12": [
+              "pork"
+            ],
+            "input_13": [
+              "dry"
+            ],
+            "input_14": [
+              "had no taste"
+            ],
+            "input_15": [
+              "I had ever tasted"
+            ],
+            "input_16": [
+              "dessert"
+            ],
+            "input_17": [
+              "fresh fruit"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true,
+            "input_10": true,
+            "input_11": true,
+            "input_12": true,
+            "input_13": true,
+            "input_14": false,
+            "input_15": false,
+            "input_16": true,
+            "input_17": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 320693,
+          "challenge_id": 33411
+        },
+        "320694": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 667479,
+          "correct_answer": 667479,
+          "result_answer": {
+            "667479": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 320694,
+          "challenge_id": 33411
+        },
+        "320695": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 667484,
+          "correct_answer": 667484,
+          "result_answer": {
+            "667484": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 320695,
+          "challenge_id": 33411
+        },
+        "320696": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 667486,
+          "correct_answer": 667486,
+          "result_answer": {
+            "667486": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 320696,
+          "challenge_id": 33411
+        },
+        "320697": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 667490,
+          "correct_answer": 667490,
+          "result_answer": {
+            "667490": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 320697,
+          "challenge_id": 33411
+        },
+        "320698": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 667493,
+          "correct_answer": 667493,
+          "result_answer": {
+            "667493": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 320698,
+          "challenge_id": 33411
+        },
+        "320699": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 667496,
+          "correct_answer": 667496,
+          "result_answer": {
+            "667496": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 320699,
+          "challenge_id": 33411
+        },
+        "320700": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 667499,
+          "correct_answer": 667499,
+          "result_answer": {
+            "667499": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 320700,
+          "challenge_id": 33411
+        },
+        "320701": {
+          "total_question": 1,
+          "total_correct_result_answer": 0,
+          "user_answer": 667503,
+          "correct_answer": 667502,
+          "result_answer": {
+            "667503": false
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 320701,
+          "challenge_id": 33411
+        }
+      }
+    },
+    {
+      "challengeId": 33412,
+      "classChallengeId": "84532",
+      "statusMark": null,
+      "rate": 0,
+      "correctAnswer": 1,
+      "submittedAt": "2026-07-15 22:11:30",
+      "markedAt": null,
+      "commentText": "",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "320702": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://docs.google.com/document/d/101j5GtQaVp_N4WehLNUFKgofwPKwJKC1Z5cxN9_3ms0/edit?usp=sharing",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 320702,
+          "challenge_id": 33412
+        }
+      }
+    }
+  ]
+}

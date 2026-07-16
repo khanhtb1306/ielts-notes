@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "lesson": 11,
+  "lessonKey": "lesson-11",
+  "title": "Lesson 11",
+  "source": "LangGo daily challenge API",
+  "rawFolder": "raw/",
+  "files": {
+    "overview": "overview.md",
+    "content": "content.json",
+    "exercises": "exercises.json",
+    "scripts": "scripts.json",
+    "submission": "submission.json",
+    "audioManifest": "audio/manifest.json",
+    "imageManifest": "images/manifest.json"
+  },
+  "challenges": [
+    {
+      "id": 31675,
+      "challengeId": 31675,
+      "classChallengeId": "82860",
+      "number": 1,
+      "title": "[PRE IELTS] LESSON 11 - CHALLENGE 1",
+      "note": "Grammar (Prepositions) | Vocabulary (Describing positions) | Speaking (House, room)",
+      "day": 11,
+      "deadline": "2026-07-05 12:30:00",
+      "totalQuestion": 29,
+      "classification": "dc",
+      "rawFile": "raw/challenge-01-31675.json"
+    },
+    {
+      "id": 31676,
+      "challengeId": 31676,
+      "classChallengeId": "82861",
+      "number": 2,
+      "title": "[PRE IELTS] LESSON 11 - CHALLENGE 2",
+      "note": "Listening transcript (Directions) | Speaking (Review)",
+      "day": 11,
+      "deadline": "2026-07-05 12:30:00",
+      "totalQuestion": 29,
+      "classification": "dc",
+      "rawFile": "raw/challenge-02-31676.json"
+    }
+  ]
+}

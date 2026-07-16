@@ -1,0 +1,661 @@
+{
+  "listItem": {
+    "id": "82861",
+    "challenge_id": 31676,
+    "class_id": "177286917873dop75b27mv",
+    "day": 11,
+    "deadline": "2026-07-05 12:30:00",
+    "challenge_title": "[PRE IELTS] LESSON 11 - CHALLENGE 2",
+    "challenge_note": "Listening transcript (Directions) | Speaking (Review)",
+    "challenge_status": 1,
+    "challenge_band": "161433861829325240c1g7",
+    "total_question": 29,
+    "classification": "dc",
+    "student_challenge": {
+      "id": 568856,
+      "class_challenge_id": 82861,
+      "class_id": "177286917873dop75b27mv",
+      "challenge_id": 31676,
+      "cts_id": "1780455880vwydc1i2ehir",
+      "rate": 1,
+      "comment": "<p>Hi Khánh, bài này em làm đúng 100% rồi nha. You aced the test!</p>",
+      "url": null,
+      "redo_comment": null,
+      "cancel_comment": null,
+      "date_redo": null,
+      "status_mark": "graded",
+      "status_mark_date": "2026-07-05 17:15:53",
+      "flag_overdue": 0,
+      "flag_not_star": 0,
+      "flag_not_submit": 0,
+      "flag_late_redo": 0,
+      "flag_late_submit": 0,
+      "flag_status_mark": 0,
+      "updated_by": "1779875378vawpfok6ii4u",
+      "updated": "2026-07-05 17:15:53",
+      "created_by": "1779875378vawpfok6ii4u",
+      "created": "2026-07-04 23:05:43",
+      "correct_answer": 29,
+      "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+      "submitted_at": "2026-07-04 23:05:43",
+      "re_submitted_at": null,
+      "answers": [],
+      "tab_switch_count": 0
+    }
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "82861",
+        "challenge_id": 31676,
+        "class_id": "177286917873dop75b27mv",
+        "day": 11,
+        "deadline": "2026-07-05 12:30:00",
+        "flag_status_mark": 1,
+        "flag_not_submit": 1,
+        "created": "2026-07-02 18:11:32",
+        "created_by": null,
+        "challenge": {
+          "id": "31676",
+          "title": "[PRE IELTS] LESSON 11 - CHALLENGE 2",
+          "note": "Listening transcript (Directions) | Speaking (Review)",
+          "day": "24",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "161433861829325240c1g7",
+          "created": "2026-07-02 18:11:31",
+          "updated": null,
+          "created_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+          "updated_by": null,
+          "total_question": 29,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 8073
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 568856,
+        "class_challenge_id": 82861,
+        "class_id": "177286917873dop75b27mv",
+        "challenge_id": 31676,
+        "cts_id": "1780455880vwydc1i2ehir",
+        "rate": 1,
+        "comment": "<p>Hi Khánh, bài này em làm đúng 100% rồi nha. You aced the test!</p>",
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": "graded",
+        "status_mark_date": "2026-07-05 17:15:53",
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": "1779875378vawpfok6ii4u",
+        "updated": "2026-07-05 17:15:53",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-07-04 23:05:43",
+        "correct_answer": 29,
+        "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+        "submitted_at": "2026-07-04 23:05:43",
+        "re_submitted_at": null,
+        "answers": {
+          "301012": {
+            "total_question": 11,
+            "total_correct_result_answer": 11,
+            "user_answer": {
+              "input_0": "left",
+              "input_1": "on",
+              "input_2": "at",
+              "input_3": "corner",
+              "input_4": "on",
+              "input_5": "up",
+              "input_6": "at",
+              "input_7": "on",
+              "input_8": "Take",
+              "input_9": "Go",
+              "input_10": "on"
+            },
+            "correct_answer": {
+              "input_0": [
+                "left"
+              ],
+              "input_1": [
+                "on"
+              ],
+              "input_2": [
+                "at"
+              ],
+              "input_3": [
+                "corner"
+              ],
+              "input_4": [
+                "on"
+              ],
+              "input_5": [
+                "up"
+              ],
+              "input_6": [
+                "at"
+              ],
+              "input_7": [
+                "on"
+              ],
+              "input_8": [
+                "Take"
+              ],
+              "input_9": [
+                "Go"
+              ],
+              "input_10": [
+                "on"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true,
+              "input_10": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 301012,
+            "challenge_id": 31676
+          },
+          "301013": {
+            "total_question": 10,
+            "total_correct_result_answer": 10,
+            "user_answer": {
+              "input_0": "d",
+              "input_1": "e",
+              "input_2": "a",
+              "input_3": "g",
+              "input_4": "c",
+              "input_5": "f",
+              "input_6": "i",
+              "input_7": "k",
+              "input_8": "h",
+              "input_9": "j"
+            },
+            "correct_answer": {
+              "input_0": [
+                "d"
+              ],
+              "input_1": [
+                "e"
+              ],
+              "input_2": [
+                "a"
+              ],
+              "input_3": [
+                "g"
+              ],
+              "input_4": [
+                "c"
+              ],
+              "input_5": [
+                "f"
+              ],
+              "input_6": [
+                "i"
+              ],
+              "input_7": [
+                "k"
+              ],
+              "input_8": [
+                "h"
+              ],
+              "input_9": [
+                "j"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 301013,
+            "challenge_id": 31676
+          },
+          "301014": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 621493,
+            "correct_answer": 621493,
+            "result_answer": {
+              "621493": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 301014,
+            "challenge_id": 31676
+          },
+          "301015": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 621497,
+            "correct_answer": 621497,
+            "result_answer": {
+              "621497": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 301015,
+            "challenge_id": 31676
+          },
+          "301016": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 621500,
+            "correct_answer": 621500,
+            "result_answer": {
+              "621500": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 301016,
+            "challenge_id": 31676
+          },
+          "301017": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 621503,
+            "correct_answer": 621503,
+            "result_answer": {
+              "621503": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 301017,
+            "challenge_id": 31676
+          },
+          "301018": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 621507,
+            "correct_answer": 621507,
+            "result_answer": {
+              "621507": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 301018,
+            "challenge_id": 31676
+          },
+          "301019": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 621508,
+            "correct_answer": 621508,
+            "result_answer": {
+              "621508": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 301019,
+            "challenge_id": 31676
+          },
+          "301020": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 621513,
+            "correct_answer": 621513,
+            "result_answer": {
+              "621513": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 301020,
+            "challenge_id": 31676
+          },
+          "301021": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 621516,
+            "correct_answer": 621516,
+            "result_answer": {
+              "621516": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 301021,
+            "challenge_id": 31676
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 85508,
+          "content": "<p><span style=\"background-color: #ba372a; font-family: Nunito-ExtraBold; font-size: 16pt; color: #ffffff;\"><span style=\"background-color: #ba372a;\" data-cke-copybin-start=\"1\">​ </span><span style=\"background-color: #ba372a;\"><strong>I. LISTENING TRANSCRIPT </strong></span></span><span style=\"color: #ffffff; font-family: Nunito-ExtraBold; font-size: 16pt;\"><strong> </strong></span><strong style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"font-family: Nunito-SemiBold; color: #ba372a;\">DIRECTIONS</span></span></span></strong></p>\n<p><span style=\"color: #000000; font-family: Nunito-ExtraBold; font-size: 16pt;\"><strong style=\"font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff; box-sizing: border-box;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Exercise 1.</span></span></strong></span></p>\n<table style=\"table-layout: fixed; width: 734px; height: 565.708px;\">\n<tbody>\n<tr style=\"height: 565.708px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 565.708px; border: 1pt solid #000000; width: 347.306px;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: </span><span style=\"color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Excuse me. Where's the post office?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: The post office? Go straight for two blocks and then turn left. It's on the left. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Up this street two blocks and left?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: That's correct. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Can I help you?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: </span><span style=\"color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I'm looking for the bank.</span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Well, take a right at the first corner, and it's on your right.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Okay, thanks. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Can you help me? I'm looking for a hotel. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Okay. Go straight up two blocks and turn right at the light. You'll see a hotel on your right. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Thanks. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: </span><span style=\"color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">You're welcome</span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: </span><span style=\"color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Excuse me. Is there a bookstore around here?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Yes. Take the first street on the left. Go through the next intersection. You'll see the bookstore on the right. You can't miss it.</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 565.708px; border: 1pt solid #000000; width: 357.361px;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Xin lỗi. Bưu điện ở đâu?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Bưu điện hả? Đi thẳng qua 2 dãy nhà rồi rẽ trái. Ở bên trái. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Lên đường này hai dãy nhà và sang trái?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Đúng vậy.</span></p>\n<br />\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Tôi có thể giúp gì cho bạn?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Tôi đang tìm ngân hàng.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: À, rẽ phải ở góc đầu tiên, và nó ở bên phải của bạn.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Được rồi, cảm ơn.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Bạn có thể giúp tôi được không? Tôi đang tìm một khách sạn.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Được rồi. Đi thẳng lên hai dãy nhà và rẽ phải ở chỗ đèn. Bạn sẽ thấy một khách sạn bên phải của bạn.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Cảm ơn.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B:  Không có gì.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Phiền bạn cho tôi hỏi chút. Có hiệu sách quanh đây không?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Vâng. Rẽ trái ở ngã rẽ đầu tiên. Đi qua giao lộ tiếp theo. Bạn sẽ</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">xem hiệu sách ở bên phải. Bạn sẽ thấy nó ngay thôi.</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-ExtraBold; font-size: 16pt; color: #ffffff;\">​</span></p>\n<p dir=\"ltr\"><strong style=\"font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff; box-sizing: border-box;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Exercise 2.</span></strong></p>\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 735px;\">\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000; width: 352.833px;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: </span><span style=\"color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Excuse me. Is there a bank near here?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Yes, there is. Go straight up Third Street for two blocks and turn right on Pine Street. The bank is on the right. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Excuse me, I'm looking for the Peking Restaurant. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Oh, sure. I know where it is. </span><span style=\"color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">It's one of my favorite restaurants.</span><span style=\"color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> Go left here on King Street. Then turn right onto Second Street. Walk up Second Street for a block. It's on your left, on the corner of Ford and Second. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: </span><span style=\"color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I'm trying to find a supermarket. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: A supermarket? Okay. Go left down King and then go up Second Street for two blocks. It's on the left, on the corner of Pine and Second. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Thanks. </span></p>\n<br />\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: </span><span style=\"color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">How can I get to the post office?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Oh, it's not far from here. Go up Third Street and turn right on Ford. Walk down Ford and you'll see it on your right, on the corner of Ford and Fourth. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: I'm looking for the Tourist Office. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Okay. Go up Third Street and turn left on Ford. It's in the first big building you see on your left. </span></p>\n<br />\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: </span><span style=\"color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Can you tell me how to get to the Art Museum?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: The Art Museum? Sure. Go up Third Street for two blocks and then turn left on Pine Street. Go to the end of the block. The museum is on your left, on the corner of Second and Pine Street.</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000; width: 352.833px;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A:  Phiền bạn cho tôi hỏi chút. Có ngân hàng nào gần đây không?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Vâng, có. Đi thẳng lên Phố Thứ Ba qua hai dãy nhà và rẽ phải vào</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Phố Thông. Ngân hàng ở bên tay phải.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Xin lỗi, tôi đang tìm Nhà hàng Peking. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Ồ. Tôi biết chỗ đó. Đó là một trong những nhà hàng yêu thích của tôi. Đi bên trái đường King. Sau đó, rẽ phải vào Đường thứ hai. Đi bộ lên Phố Thứ hai qua một dãy nhà. Nó ở bên trái của bạn, ở góc giao giữa Ford và Second.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Tôi đang cố gắng tìm một siêu thị.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Một siêu thị hả? Được rồi. Đi bên trái xuống đường King và sau đó đi lên Second Street qua</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">hai dãy nhà. Nó ở bên trái, ở góc phố giữa Pine và Second.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Cảm ơn.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Làm thế nào tôi có thể đến bưu điện?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Ồ, nó không xa đây đâu. Đi lên Phố Thứ Ba và rẽ phải vào Ford. Đi bộ xuống Ford và bạn sẽ thấy nó ở bên phải của bạn, ở góc phố giữa Ford và .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Tôi đang tìm Văn phòng Du lịch.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Được rồi. Đi lên Phố Thứ Ba và rẽ trái vào Ford. Nó nằm trong tòa nhà lớn đầu tiên bạn sẽ thấy bên trái của bạn.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Bạn có thể cho tôi biết cách đến Bảo tàng Nghệ thuật không?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Bảo tàng nghệ thuật hả? Chắc chắn rồi. Đi lên Phố Thứ Ba hai dãy nhà rồi rẽ trái trên đường Pine. Đi đến cuối dãy. Bảo tàng ở bên trái của bạn, góc phố giữa Second và Pine Street.</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-ExtraBold; font-size: 16pt; color: #000000;\"><span style=\"font-size: 16pt;\">​</span></span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-ExtraBold; font-size: 16pt; color: #000000;\"><strong style=\"font-size: 16px; font-family: Nunito-Regular; background-color: #ffffff; box-sizing: border-box;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Exercise 3.</span></strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">1. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">So when you come out of the subway, look for a tall glass building. That's a hotel. Walk past that for two blocks and you'll see a small street on the right. That's my street. </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">There's a grocery store on the corner</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">. Go down the street and my place is the fourth house on the left. Maybe bring some CDs with you, because I don't have any dance music for the party. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Khi bạn bước ra khỏi tàu điện ngầm, hãy tìm một tòa nhà cao bằng kính. Đó là một khách sạn. Đi bộ qua đó hai dãy nhà và bạn sẽ thấy một con phố nhỏ ở bên phải. Đó là đường chỗ nhà tôi. Có một cửa hàng tạp hóa ở góc phố. Đi xuống phố và nhà tôi là ngôi nhà thứ tư bên trái. Có thể mang theo một số đĩa CD vì tôi không có nhạc dance cho bữa tiệc.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">2. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">My place is fairly easy to find.</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> Get off the bus across from the supermarket. When you get to the supermarket, could you pick up some snacks? Then walk north for two blocks. You'll see a footbridge. Cross that footbridge and you'll see a small street when you get to the other side. Go down the street, and on the corner you'll see an apartment building. That's my place. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Nhà của tôi khá dễ tìm. Xuống xe buýt đối diện với siêu thị. Khi bạn đến siêu thị, bạn có thể mua ít đồ ăn nhẹ được không? Sau đó đi bộ về phía bắc hai dãy nhà. Bạn sẽ thấy một cầu đi bộ. Băng qua cầu đi bộ đó và bạn sẽ thấy một con phố nhỏ khi sang phía bên kia. Đi xuống phố và ở góc bạn sẽ thấy một tòa nhà chung cư. Đó là chỗ của tôi.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">3. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">My apartment building is near the river. When you come out of the subway, walk towards the river and you'll see an intersection. Go through the intersection and take the first street on the left. Go down the street until you see a supermarket. My house is right next to it. If you can, could you bring some fruit to go with dinner?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Khu chung cư của tôi gần sông. Khi bạn ra khỏi tàu điện ngầm, đi bộ về phía sông và bạn sẽ thấy một ngã tư. Đi qua giao lộ và đi theo con đường đầu tiên bên trái. Đi xuống phố cho đến khi bạn nhìn thấy một siêu thị. Nhà tôi ở ngay bên cạnh. Nếu được, bạn có thể mang một ít trái cây để đi ăn tối được không?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">4. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">I live in an apartment building close to the high school.</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> Get off the bus across from the school and walk north for about four blocks. </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">You'll see a gas station on your left.</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> Turn right just past the gas station and go down the street until you see a church. My building is across from the church. Don't forget to bring your tennis racket. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Tôi sống trong một khu chung cư gần trường trung học. Xuống xe buýt đối diện trường và đi bộ về phía bắc khoảng bốn dãy nhà. Bạn sẽ thấy một trạm xăng ở bên trái của mình. Rẽ phải ngay qua trạm xăng và đi xuống đường cho đến khi bạn nhìn thấy một nhà thờ. Tòa nhà của tôi nằm đối diện với nhà thờ. Đừng quên mang theo vợt tennis của bạn nha.</span></p>\n<p><span id=\"docs-internal-guid-a31ef1ef-7fff-dc30-b4e3-c0b0f0398073\" style=\"font-size: 12pt; font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-ExtraBold; font-size: 16pt; color: #ffffff;\"><span style=\"background-color: #ba372a;\" data-cke-copybin-start=\"1\"> </span><span style=\"background-color: #ba372a;\"><strong>II. SPEAKING REVIEW </strong></span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt;\"><span style=\"box-sizing: border-box; font-weight: bolder;\">Tự tổng hợp và ôn tập lại cách hỏi và trả lời cho các câu hỏi từ đầu khoá đến giờ. Ấn nghe từng câu hỏi và phản xạ ngay lập tức nhé!</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><a style=\"box-sizing: border-box;\" href=\"https://drive.google.com/drive/folders/13q25UFvnqE95MvCdPWvqYgggnKXRA9Vs?usp=sharing\" data-cke-saved-href=\"https://drive.google.com/drive/folders/13q25UFvnqE95MvCdPWvqYgggnKXRA9Vs?usp=sharing\">https://drive.google.com/drive/folders/13q25UFvnqE95MvCdPWvqYgggnKXRA9Vs?usp=sharing</a></span></span></p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 31676,
+          "id": 301012,
+          "name": null,
+          "title": "I. Listening Script",
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span id=\"docs-internal-guid-8d86a6e2-7fff-cd2a-828c-979d65295536\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 1. Read the conversations from 1-4 about asking for and giving directions. Then finish the sentences below (a, b, c) by choosing the correct word given in the bracket.</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Đọc c&aacute;c đoạn hội thoại từ 1-4 về việc hỏi v&agrave; chỉ đường. Sau đ&oacute; ho&agrave;n th&agrave;nh c&aacute;c c&acirc;u b&ecirc;n dưới a, b, c bằng việc chọn từ đ&uacute;ng được cho trong ngoặc đơn.)</span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 72682,
+              "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Based on the conversations from 1-4 </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Dựa vào đoạn hội thoại từ 1-4)</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">:</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. Where's the </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">post office</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Example: a. Go straight (for/in) <span style=\"color: #ba372a;\">for </span>two blocks.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">b. Then, turn (left/right) [input_0].</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">c. It's (on/at) [input_1] your left.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. Where's the </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">bank</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a. Take a right (in/at) [input_2] the first (corner/intersection) [input_3].</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">b. You'll see a bank (in/on) [input_4] the right.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. Where's the </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">hotel</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a. Go straight (at/up) [input_5] two blocks.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">b. Turn right (on/at) [input_6] the light.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">c. The hotel is (in/on) [input_7] your right.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. Where's the </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">bookstore</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a. (Go/Take) [input_8] the first street on the left.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">b. (Turn/Go) [input_9] through the next intersection.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">c. It's (on/at) [input_10] the right. </span></p>\n<p><span id=\"docs-internal-guid-02d502d3-7fff-2135-b944-259e6f6f33fa\"></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31676,
+          "id": 301013,
+          "name": null,
+          "title": null,
+          "content": "<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 451.27559055118115pt;\"><colgroup><col /><col /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Example: 0. Is there a stadium</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a. for the Chelsea Hotel.</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. Go straight</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: line-through; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">b. near here?</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. Turn right </span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">c. find Centennial Park.</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. I’m looking</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">d. up Heath Street for three blocks.</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. It’s on the corner</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">e. on Cornelia Street.</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. I’m trying to</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">f. to the West Village?</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. How can I get</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">g. of Highgate Street.</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. It’s not far</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">h. me how to get to Bedford Street?</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. The office is in the first building you</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">i. from here. </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9. Can you tell</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">j. two blocks and turn left on 72nd Street.</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">10. Go up Groove Street for</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">k. see on your right.</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>",
+          "explain": "<p><strong>1. Go straight [d] up Heath Street for three blocks.</strong></p>\n<p><em><strong>Dịch:</strong> Đi thẳng phố Heath khoảng ba dãy nhà.</em></p>\n<p><strong>2. Turn right [e] on Cornelia Street.</strong></p>\n<p><em><strong>Dịch:</strong> Rẽ phải vào phố Cornelia.</em></p>\n<p><strong>3. I’m looking [a] for the Chelsea Hotel.</strong></p>\n<p><em><strong>Dịch:</strong> Tôi đang tìm Khách sạn Chelsea.</em></p>\n<p><strong>4. It’s on the corner [g] of Highgate Street.</strong></p>\n<p><em><strong>Dịch:</strong> Nó ở góc phố Highgate.</em></p>\n<p><strong>5. I’m trying to [c] find Centennial Park.</strong></p>\n<p><em><strong>Dịch:</strong> Tôi đang cố gắng tìm Công viên Centennial.</em></p>\n<p><strong>6. How can I get [f] to the West Village?</strong></p>\n<p><em><strong>Dịch:</strong> Làm thế nào để tôi đến được West Village?</em></p>\n<p><strong>7. It’s not far [i] from here.</strong></p>\n<p><em><strong>Dịch:</strong> Nó không xa từ đây.</em></p>\n<p><strong>8. The office is in the first building you [k] see on your right.</strong></p>\n<p><em><strong>Dịch:</strong> Văn phòng ở ngay tòa nhà đầu tiên bạn thấy bên tay phải.</em></p>\n<p><strong>9. Can you tell [h] me how to get to Bedford Street?</strong></p>\n<p><em><strong>Dịch:</strong> Bạn có thể chỉ cho tôi đường đến phố Bedford không?</em></p>\n<p><strong>10. Go up Groove Street for [j] two blocks and turn left on 72nd Street.</strong></p>\n<p><em><strong>Dịch:</strong> Đi thẳng phố Groove hai dãy nhà rồi rẽ trái vào phố 72.</em></p>",
+          "introduction": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 2. Finish these sentences of asking for and giving directions below by matching the beginning parts from<em>1-10</em> with their correct endings from <em>a-k. </em></span><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><em>(Hoàn thành các câu hỏi và chỉ đường sau bằng cách ghép đoạn đầu câu từ 1-10 với đoạn cuối của câu từ a-k.)</em></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Based on the conversations from 1-6 </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Dựa vào đoạn hội thoại từ 1-6)</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">:</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Example: <span style=\"color: #ba372a;\">0 -</span><span style=\"color: #ba372a;\"> b</span></span></p>\n<p><span id=\"docs-internal-guid-df764d02-7fff-17e5-5101-aa27b600cd54\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 72683,
+              "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><em>Your answers:</em></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. [input_0]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. [input_1]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. [input_2]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. [input_3]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. [input_4]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. [input_5]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. [input_6]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. [input_7]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9. [input_8]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">10. [input_9]</span></p>\n<p><span id=\"docs-internal-guid-4585e0a7-7fff-1dfd-6efb-2a3aa6d46e03\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31676,
+          "id": 301014,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-fa415a5f-7fff-2005-8fe2-0b793b4f6224\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\">1. <span style=\"text-decoration: underline;\"><em>In paragraph 1</em></span>, when you come out of the subway, which do you look for? </span></span></p>",
+          "explain": "<p><em><strong>Ở đoạn 1, khi bạn ra khỏi ga tàu điện ngầm, bạn tìm kiếm cái gì?</strong></em></p>\n<ul>\n<li>\n<p>Đáp án: a. một khách sạn</p>\n</li>\n</ul>",
+          "introduction": "<p><span id=\"docs-internal-guid-8380af41-7fff-f387-4d52-5c82ff642505\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 3. Each person from 1-4 is giving direction to their place. </span><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\"><strong>Choose the correct answer for each question.&nbsp;</strong></span></span></span><em><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular;\">(Mỗi người từ 1-4 đang chỉ đường để đi đến nơi ở của họ. Chọn đ&aacute;p &aacute;n đ&uacute;ng cho mỗi c&acirc;u hỏi.)</span></span></em></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 621493,
+                "content": "a. a hotel"
+              },
+              {
+                "id": 621494,
+                "content": "b. a small street"
+              },
+              {
+                "id": 621495,
+                "content": "c. a grocery store"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31676,
+          "id": 301015,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-f98c8bf2-7fff-2d06-9e02-d05569e10acd\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\">2. <em><span style=\"text-decoration: underline;\">In paragraph 1</span></em>, after you find the tall glass building, what do you do next? </span></span></p>",
+          "explain": "<p><em><strong>Ở đoạn 1, sau khi bạn tìm thấy tòa nhà kính cao, bạn làm gì tiếp theo?</strong></em></p>\n<ul>\n<li>\n<p>Đáp án: b. đi qua nó hai dãy nhà</p>\n</li>\n</ul>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 621496,
+                "content": "a. walk past that for four houses"
+              },
+              {
+                "id": 621497,
+                "content": "b. walk past that for two blocks"
+              },
+              {
+                "id": 621498,
+                "content": "c. go to the grocery store"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31676,
+          "id": 301016,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-02c9d73f-7fff-dac6-8a2b-cbc049dc76b3\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span id=\"docs-internal-guid-afeea7a5-7fff-0efd-1afa-a67e06c60c05\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. </span><span style=\"text-decoration: underline;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;\">In paragraph 2</span></span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, where do you need to get off the bus?</span></span></p>",
+          "explain": "<p><em><strong>Ở đoạn 2, bạn cần xuống xe buýt ở đâu?</strong></em></p>\n<ul>\n<li>\n<p>Đáp án: b. đối diện siêu thị</p>\n</li>\n</ul>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 621499,
+                "content": "a. across from the gas station"
+              },
+              {
+                "id": 621500,
+                "content": "b. across from the supermarket"
+              },
+              {
+                "id": 621501,
+                "content": "c. across from the school"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31676,
+          "id": 301017,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-d7569d51-7fff-8789-5082-73ab58853a83\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\">4. <em><span style=\"text-decoration: underline;\">In paragraph 2</span></em>, what do you do after you see a footbridge? </span></span></p>",
+          "explain": "<p><em><strong>Ở đoạn 2, bạn làm gì sau khi nhìn thấy một cây cầu đi bộ?</strong></em></p>\n<ul>\n<li>\n<p>Đáp án: b. đi qua cây cầu đó và đi xuống con phố ở phía bên kia</p>\n</li>\n</ul>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 621502,
+                "content": "a. walk past that footbridge for two blocks"
+              },
+              {
+                "id": 621503,
+                "content": "b. cross that footbridge and go down the street on the other side"
+              },
+              {
+                "id": 621504,
+                "content": "c. go to the supermarket across from the footbridge"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31676,
+          "id": 301018,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-d7569d51-7fff-8789-5082-73ab58853a83\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\">5. <span style=\"text-decoration: underline;\"><em>In Paragraph 3</em></span>, when you come out of the subway, what do you do next? </span></span></p>",
+          "explain": "<p><em><strong>Ở đoạn 3, khi bạn ra khỏi ga tàu điện ngầm, bạn làm gì tiếp theo?</strong></em></p>\n<ul>\n<li>\n<p>Đáp án: c. đi về phía con sông</p>\n</li>\n</ul>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 621505,
+                "content": "a. walk towards the supermarket"
+              },
+              {
+                "id": 621506,
+                "content": "b. walk towards the first street on the left"
+              },
+              {
+                "id": 621507,
+                "content": "c. walk towards the river"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31676,
+          "id": 301019,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-d7569d51-7fff-8789-5082-73ab58853a83\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\">6. <span style=\"text-decoration: underline;\"><em>In Paragraph 3</em></span>, what do you do after you see the intersection? </span></span></p>",
+          "explain": "<p><em><strong>Ở đoạn 3, bạn làm gì sau khi nhìn thấy ngã tư?</strong></em></p>\n<ul>\n<li>\n<p>Đáp án: a. đi qua ngã tư và rẽ vào con phố đầu tiên bên tay trái</p>\n</li>\n</ul>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 621508,
+                "content": "a. go through the intersection and take the first street on your left"
+              },
+              {
+                "id": 621509,
+                "content": "b. go through the intersection and take the street next to a supermarket"
+              },
+              {
+                "id": 621510,
+                "content": "c. go through the intersection and turn right"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31676,
+          "id": 301020,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">7. <span style=\"text-decoration: underline;\"><em>In Paragraph 4</em></span>, what do you do when you get off the bus?</span></p>",
+          "explain": "<p><em><strong>Ở đoạn 4, bạn làm gì khi xuống xe buýt?</strong></em></p>\n<ul>\n<li>\n<p>Đáp án: c. đi về phía bắc khoảng bốn dãy nhà</p>\n</li>\n</ul>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 621511,
+                "content": "a. walk north to the church"
+              },
+              {
+                "id": 621512,
+                "content": "b. walk to the high school"
+              },
+              {
+                "id": 621513,
+                "content": "c. walk north for about four blocks"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 31676,
+          "id": 301021,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">8. <span style=\"text-decoration: underline;\"><em>In Paragraph 4</em></span>,&nbsp;</span><span style=\"font-family: Nunito-Regular;\">what is the <em>final landmark (cột mốc cuối c&ugrave;ng)</em> before getting to the apartment?</span></p>",
+          "explain": "<p><em><strong>Ở đoạn 4, cột mốc cuối cùng trước khi đến căn hộ là gì?</strong></em></p>\n<ul>\n<li>\n<p>Đáp án: c. một nhà thờ</p>\n</li>\n</ul>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 621514,
+                "content": "a. a supermarket"
+              },
+              {
+                "id": 621515,
+                "content": "b. a gas station"
+              },
+              {
+                "id": 621516,
+                "content": "c. a church"
+              }
+            ]
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

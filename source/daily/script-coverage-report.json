@@ -1,0 +1,68 @@
+{
+  "generatedAt": "2026-07-15T16:33:10.348Z",
+  "missingAudioScripts": [
+    {
+      "lessonKey": "lesson-02",
+      "challengeId": 28460,
+      "classChallengeId": "79763",
+      "audioId": "lesson-02-audio-067",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708939505.mp3",
+      "localFile": "audio/daily/lesson-02/28460-1-1708939505.mp3",
+      "note": "No transcript/script found in API; use scripts.json or raw/image context as fallback."
+    },
+    {
+      "lessonKey": "lesson-02",
+      "challengeId": 28460,
+      "classChallengeId": "79763",
+      "audioId": "lesson-02-audio-068",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708939612.mp3",
+      "localFile": "audio/daily/lesson-02/28460-2-1708939612.mp3",
+      "note": "No transcript/script found in API; use scripts.json or raw/image context as fallback."
+    },
+    {
+      "lessonKey": "lesson-02",
+      "challengeId": 28460,
+      "classChallengeId": "79763",
+      "audioId": "lesson-02-audio-069",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708939618.mp3",
+      "localFile": "audio/daily/lesson-02/28460-3-1708939618.mp3",
+      "note": "No transcript/script found in API; use scripts.json or raw/image context as fallback."
+    },
+    {
+      "lessonKey": "lesson-02",
+      "challengeId": 28460,
+      "classChallengeId": "79763",
+      "audioId": "lesson-02-audio-070",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708939627.mp3",
+      "localFile": "audio/daily/lesson-02/28460-4-1708939627.mp3",
+      "note": "No transcript/script found in API; use scripts.json or raw/image context as fallback."
+    },
+    {
+      "lessonKey": "lesson-02",
+      "challengeId": 28460,
+      "classChallengeId": "79763",
+      "audioId": "lesson-02-audio-071",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708939646.mp3",
+      "localFile": "audio/daily/lesson-02/28460-5-1708939646.mp3",
+      "note": "No transcript/script found in API; use scripts.json or raw/image context as fallback."
+    },
+    {
+      "lessonKey": "lesson-02",
+      "challengeId": 28460,
+      "classChallengeId": "79763",
+      "audioId": "lesson-02-audio-072",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708939658.mp3",
+      "localFile": "audio/daily/lesson-02/28460-6-1708939658.mp3",
+      "note": "No transcript/script found in API; use scripts.json or raw/image context as fallback."
+    },
+    {
+      "lessonKey": "lesson-04",
+      "challengeId": 29126,
+      "classChallengeId": "80410",
+      "audioId": "lesson-04-audio-003",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1709179725.mp3",
+      "localFile": "audio/daily/lesson-04/29126-3-1709179725.mp3",
+      "note": "No transcript/script found in API; use scripts.json or raw/image context as fallback."
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "lesson": 4,
+  "lessonKey": "lesson-04",
+  "items": [
+    {
+      "challengeId": 29126,
+      "classChallengeId": "80410",
+      "statusMark": "graded",
+      "rate": 0,
+      "correctAnswer": 17,
+      "submittedAt": "2026-06-15 15:32:52",
+      "markedAt": "2026-06-15 22:28:00",
+      "commentText": "Helu Khánh, cô gửi nhận xét cho bài làm của mình nha.\n\r\nTrước hết, cô đã nhắc ở các bài trước về việc đọc âm IPA 3 lần trước rồi mới đọc từ, tuy nhiên em vẫn chưa thực hiện đúng yêu cầu. Vì vậy bài này cô sẽ không tick sao nhé. \n\r\n/θ/\n\r\nCô thấy em đã có cố gắng và làm tốt hơn so với trên lớp. Tuy nhiên âm /θ/ vẫn còn hơi bị ảnh hưởng bởi âm \"th\" tiếng Việt. Em tiếp tục chú ý đặt đầu lưỡi nhẹ giữa hai hàm răng và đẩy hơi ra ngoài để âm tự nhiên hơn nhé.\n\r\n/m/\n\r\nTừ most /moʊst/ em đang thiếu cụm âm cuối /st/ nên từ chưa đầy đủ. Ngoài ra từ awesome /ˈɔː.səm/ em phát âm chưa đúng phần awe /ɔː/. Em cần tròn môi hơn và kéo âm dài hơn một chút.\n\r\n/n/\n\r\nTừ nose /noʊz/ em đang đọc thành nurse /nɝːs/ nên sai nguyên âm. Ngoài ra từ next /nekst/ em phát âm chưa đúng cụm âm cuối, em cần đọc rõ /kst/ để từ được đầy đủ hơn.\n\r\n/ŋ/\n\r\nEm chưa phát âm đúng âm /ŋ/. Khi đọc âm này, phần cuối lưỡi nâng lên chạm ngạc mềm và hơi đi qua mũi, không bật thêm âm \"ngờ\" tiếng Việt. Em luyện thêm với các từ sing /sɪŋ/, long /lɔːŋ/, link /lɪŋk/ nhé.\n\r\n/j/\n\r\nEm cần phát âm âm /j/ nhẹ hơn. Hiện tại các từ trong nhóm đều bị đọc khá nặng. Ngoài ra từ yard /jɑːrd/ còn thiếu âm cuối nên chưa chính xác. Em chú ý chuyển âm nhẹ nhàng hơn và đọc đầy đủ các âm trong từ.\n\r\n/r/\n\r\nEm đang đọc âm /r/ giống tên chữ cái \"R\" trong tiếng Anh nên chưa đúng cách phát âm. Với âm /r/, đầu lưỡi không chạm vào răng hay lợi mà hơi cong nhẹ về phía sau. \n\r\n/l/\n\r\nEm chưa phát âm đúng âm /l/. Ngoài ra một số từ trong nhóm còn sai nguyên âm hoặc phụ âm như level /ˈlev.əl/, lot /lɑːt/ và pencil /ˈpen.səl/. Em cần chú ý vị trí đặt lưỡi của âm /l/ và đọc rõ từng âm trong từ thay vì đọc theo thói quen tiếng Việt.\n\r\n/ð/, /h/, /w/\n\r\nCác âm này em phát âm khá tốt và tương đối chính xác. Em tiếp tục duy trì nhé.\n\r\nEm đọc kĩ nhận xét và luyện tập lại để mình ngày càng tiến bộ hơn nhé.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "273622": {
+          "total_question": 5,
+          "total_correct_result_answer": 5,
+          "user_answer": {
+            "input_0": "breakfast",
+            "input_1": "lunch",
+            "input_2": "dinner",
+            "input_3": "tea",
+            "input_4": "film"
+          },
+          "correct_answer": {
+            "input_0": [
+              "breakfast"
+            ],
+            "input_1": [
+              "lunch"
+            ],
+            "input_2": [
+              "dinner"
+            ],
+            "input_3": [
+              "tea",
+              "chocolate",
+              "coffee"
+            ],
+            "input_4": [
+              "film",
+              "video"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 273622,
+          "challenge_id": 29126
+        },
+        "273623": {
+          "total_question": 4,
+          "total_correct_result_answer": 4,
+          "user_answer": {
+            "input_0": "tired",
+            "input_1": "angry",
+            "input_2": "happy",
+            "input_3": "sick"
+          },
+          "correct_answer": {
+            "input_0": [
+              "tired"
+            ],
+            "input_1": [
+              "angry"
+            ],
+            "input_2": [
+              "happy"
+            ],
+            "input_3": [
+              "sick"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 273623,
+          "challenge_id": 29126
+        },
+        "273624": {
+          "total_question": 6,
+          "total_correct_result_answer": 6,
+          "user_answer": {
+            "input_0": "mistakes",
+            "input_1": "noise",
+            "input_2": "mess",
+            "input_3": "choice",
+            "input_4": "appointment",
+            "input_5": "bed"
+          },
+          "correct_answer": {
+            "input_0": [
+              "mistakes"
+            ],
+            "input_1": [
+              "noise"
+            ],
+            "input_2": [
+              "mess"
+            ],
+            "input_3": [
+              "choice"
+            ],
+            "input_4": [
+              "appointment"
+            ],
+            "input_5": [
+              "bed"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 273624,
+          "challenge_id": 29126
+        },
+        "273625": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "make some coffee - pha cà phê\nmake dinner - nấu bữa tối\nmake breakfast - nấu bữa sáng\nmake some tea - pha trà\nmake a film - làm phim\nmake me feel tired - khiến tôi mệt mỏi\nmake a mistake - mắc lỗi\nmake an appointment - đặt lịch hẹn\nmake my bed - dọn giường\nmake noise - làm ồn\nmake a mess - làm lộn xộn\nmake a good choice - chọn khéo",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 273625,
+          "challenge_id": 29126
+        },
+        "273626": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://drive.google.com/drive/folders/1gnHXRMX_20jCmFtNGF9zgcuW42OjBRD7",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 273626,
+          "challenge_id": 29126
+        }
+      }
+    },
+    {
+      "challengeId": 29127,
+      "classChallengeId": "80411",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 24,
+      "submittedAt": "2026-06-15 15:45:55",
+      "markedAt": "2026-06-17 00:00:07",
+      "commentText": "Hi Khánh, em làm bài này khá ổn nhé.\n\r\nCô thấy em đang sai bài ghép cụm từ nhiều. Em đọc kĩ phần giải thích đáp án để hiểu tại sao mình lại sai nhé.\n\r\nEm rút kinh nghiệm để bài sau làm tốt hơn nha.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "273627": {
+          "total_question": 10,
+          "total_correct_result_answer": 9,
+          "user_answer": {
+            "input_0": "say",
+            "input_1": "answer",
+            "input_2": "speak",
+            "input_3": "Tell",
+            "input_4": "say",
+            "input_5": "ask",
+            "input_6": "tell",
+            "input_7": "ask",
+            "input_8": "reply",
+            "input_9": "answer"
+          },
+          "correct_answer": {
+            "input_0": [
+              "say"
+            ],
+            "input_1": [
+              "tell"
+            ],
+            "input_2": [
+              "speak"
+            ],
+            "input_3": [
+              "Tell",
+              "tell"
+            ],
+            "input_4": [
+              "say"
+            ],
+            "input_5": [
+              "ask",
+              "tell"
+            ],
+            "input_6": [
+              "tell"
+            ],
+            "input_7": [
+              "ask"
+            ],
+            "input_8": [
+              "reply"
+            ],
+            "input_9": [
+              "answer"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": false,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 273627,
+          "challenge_id": 29127
+        },
+        "273628": {
+          "total_question": 7,
+          "total_correct_result_answer": 1,
+          "user_answer": {
+            "input_0": "d",
+            "input_1": "h",
+            "input_2": "b",
+            "input_3": "a",
+            "input_4": "f",
+            "input_5": "e",
+            "input_6": "c"
+          },
+          "correct_answer": {
+            "input_0": [
+              "h"
+            ],
+            "input_1": [
+              "g"
+            ],
+            "input_2": [
+              "a"
+            ],
+            "input_3": [
+              "f"
+            ],
+            "input_4": [
+              "e"
+            ],
+            "input_5": [
+              "b"
+            ],
+            "input_6": [
+              "c"
+            ]
+          },
+          "result_answer": {
+            "input_0": false,
+            "input_1": false,
+            "input_2": false,
+            "input_3": false,
+            "input_4": false,
+            "input_5": false,
+            "input_6": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 273628,
+          "challenge_id": 29127
+        },
+        "273629": {
+          "total_question": 7,
+          "total_correct_result_answer": 7,
+          "user_answer": {
+            "input_0": "dance",
+            "input_1": "run",
+            "input_2": "swim",
+            "input_3": "climb",
+            "input_4": "fall",
+            "input_5": "walk",
+            "input_6": "jump"
+          },
+          "correct_answer": {
+            "input_0": [
+              "dance"
+            ],
+            "input_1": [
+              "run",
+              "walk"
+            ],
+            "input_2": [
+              "swim"
+            ],
+            "input_3": [
+              "climb"
+            ],
+            "input_4": [
+              "fall"
+            ],
+            "input_5": [
+              "walk"
+            ],
+            "input_6": [
+              "jump"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 273629,
+          "challenge_id": 29127
+        },
+        "273630": {
+          "total_question": 6,
+          "total_correct_result_answer": 6,
+          "user_answer": {
+            "input_0": "drive",
+            "input_1": "take",
+            "input_2": "take",
+            "input_3": "ride",
+            "input_4": "go by",
+            "input_5": "ride"
+          },
+          "correct_answer": {
+            "input_0": [
+              "drive"
+            ],
+            "input_1": [
+              "take"
+            ],
+            "input_2": [
+              "take"
+            ],
+            "input_3": [
+              "ride"
+            ],
+            "input_4": [
+              "go by"
+            ],
+            "input_5": [
+              "ride"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 273630,
+          "challenge_id": 29127
+        },
+        "273631": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "say please - nói làm ơn\nsay Happy Birthday - chúc mừng sinh nhật\ntell a joke - kể chuyện cười\ntell a story - kể chuyện\ntell someone the time - nói giờ cho ai\nask a question - đặt câu hỏi\nask for the bill - xin hóa đơn\nask someone the way - hỏi đường\nreply to an email - trả lời email\nanswer the telephone - nghe điện thoại\nanswer the door - mở cửa\ngo by bus - đi xe buýt\nride a motorbike - đi xe máy",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 273631,
+          "challenge_id": 29127
+        }
+      }
+    }
+  ]
+}

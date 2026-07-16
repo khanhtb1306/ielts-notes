@@ -1,0 +1,480 @@
+{
+  "lesson": 11,
+  "lessonKey": "lesson-11",
+  "items": [
+    {
+      "challengeId": 31675,
+      "classChallengeId": "82860",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 29,
+      "submittedAt": "2026-07-04 22:39:18",
+      "markedAt": "2026-07-05 16:54:35",
+      "commentText": "Hi Khánh, bài này em làm tốt nhé. Em check chỉnh sửa của cô trong doc nha.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "301007": {
+          "total_question": 8,
+          "total_correct_result_answer": 8,
+          "user_answer": {
+            "input_0": "on",
+            "input_1": "on",
+            "input_2": "in",
+            "input_4": "in",
+            "input_3": "in",
+            "input_5": "on",
+            "input_6": "at",
+            "input_7": "on"
+          },
+          "correct_answer": {
+            "input_0": [
+              "on"
+            ],
+            "input_1": [
+              "on"
+            ],
+            "input_2": [
+              "in"
+            ],
+            "input_3": [
+              "in"
+            ],
+            "input_4": [
+              "in"
+            ],
+            "input_5": [
+              "on"
+            ],
+            "input_6": [
+              "at"
+            ],
+            "input_7": [
+              "on"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 301007,
+          "challenge_id": 31675
+        },
+        "301008": {
+          "total_question": 5,
+          "total_correct_result_answer": 5,
+          "user_answer": {
+            "input_0": "on",
+            "input_1": "in",
+            "input_2": "next to",
+            "input_3": "against",
+            "input_4": "opposite"
+          },
+          "correct_answer": {
+            "input_0": [
+              "on"
+            ],
+            "input_1": [
+              "in"
+            ],
+            "input_2": [
+              "next to"
+            ],
+            "input_3": [
+              "against"
+            ],
+            "input_4": [
+              "across from",
+              "opposite"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 301008,
+          "challenge_id": 31675
+        },
+        "301009": {
+          "total_question": 8,
+          "total_correct_result_answer": 8,
+          "user_answer": {
+            "input_0": "in",
+            "input_1": "between",
+            "input_2": "above",
+            "input_3": "on",
+            "input_4": "on",
+            "input_5": "in",
+            "input_6": "on",
+            "input_7": "on"
+          },
+          "correct_answer": {
+            "input_0": [
+              "in"
+            ],
+            "input_1": [
+              "between"
+            ],
+            "input_2": [
+              "above"
+            ],
+            "input_3": [
+              "on"
+            ],
+            "input_4": [
+              "on"
+            ],
+            "input_5": [
+              "in"
+            ],
+            "input_6": [
+              "on"
+            ],
+            "input_7": [
+              "on"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 301009,
+          "challenge_id": 31675
+        },
+        "301010": {
+          "total_question": 7,
+          "total_correct_result_answer": 7,
+          "user_answer": {
+            "input_0": "The clock is on the wall.",
+            "input_1": "The table is under the window",
+            "input_2": "The computer is on the table.",
+            "input_3": "The teddy bear is on the chest of drawers.",
+            "input_4": "The book is on the bed",
+            "input_5": "The stool is under the table.",
+            "input_6": "The guitar is between the chest of drawers and the bed."
+          },
+          "correct_answer": {
+            "input_0": [
+              "The clock is on the wall."
+            ],
+            "input_1": [
+              "The table is under the window."
+            ],
+            "input_2": [
+              "The computer is on the table."
+            ],
+            "input_3": [
+              "The teddy bear is on the chest of drawers."
+            ],
+            "input_4": [
+              "The book is on the bed."
+            ],
+            "input_5": [
+              "The stool is under the table."
+            ],
+            "input_6": [
+              "The guitar is between the bed and the chest of drawers.",
+              " The guitar is between the chest of drawers and the bed."
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 301010,
+          "challenge_id": 31675
+        },
+        "301011": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://docs.google.com/document/d/1G00jE6-TXvDyIh6mY2HDsBXHAY9yyHk7wJLWw2tODxQ/edit?usp=sharing",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 301011,
+          "challenge_id": 31675
+        }
+      }
+    },
+    {
+      "challengeId": 31676,
+      "classChallengeId": "82861",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 29,
+      "submittedAt": "2026-07-04 23:05:43",
+      "markedAt": "2026-07-05 17:15:53",
+      "commentText": "Hi Khánh, bài này em làm đúng 100% rồi nha. You aced the test!",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "301012": {
+          "total_question": 11,
+          "total_correct_result_answer": 11,
+          "user_answer": {
+            "input_0": "left",
+            "input_1": "on",
+            "input_2": "at",
+            "input_3": "corner",
+            "input_4": "on",
+            "input_5": "up",
+            "input_6": "at",
+            "input_7": "on",
+            "input_8": "Take",
+            "input_9": "Go",
+            "input_10": "on"
+          },
+          "correct_answer": {
+            "input_0": [
+              "left"
+            ],
+            "input_1": [
+              "on"
+            ],
+            "input_2": [
+              "at"
+            ],
+            "input_3": [
+              "corner"
+            ],
+            "input_4": [
+              "on"
+            ],
+            "input_5": [
+              "up"
+            ],
+            "input_6": [
+              "at"
+            ],
+            "input_7": [
+              "on"
+            ],
+            "input_8": [
+              "Take"
+            ],
+            "input_9": [
+              "Go"
+            ],
+            "input_10": [
+              "on"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true,
+            "input_10": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 301012,
+          "challenge_id": 31676
+        },
+        "301013": {
+          "total_question": 10,
+          "total_correct_result_answer": 10,
+          "user_answer": {
+            "input_0": "d",
+            "input_1": "e",
+            "input_2": "a",
+            "input_3": "g",
+            "input_4": "c",
+            "input_5": "f",
+            "input_6": "i",
+            "input_7": "k",
+            "input_8": "h",
+            "input_9": "j"
+          },
+          "correct_answer": {
+            "input_0": [
+              "d"
+            ],
+            "input_1": [
+              "e"
+            ],
+            "input_2": [
+              "a"
+            ],
+            "input_3": [
+              "g"
+            ],
+            "input_4": [
+              "c"
+            ],
+            "input_5": [
+              "f"
+            ],
+            "input_6": [
+              "i"
+            ],
+            "input_7": [
+              "k"
+            ],
+            "input_8": [
+              "h"
+            ],
+            "input_9": [
+              "j"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 301013,
+          "challenge_id": 31676
+        },
+        "301014": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621493,
+          "correct_answer": 621493,
+          "result_answer": {
+            "621493": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 301014,
+          "challenge_id": 31676
+        },
+        "301015": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621497,
+          "correct_answer": 621497,
+          "result_answer": {
+            "621497": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 301015,
+          "challenge_id": 31676
+        },
+        "301016": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621500,
+          "correct_answer": 621500,
+          "result_answer": {
+            "621500": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 301016,
+          "challenge_id": 31676
+        },
+        "301017": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621503,
+          "correct_answer": 621503,
+          "result_answer": {
+            "621503": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 301017,
+          "challenge_id": 31676
+        },
+        "301018": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621507,
+          "correct_answer": 621507,
+          "result_answer": {
+            "621507": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 301018,
+          "challenge_id": 31676
+        },
+        "301019": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621508,
+          "correct_answer": 621508,
+          "result_answer": {
+            "621508": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 301019,
+          "challenge_id": 31676
+        },
+        "301020": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621513,
+          "correct_answer": 621513,
+          "result_answer": {
+            "621513": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 301020,
+          "challenge_id": 31676
+        },
+        "301021": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621516,
+          "correct_answer": 621516,
+          "result_answer": {
+            "621516": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 301021,
+          "challenge_id": 31676
+        }
+      }
+    }
+  ]
+}

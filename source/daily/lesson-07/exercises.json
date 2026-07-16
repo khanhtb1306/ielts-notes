@@ -1,0 +1,1629 @@
+{
+  "lesson": 7,
+  "lessonKey": "lesson-07",
+  "questions": [
+    {
+      "id": "question-286728",
+      "sourceQuestionId": 286728,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": "Grammar",
+      "type": 4,
+      "prompt": "Grammar",
+      "introductionText": "",
+      "contentText": "Exercise 1.\n\nChoose the correct answer. (Chọn phương án đúng)\n\n1) My mother has ___ wrinkles (nếp nhăn) around her eyes, but she still looks young and pretty.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "→ \"Wrinkles\" là danh từ đếm được số nhiều + câu khẳng định → dùng “some”\n\nMẹ tôi có một vài nếp nhăn quanh mắt, nhưng bà vẫn trông trẻ trung và xinh đẹp.",
+      "rawHtml": {
+        "title": "Grammar",
+        "introduction": null,
+        "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\"><strong><span style=\"font-family: Nunito-ExtraBold;\">Exercise 1. </span></strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\"><strong>Choose the correct answer.</strong> <em>(Chọn phương án đúng)</em></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\">1) My mother has <strong data-start=\"489\" data-end=\"496\">___</strong> wrinkles <em>(nếp nhăn)</em> around her eyes, but she still looks young and pretty.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">→ \"Wrinkles\" là danh từ đếm được số nhiều + câu khẳng định → dùng “some”</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">Mẹ tôi có <strong>một vài</strong> nếp nhăn quanh mắt, nhưng bà vẫn trông trẻ trung và xinh đẹp.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 588931,
+        "correctAnswer": 588931,
+        "resultAnswer": {
+          "588931": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286729",
+      "sourceQuestionId": 286729,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 4,
+      "prompt": "2) My father doesn’t wear ___ colorful clothes – he prefers dark colors.",
+      "introductionText": "",
+      "contentText": "2) My father doesn’t wear ___ colorful clothes – he prefers dark colors.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "“Colorful clothes” là danh từ số nhiều + phủ định → dùng “any”.\n\nBố tôi không mặc bất kỳ bộ quần áo sặc sỡ nào – ông ấy thích màu tối hơn.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\">2) My father doesn’t wear <strong data-start=\"444\" data-end=\"451\">___</strong> colorful clothes – he prefers dark colors.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p>“Colorful clothes” là danh từ số nhiều + phủ định → dùng “any”.</p>\n<p>Bố tôi không mặc <strong>bất kỳ</strong> bộ quần áo sặc sỡ nào – ông ấy thích màu tối hơn.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 588936,
+        "correctAnswer": 588936,
+        "resultAnswer": {
+          "588936": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286730",
+      "sourceQuestionId": 286730,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 4,
+      "prompt": "3) My sister usually wears ___ makeup when she goes out.",
+      "introductionText": "",
+      "contentText": "3) My sister usually wears ___ makeup when she goes out.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "“Makeup” là danh từ không đếm được + tích cực→ dùng “a little”.\n\nChị tôi thường trang điểm một chút khi ra ngoài.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\">3) My sister usually wears <strong data-start=\"648\" data-end=\"655\">___</strong> makeup when she goes out.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">“Makeup” là danh từ không đếm được + tích cực→ dùng “a little”.</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">Chị tôi thường trang điểm <strong>một chút</strong> khi ra ngoài.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 588940,
+        "correctAnswer": 588940,
+        "resultAnswer": {
+          "588940": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286731",
+      "sourceQuestionId": 286731,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 4,
+      "prompt": "4) There are only ___ shirts in his wardrobe because he prefers T-shirts.",
+      "introductionText": "",
+      "contentText": "4) There are only ___ shirts in his wardrobe because he prefers T-shirts.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "“Shirts” là danh từ đếm được + nhấn mạnh số lượng ít → dùng “few”.\n\nCó rất ít áo sơ mi trong tủ quần áo của anh ấy vì anh ấy thích áo phông hơn.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\">4) There are only <strong data-start=\"839\" data-end=\"846\">___</strong> shirts in his wardrobe because he prefers T-shirts.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">“Shirts” là danh từ đếm được + nhấn mạnh số lượng ít → dùng “few”.</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">Có <strong>rất ít</strong> áo sơ mi trong tủ quần áo của anh ấy vì anh ấy thích áo phông hơn.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 588943,
+        "correctAnswer": 588943,
+        "resultAnswer": {
+          "588943": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286732",
+      "sourceQuestionId": 286732,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 4,
+      "prompt": "5) He spends ___ time getting ready in the morning.",
+      "introductionText": "",
+      "contentText": "5) He spends ___ time getting ready in the morning.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "“Time” là danh từ không đếm được + tích cực → dùng “a little”.\n\nAnh ấy dành một ít thời gian để chuẩn bị vào buổi sáng.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\">5) He spends <strong data-start=\"1042\" data-end=\"1049\">___</strong> time getting ready in the morning.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">“Time” là danh từ không đếm được + tích cực → dùng “a little”.</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">Anh ấy dành <strong>một ít</strong> thời gian để chuẩn bị vào buổi sáng.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 588950,
+        "correctAnswer": 588950,
+        "resultAnswer": {
+          "588950": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286733",
+      "sourceQuestionId": 286733,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 4,
+      "prompt": "6) My brother has ___ pairs of jeans. He wears a different one every day!",
+      "introductionText": "",
+      "contentText": "6) My brother has ___ pairs of jeans. He wears a different one every day!",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "“Pairs of jeans” là danh từ đếm được số nhiều + câu khẳng định → dùng “a lot of”.\n\nAnh trai tôi có rất nhiều quần jean. Anh ấy mặc một cái khác mỗi ngày!",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\">6) My brother has <strong data-start=\"1235\" data-end=\"1242\">___</strong> pairs of jeans. He wears a different one every day!</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">“Pairs of jeans” là danh từ đếm được số nhiều + câu khẳng định → dùng “a lot of”.</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">Anh trai tôi có <strong>rất nhiều</strong> quần jean. Anh ấy mặc một cái khác mỗi ngày!</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 588951,
+        "correctAnswer": 588951,
+        "resultAnswer": {
+          "588951": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286734",
+      "sourceQuestionId": 286734,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 4,
+      "prompt": "7) How ___ T-shirts do you have?",
+      "introductionText": "",
+      "contentText": "7) How ___ T-shirts do you have?",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "“T-shirts” là danh từ đếm được số nhiều + câu hỏi → dùng “how many”.\n\n Bạn có bao nhiêu cái áo phông?",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\">7) How <strong data-start=\"1451\" data-end=\"1458\">___</strong> T-shirts do you have?</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">“T-shirts” là danh từ đếm được số nhiều + câu hỏi → dùng “how many”.</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"> Bạn có <strong>bao nhiêu</strong> cái áo phông?</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 588955,
+        "correctAnswer": 588955,
+        "resultAnswer": {
+          "588955": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286735",
+      "sourceQuestionId": 286735,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 4,
+      "prompt": "8) How ___ perfume (nước hoa) does your mom use every day?",
+      "introductionText": "",
+      "contentText": "8) How ___ perfume (nước hoa) does your mom use every day?",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "“Perfume” là danh từ không đếm được + câu hỏi → dùng “how much”.\n\nMẹ bạn dùng bao nhiêu nước hoa mỗi ngày?",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\">8) How <strong data-start=\"1620\" data-end=\"1627\">___</strong> perfume <em>(nước hoa)</em> does your mom use every day?</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">“Perfume” là danh từ không đếm được + câu hỏi → dùng “how much”.</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">Mẹ bạn dùng <strong>bao nhiêu</strong> nước hoa mỗi ngày?</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 588960,
+        "correctAnswer": 588960,
+        "resultAnswer": {
+          "588960": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286736",
+      "sourceQuestionId": 286736,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 4,
+      "prompt": "9) There are ___ jackets in the closet if you need one.",
+      "introductionText": "",
+      "contentText": "9) There are ___ jackets in the closet if you need one.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "“Jackets” là danh từ đếm được + có một vài cái (tích cực) → dùng “a few”.\n\nCó một vài chiếc áo khoác trong tủ nếu bạn cần.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\">9) There are <strong data-start=\"1806\" data-end=\"1813\">___</strong> jackets in the closet if you need one.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">“Jackets” là danh từ đếm được + có một vài cái (tích cực) → dùng “a few”.</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">Có <strong>một vài</strong> chiếc áo khoác trong tủ nếu bạn cần.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 588964,
+        "correctAnswer": 588964,
+        "resultAnswer": {
+          "588964": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286737",
+      "sourceQuestionId": 286737,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 4,
+      "prompt": "10) He doesn’t eat ___ junk food because he’s on a diet.",
+      "introductionText": "",
+      "contentText": "10) He doesn’t eat ___ junk food because he’s on a diet.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "Junk food” là danh từ không đếm được + phủ định → dùng “much”.\n\nAnh ấy không ăn nhiều đồ ăn vặt vì anh ấy đang ăn kiêng.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\">10) He doesn’t eat <strong data-start=\"2010\" data-end=\"2017\">___</strong> junk food because he’s on a diet.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">Junk food” là danh từ không đếm được + phủ định → dùng “much”.</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">Anh ấy không ăn <strong>nhiều</strong> đồ ăn vặt vì anh ấy đang ăn kiêng.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 588968,
+        "correctAnswer": 588968,
+        "resultAnswer": {
+          "588968": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286738",
+      "sourceQuestionId": 286738,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 4,
+      "prompt": "11) My father has ___ grey hair, but he still looks strong and healthy.",
+      "introductionText": "",
+      "contentText": "11) My father has ___ grey hair, but he still looks strong and healthy.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "“Hair” (ở đây là danh từ không đếm được) + câu khẳng định → dùng “some”.\n\nBố tôi có một ít tóc bạc, nhưng ông ấy vẫn trông khỏe mạnh và cường tráng.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\">11) My father has <strong data-start=\"2202\" data-end=\"2209\">___</strong> grey hair, but he still looks strong and healthy.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">“Hair” (ở đây là danh từ không đếm được) + câu khẳng định → dùng “some”.</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">Bố tôi có <strong>một ít</strong> tóc bạc, nhưng ông ấy vẫn trông khỏe mạnh và cường tráng.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 588973,
+        "correctAnswer": 588973,
+        "resultAnswer": {
+          "588973": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286739",
+      "sourceQuestionId": 286739,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 4,
+      "prompt": "12) My sister doesn't have ___ shoes – maybe only 2 or 3 pairs.",
+      "introductionText": "",
+      "contentText": "12) My sister doesn't have ___ shoes – maybe only 2 or 3 pairs.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "“Shoes” là danh từ đếm được số nhiều + phủ định → dùng “many”.\n\n Chị tôi không có nhiều giày – có lẽ chỉ 2 hoặc 3 đôi.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\">12) My sister doesn't have <strong data-start=\"2425\" data-end=\"2432\">___</strong> shoes – maybe only 2 or 3 pairs.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p data-start=\"2402\" data-end=\"2590\">“Shoes” là danh từ đếm được số nhiều + phủ định → dùng “many”.</p>\n<p data-start=\"2402\" data-end=\"2590\"> Chị tôi không có <strong>nhiều</strong> giày – có lẽ chỉ 2 hoặc 3 đôi.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 588977,
+        "correctAnswer": 588977,
+        "resultAnswer": {
+          "588977": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286740",
+      "sourceQuestionId": 286740,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 4,
+      "prompt": "13) She usually puts on ___ jewelry before leaving the house.",
+      "introductionText": "",
+      "contentText": "13) She usually puts on ___ jewelry before leaving the house.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "“Jewelry” là danh từ không đếm được + ý tích cực → dùng “a little”.\n\nCô ấy thường đeo một ít trang sức trước khi rời khỏi nhà.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\">13) She usually puts on <strong data-start=\"2616\" data-end=\"2623\">___</strong> jewelry before leaving the house.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">“Jewelry” là danh từ không đếm được + ý tích cực → dùng “a little”.</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">Cô ấy thường đeo <strong>một ít</strong> trang sức trước khi rời khỏi nhà.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 588980,
+        "correctAnswer": 588980,
+        "resultAnswer": {
+          "588980": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286741",
+      "sourceQuestionId": 286741,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 4,
+      "prompt": "14) There aren’t ___ people who dress like him in my neighborhood (khu vực sống).",
+      "introductionText": "",
+      "contentText": "14) There aren’t ___ people who dress like him in my neighborhood (khu vực sống).",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "“People” là danh từ đếm được số nhiều + phủ định → dùng “many”.\n\nKhông có nhiều người ăn mặc giống anh ấy trong khu phố của tôi.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\">14) There aren’t <strong data-start=\"2811\" data-end=\"2818\">___</strong> people who dress like him in my neighborhood <em>(khu vực sống)</em>.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">“People” là danh từ đếm được số nhiều + phủ định → dùng “many”.</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">Không có <strong>nhiều</strong> người ăn mặc giống anh ấy trong khu phố của tôi.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 0,
+        "userAnswer": 588984,
+        "correctAnswer": 588983,
+        "resultAnswer": {
+          "588984": false
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286742",
+      "sourceQuestionId": 286742,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 4,
+      "prompt": "15) I don’t know how ___ shampoo (dầu gội đầu) he uses, but his hair always smells great.",
+      "introductionText": "",
+      "contentText": "15) I don’t know how ___ shampoo (dầu gội đầu) he uses, but his hair always smells great.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "“Shampoo” là danh từ không đếm được + câu hỏi → dùng “how much”.\n\nTôi không biết anh ấy dùng bao nhiêu dầu gội, nhưng tóc anh ấy lúc nào cũng thơm.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\">15) I don’t know how <strong data-start=\"3013\" data-end=\"3020\">___</strong> shampoo <em>(dầu gội đầu)</em> he uses, but his hair always smells great.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">“Shampoo” là danh từ không đếm được + câu hỏi → dùng “how much”.</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">Tôi không biết anh ấy dùng bao <strong>nhiêu</strong> dầu gội, nhưng tóc anh ấy lúc nào cũng thơm.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 588989,
+        "correctAnswer": 588989,
+        "resultAnswer": {
+          "588989": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286743",
+      "sourceQuestionId": 286743,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 4,
+      "prompt": "16) My mom usually wears ___ elegant dresses when she goes to events.",
+      "introductionText": "",
+      "contentText": "16) My mom usually wears ___ elegant dresses when she goes to events.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "“Dresses” là danh từ đếm được + câu khẳng định → dùng “a few”.\n\nMẹ tôi thường mặc một vài chiếc váy thanh lịch khi đi sự kiện.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\">16) My mom usually wears <strong data-start=\"3224\" data-end=\"3231\">___</strong> elegant dresses when she goes to events.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">“Dresses” là danh từ đếm được + câu khẳng định → dùng “a few”.</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">Mẹ tôi thường mặc <strong>một vài</strong> chiếc váy thanh lịch khi đi sự kiện.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 588992,
+        "correctAnswer": 588992,
+        "resultAnswer": {
+          "588992": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286744",
+      "sourceQuestionId": 286744,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 4,
+      "prompt": "17) My brother doesn't care about fashion, so he has very ___ interest in clothes.",
+      "introductionText": "",
+      "contentText": "17) My brother doesn't care about fashion, so he has very ___ interest in clothes.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "“Interest” là danh từ không đếm được + mang nghĩa tiêu cực → dùng “little”.\n\nAnh trai tôi không quan tâm đến thời trang, vì vậy anh ấy có rất ít hứng thú với quần áo.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\">17) My brother doesn't care about fashion, so he has very <strong data-start=\"3457\" data-end=\"3464\">___</strong> interest in clothes.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">“Interest” là danh từ không đếm được + mang nghĩa tiêu cực → dùng “little”.</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">Anh trai tôi không quan tâm đến thời trang, vì vậy anh ấy có <strong>rất ít </strong>hứng thú với quần áo.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 0,
+        "userAnswer": 588996,
+        "correctAnswer": 588997,
+        "resultAnswer": {
+          "588996": false
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286745",
+      "sourceQuestionId": 286745,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 4,
+      "prompt": "18) How ___ clothes do you usually buy each month?",
+      "introductionText": "",
+      "contentText": "18) How ___ clothes do you usually buy each month?",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "“Clothes” là danh từ đếm được số nhiều + câu hỏi → dùng “how many”.\n\nBạn thường mua bao nhiêu quần áo mỗi tháng?",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\">18) How <strong data-start=\"3637\" data-end=\"3644\">___</strong> clothes do you usually buy each month?</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">“Clothes” là danh từ đếm được số nhiều + câu hỏi → dùng “how many”.</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">Bạn thường mua <strong>bao nhiêu</strong> quần áo mỗi tháng?</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 588999,
+        "correctAnswer": 588999,
+        "resultAnswer": {
+          "588999": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286746",
+      "sourceQuestionId": 286746,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 4,
+      "prompt": "19) There are ___ nice shirts in that store – we should go shopping there.",
+      "introductionText": "",
+      "contentText": "19) There are ___ nice shirts in that store – we should go shopping there.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "“Shirts” là danh từ đếm được số nhiều + câu khẳng định → dùng “some”.\n\nCó một vài chiếc áo đẹp trong cửa hàng đó – chúng ta nên đi mua sắm ở đó.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\">19) There are <strong data-start=\"3827\" data-end=\"3834\">___</strong> nice shirts in that store – we should go shopping there.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">“Shirts” là danh từ đếm được số nhiều + câu khẳng định → dùng “some”.</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">Có <strong>một vài</strong> chiếc áo đẹp trong cửa hàng đó – chúng ta nên đi mua sắm ở đó.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 589005,
+        "correctAnswer": 589005,
+        "resultAnswer": {
+          "589005": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286747",
+      "sourceQuestionId": 286747,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 4,
+      "prompt": "20) I didn’t see ___ interesting styles at the market today.",
+      "introductionText": "",
+      "contentText": "20) I didn’t see ___ interesting styles at the market today.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "“Styles” là danh từ đếm được số nhiều + phủ định → dùng “any”.\n\nHôm nay tôi không thấy bất kỳ kiểu dáng thú vị nào ở chợ.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Nunito-Regular;\">20) I didn’t see <strong data-start=\"4046\" data-end=\"4053\">___</strong> interesting styles at the market today.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">“Styles” là danh từ đếm được số nhiều + phủ định → dùng “any”.</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\">Hôm nay tôi không thấy <strong>bất kỳ</strong> kiểu dáng thú vị nào ở chợ.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 589010,
+        "correctAnswer": 589010,
+        "resultAnswer": {
+          "589010": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286748",
+      "sourceQuestionId": 286748,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2. \n\nFill in the blank with ‘a few, few, a little, little, much, many, some, any’ (Điền từ thích hợp vào chỗ trống ‘a few, few, a little, little, much, many, some, any’)",
+      "introductionText": "",
+      "contentText": "Exercise 2. \n\nFill in the blank with ‘a few, few, a little, little, much, many, some, any’ (Điền từ thích hợp vào chỗ trống ‘a few, few, a little, little, much, many, some, any’)",
+      "answerTemplateText": "I couldn't find [input_0] clothes that fit me at that shop.\n\nMy dad owns [input_1] suits, mostly in grey and navy.\n\nShe spends too [input_2] time choosing what to wear.\n\nHe doesn't wear [input_3] bright colors — only neutral tones.\n\nMy sister doesn't use [input_4] beauty products (sản phẩm làm đẹp), just a moisturizer (dưỡng ấm).\n\nHe usually wears [input_5] basic T-shirts and jeans.\n\nHe only has [input_6] good shirts suitable for formal events (sự kiện trang trọng).\n\nAre there [input_7] hair products you can recommend (gợi ý)?\n\nMy dad bought [input_8] new shoes last week.\n\nMy brother has [input_9] confidence (sự tự tin) in his fashion choices.\n\nDo you have [input_10] photos of your family?\n\nI have [input_11] good friends who like my style.\n\nThere are [input_12] children in my class who wear glasses.\n\nHow [input_13] pairs of shoes do you have?\n\nI always bring [input_14] tissues (khăn giấy) with me in case of emergencies (trường hợp khẩn cấp).",
+      "explanationText": "1. “Clothes” là danh từ đếm được số nhiều, đi với câu phủ định → dùng “any”\n\nDịch nghĩa: Tôi không thể tìm thấy bất kỳ bộ quần áo nào vừa với mình ở cửa hàng đó.\n\n2. “Suits” là danh từ đếm được số nhiều, mệnh đề khẳng định → dùng “a few”/\"many\"/\"some\"\n\nDịch nghĩa: Bố tôi sở hữu vài/nhiều bộ vest, chủ yếu màu xám và xanh navy.\n\n3. “Time” là danh từ không đếm được + \"quá nhiều\" hoặc \"quá ít\" đều hợp lý → dùng “too little” hoặc “too much”\n\nDịch nghĩa: Cô ấy dành quá ít/nhiều thời gian để chọn đồ mặc.\n\n4. “Bright colors” là danh từ đếm được số nhiều, mệnh đề phủ định → dùng “many”/\"any\"\n\nDịch nghĩa: Anh ấy không mặc nhiều/bất kì màu sáng nào — chỉ toàn tông màu trung tính.\n\n5. “Beauty products” là danh từ đếm được số nhiều, câu phủ định → dùng “many”. Câu này không dùng \"any\" được vì \"người chị\" vẫn dùng một loại kem dưỡng ẩm.\n\nDịch nghĩa: Chị tôi không dùng nhiều sản phẩm làm đẹp, chỉ dùng một loại kem dưỡng ẩm.\n\n6. “T-shirts” là danh từ đếm được số nhiều, câu khẳng định → dùng “some”\n\nDịch nghĩa: Anh ấy thường mặc một vài chiếc áo phông và quần jean cơ bản.\n\n7. “Shirts” là danh từ đếm được số nhiều, mang sắc thái tiêu cực (“only few”) → dùng “few”\n\nDịch nghĩa: Anh ấy chỉ có rất ít áo sơ mi đẹp phù hợp cho các sự kiện trang trọng.\n\n8. Câu hỏi + danh từ đếm được (“hair products”) → dùng “any”\n\nDịch nghĩa: Có sản phẩm dưỡng tóc nào bạn có thể gợi ý không?\n\n9. “Shoes” là danh từ đếm được số nhiều, câu khẳng định → dùng “some”/\"many\"/\"a few\"\n\nDịch nghĩa: Bố tôi đã mua một vài/nhiều đôi giày mới vào tuần trước.\n\n10. “Confidence” là danh từ không đếm được, sắc thái tiêu cực (“has little”) → dùng “little”\n\nDịch nghĩa: Anh trai tôi có rất ít sự tự tin vào các lựa chọn thời trang của mình.\n\n11. Câu hỏi + danh từ đếm được số nhiều (“photos”) → dùng “any”\n\nDịch nghĩa: Bạn có bức ảnh nào về gia đình mình không?\n\n12. “Friends” là danh từ đếm được số nhiều, sắc thái tích cực → dùng “a few”/\"many\"/\"some\"\n\nDịch nghĩa: Tôi có một vài người bạn tốt thích phong cách của tôi.\n\n13. “Children” là danh từ đếm được số nhiều, mệnh đề khẳng định → dùng “some”/\"many\"/\"a few\"\n\nDịch nghĩa: Có một vài/nhiều bạn nhỏ trong lớp tôi đeo kính.\n\n14. Câu hỏi với danh từ đếm được số nhiều (“pairs of shoes”) → dùng “many”\n\nDịch nghĩa: Bạn có bao nhiêu đôi giày?\n\n15. “Tissues” là danh từ đếm được số nhiều, mệnh đề khẳng định → dùng “a few”/\"some\".\n\nDịch nghĩa: Tôi luôn mang theo vài chiếc khăn giấy phòng trường hợp khẩn cấp.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p> </p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong style=\"box-sizing: border-box; text-align: justify; background-color: #ffffff;\"><span style=\"box-sizing: border-box;\"><span style=\"font-family: Nunito-ExtraBold;\">Exercise 2.</span><strong style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box;\"> </span></strong></span></strong></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong style=\"box-sizing: border-box; text-align: justify; background-color: #ffffff;\"><span style=\"box-sizing: border-box;\">Fill in the blank with ‘a few, few, a little, little, much, many, some, any’ </span></strong><em><span style=\"box-sizing: border-box; text-align: justify; background-color: #ffffff;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">(Điền từ thích hợp vào chỗ trống ‘a few, few, a little, little, much, many, some, any’)</span></span></em></span></p>",
+        "answerTemplate": "<ol>\n<li data-start=\"165\" data-end=\"225\">\n<p data-start=\"168\" data-end=\"225\">I couldn't find [input_0] clothes that fit me at that shop.</p>\n</li>\n<li data-start=\"226\" data-end=\"282\">\n<p data-start=\"229\" data-end=\"282\">My dad owns [input_1] suits, mostly in grey and navy.</p>\n</li>\n<li data-start=\"283\" data-end=\"339\">\n<p data-start=\"286\" data-end=\"339\">She spends too [input_2] time choosing what to wear.</p>\n</li>\n<li data-start=\"340\" data-end=\"403\">\n<p data-start=\"343\" data-end=\"403\">He doesn't wear [input_3] bright colors — only neutral tones.</p>\n</li>\n<li data-start=\"404\" data-end=\"474\">\n<p data-start=\"407\" data-end=\"474\">My sister doesn't use [input_4] beauty products <em>(sản phẩm làm đẹp)</em>, just a moisturizer <em>(dưỡng ấm)</em>.</p>\n</li>\n<li data-start=\"475\" data-end=\"529\">\n<p data-start=\"478\" data-end=\"529\">He usually wears [input_5] basic T-shirts and jeans.</p>\n</li>\n<li data-start=\"530\" data-end=\"592\">\n<p data-start=\"533\" data-end=\"592\">He only has [input_6] good shirts suitable for formal events <em>(sự kiện trang trọng)</em>.</p>\n</li>\n<li data-start=\"593\" data-end=\"646\">\n<p data-start=\"596\" data-end=\"646\">Are there [input_7] hair products you can recommend <em>(gợi ý)</em>?</p>\n</li>\n<li data-start=\"647\" data-end=\"693\">\n<p data-start=\"650\" data-end=\"693\">My dad bought [input_8] new shoes last week.</p>\n</li>\n<li data-start=\"694\" data-end=\"758\">\n<p data-start=\"698\" data-end=\"758\">My brother has [input_9] confidence <em>(sự tự tin)</em> in his fashion choices.</p>\n</li>\n<li data-start=\"759\" data-end=\"805\">\n<p data-start=\"763\" data-end=\"805\">Do you have [input_10] photos of your family?</p>\n</li>\n<li data-start=\"806\" data-end=\"858\">\n<p data-start=\"810\" data-end=\"858\">I have [input_11] good friends who like my style.</p>\n</li>\n<li data-start=\"859\" data-end=\"920\">\n<p data-start=\"863\" data-end=\"920\">There are [input_12] children in my class who wear glasses.</p>\n</li>\n<li data-start=\"921\" data-end=\"965\">\n<p data-start=\"925\" data-end=\"965\">How [input_13] pairs of shoes do you have?</p>\n</li>\n<li data-start=\"966\" data-end=\"1032\">\n<p data-start=\"970\" data-end=\"1032\">I always bring [input_14] tissues <em>(khăn giấy)</em> with me in case of emergencies <em>(trường hợp khẩn cấp)</em>.</p>\n</li>\n</ol>",
+        "explain": "<p><strong>1. “Clothes” là danh từ đếm được số nhiều, đi với câu phủ định → dùng “any”</strong></p>\n<p><strong>Dịch nghĩa:</strong> Tôi không thể tìm thấy <strong>bất kỳ</strong> bộ quần áo nào vừa với mình ở cửa hàng đó.</p>\n<p><strong>2. “Suits” là danh từ đếm được số nhiều, mệnh đề khẳng định → dùng “a few”/\"many\"/\"some\"</strong></p>\n<p><strong>Dịch nghĩa:</strong> Bố tôi sở hữu <strong>vài/nhiều</strong> bộ vest, chủ yếu màu xám và xanh navy.</p>\n<p><strong>3. “Time” là danh từ không đếm được + \"quá nhiều\" hoặc \"quá ít\" đều hợp lý → dùng “too little” hoặc “too much”</strong></p>\n<p><strong>Dịch nghĩa:</strong> Cô ấy dành quá <strong>ít/nhiều</strong> thời gian để chọn đồ mặc.</p>\n<p><strong>4. “Bright colors” là danh từ đếm được số nhiều, mệnh đề phủ định → dùng “many”/\"any\"</strong></p>\n<p><strong>Dịch nghĩa:</strong> Anh ấy không mặc <strong>nhiều/bất kì</strong> màu sáng nào — chỉ toàn tông màu trung tính.</p>\n<p><strong>5. “Beauty products” là danh từ đếm được số nhiều, câu phủ định → dùng “many”. Câu này không dùng \"any\" được vì \"người chị\" vẫn dùng một loại kem dưỡng ẩm.</strong></p>\n<p><strong>Dịch nghĩa:</strong> Chị tôi không dùng <strong>nhiều</strong> sản phẩm làm đẹp, chỉ dùng một loại kem dưỡng ẩm.</p>\n<p><strong>6. “T-shirts” là danh từ đếm được số nhiều, câu khẳng định → dùng “some”</strong></p>\n<p><strong>Dịch nghĩa:</strong> Anh ấy thường mặc <strong>một vài</strong> chiếc áo phông và quần jean cơ bản.</p>\n<p><strong>7. “Shirts” là danh từ đếm được số nhiều, mang sắc thái tiêu cực (“only few”) → dùng “few”</strong></p>\n<p><strong>Dịch nghĩa:</strong> Anh ấy chỉ có <strong>rất ít</strong> áo sơ mi đẹp phù hợp cho các sự kiện trang trọng.</p>\n<p><strong>8. Câu hỏi + danh từ đếm được (“hair products”) → dùng “any”</strong></p>\n<p><strong>Dịch nghĩa:</strong> Có <strong>sản phẩm</strong> dưỡng tóc nào bạn có thể gợi ý không?</p>\n<p><strong>9. “Shoes” là danh từ đếm được số nhiều, câu khẳng định → dùng “some”/\"many\"/\"a few\"</strong></p>\n<p><strong>Dịch nghĩa:</strong> Bố tôi đã mua <strong>một vài/nhiều</strong> đôi giày mới vào tuần trước.</p>\n<p><strong>10. “Confidence” là danh từ không đếm được, sắc thái tiêu cực (“has little”) → dùng “little”</strong></p>\n<p><strong>Dịch nghĩa:</strong> Anh trai tôi có rất <strong>ít</strong> sự tự tin vào các lựa chọn thời trang của mình.</p>\n<p><strong>11. Câu hỏi + danh từ đếm được số nhiều (“photos”) → dùng “any”</strong></p>\n<p><strong>Dịch nghĩa:</strong> Bạn có <strong>bức</strong> ảnh nào về gia đình mình không?</p>\n<p><strong>12. “Friends” là danh từ đếm được số nhiều, sắc thái tích cực → dùng “a few”/\"many\"/\"some\"</strong></p>\n<p><strong>Dịch nghĩa:</strong> Tôi có <strong>một vài</strong> người bạn tốt thích phong cách của tôi.</p>\n<p><strong>13. “Children” là danh từ đếm được số nhiều, mệnh đề khẳng định → dùng “some”/\"many\"/\"a few\"</strong></p>\n<p><strong>Dịch nghĩa:</strong> Có <strong>một vài/nhiều</strong> bạn nhỏ trong lớp tôi đeo kính.</p>\n<p><strong>14. Câu hỏi với danh từ đếm được số nhiều (“pairs of shoes”) → dùng “many”</strong></p>\n<p><strong>Dịch nghĩa:</strong> Bạn có bao <strong>nhiêu</strong> đôi giày?</p>\n<p><strong>15. “Tissues” là danh từ đếm được số nhiều, mệnh đề khẳng định → dùng “a few”/\"some\".</strong></p>\n<p><strong>Dịch nghĩa:</strong> Tôi luôn mang theo <strong>vài</strong> chiếc khăn giấy phòng trường hợp khẩn cấp.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 15,
+        "totalCorrect": 11,
+        "userAnswer": {
+          "input_0": "any",
+          "input_1": "a few",
+          "input_2": "much",
+          "input_3": "any",
+          "input_4": "many",
+          "input_5": "some",
+          "input_6": "a few",
+          "input_7": "many",
+          "input_8": "a few",
+          "input_9": "a lot of",
+          "input_10": "a lot of",
+          "input_11": "many",
+          "input_12": "many",
+          "input_13": "many",
+          "input_14": "a few"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "any"
+          ],
+          "input_1": [
+            "a few",
+            "many",
+            "some"
+          ],
+          "input_2": [
+            "little",
+            "much"
+          ],
+          "input_3": [
+            "many",
+            "any"
+          ],
+          "input_4": [
+            "many"
+          ],
+          "input_5": [
+            "some"
+          ],
+          "input_6": [
+            "few"
+          ],
+          "input_7": [
+            "any"
+          ],
+          "input_8": [
+            "some",
+            "many",
+            "a few"
+          ],
+          "input_9": [
+            "little"
+          ],
+          "input_10": [
+            "any"
+          ],
+          "input_11": [
+            "a few",
+            "many",
+            "some"
+          ],
+          "input_12": [
+            "some",
+            "many",
+            "a few"
+          ],
+          "input_13": [
+            "many"
+          ],
+          "input_14": [
+            "a few",
+            "some"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": false,
+          "input_7": false,
+          "input_8": true,
+          "input_9": false,
+          "input_10": false,
+          "input_11": true,
+          "input_12": true,
+          "input_13": true,
+          "input_14": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286749",
+      "sourceQuestionId": 286749,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": "Describing people",
+      "type": null,
+      "prompt": "Describing people",
+      "introductionText": "",
+      "contentText": "Exercise 1.\n\nGETTING READY Are these words and phrases about age, height or hair? Write them in the correct box from 1-3. (Những từ sau miêu tả về độ tuổi, chiều cao hay tóc? Sắp xếp từ vào đúng ô từ 1-3.)\n\nshort\n\n |\n\nabout 22\n\n |\n\nabout 170 cm\n\n |\n\nlong\n\n |\n\n19 years old\n\n |\n\nblond\n\n |\n\nin his twenties\n\n |\n\nlight brown\n\n |\n\nin her thirties\n\n |\n\nin her teens\n\n |\n\ndark\n\n |\n\nalmost 25\n\n |\n\ntall\n\n |\n\ncurly\n\n |\n\nstraight\n\n |\n\nnot so tall\n\n |\n\nshoulder length\n\n |\n  |",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "Describing people",
+        "introduction": null,
+        "content": "<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; text-align: justify; border-radius: 0px !important;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-align: start; white-space-collapse: preserve; background-color: transparent; color: #ba372a; vertical-align: baseline;\"><strong><span style=\"color: #000000;\">Exercise 1. </span></strong></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; text-align: justify; border-radius: 0px !important;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-align: start; white-space-collapse: preserve; background-color: transparent; color: #ba372a; vertical-align: baseline;\"><strong>GETTING READY</strong> </span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-align: start; white-space-collapse: preserve; background-color: transparent; color: #242938; font-weight: bold; vertical-align: baseline;\">Are these words and phrases about age, height or hair? Write them in the correct box from 1-3. </span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-align: start; white-space-collapse: preserve; background-color: transparent; color: #242938; font-style: italic; vertical-align: baseline;\">(Những từ sau mi&ecirc;u tả về độ tuổi, chiều cao hay t&oacute;c? Sắp xếp từ v&agrave;o đ&uacute;ng &ocirc; từ 1-3.)</span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-align: start; white-space-collapse: preserve; background-color: transparent; color: #242938; vertical-align: baseline;\"> </span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; text-align: justify; border-radius: 0px !important;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-align: start; white-space-collapse: preserve; background-color: transparent; color: #242938; font-style: italic; vertical-align: baseline;\"><span id=\"docs-internal-guid-ae4aa97c-7fff-86b7-98c5-8bd8912b161a\"></span></span></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 451.27559055118115pt;\"><colgroup><col /><col /><col /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">short</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">about 22</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">about 170 cm</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">long</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">19 years old</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">blond</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">in his twenties</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">light brown</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">in her thirties</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">in her teens</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">dark</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">almost 25</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">tall</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">curly</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">straight</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">not so tall</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">shoulder length</span></p>\n</td>\n<td style=\"border-left: solid #000000 1pt; border-right: solid #ffffff 1pt; border-bottom: solid #ffffff 1pt; border-top: solid #000000 1pt; vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"line-height: 1.5;\">&nbsp;</p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "null",
+      "submission": null,
+      "imageRefs": []
+    },
+    {
+      "id": "question-286750",
+      "sourceQuestionId": 286750,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 2,
+      "prompt": "1. Age\n\nExample: about 22",
+      "introductionText": "",
+      "contentText": "1. Age\n\nExample: about 22",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\"><strong>1. Age</strong></span></p>\n<p><span style=\"font-family: Nunito-Regular;\"><span id=\"docs-internal-guid-3172bf0d-7fff-3fbf-b916-a979a8ad68db\"></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Example: </span><span style=\"font-size: 12pt; color: #c00000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">about 22</span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "in his twenties\nin her teens\nabout 22\n19 years old\nin her thirties\nalmost 25",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286751",
+      "sourceQuestionId": 286751,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 2,
+      "prompt": "2. Height\n\nExample: tall",
+      "introductionText": "",
+      "contentText": "2. Height\n\nExample: tall",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><strong><span style=\"font-family: Nunito-Regular;\">2. Height</span></strong></p>\n<p><span id=\"docs-internal-guid-2c4b783a-7fff-9005-f63d-5a6899a3ba04\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Example: </span><span style=\"font-size: 12pt; color: #c00000; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">tall</span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "tall\nnot so tall\nabout 170 cm",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286752",
+      "sourceQuestionId": 286752,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 2,
+      "prompt": "3. Hair\n\nExample: blond",
+      "introductionText": "",
+      "contentText": "3. Hair\n\nExample: blond",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><strong><span style=\"font-family: Nunito-Regular;\">3. Hair</span></strong></p>\n<p><span id=\"docs-internal-guid-d121c557-7fff-d9b2-be61-16359fea0779\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Example: </span><span style=\"font-size: 12pt; color: #c00000; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">blond</span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "short\nlong\nlight brown\ndark\ncurly\nshoulder length\nblond\nstraight",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286753",
+      "sourceQuestionId": 286753,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 3,
+      "prompt": "Task 1. Read the conversations from 1-8 on the left. People are describing other people. What are they describing? Age, height or hair? Choose the correct answers. (Đọc các đoạn hội thoại từ 1-8 bên trái. Những người trong bài đang miêu tả những người khác. Họ đang miêu tả về cái gì? Tuổi tác, chiều cao hay tóc? Chọn đáp án đúng bên dưới.)\n\nExample: Conversation 1. Age",
+      "introductionText": "Task 1. Read the conversations from 1-8 on the left. People are describing other people. What are they describing? Age, height or hair? Choose the correct answers. (Đọc các đoạn hội thoại từ 1-8 bên trái. Những người trong bài đang miêu tả những người khác. Họ đang miêu tả về cái gì? Tuổi tác, chiều cao hay tóc? Chọn đáp án đúng bên dưới.)\n\nExample: Conversation 1. Age",
+      "contentText": "Conversation 2",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Task 1. Read the conversations from 1-8 on the left. People are describing other people. What are they describing? Age, height or hair? Choose the correct answers. </span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Đọc c&aacute;c đoạn hội thoại từ 1-8 b&ecirc;n tr&aacute;i. Những người trong b&agrave;i đang mi&ecirc;u tả những người kh&aacute;c. Họ đang mi&ecirc;u tả về c&aacute;i g&igrave;? Tuổi t&aacute;c, chiều cao hay t&oacute;c? Chọn đ&aacute;p &aacute;n đ&uacute;ng b&ecirc;n dưới.)</span></span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span id=\"docs-internal-guid-d7dd6b7a-7fff-e11d-4db6-80a484ae255d\"><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><strong>Example: </strong>Conversation 1. </span><span style=\"font-size: 12pt; color: #ba372a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">Age</span></span></span></span></p>",
+        "content": "<p><span id=\"docs-internal-guid-6013b1e6-7fff-639d-d2a8-45978215aaeb\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">Conversation 2</span></span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 589013,
+        "correctAnswer": 589013,
+        "resultAnswer": {
+          "589013": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286754",
+      "sourceQuestionId": 286754,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 3,
+      "prompt": "Conversation 3",
+      "introductionText": "",
+      "contentText": "Conversation 3",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-6013b1e6-7fff-639d-d2a8-45978215aaeb\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">Conversation 3</span></span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 589015,
+        "correctAnswer": 589015,
+        "resultAnswer": {
+          "589015": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286755",
+      "sourceQuestionId": 286755,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 3,
+      "prompt": "Conversation 4",
+      "introductionText": "",
+      "contentText": "Conversation 4",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-6013b1e6-7fff-639d-d2a8-45978215aaeb\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">Conversation 4</span></span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 589017,
+        "correctAnswer": 589017,
+        "resultAnswer": {
+          "589017": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286756",
+      "sourceQuestionId": 286756,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 3,
+      "prompt": "Conversation 5",
+      "introductionText": "",
+      "contentText": "Conversation 5",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-6013b1e6-7fff-639d-d2a8-45978215aaeb\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">Conversation 5</span></span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 589022,
+        "correctAnswer": 589022,
+        "resultAnswer": {
+          "589022": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286757",
+      "sourceQuestionId": 286757,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 3,
+      "prompt": "Conversation 6",
+      "introductionText": "",
+      "contentText": "Conversation 6",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-6013b1e6-7fff-639d-d2a8-45978215aaeb\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">Conversation 6</span></span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 589024,
+        "correctAnswer": 589024,
+        "resultAnswer": {
+          "589024": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286758",
+      "sourceQuestionId": 286758,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 3,
+      "prompt": "Conversation 7",
+      "introductionText": "",
+      "contentText": "Conversation 7",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-6013b1e6-7fff-639d-d2a8-45978215aaeb\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">Conversation 7</span></span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 589026,
+        "correctAnswer": 589026,
+        "resultAnswer": {
+          "589026": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286759",
+      "sourceQuestionId": 286759,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 3,
+      "prompt": "Conversation 8",
+      "introductionText": "",
+      "contentText": "Conversation 8",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-6013b1e6-7fff-639d-d2a8-45978215aaeb\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">Conversation 8</span></span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 589031,
+        "correctAnswer": 589031,
+        "resultAnswer": {
+          "589031": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286760",
+      "sourceQuestionId": 286760,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 1,
+      "prompt": "Task 2. Match the questions from 1-8 to the suitable answers from A-H. (Ghép các câu hỏi từ 1-8 với các câu trả lời phù hợp từ A-H.)\n\n1. Is your mother young?\n\n |\n\nA. No, he doesn't look that old. He looks about 30.\n\n |\n\n2. What color is your mother's hair?\n\n |\n\nB. He's really not very tall, about 160 centimeters.\n\n |\n\n3. How tall is your father?\n\n |\n\nC. Yes, she is. She's in her thirties. About 32.\n\n |\n\n4. Is your teacher older than 40?\n\n |\n\nD. It's light brown.\n\n |\n\n5. What hairstyle do you like?\n\n |\n\nE. I think she's still in her teens.\n\n |\n\n6. Is your best friend short?\n\n |\n\nF. I like to wear it short. And I really like blond hair.\n\n |\n\n7. Is your cousin in her teens or her twenties?\n\n |\n\nG. It's shoulder length. And it's dark brown.\n\n |\n\n8. What does your cousin's hair look like?\n\n |\n\nH. No, she's pretty tall. About 170 cm.\n\n |",
+      "introductionText": "",
+      "contentText": "Task 2. Match the questions from 1-8 to the suitable answers from A-H. (Ghép các câu hỏi từ 1-8 với các câu trả lời phù hợp từ A-H.)\n\n1. Is your mother young?\n\n |\n\nA. No, he doesn't look that old. He looks about 30.\n\n |\n\n2. What color is your mother's hair?\n\n |\n\nB. He's really not very tall, about 160 centimeters.\n\n |\n\n3. How tall is your father?\n\n |\n\nC. Yes, she is. She's in her thirties. About 32.\n\n |\n\n4. Is your teacher older than 40?\n\n |\n\nD. It's light brown.\n\n |\n\n5. What hairstyle do you like?\n\n |\n\nE. I think she's still in her teens.\n\n |\n\n6. Is your best friend short?\n\n |\n\nF. I like to wear it short. And I really like blond hair.\n\n |\n\n7. Is your cousin in her teens or her twenties?\n\n |\n\nG. It's shoulder length. And it's dark brown.\n\n |\n\n8. What does your cousin's hair look like?\n\n |\n\nH. No, she's pretty tall. About 170 cm.\n\n |",
+      "answerTemplateText": "1. [input_0]\n\n2. [input_1]\n\n3. [input_2]\n\n4. [input_3]\n\n5. [input_4]\n\n6. [input_5]\n\n7. [input_6]\n\n8. [input_7]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Task 2. Match the questions from 1-8 to the suitable answers from A-H.</span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Gh&eacute;p c&aacute;c c&acirc;u hỏi từ 1-8 với c&aacute;c c&acirc;u trả lời ph&ugrave; hợp từ A-H.)</span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: bold; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span></span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<p><span id=\"docs-internal-guid-9ad5bfc2-7fff-4eba-8a1d-d8451a2e5e3b\" style=\"font-family: Nunito-Regular;\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 831px;\"><colgroup><col style=\"width: 342.5px;\" /><col style=\"width: 452.5px;\" /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: middle; padding: 5pt; overflow: hidden; overflow-wrap: break-word; line-height: 1; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. Is your mother young?</span></p>\n</td>\n<td style=\"vertical-align: middle; padding: 5pt; overflow: hidden; overflow-wrap: break-word; line-height: 1; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A. No, he doesn&rsquo;t look that old. He looks about 30.</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: middle; padding: 5pt; overflow: hidden; overflow-wrap: break-word; line-height: 1; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. What color is your mother&rsquo;s hair?</span></p>\n</td>\n<td style=\"vertical-align: middle; padding: 5pt; overflow: hidden; overflow-wrap: break-word; line-height: 1; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B. He&rsquo;s really not very tall, about 160 centimeters.</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: middle; padding: 5pt; overflow: hidden; overflow-wrap: break-word; line-height: 1; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. How tall is your father?</span></p>\n</td>\n<td style=\"vertical-align: middle; padding: 5pt; overflow: hidden; overflow-wrap: break-word; line-height: 1; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C. Yes, she is. She&rsquo;s in her thirties. About 32.</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: middle; padding: 5pt; overflow: hidden; overflow-wrap: break-word; line-height: 1; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. Is your teacher older than 40?</span></p>\n</td>\n<td style=\"vertical-align: middle; padding: 5pt; overflow: hidden; overflow-wrap: break-word; line-height: 1; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">D. It&rsquo;s light brown.&nbsp;</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: middle; padding: 5pt; overflow: hidden; overflow-wrap: break-word; line-height: 1; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. What hairstyle do you like?</span></p>\n</td>\n<td style=\"vertical-align: middle; padding: 5pt; overflow: hidden; overflow-wrap: break-word; line-height: 1; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">E. I think she&rsquo;s still in her teens.&nbsp;</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: middle; padding: 5pt; overflow: hidden; overflow-wrap: break-word; line-height: 1; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. Is your best friend short?</span></p>\n</td>\n<td style=\"vertical-align: middle; padding: 5pt; overflow: hidden; overflow-wrap: break-word; line-height: 1; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">F. I like to wear it short. And I really like blond hair.</span></p>\n</td>\n</tr>\n<tr style=\"height: 39.354pt;\">\n<td style=\"vertical-align: middle; padding: 5pt; overflow: hidden; overflow-wrap: break-word; line-height: 1; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. Is your cousin in her teens or her twenties?&nbsp;</span></p>\n</td>\n<td style=\"vertical-align: middle; padding: 5pt; overflow: hidden; overflow-wrap: break-word; line-height: 1; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">G. It&rsquo;s shoulder length. And it's dark brown.&nbsp;</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: middle; padding: 5pt; overflow: hidden; overflow-wrap: break-word; line-height: 1; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. What does your cousin&rsquo;s hair look like?</span></p>\n</td>\n<td style=\"vertical-align: middle; padding: 5pt; overflow: hidden; overflow-wrap: break-word; line-height: 1; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">H. No, she&rsquo;s pretty tall. About 170 cm.</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>",
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 10pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. <span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_0]</span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. <span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. <span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_2]</span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. <span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_3]</span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. <span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_4]</span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. <span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_5]</span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. <span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_6]</span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span id=\"docs-internal-guid-a565287c-7fff-95ca-4bed-b1a54d16b846\" style=\"font-family: Nunito-Regular; color: #000000;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">8. <span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">[input_7]</span></span></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 8,
+        "totalCorrect": 8,
+        "userAnswer": {
+          "input_0": "C",
+          "input_1": "D",
+          "input_2": "B",
+          "input_3": "A",
+          "input_4": "F",
+          "input_5": "H",
+          "input_7": "G",
+          "input_6": "E"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "C"
+          ],
+          "input_1": [
+            "D"
+          ],
+          "input_2": [
+            "B"
+          ],
+          "input_3": [
+            "A"
+          ],
+          "input_4": [
+            "F"
+          ],
+          "input_5": [
+            "H"
+          ],
+          "input_6": [
+            "E"
+          ],
+          "input_7": [
+            "G"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286761",
+      "sourceQuestionId": 286761,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2. Answer these questions by describing people's HEIGHT, AGE, or HAIR based on the conversations from 1-4. (Trả lời những câu hỏi sau bằng việc miêu tả chiều cao, tuổi tác và tóc của những người dựa trên các đoạn hội thoại từ 1-4.)",
+      "introductionText": "",
+      "contentText": "Exercise 2. Answer these questions by describing people's HEIGHT, AGE, or HAIR based on the conversations from 1-4. (Trả lời những câu hỏi sau bằng việc miêu tả chiều cao, tuổi tác và tóc của những người dựa trên các đoạn hội thoại từ 1-4.)",
+      "answerTemplateText": "1. What kind of hair does Cindy have?\n\n→ [input_0]\n\n2. How tall is Bob?\n\n→ [input_1]\n\n3. How old is Anne?\n\n→ [input_2]\n\n4. Is Paul's cousin blond? \n\n→ [input_3]\n\n5. What hair color does she have?\n\n→ [input_4]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-41521abc-7fff-f19d-a8b8-b5c9fd76f683\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 2. Answer these questions by describing people&rsquo;s HEIGHT, AGE, or HAIR based on the conversations from 1-4. </span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Trả lời những c&acirc;u hỏi sau bằng việc mi&ecirc;u tả chiều cao, tuổi t&aacute;c v&agrave; t&oacute;c của những người dựa tr&ecirc;n c&aacute;c đoạn hội thoại từ 1-4.)</span></span></p>",
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. What kind of hair does Cindy have?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">→ <span style=\"background-color: transparent;\"><span style=\"color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_0]</span></span></span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. How tall is Bob?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">→ <span style=\"background-color: transparent;\"><span style=\"background-color: transparent;\"><span style=\"background-color: transparent;\"><span style=\"color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span></span></span></span></span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. How old is Anne?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">→ <span style=\"background-color: transparent;\"><span style=\"background-color: transparent;\"><span style=\"background-color: transparent;\"><span style=\"color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_2]</span></span></span></span></span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. </span><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Is Paul's cousin blond? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">→ <span style=\"background-color: transparent;\"><span style=\"color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_3]</span></span></span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. What hair color does she have?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">→ <span style=\"color: #000000;\"><span style=\"font-size: 12pt; white-space-collapse: preserve;\">[input_4]</span></span></span></span></p>\n<p><span id=\"docs-internal-guid-de428605-7fff-3d26-18e4-2b2d287c9a27\" style=\"font-family: Nunito-Regular; color: #000000;\"></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 5,
+        "totalCorrect": 1,
+        "userAnswer": {
+          "input_0": "She's got long drak brown hair.",
+          "input_1": "He's not very tall - abot average.",
+          "input_2": "She's about 20.",
+          "input_3": "No, she isn't. She's got dark brown hair.",
+          "input_4": "She's got drak brown hair."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "She has long, dark brown hair.",
+            "She's got long, dark brown hair.",
+            "She has got long, dark brown hair."
+          ],
+          "input_1": [
+            "He's not very tall - about average.",
+            "He is not very tall - about average.",
+            "Bob's not very tall - about average.",
+            "Bob is not very tall - about average."
+          ],
+          "input_2": [
+            "She's about 20.",
+            "She is about 20.",
+            "Anne's about 20.",
+            "Anne is about 20."
+          ],
+          "input_3": [
+            "No, she isn't.",
+            "No, she is not."
+          ],
+          "input_4": [
+            "Dark brown.",
+            "She has dark brown hair.",
+            "She's got dark brown hair.",
+            "She has got dark brown hair."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false,
+          "input_1": false,
+          "input_2": true,
+          "input_3": false,
+          "input_4": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286762",
+      "sourceQuestionId": 286762,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 3. Some parents are looking for their children in a department store. Read the conversations from 1-5 on the left and describe each child again by using the words below in a correct order. (Một số phụ huynh đang tìm con của mình trong cửa hàng bách hóa. Đọc các đoạn hội thoại từ 1 đến 5 bên tay trái và viết lại miêu tả về mỗi đứa trẻ bằng cách sắp xếp lại các từ bên dưới theo thứ tự chính xác.)",
+      "introductionText": "Exercise 3. Some parents are looking for their children in a department store. Read the conversations from 1-5 on the left and describe each child again by using the words below in a correct order. (Một số phụ huynh đang tìm con của mình trong cửa hàng bách hóa. Đọc các đoạn hội thoại từ 1 đến 5 bên tay trái và viết lại miêu tả về mỗi đứa trẻ bằng cách sắp xếp lại các từ bên dưới theo thứ tự chính xác.)",
+      "contentText": "1. Describe the child in conversation 1:\n\nHe / years / seven / has / old / is / he / light / hair. / brown / and",
+      "answerTemplateText": "[input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-92bed9a2-7fff-5e68-0799-4edf062f37b5\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 3. </span><span style=\"font-size: 12pt; color: #242938; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Some parents are looking for their children in a department store. Read the conversations from 1-5 on the left and </span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">describe each child again by using the words below in a correct order.<em> </em></span><em><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Một số phụ huynh đang t&igrave;m con của m&igrave;nh trong cửa h&agrave;ng b&aacute;ch h&oacute;a. Đọc c&aacute;c đoạn hội thoại từ 1 đến 5 b&ecirc;n tay tr&aacute;i v&agrave; viết lại mi&ecirc;u tả về mỗi đứa trẻ bằng c&aacute;ch sắp xếp lại c&aacute;c từ b&ecirc;n dưới theo thứ tự ch&iacute;nh x&aacute;c.)</span></em></span></p>",
+        "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. Describe the child in conversation 1:</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1720492499.png\" alt=\"\" width=\"288\" height=\"301\" /></p>\n<p><span id=\"docs-internal-guid-dbcbbd21-7fff-cc06-e4e2-08e5d60c580c\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">He / years / seven / has / old / is / he / light / hair. / brown / and </span></p>",
+        "answerTemplate": "<p><span id=\"docs-internal-guid-6b0f786a-7fff-5b3c-0afd-05ad1bec17ca\" style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">[input_0]</span></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": {
+          "input_0": "He is seven years old and he has light brown hair."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "He is seven years old and he has light brown hair."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/images/1720492499.png",
+          "localFile": null
+        }
+      ]
+    },
+    {
+      "id": "question-286763",
+      "sourceQuestionId": 286763,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 1,
+      "prompt": "2. Describe the child in conversation 2:\n\nShe / brown / has / it / hair / and / is / curly. / very",
+      "introductionText": "",
+      "contentText": "2. Describe the child in conversation 2:\n\nShe / brown / has / it / hair / and / is / curly. / very",
+      "answerTemplateText": "[input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. Describe the child in conversation 2:</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1720492540.png\" alt=\"\" width=\"298\" height=\"308\" /></p>\n<p><span id=\"docs-internal-guid-c3f4749d-7fff-566d-e48f-d6e398783261\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">She / brown / has / it / hair / and / is / curly. / very</span></p>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular;\">[input_0]</span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": {
+          "input_0": "She has brown hair and it is very curly."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "She has brown hair and it is very curly."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/images/1720492540.png",
+          "localFile": null
+        }
+      ]
+    },
+    {
+      "id": "question-286764",
+      "sourceQuestionId": 286764,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 1,
+      "prompt": "3. Describe the child in conversation 3:\n\nHis / pretty / hair / is / long / blond / and",
+      "introductionText": "",
+      "contentText": "3. Describe the child in conversation 3:\n\nHis / pretty / hair / is / long / blond / and",
+      "answerTemplateText": "[input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. Describe the child in conversation 3:</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1720492585.png\" alt=\"\" width=\"295\" height=\"304\" /></p>\n<p><span id=\"docs-internal-guid-1f49cabe-7fff-942e-6ed0-b20928964e11\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">His / pretty / hair / is / long / blond / and</span></p>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular;\">[input_0]</span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": {
+          "input_0": "His hair is blond and pretty long."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "His hair is blond and pretty long.",
+            "His hair is pretty long and blond."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/images/1720492585.png",
+          "localFile": null
+        }
+      ]
+    },
+    {
+      "id": "question-286765",
+      "sourceQuestionId": 286765,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 1,
+      "prompt": "4. Describe the child in conversation 4:\n\nHe / cute / really / is / hair / brown / and / his / dark / is",
+      "introductionText": "",
+      "contentText": "4. Describe the child in conversation 4:\n\nHe / cute / really / is / hair / brown / and / his / dark / is",
+      "answerTemplateText": "[input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. Describe the child in conversation 4:</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1720492618.png\" alt=\"\" width=\"293\" height=\"304\" /></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">He / cute / really / is / hair / brown / and / his / dark / is</span></p>\n<p><span id=\"docs-internal-guid-380fcde8-7fff-c89a-e8f3-01476a6bae9b\" style=\"font-family: Nunito-Regular; color: #000000;\"></span></p>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve; background-color: #ffffff;\">[input_0]</span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": {
+          "input_0": "His hair is dark brown and he is really cute."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "He is really cute and his hair is dark brown.",
+            "His hair is dark brown and he is really cute."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/images/1720492618.png",
+          "localFile": null
+        }
+      ]
+    },
+    {
+      "id": "question-286766",
+      "sourceQuestionId": 286766,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": 1,
+      "prompt": "5. Describe the child in conversation 5:\n\nShe / average / about / is / height, / blond / hair / with / short",
+      "introductionText": "5. Describe the child in conversation 5:\n\nShe / average / about / is / height, / blond / hair / with / short",
+      "contentText": "",
+      "answerTemplateText": "[input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. Describe the child in conversation 5:</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1720492651.png\" alt=\"\" width=\"293\" height=\"303\" /></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">She / average / about / is / height, / blond / hair / with / short</span></p>\n<p><span id=\"docs-internal-guid-32db0b12-7fff-050f-8b8e-068fe1ab41d8\" style=\"font-family: Nunito-Regular; color: #000000;\"></span></p>",
+        "content": null,
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve; background-color: #ffffff;\">[input_0]</span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": {
+          "input_0": "She is about average height, with short blond hair."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "She is about average height, with short blond hair."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/images/1720492651.png",
+          "localFile": null
+        }
+      ]
+    },
+    {
+      "id": "question-286767",
+      "sourceQuestionId": 286767,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": "New Words/Phrases + Good Structures/Sentences",
+      "type": 2,
+      "prompt": "New Words/Phrases + Good Structures/Sentences",
+      "introductionText": "",
+      "contentText": "Nghiên cứu kĩ bài đọc Describing people bên trên và ghi lại ít nhất 10 từ vựng/ cấu trúc/ câu hay có trong bài.",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "New Words/Phrases + Good Structures/Sentences",
+        "introduction": null,
+        "content": "<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span id=\"docs-internal-guid-e61543c3-7fff-2219-e828-515117f74f11\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #242938; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Nghi&ecirc;n cứu kĩ b&agrave;i đọc Describing people b&ecirc;n tr&ecirc;n v&agrave; ghi lại &iacute;t nhất 10 từ vựng/ cấu tr&uacute;c/ c&acirc;u hay c&oacute; trong b&agrave;i.</span></strong></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "blond: tóc vàng\nbrown: tóc nâu\ncurly: xoăn\nstraight: thẳng\nlight brown: nâu nhạt\ndark brown: nâu đậm\nshoulder-length hair: tóc dài ngang vai\nabout average height: chiều cao trung bình\nnot very tall: không quá cao\nin her twenties: ở độ tuổi 20\nin her thirties: ở độ tuổi 30\nabout 170 centimeters: khoảng 170 cm",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-286768",
+      "sourceQuestionId": 286768,
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "title": null,
+      "type": null,
+      "prompt": "",
+      "introductionText": "",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "null",
+      "submission": null,
+      "imageRefs": []
+    },
+    {
+      "id": "question-286769",
+      "sourceQuestionId": 286769,
+      "challengeId": 30355,
+      "classChallengeId": "81589",
+      "title": "Speaking",
+      "type": 2,
+      "prompt": "Speaking",
+      "introductionText": "",
+      "contentText": "Chuẩn bị câu trả lời cho các câu sau, sử dụng các từ vựng, cấu trúc, câu học được phía trên và từ bài Listening.\n\nXem thêm trong phần Gợi ý trả lời: Gợi ý\n\nDESCRIBING PEOPLE: \n\n1. What does your father look like?\n\n2. What does your mother look like?\n\n3. What does your brother/ sister look like?\n\n4. What kinds of clothes does he/she often wear? (gộp vào 3 câu trên, miêu tả ngoại hình + các loại quần áo thường mặc luôn)\n\nViết câu trả lời đầy đủ cho từng câu hỏi vào file google docs và nộp lại.\n\nGV feedback xong thì học thuộc lòng câu trả lời.\n\nSau khi được GV hướng dẫn thêm trên lớp, HV tiếp tục hoàn thiện câu trả lời và luyện tập.\n\nLink google docs (mở quyền nhận xét cho GV)",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "Speaking",
+        "introduction": null,
+        "content": "<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">Chuẩn bị câu trả lời cho các câu sau, sử dụng các từ vựng, cấu trúc, câu học được phía trên và từ bài Listening.</strong></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">Xem thêm trong phần Gợi ý trả lời: <a style=\"box-sizing: border-box; background-color: transparent; color: #0d638f; text-decoration-line: none; outline: 0px; border-radius: 0px !important; text-shadow: none !important;\" href=\"http://docs.google.com/document/d/1dV_0DcDLS3aE23nvlFdHQbQC1v3je2G-/edit?usp=sharing&amp;ouid=116087920410815633677&amp;rtpof=true&amp;sd=true\" target=\"_blank\" rel=\"noopener\">Gợi ý</a></strong></span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">DESCRIBING PEOPLE: </strong></span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">1. What does your father look like?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">2. What does your mother look like?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">3. What does your brother/ sister look like?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">4. What kinds of clothes does he/she often wear? (gộp vào 3 câu trên, miêu tả ngoại hình + các loại quần áo thường mặc luôn)</span></span></p>\n<p><strong>Viết câu trả lời đầy đủ cho từng câu hỏi vào file google docs và nộp lại.</strong></p>\n<p><strong>GV feedback xong thì học thuộc lòng câu trả lời.</strong></p>\n<p><strong>Sau khi được GV hướng dẫn thêm trên lớp, HV tiếp tục hoàn thiện câu trả lời và luyện tập.</strong></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; color: #c0392b; border-radius: 0px !important; font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">Link google docs (mở quyền nhận xét cho GV)</strong></span></span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "https://docs.google.com/document/d/1pU1O-wqU5IYwaruIxM8waoQcBW0s64ku4cbbcKagG_I/edit?usp=sharing",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    }
+  ]
+}

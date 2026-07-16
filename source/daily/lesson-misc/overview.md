@@ -1,0 +1,1864 @@
+# Daily Break Challenges
+
+Generated from LangGo daily challenge API. Raw responses are kept in `raw/` for comparison.
+
+- Challenges: 4
+- Content blocks: 39
+- Exercise blocks: 77
+- Script blocks: 118
+- Audio files: 19
+- Images: 0
+
+## [PRE IELTS] BREAK 1 - CHALLENGE 1
+
+- Challenge ID: 29472
+- Class challenge ID: 80744
+- Deadline: 2026-06-19 23:30:00
+- Raw: `raw/challenge-01-29472.json`
+
+### Study Content
+
+### Exercises
+
+#### question-276926
+
+- Type: 4
+
+Ex 1. Choose the best answer (Chọn đáp án thích hợp nhất)
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-276927
+
+- Type: 4
+
+2) Is that your new camera? Can I ......?
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-276928
+
+- Type: 4
+
+3) She loves ......... with her father.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-276929
+
+- Type: 4
+
+4) Alan ............. tennis with his cousin tomorrow.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-276930
+
+- Type: 4
+
+5) Our company ............. the UK.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-276931
+
+- Type: 4
+
+6) My sister is …….................
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-276932
+
+- Type: 4
+
+7) This movie ..........
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-276933
+
+- Type: 4
+
+8) She will  .......... today.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-276934
+
+- Type: 4
+
+9) How long does it ....... to ...... to school?
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-276935
+
+- Type: 4
+
+10) How does Julie go to work? - She .....
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-276936
+
+- Type: 4
+
+11) He wants to ....... after graduating (tốt nghiệp) from university.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-276937
+
+- Type: 4
+
+12) How do you ..... dog in Vietnamese?
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-276938
+
+- Type: 4
+
+13) Can you ....... me the time?
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-276939
+
+- Type: 4
+
+14) You should ...... him.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-276940
+
+- Type: 4
+
+15) She ....... goodbye to everyone.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-276941
+
+- Type: 4
+
+16) We .... at the last school prom.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-276942
+
+- Type: 4
+
+17) She ..... because she is late for school.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-276943
+
+- Type: 4
+
+18) Can you ..... me the sugar?
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-276944
+
+- Type: 4
+
+19) How did you .... here? - I .... here.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-276945
+
+- Type: 4
+
+20) My father .... me to school every day.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-276946
+
+- Type: 1
+
+Ex 2. Look at Tim's timetable and write sentences about his day. Remember to write the time in words. (Nhìn thời khóa biểu của Tim và viết về ngày của anh ấy. Nhớ viết thời gian bằng chữ)
+
+**Answer template / submitted view:**
+
+[input_0]
+
+[input_1]
+
+[input_2]
+
+[input_3]
+
+[input_4]
+
+[input_5]
+
+[input_6]
+
+#### question-276947
+
+- Type: 1
+
+Ex 3. Translate these sentences into English using phrases you have learned from lessons 1 to 5. (Dịch các câu sau sang tiếng Anh sử dụng những cụm từ đã học từ bài 1 đến 5.)
+
+**Answer template / submitted view:**
+
+[input_0]
+
+#### question-276948
+
+- Type: 1
+
+2. Anh trai tôi tập thể dục mỗi ngày.
+
+**Answer template / submitted view:**
+
+[input_0]
+
+#### question-276949
+
+- Type: 1
+
+3. Bố tôi giặt quần áo trong gia đình tôi.
+
+**Answer template / submitted view:**
+
+[input_0]
+
+#### question-276950
+
+- Type: 1
+
+4. Tôi thường tắm lúc 7 giờ tối.
+
+**Answer template / submitted view:**
+
+[input_0]
+
+#### question-276951
+
+- Type: 1
+
+5. Tôi thường ăn bánh mì với trứng và một cốc sữa cho bữa sáng.
+
+**Answer template / submitted view:**
+
+[input_0]
+
+#### question-276952
+
+- Type: 1
+
+6. Tôi thích đi ngắm cảnh vào kì nghỉ.
+
+**Answer template / submitted view:**
+
+[input_0]
+
+#### question-276953
+
+- Type: 1
+
+7. Tôi đi tản bộ hai lần mỗi tuần.
+
+**Answer template / submitted view:**
+
+[input_0]
+
+#### question-276954
+
+- Type: 1
+
+8. Tôi thường đi đến trường bằng xe máy.
+
+**Answer template / submitted view:**
+
+[input_0]
+
+### Submission / Feedback
+
+Status: graded
+
+Correct answer: 21
+
+Hi Khánh, bài này em làm khá tốt nha.
+
+Phần viết em chú ý từ bài sau mình viết cả dấu chấm câu để hệ thống không tính là câu sai nhé.
+
+## [PRE IELTS] BREAK 2 - CHALLENGE 1
+
+- Challenge ID: 31677
+- Class challenge ID: 82862
+- Deadline: 2026-07-06 23:30:00
+- Raw: `raw/challenge-01-31677.json`
+
+### Study Content
+
+Điền form khảo sát tình hình cải thiện Winning habits: LINK
+
+Exercise 1
+
+1.
+
+A: So how do you like your job, Bill?
+
+B: Well, it was okay at first, but now, after two years, I don't like it.
+
+A: Oh, why's that?
+
+B: It's boring. I do the same thing every day. I'm really sick of it.
+
+A: So why don't you change jobs?
+
+B: I'm well-paid. I like the money!
+
+A: Oh, I see. But you should leave if you're not happy.
+
+B: Yeah, maybe I should.
+
+2.
+
+A: Do you like teaching children, Christine?
+
+B: Oh, yes! I love working with kids. They're so much fun.
+
+A: Well, I guess you have the perfect job!
+
+B: Yeah, I like it a lot. There's just one thing I don't like.
+
+A: What's that?
+
+B: The distance to school. It's too far away. It takes me an hour to drive there every day.
+
+A: Wow. That must be awful!
+
+B: It is, but the schools that are near me are not as good.
+
+3.
+
+A: How is your new job going, Anna?
+
+B: Good, thanks. I really like it.
+
+A: What do you like best about it?
+
+B: I think it's the people I work with. They are so nice.
+
+A: People make all the difference in a job, don't they?
+
+B: They sure do. The only trouble is, I have to travel a lot. I'm away from home for about two weeks every month.
+
+A: Yeah, that can be difficult.
+
+B: It is. I hope I won't have to travel so much next year.
+
+4.
+
+A: Do you enjoy being a salesperson, Nancy?
+
+B: Yes, I do like it. I get to meet so many people.
+
+A: Is it hard work?
+
+B: Yes, it can be. I don't like the long hours. I'm always really tired when I get home at night.
+
+A: That's too bad. Why don't you quit?
+
+B: Because I think my boss is great to work for.
+
+5.
+
+A: How long have you been working in a restaurant, Martin?
+
+B: For more than five years.
+
+A: Wow. You must really enjoy it.
+
+B: Oh no, I don't enjoy it at all! It's hard work and pretty tiring, too. I'm on my feet all night.
+
+A: Oh, I see.
+
+B: But the tips are great. I really should find a better job soon, though.
+
+ |
+
+1.
+
+A: Vậy bạn thấy công việc của mình như thế nào, Bill?
+
+B: Ban đầu thì không sao, nhưng bây giờ, sau hai năm, tôi không thích điều đó.
+
+A: Ồ, tại sao vậy?
+
+B:  Nó rất là nhàm chán. Tôi làm đi làm lại 1 việc mỗi ngày. Tôi thực sự phát ngán vì nó.
+
+A: Vậy tại sao bạn không thay đổi công việc?
+
+B: Tôi được trả lương cao. Tôi thích tiền!
+
+A: Ồ, tôi hiểu rồi. Nhưng bạn nên rời đi nếu bạn không hạnh phúc.
+
+B: Vâng, có lẽ tôi nên làm vậy.
+
+2.
+
+A: Bạn có thích dạy trẻ em không, Christine?
+
+B: Ồ, vâng! Tôi thích làm việc với trẻ em. Chúng rất vui.
+
+A: Chà, tôi đoán bạn có một công việc hoàn hảo!
+
+B: Vâng, tôi thích nó rất nhiều. Chỉ có một điều tôi không thích.
+
+A: Đó là cái gì?
+
+B: Khoảng cách đến trường. Nó quá xa. Tôi phải mất một giờ để lái xe đến đó mỗi ngày.
+
+A: Chà. Điều đó chắc là rất khủng khiếp!
+
+B: Đúng vậy, nhưng những trường gần tôi không tốt bằng.
+
+3.
+
+A: Công việc mới của bạn thế nào rồi, Anna?
+
+B: Tốt, cảm ơn nha. Tôi thực sự thích nó.
+
+A: Bạn thích điều gì nhất về nó?
+
+B: Tôi nghĩ đó là những người tôi làm việc cùng. Họ rất tốt bụng.
+
+A: Mọi người tạo ra sự khác biệt trong một công việc nhỉ?
+
+B: Họ chắc chắn làm được điều đó. Rắc rối duy nhất là, tôi phải đi lại rất nhiều. Tôi phải xa  nhà khoảng hai tuần mỗi tháng.
+
+A: Vâng, điều đó có thể khó khăn.
+
+B: Đúng vậy. Tôi hy vọng mình sẽ không phải đi lại nhiều vào năm tới.
+
+4.
+
+A: Bạn có thích làm nhân viên bán hàng không, Nancy?
+
+B: Vâng, tôi thích nó. Tôi được gặp rất nhiều người.
+
+A: Nó có vất vả không?
+
+B: Có thể đó. Tôi không thích phải làm nhiều giờ liền. Tôi luôn thực sự mệt mỏi khi về nhà vào buổi tối.
+
+A: Điều đó quá tệ. Tại sao bạn không bỏ việc đi?
+
+B: Bởi vì tôi nghĩ rằng sếp của tôi rất tuyệt khi được làm việc.
+
+5.
+
+A: Bạn đã làm việc trong nhà hàng được bao lâu rồi, Martin?
+
+B: Trong hơn 5 năm.
+
+A: Chà. Chắc bạn thích nó lắm nhỉ.
+
+B: Ồ không, tôi không thích thú gì cả! Đó là công việc khó khăn và cũng khá mệt mỏi. Tôi phải đứng suốt đêm.
+
+A: Ồ, tôi hiểu rồi.
+
+B: Nhưng mà được nhiều tiền bo cũng thích. Tuy nhiên, tôi nên một công việc tốt hơn.
+
+ |
+
+Exercise 2
+
+1.
+
+A: It's my little boy! We were looking for some pants for my husband. Now I can't find him.
+
+B: Don't worry, ma'am. We'll find him. How old is he?
+
+A: He's seven.
+
+B: I see. And what color is his hair?
+
+A: It's light brown.
+
+B: Don't worry. We'll find him for you.
+
+2.
+
+A: My little girl was here a minute ago, and now I can't find her.
+
+B: She's probably in the toy section. Can you describe her?
+
+A: Yes, she's five years old.
+
+B: And what color hair does she have?
+
+A: Brown. And it's very curly.
+
+B: All right. Let's go to the toy section and see if she's there.
+
+3.
+
+A: Has anyone seen a young kid?
+
+B: How old, sir?
+
+A: He's ten. He's always getting lost. Drives me crazy.
+
+B: Where did you last see him?
+
+A: Over by the video equipment.
+
+B: What color is his hair?
+
+A: Blond, and pretty long. Too long!
+
+4.
+
+A: Excuse me. I've lost my little boy. We were looking at some microwaves and he was bored and...
+
+B: Calm down, sir. Can you describe him?
+
+A: Yes. He's eight. Really cute.
+
+B: And what color is his hair?
+
+A: Dark brown.
+
+B: Okay. Let's see where he is. Just sit down and relax.
+
+5.
+
+A: Excuse me. I've lost my daughter!
+
+B: Is she around 13, about average height, with short blond hair?
+
+A: Why, yes.
+
+B: She's looking for you-over there, in the shoe department.
+
+A: Thanks a lot!
+
+ |
+
+1.
+
+A: Đó là cậu con trai nhỏ của tôi! Chúng tôi đang tìm vài cái quần cho chồng tôi. Bây giờ tôi không thể tìm thấy thằng bé.
+
+B: Xin đừng lo lắng, thưa bà. Chúng tôi sẽ tìm được thằng bé. Nó bao nhiêu tuổi vậy?
+
+A: Nó bảy tuổi.
+
+B: Tôi hiểu rồi. Và tóc của nó ấy màu gì?
+
+A: Nó có màu nâu nhạt.
+
+B: Đừng lo lắng. Chúng tôi sẽ tìm thằng bé cho bà.
+
+2.
+
+A: Con gái nhỏ của tôi mới ở đây một phút trước, và bây giờ tôi không thể tìm thấy nó.
+
+B: Có lẽ con bé đang ở trong gian hàng đồ chơi. Bạn có thể mô tả con bé?
+
+A: Vâng, con bé năm tuổi.
+
+B: Và nó có mái tóc màu gì?
+
+A: Màu nâu. Và rất xoăn.
+
+B: Được rồi. Hãy sang gian đồ chơi và xem nó có ở đó không.
+
+3.
+
+A: Có ai nhìn thấy một đứa trẻ nhỏ không?
+
+B: Bao nhiêu tuổi, thưa ông?
+
+A: Nó mười tuổi. Nó suốt ngày đi lạc ấy. Làm tôi phát điên lên được.
+
+B: Lần cuối ông nhìn thấy nó là ở đâu?
+
+A: Ở chỗ thiết bị video.
+
+B: Tóc của thằng bé màu gì?
+
+A: Tóc vàng và khá dài. Rất dài!
+
+4.
+
+A: Xin lỗi. Tôi đã bị lạc đứa con trai nhỏ của mình. Chúng tôi đang xem một số lò vi sóng và thằng bé cảm thấy buồn chán và...
+
+B: Bình tĩnh, thưa ông. Ông có thể miêu tả thằng bé được không?
+
+A: Vâng. Nó tám tuổi. Rất dễ thương.
+
+B: Và tóc của nó màu gì?
+
+A: Màu nâu sẫm.
+
+B: Được rồi. Để xem nó đang ở đâu. Ông cứ ngồi xuống và bình tĩnh nha.
+
+5.
+
+A: Xin lỗi. Tôi vừa bị lạc con gái của mình!
+
+B: Nó khoảng 13 tuổi, chiều cao trung bình, với mái tóc ngắn màu vàng phải không?
+
+A: Đúng rồi.
+
+B: Con bé đang tìm bạn đó - ở đằng kia kìa, trong khu giày dép ý.
+
+A: Cảm ơn rất nhiều!
+
+ |
+
+Exercise 3
+
+1.
+
+A: What does your girlfriend look like, Tony?
+
+B: Cindy? Oh, she's tall. And she's got long, dark brown hair.
+
+2.
+
+A: Tell me about your boyfriend, Anne.
+
+B: Well, his name's Bob. He's 17. Let me see.... Well, he's got curly blond hair. He's not very tall - about average. But he's really good-looking.
+
+3.
+
+A: So, Bob, what's the new girl in class like?
+
+B: She's pretty tall, about 170 centimeters. She's got glasses and short curly hair. I think she's about 20.
+
+A: What's her name?
+
+B: I can't remember. Anne, I think.
+
+4.
+
+A: So tell me about your cousin, Paul.
+
+B: Well, she's very pretty.
+
+A: Really! Is she blond?
+
+B: No, she's got dark brown hair. Everybody likes her. She's an actress.
+
+A: Really? I'd like to meet her.
+
+ |
+
+1.
+
+A: Bạn gái của bạn trông như thế nào, Tony?
+
+B: Cindy? Ồ, cô ấy cao. Và cô ấy có mái tóc dài, màu nâu sẫm.
+
+2.
+
+A: Hãy kể cho tôi nghe về bạn trai của bạn, Anne.
+
+B: À, anh ấy tên là Bob. Anh ấy 17 tuổi.  Để xem nào.... Chà, anh ấy có mái tóc vàng xoăn. Anh ấy không cao lắm - chỉ ở mức trung bình. Nhưng anh ấy thực sự đẹp trai.
+
+3.
+
+A: Vậy, Bob, bạn nữ mới trong lớp trông như thế nào?
+
+B: Cô ấy khá cao, khoảng 170 cm. Cô ấy đeo kính và tóc ngắn uốn xoăn. Tôi nghĩ cô ấy khoảng 20 tuổi.
+
+A: Cô ấy tên gì?
+
+B: Tôi không nhớ. Anne, tôi nghĩ vậy.
+
+4.
+
+A: Hãy kể cho tôi nghe về chị/em họ của bạn, Paul.
+
+B: Chà, cô ấy rất xinh.
+
+A: Thật hả! Cô ấy có tóc vàng không?
+
+B: Không, cô ấy có mái tóc màu nâu sẫm. Mọi người đều thích cô ấy. Cô ấy là một nữ diễn viên.
+
+A: Thật à? Tôi muốn gặp cô ấy.
+
+ |
+
+Exercise 4
+
+1.
+
+Sonia was very well dressed. She had on a jacket and a long, dark blue skirt. She was also wearing a yellow blouse. She wasn't carrying a bag, but she did have a small wallet with her. Oh, and I remember she had nice gold earrings. I also remember her shoes. She was wearing black shoes with very high heels.
+
+Sonia ăn mặc rất đẹp. Cô mặc một chiếc áo khoác và một chiếc váy dài màu xanh đậm. Cô ấy đang mặc một chiếc áo cánh màu vàng. Cô ấy không mang theo túi, nhưng cô ấy có một chiếc ví nhỏ bên mình. Ồ, và tôi nhớ cô ấy có đôi bông tai bằng vàng rất đẹp. Tôi cũng nhớ đôi giày của cô ấy. Cô ấy đi một đôi giày đen với gót rất cao.
+
+2.
+
+Brian was very casually dressed. He was wearing some really old jeans-you know, the ones with holes in them-with a new wide leather belt and a white T-shirt. He had on some boots, high brown ones. They looked really nice. He also had a red scarf. He usually wears a couple of big rings, but he wasn't wearing any at the party. He was wearing an interesting silver watch, though.
+
+Brian ăn mặc rất giản dị. Anh ta đang mặc một chiếc quần jean cũ - bạn biết đấy, những chiếc có lỗ thủng - với một chiếc thắt lưng da bản rộng mới và một chiếc áo phông trắng. Anh ta đi ủng, những đôi cao màu nâu. Chúng trông thực sự đẹp. Anh ấy cũng có một chiếc khăn quàng cổ màu đỏ. Anh ấy thường đeo một vài chiếc nhẫn to, nhưng anh ấy không đeo chiếc nào trong bữa tiệc. Tuy nhiên, anh ấy đang đeo một chiếc đồng hồ màu bạc trông khá hay.
+
+3.
+
+Kevin was wearing a yellow shirt and a green tie. I didn't like the tie, but I liked the shirt. He also had on brown pants. He was wearing sneakers with long white socks-kind of cute, actually. And he had a leather bag over one shoulder.
+
+Kevin mặc một chiếc áo sơ mi màu vàng và một chiếc cà vạt màu xanh lá cây. Tôi không thích cà vạt, nhưng tôi thích cái áo sơ mi. Anh ta cũng mặc một chiếc quần dài màu nâu. Anh ấy đang đi giày thể thao với đôi tất dài màu trắng - khá dễ thương. Và anh ta đeo một chiếc túi da trên một bên vai.
+
+4.
+
+Mrs. Graham looked really good. She had on an interesting long red skirt and a beautiful gold and black jacket. And she had some lovely earrings and a nice necklace. She also had a long pink scarf over one shoulder. She didn't have a bag. She was wearing sandals.
+
+Bà Graham trông thực sự rất đẹp. Bà ấy mặc một chiếc váy dài màu đỏ thú vị và một chiếc áo khoác vàng đen tuyệt đẹp. Và bà ấy đeo đôi bông tai xinh xắn và một chiếc vòng cổ đẹp. Bà ấy cũng có một chiếc khăn hồng dài qua một bên vai. Bà ấy không đeo túi. Bà ấy đang đi một đôi dép xăng đan.
+
+Exercise 5
+
+1.
+
+Both of my parents are taller than me. My dad is pretty tall, but my brother is even taller than my dad. Together they look like a basketball team! My sister and I are the short ones in the family.
+
+Cả bố mẹ tôi đều cao hơn tôi. Bố tôi khá cao, nhưng anh trai tôi thậm chí còn cao hơn bố tôi. Trông họ giống như một đội bóng rổ! Em gái tôi và tôi là những người lùn trong gia đình.
+
+2.
+
+My brother isn't interested in music at all. He's into cars, like my dad. But I'm not interested in cars. I play the guitar and the piano. I guess I love music because of my mom. She sings beautifully. She plays the piano really well, too.
+
+Anh trai tôi không thích âm nhạc chút nào. Anh ấy thích ô tô, giống như bố tôi. Nhưng tôi không thích ô tô. Tôi chơi guitar và piano. Tôi đoán tôi yêu âm nhạc vì mẹ tôi. Bà ấy hát rất hay. Bà ấy chơi piano cũng rất giỏi.
+
+3.
+
+I love animals. I have a dog and I keep a couple of parrots in a big cage in my room. I love taking photographs of wild birds when I'm in the countryside. My dad and I often go away for the weekend and we have a great time birdwatching. My sister thinks I'm crazy. When my sister has free time, she loves to play cards. I can't stand card games.
+
+Tôi yêu động vật. Tôi có một con chó và tôi nuôi một vài con vẹt trong một cái lồng lớn trong phòng của tôi. Tôi thích chụp ảnh các loài chim hoang dã khi tôi ở nông thôn. Bố tôi và tôi thường đi xa vào cuối tuần và chúng tôi có một khoảng thời gian tuyệt vời để ngắm chim. Em gái tôi nghĩ rằng tôi bị điên. Khi em gái tôi có thời gian rảnh, cô ấy rất thích chơi bài. Tôi không thể chịu được trò chơi bài.
+
+4.
+
+I enjoy reading. I read a lot of books and I love going to the library. My dad likes outdoor things. He's really into sports and swimming, and he always tells me I should get more interested in sports. But Mom tells me that reading is the best way to learn. She always gives me books that she's been reading.
+
+Tôi thích đọc sách. Tôi đọc rất nhiều sách và tôi thích đến thư viện. Bố tôi thích những thứ ngoài trời. Anh ấy thực sự thích thể thao và bơi lội, và anh ấy luôn nói với tôi rằng tôi nên quan tâm hơn đến thể thao. Nhưng mẹ nói với tôi rằng đọc là cách tốt nhất để học. Cô ấy luôn đưa cho tôi những cuốn sách mà cô ấy đang đọc.
+
+5.
+
+I'm very interested in computers. I'm always teaching myself new computer programs and I have a lot of great software. My brother and I spend all our free time in computer stores and on the Internet. My sister is more interested in the arts. She likes music and she loves to read. She hates computers!
+
+Tôi rất thích máy tính. Tôi luôn tự học các chương trình máy tính mới và tôi có rất nhiều phần mềm tuyệt vời. Anh trai tôi và tôi dành tất cả thời gian rảnh rỗi của chúng tôi trong các cửa hàng máy tính và trên Internet. Em gái tôi quan tâm đến nghệ thuật hơn. Cô ấy thích âm nhạc và cô ấy thích đọc. Cô ấy ghét máy tính!
+
+6.
+
+I love traveling. My mother and I go to a different place every year. Both of us love to learn new things about cultures. My father never goes with us because he hates flying. My older sister is in college, so she stays home and studies while we're away. Sometimes I wish my sister and my father would travel with us because I miss them.
+
+Tôi thích đi du lịch. Mẹ tôi và tôi đi đến một nơi khác nhau mỗi năm. Cả hai chúng tôi đều thích tìm hiểu những điều mới mẻ về các nền văn hóa. Bố tôi không bao giờ đi với chúng tôi vì ông ấy ghét đi máy bay. Chị gái tôi đang học đại học, vì vậy chị ấy ở nhà và học trong khi chúng tôi đi vắng. Đôi khi tôi ước chị tôi và bố tôi đi du lịch với chúng tôi vì tôi nhớ họ.
+
+### Exercises
+
+#### question-301022
+
+- Type: 1
+
+Exercise 1: Listen and match the aspects that the speakers like and dislike about the jobs (Nghe và nối những điều mà người nói thích hay không thích về công việc của mình.)
+
+ 
+
+1. I get to meet so many people.
+
+ |
+
+2. I love working with kids.
+
+ |
+
+3. I’m always really tired when I get home at night.
+
+ |
+
+4. It’s hard work and pretty tiring, too.
+
+ |
+
+5. The tips are great.
+
+ |
+
+6. It takes me an hour to drive there every day.
+
+ |
+
+7. I am well paid.
+
+ |
+
+8. I have to travel a lot.
+
+ |
+
+9. The people I work with are so nice.
+
+ |
+
+10. I do the same thing every day.
+
+ |
+
+**Answer template / submitted view:**
+
+What I like about my job: [input_0]
+
+What I don't like about my job: [input_1]
+
+#### question-301023
+
+- Type: 1
+
+Speaker 2:
+
+**Answer template / submitted view:**
+
+What I like about my job: [input_0]
+
+What I don't like about my job: [input_1]
+
+#### question-301024
+
+- Type: 1
+
+Speaker 3:
+
+**Answer template / submitted view:**
+
+What I like about my job: [input_0]
+
+What I don't like about my job: [input_1]
+
+#### question-301025
+
+- Type: 1
+
+Speaker 4:
+
+**Answer template / submitted view:**
+
+What I like about my job: [input_0]
+
+What I don't like about my job: [input_1]
+
+#### question-301026
+
+- Type: 1
+
+Speaker 5:
+
+**Answer template / submitted view:**
+
+What I like about my job: [input_0]
+
+What I don't like about my job: [input_1]
+
+#### question-301027
+
+- Type: 5
+
+Exercise 2: Listen and choose the correct description of the kid. You can choose more than one answer (Nghe và chọn miêu tả đúng về đứa bé đang cần tìm. Em có thể chọn nhiều hơn một đáp án.)
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object]
+
+#### question-301028
+
+- Type: 5
+
+Conversation 2:
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object]
+
+#### question-301029
+
+- Type: 5
+
+Conversation 3:
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object]
+
+#### question-301030
+
+- Type: 5
+
+Conversation 4:
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object]
+
+#### question-301031
+
+- Type: 5
+
+Conversation 5:
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object]
+
+#### question-301032
+
+- Type: 1
+
+Exercise 3: Listen to the audio and rearrange the words into correct sentences (Nghe ghi âm và sắp xếp lại các từ vào thành câu đúng)
+
+**Answer template / submitted view:**
+
+[input_0]
+
+#### question-301033
+
+- Type: 1
+
+2. centimeters / tall / about / , / She's / pretty / 170 / .
+
+**Answer template / submitted view:**
+
+[input_0]
+
+#### question-301034
+
+- Type: 1
+
+3. She's / curly / glasses / and / got / short/ hair / .
+
+**Answer template / submitted view:**
+
+[input_0]
+
+#### question-301035
+
+- Type: 1
+
+4. dark/ got/ she's/ hair/ brown.
+
+**Answer template / submitted view:**
+
+[input_0]
+
+#### question-301036
+
+- Type: 1
+
+5. meet/ like/ to/ I'd/ her.
+
+**Answer template / submitted view:**
+
+[input_0]
+
+#### question-301037
+
+- Type: 5
+
+Exercise 4: Listen to the audio and choose the items that the person is wearing, you can choose more than 1 item. (Nghe và chọn những đồ mà người đó đang mặc. Bạn có thể chọn nhiều hơn một món đồ)
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-301038
+
+- Type: 5
+
+2.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-301039
+
+- Type: 5
+
+3.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-301040
+
+- Type: 5
+
+4.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-301041
+
+- Type: 4
+
+Exercise 5: Listen to the audio and choose the correct (Nghe và chọn đáp án đúng)
+
+(Speaker 1) Wen Ping
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object]
+
+#### question-301042
+
+- Type: 4
+
+(Speaker 2) Michael
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object]
+
+#### question-301043
+
+- Type: 4
+
+(Speaker 3) Justin
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object]
+
+#### question-301044
+
+- Type: 4
+
+(Speaker 4) Susan
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object]
+
+#### question-301045
+
+- Type: 4
+
+(Speaker 5) Robert
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object]
+
+#### question-301046
+
+- Type: 4
+
+(Speaker 6) Beth
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object]
+
+### Submission / Feedback
+
+Status: graded
+
+Correct answer: 21
+
+Hi Khánh, bài này mình làm khá tốt nhé. Lần sau em chú ý các dấu câu để hệ thống không bôi đỏ nha.
+
+Với dạng bài nghe, sau khi check đáp án xong em cần nghe lại song song với đọc script để hiểu tại sao mình lại sai, từ đó rút kinh nghiệm cho các bài sau nha.
+
+## [PRE IELTS] BREAK 1 - CHALLENGE 2
+
+- Challenge ID: 29473
+- Class challenge ID: 80745
+- Deadline: 2026-06-19 23:30:00
+- Raw: `raw/challenge-02-29473.json`
+
+### Study Content
+
+SHADOWING
+
+Listen and repeat these sentences. (Nghe và nhắc lại các câu sau.)
+
+1. What does your mother do? - My mother is a nurse.
+
+2. My brother does exercise every day.
+
+3. My father does the washing in my family.
+
+4. I often have a shower at 7 pm.
+
+5. I often have bread with eggs and a glass of milk for breakfast.
+
+6. I like going sightseeing when I'm on holiday.
+
+7. I go for a walk twice a week.
+
+8. I often go to school by motorbike.
+
+### Exercises
+
+#### SHADOWING
+
+- Type: 2
+
+SHADOWING
+
+### Submission / Feedback
+
+Status: graded
+
+Correct answer: 1
+
+Hi Khánh, cô gửi nhận xét cho bài của mình nha.
+
+Phát âm
+
+
+
+your /jɔːr/ (hoặc /jʊər/): em đang phát âm chưa đúng âm /j/ ở đầu từ. Khi đọc, lưỡi nâng gần vòm miệng rồi chuyển nhanh sang nguyên âm phía sau, tránh đọc thành âm "d" hoặc bỏ mất âm đầu.
+
+
+
+
+nurse /nɜːrs/: em đang thiếu âm cuối /s/. Cần đọc rõ âm cuối để từ được đầy đủ và chính xác hơn.
+
+
+
+
+does /dʌz/: em đọc sai nguyên âm /ʌ/. Khẩu hình mở tự nhiên, lưỡi thả lỏng ở giữa miệng, tránh đọc thành âm /o/ hoặc /u/.
+
+
+
+
+eggs /eɡz/: em cần đọc rõ hơn nguyên âm /e/. Khẩu hình mở vừa phải, giữ âm ngắn và dứt khoát, tránh kéo sang các nguyên âm khác.
+
+
+
+
+twice /twaɪs/: em cần chú ý đọc rõ âm cuối /aɪ/
+
+
+
+
+Em đọc kĩ feedback và cố gắng cải thiện để bài sau làm tốt hơn nhé.
+
+## [PRE IELTS] BREAK 2 - CHALLENGE 2
+
+- Challenge ID: 31678
+- Class challenge ID: 82863
+- Deadline: 2026-07-06 23:30:00
+- Raw: `raw/challenge-02-31678.json`
+
+### Study Content
+
+Exercise 1.
+
+1.
+
+A: So tell me about your new friend, Cindy. What's she like?
+
+B: She's really neat. She's great to be with because she makes me laugh all the time.
+
+A: Oh, yeah?
+
+B: Yeah, she's always telling jokes.
+
+2.
+
+A: What's your friend Pauline like?
+
+B: She's nice.
+
+A: Is she shy?
+
+B: Shy? You must be kidding. She tells her whole life story to everyone she meets.
+
+3.
+
+A: Do you know Tom Brown?
+
+B: Oh, sure. I like Tom.
+
+A: Yeah, me, too. He makes me laugh. He's always doing crazy things.
+
+B: Yeah, I know.
+
+4.
+
+A: Have you spoken to the new guy in our class, Paul?
+
+B: Yes, I have.
+
+A: What's he like?
+
+B: Boy, he's really interesting. He speaks six languages and was the top student at his last school.
+
+A: Oh, great!
+
+B: No, you'll like him. He's really friendly and easy to talk to.
+
+5.
+
+A: Do you and your boyfriend go out a lot, Suzanne?
+
+B: Oh sure, he loves going out and meeting people. We go to parties all the time.
+
+A: He sounds like a lot of fun.
+
+B: Of course. That's why he's my boyfriend.
+
+6.
+
+A: Look what my friend Mary gave me for my birthday. Isn't this a beautiful blouse?
+
+B: That's really nice. And she gave me a great present for my birthday, too. She loves giving things to people.
+
+A: Yeah, she does. And she doesn't expect anything in return.
+
+ |
+
+1.
+
+A: Vậy hãy kể cho tôi nghe về người bạn mới của bạn, Cindy. Cô ấy là người như thế nào?
+
+B: Cô ấy thực sự gọn gàng.  Ở bên cạnh cô ấy rất tuyệt vì cô ấy luôn khiến tôi cười.
+
+A: Ồ, thế hả?
+
+B: Vâng, cô ấy luôn kể chuyện cười.
+
+2.
+
+A: Bạn của bạn - Pauline là người như thế nào?
+
+B: Cô ấy rất tốt.
+
+A: Cô ấy có hay ngại không?
+
+B: Xấu hổ á? Bạn đang đùa chắc. Cô ấy kể câu chuyện toàn bộ cuộc đời mình cho mọi người mà cô ấy gặp.
+
+3.
+
+A: Bạn có biết Tom Brown không?
+
+B: Ồ, chắc chắn rồi. Tôi thích Tom.
+
+A: Vâng, tôi cũng vậy. Anh ấy làm cho tôi cười. Anh ấy luôn làm những điều điên rồ.
+
+B: Vâng, tôi biết.
+
+4.
+
+A: Bạn đã nói chuyện với anh chàng mới trong lớp của chúng ta chưa, Paul?
+
+B: Vâng, tôi có.
+
+A: Anh ấy là người như thế nào?
+
+B: Chàng trai, anh ấy thực sự thú vị. Anh ấy nói được sáu thứ tiếng và là học sinh giỏi nhất ở
+
+trường cũ của anh ý.
+
+A: Ồ, tuyệt vời!
+
+B: Không, bạn sẽ thích anh ấy. Anh ấy thực sự thân thiện và dễ nói chuyện.
+
+5.
+
+A: Bạn và  người yêu có đi chơi nhiều không, Suzanne?
+
+B: Ồ chắc chắn rồi, anh ấy rất thích ra ngoài và gặp gỡ mọi người. Chúng tôi suốt ngày đi tiệc tùng.
+
+A: Anh ấy có vẻ rất vui vẻ.
+
+B: Tất nhiên. Đó là lý do tại sao anh ấy là bạn trai của tôi.
+
+6.
+
+A: Hãy xem bạn tôi Mary đã tặng gì cho tôi nhân ngày sinh nhật. Đây không phải là một chiếc áo cánh đẹp sao?
+
+B:  Thực sự đẹp. Và cô ấy cũng đã tặng cho tôi một món quà tuyệt vời trong ngày sinh nhật của tôi. Cô ấy thích tặng mọi người đồ này đồ kia.
+
+A: Đúng vậy. Và cô ấy không mong đợi được đáp lại bất kì điều gì.
+
+ |
+
+Exercise 2.
+
+1.
+
+A: Mr. Grant is really funny, isn't he? He loves telling jokes. And he's so easy-going.
+
+B: I know. Then there's Mrs. Grant. She never seems to smile. I wonder why she's so serious all the time.
+
+2.
+
+A: Where are Bobby and his brother today?
+
+B: I think they've skipped class again.
+
+A: Really? They're always doing that.
+
+B: Yeah. They aren't serious about studying, that's for sure. All they like to do is sit at home and play computer games.
+
+3.
+
+A: What are your new neighbors like?
+
+B: Mr. and Mrs. Roberts? Well, they seem nice. I've spoken to Mrs. Roberts several times.
+
+She's very easy to talk to. But I haven't spoken much to her husband. He's kind of shy and not very talkative.
+
+4.
+
+A: Have you met Wendy's new boyfriend?
+
+B: Yeah, I like him.
+
+A: Me, too. I think he's perfect for Wendy.
+
+B: He sure is. They're so sociable. They both love partying and they're both a little crazy at times.
+
+A: That's for sure.
+
+5.
+
+A: How do you like the new teachers?
+
+B: Well, Mr. Williams is very easy-going, and he's really smart, too.
+
+A: Yeah, I know. And what about Miss Vaughn?
+
+B: She's not as easy to get to know. She's not as easy-going as Mr. Williams. She seems very serious.
+
+A: Yeah. I think so, too.
+
+6.
+
+A: What's your brother's wife like?
+
+B: She's just like my brother-serious and hardworking. She's at the office every night until around 9:00. And so is he.
+
+A: They sound like the perfect couple.
+
+ |
+
+1.
+
+A: Ông Grant thật là vui tính nhỉ? Ông ấy thích kể chuyện cười. Và ông ấy thật dễ tính.
+
+B: Tôi biết.  Còn về bà Grant. Bà ấy dường như không bao giờ cười. Tôi tự hỏi tại sao bà ấy lúc nào cũng nghiêm túc như vậy.
+
+2.
+
+A: Bobby và anh trai cậu ấy hôm nay ở đâu?
+
+B: Tôi nghĩ họ lại trốn học rồi.
+
+A: Thật á? Họ luôn làm điều đó.
+
+B: Vâng. Họ không nghiêm túc trong việc học tập, đó là điều chắc chắn. Tất cả những gì họ thích làm là ngồi ở nhà và chơi trò chơi máy tính.
+
+3.
+
+A: Những người hàng xóm mới của bạn như thế nào?
+
+B: Ông bà Roberts ý hả? Chà, họ tốt bụng lắm. Tôi đã nói chuyện với bà Roberts vài lần.
+
+Bà ấy rất dễ nói chuyện. Nhưng tôi chưa nói nhiều với chồng bà ấy. Ông ấy hơi nhút nhát
+
+và không hay nói lắm.
+
+4.
+
+A: Bạn đã gặp bạn trai mới của Wendy chưa?
+
+B: Vâng, tôi thích anh ấy.
+
+A: Tôi cũng vậy. Tôi nghĩ anh ấy hoàn toàn phù hợp với Wendy.
+
+B: Chắc chắn là vậy. Họ rất hòa đồng. Cả hai đều thích tiệc tùng và cả hai thi thoảng đều điên điên 1 chút.
+
+A: Đó là điều chắc chắn.
+
+5.
+
+A: Bạn thấy những giáo viên mới như thế nào?
+
+B: Chà, thầy Williams rất dễ tính và ông ấy cũng rất thông minh.
+
+A: Vâng, tôi biết. Còn cô Vaughn thì sao?
+
+B: Cô ấy không dễ làm quen. Cô ấy không dễ  tính hoà đồng như thầy Williams. Cô ấy có vẻ rất nghiêm túc.
+
+A: Vâng. Tôi cũng nghĩ thế.
+
+6.
+
+A: Chị dâu bạn như thế nào?
+
+B: Chị ấy giống như anh trai tôi - nghiêm túc và chăm chỉ. Cô ấy ở văn phòng mỗi tối cho đến khoảng 9:00. Và anh tôi cũng vậy.
+
+A: Họ có vẻ là một cặp đôi hoàn hảo.
+
+ |
+
+Exercise 3.
+
+1.
+
+The bookshelf looks really good in the living room. And the TV is just fine. When I find a stereo, I'm going to put it in the bookshelf. I don't have a stereo now because I want to find a cheap one. I'm going to check out the sales next week. I've got a dinner table, but I still need a sofa. Now I have to sit at the dinner table to watch TV. My living room is small, so I want a small sofa.
+
+Giá sách trông thực sự hợp trong phòng khách. Và TV cũng ổn. Khi tôi tìm được một dàn âm thanh, tôi sẽ đặt nó vào giá sách. Tôi hiện không có dàn  âm thanh vì tôi muốn tìm một cái giá rẻ. Tuần tới tôi sẽ check xem thế nào. Tôi đã có một bàn ăn tối, nhưng tôi vẫn cần một chiếc ghế sofa. Giờ tôi phải ngồi vào bàn ăn tối để xem TV. Phòng khách của tôi nhỏ, vì vậy tôi muốn có một chiếc ghế sofa nhỏ.
+
+2.
+
+If you have an old bookshelf you aren't using, I'd be really happy to buy it! I haven't been able to find one that is the right size. All the ones I looked at were too big. Right now there are books all over the floor. But I managed to pick up a really good TV and stereo at a yard sale last weekend. I still need to find a dinner table. All the ones I looked at in the stores were too expensive.
+
+Nếu bạn có một giá sách cũ mà bạn không sử dụng, tôi thực sự rất muốn mua nó! Tôi không thể tìm thấy một cái có kích thước phù hợp. Tất cả những cái tôi đã nhìn đều quá lớn. Hiện giờ sách đầy khắp sàn. Nhưng tôi đã chọn được một chiếc TV và 1 dàn âm thanh thực sự tốt tại một buổi bán hàng bãi vào cuối tuần trước. Tôi vẫn cần tìm một bàn ăn tối. Tất cả những thứ tôi đã xem trong các cửa hàng đều quá đắt.
+
+3.
+
+I was thinking about getting a bookshelf, but I don't have many books yet, so I guess I can wait. I was lucky. I got a really cheap used TV the other day. It only cost $50 and it works really well. It's nice to have something to watch. Right now I don't have enough money to buy a stereo. The dinner table is very nice and big enough for six people. I bought a cheap sofa, too. It's really comfortable.
+
+Tôi đã nghĩ đến việc mua một giá sách, nhưng tôi chưa có nhiều sách, vì vậy tôi đoán tôi có thể đợi. Tôi đã may mắn. Hôm trước tôi mua được một chiếc TV cũ rất rẻ. Nó chỉ có giá $ 50 và nó hoạt động thực sự tốt. Thật tuyệt khi có thứ gì đó để xem. Hiện tại, tôi không có đủ tiền để mua một dàn âm thanh nổi. Bàn ăn rất đẹp và đủ to cho sáu người. Tôi cũng đã mua một chiếc ghế sofa giá rẻ. Nó thực sự thoải mái.
+
+4.
+
+The bookshelf is good, though it's probably a little too big for the living room. I need a TV, but I'm waiting for the new models. I have a good stereo. So that's good. However, I still haven't bought a dinner table. I saw a great one last week. The sales clerk said that they're having a big sale next week, so I'm waiting for that. For now, I'm eating my meals while sitting on the sofa.
+
+Giá sách khá ổn, mặc dù nó có thể hơi to so với phòng khách. Tôi cần một chiếc TV, nhưng tôi đang đợi các mẫu mới. Tôi có một dàn âm thanh tốt. Vậy thì tốt. Tuy nhiên, tôi vẫn chưa mua bàn ăn tối. Tôi đã thấy một cái rất ổn vào tuần trước. Nhân viên bán hàng nói rằng họ sẽ có một đợt giảm giá lớn vào tuần tới, vì vậy tôi đang chờ đợi điều đó. Hiện tại, tôi đang ngồi trên ghế sofa khi dùng bữa.
+
+Exercise 4.
+
+1. 
+
+A: Excuse me. Where’s the post office?
+
+B: The post office? Go straight for two blocks and then turn left. It’s on the left. 
+
+A: Up this street two blocks and left?
+
+B: That’s correct. 
+
+2. 
+
+A: Can I help you?
+
+B: I’m looking for the bank. 
+
+A: Well, take a right at the first corner, and it’s on your right.
+
+B: Okay, thanks. 
+
+3. 
+
+A: Can you help me? I’m looking for a hotel. 
+
+B: Okay. Go straight up two blocks and turn right at the light. You’ll see a hotel on your right. 
+
+A: Thanks. 
+
+B: You’re welcome. 
+
+4.
+
+A: Excuse me. Is there a bookstore around here?
+
+B: Yes. Take the first street on the left. Go through the next intersection. You’ll see the bookstore on the right. You can’t miss it.
+
+ |
+
+1.
+
+A: Xin lỗi. Bưu điện ở đâu?
+
+B: Bưu điện hả? Đi thẳng qua 2 dãy nhà rồi rẽ trái. Ở bên trái. 
+
+A: Lên đường này hai dãy nhà và sang trái?
+
+B: Đúng vậy.
+
+2.
+
+A: Tôi có thể giúp gì cho bạn?
+
+B: Tôi đang tìm ngân hàng.
+
+A: À, rẽ phải ở góc đầu tiên, và nó ở bên phải của bạn.
+
+B: Được rồi, cảm ơn.
+
+3.
+
+A: Bạn có thể giúp tôi được không? Tôi đang tìm một khách sạn.
+
+B: Được rồi. Đi thẳng lên hai dãy nhà và rẽ phải ở chỗ đèn. Bạn sẽ thấy một khách sạn bên phải của bạn.
+
+A: Cảm ơn.
+
+B:  Không có gì.
+
+4.
+
+A: Phiền bạn cho tôi hỏi chút. Có hiệu sách quanh đây không?
+
+B: Vâng. Rẽ trái ở ngã rẽ đầu tiên. Đi qua giao lộ tiếp theo. Bạn sẽ
+
+xem hiệu sách ở bên phải. Bạn sẽ thấy nó ngay thôi.
+
+ |
+
+Exercise 5.
+
+1. So when you come out of the subway, look for a tall glass building. That's a hotel. Walk past that for two blocks and you'll see a small street on the right. That's my street. There's a grocery store on the corner. Go down the street and my place is the fourth house on the left. Maybe bring some CDs with you, because I don't have any dance music for the party.
+
+Khi bạn bước ra khỏi tàu điện ngầm, hãy tìm một tòa nhà cao bằng kính. Đó là một khách sạn. Đi bộ qua đó hai dãy nhà và bạn sẽ thấy một con phố nhỏ ở bên phải. Đó là đường chỗ nhà tôi. Có một cửa hàng tạp hóa ở góc phố. Đi xuống phố và nhà tôi là ngôi nhà thứ tư bên trái. Có thể mang theo một số đĩa CD vì tôi không có nhạc dance cho bữa tiệc.
+
+2. My place is fairly easy to find. Get off the bus across from the supermarket. When you get to the supermarket, could you pick up some snacks? Then walk north for two blocks. You'll see a footbridge. Cross that footbridge and you'll see a small street when you get to the other side. Go down the street, and on the corner you'll see an apartment building. That's my place.
+
+Nhà của tôi khá dễ tìm. Xuống xe buýt đối diện với siêu thị. Khi bạn đến siêu thị, bạn có thể mua ít đồ ăn nhẹ được không? Sau đó đi bộ về phía bắc hai dãy nhà. Bạn sẽ thấy một cầu đi bộ. Băng qua cầu đi bộ đó và bạn sẽ thấy một con phố nhỏ khi sang phía bên kia. Đi xuống phố và ở góc bạn sẽ thấy một tòa nhà chung cư. Đó là chỗ của tôi.
+
+3. My apartment building is near the river. When you come out of the subway, walk towards the river and you'll see an intersection. Go through the intersection and take the first street on the left. Go down the street until you see a supermarket. My house is right next to it. If you can, could you bring some fruit to go with dinner?
+
+Khu chung cư của tôi gần sông. Khi bạn ra khỏi tàu điện ngầm, đi bộ về phía sông và bạn sẽ thấy một ngã tư. Đi qua giao lộ và đi theo con đường đầu tiên bên trái. Đi xuống phố cho đến khi bạn nhìn thấy một siêu thị. Nhà tôi ở ngay bên cạnh. Nếu được, bạn có thể mang một ít trái cây để đi ăn tối được không?
+
+4. I live in an apartment building close to the high school. Get off the bus across from the school and walk north for about four blocks. You'll see a gas station on your left. Turn right just past the gas station and go down the street until you see a church. My building is across from the church. Don't forget to bring your tennis racket.
+
+Tôi sống trong một khu chung cư gần trường trung học. Xuống xe buýt đối diện trường và đi bộ về phía bắc khoảng bốn dãy nhà. Bạn sẽ thấy một trạm xăng ở bên trái của mình. Rẽ phải ngay qua trạm xăng và đi xuống đường cho đến khi bạn nhìn thấy một nhà thờ. Tòa nhà của tôi nằm đối diện với nhà thờ. Đừng quên mang theo vợt tennis của bạn nha.
+
+### Exercises
+
+#### LISTENING
+
+- Type: 3
+
+LISTENING
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+#### question-301048
+
+- Type: 3
+
+b. She loves giving things to people.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+#### question-301049
+
+- Type: 3
+
+c. He's always doing crazy things.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+#### question-301050
+
+- Type: 3
+
+d. He makes me laugh.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+#### question-301051
+
+- Type: 3
+
+e. He loves going out and meeting people.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+#### question-301052
+
+- Type: 3
+
+f. She doesn't expect anything in return.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+#### question-301053
+
+- Type: 3
+
+g. She's great to be with.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+#### question-301054
+
+- Type: 3
+
+h. He goes to parties all the time.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+#### question-301055
+
+- Type: 3
+
+i. She tells her whole life story to everyone she meets.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+#### question-301056
+
+- Type: 3
+
+j. She makes me laugh all the time.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+#### question-301057
+
+- Type: 3
+
+k.  He's really friendly and easy to talk to.
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+#### question-301058
+
+- Type: 3
+
+l. She's nice
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+#### question-301059
+
+- Type: 1
+
+Exercise 2. Listen to the audio and fill in the blanks (Nghe audio và điền vào ô trống)
+
+**Answer template / submitted view:**
+
+Speaker 1:
+
+Mr. Grant loves telling [input_0]. And he's so easy-going.
+
+Mrs. Grant never seems to [input_1].
+
+Speaker 2: 
+
+They aren't [input_2] about studying, that's for sure.
+
+All they [input_3] to do is sit at home and play computer games.
+
+Speaker 3: 
+
+Well, they seem [input_4].
+
+He's kind of shy and not very [input_5].
+
+Speaker 4: 
+
+They're so [input_6].
+
+They both love partying and they're both a little [input_7] at times.
+
+Speaker 5: 
+
+Well, Mr. Williams is very [input_8], and he's really smart, too.
+
+She's not as easy to get to know.
+
+Speaker 6: 
+
+She's just like my brother—serious and hard-working.
+
+They sound like the [input_9] couple.
+
+#### question-301060
+
+- Type: 5
+
+Exercise 3. Listen to the audio and choose what the speaker wants to buy, you can choose more than one option (Nghe ghi âm và chọn thứ mà người nói muốn mua, em có thể chọn nhiều hơn 1 đáp án)
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-301061
+
+- Type: 5
+
+Speaker 2
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-301062
+
+- Type: 5
+
+Speaker 3
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-301063
+
+- Type: 5
+
+Speaker 4
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object],[object Object]
+
+#### question-301064
+
+- Type: 4
+
+Exercise 4. Listen to the audio and choose the correct location the speaker is looking for (Nghe ghi âm và chọn địa điểm mà người nói đang tìm)
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object]
+
+#### question-301065
+
+- Type: 4
+
+Speaker 2
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object]
+
+#### question-301066
+
+- Type: 4
+
+Speaker 3
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object]
+
+#### question-301067
+
+- Type: 4
+
+Speaker 4
+
+**Answer template / submitted view:**
+
+[object Object],[object Object],[object Object]
+
+#### question-301068
+
+- Type: 1
+
+Exercise 5. Listen to the audio and fill in the blanks with no more than 3 words (Nghe ghi âm và điền vào ô trống, không quá 3 từ)
+
+**Answer template / submitted view:**
+
+Speaker 1:
+
+[input_0] that for two blocks and you'll see a small street [input_1].
+
+ [input_2] the street and my place is the fourth house on the [input_3]
+
+Speaker 2: 
+
+My place is fairly [input_4].
+
+[input_5] the bus across from the supermarket.
+
+[input_6] the street, and on the [input_7] you'll see an apartment building.
+
+Speaker 3: 
+
+[input_8] the intersection and take the [input_9] on the left.
+
+My house is right [input_10] it.
+
+Speaker 4: 
+
+[input_11] the bus across from the school and walk [input_12] for about four blocks.
+
+My building is [input_13] the church.
+
+### Submission / Feedback
+
+Status: graded
+
+Correct answer: 46
+
+Hi Khánh, you did this very well!
+

@@ -1,0 +1,688 @@
+{
+  "listItem": {
+    "id": "82563",
+    "challenge_id": 31371,
+    "class_id": "177286917873dop75b27mv",
+    "day": 10,
+    "deadline": "2026-07-02 12:30:00",
+    "challenge_title": "[PRE IELTS] LESSON 10 - CHALLENGE 1",
+    "challenge_note": "Vocabulary (Objects in the house) | Listening transcript (Describing apartments)",
+    "challenge_status": 1,
+    "challenge_band": "161433861829325240c1g7",
+    "total_question": 58,
+    "classification": "dc",
+    "student_challenge": {
+      "id": 565342,
+      "class_challenge_id": 82563,
+      "class_id": "177286917873dop75b27mv",
+      "challenge_id": 31371,
+      "cts_id": "1780455880vwydc1i2ehir",
+      "rate": 1,
+      "comment": "<p>Hi Khánh, bài này em làm tốt nha.</p>\r\n<p>Em xem kĩ phần giải thích đáp án để rút kinh nghiệm bài sau làm tốt hơn nhé.</p>",
+      "url": null,
+      "redo_comment": null,
+      "cancel_comment": null,
+      "date_redo": null,
+      "status_mark": "graded",
+      "status_mark_date": "2026-07-04 20:53:15",
+      "flag_overdue": 0,
+      "flag_not_star": 0,
+      "flag_not_submit": 0,
+      "flag_late_redo": 0,
+      "flag_late_submit": 0,
+      "flag_status_mark": 0,
+      "updated_by": "1779875378vawpfok6ii4u",
+      "updated": "2026-07-04 20:53:15",
+      "created_by": "1779875378vawpfok6ii4u",
+      "created": "2026-07-01 21:06:21",
+      "correct_answer": 45,
+      "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+      "submitted_at": "2026-07-01 21:06:21",
+      "re_submitted_at": null,
+      "answers": [],
+      "tab_switch_count": 0
+    }
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "82563",
+        "challenge_id": 31371,
+        "class_id": "177286917873dop75b27mv",
+        "day": 10,
+        "deadline": "2026-07-02 12:30:00",
+        "flag_status_mark": 1,
+        "flag_not_submit": 1,
+        "created": "2026-06-30 19:29:21",
+        "created_by": null,
+        "challenge": {
+          "id": "31371",
+          "title": "[PRE IELTS] LESSON 10 - CHALLENGE 1",
+          "note": "Vocabulary (Objects in the house) | Listening transcript (Describing apartments)",
+          "day": "21",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "161433861829325240c1g7",
+          "created": "2026-06-30 19:29:19",
+          "updated": null,
+          "created_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+          "updated_by": null,
+          "total_question": 58,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 8067
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 565342,
+        "class_challenge_id": 82563,
+        "class_id": "177286917873dop75b27mv",
+        "challenge_id": 31371,
+        "cts_id": "1780455880vwydc1i2ehir",
+        "rate": 1,
+        "comment": "<p>Hi Khánh, bài này em làm tốt nha.</p>\r\n<p>Em xem kĩ phần giải thích đáp án để rút kinh nghiệm bài sau làm tốt hơn nhé.</p>",
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": "graded",
+        "status_mark_date": "2026-07-04 20:53:15",
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": "1779875378vawpfok6ii4u",
+        "updated": "2026-07-04 20:53:15",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-07-01 21:06:21",
+        "correct_answer": 45,
+        "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+        "submitted_at": "2026-07-01 21:06:21",
+        "re_submitted_at": null,
+        "answers": {
+          "297868": {
+            "total_question": 6,
+            "total_correct_result_answer": 6,
+            "user_answer": {
+              "input_0": "lamp",
+              "input_4": "radio",
+              "input_5": "TV",
+              "input_1": "armchair",
+              "input_3": "remote control",
+              "input_2": "curtains"
+            },
+            "correct_answer": {
+              "input_0": [
+                "b",
+                "lamp"
+              ],
+              "input_1": [
+                "e",
+                "armchair"
+              ],
+              "input_2": [
+                "f",
+                "curtains"
+              ],
+              "input_3": [
+                "c",
+                "remote control"
+              ],
+              "input_4": [
+                "d",
+                "radio"
+              ],
+              "input_5": [
+                "a",
+                "TV"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 297868,
+            "challenge_id": 31371
+          },
+          "297869": {
+            "total_question": 9,
+            "total_correct_result_answer": 4,
+            "user_answer": {
+              "input_0": "I don't often listen to the radio.",
+              "input_1": "We need some more bookshelves in this room.",
+              "input_2": "I watch television all evening yesterday.",
+              "input_3": "It's dark now. Please close the curtains.",
+              "input_4": "Jim has some very nice furniture in his house.",
+              "input_5": "She have a shower in the afternoon.",
+              "input_6": "She walks downstair so she can make dinner for the family.",
+              "input_7": "I don't watch TV anymore,  so but can you turn the TV on?",
+              "input_8": "She is sleepy,so she goes to bed early."
+            },
+            "correct_answer": {
+              "input_0": [
+                "I don't often listen to the radio."
+              ],
+              "input_1": [
+                "We need some more bookshelves in this room."
+              ],
+              "input_2": [
+                "I watched television all evening yesterday."
+              ],
+              "input_3": [
+                "It's dark now. Please close the curtains."
+              ],
+              "input_4": [
+                "Jim has some very nice furniture in his house."
+              ],
+              "input_5": [
+                "She takes a shower in the afternoon."
+              ],
+              "input_6": [
+                "She walks downstairs so she can make dinner for the family."
+              ],
+              "input_7": [
+                "I don't watch TV anymore, so can you turn the TV off?",
+                "I don't watch TV anymore, so can you turn off the TV?"
+              ],
+              "input_8": [
+                "She is sleepy, so she goes to bed early."
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": false,
+              "input_3": true,
+              "input_4": true,
+              "input_5": false,
+              "input_6": false,
+              "input_7": false,
+              "input_8": false
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 297869,
+            "challenge_id": 31371
+          },
+          "297870": {
+            "total_question": 12,
+            "total_correct_result_answer": 11,
+            "user_answer": {
+              "input_0": "living room",
+              "input_1": "bedroom",
+              "input_2": "tow bedrooms",
+              "input_3": "kitchen",
+              "input_4": "bathroom",
+              "input_5": "bedrooms",
+              "input_6": "small",
+              "input_7": "bedroom",
+              "input_8": "living room",
+              "input_9": "seven people",
+              "input_10": "bedrooms",
+              "input_11": "small one"
+            },
+            "correct_answer": {
+              "input_0": [
+                "living room"
+              ],
+              "input_1": [
+                "bedroom"
+              ],
+              "input_2": [
+                "living room"
+              ],
+              "input_3": [
+                "kitchen"
+              ],
+              "input_4": [
+                "bathroom"
+              ],
+              "input_5": [
+                "bedrooms"
+              ],
+              "input_6": [
+                "small"
+              ],
+              "input_7": [
+                "bedroom",
+                "living room"
+              ],
+              "input_8": [
+                "living room",
+                "bedroom"
+              ],
+              "input_9": [
+                "seven people",
+                " 7 people"
+              ],
+              "input_10": [
+                "bedrooms"
+              ],
+              "input_11": [
+                "small bedroom",
+                "small one"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": false,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true,
+              "input_10": true,
+              "input_11": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 297870,
+            "challenge_id": 31371
+          },
+          "297871": {
+            "total_question": 10,
+            "total_correct_result_answer": 6,
+            "user_answer": {
+              "input_0": "is",
+              "input_1": "is",
+              "input_2": "has",
+              "input_3": "Do",
+              "input_4": "like",
+              "input_5": "is",
+              "input_6": "has",
+              "input_7": "look",
+              "input_8": "have",
+              "input_9": "have"
+            },
+            "correct_answer": {
+              "input_0": [
+                "is"
+              ],
+              "input_1": [
+                "is"
+              ],
+              "input_2": [
+                "has"
+              ],
+              "input_3": [
+                "Do"
+              ],
+              "input_4": [
+                "live"
+              ],
+              "input_5": [
+                "is"
+              ],
+              "input_6": [
+                "has"
+              ],
+              "input_7": [
+                "looks"
+              ],
+              "input_8": [
+                "don't have",
+                "do not have"
+              ],
+              "input_9": [
+                "don't have",
+                "do not have"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": false,
+              "input_5": true,
+              "input_6": true,
+              "input_7": false,
+              "input_8": false,
+              "input_9": false
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 297871,
+            "challenge_id": 31371
+          },
+          "297872": {
+            "total_question": 15,
+            "total_correct_result_answer": 12,
+            "user_answer": {
+              "input_0": "good",
+              "input_1": "fine",
+              "input_2": "small",
+              "input_3": "small",
+              "input_4": "really good",
+              "input_5": "too expensive",
+              "input_6": "cheap",
+              "input_7": "good",
+              "input_8": "nice",
+              "input_9": "big",
+              "input_10": "cheap",
+              "input_11": "comfortable",
+              "input_12": "good",
+              "input_13": "too big",
+              "input_14": "good"
+            },
+            "correct_answer": {
+              "input_0": [
+                "good"
+              ],
+              "input_1": [
+                "fine"
+              ],
+              "input_2": [
+                "small"
+              ],
+              "input_3": [
+                "small"
+              ],
+              "input_4": [
+                "good"
+              ],
+              "input_5": [
+                "expensive"
+              ],
+              "input_6": [
+                "cheap",
+                "used"
+              ],
+              "input_7": [
+                "used",
+                "cheap"
+              ],
+              "input_8": [
+                "nice",
+                "big"
+              ],
+              "input_9": [
+                "big",
+                "nice"
+              ],
+              "input_10": [
+                "cheap",
+                "comfortable"
+              ],
+              "input_11": [
+                "comfortable",
+                "cheap"
+              ],
+              "input_12": [
+                "good",
+                "too big"
+              ],
+              "input_13": [
+                "too big",
+                "good"
+              ],
+              "input_14": [
+                "good"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": false,
+              "input_5": false,
+              "input_6": true,
+              "input_7": false,
+              "input_8": true,
+              "input_9": true,
+              "input_10": true,
+              "input_11": true,
+              "input_12": true,
+              "input_13": true,
+              "input_14": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 297872,
+            "challenge_id": 31371
+          },
+          "297873": {
+            "total_question": 5,
+            "total_correct_result_answer": 5,
+            "user_answer": {
+              "input_0": "What is your apartment like?",
+              "input_1": "How many rooms does your apartment have?",
+              "input_2": "What is your place like?",
+              "input_3": "We don't have much furniture.",
+              "input_4": "The bathroom is very small."
+            },
+            "correct_answer": {
+              "input_0": [
+                "What is your apartment like?"
+              ],
+              "input_1": [
+                "How many rooms does your apartment have?"
+              ],
+              "input_2": [
+                "What is your place like?"
+              ],
+              "input_3": [
+                "We don't have much furniture."
+              ],
+              "input_4": [
+                "The bathroom is very small."
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 297873,
+            "challenge_id": 31371
+          },
+          "297874": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "What's your apartment like? — Căn hộ của bạn như thế nào?\nIt's comfortable. — Nó rất thoải mái.\nIt's pretty small. — Nó khá nhỏ.\nIt's got only one room. — Nó chỉ có một phòng.\nHow many rooms does it have? — Nó có bao nhiêu phòng?\nIt has two bedrooms, a living room, and a huge kitchen. — Nó có hai phòng ngủ, một phòng khách và một nhà bếp rất lớn.\nI sleep in the living room. — Tôi ngủ ở phòng khách.\nI live with my sister. — Tôi sống cùng chị/em gái của mình.\nWe don't have much furniture yet. — Chúng tôi vẫn chưa có nhiều đồ nội thất.\nThe bookshelf looks really good. — Giá sách trông rất đẹp.\nThe dinner table is very nice and big enough. — Bàn ăn rất đẹp và đủ lớn.\nI need to buy one. — Tôi cần mua một cái.\nSounds great! — Nghe tuyệt đấy!\nI haven't been able to find one. — Tôi vẫn chưa thể tìm được một cái.\nIt's really comfortable. — Nó thực sự rất thoải mái.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 297874,
+            "challenge_id": 31371
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 84705,
+          "content": "<p><span style=\"font-family: Nunito-ExtraBold; font-size: 16pt; background-color: #ba372a; color: #ffffff;\"><strong> </strong><strong>VOCABULARY </strong></span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>PART 1: IN THE KITCHEN <span style=\"color: #e74c3c;\">/ˈkɪtʃ.ən/</span></strong></span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>A. What's in the kitchen?</strong></span></p>\n<p dir=\"ltr\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1711766782.png\" alt=\"\" width=\"508\" height=\"183\" /></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>B. Things we use in the kitchen</strong></span></p>\n<p dir=\"ltr\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1711766796.png\" alt=\"\" width=\"504\" height=\"190\" /></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>C. Things we use for eating and drinking</strong></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong> <img src=\"https://api-quiz-maker.langgo.vn/storage/images/1711766808.png\" alt=\"\" width=\"507\" height=\"157\" /></strong></span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>D. Expressions</strong></span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>A: Where can I find </strong>a mug/ a cloth? </span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>B: </strong>They are in the cupboard.</span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>A: Can I help with </strong>the washing-up/ cooking? </span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>B:</strong> Yes, please! You can dry the plates. / You can cook some rice. </span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>A: Where does this</strong> cup/ plate/ frying pan go? </span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>B: </strong>Put it in this cupboard, please. </span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>PART 2: IN THE BEDROOM <span style=\"color: #e74c3c;\">/ˈbed.ruːm/</span> AND BATHROOM <span style=\"color: #e74c3c;\">/ˈbɑːθ.ruːm/</span></strong></span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>A. Bedroom</strong></span></p>\n<p dir=\"ltr\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1711766825.png\" alt=\"\" width=\"495\" height=\"220\" /></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>B. Bathroom</strong></span></p>\n<p dir=\"ltr\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1711766837.png\" alt=\"\" width=\"547\" height=\"178\" /></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>C. Joanna's routine</strong></span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">Joanna <em><strong>goes to bed </strong></em>at 11 o'clock. </span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">She <em><strong>goes upstairs</strong></em> to her bedroom.</span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">She <em><strong>gets undressed</strong></em> and gets into bed.</span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">She reads for a bit.</span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">She <em><strong>turns off</strong></em> the light and <em><strong>falls asleep</strong></em>.</span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">She <em><strong>wakes up</strong></em> when her alarm clock rings.</span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">She<em><strong> gets up</strong></em>.</span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">She <em><strong>takes a shower</strong></em>, brushes her teeth and gets dressed.</span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">She <em><strong>goes downstairs</strong></em> to the kitchen for breakfast.</span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong>PART 3. IN THE LIVING ROOM</strong></span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong> A. Things in the living room</strong></span></p>\n<p dir=\"ltr\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1711766850.png\" alt=\"\" width=\"473\" height=\"279\" /></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>B. Useful verbs</strong></span></p>\n<p dir=\"ltr\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1711766862.png\" alt=\"\" width=\"476\" height=\"205\" /></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>C. Expressions</strong></span></p>\n<p dir=\"ltr\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1711766874.png\" alt=\"\" width=\"460\" height=\"200\" /></p>\n<p dir=\"ltr\"><span style=\"color: #ffffff; font-family: Nunito-ExtraBold; font-size: 16pt; background-color: #ba372a;\"><strong> LISTENING TRANSCRIPT </strong></span><span style=\"color: #ba372a; font-family: Nunito-ExtraBold; font-size: 12pt;\"><strong> Describing apartments</strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong><span style=\"color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 1.</span></strong><span id=\"docs-internal-guid-b24672b5-7fff-d4f2-9540-59a1ad01f9ba\"></span></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 451.27559055118115pt;\"><colgroup><col /><col /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: </span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">What's your apartment like</span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, Ken?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: It's comfortable, but it's pretty small. It's only got one room.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Really? Don't you have a bedroom?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: No, I sleep in the living room.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: What about your dog?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: She sleeps in the living room, too! Right next to me.</span></p>\n<br />\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: What's your new apartment like, Celia?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: It's really big. I love it.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: How many rooms does it have?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Lots. </span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">It's got two bedrooms, a living room, and a huge kitchen and bathroom.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Sounds great. So, when can I come and stay with you?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Do you like your apartment, Joe?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Not really. It's very small.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Really?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Yeah, just one bedroom and a living room.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: That isn't so small. How many people live with you?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Seven!</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Seven! Wow!</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Do you live with your sister, Ellen?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Yes, I do.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: What's your place like?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: It's nice. It's got two bedrooms, a big one and a small one.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: That's great.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Yes, but I've got the small one.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Oh.</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Căn hộ của bạn như thế nào, Ken?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Nó thoải mái, nhưng nó khá nhỏ. Nó chỉ có một phòng.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Thế hả? Bạn không có phòng ngủ à?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Không, tôi ngủ trong phòng khách.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Còn con chó của bạn thì sao?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Nó cũng ngủ trong phòng khách! Ngay bên cạnh tôi.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Căn hộ mới của bạn như thế nào, Celia?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Nó thực sự to. Tôi thích nó.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Nó có bao nhiêu phòng?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Rất nhiều. Nó có hai phòng ngủ, một phòng khách, một nhà bếp và phòng tắm lớn.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Nghe hay đấy. Vì vậy, khi nào tôi có thể đến và ở lại với bạn?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Bạn có thích căn hộ của mình không, Joe?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Không hẳn. Nó rất nhỏ.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Thật hả?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Vâng, chỉ một phòng ngủ và một phòng khách.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Đó không phải là quá nhỏ. Có bao nhiêu người sống với bạn?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Bảy!</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Bảy! Ồ!</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Bạn có sống với chị gái của bạn không, Ellen?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Vâng, tôi có.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Chỗ ở của bạn như thế nào?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Tốt. Nó có hai phòng ngủ, một lớn và một nhỏ.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Điều đó thật tuyệt.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Ừ, nhưng tôi ở cái phòng nhỏ.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Ồ.</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong><span style=\"color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 2.</span></strong><span id=\"docs-internal-guid-4bbe18ae-7fff-945e-889a-7c76650c78c8\"></span></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 451.27559055118115pt;\"><colgroup><col /><col /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: </span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Does the kitchen have everything you need,</span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> like a stove and a refrigerator?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: It's got a stove but it doesn't have a refrigerator. I need to buy one.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: You don't have a bed in your bedroom?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: No bed. Just a TV. I sleep on a mattress on the floor.</span></p>\n<br />\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Really?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: </span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">We don't have much furniture yet. </span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">We don't even have a sofa in the living room.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Hey. I've got one I can sell you.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Really? Great.</span></p>\n<br />\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: The bathroom is very small. Just a shower and a toilet.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: You can come and take a bath at my place any time.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Thanks, I probably will.</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Nhà bếp có mọi thứ bạn cần, như bếp nấu và tủ lạnh không?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Nó có một cái bếp nhưng nó không có tủ lạnh. Tôi cần mua một cái.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Bạn không có giường trong phòng ngủ của mình à?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Không có giường. Chỉ có một chiếc TV. Tôi ngủ trên một tấm nệm trên sàn nhà.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Thật á?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Chúng tôi chưa có nhiều đồ đạc. Chúng tôi thậm chí không có ghế sofa trong phòng khách.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Này. Tôi có một cái mà tôi có thể bán cho bạn.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Thật không? Tuyệt quá.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Phòng tắm rất nhỏ. Chỉ có mỗi một vòi hoa sen và một nhà vệ sinh.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Bạn có thể đến và tắm ở chỗ của tôi bất cứ lúc nào.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Cảm ơn, có thể tôi sẽ làm thế đó.</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p> </p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 3. </span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The bookshelf looks really good in the living room.</span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> And the TV is just fine. When I find a stereo, I'm going to put it in the bookshelf. I don't have a stereo now because I want to find a cheap one. I'm going to check out the sales next week. I've got a dinner table, but I still need a sofa. Now I have to sit at the dinner table to watch TV. </span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">My living room is small, so I want a small sofa.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Giá sách trông thực sự hợp trong phòng khách. Và TV cũng ổn. Khi tôi tìm được một dàn âm thanh, tôi sẽ đặt nó vào giá sách. Tôi hiện không có dàn  âm thanh vì tôi muốn tìm một cái giá rẻ. Tuần tới tôi sẽ check xem thế nào. Tôi đã có một bàn ăn tối, nhưng tôi vẫn cần một chiếc ghế sofa. Giờ tôi phải ngồi vào bàn ăn tối để xem TV. Phòng khách của tôi nhỏ, vì vậy tôi muốn có một chiếc ghế sofa nhỏ.</span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong id=\"docs-internal-guid-460d4c45-7fff-27aa-adb9-104b0ec36815\" style=\"font-weight: normal;\"></strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">If you have an old bookshelf you aren't using, I'd be really happy to buy it! I haven't been able to find one that is the right size. All the ones I looked at were too big. Right now there are books all over the floor. But I managed to pick up a really good TV and stereo at a yard sale last weekend. I still need to find a dinner table. All the ones I looked at in the stores were too expensive.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Nếu bạn có một giá sách cũ mà bạn không sử dụng, tôi thực sự rất muốn mua nó! Tôi không thể tìm thấy một cái có kích thước phù hợp. Tất cả những cái tôi đã nhìn đều quá lớn. Hiện giờ sách đầy khắp sàn. Nhưng tôi đã chọn được một chiếc TV và 1 dàn âm thanh thực sự tốt tại một buổi bán hàng bãi vào cuối tuần trước. Tôi vẫn cần tìm một bàn ăn tối. Tất cả những thứ tôi đã xem trong các cửa hàng đều quá đắt.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I was thinking about getting a bookshelf, but I don't have many books yet, so I guess I can wait. I was lucky. I got a really cheap used TV the other day. It only cost $50 and it works really well. It's nice to have something to watch. Right now I don't have enough money to buy a stereo. </span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The dinner table is very nice and big enough for six people.</span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> I bought a cheap sofa, too. </span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">It's really comfortable.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Tôi đã nghĩ đến việc mua một giá sách, nhưng tôi chưa có nhiều sách, vì vậy tôi đoán tôi có thể đợi. Tôi đã may mắn. Hôm trước tôi mua được một chiếc TV cũ rất rẻ. Nó chỉ có giá $ 50 và nó hoạt động thực sự tốt. Thật tuyệt khi có thứ gì đó để xem. Hiện tại, tôi không có đủ tiền để mua một dàn âm thanh nổi. Bàn ăn rất đẹp và đủ to cho sáu người. Tôi cũng đã mua một chiếc ghế sofa giá rẻ. Nó thực sự thoải mái.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The bookshelf is good, though it's probably a little too big for the living room. I need a TV, but I'm waiting for the new models. I have a good stereo. So that's good. However, I still haven't bought a dinner table. I saw a great one last week. The sales clerk said that </span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">they're having a big sale next week</span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, so I'm waiting for that. For now, </span><span style=\"color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I'm eating my meals while sitting on the sofa.</span></span></p>\n<p> </p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Giá sách khá ổn, mặc dù nó có thể hơi to so với phòng khách. Tôi cần một chiếc TV, nhưng tôi đang đợi các mẫu mới. Tôi có một dàn âm thanh tốt. Vậy thì tốt. Tuy nhiên, tôi vẫn chưa mua bàn ăn tối. Tôi đã thấy một cái rất ổn vào tuần trước. Nhân viên bán hàng nói rằng họ sẽ có một đợt giảm giá lớn vào tuần tới, vì vậy tôi đang chờ đợi điều đó. Hiện tại, tôi đang ngồi trên ghế sofa khi dùng bữa.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 4.</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;\"><span id=\"docs-internal-guid-132fd907-7fff-25f6-d5b3-0b480ad65b66\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1715590975.mp3\" />What is your apartment like? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1715590990.mp3\" />How many rooms does your apartment have? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1715591003.mp3\" />What's your place like? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1715591085.mp3\" />We don't have much furniture.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1715591104.mp3\" />The bathroom is very small. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\" role=\"presentation\"> </p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 31371,
+          "id": 297868,
+          "name": null,
+          "title": "Vocabulary",
+          "content": "<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span id=\"docs-internal-guid-1dc144f3-7fff-6c24-58ee-52e8f20d392e\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 1: Match the words on the left with the words on the right. </span><span style=\"color: #000000; background-color: #ffffff; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Nối những từ b&ecirc;n tr&aacute;i với từ tương ứng ph&iacute;a b&ecirc;n phải.)</span></span></p>",
+          "explain": "<p><strong>1. switch on the lamp</strong></p>\n<p><em><strong>Dịch:</strong> bật đèn</em></p>\n<p><strong>2. relax in an armchair</strong></p>\n<p><em><strong>Dịch:</strong> thư giãn trên ghế bành</em></p>\n<p><strong>3. close the curtains</strong></p>\n<p><em><strong>Dịch:</strong> đóng rèm cửa</em></p>\n<p><strong>4. pass the remote control</strong></p>\n<p><em><strong>Dịch:</strong> đưa cái điều khiển</em></p>\n<p><strong>5. listen to the radio</strong></p>\n<p><em><strong>Dịch:</strong> nghe đài</em></p>\n<p><strong>6. watch TV</strong></p>\n<p><em><strong>Dịch:</strong> xem TV</em></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 71896,
+              "content": "<table style=\"border-spacing: 0px; background-color: #ffffff; font-family: Arial, sans-serif; font-size: 12px; width: 39.047%; border-radius: 0px !important;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\">\n<tbody style=\"box-sizing: border-box;\">\n<tr style=\"box-sizing: border-box;\">\n<td style=\"box-sizing: border-box; padding: 0px; width: 46.0054%; border-radius: 0px !important;\">\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">1. switch on the [input_0]</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">2. relax in a/an [input_1]</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">3. close the [input_2]</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">4. pass the [input_3]</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">5. listen to the [input_4]</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">6. watch [input_5]</span></span></p>\n</td>\n<td style=\"box-sizing: border-box; padding: 0px; width: 54.096%; border-radius: 0px !important;\">\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\">a. TV</span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\">b. lamp</span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\">c. remote control</span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\">d. radio</span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\">e. armchair</span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\">f. curtains</span></p>\n<p><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"> </span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31371,
+          "id": 297869,
+          "name": null,
+          "title": null,
+          "content": "<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Exercise 2: Correct the mistakes in the sentences. </strong><em>(Sửa lỗi sai trong c&aacute;c c&acirc;u sau.)</em></span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">1. This evening let&rsquo;s just relax us at home.</span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Correct:<em>&nbsp;This evening let&rsquo;s just relax at home.</em></strong></span></p>",
+          "explain": "<p><strong>2. I don't often listen the radio.</strong></p>\n<p><strong>Lỗi sai:</strong> thiếu giới từ <strong>to</strong> sau \"listen\"</p>\n<p><strong>Câu đúng:</strong> I don't often listen <strong>to</strong> the radio. <em>(Tôi không thường nghe đài.)</em></p>\n<p><strong>3. We need some more bookshelfs in this room.</strong></p>\n<p><strong>Lỗi sai:</strong> <strong>bookshelfs</strong> (số nhiều của \"bookshelf\" phải là \"bookshelves\")</p>\n<p><strong>Câu đúng:</strong> We need some more <strong>bookshelves</strong> in this room. <em>(Chúng ta cần thêm vài cái giá sách trong phòng này.)</em></p>\n<p><strong>4. I watched at television all evening yesterday.</strong></p>\n<p><strong>Lỗi sai:</strong> giới từ <strong>at</strong> thừa</p>\n<p><strong>Câu đúng:</strong> I watched television all evening yesterday. <em>(Tôi đã xem TV cả tối qua.)</em></p>\n<p><strong>5. It's dark now. Please make the curtains.</strong></p>\n<p><strong>Lỗi sai:</strong> động từ <strong>make</strong> (đúng phải là \"close\")</p>\n<p><strong>Câu đúng:</strong> It's dark now. Please <strong>close</strong> the curtains. <em>(Bây giờ trời tối rồi. Làm ơn đóng rèm lại.)</em></p>\n<p><strong>6. Jim has some very nice furnitures in his house.</strong></p>\n<p><strong>Lỗi sai:</strong> <strong>furnitures</strong> (\"furniture\" là danh từ không đếm được, không có dạng số nhiều)</p>\n<p><strong>Câu đúng:</strong> Jim has some very nice <strong>furniture</strong> in his house. <em>(Jim có vài món đồ nội thất rất đẹp trong nhà.)</em></p>\n<p><strong>7. She makes a shower in the afternoon.</strong></p>\n<p><strong>Lỗi sai:</strong> động từ <strong>makes</strong> (đúng phải là \"takes\")</p>\n<p><strong>Câu đúng:</strong> She <strong>takes</strong> a shower in the afternoon. <em>(Cô ấy tắm vào buổi chiều.)</em></p>\n<p><strong>8. She walk downstair so she can make dinner for the family.</strong></p>\n<p><strong>Lỗi sai:</strong> thiếu <strong>-s</strong> sau \"walk\" &amp; thiếu <strong>-s</strong> sau \"downstairs\"</p>\n<p><strong>Câu đúng:</strong> She <strong>walks</strong> <strong>downstairs</strong> so she can make dinner for the family. <em>(Cô ấy đi xuống lầu để có thể nấu bữa tối cho gia đình.)</em></p>\n<p><strong>9. I don’t watch TV anymore, so can you turn the TV on?</strong></p>\n<p><strong>Lỗi sai:</strong> động từ <strong>on</strong> (ý nghĩa không hợp lý, đúng phải là \"off\")</p>\n<p><strong>Câu đúng:</strong> I don’t watch TV anymore, so can you <strong>turn the TV off</strong>? <em>(Tôi không xem TV nữa, nên bạn có thể tắt TV đi không?)</em></p>\n<p><strong>10. She is sleepy, so she stay to the bed early.</strong></p>\n<p><strong>Lỗi sai:</strong> thiếu <strong>-s</strong> sau \"stay\" &amp; giới từ <strong>to</strong> (đúng phải là \"in\")</p>\n<p><strong>Câu đúng:</strong> She is sleepy, so she <strong>stays in</strong> bed early. <em>(Cô ấy buồn ngủ nên cô ấy đi ngủ sớm.)</em></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 71897,
+              "content": "<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">2. I don't often listen the radio.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Correct: <strong><span style=\"font-family: Nunito-Regular;\">[input_0]</strong></span></strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">3. We need some more bookshelfs in this room.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Correct: <strong><span style=\"font-family: Nunito-Regular;\">[input_1]</strong></span></strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">4. I watched at television all evening yesterday.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Correct: <strong><span style=\"font-family: Nunito-Regular;\">[input_2]</strong></span></strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">5. It's dark now. Please make the curtains.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Correct: <strong><span style=\"font-family: Nunito-Regular;\">[input_3]</strong></span></strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">6. Jim has some very nice furnitures in his house.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Correct: <strong><span style=\"font-family: Nunito-Regular;\">[input_4]</strong></span></strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. She makes a shower in the afternoon. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Correct: [input_5]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. She walk downstair so she can make dinner for the family. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Correct: <span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_6]</span></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9. I don't watch TV anymore, so can you turn the TV on? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Correct: <span style=\"background-color: #ffffff;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_7]</span></span></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">10. She is sleepy, so she stay to the bed early.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Correct: <span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 12pt; white-space-collapse: preserve;\">[input_8]</span></span></strong></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span id=\"docs-internal-guid-9e7ba98c-7fff-e2cd-c4b3-f7d701a2cb2f\"></span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31371,
+          "id": 297870,
+          "name": null,
+          "title": "Listening transcript: Describing apartments",
+          "content": "<p dir=\"ltr\" style=\"line-height: 1.3; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 1: How do people describe their apartments? Read the conversations in ex 1 and write down the correct answers. </span><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Người ta mi&ecirc;u tả căn hộ m&igrave;nh như thế n&agrave;o? Đọc c&aacute;c cuộc hội thoại b&agrave;i 1 v&agrave; điền đ&aacute;p &aacute;n đ&uacute;ng.) </span></p>\n<p><span id=\"docs-internal-guid-90cdb974-7fff-fa6f-b596-10b99a28245d\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"></span></p>",
+          "explain": "<p><strong>1. (Ken):</strong> <em>Căn hộ có một <strong>phòng khách</strong>, nhưng không có <strong>phòng ngủ</strong>.</em></p>\n<p><strong>2. (Celia):</strong> <em>Căn hộ có một <strong>phòng khách</strong>, một <strong>nhà bếp</strong> và <strong>phòng tắm</strong> rất lớn, và nó có hai <strong>phòng ngủ</strong>.</em></p>\n<p><strong>3. (Joe):</strong> <em>Căn hộ rất <strong>nhỏ</strong>. Nó có một <strong>phòng ngủ/phòng khách</strong> và một <strong>phòng khách/phòng ngủ</strong>, nhưng có <strong>bảy người/ 7 người</strong> sống cùng Joe.</em></p>\n<p><strong>4. (Ellen):</strong> <em>Căn hộ có hai <strong>phòng ngủ</strong>. Ellen có <strong>phòng ngủ nhỏ</strong>.</em></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 71898,
+              "content": "<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Conversation 1 (Ken): </span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The apartment has a </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_0],</span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> but it doesn't have a </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Conversation 2 (Celia): </span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The apartment has a </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_2]</span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, and a huge [input_3] </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">and </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_4]</span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, and it has two </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_5]</span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Conversation 3 (Joe): </span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The apartment is very </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_6]</span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. It has a </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_7] </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">and a </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_8] </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, but </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_9] </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">live with Joe. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Conversation 4 (Ellen): </span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span id=\"docs-internal-guid-6badbe8f-7fff-b78e-4c30-fe45405fedea\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">The apartment has two </span><span style=\"background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">[input_10]</span><span style=\"background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">. Ellen has the </span><span style=\"background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">[input_11].</span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31371,
+          "id": 297871,
+          "name": null,
+          "title": null,
+          "content": "<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 2: Fill in the blanks with the correct verbs below, you may need to change the word form. You can also use a word more than once. </span><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Điền v&agrave;o &ocirc; trống động từ đ&uacute;ng, em c&oacute; thể phải đổi loại từ dựa theo chủ ngữ. Em cũng c&oacute; thể d&ugrave;ng 1 từ nhiều hơn 1 lần.) </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<p><span id=\"docs-internal-guid-cb11be29-7fff-ec25-cf6b-6de0d5fa2165\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 438px;\"><colgroup><col style=\"width: 415px;\" /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; be &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; have &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; live &nbsp; &nbsp; &nbsp; &nbsp; look</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n</div>",
+          "explain": "<ol>\n<li>\n<p><strong>What is your bedroom like?</strong> <em>(Phòng ngủ của bạn trông như thế nào?)</em></p>\n</li>\n<li>\n<p><strong>It is comfortable, but it has only one room.</strong> <em>(Nó thoải mái, nhưng nó chỉ có một phòng.)</em></p>\n</li>\n<li>\n<p><strong>Do you live with your sister?</strong> <em>(Bạn có sống với chị/em gái của bạn không?)</em></p>\n</li>\n<li>\n<p><strong>The bathroom is very small. It has only a shower and a toilet.</strong> <em>(Phòng tắm rất nhỏ. Nó chỉ có một vòi sen và một bồn cầu.)</em></p>\n</li>\n<li>\n<p><strong>The bookshelf looks really good in the living room.</strong> <em>(Cái giá sách trông rất đẹp trong phòng khách.)</em></p>\n</li>\n<li>\n<p><strong>We do not have much furniture yet.</strong> <em>(Chúng tôi chưa có nhiều đồ nội thất.)</em></p>\n</li>\n<li>\n<p><strong>You do not have a bed in your bedroom.</strong> <em>(Bạn không có một cái giường trong phòng ngủ của mình.)</em></p>\n</li>\n</ol>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 71899,
+              "content": "<p><span id=\"docs-internal-guid-6921bed5-7fff-f61e-cdc1-ce42adb4e99d\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. What [input_0] your bedroom like? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. It [input_1] comfortable, but it [input_2] only one room. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. [input_3] you [input_4] with your sister? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. The bathroom [input_5] very small. It [input_6] only a shower and a toilet.  </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. The bookshelf [input_7] really good in the living room.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. We [input_8] much furniture yet. (not)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. You [input_9] a bed in your bedroom. (not)</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31371,
+          "id": 297872,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-f01e4d4e-7fff-f6fe-5d53-023c018e39f0\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 3: Read people&rsquo;s description of their house in exercise 3 and write the adjectives that describe the furniture.</span><span style=\"color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"color: #000000; background-color: #ffffff; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Đọc mi&ecirc;u tả về nh&agrave; trong b&agrave;i 3 v&agrave; viết c&aacute;c t&iacute;nh từ d&ugrave;ng để mi&ecirc;u tả nội thất trong đ&oacute;.)</span></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 71900,
+              "content": "<p style=\"line-height: 1.5;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">1. </span></p>\n<ul>\n<li dir=\"ltr\" style=\"line-height: 1.5;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> bookshelf : <span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_0]</span></span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.5;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">TV: <span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span></span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.5;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">living room: <span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_2]</span></span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.5;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">sofa: <span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_3]</span></span><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span></span></li>\n</ul>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. </span></p>\n<ul>\n<li dir=\"ltr\" style=\"line-height: 1.5;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">TV and radio: <span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_4]</span></span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.5;\" role=\"presentation\"><span style=\"font-size: 12pt;\"><span style=\"font-family: Nunito-Regular; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">dinner tables: <span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_5]</span></span><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span></span><span style=\"font-family: Nunito-Regular; color: #000000;\"><strong id=\"docs-internal-guid-71880d5e-7fff-e84e-f408-3cbb578f0a59\" style=\"font-weight: normal;\"></strong></span></span></li>\n</ul>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. </span></p>\n<ul>\n<li dir=\"ltr\" style=\"line-height: 1.5;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">TV:</span><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> [input_6], [input_7]</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.5;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">dinner table: <span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_8]</span>, [input_9] </span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.5;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">sofa: <span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_10]</span>, <span style=\"color: #000000;\"><span style=\"background-color: #ffffff;\"><span style=\"background-color: #ffffff;\"><span style=\"background-color: #ffffff;\"><span style=\"background-color: #ffffff;\">[input_11]</span></span></span></span></span></span></span></li>\n</ul>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. </span></p>\n<ul>\n<li dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">bookshelf:</span><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> [input_12], [input_13]</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">stereo: <span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_14]</span></span></span></li>\n</ul>\n<p style=\"line-height: 1.5;\"> </p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31371,
+          "id": 297873,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-44a56984-7fff-6e65-4367-f3b81aaa3658\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 10.5pt; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt;\"><span style=\"color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 4: Rearrange the words into correct sentences. T</span><span style=\"background-color: #ffffff; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">hen, listen to the audio and repeat the sentences. </span></span></span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(S</span><span style=\"color: #000000; background-color: #ffffff; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">ắp xếp c&aacute;c c&acirc;u sau th&agrave;nh c&acirc;u đ&uacute;ng. </span></span><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; font-style: italic; white-space-collapse: preserve;\">Sau đ&oacute;, nghe ghi &acirc;m v&agrave; lặp lại c&aacute;c c&acirc;u đ&uacute;ng ngữ điệu v&agrave; ph&aacute;t &acirc;m</span><span style=\"color: #000000; background-color: #ffffff; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">)</span><span style=\"color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span></p>",
+          "explain": "<ol>\n<li>\n<p><strong>What is your apartment like?</strong> <em>(Căn hộ của bạn trông như thế nào?)</em></p>\n</li>\n<li>\n<p><strong>How many rooms does your apartment have?</strong> <em>(Căn hộ của bạn có bao nhiêu phòng?)</em></p>\n</li>\n<li>\n<p><strong>What is your place like?</strong> <em>(Nơi ở của bạn trông như thế nào?)</em></p>\n</li>\n<li>\n<p><strong>We don’t have much furniture.</strong> <em>(Chúng tôi không có nhiều đồ nội thất.)</em></p>\n</li>\n<li>\n<p><strong>The bathroom is very small.</strong> <em>(Phòng tắm rất nhỏ.)</em></p>\n</li>\n</ol>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 71901,
+              "content": "<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. apartment / is / your / What / like / ? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_0]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. rooms / does / apartment /have / How / many / your / ? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. like / is / your / What / place / ? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_2]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. furniture / have / don't / We / much / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_3]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. small / is / The / bathroom / very / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_4]</span></p>\n<p style=\"line-height: 1.5;\"><span id=\"docs-internal-guid-5d63c0ca-7fff-b462-b778-f1006e14f7d1\" style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31371,
+          "id": 297874,
+          "name": null,
+          "title": "New words/phrases + Good structures/sentences",
+          "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 16px; font-weight: bold; white-space-collapse: preserve; background-color: #ffffff;\">Nghi&ecirc;n cứu kĩ v&agrave; ghi lại &iacute;t nhất 10 từ vựng/ cấu tr&uacute;c/ c&acirc;u hay c&oacute; trong b&agrave;i c&ugrave;ng với nghĩa của ch&uacute;ng. </span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 2,
+  "lesson": 1,
+  "lessonKey": "lesson-01",
+  "title": "Lesson 1",
+  "source": "LangGo daily challenge API",
+  "rawFolder": "raw/",
+  "files": {
+    "overview": "overview.md",
+    "content": "content.json",
+    "exercises": "exercises.json",
+    "scripts": "scripts.json",
+    "submission": "submission.json",
+    "audioManifest": "audio/manifest.json",
+    "imageManifest": "images/manifest.json"
+  },
+  "challenges": [
+    {
+      "id": 28158,
+      "challengeId": 28158,
+      "classChallengeId": "79471",
+      "number": 1,
+      "title": "[PRE IELTS] LESSON 1 - CHALLENGE 1",
+      "note": "Áp dụng với các lớp khai giảng từ 3/7/2025",
+      "day": 1,
+      "deadline": "2026-06-08 23:30:00",
+      "totalQuestion": 7,
+      "classification": "dc",
+      "rawFile": "raw/challenge-01-28158.json"
+    },
+    {
+      "id": 28159,
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "number": 2,
+      "title": "[PRE IELTS] LESSON 1 - CHALLENGE 2",
+      "note": "Vocabulary (do) | Pronunciation (Vowels)",
+      "day": 1,
+      "deadline": "2026-06-08 23:30:00",
+      "totalQuestion": 27,
+      "classification": "dc",
+      "rawFile": "raw/challenge-02-28159.json"
+    },
+    {
+      "id": 28160,
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "number": 3,
+      "title": "[PRE IELTS] LESSON 1 - CHALLENGE 3",
+      "note": "Vocabulary (have)",
+      "day": 1,
+      "deadline": "2026-06-08 23:30:00",
+      "totalQuestion": 21,
+      "classification": "dc",
+      "rawFile": "raw/challenge-03-28160.json"
+    }
+  ]
+}

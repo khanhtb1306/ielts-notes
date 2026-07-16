@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "lesson": 2,
+  "lessonKey": "lesson-02",
+  "title": "Lesson 2",
+  "source": "LangGo daily challenge API",
+  "rawFolder": "raw/",
+  "files": {
+    "overview": "overview.md",
+    "content": "content.json",
+    "exercises": "exercises.json",
+    "scripts": "scripts.json",
+    "submission": "submission.json",
+    "audioManifest": "audio/manifest.json",
+    "imageManifest": "images/manifest.json"
+  },
+  "challenges": [
+    {
+      "id": 28459,
+      "challengeId": 28459,
+      "classChallengeId": "79762",
+      "number": 1,
+      "title": "[PRE IELTS] LESSON 2 - CHALLENGE 1",
+      "note": "Vocabulary (get/got/got) | Pronunciation (Vowels)",
+      "day": 2,
+      "deadline": "2026-06-11 12:30:00",
+      "totalQuestion": 18,
+      "classification": "dc",
+      "rawFile": "raw/challenge-01-28459.json"
+    },
+    {
+      "id": 28460,
+      "challengeId": 28460,
+      "classChallengeId": "79763",
+      "number": 2,
+      "title": "[PRE IELTS] LESSON 2 - CHALLENGE 2",
+      "note": "Vocabulary (go/went/gone)",
+      "day": 2,
+      "deadline": "2026-06-11 12:30:00",
+      "totalQuestion": 13,
+      "classification": "dc",
+      "rawFile": "raw/challenge-02-28460.json"
+    }
+  ]
+}

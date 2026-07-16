@@ -1,0 +1,1316 @@
+{
+  "lesson": 1,
+  "lessonKey": "lesson-01",
+  "folder": "../../../audio/daily/lesson-01",
+  "items": [
+    {
+      "id": "lesson-01-audio-001",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708744821.mp3",
+      "localFile": "audio/daily/lesson-01/28159-1-1708744821.mp3",
+      "bytes": 30555,
+      "status": "exists",
+      "script": "What do you do? (= What is your job?)",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-002",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708744833.mp3",
+      "localFile": "audio/daily/lesson-01/28159-2-1708744833.mp3",
+      "bytes": 30973,
+      "status": "exists",
+      "script": "I'm a student",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-003",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708744850.mp3",
+      "localFile": "audio/daily/lesson-01/28159-3-1708744850.mp3",
+      "bytes": 29719,
+      "status": "exists",
+      "script": "I'm a teacher",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-004",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708744869.mp3",
+      "localFile": "audio/daily/lesson-01/28159-4-1708744869.mp3",
+      "bytes": 34734,
+      "status": "exists",
+      "script": "What does your mother do? (= What's your mother's job?)",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-005",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708744879.mp3",
+      "localFile": "audio/daily/lesson-01/28159-5-1708744879.mp3",
+      "bytes": 32226,
+      "status": "exists",
+      "script": "She's a doctor",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-006",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708744894.mp3",
+      "localFile": "audio/daily/lesson-01/28159-6-1708744894.mp3",
+      "bytes": 32226,
+      "status": "exists",
+      "script": "She's a teacher",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-007",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708745815.mp3",
+      "localFile": "audio/daily/lesson-01/28159-7-1708745815.mp3",
+      "bytes": 34316,
+      "status": "exists",
+      "script": "Do the housework",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-008",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708745844.mp3",
+      "localFile": "audio/daily/lesson-01/28159-8-1708745844.mp3",
+      "bytes": 31808,
+      "status": "exists",
+      "script": "Do the gardening",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-009",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708745871.mp3",
+      "localFile": "audio/daily/lesson-01/28159-9-1708745871.mp3",
+      "bytes": 31808,
+      "status": "exists",
+      "script": "Do the washing",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-010",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708745894.mp3",
+      "localFile": "audio/daily/lesson-01/28159-10-1708745894.mp3",
+      "bytes": 34734,
+      "status": "exists",
+      "script": "Do the washing up",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-011",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708745909.mp3",
+      "localFile": "audio/daily/lesson-01/28159-11-1708745909.mp3",
+      "bytes": 33062,
+      "status": "exists",
+      "script": "Do your/ my homework",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-012",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708745921.mp3",
+      "localFile": "audio/daily/lesson-01/28159-12-1708745921.mp3",
+      "bytes": 34734,
+      "status": "exists",
+      "script": "Do exercise",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-013",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708745941.mp3",
+      "localFile": "audio/daily/lesson-01/28159-13-1708745941.mp3",
+      "bytes": 34316,
+      "status": "exists",
+      "script": "Do business with",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-014",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708745950.mp3",
+      "localFile": "audio/daily/lesson-01/28159-14-1708745950.mp3",
+      "bytes": 30973,
+      "status": "exists",
+      "script": "Do your best",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-015",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708741691.mp3",
+      "localFile": "audio/daily/lesson-01/28159-15-1708741691.mp3",
+      "bytes": 10911,
+      "status": "exists",
+      "script": "teacher",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-016",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708741741.mp3",
+      "localFile": "audio/daily/lesson-01/28159-16-1708741741.mp3",
+      "bytes": 10075,
+      "status": "exists",
+      "script": "bean",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-017",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708741753.mp3",
+      "localFile": "audio/daily/lesson-01/28159-17-1708741753.mp3",
+      "bytes": 37242,
+      "status": "exists",
+      "script": "see",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-018",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708741765.mp3",
+      "localFile": "audio/daily/lesson-01/28159-18-1708741765.mp3",
+      "bytes": 12164,
+      "status": "exists",
+      "script": "lead",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-019",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708741777.mp3",
+      "localFile": "audio/daily/lesson-01/28159-19-1708741777.mp3",
+      "bytes": 10911,
+      "status": "exists",
+      "script": "happy",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-020",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708741897.mp3",
+      "localFile": "audio/daily/lesson-01/28159-20-1708741897.mp3",
+      "bytes": 10911,
+      "status": "exists",
+      "script": "kiss",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-021",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708741909.mp3",
+      "localFile": "audio/daily/lesson-01/28159-21-1708741909.mp3",
+      "bytes": 10911,
+      "status": "exists",
+      "script": "sit",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-022",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708741928.mp3",
+      "localFile": "audio/daily/lesson-01/28159-22-1708741928.mp3",
+      "bytes": 10911,
+      "status": "exists",
+      "script": "miss",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-023",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708741938.mp3",
+      "localFile": "audio/daily/lesson-01/28159-23-1708741938.mp3",
+      "bytes": 10075,
+      "status": "exists",
+      "script": "fit",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-024",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708741961.mp3",
+      "localFile": "audio/daily/lesson-01/28159-24-1708741961.mp3",
+      "bytes": 8821,
+      "status": "exists",
+      "script": "fish",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-025",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708742071.mp3",
+      "localFile": "audio/daily/lesson-01/28159-25-1708742071.mp3",
+      "bytes": 13000,
+      "status": "exists",
+      "script": "moon",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-026",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708742083.mp3",
+      "localFile": "audio/daily/lesson-01/28159-26-1708742083.mp3",
+      "bytes": 10075,
+      "status": "exists",
+      "script": "soup",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-027",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708742093.mp3",
+      "localFile": "audio/daily/lesson-01/28159-27-1708742093.mp3",
+      "bytes": 10911,
+      "status": "exists",
+      "script": "clue",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-028",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708742104.mp3",
+      "localFile": "audio/daily/lesson-01/28159-28-1708742104.mp3",
+      "bytes": 10493,
+      "status": "exists",
+      "script": "food",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-029",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708742113.mp3",
+      "localFile": "audio/daily/lesson-01/28159-29-1708742113.mp3",
+      "bytes": 12164,
+      "status": "exists",
+      "script": "new",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-030",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708742210.mp3",
+      "localFile": "audio/daily/lesson-01/28159-30-1708742210.mp3",
+      "bytes": 10493,
+      "status": "exists",
+      "script": "look",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-031",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708742220.mp3",
+      "localFile": "audio/daily/lesson-01/28159-31-1708742220.mp3",
+      "bytes": 10911,
+      "status": "exists",
+      "script": "put",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-032",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708742234.mp3",
+      "localFile": "audio/daily/lesson-01/28159-32-1708742234.mp3",
+      "bytes": 10911,
+      "status": "exists",
+      "script": "should",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-033",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708742244.mp3",
+      "localFile": "audio/daily/lesson-01/28159-33-1708742244.mp3",
+      "bytes": 8821,
+      "status": "exists",
+      "script": "foot",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-034",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708742256.mp3",
+      "localFile": "audio/daily/lesson-01/28159-34-1708742256.mp3",
+      "bytes": 7567,
+      "status": "exists",
+      "script": "cook",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-035",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708742662.mp3",
+      "localFile": "audio/daily/lesson-01/28159-35-1708742662.mp3",
+      "bytes": 10911,
+      "status": "exists",
+      "script": "ten",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-036",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708742670.mp3",
+      "localFile": "audio/daily/lesson-01/28159-36-1708742670.mp3",
+      "bytes": 10493,
+      "status": "exists",
+      "script": "hen",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-037",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708742679.mp3",
+      "localFile": "audio/daily/lesson-01/28159-37-1708742679.mp3",
+      "bytes": 10075,
+      "status": "exists",
+      "script": "pen",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-038",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708742695.mp3",
+      "localFile": "audio/daily/lesson-01/28159-38-1708742695.mp3",
+      "bytes": 8403,
+      "status": "exists",
+      "script": "bed",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-039",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708742704.mp3",
+      "localFile": "audio/daily/lesson-01/28159-39-1708742704.mp3",
+      "bytes": 10911,
+      "status": "exists",
+      "script": "red",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-040",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708742815.mp3",
+      "localFile": "audio/daily/lesson-01/28159-40-1708742815.mp3",
+      "bytes": 10911,
+      "status": "exists",
+      "script": "hand",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-041",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708742833.mp3",
+      "localFile": "audio/daily/lesson-01/28159-41-1708742833.mp3",
+      "bytes": 8821,
+      "status": "exists",
+      "script": "cat",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-042",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708742842.mp3",
+      "localFile": "audio/daily/lesson-01/28159-42-1708742842.mp3",
+      "bytes": 14254,
+      "status": "exists",
+      "script": "sand",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-043",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708742853.mp3",
+      "localFile": "audio/daily/lesson-01/28159-43-1708742853.mp3",
+      "bytes": 10075,
+      "status": "exists",
+      "script": "man",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-044",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708742863.mp3",
+      "localFile": "audio/daily/lesson-01/28159-44-1708742863.mp3",
+      "bytes": 8403,
+      "status": "exists",
+      "script": "apple",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-045",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708743112.mp3",
+      "localFile": "audio/daily/lesson-01/28159-45-1708743112.mp3",
+      "bytes": 9657,
+      "status": "exists",
+      "script": "car",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-046",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708743123.mp3",
+      "localFile": "audio/daily/lesson-01/28159-46-1708743123.mp3",
+      "bytes": 10911,
+      "status": "exists",
+      "script": "far",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-047",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708743136.mp3",
+      "localFile": "audio/daily/lesson-01/28159-47-1708743136.mp3",
+      "bytes": 9239,
+      "status": "exists",
+      "script": "park",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-048",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708743151.mp3",
+      "localFile": "audio/daily/lesson-01/28159-48-1708743151.mp3",
+      "bytes": 12582,
+      "status": "exists",
+      "script": "smart",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-049",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708743162.mp3",
+      "localFile": "audio/daily/lesson-01/28159-49-1708743162.mp3",
+      "bytes": 10075,
+      "status": "exists",
+      "script": "heart",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-050",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708743246.mp3",
+      "localFile": "audio/daily/lesson-01/28159-50-1708743246.mp3",
+      "bytes": 10493,
+      "status": "exists",
+      "script": "cut",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-051",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708743258.mp3",
+      "localFile": "audio/daily/lesson-01/28159-51-1708743258.mp3",
+      "bytes": 10075,
+      "status": "exists",
+      "script": "love",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-052",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708743267.mp3",
+      "localFile": "audio/daily/lesson-01/28159-52-1708743267.mp3",
+      "bytes": 8403,
+      "status": "exists",
+      "script": "butter",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-053",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708743275.mp3",
+      "localFile": "audio/daily/lesson-01/28159-53-1708743275.mp3",
+      "bytes": 10493,
+      "status": "exists",
+      "script": "lunch",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-054",
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708743283.mp3",
+      "localFile": "audio/daily/lesson-01/28159-54-1708743283.mp3",
+      "bytes": 12164,
+      "status": "exists",
+      "script": "much",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76145"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-055",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708747275.mp3",
+      "localFile": "audio/daily/lesson-01/28160-1-1708747275.mp3",
+      "bytes": 32644,
+      "status": "exists",
+      "script": "breakfast",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-056",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708747332.mp3",
+      "localFile": "audio/daily/lesson-01/28160-2-1708747332.mp3",
+      "bytes": 29301,
+      "status": "exists",
+      "script": "a party",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-057",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708747293.mp3",
+      "localFile": "audio/daily/lesson-01/28160-3-1708747293.mp3",
+      "bytes": 29301,
+      "status": "exists",
+      "script": "lunch",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-058",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708747342.mp3",
+      "localFile": "audio/daily/lesson-01/28160-4-1708747342.mp3",
+      "bytes": 29301,
+      "status": "exists",
+      "script": "a meeting",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-059",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708747305.mp3",
+      "localFile": "audio/daily/lesson-01/28160-5-1708747305.mp3",
+      "bytes": 28047,
+      "status": "exists",
+      "script": "dinner",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-060",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708747354.mp3",
+      "localFile": "audio/daily/lesson-01/28160-6-1708747354.mp3",
+      "bytes": 37660,
+      "status": "exists",
+      "script": "a game (of football, etc.)",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-061",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708747317.mp3",
+      "localFile": "audio/daily/lesson-01/28160-7-1708747317.mp3",
+      "bytes": 29301,
+      "status": "exists",
+      "script": "a meal",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-062",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708747656.mp3",
+      "localFile": "audio/daily/lesson-01/28160-8-1708747656.mp3",
+      "bytes": 29301,
+      "status": "exists",
+      "script": "a lesson",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-063",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708748029.mp3",
+      "localFile": "audio/daily/lesson-01/28160-9-1708748029.mp3",
+      "bytes": 44347,
+      "status": "exists",
+      "script": "a cup of tea / coffee",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-064",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708747975.mp3",
+      "localFile": "audio/daily/lesson-01/28160-10-1708747975.mp3",
+      "bytes": 30973,
+      "status": "exists",
+      "script": "an exam",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-065",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708748043.mp3",
+      "localFile": "audio/daily/lesson-01/28160-11-1708748043.mp3",
+      "bytes": 29301,
+      "status": "exists",
+      "script": "a drink",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-066",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708747998.mp3",
+      "localFile": "audio/daily/lesson-01/28160-12-1708747998.mp3",
+      "bytes": 31391,
+      "status": "exists",
+      "script": "homework",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-067",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708748057.mp3",
+      "localFile": "audio/daily/lesson-01/28160-13-1708748057.mp3",
+      "bytes": 33898,
+      "status": "exists",
+      "script": "an ice cream",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-068",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708748086.mp3",
+      "localFile": "audio/daily/lesson-01/28160-14-1708748086.mp3",
+      "bytes": 30555,
+      "status": "exists",
+      "script": "a shower /ʃaʊər",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-069",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708748096.mp3",
+      "localFile": "audio/daily/lesson-01/28160-15-1708748096.mp3",
+      "bytes": 29719,
+      "status": "exists",
+      "script": "a bath",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-070",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708748109.mp3",
+      "localFile": "audio/daily/lesson-01/28160-16-1708748109.mp3",
+      "bytes": 29719,
+      "status": "exists",
+      "script": "a swim",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-071",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708749187.mp3",
+      "localFile": "audio/daily/lesson-01/28160-17-1708749187.mp3",
+      "bytes": 61484,
+      "status": "exists",
+      "script": "Is that your camera? Can I have a look? [look at it]",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-072",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708749206.mp3",
+      "localFile": "audio/daily/lesson-01/28160-18-1708749206.mp3",
+      "bytes": 62319,
+      "status": "exists",
+      "script": "Is that your bicycle? Can I have a go? [try it]",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-073",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708749512.mp3",
+      "localFile": "audio/daily/lesson-01/28160-19-1708749512.mp3",
+      "bytes": 55632,
+      "status": "exists",
+      "script": "Goodbye! Have a good journey! [somebody's going away]",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-074",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708749526.mp3",
+      "localFile": "audio/daily/lesson-01/28160-20-1708749526.mp3",
+      "bytes": 32226,
+      "status": "exists",
+      "script": "Do you have a moment [have some time]? Can I have a word with you? [speak to you]",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-075",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708749551.mp3",
+      "localFile": "audio/daily/lesson-01/28160-21-1708749551.mp3",
+      "bytes": 58558,
+      "status": "exists",
+      "script": "We always have a good time in our English lessons [fun; we enjoy them]",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-076",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708749564.mp3",
+      "localFile": "audio/daily/lesson-01/28160-22-1708749564.mp3",
+      "bytes": 109131,
+      "status": "exists",
+      "script": "I'm going to have my hair cut. See you later. Can you meet me at the hairdresser's?",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-01-audio-077",
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1708749578.mp3",
+      "localFile": "audio/daily/lesson-01/28160-23-1708749578.mp3",
+      "bytes": 57304,
+      "status": "exists",
+      "script": "I want to learn to ski but I don't have the time",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-76146"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    }
+  ]
+}

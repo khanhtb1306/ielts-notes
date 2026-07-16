@@ -1,0 +1,606 @@
+{
+  "lesson": 15,
+  "lessonKey": "lesson-15",
+  "blocks": [
+    {
+      "id": "assignment-89903",
+      "sourceId": 89903,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "type": "paragraph",
+      "title": null,
+      "text": "LISTENING \n\nExercise 1",
+      "rawHtml": "<p><span style=\"font-family: Nunito-ExtraBold; font-size: 16pt; background-color: #ba372a; color: #ffffff;\"><strong style=\"box-sizing: border-box; font-weight: bold;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"> LISTENING </span></strong></span></p>\n<p><span style=\"font-family: Nunito-ExtraBold;\"><strong style=\"box-sizing: border-box; font-weight: bold;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Exercise 1</span></strong></span></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89904",
+      "sourceId": 89904,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "type": "paragraph",
+      "title": null,
+      "text": "1.",
+      "rawHtml": "<p><strong><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">1.</span></strong></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89905",
+      "sourceId": 89905,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "type": "audio",
+      "title": null,
+      "text": "I went to a new steak restaurant last night that opened near my house.",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715657276.mp3",
+          "localFile": "audio/daily/lesson-15/33411-1-1715657276.mp3",
+          "script": "I went to a new steak restaurant last night that opened near my house",
+          "source": "audio_url"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89906",
+      "sourceId": 89906,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "type": "paragraph",
+      "title": null,
+      "text": "2.",
+      "rawHtml": "<p><span style=\"font-family: Nunito-Regular;\"><strong style=\"box-sizing: border-box; font-weight: bold;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">2.</span></strong></span></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89907",
+      "sourceId": 89907,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "type": "audio",
+      "title": null,
+      "text": "To start the meal, I had an interesting appetizer.",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715657300.mp3",
+          "localFile": "audio/daily/lesson-15/33411-2-1715657300.mp3",
+          "script": "To start the meal, I had an interesting appetizer",
+          "source": "audio_url"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89908",
+      "sourceId": 89908,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "type": "paragraph",
+      "title": null,
+      "text": "3.",
+      "rawHtml": "<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong style=\"box-sizing: border-box; font-weight: bold;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">3.</span></span></strong></span></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89909",
+      "sourceId": 89909,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "type": "audio",
+      "title": null,
+      "text": "It was nice and fresh with a great house dressing.",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1717726038.mp3",
+          "localFile": "audio/daily/lesson-15/33411-3-1717726038.mp3",
+          "script": "It was nice and fresh with a great house dressing",
+          "source": "audio_url"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89910",
+      "sourceId": 89910,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "type": "paragraph",
+      "title": null,
+      "text": "4.",
+      "rawHtml": "<p><strong><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">4.</span></strong></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89911",
+      "sourceId": 89911,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "type": "audio",
+      "title": null,
+      "text": "The vegetables were good-very fresh and tasty.",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715657408.mp3",
+          "localFile": "audio/daily/lesson-15/33411-4-1715657408.mp3",
+          "script": "The vegetables were good-very fresh and tasty",
+          "source": "audio_url"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89912",
+      "sourceId": 89912,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "type": "paragraph",
+      "title": null,
+      "text": "5.",
+      "rawHtml": "<p><strong><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">5.</span></strong></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89913",
+      "sourceId": 89913,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "type": "audio",
+      "title": null,
+      "text": "My new girlfriend took me to a Chinese restaurant in her neighborhood the other night.",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715657463.mp3",
+          "localFile": "audio/daily/lesson-15/33411-5-1715657463.mp3",
+          "script": "My new girlfriend took me to a Chinese restaurant in her neighborhood the other night",
+          "source": "audio_url"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89914",
+      "sourceId": 89914,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "type": "paragraph",
+      "title": null,
+      "text": "6.",
+      "rawHtml": "<p><strong><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">6.</span></strong></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89915",
+      "sourceId": 89915,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "type": "audio",
+      "title": null,
+      "text": "For my main dish, I had a piece of pork. It was too dry and had no taste.",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1717726058.mp3",
+          "localFile": "audio/daily/lesson-15/33411-6-1717726058.mp3",
+          "script": "For my main dish, I had a piece of pork. It was too dry and had no taste",
+          "source": "audio_url"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89916",
+      "sourceId": 89916,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "type": "paragraph",
+      "title": null,
+      "text": "7.",
+      "rawHtml": "<p><strong><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">7.</span></strong></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89917",
+      "sourceId": 89917,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "type": "audio",
+      "title": null,
+      "text": "They were the best I had ever tasted.",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715657515.mp3",
+          "localFile": "audio/daily/lesson-15/33411-7-1715657515.mp3",
+          "script": "They were the best I had ever tasted",
+          "source": "audio_url"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89918",
+      "sourceId": 89918,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "type": "paragraph",
+      "title": null,
+      "text": "8.",
+      "rawHtml": "<p><strong><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">8.</span></strong></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89919",
+      "sourceId": 89919,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "type": "audio",
+      "title": null,
+      "text": "The dessert was a big bowl of fresh fruit.",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715657551.mp3",
+          "localFile": "audio/daily/lesson-15/33411-8-1715657551.mp3",
+          "script": "The dessert was a big bowl of fresh fruit",
+          "source": "audio_url"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89920",
+      "sourceId": 89920,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "type": "paragraph",
+      "title": null,
+      "text": "Exercise 2.",
+      "rawHtml": "<p><strong><span style=\"font-family: Nunito-ExtraBold; font-size: 12pt;\">Exercise 2.</span></strong></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89921",
+      "sourceId": 89921,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "type": "audio",
+      "title": null,
+      "text": "Exercise 3.\n\n1.\n\nI went to a new steak restaurant last night that opened near my house. I love trying new places. To start the meal, I had an interesting appetizer. It was some kind of seafood with a spicy sauce on it... Mmm! The main dish, of course, was steak. It was very small and a little tough, though. However, the vegetables were great-nice and fresh, but not too oily. The final thing was the best-the dessert! It was apple pie with a lot of ice cream on it. I know that I shouldn't eat so many sweets, but it was delicious!\n\nTôi đã đến nhà hàng bít tết mới mở gần nhà tôi vào tối qua. Tôi thích thử đến những nơi mới mẻ. Để bắt đầu bữa ăn, tôi đã có một món khai vị rất thú vị. Nó là một kiểu hải sản với sốt cay phía trên... Mmm! Món chính đương nhiên là bít tết. Tuy nhiên, nó khá nhỏ và hơi cứng. Nhưng món rau thì tuyệt vời - ngon và tươi, nhưng không quá dầu mỡ. Món cuối cùng là tuyệt nhất - món tráng miệng. Nó là bánh táo với rất nhiều kem phía trên. Tôi biết tôi không nên ăn quá nhiều đồ ngọt, nhưng nó thật sự rất ngon!\n\n2.\n\nHave you ever tried that seafood restaurant on Main Street? You should-it's great! I go there often. In fact, I went there last weekend. To begin, I had a salad. It was nice and fresh with a great house dressing. My main dish was a fish that I had never tried. I really enjoyed the spices it was cooked in. The vegetables were good-very fresh and tasty. For dessert, I had chocolate cake. It's usually very delicious, but this time, it was much too sweet. I couldn't eat more than two bites! That's okay, though, because I am on a diet.\n\nBạn đã bao giờ thử ăn ở nhà hàng hải sản trên phố Main chưa? Bạn nên thử - nó rất tuyệt. Tôi thường xuyên đến đó. Thực ra, tôi đến đó cuối tuần trước. Để bắt đầu, tôi đã ăn salad. Nó rất ngon và tươi với nước sốt tuyệt vời. Món chính là món cá mà tôi chưa từng thử bao giờ. Tôi rất thích gia vị nêm nếm của món đó. Món rau ngon - rất tươi và ngon. Cho món tráng miệng, tôi đã ăn bánh kem socola. Thường thì nó rất ngon, nhưng lần này, nó quá ngọt. Tôi không thể ăn quá 2 miếng. Nhưng dù sao cũng ổn, bởi tôi đang ăn kiêng.\n\n3.\n\nMy new girlfriend took me to a Chinese restaurant in her neighborhood the other night. It was pretty good. First, we had some egg rolls. They were the best I had ever tasted. Then we ordered the beef and pepper stir-fry. It came in a very interesting sauce-spicy, but not too spicy. We also ordered the steamed vegetables, but they were awful. They were really too soft. The dessert was a big bowl of fresh fruit. Some of the fruit I had never seen. It was fantastic-and so was my date!\n\nBạn gái mới của tôi dẫn tôi đến một nhà hàng Trung Hoa ở khu của cô ấy vào tối nó. Nó khá là ngon. Đầu tiên, chúng tôi ăn một ít trứng cuộn. Nó là món ngon nhất mà tôi từng ăn. Sau đó, chúng tôi gọi thịt bò và ớt chuông xào. Nó ăn kèm với nước sốt khá thú vị - cay, nhưng không cay quá. Chúng tôi cũng gọi rau hấp, nhưng nó rất tệ. Nó quá mềm. Món tráng miệng là một bát lớn hoa quả tươi. Một vài loại quả tôi chưa thấy bao giờ. Nó rất tuyệt - và buổi hẹn của tôi cũng thế!\n\n4.\n\nFor lunch, my co-worker and I went to a nice little French restaurant near our office. He didn't feel like eating much, so he just had a small salad. I had a large meal, though. First, I had the onion soup, but it was much too salty. For my main dish, I had a piece of pork. It was too dry and had no taste. The vegetables were perfect, though-broccoli and peas. Those are my favorites. Finally, I had a large bowl of chocolate mousse. It was just like the chocolate mousse I had in France during my last vacation-very creamy and delicious. I think I'll have it next time, too.\n\nCho bữa trưa, đồng nghiệp của tôi và tôi đã đến một nhà hàng Pháp nhỏ, xinh gần văn phòng. Anh ấy không thèm ăn lắm, nên anh ấy chỉ ăn một chút salad. Tôi đã có một bữa ăn khá lớn. Đầu tiên, tôi ăn súp hành, nhưng nó quá mặn. Với món chính, tôi ăn thịt lợn. Nó quá khô và không có vị gì cả. Tuy nhiên, món rau thì hoàn thảo - súp lơ xanh và đậu. Đó là những món ưa thích của tôi. Cuối cùng, tôi ăn một bát lớn mousse socola. Nó giống như món mousse socola mà tôi đã ăn ở Pháp vào kì nghỉ trước - rất ngậy và ngon. Tôi nghĩ lần sau tôi cũng sẽ ăn món đó.",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715659373.mp3",
+          "localFile": "audio/daily/lesson-15/33411-9-1715659373.mp3",
+          "script": "Exercise 3. 1. I went to a new steak restaurant last night that opened near my house. I love trying new places. To start the meal, I had an interesting appetizer. It was some kind of seafood with a spicy sauce on it... Mmm! The main dish, of course, was steak. It was very small and a little tough, though. However, the vegetables were great-nice and fresh, but not too oily. The final thing was the best-the dessert! It was apple pie with a lot of ice cream on it. I know that I shouldn't eat so many sweets, but it was delicious! Tôi đã đến nhà hàng bít tết mới mở gần nhà tôi vào tối qua. Tôi thích thử đến những nơi mới mẻ. Để bắt đầu bữa ăn, tôi đã có một món khai vị rất thú vị. Nó là một kiểu hải sản với sốt cay phía trên... Mmm! Món chính đương nhiên là bít tết. Tuy nhiên, nó khá nhỏ và hơi cứng. Nhưng món rau thì tuyệt vời - ngon và tươi, nhưng không quá dầu mỡ. Món cuối cùng là tuyệt nhất - món tráng miệng. Nó là bánh táo với rất nhiều kem phía trên. Tôi biết tôi không nên ăn quá nhiều đồ ngọt, nhưng nó thật sự rất ngon! 2. Have you ever tried that seafood restaurant on Main Street? You should-it's great! I go there often. In fact, I went there last weekend. To begin, I had a salad. It was nice and fresh with a great house dressing. My main dish was a fish that I had never tried. I really enjoyed the spices it was cooked in. The vegetables were good-very fresh and tasty. For dessert, I had chocolate cake. It's usually very delicious, but this time, it was much too sweet. I couldn't eat more than two bites! That's okay, though, because I am on a diet. Bạn đã bao giờ thử ăn ở nhà hàng hải sản trên phố Main chưa? Bạn nên thử - nó rất tuyệt. Tôi thường xuyên đến đó. Thực ra, tôi đến đó cuối tuần trước. Để bắt đầu, tôi đã ăn salad. Nó rất ngon và tươi với nước sốt tuyệt vời. Món chính là món cá mà tôi chưa từng thử bao giờ. Tôi rất thích gia vị nêm nếm của món đó. Món rau ngon - rất tươi và ngon. Cho món tráng miệng, tôi đã ăn bánh kem socola. Thường thì nó rất ngon, nhưng lần này, nó quá ngọt. Tôi không thể ăn quá 2 miếng. Nhưng dù sao cũng ổn, bởi tôi đang ăn kiêng. 3. My new girlfriend took me to a Chinese restaurant in her neighborhood the other night. It was pretty good. First, we had some egg rolls. They were the best I had ever tasted. Then we ordered the beef and pepper stir-fry. It came in a very interesting sauce-spicy, but not too spicy. We also ordered the steamed vegetables, but they were awful. They were really too soft. The dessert was a big bowl of fresh fruit. Some of the fruit I had never seen. It was fantastic-and so was my date! Bạn gái mới của tôi dẫn tôi đến một nhà hàng Trung Hoa ở khu của cô ấy vào tối nó. Nó khá là ngon. Đầu tiên, chúng tôi ăn một ít trứng cuộn. Nó là món ngon nhất mà tôi từng ăn. Sau đó, chúng tôi gọi thịt bò và ớt chuông xào. Nó ăn kèm với nước sốt khá thú vị - cay, nhưng không cay quá. Chúng tôi cũng gọi rau hấp, nhưng nó rất tệ. Nó quá mềm. Món tráng miệng là một bát lớn hoa quả tươi. Một vài loại quả tôi chưa thấy bao giờ. Nó rất tuyệt - và buổi hẹn của tôi cũng thế! 4. For lunch, my co-worker and I went to a nice little French restaurant near our office. He didn't feel like eating much, so he just had a small salad. I had a large meal, though. First, I had the onion soup, but it was much too salty. For my main dish, I had a piece of pork. It was too dry and had no taste. The vegetables were perfect, though-broccoli and peas. Those are my favorites. Finally, I had a large bowl of chocolate mousse. It was just like the chocolate mousse I had in France during my last vacation-very creamy and delicious. I think I'll have it next time, too. Cho bữa trưa, đồng nghiệp của tôi và tôi đã đến một nhà hàng Pháp nhỏ, xinh gần văn phòng. Anh ấy không thèm ăn lắm, nên anh ấy chỉ ăn một chút salad. Tôi đã có một bữa ăn khá lớn. Đầu tiên, tôi ăn súp hành, nhưng nó quá mặn. Với món chính, tôi ăn thịt lợn. Nó quá khô và không có vị gì cả. Tuy nhiên, món rau thì hoàn thảo - súp lơ xanh và đậu. Đó là những món ưa thích của tôi. Cuối cùng, tôi ăn một bát lớn mousse socola. Nó giống như món mousse socola mà tôi đã ăn ở Pháp vào kì nghỉ trước - rất ngậy và ngon. Tôi nghĩ lần sau tôi cũng sẽ ăn món đó",
+          "source": "audio_url"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89922",
+      "sourceId": 89922,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "type": "paragraph",
+      "title": null,
+      "text": "",
+      "rawHtml": "<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89923",
+      "sourceId": 89923,
+      "challengeId": 33412,
+      "classChallengeId": "84532",
+      "type": "paragraph",
+      "title": null,
+      "text": "I. SHADOWING & USEFUL STRUCTURES\n\nHọc thuộc làu làu tất cả các câu sau. (Ghi nhớ nghĩa và Nghe + bắt chước đúng ngữ âm, ngữ điệu và tốc độ)\n\n1. I went to a new steak restaurant last night that opened near my house.",
+      "rawHtml": "<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: Nunito-ExtraBold; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important; color: #c0392b;\"><strong style=\"box-sizing: border-box;\">I. SHADOWING & USEFUL STRUCTURES</strong></span></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">Học thuộc làu làu tất cả các câu sau. (Ghi nhớ nghĩa và Nghe + bắt chước đúng ngữ âm, ngữ điệu và tốc độ)</strong></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">1. I went to a new steak restaurant last night that opened near my house.</span></span></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89924",
+      "sourceId": 89924,
+      "challengeId": 33412,
+      "classChallengeId": "84532",
+      "type": "audio",
+      "title": null,
+      "text": "",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709019674.mp3",
+          "localFile": "audio/daily/lesson-15/33412-1-1709019674.mp3",
+          "script": "I went to a new steak restaurant last night that opened near my house",
+          "source": "audio_url+adjacent_script"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89925",
+      "sourceId": 89925,
+      "challengeId": 33412,
+      "classChallengeId": "84532",
+      "type": "paragraph",
+      "title": null,
+      "text": "2. To start the meal, I had an interesting appetizer.",
+      "rawHtml": "<p><span style=\"font-family: Nunito-Regular;\">2. To start the meal, I had an interesting appetizer.</span></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89926",
+      "sourceId": 89926,
+      "challengeId": 33412,
+      "classChallengeId": "84532",
+      "type": "audio",
+      "title": null,
+      "text": "",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709020259.mp3",
+          "localFile": "audio/daily/lesson-15/33412-2-1709020259.mp3",
+          "script": "To start the meal, I had an interesting appetizer",
+          "source": "audio_url+adjacent_script"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89927",
+      "sourceId": 89927,
+      "challengeId": 33412,
+      "classChallengeId": "84532",
+      "type": "paragraph",
+      "title": null,
+      "text": "3. It was nice and fresh with a great house dressing.",
+      "rawHtml": "<p><span style=\"font-family: Nunito-Regular;\">3. It was nice and fresh with a great house dressing.</span></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89928",
+      "sourceId": 89928,
+      "challengeId": 33412,
+      "classChallengeId": "84532",
+      "type": "audio",
+      "title": null,
+      "text": "",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709020291.mp3",
+          "localFile": "audio/daily/lesson-15/33412-3-1709020291.mp3",
+          "script": "It was nice and fresh with a great house dressing",
+          "source": "audio_url+adjacent_script"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89929",
+      "sourceId": 89929,
+      "challengeId": 33412,
+      "classChallengeId": "84532",
+      "type": "paragraph",
+      "title": null,
+      "text": "4. The vegetables were good—very fresh and tasty.",
+      "rawHtml": "<p><span style=\"font-family: Nunito-Regular;\">4. The vegetables were good—very fresh and tasty.</span></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89930",
+      "sourceId": 89930,
+      "challengeId": 33412,
+      "classChallengeId": "84532",
+      "type": "audio",
+      "title": null,
+      "text": "",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709020332.mp3",
+          "localFile": "audio/daily/lesson-15/33412-4-1709020332.mp3",
+          "script": "The vegetables were good—very fresh and tasty",
+          "source": "audio_url+adjacent_script"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89931",
+      "sourceId": 89931,
+      "challengeId": 33412,
+      "classChallengeId": "84532",
+      "type": "paragraph",
+      "title": null,
+      "text": "5. My new girlfriend took me to a Chinese restaurant in her neighborhood the other night.",
+      "rawHtml": "<p><span style=\"font-family: Nunito-Regular;\">5. My new girlfriend took me to a Chinese restaurant in her neighborhood the other night.</span></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89932",
+      "sourceId": 89932,
+      "challengeId": 33412,
+      "classChallengeId": "84532",
+      "type": "audio",
+      "title": null,
+      "text": "",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709020356.mp3",
+          "localFile": "audio/daily/lesson-15/33412-5-1709020356.mp3",
+          "script": "My new girlfriend took me to a Chinese restaurant in her neighborhood the other night",
+          "source": "audio_url+adjacent_script"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89933",
+      "sourceId": 89933,
+      "challengeId": 33412,
+      "classChallengeId": "84532",
+      "type": "paragraph",
+      "title": null,
+      "text": "6. For my main dish, I had a piece of pork. It was too dry and had no taste.",
+      "rawHtml": "<p><span style=\"font-family: Nunito-Regular;\">6. For my main dish, I had a piece of pork. It was too dry and had no taste.</span></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89934",
+      "sourceId": 89934,
+      "challengeId": 33412,
+      "classChallengeId": "84532",
+      "type": "audio",
+      "title": null,
+      "text": "",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709021624.mp3",
+          "localFile": "audio/daily/lesson-15/33412-6-1709021624.mp3",
+          "script": "For my main dish, I had a piece of pork. It was too dry and had no taste",
+          "source": "audio_url+adjacent_script"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89935",
+      "sourceId": 89935,
+      "challengeId": 33412,
+      "classChallengeId": "84532",
+      "type": "paragraph",
+      "title": null,
+      "text": "7. They were the best I had ever tasted.",
+      "rawHtml": "<p><span style=\"font-family: Nunito-Regular;\">7. They were the best I had ever tasted.</span></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89936",
+      "sourceId": 89936,
+      "challengeId": 33412,
+      "classChallengeId": "84532",
+      "type": "audio",
+      "title": null,
+      "text": "",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709021772.mp3",
+          "localFile": "audio/daily/lesson-15/33412-7-1709021772.mp3",
+          "script": "They were the best I had ever tasted",
+          "source": "audio_url+adjacent_script"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89937",
+      "sourceId": 89937,
+      "challengeId": 33412,
+      "classChallengeId": "84532",
+      "type": "paragraph",
+      "title": null,
+      "text": "8. The dessert was a big bowl of fresh fruit.",
+      "rawHtml": "<p><span style=\"font-family: Nunito-Regular;\">8. The dessert was a big bowl of fresh fruit.</span></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89938",
+      "sourceId": 89938,
+      "challengeId": 33412,
+      "classChallengeId": "84532",
+      "type": "audio",
+      "title": null,
+      "text": "",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709021796.mp3",
+          "localFile": "audio/daily/lesson-15/33412-8-1709021796.mp3",
+          "script": "The dessert was a big bowl of fresh fruit",
+          "source": "audio_url+adjacent_script"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-89939",
+      "sourceId": 89939,
+      "challengeId": 33412,
+      "classChallengeId": "84532",
+      "type": "paragraph",
+      "title": null,
+      "text": "II. SPEAKING \n\nViết script miêu tả một chuyến đi đáng nhớ (đã viết script ở buổi trước) + miêu tả thêm trải nghiệm đã đi ăn ở nhà hàng như thế nào trong chuyến đi. (Sử dụng các câu hay học được từ bài Listening)\n\nXem thêm phần Gợi ý trả lời: Gợi ý",
+      "rawHtml": "<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; color: #c0392b; font-family: Nunito-ExtraBold; border-radius: 0px !important; font-size: 12pt;\"><strong style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">II. SPEAKING </span></span></strong></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Viết script miêu tả một chuyến đi đáng nhớ (đã viết script ở buổi trước) + miêu tả thêm trải nghiệm đã đi ăn ở nhà hàng như thế nào trong chuyến đi. (Sử dụng các câu hay học được từ bài Listening)</span></span></strong></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Xem thêm phần Gợi ý trả lời: <a style=\"box-sizing: border-box; background-color: transparent; color: #0d638f; text-decoration-line: none; outline: 0px; border-radius: 0px !important; text-shadow: none !important;\" href=\"https://docs.google.com/document/d/1Y2Y3IPl945sFOaOZvIWDXw1Wpj4Jf4Zq/edit?usp=sharing&ouid=116087920410815633677&rtpof=true&sd=true\">Gợi ý</a></span></span></strong></span></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    }
+  ]
+}

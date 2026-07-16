@@ -1,0 +1,460 @@
+{
+  "lesson": 1,
+  "lessonKey": "lesson-01",
+  "items": [
+    {
+      "challengeId": 28158,
+      "classChallengeId": "79471",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 7,
+      "submittedAt": "2026-06-07 11:46:37",
+      "markedAt": "2026-06-09 16:25:09",
+      "commentText": "You're doing great. Keep going to reach your goal!",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "262514": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 531796,
+          "correct_answer": 531796,
+          "result_answer": {
+            "531796": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 262514,
+          "challenge_id": 28158
+        },
+        "262515": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 531801,
+          "correct_answer": 531801,
+          "result_answer": {
+            "531801": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 262515,
+          "challenge_id": 28158
+        },
+        "262516": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 531805,
+          "correct_answer": 531805,
+          "result_answer": {
+            "531805": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 262516,
+          "challenge_id": 28158
+        },
+        "262517": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 531808,
+          "correct_answer": 531808,
+          "result_answer": {
+            "531808": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 262517,
+          "challenge_id": 28158
+        },
+        "262518": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 531813,
+          "correct_answer": 531813,
+          "result_answer": {
+            "531813": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 262518,
+          "challenge_id": 28158
+        },
+        "262519": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 531817,
+          "correct_answer": 531817,
+          "result_answer": {
+            "531817": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 262519,
+          "challenge_id": 28158
+        },
+        "262520": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 531821,
+          "correct_answer": 531821,
+          "result_answer": {
+            "531821": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 262520,
+          "challenge_id": 28158
+        }
+      }
+    },
+    {
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 27,
+      "submittedAt": "2026-06-07 22:53:42",
+      "markedAt": "2026-06-11 01:04:55",
+      "commentText": "Hi Khánh, cô gửi nhận xét cho challenge của mình nha.\n\r\nTrước hết, cô lưu ý em cần đọc mỗi âm 3 lần trước khi đọc các từ ví dụ theo đúng yêu cầu của bài tập nhé. Bài sau em nhớ thực hiện đầy đủ để việc luyện phát âm hiệu quả hơn.\n\r\n/i:/, /ɪ/, /ʊ/, /e/\nCác âm này em phát âm khá tốt. Khẩu hình và vị trí lưỡi nhìn chung đúng, các từ ví dụ được đọc rõ ràng và dễ nghe. \n\r\n/u:/\nỞ từ new, em chưa thể hiện rõ âm /u:/ dài. Khi phát âm âm này, em cần chu môi nhẹ và kéo dài nguyên âm hơn một chút. Tránh đọc quá ngắn vì sẽ làm mất đặc trưng của âm /u:/. Em có thể luyện riêng từ new /njuː/ để cảm nhận rõ độ dài của âm hơn.\n\r\n/æ/\nÂm này em cần mở khẩu hình rộng hơn và hạ hàm xuống thấp hơn. Nếu miệng mở chưa đủ rộng, âm sẽ dễ bị đọc gần giống /e/. Hãy luyện thêm với các từ hand, cat, sand, man để tạo thói quen phát âm đúng vị trí của âm /æ/.\n\r\n/ɑ:/\nÂm này em phát âm đúng vị trí nhưng cần kéo dài hơn nữa. Đây là nguyên âm dài nên cần giữ âm lâu hơn một chút trong để người nghe nhận ra rõ sự khác biệt với các nguyên âm ngắn.\n\r\n/ʌ/\nÂm này cần được đọc rõ và dứt khoát hơn. Em nên giữ âm ngắn nhưng chắc, đồng thời kết thúc từ rõ ràng.\n\r\nEm đọc kĩ nhận xét và luyện tập lại để mình ngày càng tiến bộ hơn nhé.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "262521": {
+          "total_question": 9,
+          "total_correct_result_answer": 9,
+          "user_answer": {
+            "input_0": "gardening",
+            "input_1": "washing",
+            "input_2": "washing",
+            "input_3": "housework",
+            "input_4": "business",
+            "input_5": "do",
+            "input_6": "homework",
+            "input_7": "best",
+            "input_8": "exercise"
+          },
+          "correct_answer": {
+            "input_0": [
+              "gardening"
+            ],
+            "input_1": [
+              "washing"
+            ],
+            "input_2": [
+              "washing"
+            ],
+            "input_3": [
+              "housework"
+            ],
+            "input_4": [
+              "business"
+            ],
+            "input_5": [
+              "do"
+            ],
+            "input_6": [
+              "homework"
+            ],
+            "input_7": [
+              "best"
+            ],
+            "input_8": [
+              "exercise"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 262521,
+          "challenge_id": 28159
+        },
+        "262522": {
+          "total_question": 16,
+          "total_correct_result_answer": 16,
+          "user_answer": {
+            "input_0": "fit",
+            "input_1": "i",
+            "input_2": "clue",
+            "input_3": "g",
+            "input_4": "soup",
+            "input_5": "a",
+            "input_6": "hen",
+            "input_7": "h",
+            "input_8": "sand",
+            "input_9": "f",
+            "input_10": "butter",
+            "input_12": "bean",
+            "input_13": "c",
+            "input_14": "miss",
+            "input_15": "b",
+            "input_11": "d"
+          },
+          "correct_answer": {
+            "input_0": [
+              "fit"
+            ],
+            "input_1": [
+              "i"
+            ],
+            "input_2": [
+              "clue"
+            ],
+            "input_3": [
+              "g"
+            ],
+            "input_4": [
+              "soup"
+            ],
+            "input_5": [
+              "a"
+            ],
+            "input_6": [
+              "hen"
+            ],
+            "input_7": [
+              "h"
+            ],
+            "input_8": [
+              "sand"
+            ],
+            "input_9": [
+              "f"
+            ],
+            "input_10": [
+              "butter"
+            ],
+            "input_11": [
+              "d"
+            ],
+            "input_12": [
+              "bean"
+            ],
+            "input_13": [
+              "c"
+            ],
+            "input_14": [
+              "miss"
+            ],
+            "input_15": [
+              "b"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true,
+            "input_10": true,
+            "input_11": true,
+            "input_12": true,
+            "input_13": true,
+            "input_14": true,
+            "input_15": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 262522,
+          "challenge_id": 28159
+        },
+        "262523": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "1. Clue: Manh mối\n2. Butter: Bơ\n3. Sand: Cát\n4. Upstairs: trên lầu\n5. Tidy: dọn dẹp \n6. Do business with: hợp tác làm ăn với\n7. Can use it to: dùng cái gì để làm gì\n8. Do the washing up: rửa bát\n9. Do the washing: giặt quần áo\n10. Do your best: cố làm hết sức",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 262523,
+          "challenge_id": 28159
+        },
+        "262525": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://drive.google.com/file/d/12z2RUwQnmmat_WEveQHec5O9fdVHFFFU/view?usp=drive_link",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 262525,
+          "challenge_id": 28159
+        }
+      }
+    },
+    {
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 16,
+      "submittedAt": "2026-06-07 23:56:55",
+      "markedAt": "2026-06-10 10:44:35",
+      "commentText": "Hi Khánh, bài này em làm khá ổn nha.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCô thấy em còn điền sai nghĩa các cụm từ bài 1 khá nhiều. Em chú ý xem kĩ lại nghĩa của các cụm từ trong mục bên trái, sau đó ghép nghĩa vào câu xem có hợp lí không nhé. Nếu vẫn chưa hiểu được thì em bấm vào mục giải thích chi tiết đáp án phía dưới.\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\nEm đọc kĩ nhận xét để rút kinh nghiệm cho bài sau làm tốt hơn nha.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "262527": {
+          "total_question": 10,
+          "total_correct_result_answer": 5,
+          "user_answer": {
+            "input_0": "a lession",
+            "input_1": "pickleball",
+            "input_2": "a party",
+            "input_3": "shower",
+            "input_4": "exam",
+            "input_5": "meeting",
+            "input_8": "a meal",
+            "input_6": "dinner",
+            "input_7": "swim",
+            "input_9": "homework"
+          },
+          "correct_answer": {
+            "input_0": [
+              "lesson"
+            ],
+            "input_1": [
+              "football",
+              "sport"
+            ],
+            "input_2": [
+              "party"
+            ],
+            "input_3": [
+              "bath",
+              "shower"
+            ],
+            "input_4": [
+              "exam"
+            ],
+            "input_5": [
+              "meeting"
+            ],
+            "input_6": [
+              "drink",
+              "meal"
+            ],
+            "input_7": [
+              "swim"
+            ],
+            "input_8": [
+              "dinner"
+            ],
+            "input_9": [
+              "homework"
+            ]
+          },
+          "result_answer": {
+            "input_0": false,
+            "input_1": false,
+            "input_2": false,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": false,
+            "input_7": true,
+            "input_8": false,
+            "input_9": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 262527,
+          "challenge_id": 28160
+        },
+        "262528": {
+          "total_question": 10,
+          "total_correct_result_answer": 10,
+          "user_answer": {
+            "input_8": "have got",
+            "input_7": "have a drink",
+            "input_0": "have her hair cut",
+            "input_1": "have a go",
+            "input_2": "have a word",
+            "input_3": "have the time",
+            "input_4": "haven't got",
+            "input_5": "have",
+            "input_6": "have a look",
+            "input_9": "headache"
+          },
+          "correct_answer": {
+            "input_0": [
+              "have her hair cut"
+            ],
+            "input_1": [
+              "have a go"
+            ],
+            "input_2": [
+              "have a word"
+            ],
+            "input_3": [
+              "have the time",
+              "have time"
+            ],
+            "input_4": [
+              "haven't got",
+              "have not got",
+              "don't have",
+              "do not have"
+            ],
+            "input_5": [
+              "have"
+            ],
+            "input_6": [
+              "have a look"
+            ],
+            "input_7": [
+              "have a drink"
+            ],
+            "input_8": [
+              "have got"
+            ],
+            "input_9": [
+              "headache"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 262528,
+          "challenge_id": 28160
+        },
+        "262529": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "headache: đau đầu\nhave a look: xem thử\nhave a go: thử làm gì đó\nhave a good journey: chúc chuyến đi tốt đẹp\nhave a moment: có thời gian rảnh một chút\nhave a word with somebody: nói chuyện/trao đổi với ai đó\nhave a good time: có khoảng thời gian vui vẻ\nhave my hair cut: đi cắt tóc\nhaven't got: không có\nhave the time: có thời gian",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 262529,
+          "challenge_id": 28160
+        }
+      }
+    }
+  ]
+}

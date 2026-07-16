@@ -1,0 +1,1112 @@
+{
+  "listItem": {
+    "id": "84206",
+    "challenge_id": 33068,
+    "class_id": "177286917873dop75b27mv",
+    "day": 14,
+    "deadline": "2026-07-13 12:30:00",
+    "challenge_title": "[PRE IELTS] LESSON 14 - CHALLENGE 1",
+    "challenge_note": "Grammar (Will, be going to)",
+    "challenge_status": 1,
+    "challenge_band": "161433861829325240c1g7",
+    "total_question": 32,
+    "classification": "dc",
+    "student_challenge": {
+      "id": 576620,
+      "class_challenge_id": 84206,
+      "class_id": "177286917873dop75b27mv",
+      "challenge_id": 33068,
+      "cts_id": "1780455880vwydc1i2ehir",
+      "rate": 1,
+      "comment": "<p>Hi Khánh, bài này em làm tốt nhé. Em cũng đừng quên học thêm các từ mới trong DC để mở rộng vốn từ của mình hơn nha.</p>",
+      "url": null,
+      "redo_comment": null,
+      "cancel_comment": null,
+      "date_redo": null,
+      "status_mark": "graded",
+      "status_mark_date": "2026-07-15 21:40:03",
+      "flag_overdue": 0,
+      "flag_not_star": 0,
+      "flag_not_submit": 0,
+      "flag_late_redo": 0,
+      "flag_late_submit": 0,
+      "flag_status_mark": 0,
+      "updated_by": "1779875378vawpfok6ii4u",
+      "updated": "2026-07-15 21:40:03",
+      "created_by": "1779875378vawpfok6ii4u",
+      "created": "2026-07-12 21:51:32",
+      "correct_answer": 30,
+      "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+      "submitted_at": "2026-07-12 21:51:32",
+      "re_submitted_at": null,
+      "answers": [
+        {
+          "id": 8154906,
+          "question_id": 44568,
+          "choice_id": 38284,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154907,
+          "question_id": 44569,
+          "choice_id": null,
+          "user_id": null,
+          "content": "Đoạn F dòng 2",
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154908,
+          "question_id": 44570,
+          "choice_id": null,
+          "user_id": null,
+          "content": "Đoạn C dòng 1",
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154909,
+          "question_id": 44571,
+          "choice_id": null,
+          "user_id": null,
+          "content": "Đoạn E - dòng 1",
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154910,
+          "question_id": 44572,
+          "choice_id": null,
+          "user_id": null,
+          "content": "Đoạn A dòng 1",
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154911,
+          "question_id": 44573,
+          "choice_id": 38287,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154912,
+          "question_id": 44574,
+          "choice_id": 38288,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154913,
+          "question_id": 44575,
+          "choice_id": 38292,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154914,
+          "question_id": 44576,
+          "choice_id": 38300,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154915,
+          "question_id": 44577,
+          "choice_id": 38302,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154916,
+          "question_id": 44578,
+          "choice_id": 38313,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154917,
+          "question_id": 44579,
+          "choice_id": 38315,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154918,
+          "question_id": 44580,
+          "choice_id": 38323,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154919,
+          "question_id": 44581,
+          "choice_id": 38327,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154920,
+          "question_id": 44582,
+          "choice_id": 38329,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154921,
+          "question_id": 44583,
+          "choice_id": 38333,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154922,
+          "question_id": 44584,
+          "choice_id": null,
+          "user_id": null,
+          "content": "suit everyone",
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154923,
+          "question_id": 44584,
+          "choice_id": null,
+          "user_id": null,
+          "content": "draw attention",
+          "student_challenge_id": 84206,
+          "index": 1,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154924,
+          "question_id": 44584,
+          "choice_id": null,
+          "user_id": null,
+          "content": "reindeer skins",
+          "student_challenge_id": 84206,
+          "index": 2,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154925,
+          "question_id": 44584,
+          "choice_id": null,
+          "user_id": null,
+          "content": "busy lives",
+          "student_challenge_id": 84206,
+          "index": 3,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154926,
+          "question_id": 44585,
+          "choice_id": 38337,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154927,
+          "question_id": 44586,
+          "choice_id": null,
+          "user_id": null,
+          "content": "present simple",
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154928,
+          "question_id": 44586,
+          "choice_id": null,
+          "user_id": null,
+          "content": "present simple",
+          "student_challenge_id": 84206,
+          "index": 1,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154929,
+          "question_id": 44586,
+          "choice_id": null,
+          "user_id": null,
+          "content": "past simple",
+          "student_challenge_id": 84206,
+          "index": 2,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154930,
+          "question_id": 44586,
+          "choice_id": null,
+          "user_id": null,
+          "content": "past simple",
+          "student_challenge_id": 84206,
+          "index": 3,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154931,
+          "question_id": 44587,
+          "choice_id": 38338,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154932,
+          "question_id": 44588,
+          "choice_id": 38340,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154933,
+          "question_id": 44589,
+          "choice_id": 38343,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154934,
+          "question_id": 44590,
+          "choice_id": 38344,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154935,
+          "question_id": 44591,
+          "choice_id": 38347,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154936,
+          "question_id": 44592,
+          "choice_id": null,
+          "user_id": null,
+          "content": "shares",
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154937,
+          "question_id": 44592,
+          "choice_id": null,
+          "user_id": null,
+          "content": "lived",
+          "student_challenge_id": 84206,
+          "index": 1,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154938,
+          "question_id": 44592,
+          "choice_id": null,
+          "user_id": null,
+          "content": "stayed",
+          "student_challenge_id": 84206,
+          "index": 2,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154939,
+          "question_id": 44592,
+          "choice_id": null,
+          "user_id": null,
+          "content": "has",
+          "student_challenge_id": 84206,
+          "index": 3,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154940,
+          "question_id": 44592,
+          "choice_id": null,
+          "user_id": null,
+          "content": "moved",
+          "student_challenge_id": 84206,
+          "index": 4,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154941,
+          "question_id": 44593,
+          "choice_id": null,
+          "user_id": null,
+          "content": "enjoy being close to nature.",
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154942,
+          "question_id": 44594,
+          "choice_id": null,
+          "user_id": null,
+          "content": "Love the feeling of being surrounded by the natural world.",
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154943,
+          "question_id": 44595,
+          "choice_id": null,
+          "user_id": null,
+          "content": "a see-through house",
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154944,
+          "question_id": 44596,
+          "choice_id": null,
+          "user_id": null,
+          "content": "all the walls are made of glass",
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154945,
+          "question_id": 44597,
+          "choice_id": null,
+          "user_id": null,
+          "content": "It wouldn't suit everyone",
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154946,
+          "question_id": 44598,
+          "choice_id": null,
+          "user_id": null,
+          "content": "They are cheap to buy and eco-friendly.",
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154947,
+          "question_id": 44599,
+          "choice_id": null,
+          "user_id": null,
+          "content": "normal house : ngôi nhà bình thường\npermanently: vĩnh viễn\nsurround: bao quanh\neco-friendly: thân thiện với môi trường\nutility rooms: phòng tiện ích\nrefugee: người tị nạn\none-meter-square house: nhà một mét vuông\nIt's so cold here-minus 5 degrees centigrade: Trời lạnh quá ở đây - âm 5 độ C\nreindeer: tuân lộc\nrecent holiday: kì nghỉ gần đây",
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8154948,
+          "question_id": 44600,
+          "choice_id": null,
+          "user_id": null,
+          "content": "https://drive.google.com/drive/folders/10HGaOwgD3C5E1LFvEsqf6GwdNN7SmX_N?usp=sharing",
+          "student_challenge_id": 84206,
+          "index": 0,
+          "created_at": "2024-10-04 00:00:28",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        }
+      ],
+      "tab_switch_count": 0
+    }
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "84206",
+        "challenge_id": 33068,
+        "class_id": "177286917873dop75b27mv",
+        "day": 14,
+        "deadline": "2026-07-13 12:30:00",
+        "flag_status_mark": 0,
+        "flag_not_submit": 1,
+        "created": "2026-07-11 19:06:58",
+        "created_by": null,
+        "challenge": {
+          "id": "33068",
+          "title": "[PRE IELTS] LESSON 14 - CHALLENGE 1",
+          "note": "Grammar (Will, be going to)",
+          "day": "31",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "161433861829325240c1g7",
+          "created": "2026-07-11 19:06:55",
+          "updated": null,
+          "created_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+          "updated_by": null,
+          "total_question": 32,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 8076
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 576620,
+        "class_challenge_id": 84206,
+        "class_id": "177286917873dop75b27mv",
+        "challenge_id": 33068,
+        "cts_id": "1780455880vwydc1i2ehir",
+        "rate": 1,
+        "comment": "<p>Hi Khánh, bài này em làm tốt nhé. Em cũng đừng quên học thêm các từ mới trong DC để mở rộng vốn từ của mình hơn nha.</p>",
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": "graded",
+        "status_mark_date": "2026-07-15 21:40:03",
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": "1779875378vawpfok6ii4u",
+        "updated": "2026-07-15 21:40:03",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-07-12 21:51:32",
+        "correct_answer": 30,
+        "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+        "submitted_at": "2026-07-12 21:51:32",
+        "re_submitted_at": null,
+        "answers": {
+          "316825": {
+            "total_question": 9,
+            "total_correct_result_answer": 8,
+            "user_answer": {
+              "input_0": "will you be",
+              "input_1": "will be",
+              "input_2": "'ll miss",
+              "input_3": "will i hear",
+              "input_4": "'ll get",
+              "input_5": "'ll talk",
+              "input_6": "'ll buy",
+              "input_7": "'ll take",
+              "input_8": "will make"
+            },
+            "correct_answer": {
+              "input_0": [
+                "will you be"
+              ],
+              "input_1": [
+                "'ll be",
+                "will be"
+              ],
+              "input_2": [
+                "'ll miss",
+                "will miss"
+              ],
+              "input_3": [
+                "Will I hear"
+              ],
+              "input_4": [
+                "'ll get",
+                "will get"
+              ],
+              "input_5": [
+                "'ll talk",
+                "will talk"
+              ],
+              "input_6": [
+                "'ll buy",
+                "will buy"
+              ],
+              "input_7": [
+                "'ll take",
+                "will take"
+              ],
+              "input_8": [
+                "won't make"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": false
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 316825,
+            "challenge_id": 33068
+          },
+          "316826": {
+            "total_question": 10,
+            "total_correct_result_answer": 10,
+            "user_answer": {
+              "input_0": "are going to",
+              "input_1": "will",
+              "input_2": "will",
+              "input_3": "is going to",
+              "input_4": "will",
+              "input_5": "are going to",
+              "input_6": "won't",
+              "input_7": "are going to",
+              "input_8": "will",
+              "input_9": "are you going to"
+            },
+            "correct_answer": {
+              "input_0": [
+                "are going to",
+                "'re going to"
+              ],
+              "input_1": [
+                "will"
+              ],
+              "input_2": [
+                "will ",
+                "'ll"
+              ],
+              "input_3": [
+                "is going to",
+                "'s going to"
+              ],
+              "input_4": [
+                "will"
+              ],
+              "input_5": [
+                "are going to",
+                "'re going to"
+              ],
+              "input_6": [
+                "won't",
+                "will not"
+              ],
+              "input_7": [
+                "are going to"
+              ],
+              "input_8": [
+                "will",
+                "'ll"
+              ],
+              "input_9": [
+                "are you going to"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 316826,
+            "challenge_id": 33068
+          },
+          "316827": {
+            "total_question": 5,
+            "total_correct_result_answer": 5,
+            "user_answer": {
+              "input_0": "am going to Da Nang",
+              "input_1": "am going to spend time with my best friends",
+              "input_2": "will be very hot and sunny",
+              "input_3": "are going to bring our bikinis and lots of sunscreen",
+              "input_4": "will lie on the beach and get a suntan"
+            },
+            "correct_answer": {
+              "input_0": [
+                "'m going to Da Nang",
+                "am going to Da Nang"
+              ],
+              "input_1": [
+                "'m going to spend time with my best friends",
+                "am going to spend time with my best friends"
+              ],
+              "input_2": [
+                "will be very hot and sunny",
+                "'ll be very hot and sunny"
+              ],
+              "input_3": [
+                "are going to bring our bikinis and lots of sunscreen",
+                "'re going to bring our bikinis and lots of sunscreen"
+              ],
+              "input_4": [
+                "will lie on the beach and get a suntan",
+                "'ll lie on the beach and get a suntan"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 316827,
+            "challenge_id": 33068
+          },
+          "316828": {
+            "total_question": 4,
+            "total_correct_result_answer": 3,
+            "user_answer": {
+              "input_0": "is going to rain heavily again",
+              "input_1": "are going to go on a romantic holiday to Da Lat",
+              "input_2": "will stay at my uncle's homestay",
+              "input_3": "am going to take my fiance to some small vendors to have some porridge and warm soy milk"
+            },
+            "correct_answer": {
+              "input_0": [
+                "is going to rain heavily again",
+                "'s going to rain heavily again"
+              ],
+              "input_1": [
+                "are going to go on a romantic holiday in Da Lat",
+                "'re going to go on a romantic holiday in Da Lat"
+              ],
+              "input_2": [
+                "will stay at my uncle's homestay",
+                "'ll stay at my uncle's homestay"
+              ],
+              "input_3": [
+                "'m going to take my fiance to some small vendors to have some porridge and warm soy milk",
+                "am going to take my fiance to some small vendors to have some porridge and warm soy milk"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": false,
+              "input_2": true,
+              "input_3": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 316828,
+            "challenge_id": 33068
+          },
+          "316829": {
+            "total_question": 4,
+            "total_correct_result_answer": 4,
+            "user_answer": {
+              "input_0": "will go backpacking",
+              "input_1": "am going to go on this adventure on my own",
+              "input_2": "will be nice with lots of sea breeze",
+              "input_3": "am going to enjoy delicious food and take many pictures to add to my blog"
+            },
+            "correct_answer": {
+              "input_0": [
+                "will go backpacking",
+                "'ll go backpacking"
+              ],
+              "input_1": [
+                "'m going to go on this adventure on my own",
+                "am going to go on this adventure on my own"
+              ],
+              "input_2": [
+                "will be nice with lots of sea breeze",
+                "'ll be nice with lots of sea breeze"
+              ],
+              "input_3": [
+                "am going to enjoy delicious food and take many pictures to add to my blog",
+                "'m going to enjoy delicious food and take many pictures to add to my blog"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 316829,
+            "challenge_id": 33068
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 89023,
+          "content": "<p> </p>\n<p><span style=\"font-size: 16pt;\"><span style=\"box-sizing: border-box; font-weight: bolder; color: #ffffff; font-family: Nunito-ExtraBold;\"><span style=\"color: #000000;\"><span style=\"box-sizing: border-box; font-weight: bolder; color: #ffffff; font-family: Nunito-ExtraBold;\">PRICES</span></span></span></span></p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 33068,
+          "id": 316825,
+          "name": null,
+          "title": "GRAMMAR: WILL & BE GOING TO",
+          "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Exercise 1. Complete the dialogue using future simple and its contraction form </strong><em>(Ho&agrave;n thiện đoạn hội thoại sử dụng tương lai đơn v&agrave; dạng r&uacute;t gọn của n&oacute;)</em></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span data-cke-copybin-start=\"1\">​<img src=\"https://api-quiz-maker.langgo.vn/storage/images/1711775038.png\" alt=\"\" width=\"118\" height=\"118\" /></span><span data-cke-copybin-end=\"1\">​</span></span></p>",
+          "explain": "<div id=\"chat-history\">\n<div id=\"565ce3d7fa08da1f\">\n<div>\n<div>\n<div>\n<div id=\"model-response-message-contentr_565ce3d7fa08da1f\">\n<p><strong>John:</strong> Mom and Dad, will you be back soon?<em> (Bố mẹ ơi, bố mẹ sẽ về sớm không ạ?)</em></p>\n<p><strong>Mom:</strong> Yes, we will. We will be back in a week. <em>(Có chứ. Bố mẹ sẽ về trong một tuần nữa.)</em></p>\n<p><strong>John:</strong> I'll miss you. <em>(Con sẽ nhớ bố mẹ.)</em></p>\n<p><strong>Mom:</strong> We’ll miss you too, honey. <em>(Bố mẹ cũng sẽ nhớ con, con yêu.)</em></p>\n<p><strong>John:</strong> Will I hear from you? <em>(Con có được nghe tin từ bố mẹ không ạ?)</em></p>\n<p><strong>Dad:</strong> Yes, you will. You will get a postcard every day and you will talk to us on the phone every day. Ah, I will buy a lot of souvenirs for you. <em>(Có chứ. Con sẽ nhận được một bưu thiếp mỗi ngày và con sẽ nói chuyện với bố mẹ qua điện thoại mỗi ngày. À, bố sẽ mua rất nhiều đồ lưu niệm cho con.)</em></p>\n<p><strong>Mom:</strong> Oh, that’s our taxi. <em>(Ôi, taxi của chúng ta đến rồi.)</em></p>\n<p><strong>Grandma:</strong> Don’t worry about anything. We’ll be fine. <em>(Đừng lo lắng gì cả. Bọn ta sẽ ổn thôi.)</em></p>\n<p><strong>Grandpa:</strong> We will take good care of John. You need to go or you won’t make it on time. <em>(Bọn ta sẽ chăm sóc John chu đáo. Hai con cần phải đi thôi, nếu không sẽ không đến đúng giờ đâu.)</em></p>\n<p><strong>Mom &amp; Dad:</strong> Bye, we love you. <em>(Tạm biệt, bố mẹ yêu các con.)</em></p>\n<p><strong>(a minute later)</strong> <em>(một phút sau)</em></p>\n<p><strong>John:</strong> Alright, Grandma and Grandpa, let’s party! <em>(Được rồi, bà và ông ơi, chúng ta mở tiệc thôi!)</em></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div>\n<div data-node-type=\"input-area\">\n<div>\n<div>\n<div>\n<div>\n<div role=\"textbox\" contenteditable=\"true\" data-gramm=\"false\" aria-multiline=\"true\" aria-label=\"Nhập câu lệnh tại đây\" data-placeholder=\"Hỏi Gemini\"> </div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 76536,
+              "content": "<p style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt;\" data-cke-copybin-start=\"1\">​</span><strong style=\"font-size: 12pt;\">John: </strong><span style=\"font-size: 12pt;\">Mom and Dad,</span><span style=\"font-size: 12pt;\"> </span><strong style=\"font-size: 12pt;\">(1)</strong><span style=\"font-size: 12pt;\"> </span><span style=\"font-size: 12pt;\">[input_0] (you/be) back soon?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt;\"><strong>Mom: </strong>Yes, we will. We </span><strong style=\"font-size: 16px;\">(2) </strong><span style=\"font-size: 12pt;\">[input_1] (be) back in a week</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt;\"><strong>John:</strong> I </span><strong style=\"font-size: 16px;\">(3) </strong><span style=\"font-size: 12pt;\">[input_2] (miss) you</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Mom: </strong>We'll miss you too, honey.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt;\"><strong>John: </strong></span><strong style=\"font-size: 16px;\">(4) </strong><span style=\"font-size: 12pt;\">[input_3]</span><span style=\"font-size: 12pt;\"> (I/hear) from you?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt;\"><strong>Dad: </strong>Yes, you will. You </span><strong style=\"font-size: 16px;\">(5) </strong><span style=\"font-size: 12pt;\">[input_4] (get) a postcard every day and you </span><strong style=\"font-size: 16px;\">(6) </strong><span style=\"font-size: 12pt;\">[input_5] (talk) to us on the phone every day. Ah, I </span><strong style=\"font-size: 16px;\">(7) </strong><span style=\"font-size: 12pt;\">[input_6]</span><span style=\"font-size: 12pt;\"> (buy) a lot of </span><span style=\"background-color: #ffcccc;\">souvenirs</span><span style=\"font-size: 12pt;\"> </span><em style=\"font-size: 12pt;\">(đồ lưu niệm)</em><span style=\"font-size: 12pt;\"> for you. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Mom: </strong>Oh, that's our taxi.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Grandma: </strong>Don't worry about anything. We'll be fine.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt;\"><strong>Grandpa: </strong>We </span><strong style=\"font-size: 16px;\">(8) </strong><span style=\"font-size: 12pt;\">[input_7] (take) good care of John. You need to go or you </span><strong style=\"font-size: 16px;\">(9) </strong><span style=\"font-size: 12pt;\">[input_8]</span><span style=\"font-size: 12pt;\"> (make) it on time.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Mom & Dad: </strong>Bye, we love you.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>(a minute later)</strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>John: </strong>Alright, Grandma and Grandpa, let's party! </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1715737337.png\" alt=\"\" width=\"101\" height=\"101\" /></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 33068,
+          "id": 316826,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-e5a92957-7fff-1495-6baf-30d951845fc6\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Ex2. Fill in the correct form of </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">will</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> or be </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">going to</span></strong><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>.</strong> </span><em><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Điền vào dạng đúng của will hoặc be going to)</span></em></span></p>",
+          "explain": "<p><strong>1. Based on their findings, scientists say we are going to have a bad winter this year.</strong></p>\n<p><strong>Giải thích:</strong> Việc có một mùa đông tồi tệ được dự đoán dựa trên bằng chứng cụ thể (<strong>\"findings\"</strong>). Đây không phải là một dự đoán ngẫu nhiên, nên ta dùng <strong>\"be going to\"</strong>.</p>\n<p><em><strong>Dịch:</strong> Dựa trên những phát hiện của họ, các nhà khoa học nói rằng chúng ta sẽ có một mùa đông khắc nghiệt trong năm nay.</em></p>\n<p><strong>2. The driver will help you with your bags.</strong></p>\n<p><strong>Giải thích:</strong> Hành động <strong>\"will help\"</strong> là một lời đề nghị giúp đỡ tại thời điểm nói. Ta dùng <strong>\"will\"</strong> trong trường hợp này.</p>\n<p><em><strong>Dịch:</strong> Tài xế sẽ giúp bạn với túi xách.</em></p>\n<p><strong>3. That dog will bite you if you tease it.</strong></p>\n<p><strong>Giải thích:</strong> Đây là một lời cảnh báo về điều có thể xảy ra trong tương lai (tương lai đơn dùng cho câu điều kiện loại 1). Ta dùng <strong>\"will\"</strong>.</p>\n<p><em><strong>Dịch:</strong> Con chó đó sẽ cắn bạn nếu bạn trêu chọc nó.</em></p>\n<p><strong>4. My sister has been accepted. She is going to study at Harvard next year.</strong></p>\n<p><strong>Giải thích:</strong> Việc học ở Harvard là một kế hoạch chắc chắn và đã được quyết định (<strong>\"has been accepted\"</strong>). Ta dùng <strong>\"be going to\"</strong>.</p>\n<p><em><strong>Dịch:</strong> Chị gái tôi đã được chấp nhận. Chị ấy sẽ học ở Harvard vào năm sau.</em></p>\n<p><strong>5. I can’t decide. I guess I will buy the blue dress.</strong></p>\n<p><strong>Giải thích:</strong> Hành động <strong>\"will buy\"</strong> là một quyết định được đưa ra ngay tại thời điểm nói (<strong>\"I can't decide\"</strong>). Ta dùng <strong>\"will\"</strong>.</p>\n<p><em><strong>Dịch:</strong> Tôi không thể quyết định được. Tôi nghĩ là tôi sẽ mua chiếc váy màu xanh.</em></p>\n<p><strong>6. We are going to have a party on Saturday. Can you come?</strong></p>\n<p><strong>Giải thích:</strong> Việc tổ chức một bữa tiệc vào thứ Bảy là một kế hoạch đã được sắp xếp trước. Câu hỏi <strong>\"Can you come?\"</strong> củng cố ý này. Ta dùng <strong>\"be going to\"</strong>.</p>\n<p><em><strong>Dịch:</strong> Chúng tôi sẽ tổ chức một bữa tiệc vào thứ Bảy. Bạn có thể đến không?</em></p>\n<p><strong>7. She hates vegetables. She won't eat that salad.</strong></p>\n<p><strong>Giải thích:</strong> Lời từ chối hay không sẵn lòng làm gì đó thường dùng <strong>\"will not\"</strong> hoặc <strong>\"won't\"</strong>.</p>\n<p><em><strong>Dịch:</strong> Cô ấy ghét rau. Cô ấy sẽ không ăn món salad đó đâu.</em></p>\n<p><strong>8. My friends are going to celebrate Christmas at home.</strong></p>\n<p><strong>Giải thích:</strong> Đây là một kế hoạch trong tương lai gần. Dùng <strong>\"be going to\"</strong> để nói về kế hoạch đã được quyết định.</p>\n<p><em><strong>Dịch:</strong> Bạn bè tôi sẽ đón Giáng sinh tại nhà.</em></p>\n<p><strong>9. The telephone is ringing. I will answer it!</strong></p>\n<p><strong>Giải thích:</strong> Hành động <strong>\"will answer\"</strong> là một quyết định tức thì, được đưa ra ngay khi điện thoại đổ chuông. Ta dùng <strong>\"will\"</strong>.</p>\n<p><em><strong>Dịch:</strong> Điện thoại đang reo. Tôi sẽ nghe máy!</em></p>\n<p><strong>10.What are you going to do next weekend?</strong></p>\n<p><strong>Giải thích:</strong> Câu hỏi này dùng để hỏi về kế hoạch trong tương lai (<strong>\"next weekend\"</strong>). Ta dùng <strong>\"be going to\"</strong>.</p>\n<p><em><strong>Dịch:</strong> Bạn sẽ làm gì vào cuối tuần tới?</em></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 76537,
+              "content": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. Based on their findings, scientists say we <span style=\"font-size: 12pt; white-space-collapse: preserve;\">[input_0]</span></span><span style=\"background-color: transparent; font-size: 12pt; white-space-collapse: preserve;\"> have a bad winter this year.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. The driver <span style=\"font-size: 12pt; white-space-collapse: preserve;\">[input_1]</span></span><span style=\"background-color: transparent; font-size: 12pt; white-space-collapse: preserve;\"> help you with your bags.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. That dog <span style=\"font-size: 12pt; white-space-collapse: preserve;\">[input_2]</span></span><span style=\"background-color: transparent; font-size: 12pt; white-space-collapse: preserve;\"> bite you if you tease it.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. My sister has been accepted. She <span style=\"font-size: 12pt; white-space-collapse: preserve;\">[input_3]</span></span><span style=\"background-color: transparent; font-size: 12pt; white-space-collapse: preserve;\"> study at Harvard next year.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. I can't decide. I guess I [input_4] buy the blue dress.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. We <span style=\"font-size: 12pt; white-space-collapse: preserve;\"><span style=\"font-size: 12pt; white-space-collapse: preserve;\">[input_5]</span></span></span><span style=\"background-color: transparent; font-size: 12pt; white-space-collapse: preserve;\"> have a party on Saturday. Can you come?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. She hates vegetables. She <span style=\"font-size: 12pt; white-space-collapse: preserve;\">[input_6]</span></span><span style=\"background-color: transparent; font-size: 12pt; white-space-collapse: preserve;\"> eat that salad. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. My friends <span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; background-color: transparent; vertical-align: baseline;\"><span style=\"font-size: 12pt;\">[input_7]</span></span> celebrate Christmas at home.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9. The telephone is ringing. I <span style=\"font-size: 12pt; white-space-collapse: preserve;\">[input_8]</span></span><span style=\"background-color: transparent; font-size: 12pt; white-space-collapse: preserve;\"> answer it!</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">10. What [input_9] (you) do next weekend?</span></p>\n<p><span id=\"docs-internal-guid-5cb5334e-7fff-8b9a-95e7-eee9de68ec1c\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 33068,
+          "id": 316827,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Exercise 3. Complete the following traveling plans </strong><em>(Hoàn thiện các kế hoạch du lịch sau đây dựa vào gợi ý trong ngoặc)</em></span></p>\n<p> </p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span data-cke-copybin-start=\"1\">​<img src=\"https://api-quiz-maker.langgo.vn/storage/images/1711775088.png\" alt=\"\" width=\"100\" height=\"100\" />Duong</span><span data-cke-copybin-end=\"1\">​</span></span></p>",
+          "explain": "<h6>Đáp án và giải thích</h6>\n<ol start=\"1\">\n<li>\n<p><strong>Next week, I am going to Da Nang</strong> (present continuous - go - Da Nang).</p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Hành động đi Đà Nẵng vào tuần tới là một kế hoạch đã được sắp xếp, vì vậy ta dùng thì hiện tại tiếp diễn <strong>\"am going\"</strong>.</p>\n</li>\n</ul>\n</li>\n<li>\n<p>I’m not into traveling alone because it’s no fun, so I <strong>am going to spend time with my best friends</strong> (be going to - spend time - best friends).</p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Kế hoạch dành thời gian cho bạn bè đã được quyết định, nên ta dùng <strong>\"be going to\"</strong>.</p>\n</li>\n</ul>\n</li>\n<li>\n<p>It’s summertime, so I think it <strong>will be very hot and sunny</strong> (future simple - very hot and sunny) there.</p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Đây là một dự đoán không có căn cứ cụ thể, chỉ dựa trên suy nghĩ cá nhân (\"I think\"), vì vậy ta dùng thì tương lai đơn <strong>\"will be\"</strong>.</p>\n</li>\n</ul>\n</li>\n<li>\n<p>My friends and I <strong>are going to bring our bikinis and lots of sunscreen</strong> (be going to - bring our bikinis - and - lots of - sunscreen).</p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Việc mang theo bikini và kem chống nắng là một kế hoạch đã được lên từ trước cho chuyến đi, nên ta dùng <strong>\"be going to\"</strong>.</p>\n</li>\n</ul>\n</li>\n<li>\n<p>Probably we <strong>will lie on the beach and get a suntan</strong> (future simple - lie - beach - and - get a suntan).</p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Đây là một hành động có thể xảy ra nhưng không chắc chắn (<strong>\"Probably\"</strong>), vì vậy ta dùng thì tương lai đơn <strong>\"will lie\"</strong>.</p>\n</li>\n</ul>\n</li>\n</ol>\n<h6><em>Dịch bài</em></h6>\n<p><em>Tuần tới, tôi <strong>sẽ đi</strong> Đà Nẵng. Tôi không thích du lịch một mình vì chẳng có gì vui cả, nên tôi <strong>sẽ dành thời gian</strong> cho những người bạn thân nhất của mình. Bây giờ là mùa hè, nên tôi nghĩ trời ở đó <strong>sẽ rất nóng và nhiều nắng</strong>. Bạn bè tôi và tôi <strong>sẽ mang theo</strong> bikini và rất nhiều kem chống nắng. Có lẽ chúng tôi <strong>sẽ nằm dài trên bãi biển và tắm nắng</strong>.</em></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 76538,
+              "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong>a.</strong> Next week, I [input_0] (present continuous - go - Da Nang). I'm not into traveling alone because it's no fun, so I [input_1] (be going to - spend time - best friends). It's summertime, so I think it [input_2] (future simple - very hot and sunny) there. My friends and I [input_3] (be going to - bring our bikinis - and - lots of - <span style=\"background-color: #ffcccc;\">sunscreen</span> <em>(kem chống nắng)</em>). Probably we [input_4] (future simple - lie - beach - and - <span style=\"background-color: #ffcccc;\">get a suntan</span> <em>(tắm nắng)</em>).</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 33068,
+          "id": 316828,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\" data-cke-copybin-start=\"1\">​<img src=\"https://api-quiz-maker.langgo.vn/storage/images/1711775139.png\" alt=\"\" width=\"100\" height=\"100\" /></span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">Thanh</span></p>",
+          "explain": "<h6>Đáp án và giải thích</h6>\n<ol start=\"1\">\n<li>\n<p><strong>Oh, look at those black clouds! It is going to rain heavily again</strong> (be going to - rain heavily - again).</p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Việc trời sắp mưa được dự đoán dựa trên dấu hiệu rõ ràng ở hiện tại (<strong>\"look at those black clouds!\"</strong>), nên ta dùng <strong>\"be going to\"</strong>.</p>\n</li>\n</ul>\n</li>\n<li>\n<p>My fiance and I can’t stand this, so we <strong>are going to go on a romantic holiday in Da Lat</strong> (be going to - go on a romantic holiday - Da Lat) in the next 2 days.</p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Chuyến đi Đà Lạt là một kế hoạch đã được quyết định và sắp xếp, nên ta dùng <strong>\"be going to\"</strong>.</p>\n</li>\n</ul>\n</li>\n<li>\n<p>Maybe we <strong>will stay at my uncle's homestay</strong> (future simple - stay - my uncle’s homestay) there...</p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Hành động này chỉ là một khả năng, chưa chắc chắn (<strong>\"Maybe\"</strong>), nên ta dùng thì tương lai đơn <strong>\"will\"</strong>.</p>\n</li>\n</ul>\n</li>\n<li>\n<p>...and I <strong>am going to take my fiance to some small vendors to have some porridge and warm soy milk</strong> (be going to - take my fiance to - small vendors - have some porridge - warm soy milk).</p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Việc đưa vị hôn thê đi ăn là một kế hoạch đã được quyết định trong chuyến đi, nên ta dùng <strong>\"be going to\"</strong>.</p>\n</li>\n</ul>\n</li>\n</ol>\n<h6><em>Dịch bài</em></h6>\n<p><em>Ôi, nhìn những đám mây đen kia kìa! Trời <strong>sắp mưa to</strong> nữa rồi. Thật thất vọng vì đang là mùa mưa ở Sài Gòn. Hôn thê của tôi và tôi không chịu nổi điều này, nên chúng tôi <strong>sẽ đi nghỉ lãng mạn</strong> ở Đà Lạt trong 2 ngày tới. Có lẽ chúng tôi <strong>sẽ ở lại</strong> homestay của chú tôi ở đó, và tôi <strong>sẽ đưa hôn thê</strong> của mình đến vài hàng quán nhỏ để ăn cháo và uống sữa đậu nành nóng.</em></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 76539,
+              "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong>b.</strong> Oh, look at those black clouds! It [input_0] (be going to - rain heavily - again). I feel disappointed that it's rainy season in Sai Gon. My <span style=\"background-color: #ffcccc;\">fiance</span> <em>(hôn thê)</em> and I can't stand this, so we [input_1] (be going to - go on a romantic holiday - Da Lat) in the next 2 days. Maybe we [input_2] (future simple - stay - my uncle's homestay) there, and I [input_3] (be going to - take my fiance to - small vendors - have some <span style=\"background-color: #ffcccc;\">porridge</span> <em>(cháo)</em> - warm <span style=\"background-color: #ffcccc;\">soy milk</span> <em>(sữa đậu nành)</em>).</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 33068,
+          "id": 316829,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\" data-cke-copybin-start=\"1\">​<img src=\"https://api-quiz-maker.langgo.vn/storage/images/1711775168.png\" alt=\"\" width=\"100\" height=\"100\" /></span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\" data-cke-copybin-end=\"1\">​Ly</span></p>",
+          "explain": "<h6>Đáp án và giải thích</h6>\n<ol start=\"1\">\n<li>\n<p>Next Tet Holiday, I <strong>will go backpacking</strong> (future simple - go backpacking) in Phuket.</p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Việc đi du lịch bụi ở Phuket vào Tết này là một kế hoạch tự phát, chưa chắc chắn hoàn toàn (không có bằng chứng, thông tin chi tiết). Do đó, ta dùng thì tương lai đơn <strong>\"will\"</strong>.</p>\n</li>\n</ul>\n</li>\n<li>\n<p>I’m not very close to my family and have very few friends, so I <strong>am going to go on this adventure on my own</strong> (be going to - go on this adventure - on my own).</p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Quyết định đi một mình được đưa ra dựa trên một lý do cụ thể (\"not very close to my family...\"), thể hiện đây là một dự định chắc chắn. Do đó, ta dùng <strong>\"be going to\"</strong>.</p>\n</li>\n</ul>\n</li>\n<li>\n<p>I think the weather <strong>will be nice with lots of sea breeze</strong> (future simple - nice - with - lots of - sea breeze) there.</p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Đây là một dự đoán không có bằng chứng cụ thể mà chỉ dựa trên suy nghĩ cá nhân (\"I think\"). Do đó, ta dùng thì tương lai đơn <strong>\"will\"</strong>.</p>\n</li>\n</ul>\n</li>\n<li>\n<p>I <strong>am going to enjoy delicious food and take many pictures to add to my blog</strong> (be going to - enjoy - delicious food - and - take many pictures to add to my blog).</p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Đây là một kế hoạch đã được dự định trước cho chuyến đi, bao gồm việc ăn uống và chụp ảnh cho blog. Do đó, ta dùng <strong>\"be going to\"</strong>.</p>\n</li>\n</ul>\n</li>\n</ol>\n<h6><em>Dịch bài</em></h6>\n<p><em>Tết này, tôi <strong>sẽ đi du lịch bụi</strong> ở Phuket. Tôi không thân thiết với gia đình và có rất ít bạn bè, vì vậy tôi <strong>sẽ thực hiện chuyến phiêu lưu này một mình</strong>. Tôi nghĩ thời tiết ở đó <strong>sẽ đẹp và có nhiều gió biển mát</strong>. Tôi <strong>sẽ thưởng thức những món ăn ngon và chụp nhiều ảnh để thêm vào blog</strong> của mình.</em></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 76540,
+              "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>c.</strong> Next Tet Holiday, I [input_0] (future simple - <span style=\"background-color: #ffcccc;\">go backpacking</span> <em>(đi du lịch bụi)</em>) in Phuket. I'm not very close to my family and have very few friends, so I [input_1] (be going to -  go on this <span style=\"background-color: #ffcccc;\">adventure</span> <em>(chuyến phiêu lưu)</em> - on my own). I think the weather [input_2] (future simple - nice - with - lots of - <span style=\"background-color: #ffcccc;\">sea breeze</span> <em>(gió biển nhẹ, mát)</em>). I [input_3] (be going to - enjoy - delicious food - and - take many pictures to <span style=\"background-color: #ffcccc;\">add to my blog</span> <em>(thêm vào blog)</em>).</span></p>"
+            }
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

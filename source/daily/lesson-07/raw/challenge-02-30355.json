@@ -1,0 +1,201 @@
+{
+  "listItem": {
+    "id": "81589",
+    "challenge_id": 30355,
+    "class_id": "177286917873dop75b27mv",
+    "day": 7,
+    "deadline": "2026-06-25 12:30:00",
+    "challenge_title": "[PRE IELTS] LESSON 7 - CHALLENGE 2",
+    "challenge_note": "Shadowing | Speaking (Describing people)",
+    "challenge_status": 1,
+    "challenge_band": "161433861829325240c1g7",
+    "total_question": 1,
+    "classification": "dc",
+    "student_challenge": {
+      "id": 558594,
+      "class_challenge_id": 81589,
+      "class_id": "177286917873dop75b27mv",
+      "challenge_id": 30355,
+      "cts_id": "1780455880vwydc1i2ehir",
+      "rate": 1,
+      "comment": "<p>Hi Khánh, bài này em làm tốt nhé. Em nhớ luyện tập để trả lời thật trôi chảy nha.</p>",
+      "url": null,
+      "redo_comment": null,
+      "cancel_comment": null,
+      "date_redo": null,
+      "status_mark": "graded",
+      "status_mark_date": "2026-06-30 01:38:24",
+      "flag_overdue": 0,
+      "flag_not_star": 0,
+      "flag_not_submit": 0,
+      "flag_late_redo": 0,
+      "flag_late_submit": 0,
+      "flag_status_mark": 0,
+      "updated_by": "1779875378vawpfok6ii4u",
+      "updated": "2026-06-30 01:38:24",
+      "created_by": "1779875378vawpfok6ii4u",
+      "created": "2026-06-24 21:43:16",
+      "correct_answer": 1,
+      "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+      "submitted_at": "2026-06-24 21:43:16",
+      "re_submitted_at": null,
+      "answers": [],
+      "tab_switch_count": 0
+    }
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "81589",
+        "challenge_id": 30355,
+        "class_id": "177286917873dop75b27mv",
+        "day": 7,
+        "deadline": "2026-06-25 12:30:00",
+        "flag_status_mark": 1,
+        "flag_not_submit": 1,
+        "created": "2026-06-23 19:10:12",
+        "created_by": null,
+        "challenge": {
+          "id": "30355",
+          "title": "[PRE IELTS] LESSON 7 - CHALLENGE 2",
+          "note": "Shadowing | Speaking (Describing people)",
+          "day": "16",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "161433861829325240c1g7",
+          "created": "2026-06-23 19:10:12",
+          "updated": null,
+          "created_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+          "updated_by": null,
+          "total_question": 1,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 8062
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 558594,
+        "class_challenge_id": 81589,
+        "class_id": "177286917873dop75b27mv",
+        "challenge_id": 30355,
+        "cts_id": "1780455880vwydc1i2ehir",
+        "rate": 1,
+        "comment": "<p>Hi Khánh, bài này em làm tốt nhé. Em nhớ luyện tập để trả lời thật trôi chảy nha.</p>",
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": "graded",
+        "status_mark_date": "2026-06-30 01:38:24",
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": "1779875378vawpfok6ii4u",
+        "updated": "2026-06-30 01:38:24",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-06-24 21:43:16",
+        "correct_answer": 1,
+        "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+        "submitted_at": "2026-06-24 21:43:16",
+        "re_submitted_at": null,
+        "answers": {
+          "286769": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "https://docs.google.com/document/d/1pU1O-wqU5IYwaruIxM8waoQcBW0s64ku4cbbcKagG_I/edit?usp=sharing",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 286769,
+            "challenge_id": 30355
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 81922,
+          "content": "<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 16pt; border-radius: 0px !important; font-family: Nunito-ExtraBold; background-color: #ba372a; color: #ffffff;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\"> SHADOWING </strong></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">Học thuộc làu làu tất cả các câu sau (Ghi nhớ nghĩa và Nghe + bắt chước đúng ngữ âm, ngữ điệu và tốc độ)</strong></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">1. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 18px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"18\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709197820.mp3\" /> He's in his thirties, I guess. About 35.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">2. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 18px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"18\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709197830.mp3\" /> He's really not very tall, about 175 centimeters.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">3. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 18px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"18\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1715321928.mp3\" />He looks about 17.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">4. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 18px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"18\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1715321957.mp3\" />He's older than that. He's almost 25.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">5. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 18px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"18\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1715322014.mp3\" /></span></span><span style=\"font-family: Nunito-Regular;\">She likes to wear it really short.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-family: Nunito-Regular;\">6. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 18px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"18\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1715322035.mp3\" />No, she's really tall. About 180 centimeters.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-family: Nunito-Regular;\">7. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 18px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"18\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1715322049.mp3\" />Is she in her teens or her twenties?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-family: Nunito-Regular;\">8. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 18px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"18\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1715322068.mp3\" />She's got long, dark brown hair.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-family: Nunito-Regular;\">9. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 18px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"18\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1715322089.mp3\" />He's not very tall - about average.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-family: Nunito-Regular;\">10. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 18px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"18\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1715322106.mp3\" />Is she blond?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"> </p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        },
+        {
+          "id": 81923,
+          "content": "<p><span style=\"background-color: #ba372a; color: #ffffff; font-family: Nunito-ExtraBold; font-size: 16pt;\"> <strong>SPEAKING </strong></span></p>\n<p><span style=\"box-sizing: border-box; font-weight: bolder; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\">Chuẩn bị câu trả lời cho các câu sau, sử dụng các từ vựng, cấu trúc, câu học được phía trên và từ bài đọc Describing people ở Challenge 1.</span></p>\n<p> </p>",
+          "index": 1,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 30355,
+          "id": 286769,
+          "name": null,
+          "title": "Speaking",
+          "content": "<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">Chuẩn bị câu trả lời cho các câu sau, sử dụng các từ vựng, cấu trúc, câu học được phía trên và từ bài Listening.</strong></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">Xem thêm trong phần Gợi ý trả lời: <a style=\"box-sizing: border-box; background-color: transparent; color: #0d638f; text-decoration-line: none; outline: 0px; border-radius: 0px !important; text-shadow: none !important;\" href=\"http://docs.google.com/document/d/1dV_0DcDLS3aE23nvlFdHQbQC1v3je2G-/edit?usp=sharing&amp;ouid=116087920410815633677&amp;rtpof=true&amp;sd=true\" target=\"_blank\" rel=\"noopener\">Gợi ý</a></strong></span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">DESCRIBING PEOPLE: </strong></span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">1. What does your father look like?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">2. What does your mother look like?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">3. What does your brother/ sister look like?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">4. What kinds of clothes does he/she often wear? (gộp vào 3 câu trên, miêu tả ngoại hình + các loại quần áo thường mặc luôn)</span></span></p>\n<p><strong>Viết câu trả lời đầy đủ cho từng câu hỏi vào file google docs và nộp lại.</strong></p>\n<p><strong>GV feedback xong thì học thuộc lòng câu trả lời.</strong></p>\n<p><strong>Sau khi được GV hướng dẫn thêm trên lớp, HV tiếp tục hoàn thiện câu trả lời và luyện tập.</strong></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; color: #c0392b; border-radius: 0px !important; font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">Link google docs (mở quyền nhận xét cho GV)</strong></span></span></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

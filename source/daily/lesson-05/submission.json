@@ -1,0 +1,629 @@
+{
+  "lesson": 5,
+  "lessonKey": "lesson-05",
+  "items": [
+    {
+      "challengeId": 29470,
+      "classChallengeId": "80742",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 64,
+      "submittedAt": "2026-06-17 22:02:08",
+      "markedAt": "2026-06-21 01:34:22",
+      "commentText": "Hi Khánh, bài này em làm tốt nha.\n\r\nMình chỉ cần để ý làm bài nghe cẩn thận hơn chút là được nè. Keep going!",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "276916": {
+          "total_question": 20,
+          "total_correct_result_answer": 20,
+          "user_answer": {
+            "input_0": "say goodbye",
+            "input_2": "wake up",
+            "input_1": "open the door",
+            "input_3": "go to work",
+            "input_4": "have a bath",
+            "input_5": "take a photo",
+            "input_6": "go to the cinema",
+            "input_7": "make dinner",
+            "input_8": "wash clothes",
+            "input_9": "watch TV",
+            "input_10": "get sick",
+            "input_11": "have breakfast",
+            "input_12": "phone a friend",
+            "input_13": "make a mistake",
+            "input_14": "drive a car",
+            "input_15": "make noise",
+            "input_16": "clean the house",
+            "input_17": "take a break",
+            "input_18": "go swimming",
+            "input_19": "take the bus"
+          },
+          "correct_answer": {
+            "input_0": [
+              "say goodbye"
+            ],
+            "input_1": [
+              "open the door"
+            ],
+            "input_2": [
+              "wake up"
+            ],
+            "input_3": [
+              "go to work"
+            ],
+            "input_4": [
+              "have a bath"
+            ],
+            "input_5": [
+              "take a photo"
+            ],
+            "input_6": [
+              "go to the cinema"
+            ],
+            "input_7": [
+              "make dinner"
+            ],
+            "input_8": [
+              "wash clothes"
+            ],
+            "input_9": [
+              "watch TV"
+            ],
+            "input_10": [
+              "get sick"
+            ],
+            "input_11": [
+              "have breakfast"
+            ],
+            "input_12": [
+              "phone a friend"
+            ],
+            "input_13": [
+              "make a mistake"
+            ],
+            "input_14": [
+              "drive a car"
+            ],
+            "input_15": [
+              "make noise"
+            ],
+            "input_16": [
+              "clean the house"
+            ],
+            "input_17": [
+              "take a break"
+            ],
+            "input_18": [
+              "go swimming"
+            ],
+            "input_19": [
+              "take the bus"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true,
+            "input_10": true,
+            "input_11": true,
+            "input_12": true,
+            "input_13": true,
+            "input_14": true,
+            "input_15": true,
+            "input_16": true,
+            "input_17": true,
+            "input_18": true,
+            "input_19": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 276916,
+          "challenge_id": 29470
+        },
+        "276917": {
+          "total_question": 20,
+          "total_correct_result_answer": 20,
+          "user_answer": {
+            "input_0": "get sick",
+            "input_1": "watch TV",
+            "input_2": "drive a car",
+            "input_3": "make a mistake",
+            "input_4": "take the bus",
+            "input_5": "take a break",
+            "input_6": "have a bath",
+            "input_7": "open the door",
+            "input_8": "say goodbye",
+            "input_9": "wash clothes",
+            "input_10": "go to work",
+            "input_11": "wake up",
+            "input_12": "make dinner",
+            "input_13": "go swimming",
+            "input_14": "make noise",
+            "input_15": "clean the house",
+            "input_16": "phone a friend",
+            "input_17": "have breakfast",
+            "input_18": "take a photo",
+            "input_19": "go to the cinema"
+          },
+          "correct_answer": {
+            "input_0": [
+              "get sick"
+            ],
+            "input_1": [
+              "watch TV"
+            ],
+            "input_2": [
+              "drive a car"
+            ],
+            "input_3": [
+              "make a mistake"
+            ],
+            "input_4": [
+              "take the bus"
+            ],
+            "input_5": [
+              "take a break"
+            ],
+            "input_6": [
+              "have a bath"
+            ],
+            "input_7": [
+              "open the door"
+            ],
+            "input_8": [
+              "say goodbye"
+            ],
+            "input_9": [
+              "wash clothes"
+            ],
+            "input_10": [
+              "go to work"
+            ],
+            "input_11": [
+              "wake up"
+            ],
+            "input_12": [
+              "make dinner"
+            ],
+            "input_13": [
+              "go swimming"
+            ],
+            "input_14": [
+              "make noise"
+            ],
+            "input_15": [
+              "clean the house"
+            ],
+            "input_16": [
+              "phone a friend"
+            ],
+            "input_17": [
+              "have breakfast"
+            ],
+            "input_18": [
+              "take a photo"
+            ],
+            "input_19": [
+              "go to the cinema"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true,
+            "input_10": true,
+            "input_11": true,
+            "input_12": true,
+            "input_13": true,
+            "input_14": true,
+            "input_15": true,
+            "input_16": true,
+            "input_17": true,
+            "input_18": true,
+            "input_19": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 276917,
+          "challenge_id": 29470
+        },
+        "276918": {
+          "total_question": 20,
+          "total_correct_result_answer": 17,
+          "user_answer": {
+            "input_0": "take a photo",
+            "input_1": "wash clothes",
+            "input_2": "watch TV",
+            "input_3": "make dinner",
+            "input_4": "goes to work",
+            "input_5": "take the bus",
+            "input_6": "drive car",
+            "input_7": "say goodbye",
+            "input_8": "goes to the cinema",
+            "input_9": "open the door",
+            "input_10": "wakes up",
+            "input_11": "have breakfast",
+            "input_12": "go swimming",
+            "input_13": "have a bath",
+            "input_14": "make noise",
+            "input_15": "gets sick",
+            "input_16": "phone a friend",
+            "input_17": "take a bread",
+            "input_18": "makes a mistake",
+            "input_19": "clean the house"
+          },
+          "correct_answer": {
+            "input_0": [
+              "take a photo"
+            ],
+            "input_1": [
+              "wash clothes"
+            ],
+            "input_2": [
+              "watch TV"
+            ],
+            "input_3": [
+              "makes dinner"
+            ],
+            "input_4": [
+              "goes to work"
+            ],
+            "input_5": [
+              "take the bus"
+            ],
+            "input_6": [
+              "drive a car"
+            ],
+            "input_7": [
+              "say goodbye"
+            ],
+            "input_8": [
+              "goes to the cinema"
+            ],
+            "input_9": [
+              "Open the door"
+            ],
+            "input_10": [
+              "wakes up"
+            ],
+            "input_11": [
+              "have breakfast"
+            ],
+            "input_12": [
+              "go swimming"
+            ],
+            "input_13": [
+              "have a bath"
+            ],
+            "input_14": [
+              "make noise"
+            ],
+            "input_15": [
+              "gets sick"
+            ],
+            "input_16": [
+              "phone a friend"
+            ],
+            "input_17": [
+              "take a break"
+            ],
+            "input_18": [
+              "makes a mistake"
+            ],
+            "input_19": [
+              "clean the house"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": false,
+            "input_4": true,
+            "input_5": true,
+            "input_6": false,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true,
+            "input_10": true,
+            "input_11": true,
+            "input_12": true,
+            "input_13": true,
+            "input_14": true,
+            "input_15": true,
+            "input_16": true,
+            "input_17": false,
+            "input_18": true,
+            "input_19": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 276918,
+          "challenge_id": 29470
+        },
+        "276920": {
+          "total_question": 6,
+          "total_correct_result_answer": 3,
+          "user_answer": {
+            "input_0": "Maria",
+            "input_1": "Sujanna",
+            "input_2": "Harry Wilson",
+            "input_3": "Abramsom",
+            "input_4": "Louis",
+            "input_5": "Mialy Cruise"
+          },
+          "correct_answer": {
+            "input_0": [
+              "Maria Carter",
+              "Maria"
+            ],
+            "input_1": [
+              "Suzanna Smith",
+              "Suzanna"
+            ],
+            "input_2": [
+              "Harry Wilson",
+              "Harry"
+            ],
+            "input_3": [
+              "Joseph Abramson",
+              "Abramson"
+            ],
+            "input_4": [
+              "Louis Jackson",
+              "Louis"
+            ],
+            "input_5": [
+              "Marley Cruise",
+              "Marley",
+              "Cruise"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": false,
+            "input_2": true,
+            "input_3": false,
+            "input_4": true,
+            "input_5": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 276920,
+          "challenge_id": 29470
+        },
+        "276921": {
+          "total_question": 6,
+          "total_correct_result_answer": 4,
+          "user_answer": {
+            "input_0": "Jackson",
+            "input_1": "6913839",
+            "input_3": "83918264",
+            "input_4": "Brian Kennedy",
+            "input_5": "2718914",
+            "input_2": "Nancy"
+          },
+          "correct_answer": {
+            "input_0": [
+              "Bob Jackson"
+            ],
+            "input_1": [
+              "6913839"
+            ],
+            "input_2": [
+              "Nancy"
+            ],
+            "input_3": [
+              "3918246"
+            ],
+            "input_4": [
+              "Brian Kennedy"
+            ],
+            "input_5": [
+              "2718914"
+            ]
+          },
+          "result_answer": {
+            "input_0": false,
+            "input_1": true,
+            "input_2": true,
+            "input_3": false,
+            "input_4": true,
+            "input_5": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 276921,
+          "challenge_id": 29470
+        }
+      }
+    },
+    {
+      "challengeId": 29471,
+      "classChallengeId": "80743",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 17,
+      "submittedAt": "2026-06-17 22:23:35",
+      "markedAt": "2026-06-21 01:42:27",
+      "commentText": "Hi Khánh, bài này em làm khá tốt nha. \n\r\nEm xem kĩ các câu sai để rút kinh nghiệm cho bài sau nhé.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "276922": {
+          "total_question": 13,
+          "total_correct_result_answer": 12,
+          "user_answer": {
+            "input_0": "wake up",
+            "input_1": "brush my teeth",
+            "input_2": "wash",
+            "input_3": "have breakfast",
+            "input_4": "go to school",
+            "input_5": "study",
+            "input_6": "play sports",
+            "input_7": "go home",
+            "input_8": "have dinner",
+            "input_9": "go to the restaurant",
+            "input_10": "do homework",
+            "input_11": "listien to music",
+            "input_12": "go to bed"
+          },
+          "correct_answer": {
+            "input_0": [
+              "wake up"
+            ],
+            "input_1": [
+              "brush my teeth"
+            ],
+            "input_2": [
+              "wash"
+            ],
+            "input_3": [
+              "have breakfast"
+            ],
+            "input_4": [
+              "go to school"
+            ],
+            "input_5": [
+              "study"
+            ],
+            "input_6": [
+              "play sports"
+            ],
+            "input_7": [
+              "go home"
+            ],
+            "input_8": [
+              "have dinner"
+            ],
+            "input_9": [
+              "go to the restaurant"
+            ],
+            "input_10": [
+              "do homework"
+            ],
+            "input_11": [
+              "listen to music"
+            ],
+            "input_12": [
+              "go to bed"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true,
+            "input_10": true,
+            "input_11": false,
+            "input_12": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 276922,
+          "challenge_id": 29471
+        },
+        "276923": {
+          "total_question": 5,
+          "total_correct_result_answer": 3,
+          "user_answer": {
+            "input_0": "what is the time?",
+            "input_1": "Do you have the time?",
+            "input_2": "What time is it now?",
+            "input_3": "You can tell me the time, please?",
+            "input_4": "Do you know, what time it is?"
+          },
+          "correct_answer": {
+            "input_0": [
+              "What's the time?",
+              "What is the time?"
+            ],
+            "input_1": [
+              "Do you have the time?"
+            ],
+            "input_2": [
+              "What time is it now?"
+            ],
+            "input_3": [
+              "Can you tell me the time, please?"
+            ],
+            "input_4": [
+              "Do you know what time it is?"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": false,
+            "input_4": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 276923,
+          "challenge_id": 29471
+        },
+        "276925": {
+          "total_question": 5,
+          "total_correct_result_answer": 2,
+          "user_answer": {
+            "input_0": "6:10",
+            "input_1": "12 am",
+            "input_2": "11:30",
+            "input_4": "7:15",
+            "input_3": "3:45"
+          },
+          "correct_answer": {
+            "input_0": [
+              "2:10"
+            ],
+            "input_1": [
+              "12:00"
+            ],
+            "input_2": [
+              "11:30"
+            ],
+            "input_3": [
+              "3:45"
+            ],
+            "input_4": [
+              "7:50"
+            ]
+          },
+          "result_answer": {
+            "input_0": false,
+            "input_1": false,
+            "input_2": true,
+            "input_3": true,
+            "input_4": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 276925,
+          "challenge_id": 29471
+        }
+      }
+    }
+  ]
+}

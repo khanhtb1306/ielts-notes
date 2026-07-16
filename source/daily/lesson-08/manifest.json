@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "lesson": 8,
+  "lessonKey": "lesson-08",
+  "title": "Lesson 8",
+  "source": "LangGo daily challenge API",
+  "rawFolder": "raw/",
+  "files": {
+    "overview": "overview.md",
+    "content": "content.json",
+    "exercises": "exercises.json",
+    "scripts": "scripts.json",
+    "submission": "submission.json",
+    "audioManifest": "audio/manifest.json",
+    "imageManifest": "images/manifest.json"
+  },
+  "challenges": [
+    {
+      "id": 30673,
+      "challengeId": 30673,
+      "classChallengeId": "81898",
+      "number": 1,
+      "title": "[PRE IELTS] LESSON 8 - CHALLENGE 1",
+      "note": "Grammar (Pronouns) | Vocabulary (Clothes)",
+      "day": 8,
+      "deadline": "2026-06-27 23:30:00",
+      "totalQuestion": 51,
+      "classification": "dc",
+      "rawFile": "raw/challenge-01-30673.json"
+    },
+    {
+      "id": 30674,
+      "challengeId": 30674,
+      "classChallengeId": "81899",
+      "number": 2,
+      "title": "[PRE IELTS] LESSON 8 - CHALLENGE 2",
+      "note": "Listening (Script) - Speaking dạng video",
+      "day": 8,
+      "deadline": "2026-06-27 23:30:00",
+      "totalQuestion": 15,
+      "classification": "dc",
+      "rawFile": "raw/challenge-02-30674.json"
+    }
+  ]
+}

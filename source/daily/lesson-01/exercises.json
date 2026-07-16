@@ -1,0 +1,762 @@
+{
+  "lesson": 1,
+  "lessonKey": "lesson-01",
+  "questions": [
+    {
+      "id": "question-262514",
+      "sourceQuestionId": 262514,
+      "challengeId": 28158,
+      "classChallengeId": "79471",
+      "title": null,
+      "type": 4,
+      "prompt": "1. Phần Daily Challenge của 4 lessons đầu tiên yêu cầu học viên làm gì?",
+      "introductionText": "",
+      "contentText": "1. Phần Daily Challenge của 4 lessons đầu tiên yêu cầu học viên làm gì?",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "Giải thích:\n\nTrong buổi học, giáo viên đã hướng dẫn rất kỹ về khẩu hình miệng và cách phát âm từng âm. Về nhà, HV không phải học thêm gì mới, mà chủ động luyện tập lại đúng những nội dung đã học, rồi quay video để giáo viên kiểm tra và feedback lại từng lỗi cá nhân (VD: chưa tròn môi, thiếu âm đuôi…).\n\nNếu HV chỉ học kiến thức trên lớp mà không luyện tập lại ở nhà thì thật sự rất khó cải thiện phát âm.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #ba372a;\"><strong>1. Phần Daily Challenge của 4 lessons đầu tiên yêu cầu học viên làm gì?</strong></span></p>",
+        "answerTemplate": null,
+        "explain": "<p style=\"text-align: justify; line-height: 1.5;\"><strong>Giải thích: </strong></p>\n<p style=\"text-align: justify; line-height: 1.5;\">Trong buổi học, giáo viên đã hướng dẫn rất kỹ về khẩu hình miệng và cách phát âm từng âm. Về nhà, HV không phải học thêm gì mới, mà chủ động luyện tập lại đúng những nội dung đã học, rồi quay video để giáo viên kiểm tra và feedback lại từng lỗi cá nhân (VD: chưa tròn môi, thiếu âm đuôi…).</p>\n<p style=\"text-align: justify; line-height: 1.5;\">Nếu HV chỉ học kiến thức trên lớp mà không luyện tập lại ở nhà thì thật sự rất khó cải thiện phát âm.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 531796,
+        "correctAnswer": 531796,
+        "resultAnswer": {
+          "531796": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-262515",
+      "sourceQuestionId": 262515,
+      "challengeId": 28158,
+      "classChallengeId": "79471",
+      "title": null,
+      "type": 4,
+      "prompt": "2. Trước khi quay video đọc âm và từ, học viên cần làm gì?",
+      "introductionText": "",
+      "contentText": "2. Trước khi quay video đọc âm và từ, học viên cần làm gì?",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "Giải thích:\n\nPhần audio đã được thiết kế chuẩn để HV luyện phát âm tại nhà. HV nghe kỹ audio trước sẽ giúp ghi nhớ âm thanh đúng, luyện tập bắt chước cho giống nhất, rồi mới quay video. Giáo viên sẽ chỉ ra các lỗi học viên chưa nhận thấy.\n\nNếu bỏ qua bước nghe và quay video luôn thì HV dễ đọc theo cảm tính, đọc theo thói quen cũ => không hình thành được cách đọc chuẩn.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify; line-height: 1.5;\"><span style=\"color: #ba372a;\"><strong>2. Trước khi quay video đọc âm và từ, học viên cần làm gì?</strong></span></p>",
+        "answerTemplate": null,
+        "explain": "<p style=\"text-align: justify; line-height: 1.5;\"><strong>Giải thích:</strong></p>\n<p style=\"text-align: justify; line-height: 1.5;\">Phần audio đã được thiết kế chuẩn để HV luyện phát âm tại nhà. HV nghe kỹ audio trước sẽ giúp ghi nhớ âm thanh đúng, luyện tập bắt chước cho giống nhất, rồi mới quay video. Giáo viên sẽ chỉ ra các lỗi học viên chưa nhận thấy.</p>\n<p style=\"text-align: justify; line-height: 1.5;\">Nếu bỏ qua bước nghe và quay video luôn thì HV dễ đọc theo cảm tính, đọc theo thói quen cũ =&gt; không hình thành được cách đọc chuẩn.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 531801,
+        "correctAnswer": 531801,
+        "resultAnswer": {
+          "531801": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-262516",
+      "sourceQuestionId": 262516,
+      "challengeId": 28158,
+      "classChallengeId": "79471",
+      "title": null,
+      "type": 4,
+      "prompt": "3. Từ vựng trong Daily Challenge được liên kết với điều gì?",
+      "introductionText": "",
+      "contentText": "3. Từ vựng trong Daily Challenge được liên kết với điều gì?",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "Giải thích:\n\nTừ vựng trong Daily Challenge không phải là những từ vựng ngẫu nhiên mà đã được chọn lựa theo các âm IPA học trên lớp. Mục tiêu là giúp HV luyện lại phát âm trong cụm từ thực tế.\n\nVí dụ: nếu vừa học âm /uː/, trong Daily Challenge sẽ có các cụm từ như “do the housework”, “do my homework”,... để giúp HV luyện lại chính âm đó trong ngữ cảnh thật.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: justify; line-height: 1.5;\"><span style=\"color: #ba372a;\"><strong>3. Từ vựng trong Daily Challenge được liên kết với điều gì?</strong></span></p>",
+        "answerTemplate": null,
+        "explain": "<p style=\"text-align: justify; line-height: 1.5;\"><strong>Giải thích:</strong></p>\n<p style=\"text-align: justify; line-height: 1.5;\">Từ vựng trong Daily Challenge không phải là những từ vựng ngẫu nhiên mà đã được chọn lựa theo các âm IPA học trên lớp. Mục tiêu là giúp HV luyện lại phát âm trong cụm từ thực tế.</p>\n<p style=\"text-align: justify; line-height: 1.5;\">Ví dụ: nếu vừa học âm /uː/, trong Daily Challenge sẽ có các cụm từ như “do the housework”, “do my homework”,... để giúp HV luyện lại chính âm đó trong ngữ cảnh thật. </p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 531805,
+        "correctAnswer": 531805,
+        "resultAnswer": {
+          "531805": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-262517",
+      "sourceQuestionId": 262517,
+      "challengeId": 28158,
+      "classChallengeId": "79471",
+      "title": null,
+      "type": 4,
+      "prompt": "4. Các từ vựng ở mục bên trái được cung cấp có phải hoàn toàn là các từ mới không?",
+      "introductionText": "",
+      "contentText": "4. Các từ vựng ở mục bên trái được cung cấp có phải hoàn toàn là các từ mới không?",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "Giải thích:\n\nCác từ vựng đều thuộc các chủ đề cơ bản và không hoàn toàn mới với HV thuộc đúng trình độ của khoá PRE.\n\nVới các từ quen thuộc thì là cơ hội để HV ôn tập lại, còn với các từ mới thì HV nên dành thời gian nhiều hơn để củng cố vốn từ của mình.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"line-height: 1.5;\"><span style=\"color: #ba372a;\"><strong>4. Các từ vựng ở mục bên trái được cung cấp có phải hoàn toàn là các từ mới không?</strong></span></p>",
+        "answerTemplate": null,
+        "explain": "<p style=\"text-align: justify; line-height: 1.5;\"><strong>Giải thích: </strong></p>\n<p style=\"text-align: justify; line-height: 1.5;\">Các từ vựng đều thuộc các chủ đề cơ bản và không hoàn toàn mới với HV thuộc đúng trình độ của khoá PRE.</p>\n<p style=\"text-align: justify; line-height: 1.5;\">Với các từ quen thuộc thì là cơ hội để HV ôn tập lại, còn với các từ mới thì HV nên dành thời gian nhiều hơn để củng cố vốn từ của mình.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 531808,
+        "correctAnswer": 531808,
+        "resultAnswer": {
+          "531808": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-262518",
+      "sourceQuestionId": 262518,
+      "challengeId": 28158,
+      "classChallengeId": "79471",
+      "title": null,
+      "type": 4,
+      "prompt": "5. Muốn làm đúng các bài tập từ vựng học viên cần làm gì?",
+      "introductionText": "",
+      "contentText": "5. Muốn làm đúng các bài tập từ vựng học viên cần làm gì?",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "Giải thích:\n\nCác bài tập từ vựng chỉ xoay quanh cụm từ đã cho sẵn bên trái màn hình, không yêu cầu HV phải tìm từ vựng bên ngoài. HV chỉ cần đọc kỹ, hiểu nghĩa và luyện phát âm đúng là chắc chắn làm được.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #ba372a;\"><strong>5. Muốn làm đúng các bài tập từ vựng học viên cần làm gì?</strong></span></p>",
+        "answerTemplate": null,
+        "explain": "<p style=\"text-align: justify; line-height: 1.5;\"><strong>Giải thích: </strong></p>\n<p style=\"text-align: justify; line-height: 1.5;\">Các bài tập từ vựng chỉ xoay quanh <strong>cụm từ đã cho sẵn</strong> bên trái màn hình, không yêu cầu HV phải tìm từ vựng bên ngoài. HV chỉ cần đọc kỹ, hiểu nghĩa và luyện phát âm đúng là chắc chắn làm được.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 531813,
+        "correctAnswer": 531813,
+        "resultAnswer": {
+          "531813": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-262519",
+      "sourceQuestionId": 262519,
+      "challengeId": 28158,
+      "classChallengeId": "79471",
+      "title": null,
+      "type": 4,
+      "prompt": "6. Bài tập về từ vựng có yêu cầu nhiều về ngữ pháp không?",
+      "introductionText": "",
+      "contentText": "6. Bài tập về từ vựng có yêu cầu nhiều về ngữ pháp không?",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "Giải thích:\n\nPhần bài tập từ vựng không tập trung vào ngữ pháp, mà chủ yếu giúp luyện cách sử dụng các cụm từ đã cho bên trái.\n\nTừ buổi 6 mới bắt đầu học ngữ pháp sâu hơn, nên hiện tại HV chỉ cần nhớ, hiểu và dùng đúng cụm là đủ.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #ba372a;\"><strong>6. Bài tập về từ vựng có yêu cầu nhiều về ngữ pháp không?</strong></span></p>",
+        "answerTemplate": null,
+        "explain": "<p style=\"text-align: justify; line-height: 1.5;\"><strong>Giải thích: </strong></p>\n<p style=\"text-align: justify; line-height: 1.5;\">Phần bài tập từ vựng không tập trung vào ngữ pháp, mà chủ yếu giúp luyện cách sử dụng các cụm từ đã cho bên trái.</p>\n<p style=\"text-align: justify; line-height: 1.5;\">Từ buổi 6 mới bắt đầu học ngữ pháp sâu hơn, nên hiện tại HV chỉ cần nhớ, hiểu và dùng đúng cụm là đủ.</p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 531817,
+        "correctAnswer": 531817,
+        "resultAnswer": {
+          "531817": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-262520",
+      "sourceQuestionId": 262520,
+      "challengeId": 28158,
+      "classChallengeId": "79471",
+      "title": null,
+      "type": 4,
+      "prompt": "7. Trước buổi học tiếp theo, học viên cần chuẩn bị gì theo yêu cầu của Daily Challenge?",
+      "introductionText": "",
+      "contentText": "7. Trước buổi học tiếp theo, học viên cần chuẩn bị gì theo yêu cầu của Daily Challenge?",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "Giải thích:\n\nHV cần nắm chắc các cụm từ cho sẵn, dành nhiều thời gian hơn cho các cụm bị sai khi làm bài tập, và xem kĩ feedback của GV để chủ động luyện tập, cải thiện các phần chưa tốt. Có như vậy HV mới có thể cải thiện được.\n\nĐầu giờ các buổi tiếp theo luôn có mục REVIEW yêu cầu HV nhắc lại các phần đã làm trong DC và cũng sẽ có sự hướng dẫn từ phía GV.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #ba372a;\"><strong>7. Trước buổi học tiếp theo, học viên cần chuẩn bị gì theo yêu cầu của Daily Challenge?</strong></span></p>",
+        "answerTemplate": null,
+        "explain": "<p style=\"text-align: justify; line-height: 1.5;\"><strong>Giải thích: </strong></p>\n<p style=\"text-align: justify; line-height: 1.5;\">HV cần nắm chắc các cụm từ cho sẵn, dành nhiều thời gian hơn cho các cụm bị sai khi làm bài tập, và xem kĩ feedback của GV để chủ động luyện tập, cải thiện các phần chưa tốt. Có như vậy HV mới có thể cải thiện được.</p>\n<p style=\"text-align: justify; line-height: 1.5;\">Đầu giờ các buổi tiếp theo luôn có mục REVIEW yêu cầu HV nhắc lại các phần đã làm trong DC và cũng sẽ có sự hướng dẫn từ phía GV. </p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 531821,
+        "correctAnswer": 531821,
+        "resultAnswer": {
+          "531821": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-262521",
+      "sourceQuestionId": 262521,
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "title": "I. Vocabulary",
+      "type": 1,
+      "prompt": "I. Vocabulary",
+      "introductionText": "​Exercise ​1.\n\nWrite ONE WORD from the Vocabulary section in each blank to make a meaningful sentence or conversation. (Viết MỘT TỪ từ phần Từ Vựng vào mỗi ô trống để tạo 1 câu hoặc 1 cuộc hội thoại có ý nghĩa.)",
+      "contentText": "",
+      "answerTemplateText": "1. My father is in the garden. He's doing the [input_0].\n\n2. After having dinner, please remember to do the [input_1] up.\n\n3. There's a washing machine upstairs. You can use it to do the [input_2].\n\n4. My mother told me to do the [input_3], such as cleaning the floor, tidying the bed or making dinner.\n\n5. He is doing [input_4] with a famous company from Thailand.\n\n6. What do you [input_5]? - I am a teacher.\n\n7. Remember to do your [input_6] before going out with your friends.\n\n8. Don't worry. Just do your [input_7] in the exam.\n\n9. In the evening, I often do [input_8] to keep fit.",
+      "explanationText": "1. Giải thích: Vì bố đang ở trong vườn (in the garden), vậy hoạt động bố đang làm là làm vườn (do the gardening).\n\nDịch nghĩa: Bố tôi đang ở trong vườn. Ông ấy đang làm vườn.\n\n2. Giải thích: Sau khi ăn tối (having dinner), việc cần làm thường là rửa bát (do the washing up).\n\nDịch nghĩa: Sau khi ăn tối xong, hãy nhớ rửa bát nhé.\n\n3. Giải thích: Có máy giặt (washing machine) ở trên lầu, vậy bạn dùng nó để giặt giũ (do the washing).\n\nDịch nghĩa: Có một máy giặt ở trên lầu. Bạn có thể dùng nó để giặt quần áo.\n\n4. Giải thích: Các hoạt động như lau sàn, dọn giường hay nấu bữa tối (cleaning the floor, tidying the bed or making dinner) đều là các việc nhà (do the housework).\n\nDịch nghĩa: Mẹ tôi bảo tôi làm việc nhà, như lau sàn, dọn giường hoặc nấu bữa tối.\n\n5. Giải thích: Khi làm việc với một công ty nổi tiếng (a famous company), hoạt động thường là kinh doanh (do business).\n\nDịch nghĩa: Anh ấy đang kinh doanh với một công ty nổi tiếng từ Thái Lan.\n\n6. Giải thích: Câu trả lời \"I am a teacher\" (Tôi là một giáo viên) cho biết nghề nghiệp, vậy câu hỏi phù hợp là \"What do you do?\" (Bạn làm nghề gì?).\n\nDịch nghĩa: Bạn làm nghề gì? - Tôi là một giáo viên.\n\n7. Giải thích: Trước khi đi chơi với bạn bè (going out with your friends), bạn thường phải hoàn thành bài tập về nhà (do your homework).\n\nDịch nghĩa: Nhớ làm bài tập về nhà trước khi đi chơi với bạn bè nhé.\n\n8. Giải thích: Khi làm bài kiểm tra (in the exam), bạn cần cố gắng hết sức (do your best).\n\nDịch nghĩa: Đừng lo lắng. Cứ cố gắng hết sức trong kỳ thi là được.\n\n9. Giải thích: Để giữ dáng (keep fit), hoạt động thường làm là tập thể dục (do exercise).\n\nDịch nghĩa: Vào buổi tối, tôi thường tập thể dục để giữ dáng.",
+      "rawHtml": {
+        "title": "I. Vocabulary",
+        "introduction": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">​</span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong><span style=\"font-family: Nunito-ExtraBold;\">Exercise ​1.</span></strong></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span><strong>Write ONE WORD from the Vocabulary section in each blank to make a meaningful sentence or conversation.&nbsp;</strong></span><em style=\"font-family: Nunito-Regular; font-size: 12pt;\">(</em></span><span style=\"font-family: Nunito-Regular;\"><em>Viết MỘT TỪ từ phần Từ Vựng v&agrave;o mỗi &ocirc; trống để tạo 1 c&acirc;u hoặc 1 cuộc hội thoại c&oacute; &yacute; nghĩa.)</em></span></p>",
+        "content": null,
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular;\">1. My father is in the garden. He's doing the [input_0].</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">2. After having dinner, please remember to do the [input_1] up.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">3. There's a washing machine upstairs. You can use it to do the [input_2].</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">4. My mother told me to do the [input_3], such as cleaning the floor, tidying the bed or making dinner.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">5. He is doing [input_4] with a famous company from Thailand.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">6. What do you [input_5]? - I am a teacher.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">7. Remember to do your [input_6] before going out with your friends.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">8. Don't worry. Just do your [input_7] in the exam.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">9. In the evening, I often do [input_8] to keep fit.</span></p>",
+        "explain": "<p><strong>1. Giải thích:</strong> Vì bố đang ở <strong>trong vườn (in the garden)</strong>, vậy hoạt động bố đang làm là <strong>làm vườn (do the gardening)</strong>.</p>\n<p><em><strong>Dịch nghĩa:</strong> Bố tôi đang ở trong vườn. Ông ấy đang <strong>làm vườn</strong>.</em></p>\n<p><strong>2. Giải thích:</strong> Sau khi <strong>ăn tối (having dinner)</strong>, việc cần làm thường là <strong>rửa bát (do the washing up)</strong>.</p>\n<p><em><strong>Dịch nghĩa:</strong> Sau khi ăn tối xong, hãy nhớ <strong>rửa bát</strong> nhé.</em></p>\n<p><strong>3. Giải thích:</strong> Có <strong>máy giặt (washing machine)</strong> ở trên lầu, vậy bạn dùng nó để <strong>giặt giũ (do the washing)</strong>.</p>\n<p><em><strong>Dịch nghĩa:</strong> Có một máy giặt ở trên lầu. Bạn có thể dùng nó để <strong>giặt quần áo</strong>.</em></p>\n<p><strong>4. Giải thích:</strong> Các hoạt động như <strong>lau sàn, dọn giường hay nấu bữa tối (cleaning the floor, tidying the bed or making dinner)</strong> đều là các <strong>việc nhà (do the housework)</strong>.</p>\n<p><em><strong>Dịch nghĩa:</strong> Mẹ tôi bảo tôi <strong>làm việc nhà</strong>, như lau sàn, dọn giường hoặc nấu bữa tối.</em></p>\n<p><strong>5. Giải thích:</strong> Khi làm việc với <strong>một công ty nổi tiếng (a famous company)</strong>, hoạt động thường là <strong>kinh doanh (do business)</strong>.</p>\n<p><em><strong>Dịch nghĩa:</strong> Anh ấy đang <strong>kinh doanh</strong> với một công ty nổi tiếng từ Thái Lan.</em></p>\n<p><strong>6. Giải thích:</strong> Câu trả lời <strong>\"I am a teacher\" (Tôi là một giáo viên)</strong> cho biết nghề nghiệp, vậy câu hỏi phù hợp là <strong>\"What do you do?\" (Bạn làm nghề gì?)</strong>.</p>\n<p><em><strong>Dịch nghĩa:</strong> Bạn <strong>làm nghề gì</strong>? - Tôi là một giáo viên.</em></p>\n<p><strong>7. Giải thích:</strong> Trước khi <strong>đi chơi với bạn bè (going out with your friends)</strong>, bạn thường phải hoàn thành <strong>bài tập về nhà (do your homework)</strong>.</p>\n<p><em><strong>Dịch nghĩa:</strong> Nhớ làm <strong>bài tập về nhà</strong> trước khi đi chơi với bạn bè nhé.</em></p>\n<p><strong>8. Giải thích:</strong> Khi làm <strong>bài kiểm tra (in the exam)</strong>, bạn cần <strong>cố gắng hết sức (do your best)</strong>.</p>\n<p><em><strong>Dịch nghĩa:</strong> Đừng lo lắng. Cứ <strong>cố gắng hết sức</strong> trong kỳ thi là được.</em></p>\n<p><strong>9. Giải thích:</strong> Để <strong>giữ dáng (keep fit)</strong>, hoạt động thường làm là <strong>tập thể dục (do exercise)</strong>.</p>\n<p><em><strong>Dịch nghĩa:</strong> Vào buổi tối, tôi thường <strong>tập thể dục</strong> để giữ dáng.</em></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 9,
+        "totalCorrect": 9,
+        "userAnswer": {
+          "input_0": "gardening",
+          "input_1": "washing",
+          "input_2": "washing",
+          "input_3": "housework",
+          "input_4": "business",
+          "input_5": "do",
+          "input_6": "homework",
+          "input_7": "best",
+          "input_8": "exercise"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "gardening"
+          ],
+          "input_1": [
+            "washing"
+          ],
+          "input_2": [
+            "washing"
+          ],
+          "input_3": [
+            "housework"
+          ],
+          "input_4": [
+            "business"
+          ],
+          "input_5": [
+            "do"
+          ],
+          "input_6": [
+            "homework"
+          ],
+          "input_7": [
+            "best"
+          ],
+          "input_8": [
+            "exercise"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-262522",
+      "sourceQuestionId": 262522,
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise ​2.\n\nWrite the correct spelling of the following scrambled words (1 - 9), then match these words with their definitions (a - i) .(Viết đúng chính tả các từ đã bị xáo trộn sau đây (1 - 9), sau đó nối các từ này với định nghĩa của chúng (a - i).)",
+      "introductionText": "Exercise ​2.\n\nWrite the correct spelling of the following scrambled words (1 - 9), then match these words with their definitions (a - i) .(Viết đúng chính tả các từ đã bị xáo trộn sau đây (1 - 9), sau đó nối các từ này với định nghĩa của chúng (a - i).)",
+      "contentText": "",
+      "answerTemplateText": "1. a l d e\n\n |\n\na. súp, canh\n\n |\n\n2. i t f \n\n |\n\nb. bỏ lỡ / nhớ\n\n |\n\n3. l c e u\n\n |\n\nc. hạt đậu\n\n |\n\n4. o p u s\n\n |\n\nd. bơ\n\n |\n\n5. e h n\n\n |\n\ne. dẫn dắt\n\n |\n\n6. d a n s\n\n |\n\nf. cát\n\n |\n\n7. u t e r t b\n\n |\n\ng. manh mối\n\n |\n\n8. n a e b\n\n |\n\nh. gà mái\n\n |\n\n9. i s m s\n\n |\n\ni. cân đối, vừa vặn\n\n |\n\nWrite the correct spelling\n\n |\n\nMatch the word with its definition\n\n |\n\nExample: 1. lead\n\n |\n\ne\n\n |\n\n2. [input_0]\n\n |\n\n[input_1]\n\n |\n\n3. [input_2]\n\n |\n\n[input_3]\n\n |\n\n4. [input_4]\n\n |\n\n[input_5]\n\n |\n\n5. [input_6]\n\n |\n\n[input_7]\n\n |\n\n6. [input_8]\n\n |\n\n[input_9]\n\n |\n\n7. [input_10]\n\n |\n\n[input_11]\n\n |\n\n8. [input_12]\n\n |\n\n[input_13]\n\n |\n\n9. [input_14]\n\n |\n[input_15] |",
+      "explanationText": "2. fit - i. cân đối, vừa vặn\n\n3. clue - g. manh mối\n\n4. soup - a. súp, canh\n\n5. hen - h. gà mái\n\n6. sand - f. cát\n\n7. butter - d. bơ\n\n8. bean - c. hạt đậu\n\n9. miss - b. bỏ lỡ / nhớ",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-ExtraBold; background-color: #ffffff; color: #242938; font-weight: bolder;\">Exercise ​2</span><strong><em>. </em></strong></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\"><strong>Write the correct spelling of the following scrambled words (1 - 9), then match these words with their definitions (a - i) .</strong></span><em><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt;\">(</span>Viết đ&uacute;ng ch&iacute;nh tả c&aacute;c từ đ&atilde; bị x&aacute;o trộn sau đ&acirc;y (1 - 9), sau đ&oacute; nối c&aacute;c từ n&agrave;y với định nghĩa của ch&uacute;ng (a - i).)</span></em></span></p>",
+        "content": null,
+        "answerTemplate": "<table style=\"table-layout: fixed; width: 478px; height: 175px; border: initial none initial;\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 15px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: #ffffff; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. a l d e</span></span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 15px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span id=\"docs-internal-guid-6d2683f0-7fff-7c7e-ef54-c3c8a1185922\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a. súp, canh</span></p>\n</td>\n</tr>\n<tr style=\"height: 20px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. i t f </span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span id=\"docs-internal-guid-e838cc59-7fff-8f77-7c4f-cdc72b35487f\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">b. bỏ lỡ / nhớ</span></span><br /></span></p>\n</td>\n</tr>\n<tr style=\"height: 20px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. l c e u</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span id=\"docs-internal-guid-e9318010-7fff-9c2b-713f-46614ccd7bc0\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">c. hạt đậu</span></span><br /></span></p>\n</td>\n</tr>\n<tr style=\"height: 20px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. o p u s</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span id=\"docs-internal-guid-901653c6-7fff-db07-0310-e18e1b12e148\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">d. bơ</span></span><br /></span></p>\n</td>\n</tr>\n<tr style=\"height: 20px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. e h n</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span id=\"docs-internal-guid-d258aac4-7fff-e4d8-5228-fd67af25dadd\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">e. dẫn dắt</span></span><br /></span></p>\n</td>\n</tr>\n<tr style=\"height: 20px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. d a n s</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span id=\"docs-internal-guid-41f64a16-7fff-f47a-0261-4592623cf8dd\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">f. cát</span></span><br /></span></p>\n</td>\n</tr>\n<tr style=\"height: 20px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. u t e r t b</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span id=\"docs-internal-guid-14f622a5-7fff-feb0-bc9e-6d3bc6a1c143\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">g. manh mối</span></span><br /></span></p>\n</td>\n</tr>\n<tr style=\"height: 20px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. n a e b</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span id=\"docs-internal-guid-d821bacc-7fff-08f5-f77c-d8146c0ef5f4\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">h. gà mái</span></span><br /></span></p>\n</td>\n</tr>\n<tr style=\"height: 20px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9. i s m s</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span id=\"docs-internal-guid-5bb93782-7fff-1554-2b23-44079cfe2def\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">i. cân đối, vừa vặn</span></span><br /></span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><span id=\"docs-internal-guid-8e4001b1-7fff-58d9-7e20-9419af0f9e56\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"table-layout: fixed; width: 483px; height: 221.6px; border: initial none initial;\"><colgroup><col style=\"width: 237px;\" /><col style=\"width: 245px;\" /></colgroup>\n<tbody>\n<tr style=\"height: 40px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 40px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Write the correct spelling</span></strong></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 40px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Match the word with its definition</span></strong></p>\n</td>\n</tr>\n<tr style=\"height: 20px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Nunito-Regular; background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Example: <span style=\"color: #ba372a;\"><span style=\"color: #000000;\">1.</span> lead</span></span></em></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ba372a; background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">e</span></em></p>\n</td>\n</tr>\n<tr style=\"height: 20px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. [input_0]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span></p>\n</td>\n</tr>\n<tr style=\"height: 20px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. </span><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular;\">[input_2]</span></span></span></span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_3]<br /></span></p>\n</td>\n</tr>\n<tr style=\"height: 20px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. </span><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular;\">[input_4]</span></span></span></span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_5]<br /></span></p>\n</td>\n</tr>\n<tr style=\"height: 20px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. </span><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular;\">[input_6]</span></span></span></span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_7]<br /></span></p>\n</td>\n</tr>\n<tr style=\"height: 20px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. </span><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular;\">[input_8]</span></span></span></span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_9]<br /></span></p>\n</td>\n</tr>\n<tr style=\"height: 20px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. </span><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular;\">[input_10]</span></span></span></span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_11]<br /></span></p>\n</td>\n</tr>\n<tr style=\"height: 20px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. </span><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular;\">[input_12]</span></span></span></span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 20px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_13]<br /></span></p>\n</td>\n</tr>\n<tr style=\"height: 21.6px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 21.6px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9. </span><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><span style=\"white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular;\">[input_14]</span></span></span></span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 21.6px; border: 1pt solid #000000;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve; background-color: #ffffff;\">[input_15]</span></td>\n</tr>\n</tbody>\n</table>\n</div>",
+        "explain": "<ul>\n<li>\n<p><strong>2. fit</strong> - i. <em>cân đối, vừa vặn</em></p>\n</li>\n<li>\n<p><strong>3. clue</strong> - g.<em> manh mối</em></p>\n</li>\n<li>\n<p><strong>4. soup</strong> - a. <em>súp, canh</em></p>\n</li>\n<li>\n<p><strong>5. hen</strong> - h. <em>gà mái</em></p>\n</li>\n<li>\n<p><strong>6. sand</strong> - f. <em>cát</em></p>\n</li>\n<li>\n<p><strong>7. butter</strong> - d. <em>bơ</em></p>\n</li>\n<li>\n<p><strong>8. bean</strong> - c. <em>hạt đậu</em></p>\n</li>\n<li>\n<p><strong>9. miss</strong> - b.<em> bỏ lỡ / nhớ</em></p>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 16,
+        "totalCorrect": 16,
+        "userAnswer": {
+          "input_0": "fit",
+          "input_1": "i",
+          "input_2": "clue",
+          "input_3": "g",
+          "input_4": "soup",
+          "input_5": "a",
+          "input_6": "hen",
+          "input_7": "h",
+          "input_8": "sand",
+          "input_9": "f",
+          "input_10": "butter",
+          "input_12": "bean",
+          "input_13": "c",
+          "input_14": "miss",
+          "input_15": "b",
+          "input_11": "d"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "fit"
+          ],
+          "input_1": [
+            "i"
+          ],
+          "input_2": [
+            "clue"
+          ],
+          "input_3": [
+            "g"
+          ],
+          "input_4": [
+            "soup"
+          ],
+          "input_5": [
+            "a"
+          ],
+          "input_6": [
+            "hen"
+          ],
+          "input_7": [
+            "h"
+          ],
+          "input_8": [
+            "sand"
+          ],
+          "input_9": [
+            "f"
+          ],
+          "input_10": [
+            "butter"
+          ],
+          "input_11": [
+            "d"
+          ],
+          "input_12": [
+            "bean"
+          ],
+          "input_13": [
+            "c"
+          ],
+          "input_14": [
+            "miss"
+          ],
+          "input_15": [
+            "b"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": true,
+          "input_9": true,
+          "input_10": true,
+          "input_11": true,
+          "input_12": true,
+          "input_13": true,
+          "input_14": true,
+          "input_15": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-262523",
+      "sourceQuestionId": 262523,
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "title": null,
+      "type": 2,
+      "prompt": "Exercise 3.\n\nGhi lại ít nhất 10 từ vựng/ câu học được từ phần Vocabulary, kèm theo nghĩa",
+      "introductionText": "Exercise 3.\n\nGhi lại ít nhất 10 từ vựng/ câu học được từ phần Vocabulary, kèm theo nghĩa",
+      "contentText": "Ví dụ: Do my homework: làm bài tập về nhà",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-family: Nunito-ExtraBold;\"><strong>Exercise 3.</strong></span><em><strong> </strong></em></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><em><strong>Ghi lại &iacute;t nhất 10 từ vựng/ c&acirc;u học được từ phần Vocabulary, k&egrave;m theo nghĩa</strong></em></span></p>",
+        "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><em>V&iacute; dụ: Do my homework: l&agrave;m b&agrave;i tập về nh&agrave;&nbsp;</em></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "1. Clue: Manh mối\n2. Butter: Bơ\n3. Sand: Cát\n4. Upstairs: trên lầu\n5. Tidy: dọn dẹp \n6. Do business with: hợp tác làm ăn với\n7. Can use it to: dùng cái gì để làm gì\n8. Do the washing up: rửa bát\n9. Do the washing: giặt quần áo\n10. Do your best: cố làm hết sức",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-262524",
+      "sourceQuestionId": 262524,
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "title": null,
+      "type": null,
+      "prompt": "",
+      "introductionText": "",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "null",
+      "submission": null,
+      "imageRefs": []
+    },
+    {
+      "id": "question-262525",
+      "sourceQuestionId": 262525,
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "title": "II. Pronunciation",
+      "type": 2,
+      "prompt": "II. Pronunciation",
+      "introductionText": "",
+      "contentText": "Link nộp bài:",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "II. Pronunciation",
+        "introduction": null,
+        "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong><em>Link nộp b&agrave;i:</em></strong></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "https://drive.google.com/file/d/12z2RUwQnmmat_WEveQHec5O9fdVHFFFU/view?usp=drive_link",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-262526",
+      "sourceQuestionId": 262526,
+      "challengeId": 28159,
+      "classChallengeId": "79472",
+      "title": null,
+      "type": null,
+      "prompt": "",
+      "introductionText": "",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "content": "<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "null",
+      "submission": null,
+      "imageRefs": []
+    },
+    {
+      "id": "question-262527",
+      "sourceQuestionId": 262527,
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "title": "Vocabulary",
+      "type": 1,
+      "prompt": "Vocabulary",
+      "introductionText": "Exercise 1.\n\nFill ONE WORD in the gaps, using words from the previous section. (Điền MỘT TỪ vào ô trống bằng các từ ở phần trước.)",
+      "contentText": "",
+      "answerTemplateText": "Example: I always have coffee in the morning.\n\n1. I have an English [input_0] every Saturday morning. \n\n2. Do you want to have a game of [input_1]?\n\n3. Jane's having a [input_2] on Saturday. Are you going?\n\n4. Do you want to have a [input_3] ? The bathroom's just here.\n\n5. I have an [input_4] tomorrow, so I have to study tonight.\n\n6. We must have a [input_5] to talk about these problems.\n\n7. I'm going to the cafeteria to have a [input_6]. Do you want to come?\n\n8. The hotel has a swimming pool, so we can have a [input_7] every day.\n\n9. The film starts at 6 PM. We can have [input_8] before the film, or we can eat after it.\n\n10. I cannot go out right now. I have a lot of [input_9] to finish before midnight.",
+      "explanationText": "Giải thích: Khi học một môn học như tiếng Anh (English) vào buổi sáng, đó là một buổi học (lesson). Cụm từ là have a lesson (có một buổi học) => have an English lesson (có một tiết học tiếng Anh).\n\nDịch nghĩa: Tôi có một buổi học tiếng Anh vào mỗi sáng thứ Bảy.\n\nGiải thích: Khi muốn chơi một môn thể thao như bóng đá (football), ta dùng cụm từ have a game of (chơi một trận/ván) => have a game of football (chơi một trận bóng đá).\n\nDịch nghĩa: Bạn có muốn chơi một trận bóng đá/thể thao không?\n\nGiải thích: Khi tổ chức một sự kiện để mọi người vui chơi, đó là một bữa tiệc (party). Cụm từ là have a party (tổ chức một bữa tiệc).\n\nDịch nghĩa: Jane sẽ tổ chức một bữa tiệc vào thứ Bảy. Bạn có đi không?\n\nGiải thích: Khi ở trong phòng tắm (bathroom), hành động vệ sinh cá nhân là tắm bồn (bath) hoặc tắm vòi sen (shower). Cụm từ là have a bath/have a shower (tắm bồn/tắm vòi sen).\n\nDịch nghĩa: Bạn có muốn tắm bồn/tắm vòi sen không? Phòng tắm ngay đây này.\n\nGiải thích: Khi cần học bài tối nay (study tonight) cho ngày mai, điều đó có nghĩa là bạn có một bài kiểm tra/kỳ thi (exam). Cụm từ là have an exam (có một bài kiểm tra/kỳ thi).\n\nDịch nghĩa: Tôi có một bài thi vào ngày mai, vì vậy tôi phải học tối nay.\n\nGiải thích: Để nói về các vấn đề (talk about these problems), chúng ta cần tổ chức một cuộc họp (meeting). Cụm từ là have a meeting (có một cuộc họp).\n\nDịch nghĩa: Chúng ta phải có một cuộc họp để nói về những vấn đề này.\n\nGiải thích: Khi đi đến quán ăn tự phục vụ (cafeteria), bạn thường sẽ uống gì đó (drink) hoặc ăn một bữa (meal). Cụm từ là have a drink/have a meal (uống nước/ăn một bữa).\n\nDịch nghĩa: Tôi sẽ đến quán ăn tự phục vụ để uống gì đó/ăn một bữa. Bạn có muốn đi cùng không?\n\nGiải thích: Khách sạn có hồ bơi (swimming pool), vậy hoạt động bạn có thể làm là đi bơi (swim). Cụm từ là have a swim (đi bơi).\n\nDịch nghĩa: Khách sạn có hồ bơi, vì vậy chúng ta có thể bơi mỗi ngày.\n\nGiải thích: Khi một bộ phim bắt đầu lúc 6 giờ tối, bạn có thể ăn bữa tối (dinner) trước hoặc sau đó. Cụm từ là have dinner (ăn tối).\n\nDịch nghĩa: Bộ phim bắt đầu lúc 6 giờ tối. Chúng ta có thể ăn tối trước khi xem phim, hoặc có thể ăn sau.\n\nGiải thích: Khi không thể ra ngoài và phải hoàn thành nhiều thứ (to finish a lot of) trước nửa đêm, đó thường là bài tập về nhà (homework). Cụm từ là have homework (có bài tập về nhà).\n\nDịch nghĩa: Tôi không thể ra ngoài ngay bây giờ. Tôi có rất nhiều bài tập về nhà phải hoàn thành trước nửa đêm.",
+      "rawHtml": {
+        "title": "Vocabulary",
+        "introduction": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong><span style=\"font-family: Nunito-ExtraBold;\">Exercise 1.</span> </strong></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\"><strong>Fill ONE WORD in the gaps, using words from the previous section. </strong></span><em><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt;\">(</span>Điền MỘT TỪ v&agrave;o &ocirc; trống bằng c&aacute;c từ ở phần trước.<span style=\"font-size: 12pt;\">)</span></span></em></span></p>",
+        "content": null,
+        "answerTemplate": "<p><em><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">Example: I always have <span style=\"color: #ba372a;\">coffee </span>in the morning.</span></em></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">1. I have an English [input_0] every Saturday morning. </span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">2. Do you want to have a game of [input_1]?</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">3. Jane's having a [input_2] on Saturday. Are you going?</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">4. Do you want to have a [input_3] ? The bathroom's just here.</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">5. I have an [input_4] tomorrow, so I have to study tonight.</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">6. We must have a [input_5] to talk about these problems.</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">7. I'm going to the cafeteria to have a [input_6]. Do you want to come?</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">8. The hotel has a swimming pool, so we can have a [input_7] every day.</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">9. The film starts at 6 PM. We can have [input_8] before the film, or we can eat after it.</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">10. </span><span style=\"font-family: Nunito-Regular;\">I cannot go out right now. I have a lot of [input_9] to finish before midnight.</span></p>",
+        "explain": "<p> </p>\n<hr />\n<ol start=\"1\">\n<li>\n<p><strong>Giải thích:</strong> Khi học một môn học như <strong>tiếng Anh (English)</strong> vào buổi sáng, đó là một <strong>buổi học (lesson)</strong>. Cụm từ là <strong>have a lesson</strong> (có một buổi học) =&gt; <strong>have an English lesson</strong> (có một tiết học tiếng Anh).</p>\n<ul>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi có một <strong>buổi học</strong> tiếng Anh vào mỗi sáng thứ Bảy.</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Giải thích:</strong> Khi muốn chơi một môn thể thao như <strong>bóng đá (football)</strong>, ta dùng cụm từ <strong>have a game of</strong> (chơi một trận/ván) =&gt; <strong>have a game of football</strong> (chơi một trận bóng đá).</p>\n<ul>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Bạn có muốn chơi một trận <strong>bóng đá/thể thao</strong> không?</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Giải thích:</strong> Khi tổ chức một sự kiện để mọi người vui chơi, đó là một <strong>bữa tiệc (party)</strong>. Cụm từ là <strong>have a party</strong> (tổ chức một bữa tiệc).</p>\n<ul>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Jane sẽ tổ chức một <strong>bữa tiệc</strong> vào thứ Bảy. Bạn có đi không?</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Giải thích:</strong> Khi ở <strong>trong phòng tắm (bathroom)</strong>, hành động vệ sinh cá nhân là <strong>tắm bồn (bath)</strong> hoặc <strong>tắm vòi sen (shower)</strong>. Cụm từ là <strong>have a bath/have a shower</strong> (tắm bồn/tắm vòi sen).</p>\n<ul>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Bạn có muốn <strong>tắm bồn/tắm vòi sen</strong> không? Phòng tắm ngay đây này.</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Giải thích:</strong> Khi cần <strong>học bài tối nay (study tonight)</strong> cho ngày mai, điều đó có nghĩa là bạn có một <strong>bài kiểm tra/kỳ thi (exam)</strong>. Cụm từ là <strong>have an exam</strong> (có một bài kiểm tra/kỳ thi).</p>\n<ul>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi có một <strong>bài thi</strong> vào ngày mai, vì vậy tôi phải học tối nay.</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Giải thích:</strong> Để <strong>nói về các vấn đề (talk about these problems)</strong>, chúng ta cần tổ chức một <strong>cuộc họp (meeting)</strong>. Cụm từ là <strong>have a meeting</strong> (có một cuộc họp).</p>\n<ul>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Chúng ta phải có một <strong>cuộc họp</strong> để nói về những vấn đề này.</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Giải thích:</strong> Khi đi đến <strong>quán ăn tự phục vụ (cafeteria)</strong>, bạn thường sẽ <strong>uống gì đó (drink)</strong> hoặc <strong>ăn một bữa (meal)</strong>. Cụm từ là <strong>have a drink/have a meal</strong> (uống nước/ăn một bữa).</p>\n<ul>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi sẽ đến quán ăn tự phục vụ để <strong>uống gì đó/ăn một bữa</strong>. Bạn có muốn đi cùng không?</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Giải thích:</strong> Khách sạn có <strong>hồ bơi (swimming pool)</strong>, vậy hoạt động bạn có thể làm là <strong>đi bơi (swim)</strong>. Cụm từ là <strong>have a swim</strong> (đi bơi).</p>\n<ul>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Khách sạn có hồ bơi, vì vậy chúng ta có thể <strong>bơi</strong> mỗi ngày.</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Giải thích:</strong> Khi một bộ phim bắt đầu lúc 6 giờ tối, bạn có thể <strong>ăn bữa tối (dinner)</strong> trước hoặc sau đó. Cụm từ là <strong>have dinner</strong> (ăn tối).</p>\n<ul>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Bộ phim bắt đầu lúc 6 giờ tối. Chúng ta có thể <strong>ăn tối</strong> trước khi xem phim, hoặc có thể ăn sau.</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Giải thích:</strong> Khi không thể ra ngoài và phải <strong>hoàn thành nhiều thứ (to finish a lot of)</strong> trước nửa đêm, đó thường là <strong>bài tập về nhà (homework)</strong>. Cụm từ là <strong>have homework</strong> (có bài tập về nhà).</p>\n<ul>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi không thể ra ngoài ngay bây giờ. Tôi có rất nhiều <strong>bài tập về nhà</strong> phải hoàn thành trước nửa đêm.</em></p>\n</li>\n</ul>\n</li>\n</ol>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 10,
+        "totalCorrect": 5,
+        "userAnswer": {
+          "input_0": "a lession",
+          "input_1": "pickleball",
+          "input_2": "a party",
+          "input_3": "shower",
+          "input_4": "exam",
+          "input_5": "meeting",
+          "input_8": "a meal",
+          "input_6": "dinner",
+          "input_7": "swim",
+          "input_9": "homework"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "lesson"
+          ],
+          "input_1": [
+            "football",
+            "sport"
+          ],
+          "input_2": [
+            "party"
+          ],
+          "input_3": [
+            "bath",
+            "shower"
+          ],
+          "input_4": [
+            "exam"
+          ],
+          "input_5": [
+            "meeting"
+          ],
+          "input_6": [
+            "drink",
+            "meal"
+          ],
+          "input_7": [
+            "swim"
+          ],
+          "input_8": [
+            "dinner"
+          ],
+          "input_9": [
+            "homework"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false,
+          "input_1": false,
+          "input_2": false,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": false,
+          "input_7": true,
+          "input_8": false,
+          "input_9": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-262528",
+      "sourceQuestionId": 262528,
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2.\n\nCorrect the mistakes in the underlined parts based on the new vocabulary section on the left. (Sửa lỗi sai ở phần gạch chân dựa vào phần từ vựng mới ở bên trái.)",
+      "introductionText": "Exercise 2.\n\nCorrect the mistakes in the underlined parts based on the new vocabulary section on the left. (Sửa lỗi sai ở phần gạch chân dựa vào phần từ vựng mới ở bên trái.)",
+      "contentText": "",
+      "answerTemplateText": "Example: Please phone Grandma when you have the moment. → a\n\n1. Nadia has gone to the hairdresser's to have cut her hair. → [input_0]\n\n2. That computer game looks great. Can I have a going? → [input_1]\n\n3. I want to have a words with my teacher after the lesson. → [input_2]\n\n4. Mum didn't have the times to go to the shop today. → [input_3]\n\n5. They don't have got any cake in the cafe today. → [input_4]\n\n6. You're going away? Well, get a good journey then. → [input_5]\n\n7. Can I have a see at your new stamp collection? → [input_6]\n\n8. Are you thirsty? Do you want to have drink? → [input_7]\n\n9. I has got two brothers and a sister. → [input_8]\n\n10. My head hurts. I guess I have a stomachache. → [input_9]",
+      "explanationText": "1. Nadia has gone to the hairdresser's to have cut her hair. → [have her hair cut]\n\nGiải thích: Khi nhờ người khác làm gì cho mình (trong trường hợp này là cắt tóc), chúng ta dùng cấu trúc \"have + something + done\". Ở đây, \"her hair\" là \"something\", và \"cut\" là quá khứ phân từ của động từ \"cut\".\n\nDịch nghĩa: Nadia đã đến tiệm làm tóc để nhờ cắt tóc.\n\n2. That computer game looks great. Can I have a going? → [have a go]\n\nGiải thích: Khi muốn thử làm hoặc chơi cái gì đó, chúng ta dùng cụm từ cố định \"have a go\".\n\nDịch nghĩa: Trò chơi máy tính đó trông hay quá. Mình thử một lượt được không?\n\n3. I want to have a words with my teacher after the lesson. → [have a word]\n\nGiải thích: Khi muốn nói chuyện ngắn gọn hoặc riêng tư với ai đó, chúng ta dùng cụm từ cố định \"have a word\" (dạng số ít) chứ không phải \"words\".\n\nDịch nghĩa: Tôi muốn nói chuyện riêng với giáo viên sau buổi học.\n\n4. Mum didn't have the times to go to the shop today. → [have the time/have time]\n\nGiải thích: Khi nói về việc có đủ thời gian để làm gì đó, chúng ta dùng cụm từ \"have time\" hoặc \"have the time\" (thường là số ít và không có \"s\" sau \"time\").\n\nDịch nghĩa: Mẹ không có thời gian để đi chợ hôm nay.\n\n5. They don't have got any cake in the cafe today. → [haven't got/have not got/don't have/do not have]\n\nGiải thích: Đây là lỗi kết hợp giữa hai cách nói về sự sở hữu: \"have got\" và \"have\".\n\nNếu dùng \"have got\", phủ định là \"haven't got\".\n\nNếu dùng \"have\", phủ định là \"don't have\".\n\nKhông dùng \"don't have got\".\n\nDịch nghĩa: Hôm nay họ không có bất kỳ chiếc bánh nào trong quán cà phê.\n\n6. You're going away? Well, get a good journey then. → [have]\n\nGiải thích: Khi chúc ai đó có một chuyến đi tốt đẹp, chúng ta dùng động từ \"have\" trong cụm \"have a good journey\". \"Get\" không phù hợp trong ngữ cảnh này.\n\nDịch nghĩa: Bạn đi xa à? Chúc bạn có một chuyến đi tốt đẹp nhé.\n\n7. Can I have a see at your new stamp collection? → [have a look]\n\nGiải thích: Khi muốn nhìn hoặc xem cái gì đó, chúng ta dùng cụm từ cố định \"have a look\".\n\nDịch nghĩa: Tôi xem bộ sưu tập tem mới của bạn được không?\n\n8. Are you thirsty? Do you want to have drink? → [have a drink]\n\nGiải thích: Khi muốn uống một thứ gì đó, chúng ta dùng cụm từ cố định \"have a drink\" (có mạo từ \"a\").\n\nDịch nghĩa: Bạn khát không? Bạn có muốn uống gì đó không?\n\n9. I has got two brothers and a sister. → [have got]\n\nGiải thích: Với chủ ngữ \"I\" (tôi), động từ \"have\" luôn ở dạng \"have\" chứ không phải \"has\". Cụm từ là \"have got\" (có).\n\nDịch nghĩa: Tôi có hai anh trai và một em gái.\n\n10. My head hurts. I guess I have a stomachache. → [headache]\n\nGiải thích: Câu đầu tiên nói \"My head hurts\" (đầu tôi đau), vậy vấn đề là đau đầu (headache) chứ không phải đau bụng. Cụm từ là have a headache.\n\nDịch nghĩa: Đầu tôi đau. Tôi đoán tôi bị đau đầu.",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-ExtraBold; background-color: #ffffff; color: #242938; font-weight: bolder;\">Exercise 2</span><strong><em>. </em></strong></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Correct the mistakes in the underlined parts </strong></span><span style=\"font-family: Nunito-Regular;\"><strong>based on the new vocabulary section on the left</strong></span><strong style=\"font-family: Nunito-Regular; font-size: 12pt;\">. </strong><em><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt;\">(</span>Sửa lỗi sai ở phần gạch chân dựa vào phần từ vựng mới ở bên trái.<span style=\"font-size: 12pt;\">)</span></span></em></p>",
+        "content": null,
+        "answerTemplate": "<p><em><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">Example: Please phone Grandma when you have <u>the</u> moment. → <span style=\"color: #ba372a;\">a</span></span></em></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">1. Nadia has gone to the hairdresser's to <u>have cut her hair</u>. → [input_0]</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">2. That computer game looks great. Can I <u>have a going</u>? → [input_1]</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">3. I want to <u>have a words</u> with my teacher after the lesson. → [input_2]</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">4. Mum didn't <u>have the times</u> to go to the shop today. → [input_3]</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">5. They <u>don't have got</u> any cake in the cafe today. → [input_4]</span></p>\n<p><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">6. You're going away? Well, </span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space-collapse: preserve;\">get</span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> a good journey then. </span><span style=\"font-family: Nunito-Regular; font-size: 16px;\">→ [input_5]</span></p>\n<p><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">7. Can I </span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space-collapse: preserve;\">have a see</span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> at your new stamp collection? </span><span style=\"font-family: Nunito-Regular; font-size: 16px;\">→ <span style=\"font-family: Nunito-Regular;\">[input_6]</span></span></p>\n<p><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">8. Are you thirsty? Do you want to </span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space-collapse: preserve;\">have drink</span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">?</span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-size: 16px; font-family: Nunito-Regular;\">→ <span style=\"font-family: Nunito-Regular;\">[input_7]</span></span></p>\n<p><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">9. I </span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space-collapse: preserve;\">has got</span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> two brothers and a sister.</span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-size: 16px; font-family: Nunito-Regular;\">→ <span style=\"font-family: Nunito-Regular;\">[input_8]</span></span></p>\n<p><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">10. My head hurts. I guess I have a <u>stomachache</u></span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">.</span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-size: 16px; font-family: Nunito-Regular;\">→ <span style=\"font-family: Nunito-Regular;\">[input_9]</span></span></p>",
+        "explain": "<p>1. Nadia has gone to the hairdresser's to <strong><u>have cut</u></strong> her hair. → <strong>[have her hair cut]</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi <strong>nhờ người khác làm gì cho mình</strong> (trong trường hợp này là cắt tóc), chúng ta dùng cấu trúc <strong>\"have + something + done\"</strong>. Ở đây, \"her hair\" là \"something\", và \"cut\" là quá khứ phân từ của động từ \"cut\".</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Nadia đã đến tiệm làm tóc để <strong>nhờ cắt tóc</strong>.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p>2. That computer game looks great. Can I <strong><u>have a going</u></strong>? → <strong>[have a go]</strong></p>\n<ul style=\"list-style-type: circle;\">\n<li><strong>Giải thích:</strong> Khi muốn <strong>thử làm hoặc chơi cái gì đó</strong>, chúng ta dùng cụm từ cố định <strong>\"have a go\"</strong>.</li>\n<li><em><strong>Dịch nghĩa:</strong> Trò chơi máy tính đó trông hay quá. Mình <strong>thử một lượt</strong> được không?</em></li>\n</ul>\n<p>3. I want to <strong><u>have a words</u></strong> with my teacher after the lesson. → <strong>[have a word]</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi muốn <strong>nói chuyện ngắn gọn hoặc riêng tư</strong> với ai đó, chúng ta dùng cụm từ cố định <strong>\"have a word\"</strong> (dạng số ít) chứ không phải \"words\".</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi muốn <strong>nói chuyện riêng</strong> với giáo viên sau buổi học.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p>4. Mum didn't <strong><u>have the times</u></strong> to go to the shop today. → <strong>[have the time/have time]</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi nói về việc <strong>có đủ thời gian để làm gì đó</strong>, chúng ta dùng cụm từ <strong>\"have time\"</strong> hoặc <strong>\"have the time\"</strong> (thường là số ít và không có \"s\" sau \"time\").</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Mẹ không <strong>có thời gian</strong> để đi chợ hôm nay.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p>5. They <strong><u>don't have got</u></strong> any cake in the cafe today. → <strong>[haven't got/have not got/don't have/do not have]</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Đây là lỗi kết hợp giữa hai cách nói về sự sở hữu: \"have got\" và \"have\".</p>\n<ul>\n<li>\n<p>Nếu dùng \"have got\", phủ định là <strong>\"haven't got\"</strong>.</p>\n</li>\n<li>\n<p>Nếu dùng \"have\", phủ định là <strong>\"don't have\"</strong>.</p>\n</li>\n<li>\n<p>Không dùng \"don't have got\".</p>\n</li>\n</ul>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Hôm nay họ không <strong>có</strong> bất kỳ chiếc bánh nào trong quán cà phê.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p>6. You're going away? Well, <strong><u>get</u></strong> a good journey then. → <strong>[have]</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi chúc ai đó có một chuyến đi tốt đẹp, chúng ta dùng động từ <strong>\"have\"</strong> trong cụm <strong>\"have a good journey\"</strong>. \"Get\" không phù hợp trong ngữ cảnh này.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Bạn đi xa à? Chúc bạn có một <strong>chuyến đi tốt đẹp</strong> nhé.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p>7. Can I <strong><u>have a see</u></strong> at your new stamp collection? → <strong>[have a look]</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi muốn <strong>nhìn hoặc xem cái gì đó</strong>, chúng ta dùng cụm từ cố định <strong>\"have a look\"</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi xem bộ sưu tập tem mới của bạn được không?</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p>8. Are you thirsty? Do you want to <strong><u>have drink</u></strong>? → <strong>[have a drink]</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi muốn <strong>uống một thứ gì đó</strong>, chúng ta dùng cụm từ cố định <strong>\"have a drink\"</strong> (có mạo từ \"a\").</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Bạn khát không? Bạn có muốn <strong>uống gì đó</strong> không?</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p>9. I <strong><u>has got</u></strong> two brothers and a sister. → <strong>[have got]</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Với chủ ngữ \"I\" (tôi), động từ \"have\" luôn ở dạng <strong>\"have\"</strong> chứ không phải \"has\". Cụm từ là <strong>\"have got\"</strong> (có).</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi <strong>có</strong> hai anh trai và một em gái.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p>10. My head hurts. I guess I <strong>have a<u> stomachache</u></strong>. → <strong>[headache]</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Câu đầu tiên nói \"My head hurts\" (đầu tôi đau), vậy vấn đề là <strong>đau đầu (headache)</strong> chứ không phải đau bụng. Cụm từ là <strong>have a headache</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Đầu tôi đau. Tôi đoán tôi <strong>bị đau đầu</strong>.</em></p>\n</li>\n</ul>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 10,
+        "totalCorrect": 10,
+        "userAnswer": {
+          "input_8": "have got",
+          "input_7": "have a drink",
+          "input_0": "have her hair cut",
+          "input_1": "have a go",
+          "input_2": "have a word",
+          "input_3": "have the time",
+          "input_4": "haven't got",
+          "input_5": "have",
+          "input_6": "have a look",
+          "input_9": "headache"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "have her hair cut"
+          ],
+          "input_1": [
+            "have a go"
+          ],
+          "input_2": [
+            "have a word"
+          ],
+          "input_3": [
+            "have the time",
+            "have time"
+          ],
+          "input_4": [
+            "haven't got",
+            "have not got",
+            "don't have",
+            "do not have"
+          ],
+          "input_5": [
+            "have"
+          ],
+          "input_6": [
+            "have a look"
+          ],
+          "input_7": [
+            "have a drink"
+          ],
+          "input_8": [
+            "have got"
+          ],
+          "input_9": [
+            "headache"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": true,
+          "input_9": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-262529",
+      "sourceQuestionId": 262529,
+      "challengeId": 28160,
+      "classChallengeId": "79473",
+      "title": null,
+      "type": 2,
+      "prompt": "Exercise 3.\n\nNote down at least 10 words/phrases/sentences with their definitions (Ghi lại ít nhất 10 từ vựng/cụm từ/câu học được từ phần Vocabulary, kèm theo nghĩa)",
+      "introductionText": "Exercise 3.\n\nNote down at least 10 words/phrases/sentences with their definitions (Ghi lại ít nhất 10 từ vựng/cụm từ/câu học được từ phần Vocabulary, kèm theo nghĩa)",
+      "contentText": "Ví dụ: have a good journey: có một chuyến đi tốt đẹp",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-ExtraBold; background-color: #ffffff; color: #242938; font-weight: bolder;\">Exercise 3</span><strong><em>. </em></strong></span></p>\n<p><span style=\"font-family: Nunito-Regular;\"><strong>Note down at least 10 words/phrases/sentences with their definitions </strong><em>(Ghi lại &iacute;t nhất 10 từ vựng/cụm từ/c&acirc;u học được từ phần Vocabulary, k&egrave;m theo nghĩa)</em></span></p>",
+        "content": "<p><em><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">V&iacute; dụ: have a good journey: c&oacute; một chuyến đi tốt đẹp</span></em></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "headache: đau đầu\nhave a look: xem thử\nhave a go: thử làm gì đó\nhave a good journey: chúc chuyến đi tốt đẹp\nhave a moment: có thời gian rảnh một chút\nhave a word with somebody: nói chuyện/trao đổi với ai đó\nhave a good time: có khoảng thời gian vui vẻ\nhave my hair cut: đi cắt tóc\nhaven't got: không có\nhave the time: có thời gian",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "lesson": 8,
+  "lessonKey": "lesson-08",
+  "items": [
+    {
+      "challengeId": 30673,
+      "classChallengeId": "81898",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 49,
+      "submittedAt": "2026-06-26 22:44:53",
+      "markedAt": "2026-06-30 16:13:53",
+      "commentText": "Hi Khánh, bài này em làm rất tốt rồi nha. You aced the test!",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "290259": {
+          "total_question": 10,
+          "total_correct_result_answer": 10,
+          "user_answer": {
+            "input_0": "She",
+            "input_2": "He",
+            "input_3": "She",
+            "input_4": "We",
+            "input_5": "He",
+            "input_6": "They",
+            "input_7": "He",
+            "input_8": "They",
+            "input_9": "She",
+            "input_1": "She"
+          },
+          "correct_answer": {
+            "input_0": [
+              "She"
+            ],
+            "input_1": [
+              "She"
+            ],
+            "input_2": [
+              "He"
+            ],
+            "input_3": [
+              "She"
+            ],
+            "input_4": [
+              "We"
+            ],
+            "input_5": [
+              "He"
+            ],
+            "input_6": [
+              "They"
+            ],
+            "input_7": [
+              "He"
+            ],
+            "input_8": [
+              "They"
+            ],
+            "input_9": [
+              "She"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 290259,
+          "challenge_id": 30673
+        },
+        "290260": {
+          "total_question": 7,
+          "total_correct_result_answer": 7,
+          "user_answer": {
+            "input_0": "himself",
+            "input_1": "herself",
+            "input_2": "themselves",
+            "input_4": "himself",
+            "input_3": "herself",
+            "input_5": "itself",
+            "input_6": "ourselves"
+          },
+          "correct_answer": {
+            "input_0": [
+              "himself"
+            ],
+            "input_1": [
+              "herself"
+            ],
+            "input_2": [
+              "themselves"
+            ],
+            "input_3": [
+              "herself"
+            ],
+            "input_4": [
+              "himself"
+            ],
+            "input_5": [
+              "itself"
+            ],
+            "input_6": [
+              "ourselves"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 290260,
+          "challenge_id": 30673
+        },
+        "290261": {
+          "total_question": 10,
+          "total_correct_result_answer": 8,
+          "user_answer": {
+            "input_0": "myself",
+            "input_1": "me",
+            "input_2": "she",
+            "input_3": "it",
+            "input_4": "yours",
+            "input_5": "these",
+            "input_6": "your",
+            "input_7": "this",
+            "input_8": "its",
+            "input_9": "yourself"
+          },
+          "correct_answer": {
+            "input_0": [
+              "myself"
+            ],
+            "input_1": [
+              "me"
+            ],
+            "input_2": [
+              "she"
+            ],
+            "input_3": [
+              "its"
+            ],
+            "input_4": [
+              "yours"
+            ],
+            "input_5": [
+              "these"
+            ],
+            "input_6": [
+              "your"
+            ],
+            "input_7": [
+              "this"
+            ],
+            "input_8": [
+              "it"
+            ],
+            "input_9": [
+              "yourself"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": false,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": false,
+            "input_9": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 290261,
+          "challenge_id": 30673
+        },
+        "290262": {
+          "total_question": 7,
+          "total_correct_result_answer": 7,
+          "user_answer": {
+            "input_0": "This",
+            "input_1": "Those",
+            "input_2": "that",
+            "input_3": "This",
+            "input_4": "These",
+            "input_5": "This",
+            "input_6": "those"
+          },
+          "correct_answer": {
+            "input_0": [
+              "This"
+            ],
+            "input_1": [
+              "Those"
+            ],
+            "input_2": [
+              "that"
+            ],
+            "input_3": [
+              "This"
+            ],
+            "input_4": [
+              "These"
+            ],
+            "input_5": [
+              "This"
+            ],
+            "input_6": [
+              "those"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 290262,
+          "challenge_id": 30673
+        },
+        "290263": {
+          "total_question": 17,
+          "total_correct_result_answer": 17,
+          "user_answer": {
+            "input_0": "D",
+            "input_1": "P",
+            "input_2": "C",
+            "input_4": "F",
+            "input_5": "K",
+            "input_6": "G",
+            "input_7": "M",
+            "input_8": "I",
+            "input_9": "H",
+            "input_10": "O",
+            "input_11": "R",
+            "input_12": "L",
+            "input_14": "Q",
+            "input_15": "B",
+            "input_16": "N",
+            "input_3": "J",
+            "input_13": "E"
+          },
+          "correct_answer": {
+            "input_0": [
+              "D"
+            ],
+            "input_1": [
+              "P"
+            ],
+            "input_2": [
+              "C"
+            ],
+            "input_3": [
+              "J"
+            ],
+            "input_4": [
+              "F"
+            ],
+            "input_5": [
+              "K"
+            ],
+            "input_6": [
+              "G"
+            ],
+            "input_7": [
+              "M"
+            ],
+            "input_8": [
+              "I"
+            ],
+            "input_9": [
+              "H"
+            ],
+            "input_10": [
+              "O"
+            ],
+            "input_11": [
+              "R"
+            ],
+            "input_12": [
+              "L"
+            ],
+            "input_13": [
+              "E"
+            ],
+            "input_14": [
+              "Q"
+            ],
+            "input_15": [
+              "B"
+            ],
+            "input_16": [
+              "N"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true,
+            "input_10": true,
+            "input_11": true,
+            "input_12": true,
+            "input_13": true,
+            "input_14": true,
+            "input_15": true,
+            "input_16": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 290263,
+          "challenge_id": 30673
+        }
+      }
+    },
+    {
+      "challengeId": 30674,
+      "classChallengeId": "81899",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 14,
+      "submittedAt": "2026-06-26 23:10:00",
+      "markedAt": "2026-07-02 23:32:36",
+      "commentText": "Hi Khánh. Cô gửi nhận xét cho challenge của mình nha.\n\r\nEm chú ý dấu câu trong bài viết để không bị tính là sai nha.\n\r\n1. Fluency & Coherence (FC)\n\r\n\r\n\r\nEm trả lời đúng trọng tâm các câu hỏi và có mở rộng thêm ý, giúp bài nói đầy đủ hơn.\n\r\n\n\r\n\r\nTuy nhiên, em vẫn còn ậm ờ khá nhiều ở một số đoạn. Em nên luyện tập ngắt nghỉ hợp lý và dành một khoảng dừng ngắn để suy nghĩ thay vì sử dụng các từ đệm quá thường xuyên nhé.\n\r\n\n\r\n\r\nKhi kiểm soát tốt nhịp nói, bài của em sẽ tự nhiên và dễ nghe hơn rất nhiều.\n\r\n\n\r\n\r\n2. Lexical Resource (LR)\n\r\n\r\n\r\nEm sử dụng từ vựng nhìn chung phù hợp với chủ đề.\n\r\n\n\r\n\r\nMột số cách dùng từ cần điều chỉnh:\n\r\n\r\n\r\nThay vì grow every day khi nói về việc công việc giúp bản thân phát triển, em có thể dùng:\n\r\n\r\n\r\ndevelop myself every day\n\r\n\n\r\n\r\nimprove my skills every day\n\r\n\n\r\n\r\nlearn new things every day\n\r\n\n\r\n\r\n\n\r\n\r\nyoung sister\n→ younger sister\n\r\n\n\r\n\r\nEm chú ý sử dụng đúng cụm từ cố định để cách diễn đạt tự nhiên hơn nhé.\n\r\n3. Grammatical Range & Accuracy (GR)\n\r\n\r\n\r\nEm kiểm soát ngữ pháp khá tốt và chưa có lỗi nổi bật cần chỉnh sửa trong bài này.\n\r\n\n\r\n\r\n4. Pronunciation (PR)\n\r\nMột số từ cần luyện lại:\n\r\n\r\n\r\nsenior /ˈsiː.ni.ər/\n\r\n\n\r\n\r\ntailor /ˈteɪ.lər/\n\r\n\n\r\n\r\nis /ɪz/ (em cần phát âm rõ âm cuối /z/)\n\r\n\n\r\n\r\nEm chú ý phát âm đầy đủ âm cuối vì việc bỏ âm cuối có thể làm giảm độ rõ ràng của bài nói nhé.\n\r\nEm cố gắng luyện tập cải thiện dựa trên feedback để bài sau mình tiến bộ hơn nha!",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "290264": {
+          "total_question": 7,
+          "total_correct_result_answer": 6,
+          "user_answer": {
+            "input_0": "She's wearing a long dress.",
+            "input_1": "He's wearing a dark suit and a tie…and sneakers.",
+            "input_2": "She's wearing white pants and a red blouse.",
+            "input_3": "He's wearing shorts and a T-shirt.",
+            "input_4": "She's wearing a yellow skirt, a blue blouse, and red sandals.",
+            "input_5": "She's wearing jeans and a green shirt",
+            "input_6": "He's wearing shorts and a tight shirt."
+          },
+          "correct_answer": {
+            "input_0": [
+              "She's wearing a long dress.",
+              "She's wearing a long dress and glasses."
+            ],
+            "input_1": [
+              "He's wearing a dark suit and a tie.",
+              "He's wearing a dark suit, a tie, and sneakers."
+            ],
+            "input_2": [
+              "She's wearing white pants and a red blouse."
+            ],
+            "input_3": [
+              "He's wearing shorts and a T-shirt."
+            ],
+            "input_4": [
+              "She's wearing a yellow skirt, a blue blouse, and red sandals."
+            ],
+            "input_5": [
+              "She's wearing jeans and a green shirt.",
+              "She's wearing jeans, a green shirt, and a funny hat"
+            ],
+            "input_6": [
+              "He's wearing shorts and a tight shirt."
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": false,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 290264,
+          "challenge_id": 30674
+        },
+        "290265": {
+          "total_question": 5,
+          "total_correct_result_answer": 5,
+          "user_answer": {
+            "input_0": "He is into cars.",
+            "input_1": "I love taking photographs of wild birds when I'm in the countryside.",
+            "input_2": "I read a lot of books and i love going to the library.",
+            "input_3": "My brother and i spend all our free time in computer stores and on the internet.",
+            "input_4": "Both of us love to learn new things about cultures."
+          },
+          "correct_answer": {
+            "input_0": [
+              "He's into cars.",
+              "He is into cars."
+            ],
+            "input_1": [
+              "I like taking photographs of wild birds when I'm in the countryside.",
+              "I love taking photographs of wild birds when I'm in the countryside.",
+              "I enjoy taking photographs of wild birds when I'm in the countryside."
+            ],
+            "input_2": [
+              "I read a lot of books and I love going to the library."
+            ],
+            "input_3": [
+              "My brother and I spend all our free time in computer stores and on the Internet."
+            ],
+            "input_4": [
+              "Both of us enjoy learning new things about cultures.",
+              "Both of us love learning new things about cultures.",
+              "Both of us love to learn new things about cultures.",
+              "Both of us like learning new things about cultures.",
+              "Both of us like to learn new things about cultures."
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 290265,
+          "challenge_id": 30674
+        },
+        "290266": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "into + noun/V-ing = Thích quan tâm đến\nWild birds =Chim hoang dã \nIn the countryside = ở nông thôn\nBoth of us: Cả hai chúng tôi\nspend all our free time: Dành tất cả thời gian của chúng tôi\ntake photographs of: chụp ảnh\na lot of books: rất nhiều sách\nteach myself: tự học\nlearn new things about cultures: tìm hiểu những điều mới về các nền văn hóa\ngo away for the weekend: đi chơi vào cuối tuần",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 290266,
+          "challenge_id": 30674
+        },
+        "290267": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://docs.google.com/document/d/1_re8Kh5M3zwnAmjmitUmGPCCEmSDUqxZG0Y_PbI9b5A/edit?usp=sharing",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 290267,
+          "challenge_id": 30674
+        },
+        "290268": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://drive.google.com/file/d/1r0g0N6ghkDrZ_xP4QimnM6sdjgxKCCIT/view?usp=sharing",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 290268,
+          "challenge_id": 30674
+        }
+      }
+    }
+  ]
+}

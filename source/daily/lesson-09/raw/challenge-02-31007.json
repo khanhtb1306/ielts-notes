@@ -1,0 +1,440 @@
+{
+  "listItem": {
+    "id": "82214",
+    "challenge_id": 31007,
+    "class_id": "177286917873dop75b27mv",
+    "day": 9,
+    "deadline": "2026-06-29 23:30:00",
+    "challenge_title": "[PRE IELTS] LESSON 9 - CHALLENGE 2",
+    "challenge_note": "Grammar | Shadowing | Speaking (Personality)",
+    "challenge_status": 1,
+    "challenge_band": "161433861829325240c1g7",
+    "total_question": 37,
+    "classification": "dc",
+    "student_challenge": {
+      "id": 563762,
+      "class_challenge_id": 82214,
+      "class_id": "177286917873dop75b27mv",
+      "challenge_id": 31007,
+      "cts_id": "1780455880vwydc1i2ehir",
+      "rate": 1,
+      "comment": "<p>Hi Khánh, bài này em làm tốt nhé. Phần script em làm cũng ổn rồi nha.</p>",
+      "url": null,
+      "redo_comment": null,
+      "cancel_comment": null,
+      "date_redo": null,
+      "status_mark": "graded",
+      "status_mark_date": "2026-07-04 20:22:10",
+      "flag_overdue": 0,
+      "flag_not_star": 0,
+      "flag_not_submit": 0,
+      "flag_late_redo": 0,
+      "flag_late_submit": 0,
+      "flag_status_mark": 0,
+      "updated_by": "1779875378vawpfok6ii4u",
+      "updated": "2026-07-04 20:22:10",
+      "created_by": "1779875378vawpfok6ii4u",
+      "created": "2026-06-29 22:29:25",
+      "correct_answer": 36,
+      "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+      "submitted_at": "2026-06-29 22:29:25",
+      "re_submitted_at": null,
+      "answers": [],
+      "tab_switch_count": 0
+    }
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "82214",
+        "challenge_id": 31007,
+        "class_id": "177286917873dop75b27mv",
+        "day": 9,
+        "deadline": "2026-06-29 23:30:00",
+        "flag_status_mark": 1,
+        "flag_not_submit": 1,
+        "created": "2026-06-27 18:26:25",
+        "created_by": null,
+        "challenge": {
+          "id": "31007",
+          "title": "[PRE IELTS] LESSON 9 - CHALLENGE 2",
+          "note": "Grammar | Shadowing | Speaking (Personality)",
+          "day": "20",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "161433861829325240c1g7",
+          "created": "2026-06-27 18:26:25",
+          "updated": null,
+          "created_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+          "updated_by": null,
+          "total_question": 37,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 8065
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 563762,
+        "class_challenge_id": 82214,
+        "class_id": "177286917873dop75b27mv",
+        "challenge_id": 31007,
+        "cts_id": "1780455880vwydc1i2ehir",
+        "rate": 1,
+        "comment": "<p>Hi Khánh, bài này em làm tốt nhé. Phần script em làm cũng ổn rồi nha.</p>",
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": "graded",
+        "status_mark_date": "2026-07-04 20:22:10",
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": "1779875378vawpfok6ii4u",
+        "updated": "2026-07-04 20:22:10",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-06-29 22:29:25",
+        "correct_answer": 36,
+        "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+        "submitted_at": "2026-06-29 22:29:25",
+        "re_submitted_at": null,
+        "answers": {
+          "293799": {
+            "total_question": 16,
+            "total_correct_result_answer": 15,
+            "user_answer": {
+              "input_2": "ful",
+              "input_3": "less",
+              "input_4": "im",
+              "input_5": "dis",
+              "input_6": "un",
+              "input_0": "il",
+              "input_1": "im",
+              "input_7": "ir",
+              "input_8": "ful",
+              "input_9": "less",
+              "input_10": "in",
+              "input_11": "un",
+              "input_12": "full",
+              "input_13": "less",
+              "input_14": "un",
+              "input_15": "in"
+            },
+            "correct_answer": {
+              "input_0": [
+                "il"
+              ],
+              "input_1": [
+                "im"
+              ],
+              "input_2": [
+                "ful",
+                "less"
+              ],
+              "input_3": [
+                "less",
+                "ful"
+              ],
+              "input_4": [
+                "im"
+              ],
+              "input_5": [
+                "dis"
+              ],
+              "input_6": [
+                "un"
+              ],
+              "input_7": [
+                "ir"
+              ],
+              "input_8": [
+                "ful",
+                "less"
+              ],
+              "input_9": [
+                "less",
+                "ful"
+              ],
+              "input_10": [
+                "in"
+              ],
+              "input_11": [
+                "un"
+              ],
+              "input_12": [
+                "ful",
+                "less"
+              ],
+              "input_13": [
+                "less",
+                "ful"
+              ],
+              "input_14": [
+                "un"
+              ],
+              "input_15": [
+                "in"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true,
+              "input_10": true,
+              "input_11": true,
+              "input_12": false,
+              "input_13": true,
+              "input_14": true,
+              "input_15": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 293799,
+            "challenge_id": 31007
+          },
+          "293800": {
+            "total_question": 20,
+            "total_correct_result_answer": 20,
+            "user_answer": {
+              "input_0": "dishonest",
+              "input_1": "responsible",
+              "input_2": "irresponsible",
+              "input_3": "unhealthy",
+              "input_4": "tidy",
+              "input_5": "selfish",
+              "input_6": "patient",
+              "input_7": "bossy",
+              "input_8": "polite",
+              "input_9": "lazy",
+              "input_10": "careful",
+              "input_11": "talkative",
+              "input_12": "generous",
+              "input_13": "easy-going",
+              "input_14": "confident",
+              "input_15": "hot-tempered",
+              "input_16": "helpful",
+              "input_17": "humble",
+              "input_18": "kind",
+              "input_19": "creative"
+            },
+            "correct_answer": {
+              "input_0": [
+                "dishonest"
+              ],
+              "input_1": [
+                "responsible"
+              ],
+              "input_2": [
+                "irresponsible"
+              ],
+              "input_3": [
+                "unhealthy"
+              ],
+              "input_4": [
+                "tidy"
+              ],
+              "input_5": [
+                "selfish"
+              ],
+              "input_6": [
+                "patient"
+              ],
+              "input_7": [
+                "bossy"
+              ],
+              "input_8": [
+                "polite"
+              ],
+              "input_9": [
+                "lazy"
+              ],
+              "input_10": [
+                "careful"
+              ],
+              "input_11": [
+                "talkative"
+              ],
+              "input_12": [
+                "generous"
+              ],
+              "input_13": [
+                "easy-going"
+              ],
+              "input_14": [
+                "confident"
+              ],
+              "input_15": [
+                "hot-tempered"
+              ],
+              "input_16": [
+                "helpful"
+              ],
+              "input_17": [
+                "humble"
+              ],
+              "input_18": [
+                "kind"
+              ],
+              "input_19": [
+                "creative"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true,
+              "input_10": true,
+              "input_11": true,
+              "input_12": true,
+              "input_13": true,
+              "input_14": true,
+              "input_15": true,
+              "input_16": true,
+              "input_17": true,
+              "input_18": true,
+              "input_19": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 293800,
+            "challenge_id": 31007
+          },
+          "293801": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "https://docs.google.com/document/d/1gXCsH5rLPyc4A9xJxOtJXKkCw9O5e272Lk47iCEJBxg/edit?usp=drive_link",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 293801,
+            "challenge_id": 31007
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 83608,
+          "content": "<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; color: #ffffff; border-radius: 0px !important; font-family: Nunito-ExtraBold; font-size: 16pt; background-color: #ba372a;\"><strong style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"> I. GRAMMAR </span></span></strong></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 16pt; border-radius: 0px !important; font-family: Nunito-ExtraBold; background-color: #ba372a; color: #ffffff;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"> II. SHADOWING </span></strong></span></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Học thuộc làu làu tất cả các câu sau (Ghi nhớ nghĩa và Nghe + bắt chước đúng ngữ âm, ngữ điệu và tốc độ)</strong></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">1. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709203100.mp3\" />What's your brother's wife like?</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">2.  <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709203109.mp3\" />How do you like the new teachers?</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">3.  <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709203123.mp3\" />She's great to be with because she makes me laugh all the time.</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">4.  <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709203132.mp3\" />He's really friendly and easy to talk to.</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">5.  <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709203140.mp3\" />He loves going out and meeting people. We go to parties all the time.</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">6.  <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709203149.mp3\" />She loves giving things to people. And she doesn't expect anything in return.</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">7.  <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709203156.mp3\" />She never seems to smile. I wonder why she's so serious all the time.</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">8.  <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709203164.mp3\" />All they like to do is sit at home and play computer games.</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">9.  <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709203172.mp3\" />He's kind of shy and not very talkative.</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">10. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709203179.mp3\" />She always looks like she's in a bad mood.</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">11. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709203189.mp3\" /> When someone tells a really funny joke, we all laugh, but she doesn't seem to think it's funny.</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">12. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709203200.mp3\" /> He never talks to anyone. He just sits there and talks to himself.</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">13. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709203209.mp3\" /> It's difficult to get him to laugh. I guess he's pretty serious.</span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">14. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709203219.mp3\" /> He always asks a new girl out on a date every weekend. I don't like guys like that.</span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"> </p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"color: #ffffff; background-color: #ba372a;\"><strong style=\"font-family: Nunito-ExtraBold; font-size: 21.3333px; background-color: #ba372a;\"> III. SPEAKING </strong></span></p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 31007,
+          "id": 293799,
+          "name": null,
+          "title": "I. Grammar",
+          "content": null,
+          "explain": "<p><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Các trường hợp thêm tiền tố (prefixes) và (suffixes), HV có thể tự đoán trước dựa trên cảm quan về ý nghĩa của các nhóm tiền tố-hậu tố. Trong những tiền tố - hậu tố đã cho trong bài, nhóm các tiền tố</span><span style=\"font-size: 12pt; color: #cc0000; background-color: #ffffff; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> un-, dis-, in-, ir-, im-</span><span style=\"font-size: 12pt; background-color: #ffffff; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-size: 12pt; background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">thường đảo ngược nghĩa của tính từ gốc và thường mang hướng phủ định (negative). Còn </span><span style=\"font-size: 12pt; color: #cc0000; background-color: #ffffff; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">-ful </span><span style=\"font-size: 12pt; background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">và </span><span style=\"font-size: 12pt; color: #cc0000; background-color: #ffffff; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">-less</span><span style=\"font-size: 12pt; background-color: #ffffff; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-size: 12pt; background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">là 2 hậu tố.</span><span style=\"font-size: 12pt; color: #cc0000; background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-size: 12pt; color: #cc0000; background-color: #ffffff; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">-ful</span><span style=\"font-size: 12pt; color: #cc0000; background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-size: 12pt; background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">thường mang ý nghĩa là đủ đầy, tích cực còn </span><span style=\"font-size: 12pt; color: #cc0000; background-color: #ffffff; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">-less</span><span style=\"font-size: 12pt; background-color: #ffffff; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-size: 12pt; background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">không có tính chất gì đó. Tiếp đó nên tra cứu từ điển và học thuộc các cặp từ vì không có quy luật cố định. <br /></span></span></p>\n<ul>\n<li><strong>legal</strong> (hợp pháp) / <strong>illegal</strong> (bất hợp pháp)</li>\n<li><strong>possible</strong> (có thể) / <strong>impossible</strong> (không thể)</li>\n<li><strong>careful</strong> (cẩn thận) / <strong>careless</strong> (bất cẩn)</li>\n<li><strong>polite</strong> (lịch sự) / <strong>impolite</strong> (bất lịch sự)</li>\n<li><strong>honest</strong> (trung thực) / <strong>dishonest</strong> (không trung thực)</li>\n<li><strong>happy</strong> (vui vẻ) / <strong>unhappy</strong> (không vui)</li>\n<li><strong>responsible</strong> (có trách nhiệm) / <strong>irresponsible</strong> (vô trách nhiệm)</li>\n<li><strong>hopeful</strong> (đầy hy vọng) / <strong>hopeless</strong> (vô vọng)</li>\n<li><strong>active</strong> (năng động) / <strong>inactive</strong> (không năng động)</li>\n<li><strong>healthy</strong> (khỏe mạnh) / <strong>unhealthy</strong> (không lành mạnh)</li>\n<li><strong>useful</strong> (hữu ích) / <strong>useless</strong> (vô dụng)</li>\n<li><strong>comfortable</strong> (thoải mái) / <strong>uncomfortable</strong> (không thoải mái)</li>\n<li><strong>convenient</strong> (tiện lợi) / <strong>inconvenient</strong> (bất tiện)<span id=\"docs-internal-guid-a2f14483-7fff-a472-1e36-6e86cea568be\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br /></span></span></li>\n</ul>",
+          "introduction": "<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong><span style=\"font-family: Nunito-ExtraBold;\">Exercise 1.</span> Add these prefixes and suffixes to the original words to create adjectives with opposite meanings. Use a dictionary to help you.<em> </em></strong><em>(Th&ecirc;m tiền tố v&agrave; hậu tố v&agrave;o c&aacute;c từ gốc để tạo th&agrave;nh c&aacute;c t&iacute;nh từ c&oacute; nghĩa kh&aacute;c nhau. Sử dụng từ điển để hỗ trợ)</em></span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><em><span style=\"color: #e74c3c;\"><strong>un-&nbsp; &nbsp; -less&nbsp; &nbsp; -ful&nbsp; &nbsp; im-&nbsp; &nbsp; dis-&nbsp; &nbsp; in-&nbsp; &nbsp; ir-&nbsp; &nbsp; il</strong></span></em></span><em style=\"font-family: Nunito-Regular; font-size: 16px;\"><span style=\"color: #e74c3c;\"><strong>-</strong></span></em></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 71029,
+              "content": "<table style=\"width: 552px; height: 324.292px;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\" data-cke-table-faked-selection-table=\"\">\n<tbody>\n<tr style=\"height: 21.6806px;\">\n<td class=\"cke_table-faked-selection\" style=\"line-height: 1.3; width: 251px; height: 21.6806px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">1. friendly</span></td>\n<td class=\"cke_table-faked-selection\" style=\"line-height: 1.3; width: 295px; height: 21.6806px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"color: #e74c3c;\"><u><em><strong>un</strong></em></u></span>friendly</span></td>\n</tr>\n<tr style=\"height: 23.2778px;\">\n<td class=\"cke_table-faked-selection\" style=\"width: 251px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">2. legal</span></td>\n<td class=\"cke_table-faked-selection\" style=\"width: 295px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">[input_0]legal</span></td>\n</tr>\n<tr style=\"height: 23.2778px;\">\n<td class=\"cke_table-faked-selection\" style=\"width: 251px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">3. possible</span></td>\n<td class=\"cke_table-faked-selection\" style=\"width: 295px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">[input_1]possible</span></td>\n</tr>\n<tr style=\"height: 23.2778px;\">\n<td class=\"cke_table-faked-selection\" style=\"width: 251px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">4. care[input_2]</span></td>\n<td class=\"cke_table-faked-selection\" style=\"width: 295px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">care[input_3]</span></td>\n</tr>\n<tr style=\"height: 23.2778px;\">\n<td class=\"cke_table-faked-selection\" style=\"width: 251px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">5. polite</span></td>\n<td class=\"cke_table-faked-selection\" style=\"width: 295px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">[input_4]polite</span></td>\n</tr>\n<tr style=\"height: 23.2778px;\">\n<td class=\"cke_table-faked-selection\" style=\"width: 251px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">6. honest</span></td>\n<td class=\"cke_table-faked-selection\" style=\"width: 295px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">[input_5]honest</span></td>\n</tr>\n<tr style=\"height: 23.2778px;\">\n<td class=\"cke_table-faked-selection\" style=\"width: 251px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">7. happy</span></td>\n<td class=\"cke_table-faked-selection\" style=\"width: 295px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">[input_6]happy</span></td>\n</tr>\n<tr style=\"height: 23.2778px;\">\n<td class=\"cke_table-faked-selection\" style=\"width: 251px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">8. responsible</span></td>\n<td class=\"cke_table-faked-selection\" style=\"width: 295px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">[input_7]responsible</span></td>\n</tr>\n<tr style=\"height: 23.2778px;\">\n<td class=\"cke_table-faked-selection\" style=\"width: 251px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">9. hope[input_8]</span></td>\n<td class=\"cke_table-faked-selection\" style=\"width: 295px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">hope[input_9]</span></td>\n</tr>\n<tr style=\"height: 23.2778px;\">\n<td class=\"cke_table-faked-selection\" style=\"width: 251px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">10. active</span></td>\n<td class=\"cke_table-faked-selection\" style=\"width: 295px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">[input_10]active</span></td>\n</tr>\n<tr style=\"height: 23.2778px;\">\n<td class=\"cke_table-faked-selection\" style=\"width: 251px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">11. healthy</span></td>\n<td class=\"cke_table-faked-selection\" style=\"width: 295px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">[input_11]healthy</span></td>\n</tr>\n<tr style=\"height: 23.2778px;\">\n<td class=\"cke_table-faked-selection\" style=\"width: 251px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">12. use[input_12]</span></td>\n<td class=\"cke_table-faked-selection\" style=\"width: 295px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">use[input_13]</span></td>\n</tr>\n<tr style=\"height: 23.2778px;\">\n<td class=\"cke_table-faked-selection\" style=\"width: 251px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">13. comfortable</span></td>\n<td class=\"cke_table-faked-selection\" style=\"width: 295px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">[input_14]comfortable</span></td>\n</tr>\n<tr style=\"height: 23.2778px;\">\n<td class=\"cke_table-faked-selection\" style=\"width: 251px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">14. convenient</span></td>\n<td class=\"cke_table-faked-selection\" style=\"width: 295px; height: 23.2778px;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">[input_15]convenient</span></td>\n</tr>\n</tbody>\n</table>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31007,
+          "id": 293800,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Chủ yếu dựa v&agrave;o nghĩa của c&acirc;u để chọn t&iacute;nh c&aacute;ch hợp l&yacute; của nh&acirc;n vật</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. Dishonest</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;He always lies\" (Anh ta lu&ocirc;n n&oacute;i dối) =&gt; 1 người kh&ocirc;ng thật th&agrave; (dishonest)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. Responsible</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;She always finishes all her work on time&rdquo; (C&ocirc; ấy lu&ocirc;n ho&agrave;n th&agrave;nh c&ocirc;ng việc đ&uacute;ng giờ) =&gt; 1 người tr&aacute;ch nhiệm (responsible)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. Irresponsible</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;He&rsquo;s always behind his deadlines&rdquo; (Anh ta lu&ocirc;n chậm deadline) =&gt; 1 người thiếu tr&aacute;ch nhiệm (irresponsible)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. Unhealthy</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;He always stays up late and eats a lot of fast food&rdquo; (Anh ta lu&ocirc;n thức khuya v&agrave; ăn nhiều đồ ăn nhanh) =&gt; 1 người kh&ocirc;ng khỏe mạnh (unhealthy)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. Tidy</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;Everything in her room is in the right place&rdquo; (Mọi thứ trong ph&ograve;ng đều ở đ&uacute;ng vị tr&iacute;) =&gt; 1 người ngăn nắp, gọn g&agrave;ng (tidy)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. Selfish</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;My cousin Betty never shares her candies with her friends&rdquo; (Em họ Betty của t&ocirc;i kh&ocirc;ng bao giờ chia sẻ kẹo với bạn) =&gt; 1 người &iacute;ch kỉ (selfish)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. Patient</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;She will explain anything to us if we don&rsquo;t understand it&rdquo; (C&ocirc; ấy lu&ocirc;n giải th&iacute;ch mọi thứ cho ch&uacute;ng t&ocirc;i nếu ch&uacute;ng t&ocirc;i kh&ocirc;ng hiểu) =&gt; 1 người ki&ecirc;n nhẫn (patient)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. Bossy</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;My sister often tells me what to do\" (Chị t&ocirc;i lu&ocirc;n bảo t&ocirc;i phải l&agrave;m g&igrave;) =&gt; 1 người h&aacute;ch dịch (bossy)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9. Polite</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;She always says &ldquo;Please&rdquo; and &ldquo;Thank you&rdquo;&rdquo; (C&ocirc; ấy lu&ocirc;n n&oacute;i &ldquo;L&agrave;m ơn\" v&agrave; &ldquo;Cảm ơn\") =&gt; 1 người lịch sự (polite)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">10. Lazy</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;Get up!&rdquo; (Dậy đi - N&oacute;i đến việc người n&agrave;y vẫn đang ngủ) = đừng lười biếng nữa =&gt; lazy</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"background-color: transparent; font-family: Nunito-Regular; font-size: 12pt; font-weight: bold; white-space-collapse: preserve;\">11. Careful</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;He always makes sure his work has the highest quality&rdquo; (Anh ấy lu&ocirc;n đảm bảo c&ocirc;ng việc của m&igrave;nh c&oacute; chất lượng cao nhất) =&gt; 1 người cẩn thận (careful)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">12. Talkative</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;He usually talks too much&rdquo; (Anh ấy thường n&oacute;i qu&aacute; nhiều) =&gt; 1 người n&oacute;i nhiều (talkative)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">13. Generous</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;toward the poor&rdquo; (đối với những người ngh&egrave;o) =&gt; 1 người h&agrave;o ph&oacute;ng (generous)&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">14. Easy-going</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;Our new PE teacher is very relaxed and friendly&rdquo; (Gi&aacute;o vi&ecirc;n thể dục mới của ch&uacute;ng t&ocirc;i rất thoải m&aacute;i v&agrave; th&acirc;n thiện) =&gt; 1 người dễ t&iacute;nh (easy-going)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">15. Confident</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;He knows what he can do&rdquo; (Anh ta biết anh ta c&oacute; thể l&agrave;m g&igrave;) =&gt; 1 người tự tin (confident)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">16. Hot-tempered</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;My aunt is often angry&rdquo; (D&igrave; của t&ocirc;i thường giận dữ) =&gt; 1 người n&oacute;ng t&iacute;nh (hot-tempered)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">17. Helpful</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;You can ask Helen&rdquo; (Bạn c&oacute; thể hỏi Helen)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;She&rsquo;ll explain it to you&rdquo; (C&ocirc; ấy sẽ giải th&iacute;ch cho bạn)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=&gt; 1 người hay gi&uacute;p đỡ (helpful)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">18. Humble</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;He gave a great performance&rdquo; (Anh ấy đ&atilde; c&oacute; m&agrave;n tr&igrave;nh diễn tuyệt vời), &ldquo;but\" (nhưng) =&gt; tương phản nhau</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=&gt; 1 người khi&ecirc;m tốn (humble)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">19. Kind</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;Thank you for being so ____________ to me&rdquo; (Cảm ơn v&igrave; đ&atilde; như n&agrave;o với t&ocirc;i)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=&gt; tốt bụng (kind)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">20. Creative</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;have one or two good ideas&rdquo; (c&oacute; 1 hoặc 2 &yacute; tưởng tốt) =&gt; 1 người s&aacute;ng tạo (creative)</span></p>\n<p><span id=\"docs-internal-guid-7d2abb72-7fff-3560-debf-1e530da20201\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"></span></p>",
+          "introduction": "<p>&nbsp;</p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-family: Nunito-ExtraBold;\">Exercise 2.</span>&nbsp;</strong><span style=\"font-family: Nunito-Regular;\"><strong>Write suitable adjectives from the below table in the blanks to complete the sentences. </strong></span><em><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt;\">(</span>Viết những t&iacute;nh từ th&iacute;ch hợp từ bảng b&ecirc;n dưới v&agrave;o chỗ trống để ho&agrave;n th&agrave;nh c&acirc;u.<span style=\"font-size: 12pt;\">)</span></span></em></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\">&nbsp;</p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span id=\"docs-internal-guid-e02c5584-7fff-a9f9-b1c1-41ffac0b5592\"></span></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 451.27559055118115pt;\"><colgroup><col /><col /><col /><col /><col /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">patient</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">talkative</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">tidy</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">confident</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">selfish</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">dishonest</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\">humble</span></span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">generous</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">polite</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">hot-tempered</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">helpful</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">responsible</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">creative</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">easy-going</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">careful</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">bossy</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">kind</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">irresponsible</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">unhealthy</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">lazy</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 71030,
+              "content": "<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">1. He always lies. He's very [input_0].</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">2. </span><span style=\"font-family: Nunito-Regular; font-size: 16px;\">Jane is a very [input_1] person because she always finishes all her works all time.</span><span style=\"font-family: Nunito-Regular; font-size: 16px;\"> </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">3. By contrast, Josh is very [input_2] because he's always behind his deadlines.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">4. </span><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">Tom is very [input_3] because he always stays up late and eats a lot of fast food.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">5. </span><span style=\"font-family: Nunito-Regular;\">My sister is always very <span style=\"font-family: Nunito-Regular;\">[input_4]</span>. Everything in her room is in the right place.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\">6. My cousin Betty never shares her candies with her friends. She's so <span style=\"font-family: Nunito-Regular;\">[input_5]</span>.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\">7. My English teacher is always very <span style=\"font-family: Nunito-Regular;\">[input_6]</span>. She will explain anything to us if we don't understand it.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\">8. My sister often tells me what to do. She's a bit </span><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\">[input_7]</span></span></span><span style=\"font-family: Nunito-Regular;\">.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\">9. Mary is very </span><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\">[input_8]</span></span></span><span style=\"font-family: Nunito-Regular;\">. She always says \"Please\" and \"Thank you\".</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\">10. Get up! Don't be </span><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\">[input_9]</span></span></span><span style=\"font-family: Nunito-Regular;\">, Susan!</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\">11. He's a very </span><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\">[input_10]</span></span> </span><span style=\"font-family: Nunito-Regular;\">person. He always makes sure his work has the highest quality (chất lượng tốt nhất).</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\">12. My brother is </span><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\">[input_11]</span></span> </span><span style=\"font-family: Nunito-Regular;\">(nói nhiều). He usually talks too much.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\">13. She has always been very </span><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\">[input_12]</span></span> </span><span style=\"font-family: Nunito-Regular;\">toward the poor.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\">14. Our new PE teacher is very relaxed and friendly. He's an </span><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\">[input_13]</span></span> </span><span style=\"font-family: Nunito-Regular;\">person!</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\">15. Peter is </span><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\">[input_14]</span></span></span><span style=\"font-family: Nunito-Regular;\"> </span><span style=\"font-family: Nunito-Regular;\">(tự tin). He knows what he can do.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\">16. My aunt is often angry. She's really </span><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\">[input_15]</span></span></span><span style=\"font-family: Nunito-Regular;\">.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\">17. If your homework is difficult, you can ask Helen. She is always very </span><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\">[input_16]</span></span></span><span style=\"font-family: Nunito-Regular;\"> </span><span style=\"font-family: Nunito-Regular;\">and she'll explain it to you.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\">18. He gave a great performance, but he was very </span><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\">[input_17]</span></span></span><span style=\"font-family: Nunito-Regular;\">.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\">19. Thank you for being so </span><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\">[input_18]</span></span></span><span style=\"font-family: Nunito-Regular;\"> </span><span style=\"font-family: Nunito-Regular;\">to me.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-family: Nunito-Regular;\">20. I will try to be </span><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular;\">[input_19]</span></span></span><span style=\"font-family: Nunito-Regular;\"> </span><span style=\"font-family: Nunito-Regular;\">and have one or two good ideas.</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31007,
+          "id": 293801,
+          "name": null,
+          "title": "III. Speaking",
+          "content": "<p><span style=\"color: #c0392b; font-family: Nunito-Regular; font-size: 12pt;\"><strong>Link google docs (mở quyền nhận xét cho GV)</strong></span></p>",
+          "explain": null,
+          "introduction": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong>Chuẩn bị câu trả lời cho câu hỏi sau, sử dụng các từ vựng, cấu trúc, câu học được phía trên và từ bài Listening Script.</strong></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong>Xem thêm trong phần Gợi ý trả lời: <a href=\"http://docs.google.com/document/d/1H2njd08jaXZU-oYTYz3KIu98bjJezc7r/edit?usp=sharing&amp;ouid=116087920410815633677&amp;rtpof=true&amp;sd=true\" target=\"_blank\" rel=\"noopener\" data-cke-saved-href=\"http://docs.google.com/document/d/1H2njd08jaXZU-oYTYz3KIu98bjJezc7r/edit?usp=sharing&amp;ouid=116087920410815633677&amp;rtpof=true&amp;sd=true\">Gợi ý</a></strong></span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><em>What is (he/ she/ your father/ your mother) like?</em></span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">(Yêu cầu miêu tả tính cách + lí do của ít nhất 5 người thân)</span></p>\n<p><strong>Viết câu trả lời đầy đủ cho từng câu hỏi vào file google docs và nộp lại.</strong></p>\n<p><strong>GV feedback xong thì học thuộc lòng câu trả lời.</strong></p>\n<p><strong>Sau khi được GV hướng dẫn thêm trên lớp, HV tiếp tục hoàn thiện câu trả lời và luyện tập.</strong></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

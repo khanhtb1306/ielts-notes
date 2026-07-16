@@ -1,0 +1,579 @@
+{
+  "listItem": {
+    "id": "81898",
+    "challenge_id": 30673,
+    "class_id": "177286917873dop75b27mv",
+    "day": 8,
+    "deadline": "2026-06-27 23:30:00",
+    "challenge_title": "[PRE IELTS] LESSON 8 - CHALLENGE 1",
+    "challenge_note": "Grammar (Pronouns) | Vocabulary (Clothes)",
+    "challenge_status": 1,
+    "challenge_band": "161433861829325240c1g7",
+    "total_question": 51,
+    "classification": "dc",
+    "student_challenge": {
+      "id": 560861,
+      "class_challenge_id": 81898,
+      "class_id": "177286917873dop75b27mv",
+      "challenge_id": 30673,
+      "cts_id": "1780455880vwydc1i2ehir",
+      "rate": 1,
+      "comment": "<p>Hi Khánh, bài này em làm rất tốt rồi nha. You aced the test!</p>",
+      "url": null,
+      "redo_comment": null,
+      "cancel_comment": null,
+      "date_redo": null,
+      "status_mark": "graded",
+      "status_mark_date": "2026-06-30 16:13:53",
+      "flag_overdue": 0,
+      "flag_not_star": 0,
+      "flag_not_submit": 0,
+      "flag_late_redo": 0,
+      "flag_late_submit": 0,
+      "flag_status_mark": 0,
+      "updated_by": "1779875378vawpfok6ii4u",
+      "updated": "2026-06-30 16:13:53",
+      "created_by": "1779875378vawpfok6ii4u",
+      "created": "2026-06-26 22:44:53",
+      "correct_answer": 49,
+      "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+      "submitted_at": "2026-06-26 22:44:53",
+      "re_submitted_at": null,
+      "answers": [],
+      "tab_switch_count": 0
+    }
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "81898",
+        "challenge_id": 30673,
+        "class_id": "177286917873dop75b27mv",
+        "day": 8,
+        "deadline": "2026-06-27 23:30:00",
+        "flag_status_mark": 1,
+        "flag_not_submit": 1,
+        "created": "2026-06-25 21:06:13",
+        "created_by": null,
+        "challenge": {
+          "id": "30673",
+          "title": "[PRE IELTS] LESSON 8 - CHALLENGE 1",
+          "note": "Grammar (Pronouns) | Vocabulary (Clothes)",
+          "day": "17",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "161433861829325240c1g7",
+          "created": "2026-06-25 21:06:11",
+          "updated": null,
+          "created_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+          "updated_by": null,
+          "total_question": 51,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 9331
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 560861,
+        "class_challenge_id": 81898,
+        "class_id": "177286917873dop75b27mv",
+        "challenge_id": 30673,
+        "cts_id": "1780455880vwydc1i2ehir",
+        "rate": 1,
+        "comment": "<p>Hi Khánh, bài này em làm rất tốt rồi nha. You aced the test!</p>",
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": "graded",
+        "status_mark_date": "2026-06-30 16:13:53",
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": "1779875378vawpfok6ii4u",
+        "updated": "2026-06-30 16:13:53",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-06-26 22:44:53",
+        "correct_answer": 49,
+        "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+        "submitted_at": "2026-06-26 22:44:53",
+        "re_submitted_at": null,
+        "answers": {
+          "290259": {
+            "total_question": 10,
+            "total_correct_result_answer": 10,
+            "user_answer": {
+              "input_0": "She",
+              "input_2": "He",
+              "input_3": "She",
+              "input_4": "We",
+              "input_5": "He",
+              "input_6": "They",
+              "input_7": "He",
+              "input_8": "They",
+              "input_9": "She",
+              "input_1": "She"
+            },
+            "correct_answer": {
+              "input_0": [
+                "She"
+              ],
+              "input_1": [
+                "She"
+              ],
+              "input_2": [
+                "He"
+              ],
+              "input_3": [
+                "She"
+              ],
+              "input_4": [
+                "We"
+              ],
+              "input_5": [
+                "He"
+              ],
+              "input_6": [
+                "They"
+              ],
+              "input_7": [
+                "He"
+              ],
+              "input_8": [
+                "They"
+              ],
+              "input_9": [
+                "She"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 290259,
+            "challenge_id": 30673
+          },
+          "290260": {
+            "total_question": 7,
+            "total_correct_result_answer": 7,
+            "user_answer": {
+              "input_0": "himself",
+              "input_1": "herself",
+              "input_2": "themselves",
+              "input_4": "himself",
+              "input_3": "herself",
+              "input_5": "itself",
+              "input_6": "ourselves"
+            },
+            "correct_answer": {
+              "input_0": [
+                "himself"
+              ],
+              "input_1": [
+                "herself"
+              ],
+              "input_2": [
+                "themselves"
+              ],
+              "input_3": [
+                "herself"
+              ],
+              "input_4": [
+                "himself"
+              ],
+              "input_5": [
+                "itself"
+              ],
+              "input_6": [
+                "ourselves"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 290260,
+            "challenge_id": 30673
+          },
+          "290261": {
+            "total_question": 10,
+            "total_correct_result_answer": 8,
+            "user_answer": {
+              "input_0": "myself",
+              "input_1": "me",
+              "input_2": "she",
+              "input_3": "it",
+              "input_4": "yours",
+              "input_5": "these",
+              "input_6": "your",
+              "input_7": "this",
+              "input_8": "its",
+              "input_9": "yourself"
+            },
+            "correct_answer": {
+              "input_0": [
+                "myself"
+              ],
+              "input_1": [
+                "me"
+              ],
+              "input_2": [
+                "she"
+              ],
+              "input_3": [
+                "its"
+              ],
+              "input_4": [
+                "yours"
+              ],
+              "input_5": [
+                "these"
+              ],
+              "input_6": [
+                "your"
+              ],
+              "input_7": [
+                "this"
+              ],
+              "input_8": [
+                "it"
+              ],
+              "input_9": [
+                "yourself"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": false,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": false,
+              "input_9": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 290261,
+            "challenge_id": 30673
+          },
+          "290262": {
+            "total_question": 7,
+            "total_correct_result_answer": 7,
+            "user_answer": {
+              "input_0": "This",
+              "input_1": "Those",
+              "input_2": "that",
+              "input_3": "This",
+              "input_4": "These",
+              "input_5": "This",
+              "input_6": "those"
+            },
+            "correct_answer": {
+              "input_0": [
+                "This"
+              ],
+              "input_1": [
+                "Those"
+              ],
+              "input_2": [
+                "that"
+              ],
+              "input_3": [
+                "This"
+              ],
+              "input_4": [
+                "These"
+              ],
+              "input_5": [
+                "This"
+              ],
+              "input_6": [
+                "those"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 290262,
+            "challenge_id": 30673
+          },
+          "290263": {
+            "total_question": 17,
+            "total_correct_result_answer": 17,
+            "user_answer": {
+              "input_0": "D",
+              "input_1": "P",
+              "input_2": "C",
+              "input_4": "F",
+              "input_5": "K",
+              "input_6": "G",
+              "input_7": "M",
+              "input_8": "I",
+              "input_9": "H",
+              "input_10": "O",
+              "input_11": "R",
+              "input_12": "L",
+              "input_14": "Q",
+              "input_15": "B",
+              "input_16": "N",
+              "input_3": "J",
+              "input_13": "E"
+            },
+            "correct_answer": {
+              "input_0": [
+                "D"
+              ],
+              "input_1": [
+                "P"
+              ],
+              "input_2": [
+                "C"
+              ],
+              "input_3": [
+                "J"
+              ],
+              "input_4": [
+                "F"
+              ],
+              "input_5": [
+                "K"
+              ],
+              "input_6": [
+                "G"
+              ],
+              "input_7": [
+                "M"
+              ],
+              "input_8": [
+                "I"
+              ],
+              "input_9": [
+                "H"
+              ],
+              "input_10": [
+                "O"
+              ],
+              "input_11": [
+                "R"
+              ],
+              "input_12": [
+                "L"
+              ],
+              "input_13": [
+                "E"
+              ],
+              "input_14": [
+                "Q"
+              ],
+              "input_15": [
+                "B"
+              ],
+              "input_16": [
+                "N"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true,
+              "input_10": true,
+              "input_11": true,
+              "input_12": true,
+              "input_13": true,
+              "input_14": true,
+              "input_15": true,
+              "input_16": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 290263,
+            "challenge_id": 30673
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 82759,
+          "content": "<p style=\"line-height: 1.3; text-align: justify;\"><span style=\"font-family: Nunito-Light; text-align: start;\"><không có mục đề bài></span></p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 30673,
+          "id": 290259,
+          "name": null,
+          "title": "Grammar",
+          "content": "<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.3; text-align: justify;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"font-family: Nunito-ExtraBold;\">Exercise 1.</span> </span></span></span></strong></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; line-height: 1.3; text-align: justify;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Complete the sentences with a personal pronoun for the words in the brackets.</span></span></span></strong><span style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">&nbsp;</span></span></span><em style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">(Ho&agrave;n th&agrave;nh c&acirc;u sử dụng&nbsp;đại từ nh&acirc;n xưng&nbsp;tương ứng với c&aacute;c từ trong ngoặc)</span></span></em></span></span></p>",
+          "explain": "<ol>\n<li><strong>Giải thích:</strong> \"My girlfriend\" là ngôi thứ ba số ít, là nữ, nên dùng She. <em><strong>Dịch nghĩa:</strong> Cô ấy sống trong một ngôi nhà lớn với bố mẹ và hai anh trai.</em></li>\n<li><strong>Giải thích:</strong> \"My sister\" là ngôi thứ ba số ít, là nữ, nên dùng She. <em><strong>Dịch nghĩa:</strong> Cô ấy thích đọc tiểu thuyết giả tưởng và vẽ tranh vào thời gian rảnh.</em></li>\n<li><strong>Giải thích:</strong> \"My father\" là ngôi thứ ba số ít, là nam, nên dùng He. <em><strong>Dịch nghĩa:</strong> Bố tôi thường chơi bóng đá vào cuối tuần.</em></li>\n<li><strong>Giải thích:</strong> \"My mother\" là ngôi thứ ba số ít, là nữ, nên dùng She. <em><strong>Dịch nghĩa:</strong> Mẹ tôi thích đọc sách vào thời gian rảnh.</em></li>\n<li><strong>Giải thích:</strong> \"My family and I\" là ngôi thứ nhất số nhiều, nên dùng We. <em><strong>Dịch nghĩa:</strong> Gia đình tôi có một chú chó cưng tên là Max.</em></li>\n<li><strong>Giải thích:</strong> \"My brother\" là ngôi thứ ba số ít, là nam, nên dùng He. <em><strong>Dịch nghĩa:</strong> Anh ấy thích chơi trò chơi điện tử và sưu tập truyện tranh cổ điển.</em></li>\n<li><strong>Giải thích:</strong> \"My grandparents\" là ngôi thứ ba số nhiều, nên dùng They. <em><strong>Dịch nghĩa:</strong> Ông bà tôi thích cùng nhau nấu những món ăn mới.</em></li>\n<li><strong>Giải thích:</strong> \"My uncle\" là ngôi thứ ba số ít, là nam, nên dùng He. <em><strong>Dịch nghĩa:</strong> Chú/bác tôi có một bộ sưu tập tem.</em></li>\n<li><strong>Giải thích:</strong> <strong>\"</strong>My parents\" là ngôi thứ ba số nhiều, chỉ cả bố và mẹ, nên dùng They.<strong> <em>Dịch nghĩa:</em></strong><em> Họ thích đi bộ đường dài trên núi và thử các nhà hàng mới.</em></li>\n<li><strong>Giải thích:</strong> \"My niece\" là ngôi thứ ba số ít, là nữ, nên dùng She. <em><strong>Dịch nghĩa:</strong> Cháu gái tôi rất thích vẽ và tô màu.</em></li>\n</ol>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 70227,
+              "content": "<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; text-align: justify; line-height: 1.3;\"><em><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Example:  <u style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box;\">He</span></u> likes chocolate (David)</span></span></em></p>\n<ol>\n<li>[input_0] lives in a big house with her parents and two brothers. (My girlfriend)</li>\n<li>[input_1] enjoys reading fantasy novels and painting in her free time. (My sister)</li>\n<li>[input_2] often plays football on weekends. (My father)</li>\n<li>[input_3] likes to read books in her free time. (My mother)</li>\n<li>[input_4] have a pet dog named Max. (My family and I)</li>\n<li>[input_5] likes playing video games and collecting vintage comic books. (My brother)</li>\n<li>[input_6] enjoy cooking new recipes together. (My grandparents)</li>\n<li>[input_7] has a collection of stamps. (My uncle)</li>\n<li>[input_8] love hiking in the mountains and trying out new restaurants. (My parents)</li>\n<li>[input_9] loves drawing and painting. (My niece)</li>\n</ol>"
+            }
+          }
+        },
+        {
+          "challenge_id": 30673,
+          "id": 290260,
+          "name": null,
+          "title": null,
+          "content": "<p style=\"line-height: 1.3; text-align: justify;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong><span style=\"background-color: white;\"><span style=\"font-family: Nunito-ExtraBold;\">Exercise 2.</span> </span></strong></span></p>\n<p style=\"line-height: 1.3; text-align: justify;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong><span style=\"background-color: white;\">Complete the sentences with a reflexive pronoun.</span></strong><span style=\"background-color: white;\"> </span><em><span style=\"background-color: white;\">(Điền đại từ phản th&acirc;n ph&ugrave; hợp v&agrave;o chỗ trống)</span></em></span></p>",
+          "explain": "<ol>\n<li><strong>Giải thích:</strong> \"My brother\" là ngôi thứ ba số ít (nam), hành động tự dạy mình, nên dùng himself. <em><strong>Dịch nghĩa: </strong>Anh trai tôi đã tự dạy anh ấy chơi guitar.</em></li>\n<li><strong>Giải thích: </strong>\"My sister\" là ngôi thứ ba số ít (nữ), hành động tự thể hiện, nên dùng herself. <em><strong>Dịch nghĩa:</strong> Chị gái tôi thích thể hiện bản thân cô ấy qua hội họa.</em></li>\n<li><strong>Giải thích:</strong> \"My parents\" là ngôi thứ ba số nhiều, hành động tự mua cho chính họ, nên dùng themselves. <em><strong>Dịch nghĩa:</strong> Bố mẹ tôi thường tự mua quần áo mới vì họ thích mua sắm.</em></li>\n<li><strong>Giải thích:</strong> \"My sister\" là ngôi thứ ba số ít, là nữ, hành động tự chuẩn bị món ăn cho chính cô ấy, nên dùng herself. <em><strong>Dịch nghĩa:</strong> Chị gái tôi thích nấu ăn, vì vậy cô ấy thường tự chuẩn bị các món ăn yêu thích của mình.</em></li>\n<li><strong>Giải thích:</strong> \"My brother\" là ngôi thứ ba số ít, là nam, hành động tự học hỏi cho chính anh ấy, nên dùng himself. <em><strong>Dịch nghĩa:</strong> Anh trai tôi rất có tính nghệ sĩ; anh ấy đã tự học cách vẽ phim hoạt hình.</em></li>\n<li><strong>Giải thích:</strong> \"My cat\" là ngôi thứ ba số ít, là vật, hành động tự làm sạch cho chính nó, nên dùng itself. <em><strong>Dịch nghĩa: </strong>Con mèo của tôi rất độc lập; nó luôn tự làm sạch lông sau khi chơi bên ngoài.</em></li>\n<li><strong>Giải thích: </strong>\"My friends and I\" là ngôi thứ nhất số nhiều (tương đương \"We\"), hành động tự tổ chức cho chính chúng tôi, nên dùng ourselves. <em><strong>Dịch nghĩa: </strong>Bạn bè tôi và tôi tự tổ chức các chuyến đi bộ đường dài của mình vì chúng tôi yêu thích khám phá.</em></li>\n</ol>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 70228,
+              "content": "<p style=\"line-height: 1.3; text-align: justify;\"><em><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"background-color: white;\">Example: I hurt <u>myself</u> playing football.</span></span></em></p>\n<ol>\n<li>My brother taught <strong>[input_0]</strong> to play the guitar.</li>\n<li>My sister likes to express<em> (bày tỏ, thể hiện</em>) <strong>[input_1]</strong> through painting.</li>\n<li>My parents often buy new clothes <strong>[input_2]</strong> because they enjoy shopping.</li>\n<li>My sister likes to cook, so she often prepares her favorite dishes <strong>[input_3]</strong>.</li>\n<li>My brother is very artistic <em>(có tính nghệ sĩ)</em>; he taught <strong>[input_4]</strong> how to draw cartoons.</li>\n<li>My cat is very independent; it always grooms <em>(làm sạch)</em> <strong>[input_5]</strong> after playing outside.</li>\n<li>My friends and I organize our hiking trips <em>(tổ chức các chuyến leo núi)</em> <strong>[input_6]</strong> because we love exploring.</li>\n</ol>"
+            }
+          }
+        },
+        {
+          "challenge_id": 30673,
+          "id": 290261,
+          "name": null,
+          "title": null,
+          "content": "<p style=\"line-height: 1.3; text-align: justify;\"><span style=\"font-size: 12pt; font-family: Nunito-ExtraBold;\"><strong><span style=\"background-color: white;\">Exercise 3. </span></strong></span></p>\n<p style=\"line-height: 1.3; text-align: justify;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong><span style=\"background-color: white;\">Complete gaps with the words in the box. </span></strong><em><span style=\"background-color: white;\">(Điền từ th&iacute;ch hợp v&agrave;o chỗ trống)</span></em></span></p>\n<table style=\"border-collapse: collapse; width: 50%; margin-left: auto; margin-right: auto;\" border=\"1\">\n<tbody>\n<tr>\n<td>\n<p style=\"text-align: center;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">yours&nbsp;&nbsp;&nbsp;&nbsp; <s>your</s></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-family: Nunito-Regular; font-size: 12pt;\">myself</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-family: Nunito-Regular; font-size: 12pt;\">its</span><span style=\"font-family: Nunito-Regular; font-size: 16px;\">&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">me</span><span style=\"font-family: Nunito-Regular; font-size: 16px;\">&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">these</span><span style=\"font-family: Nunito-Regular; font-size: 16px;\">&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">it</span><span style=\"font-family: Nunito-Regular; font-size: 16px;\">&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">she</span><span style=\"font-family: Nunito-Regular; font-size: 16px;\">&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">your</span><span style=\"font-family: Nunito-Regular; font-size: 16px;\">&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">this</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-family: Nunito-Regular; font-size: 12pt;\">&nbsp;yourself</span></p>\n</td>\n</tr>\n</tbody>\n</table>",
+          "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">b. </span><span style=\"font-size: 12pt; color: #c00000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">myself</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Nh&acirc;n vật &lsquo;I&rsquo; (hay David) gửi thư cho bạn &lsquo;you&rsquo; (l&agrave; Kyra), cảm ơn bức thư đ&atilde; m&agrave; Kyra đ&atilde; gửi v&agrave; được nghe tin tức về đời sống của bạn ấy (hear about your life) n&ecirc;n giờ nh&acirc;n vật &lsquo;I&rsquo; muốn kể v&agrave;i điều về bản th&acirc;n &rarr; điền &lsquo;myself&rsquo;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">c. </span><span style=\"font-size: 12pt; color: #c00000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">me&nbsp;</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">T&igrave;nh huống t&ocirc;i c&oacute; một người anh trai. Anh ấy nhiều tuổi hơn t&ocirc;i. Vị tr&iacute; cần điền l&agrave; đại từ t&acirc;n ngữ. &rarr; điền &lsquo;me&rsquo;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">d. </span><span style=\"font-size: 12pt; color: #c00000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">she</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Vị tr&iacute; cần điền l&agrave; một đại từ chủ ngữ, giới thiệu nghề nghiệp của &lsquo;my mum&rsquo; được nhắc đến đến trước đ&oacute; &rarr; điền &lsquo;she&rsquo;&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">e. </span><span style=\"font-size: 12pt; color: #c00000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">its</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Vế trước nhắc đến việc ch&uacute;ng t&ocirc;i c&oacute; một con m&egrave;o v&agrave; sau đ&oacute; giới thiệu t&ecirc;n &rarr; Muxu l&agrave; t&ecirc;n của con m&egrave;o. Vị tr&iacute; cần điền đứng trước danh từ &lsquo;name&rsquo; n&ecirc;n cần một t&iacute;nh từ sở hữu &aacute;m chỉ t&ecirc;n của con m&egrave;o &rarr; điền &lsquo;its&rsquo;&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">f. </span><span style=\"font-size: 12pt; color: #c00000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">yours</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;What about&rdquo; l&agrave; c&acirc;u hỏi ngược lại ph&iacute;a người nhận. Ở nước t&ocirc;i (in my country) mọi người thường kh&ocirc;ng sống trong nh&agrave; mặt đất, c&ograve;n b&ecirc;n bạn (ở nước bạn) th&igrave; sao &rarr; điền &lsquo;yours&rsquo; (&yacute; nghĩa tương đương &lsquo;your country&rsquo;)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">g. </span><span style=\"font-size: 12pt; color: #c00000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">these</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&lsquo;Subjects&rsquo; l&agrave; danh từ số nhiều v&agrave; &aacute;m chỉ những danh từ m&ocirc;n học vừa được nhắc đến ngay c&acirc;u trước đ&oacute; &rarr; điền &lsquo;these&rsquo;&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">h. </span><span style=\"font-size: 12pt; color: #c00000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">your</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;What about&rdquo; l&agrave; c&acirc;u hỏi ngược lại ph&iacute;a người nhận. T&ocirc;i muốn l&agrave;m b&aacute;c sĩ c&ograve;n bạn c&oacute; kế hoạch g&igrave; chưa. Vị tr&iacute; cần điền đứng trước danh từ &lsquo;plans&rsquo; n&ecirc;n cần điền một t&iacute;nh từ sở hữu để &aacute;m chỉ những kế hoạch của bạn &rarr; điền &lsquo;your&rsquo;&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">i. </span><span style=\"font-size: 12pt; color: #c00000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">this</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&Aacute;m chỉ c&aacute;i trải nghiệm viết thư tiếng Anh n&agrave;y l&agrave; lần đầu, cần d&ugrave;ng đại từ chỉ định, theo sau l&agrave; động từ to be &lsquo;is&rsquo;&nbsp; &rarr; điền &lsquo;this&rsquo;&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">j. </span><span style=\"font-size: 12pt; color: #c00000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">it</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Chỗ trống cần điền một đại từ t&acirc;n ngữ (bị t&aacute;c động bởi &lsquo;understand) &aacute;m chỉ &lsquo;a letter in English&rsquo; được nhắc đến ở vế trước đ&oacute; &rarr; điền &lsquo;it&rsquo;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">k. </span><span style=\"font-size: 12pt; color: #c00000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">yourself</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Lời ch&uacute;c nh&acirc;n vật &lsquo;you&rsquo; (Kyra) tự chăm s&oacute;c bản th&acirc;n bạn ấy &rarr; điền &lsquo;yourself&rsquo;</span></p>\n<p><span id=\"docs-internal-guid-07afdb9a-7fff-f7a3-c777-8c5d88553af2\" style=\"font-family: Nunito-Regular;\"></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 70229,
+              "content": "<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 99.278%;\">\n<p style=\"text-align: justify; line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">Dear Kyra,</span></p>\n<p style=\"text-align: justify; line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">Thank you for <em><u>your</u></em> letter. It was interesting to hear about your life. Now I want to tell you something about [input_0].</span></p>\n<p style=\"text-align: justify; line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">Well, I am still at school. I have a brother. He is older than [input_1] and goes to university. We don't get on very well. My dad is a teacher but my mum doesn't work, [input_2] is a housewife. We have a cat – [input_3] name is Muxu.</span></p>\n<p style=\"text-align: justify; line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">My family and I live in a flat in a small town. That's normal here – people don't usually live in houses in my country. What about in [input_4]? The town isn't very pretty but we live close to the sea and to mountains. That means we can go to the beach in summer and skiing in the winter. </span></p>\n<p style=\"text-align: justify; line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">At school, I'm studying maths, physics, chemistry and biology. I think [input_5] subjects are more difficult than studying literature and the arts. I want to be a doctor. What about [input_6] plans?</span></p>\n<p style=\"text-align: justify; line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">Anyway,<strong> </strong>[input_7] is the first time I've written a letter in English so I hope you can understand [input_8]. Take care of [input_9] and write soon.</span></p>\n<p style=\"text-align: justify; line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">David.</span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+            }
+          }
+        },
+        {
+          "challenge_id": 30673,
+          "id": 290262,
+          "name": null,
+          "title": null,
+          "content": "<p style=\"line-height: 1.3; text-align: justify;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong><span style=\"font-family: Nunito-ExtraBold;\">Exercise 4. </span>Complete the sentences with this, that, these, those. </strong><em>(Ho&agrave;n thiện c&acirc;u sử dụng this, that, these, those)</em></span></p>",
+          "explain": "<ol>\n<li><strong>Giải thích:</strong> Dùng <strong>This</strong> vì <strong>\"my elder brother\"</strong> được giới thiệu là đang ở gần người nói (ẩn ý trong ngữ cảnh câu gốc là \"standing right next to me\"). <em><strong>Dịch nghĩa:</strong> Đây là anh trai cả của tôi, John, và sở thích yêu thích của anh ấy là chơi cờ vua.</em></li>\n<li><strong>Giải thích:</strong> Dùng <strong>Those</strong> vì <strong>\"my parents\"</strong> được chỉ ra là ở xa người nói (ẩn ý trong ngữ cảnh câu gốc là \"over there\"). <em><strong>Dịch nghĩa:</strong> Kia là bố mẹ tôi, những người thích làm vườn vào thời gian rảnh.</em></li>\n<li><strong>Giải thích:</strong> Dùng <strong>That</strong> vì <strong>\"old photo\"</strong> được chỉ ra là ở xa người nói (\"on the wall\"). <em><strong>Dịch nghĩa:</strong> Nhìn bức ảnh cũ trên tường kia kìa; đó là bà tôi khi bà còn trẻ và bà rất thích đội những chiếc mũ thanh lịch.</em></li>\n<li><strong>Giải thích:</strong> Dùng <strong>This</strong> vì <strong>\"my favorite hobby\"</strong> đang được giới thiệu như một điều cụ thể, gần gũi với suy nghĩ của người nói. <em><strong>Dịch nghĩa:</strong> Đây là sở thích yêu thích của tôi, đóng mô hình máy bay vào thời gian rảnh.</em></li>\n<li><strong>Giải thích:</strong> Dùng <strong>These</strong> vì <strong>\"comfortable jeans\"</strong> là danh từ số nhiều và được giới thiệu là ở gần người nói (có thể là đang được nhìn thấy hoặc đang được cầm). <em><strong>Dịch nghĩa:</strong> Đây là những chiếc quần jean thoải mái mà anh trai tôi thích mặc khi anh ấy thư giãn ở nhà.</em></li>\n<li><strong>Giải thích:</strong> Dùng <strong>This</strong> vì <strong>\"new art set\"</strong> được chỉ ra là ở gần người nói (\"right here\"). <em><strong>Dịch nghĩa:</strong> Bộ dụng cụ vẽ tranh mới này chính là thứ mà em gái tôi có được cho sở thích vẽ của em ấy.</em></li>\n<li><strong>Giải thích:</strong> Dùng <strong>Those</strong> vì <strong>\"people\"</strong> là danh từ số nhiều và được chỉ ra là ở xa người nói (\"near the lake\"). <em><strong>Dịch nghĩa:</strong> Bạn có thấy những người đang cười lớn gần hồ kia không? Họ là các cô chú của tôi, những người thích kể chuyện cười.</em></li>\n</ol>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 70230,
+              "content": "<ol>\n<li>[input_0] is my elder brother, John, and his favorite hobby is playing chess.</li>\n<li>[input_1] are my parents over there, who love gardening in their free time.</li>\n<li>Look at [input_2] old photo on the wall; that's my grandmother when she was young and she loved to wear elegant hats.</li>\n<li>[input_3] is my favorite hobby, building model airplanes in my free time.</li>\n<li>[input_4] are the comfortable jeans my brother loves to wear when he's relaxing at home.</li>\n<li>[input_5] new art set right here is what my younger sister got for her painting hobby.</li>\n<li>Do you see [input_6] people laughing loudly over there, near the lake? They are my aunts and uncles, who love telling jokes.</li>\n</ol>"
+            }
+          }
+        },
+        {
+          "challenge_id": 30673,
+          "id": 290263,
+          "name": null,
+          "title": "Vocabulary",
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span id=\"docs-internal-guid-9b42fdd9-7fff-3d22-30d2-6fe4480782c9\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Match each word with a picture. Write the correct letter. </span><span style=\"color: #000000; background-color: transparent; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Nối từng từ với h&igrave;nh tương ứng. Điền đ&uacute;ng chữ tr&ecirc;n h&igrave;nh)</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span id=\"docs-internal-guid-58d141e2-7fff-5f79-b3b9-2fd06c013fc1\"><span style=\"font-size: 12pt; font-family: Nunito, sans-serif; font-style: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><span style=\"border: none; display: inline-block; overflow: hidden; width: 602px; height: 272px;\"><img style=\"margin-left: 0px; margin-top: 0px;\" src=\"https://lh7-us.googleusercontent.com/qeQHEefWY-BBpmc-x9PEuKzCV6w5MJA6nxWPBlrKzX2CQ7rW60i3E7dagUsCk0OnAJFmJfyP2fI-pIV7ELWMp_MJq32r5_e2r-mz4Q376bts8IikfGxB7mVsxg6K4UBoXdCxdDnFNgaAUrpzRY9zaKw\" width=\"602\" height=\"272\" /></span></span></span></span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 70231,
+              "content": "<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 737px; height: 115.7px;\"><colgroup><col style=\"width: 147.6px;\" /><col style=\"width: 147.6px;\" /><col style=\"width: 147.6px;\" /><col style=\"width: 147.6px;\" /><col style=\"width: 147.6px;\" /></colgroup>\n<tbody>\n<tr style=\"height: 45.425px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 45.425px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><em><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Example</span></em></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Jeans <span style=\"color: #ba372a;\"><em>A</em></span></span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 45.425px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Dress [input_0]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 45.425px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Hat [input_1]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 45.425px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Glasses [input_2]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 68.8375px; border: 1pt solid #000000;\" rowspan=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Blouse [input_3]</span></p>\n</td>\n</tr>\n<tr style=\"height: 23.4125px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 23.4125px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Tie [input_4]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 23.4125px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Scarf [input_5]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 23.4125px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Suit [input_6]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 23.4125px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Pants [input_7]</span></p>\n</td>\n</tr>\n<tr style=\"height: 23.4125px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 23.4125px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sandals [input_8]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 23.4125px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Windbreaker [input_9]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 23.4125px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Shorts [input_10]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 23.4125px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Shirt [input_11]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 46.8625px; border: 1pt solid #000000;\" rowspan=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Shoulder bag [input_12]</span></p>\n</td>\n</tr>\n<tr style=\"height: 23.45px;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 23.45px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Jacket [input_13]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 23.45px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Skirt [input_14]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 23.45px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">T-shirt [input_15]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; height: 23.45px; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sneakers [input_16]</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><span id=\"docs-internal-guid-f9d2fc1d-7fff-1a2b-7740-f920a55be21c\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"> </span></p>"
+            }
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

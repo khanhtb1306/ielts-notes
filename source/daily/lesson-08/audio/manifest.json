@@ -1,0 +1,143 @@
+{
+  "lesson": 8,
+  "lessonKey": "lesson-08",
+  "folder": "../../../audio/daily/lesson-08",
+  "items": [
+    {
+      "id": "lesson-08-audio-001",
+      "challengeId": 30674,
+      "classChallengeId": "81899",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1709200852.mp3",
+      "localFile": "audio/daily/lesson-08/30674-1-1709200852.mp3",
+      "bytes": 78529,
+      "status": "exists",
+      "script": "My dad is pretty tall, but my brother is even taller than my dad",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-82762"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-08-audio-002",
+      "challengeId": 30674,
+      "classChallengeId": "81899",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1709200859.mp3",
+      "localFile": "audio/daily/lesson-08/30674-2-1709200859.mp3",
+      "bytes": 69334,
+      "status": "exists",
+      "script": "I love taking photographs of wild birds when I'm in the countryside",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-82762"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-08-audio-003",
+      "challengeId": 30674,
+      "classChallengeId": "81899",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1709200866.mp3",
+      "localFile": "audio/daily/lesson-08/30674-3-1709200866.mp3",
+      "bytes": 59303,
+      "status": "exists",
+      "script": "When my sister has free time, she loves to play cards",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-82762"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-08-audio-004",
+      "challengeId": 30674,
+      "classChallengeId": "81899",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1709200873.mp3",
+      "localFile": "audio/daily/lesson-08/30674-4-1709200873.mp3",
+      "bytes": 53869,
+      "status": "exists",
+      "script": "I read a lot of books and I love going to the library",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-82762"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-08-audio-005",
+      "challengeId": 30674,
+      "classChallengeId": "81899",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1709200880.mp3",
+      "localFile": "audio/daily/lesson-08/30674-5-1709200880.mp3",
+      "bytes": 42584,
+      "status": "exists",
+      "script": "He's really into sports and swimming",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-82762"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-08-audio-006",
+      "challengeId": 30674,
+      "classChallengeId": "81899",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1709200888.mp3",
+      "localFile": "audio/daily/lesson-08/30674-6-1709200888.mp3",
+      "bytes": 74767,
+      "status": "exists",
+      "script": "My brother and I spend all our free time in computer stores and on the Internet",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-82762"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-08-audio-007",
+      "challengeId": 30674,
+      "classChallengeId": "81899",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1709200896.mp3",
+      "localFile": "audio/daily/lesson-08/30674-7-1709200896.mp3",
+      "bytes": 114055,
+      "status": "exists",
+      "script": "My mother and I go to a different place every year. Both of us love to learn new things about cultures",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-82762"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    },
+    {
+      "id": "lesson-08-audio-008",
+      "challengeId": 30674,
+      "classChallengeId": "81899",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1709200903.mp3",
+      "localFile": "audio/daily/lesson-08/30674-8-1709200903.mp3",
+      "bytes": 50108,
+      "status": "exists",
+      "script": "My brother isn't interested in music at all",
+      "scriptAlternatives": [],
+      "scriptSourceIds": [
+        "script-content-82762"
+      ],
+      "hasScript": true,
+      "needsScriptReview": false,
+      "note": null
+    }
+  ]
+}

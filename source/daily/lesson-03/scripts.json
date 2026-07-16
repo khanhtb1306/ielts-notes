@@ -1,0 +1,709 @@
+{
+  "lesson": 3,
+  "lessonKey": "lesson-03",
+  "items": [
+    {
+      "id": "script-content-77810",
+      "sourceType": "content",
+      "sourceId": 77810,
+      "challengeId": 28778,
+      "classChallengeId": "80071",
+      "title": null,
+      "scriptText": "I. VOCABULARY: take / took / taken A. Take + time (it + take + person + time) It takes Alan 20 minutes to get to work. I go to school / university every day. It takes me 30 minutes. I do homework every day. It took me two hours yesterday. How long does it take to get to the station? 15 minutes in a taxi. B. Take something with you Are you going out? Take an umbrella. It's raining. Are you going to the beach? Take some water with you. Sorry, you can't take your camera into the museum. C. Expressions Can I take a photo / photograph here? Are you taking an English course? Take an exam Take some Japanese lessons Take the bus Take the underground Take a look Take a chance II. PRONUNCIATION Quay video phát âm mỗi âm 3 lần kèm các ví dụ sau: - /f/: fan , laugh , fifteen , fair , photo - /v/: village , save , very , move , fever - /t/: tear , tip , seat , tomato , talent - /d/: dear , dip , dance , seed , sad - /k/: coat , pack , keep , care , colour - /g/: goat , bag , pig , game , together - /p/: pin , cap , pen , tap , paper - /b/: baby , bear , bored , tab , bed - /s/: sea , soup , ice , sound , sister - /z/: zoo , prize , zebra , zip , frozen - /ʃ/: sugar , shirt , push , English , washing machine - /ʒ/: Asia , measure , vision , leisure , decision - /tʃ/: picture , lecture , coach , check , church - /dʒ/: juice , jump , fridge , orange , July",
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708941370.mp3",
+          "localFile": "audio/daily/lesson-03/28778-1-1708941370.mp3",
+          "script": "Can I take a photo / photograph here?",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708941386.mp3",
+          "localFile": "audio/daily/lesson-03/28778-2-1708941386.mp3",
+          "script": "Are you taking an English course?",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708941392.mp3",
+          "localFile": "audio/daily/lesson-03/28778-3-1708941392.mp3",
+          "script": "Take an exam",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708941405.mp3",
+          "localFile": "audio/daily/lesson-03/28778-4-1708941405.mp3",
+          "script": "Take some Japanese lessons",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708941412.mp3",
+          "localFile": "audio/daily/lesson-03/28778-5-1708941412.mp3",
+          "script": "Take the bus",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708941419.mp3",
+          "localFile": "audio/daily/lesson-03/28778-6-1708941419.mp3",
+          "script": "Take the underground",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708941425.mp3",
+          "localFile": "audio/daily/lesson-03/28778-7-1708941425.mp3",
+          "script": "Take a look",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708941431.mp3",
+          "localFile": "audio/daily/lesson-03/28778-8-1708941431.mp3",
+          "script": "Take a chance",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708942359.mp3",
+          "localFile": "audio/daily/lesson-03/28778-9-1708942359.mp3",
+          "script": "fan",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708942371.mp3",
+          "localFile": "audio/daily/lesson-03/28778-10-1708942371.mp3",
+          "script": "laugh",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708942380.mp3",
+          "localFile": "audio/daily/lesson-03/28778-11-1708942380.mp3",
+          "script": "fifteen",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708942390.mp3",
+          "localFile": "audio/daily/lesson-03/28778-12-1708942390.mp3",
+          "script": "fair",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708942396.mp3",
+          "localFile": "audio/daily/lesson-03/28778-13-1708942396.mp3",
+          "script": "photo",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708942513.mp3",
+          "localFile": "audio/daily/lesson-03/28778-14-1708942513.mp3",
+          "script": "village",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708942520.mp3",
+          "localFile": "audio/daily/lesson-03/28778-15-1708942520.mp3",
+          "script": "save",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708942526.mp3",
+          "localFile": "audio/daily/lesson-03/28778-16-1708942526.mp3",
+          "script": "very",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708942532.mp3",
+          "localFile": "audio/daily/lesson-03/28778-17-1708942532.mp3",
+          "script": "move",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708942540.mp3",
+          "localFile": "audio/daily/lesson-03/28778-18-1708942540.mp3",
+          "script": "fever",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708942900.mp3",
+          "localFile": "audio/daily/lesson-03/28778-19-1708942900.mp3",
+          "script": "tear",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708942909.mp3",
+          "localFile": "audio/daily/lesson-03/28778-20-1708942909.mp3",
+          "script": "tip",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708942923.mp3",
+          "localFile": "audio/daily/lesson-03/28778-21-1708942923.mp3",
+          "script": "seat",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708942930.mp3",
+          "localFile": "audio/daily/lesson-03/28778-22-1708942930.mp3",
+          "script": "tomato",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708942950.mp3",
+          "localFile": "audio/daily/lesson-03/28778-23-1708942950.mp3",
+          "script": "talent",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708942960.mp3",
+          "localFile": "audio/daily/lesson-03/28778-24-1708942960.mp3",
+          "script": "dear",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708942967.mp3",
+          "localFile": "audio/daily/lesson-03/28778-25-1708942967.mp3",
+          "script": "dip",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708942976.mp3",
+          "localFile": "audio/daily/lesson-03/28778-26-1708942976.mp3",
+          "script": "dance",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708942983.mp3",
+          "localFile": "audio/daily/lesson-03/28778-27-1708942983.mp3",
+          "script": "seed",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708942989.mp3",
+          "localFile": "audio/daily/lesson-03/28778-28-1708942989.mp3",
+          "script": "sad",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708943350.mp3",
+          "localFile": "audio/daily/lesson-03/28778-29-1708943350.mp3",
+          "script": "coat",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708943360.mp3",
+          "localFile": "audio/daily/lesson-03/28778-30-1708943360.mp3",
+          "script": "pack",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708943369.mp3",
+          "localFile": "audio/daily/lesson-03/28778-31-1708943369.mp3",
+          "script": "keep",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708943465.mp3",
+          "localFile": "audio/daily/lesson-03/28778-32-1708943465.mp3",
+          "script": "care",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708943521.mp3",
+          "localFile": "audio/daily/lesson-03/28778-33-1708943521.mp3",
+          "script": "colour",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708943531.mp3",
+          "localFile": "audio/daily/lesson-03/28778-34-1708943531.mp3",
+          "script": "goat",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708943537.mp3",
+          "localFile": "audio/daily/lesson-03/28778-35-1708943537.mp3",
+          "script": "bag",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708943544.mp3",
+          "localFile": "audio/daily/lesson-03/28778-36-1708943544.mp3",
+          "script": "pig",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708943565.mp3",
+          "localFile": "audio/daily/lesson-03/28778-37-1708943565.mp3",
+          "script": "game",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708943571.mp3",
+          "localFile": "audio/daily/lesson-03/28778-38-1708943571.mp3",
+          "script": "together",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708943837.mp3",
+          "localFile": "audio/daily/lesson-03/28778-39-1708943837.mp3",
+          "script": "pin",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708943844.mp3",
+          "localFile": "audio/daily/lesson-03/28778-40-1708943844.mp3",
+          "script": "cap",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708943852.mp3",
+          "localFile": "audio/daily/lesson-03/28778-41-1708943852.mp3",
+          "script": "pen",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708943859.mp3",
+          "localFile": "audio/daily/lesson-03/28778-42-1708943859.mp3",
+          "script": "tap",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708943864.mp3",
+          "localFile": "audio/daily/lesson-03/28778-43-1708943864.mp3",
+          "script": "paper",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944138.mp3",
+          "localFile": "audio/daily/lesson-03/28778-44-1708944138.mp3",
+          "script": "baby",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944149.mp3",
+          "localFile": "audio/daily/lesson-03/28778-45-1708944149.mp3",
+          "script": "bear",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944157.mp3",
+          "localFile": "audio/daily/lesson-03/28778-46-1708944157.mp3",
+          "script": "bored",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944167.mp3",
+          "localFile": "audio/daily/lesson-03/28778-47-1708944167.mp3",
+          "script": "tab",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944174.mp3",
+          "localFile": "audio/daily/lesson-03/28778-48-1708944174.mp3",
+          "script": "bed",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944380.mp3",
+          "localFile": "audio/daily/lesson-03/28778-49-1708944380.mp3",
+          "script": "sea",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944390.mp3",
+          "localFile": "audio/daily/lesson-03/28778-50-1708944390.mp3",
+          "script": "soup",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944396.mp3",
+          "localFile": "audio/daily/lesson-03/28778-51-1708944396.mp3",
+          "script": "ice",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944403.mp3",
+          "localFile": "audio/daily/lesson-03/28778-52-1708944403.mp3",
+          "script": "sound",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944409.mp3",
+          "localFile": "audio/daily/lesson-03/28778-53-1708944409.mp3",
+          "script": "sister",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944416.mp3",
+          "localFile": "audio/daily/lesson-03/28778-54-1708944416.mp3",
+          "script": "zoo",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944423.mp3",
+          "localFile": "audio/daily/lesson-03/28778-55-1708944423.mp3",
+          "script": "prize",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944429.mp3",
+          "localFile": "audio/daily/lesson-03/28778-56-1708944429.mp3",
+          "script": "zebra",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944437.mp3",
+          "localFile": "audio/daily/lesson-03/28778-57-1708944437.mp3",
+          "script": "zip",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944442.mp3",
+          "localFile": "audio/daily/lesson-03/28778-58-1708944442.mp3",
+          "script": "frozen",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944693.mp3",
+          "localFile": "audio/daily/lesson-03/28778-59-1708944693.mp3",
+          "script": "sugar",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944701.mp3",
+          "localFile": "audio/daily/lesson-03/28778-60-1708944701.mp3",
+          "script": "shirt",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944709.mp3",
+          "localFile": "audio/daily/lesson-03/28778-61-1708944709.mp3",
+          "script": "push",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944716.mp3",
+          "localFile": "audio/daily/lesson-03/28778-62-1708944716.mp3",
+          "script": "English",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944723.mp3",
+          "localFile": "audio/daily/lesson-03/28778-63-1708944723.mp3",
+          "script": "washing machine",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944732.mp3",
+          "localFile": "audio/daily/lesson-03/28778-64-1708944732.mp3",
+          "script": "Asia",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944741.mp3",
+          "localFile": "audio/daily/lesson-03/28778-65-1708944741.mp3",
+          "script": "measure",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944749.mp3",
+          "localFile": "audio/daily/lesson-03/28778-66-1708944749.mp3",
+          "script": "vision",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944755.mp3",
+          "localFile": "audio/daily/lesson-03/28778-67-1708944755.mp3",
+          "script": "leisure",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944763.mp3",
+          "localFile": "audio/daily/lesson-03/28778-68-1708944763.mp3",
+          "script": "decision",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944892.mp3",
+          "localFile": "audio/daily/lesson-03/28778-69-1708944892.mp3",
+          "script": "picture",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944938.mp3",
+          "localFile": "audio/daily/lesson-03/28778-70-1708944938.mp3",
+          "script": "lecture",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944946.mp3",
+          "localFile": "audio/daily/lesson-03/28778-71-1708944946.mp3",
+          "script": "coach",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944954.mp3",
+          "localFile": "audio/daily/lesson-03/28778-72-1708944954.mp3",
+          "script": "check",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944961.mp3",
+          "localFile": "audio/daily/lesson-03/28778-73-1708944961.mp3",
+          "script": "church",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944976.mp3",
+          "localFile": "audio/daily/lesson-03/28778-74-1708944976.mp3",
+          "script": "juice",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708944985.mp3",
+          "localFile": "audio/daily/lesson-03/28778-75-1708944985.mp3",
+          "script": "jump",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1721380094.mp3",
+          "localFile": "audio/daily/lesson-03/28778-76-1721380094.mp3",
+          "script": "fridge",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708945009.mp3",
+          "localFile": "audio/daily/lesson-03/28778-77-1708945009.mp3",
+          "script": "orange",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708945016.mp3",
+          "localFile": "audio/daily/lesson-03/28778-78-1708945016.mp3",
+          "script": "July",
+          "source": "html_data_url"
+        }
+      ],
+      "fallbackForMissingAudio": false
+    },
+    {
+      "id": "script-content-77811",
+      "sourceType": "content",
+      "sourceId": 77811,
+      "challengeId": 28779,
+      "classChallengeId": "80072",
+      "title": null,
+      "scriptText": "VOCABULARY: Everyday things A. Things we do every day 1. Wake up: Thức giấc 2. Get up: Thức dậy 3. Go to the bathroom: Đi vệ sinh 4. Have a shower: Tắm 5. Have a bath: Tắm 6. Go to work: Đi làm 7. Come/ Go/ Get home: Đi về nhà 8. Make dinner: Làm bữa tối 9. Phone (or call) a friend: Gọi điện cho bạn 10. Watch TV: Xem tivi 11. Go to bed/ Go to sleep: đi ngủ B. Sometimes I … Giặt quần áo Lau nhà Đi dạo Viết thư/ email C. Expressions A: How often do you read the newspaper / watch TV? B: Three or four times a week. A: What time do you get up / go to work? B: At 7 o'clock normally. A: How do you go to work? B: Usually by bus / train / car",
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709109241.mp3",
+          "localFile": "audio/daily/lesson-03/28779-1-1709109241.mp3",
+          "script": "Wake up: Thức giấc",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709109253.mp3",
+          "localFile": "audio/daily/lesson-03/28779-2-1709109253.mp3",
+          "script": "Get up: Thức dậy",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709109263.mp3",
+          "localFile": "audio/daily/lesson-03/28779-3-1709109263.mp3",
+          "script": "Go to the bathroom: Đi vệ sinh",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709109279.mp3",
+          "localFile": "audio/daily/lesson-03/28779-4-1709109279.mp3",
+          "script": "Have a shower: Tắm",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709109292.mp3",
+          "localFile": "audio/daily/lesson-03/28779-5-1709109292.mp3",
+          "script": "Have a bath: Tắm",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709109303.mp3",
+          "localFile": "audio/daily/lesson-03/28779-6-1709109303.mp3",
+          "script": "Go to work: Đi làm",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709109314.mp3",
+          "localFile": "audio/daily/lesson-03/28779-7-1709109314.mp3",
+          "script": "Come/ Go/ Get home: Đi về nhà",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709109325.mp3",
+          "localFile": "audio/daily/lesson-03/28779-8-1709109325.mp3",
+          "script": "Make dinner: Làm bữa tối",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709109336.mp3",
+          "localFile": "audio/daily/lesson-03/28779-9-1709109336.mp3",
+          "script": "Phone (or call) a friend: Gọi điện cho bạn",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709109351.mp3",
+          "localFile": "audio/daily/lesson-03/28779-10-1709109351.mp3",
+          "script": "Watch TV: Xem tivi",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709109368.mp3",
+          "localFile": "audio/daily/lesson-03/28779-11-1709109368.mp3",
+          "script": "Go to bed/ Go to sleep: đi ngủ",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709110452.mp3",
+          "localFile": "audio/daily/lesson-03/28779-12-1709110452.mp3",
+          "script": "Lau nhà",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709110466.mp3",
+          "localFile": "audio/daily/lesson-03/28779-13-1709110466.mp3",
+          "script": "Đi dạo",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709110486.mp3",
+          "localFile": "audio/daily/lesson-03/28779-14-1709110486.mp3",
+          "script": "Viết thư/ email",
+          "source": "html_data_url"
+        },
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709110519.mp3",
+          "localFile": "audio/daily/lesson-03/28779-15-1709110519.mp3",
+          "script": "email",
+          "source": "html_data_url"
+        }
+      ],
+      "fallbackForMissingAudio": false
+    },
+    {
+      "id": "script-question-269507",
+      "sourceType": "exercise",
+      "sourceId": 269507,
+      "challengeId": 28778,
+      "classChallengeId": "80071",
+      "title": "I. Vocabulary: take / took / taken",
+      "scriptText": "I. Vocabulary: take / took / taken",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-question-269508",
+      "sourceType": "exercise",
+      "sourceId": 269508,
+      "challengeId": 28778,
+      "classChallengeId": "80071",
+      "title": null,
+      "scriptText": "2. How long does it take you to do the washing up? -> It takes me",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-question-269509",
+      "sourceType": "exercise",
+      "sourceId": 269509,
+      "challengeId": 28778,
+      "classChallengeId": "80071",
+      "title": null,
+      "scriptText": "3. How long does it take you to go to the nearest bus station from your house? -> It takes me",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-question-269510",
+      "sourceType": "exercise",
+      "sourceId": 269510,
+      "challengeId": 28778,
+      "classChallengeId": "80071",
+      "title": null,
+      "scriptText": "Exercise 2. Complete the sentences using the expressions given in parts B and C on the left. Example: I need to buy some food, can I take some money with me?\n\n1. If you go out on a hot day, you need to [input_0] with you. 2. It's a rainy day today. You should [input_1]! 3. Should I [input_2] with me when I go to the museum? 4. I want to learn English so I [input_3]. 5. What's the new toy? Can I [input_4] ? 6. If you want to speak Japanese, you need to [input_5]. 7. It's so beautiful here, I want to [input_6]. 8. You can fly from London to my house or you can [input_7]. 9. At the end of the course, the students have to [input_8]. 10. People say that we should [input_9] and try something different sometimes\n\n1. If you go out on a hot day, you need to [take some water] with you. Giải thích: Khi đi ra ngoài vào ngày nắng nóng, bạn cần mang theo nước (take some water) để không bị khát. Dịch nghĩa: Nếu bạn ra ngoài vào một ngày nắng nóng, bạn cần mang theo một ít nước. 2. It’s a rainy day today. You should [take an umbrella]! Giải thích: Vì hôm nay trời mưa, bạn nên mang theo ô (take an umbrella) để không bị ướt. Dịch nghĩa: Hôm nay trời mưa. Bạn nên mang theo ô! 3. Should I [take a camera/take my camera] with me when I go to the museum? Giải thích: Khi đi đến bảo tàng để chụp ảnh, bạn cần mang theo máy ảnh (take a camera/take my camera). Dịch nghĩa: Tôi có nên mang theo máy ảnh khi đi bảo tàng không? 4. I want to learn English so I [take an English course]. Giải thích: Để học tiếng Anh, bạn sẽ tham gia một khóa học tiếng Anh (take an English course). Dịch nghĩa: Tôi muốn học tiếng Anh nên tôi tham gia một khóa học tiếng Anh. 5. What’s the new toy? Can I [take a look]? Giải thích: Khi muốn xem một thứ gì đó mới hoặc thú vị, bạn sẽ nói \"Can I take a look?\" . Dịch nghĩa: Đồ chơi mới là gì vậy? Tôi xem qua được không? 6. If you want to speak Japanese, you need to [take some Japanese lessons]. Giải thích: Để học nói tiếng Nhật, bạn cần tham gia các bài học tiếng Nhật (take some Japanese lessons). Dịch nghĩa: Nếu bạn muốn nói tiếng Nhật, bạn cần tham gia một vài buổi học tiếng Nhật. 7. It’s so beautiful here, I want to [take a photo/take some photos]. Giải thích: Khi một nơi nào đó quá đẹp, bạn sẽ muốn chụp ảnh (take a photo/take some photos) để lưu giữ khoảnh khắc. Dịch nghĩa: Ở đây đẹp quá, tôi muốn chụp một bức ảnh/vài bức ảnh. 8. You can fly from London to my house or you can [take the bus/take the underground]. Giải thích: Để di chuyển từ nơi này đến nơi khác bằng phương tiện công cộng, bạn có thể đi xe buýt (take the bus) hoặc đi tàu điện ngầm (take the underground). Dịch nghĩa: Bạn có thể bay từ London về nhà tôi hoặc bạn có thể đi xe buýt/đi tàu điện ngầm. 9. At the end of the course, the students have to [take an exam]. Giải thích: Cuối một khóa học, học sinh thường phải làm bài kiểm tra (take an exam). Dịch nghĩa: Cuối khóa học, học sinh phải làm bài kiểm tra. 10. People say that we should [take a chance] and try something different sometimes. Giải thích: Khi được khuyên thử một điều gì đó khác biệt, bạn cần nắm lấy cơ hội (take a chance). Dịch nghĩa: Người ta nói rằng đôi khi chúng ta nên nắm lấy cơ hội và thử một điều gì đó khác biệt",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-question-269511",
+      "sourceType": "exercise",
+      "sourceId": 269511,
+      "challengeId": 28778,
+      "classChallengeId": "80071",
+      "title": "II. Pronunciation",
+      "scriptText": "II. Pronunciation\n\n1. [input_0] 2. [input_1] 3. [input_2] 4. [input_3] 5. [input_4] 6. [input_5] 7. [input_6] 8. [input_7] 9. [input_8] 10. [input_9]",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-question-269512",
+      "sourceType": "exercise",
+      "sourceId": 269512,
+      "challengeId": 28778,
+      "classChallengeId": "80071",
+      "title": null,
+      "scriptText": "Submit the link to your video here",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-question-269513",
+      "sourceType": "exercise",
+      "sourceId": 269513,
+      "challengeId": 28779,
+      "classChallengeId": "80072",
+      "title": "Vocabulary: Everyday things",
+      "scriptText": "Vocabulary: Everyday things\n\n1. She phones her [input_0] two or three times a week. 2. He goes [input_1] from Monday to Friday. 3. He watches [input_2] every evening. 4. She makes [input_3] every Sunday. 5. I usually go to [input_4] at 10 p.m every night. 6. My mom normally comes [input_5] at 6 p.m every day. 7. Every morning, I go to the [input_6] to have a [input_7]. 8. In my free time, I like going for a [input_8] to relax. 9. Sometimes, John writes [input_9] to send his friends. 10. My dad often washes [input_10] and cleans the [input_11] on the weekend\n\n1. She phones her [friend/friends] two or three times a week. Giải thích: Bạn có thể gọi điện cho một người bạn (friend) hoặc nhiều người bạn (friends). Cả hai đều đúng ngữ pháp tùy thuộc vào số lượng bạn bè mà cô ấy gọi. Cụm từ là phone (someone) . Dịch nghĩa: Cô ấy gọi điện cho bạn/những người bạn của mình hai hoặc ba lần một tuần. 2. He goes [to work] from Monday to Friday. Giải thích: Để nói về việc đi làm, chúng ta dùng cụm từ cố định go to work. Dịch nghĩa: Anh ấy đi làm từ thứ Hai đến thứ Sáu. 3. He watches [TV] every evening. Giải thích: Để nói về việc xem tivi, chúng ta dùng cụm từ cố định watch TV . Dịch nghĩa: Anh ấy xem TV mỗi tối. 4. She makes [dinner] every Sunday. Giải thích: Để nói về việc nấu bữa tối, chúng ta dùng cụm từ cố định make dinner. Dịch nghĩa: Cô ấy nấu bữa tối vào mỗi Chủ Nhật. 5. I usually go to [bed/sleep] at 10 p.m every night. Giải thích: Để nói về việc đi ngủ, chúng ta dùng cụm từ cố định go to bed hoặc go to sleep. Dịch nghĩa: Tôi thường đi ngủ lúc 10 giờ tối mỗi đêm. 6. My mom normally comes [home] at 6 p.m every day. Giải thích: Để nói về việc về nhà, chúng ta dùng cụm từ cố định come home . Dịch nghĩa: Mẹ tôi thường về nhà lúc 6 giờ tối mỗi ngày. 7. Every morning, I go to the [bathroom] to have a [shower/bath]. Giải thích: Để nói về việc đi vào nhà tắm, chúng ta dùng cụm từ cố định go to the bathroom. Để nói về việc tắm, ta dùng have a shower hoặc have a bath. Dịch nghĩa: Mỗi sáng, tôi đi vào nhà tắm để tắm vòi sen/tắm bồn. 8. In my free time, I like going for a [walk] to relax. Giải thích: Để nói về việc đi dạo thư giãn, chúng ta dùng cụm từ cố định go for a walk. Dịch nghĩa: Vào thời gian rảnh, tôi thích đi dạo để thư giãn. 9. Sometimes, John writes [letters/emails] to send his friends. Giải thích: Để nói về việc viết thư hoặc email, chúng ta dùng cụm từ write letters hoặc write emails. Dịch nghĩa: Đôi khi, John viết thư/email để gửi cho bạn bè của mình. 10. My dad often washes [clothes] and cleans the [house] on the weekend. Giải thích: Để nói về việc giặt quần áo, chúng ta dùng cụm từ wash clothes. Để nói về việc dọn dẹp nhà cửa, chúng ta dùng cụm từ clean the house. Dịch nghĩa: Bố tôi thường giặt quần áo và dọn nhà vào cuối tuần",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-question-269514",
+      "sourceType": "exercise",
+      "sourceId": 269514,
+      "challengeId": 28779,
+      "classChallengeId": "80072",
+      "title": null,
+      "scriptText": "Exercise 2. Complete the sentences about yourself\n\n1. I usually wake up at [input_0]. 2. After that, I go to the bathroom to have a [input_1]. 3. After having breakfast, I go to school/work by [input_2]. 4. I come [input_3] at [input_4] o'clock after school/work. 5. I often watch [input_5] [input_6] times a week. 6. I normally [input_7] dinner at [input_8] o'clock. 7. In the evenings, I usually [input_9]. 8. At night, I often go to [input_10] at [input_11]\n\nBài yêu cầu điền thông tin của cá nhân, nên thông tin thời gian tùy thuộc vào HV, không có câu trả lời sai. Cần chú ý cách viết thời gian đúng. 1. I usually get up at ……… . (Suggested answer: ) 2. After that, I often go to the bathroom to have a ……… . (Suggested answer: bath/shower) 3. After having breakfast, I go to work/school by ……… . (Suggested answer: bus/train/car) 4. I come ……… at ……… o’clock after work/school. (Suggested answer: home; ) 5. I often watch ……… ……… times a week . (Suggested answer: TV; ) 6. I normally ……… dinner at ……… o’clock. (Suggested answer: make/have; ) 7. In the evenings, I usually ……… . (Suggested answer: go for a walk / clean the house / …) 8. At night, I often go to ……… at ……… . (Suggested answer: sleep/bed; )",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-question-269515",
+      "sourceType": "exercise",
+      "sourceId": 269515,
+      "challengeId": 28779,
+      "classChallengeId": "80072",
+      "title": null,
+      "scriptText": "Exercise 3. Ghi lại ít nhất 10 từ/ cụm từ/ câu học được từ phần Vocabulary, kèm theo nghĩa",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-feedback-80071",
+      "sourceType": "feedback",
+      "sourceId": "80071",
+      "challengeId": 28778,
+      "classChallengeId": "80071",
+      "title": "Teacher feedback",
+      "scriptText": "Helu Khánh, cô gửi nhận xét cho bài làm của mình nha. Về phần trả lời câu hỏi: Em cần chú ý viết câu trả lời đầy đủ hơn nhé, tránh trả lời quá ngắn hoặc thiếu thành phần trong câu. /f/ Em nhớ đọc âm IPA 3 lần trước khi đọc từ theo đúng yêu cầu của bài nhé. Về cách phát âm, âm này em làm khá tốt. /v/ Em cũng cần đọc âm IPA 3 lần trước khi vào phần từ vựng. Từ village /ˈvɪlɪdʒ/ em đang phát âm chưa chính xác. Em nên nghe lại audio mẫu và chú ý hơn đến nguyên âm /ɪ/ cũng như âm cuối /dʒ/ trong từ này. /d/ Hiện tại em đang đọc âm /d/ giống tên chữ cái \"D\" trong tiếng Anh thay vì đọc đúng âm IPA. Khi phát âm /d/, đầu lưỡi chạm nhẹ vào lợi trên phía sau răng cửa rồi hạ xuống nhanh để tạo âm. Đây là âm hữu thanh nên cần có độ rung ở cổ họng. /s/ Em nhớ đọc âm IPA 3 lần trước khi đọc từ nhé. Về cách phát âm âm /s/, em làm khá tốt. /ʃ/ Âm /ʃ/ nhìn chung em phát âm đúng. Tuy nhiên với những từ có âm này ở cuối như push /pʊʃ/, em cần đọc rõ âm cuối hơn để từ được trọn vẹn. /ʒ/ Âm /ʒ/ của em cần phát âm nặng và rõ hơn một chút để người nghe dễ nhận biết. Từ Asia /ˈeɪʒə/ hiện tại âm /ʒ/ vẫn chưa thật sự rõ. Ngoài ra từ measure /ˈmeʒə(r)/ em đang đọc sai nguyên âm /e/. Em cần mở khẩu hình vừa phải và giữ nguyên âm ngắn để phát âm chính xác hơn. /dʒ/ Âm /dʒ/ của em hiện tại còn thiếu độ bật nên nghe chưa đủ mạnh. Ngoài ra từ fridge /frɪdʒ/ em đang phát âm âm cuối /dʒ/ chưa rõ. Em cần hạ lưỡi xuống nhanh hơn và kết thúc từ dứt khoát để âm cuối được nhận diện rõ ràng. /t/, /k/, /g/, /p/, /b/, /z/, /tʃ/ Các âm này em làm khá tốt. Khẩu hình và cách phát âm nhìn chung đã chính xác, em tiếp tục duy trì nhé. Em đọc kĩ nhận xét và luyện tập lại để mình ngày càng tiến bộ hơn nhé",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    },
+    {
+      "id": "script-feedback-80072",
+      "sourceType": "feedback",
+      "sourceId": "80072",
+      "challengeId": 28779,
+      "classChallengeId": "80072",
+      "title": "Teacher feedback",
+      "scriptText": "Hi Khánh, bài này mình cần làm cẩn thận hơn nhé. Cô thấy em còn điền sai các cụm từ nhiều. Em chú ý xem kĩ lại các cụm từ trong mục bên trái, sau đó ghép vào câu. Phần nào trong đề có sẵn rồi thì em không cần ghi lại. Nếu vẫn chưa hiểu được thì em bấm vào mục giải thích chi tiết đáp án phía dưới. Cố gắng học tốt hơn em nha",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true
+    }
+  ]
+}

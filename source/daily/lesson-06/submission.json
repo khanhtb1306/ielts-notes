@@ -1,0 +1,390 @@
+{
+  "lesson": 6,
+  "lessonKey": "lesson-06",
+  "items": [
+    {
+      "challengeId": 30043,
+      "classChallengeId": "81289",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 19,
+      "submittedAt": "2026-06-20 21:18:52",
+      "markedAt": "2026-06-24 00:19:37",
+      "commentText": "Hi Khánh, bài này em làm đúng 100% rồi nha.\n\r\nGood job em ơi!",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "283279": {
+          "total_question": 6,
+          "total_correct_result_answer": 6,
+          "user_answer": {
+            "input_0": "a salesperson",
+            "input_1": "an actor",
+            "input_2": "a flight attendant",
+            "input_3": "a chef",
+            "input_4": "a nurse",
+            "input_5": "a construction worker"
+          },
+          "correct_answer": {
+            "input_0": [
+              "a salesperson"
+            ],
+            "input_1": [
+              "an actor",
+              "an actress"
+            ],
+            "input_2": [
+              "a flight attendant"
+            ],
+            "input_3": [
+              "a chef"
+            ],
+            "input_4": [
+              "a nurse"
+            ],
+            "input_5": [
+              "a construction worker"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 283279,
+          "challenge_id": 30043
+        },
+        "283280": {
+          "total_question": 7,
+          "total_correct_result_answer": 7,
+          "user_answer": {
+            "input_6": "Sonia",
+            "input_5": "Bob",
+            "input_1": "Suzanne",
+            "input_0": "Marie",
+            "input_4": "Fred",
+            "input_3": "ted",
+            "input_2": "Martha"
+          },
+          "correct_answer": {
+            "input_0": [
+              "Marie"
+            ],
+            "input_1": [
+              "Suzanne"
+            ],
+            "input_2": [
+              "Martha"
+            ],
+            "input_3": [
+              "Ted"
+            ],
+            "input_4": [
+              "Fred"
+            ],
+            "input_5": [
+              "Bob"
+            ],
+            "input_6": [
+              "Sonia"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 283280,
+          "challenge_id": 30043
+        },
+        "283281": {
+          "total_question": 5,
+          "total_correct_result_answer": 5,
+          "user_answer": {
+            "input_0": "I'm really sick of it.",
+            "input_1": "I'm well-paid.",
+            "input_2": "It takes me two hours to get to school every day.",
+            "input_3": "The only trouble is, I have to work long hours.",
+            "input_4": "It's hard work."
+          },
+          "correct_answer": {
+            "input_0": [
+              "I'm really sick of it."
+            ],
+            "input_1": [
+              "I'm well-paid."
+            ],
+            "input_2": [
+              "It takes me two hours to go to school every day.",
+              "It takes me two hours to get to school every day.",
+              "It takes me 2 hours to go to school every day.",
+              "It takes me 2 hours to get to school every day."
+            ],
+            "input_3": [
+              "The only trouble is, I have to work long hours."
+            ],
+            "input_4": [
+              "It's hard work."
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 283281,
+          "challenge_id": 30043
+        },
+        "283282": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "1. love working with kids = thích làm việc với trẻ em\n2. what do you like best about it? = bạn thích nhất điều gì ở nó?\n3. make all the difference = tạo nên sự khác biệt lớn\n4. the only trouble is = rắc rối duy nhất là\n5. travel a lot = đi công tác/di chuyển nhiều\n6. get to meet so many people = được gặp rất nhiều người\n7. long hours = giờ làm việc kéo dài\n8. hard work = công việc vất vả / công việc nặng nhọc.\n9. be well-paid = được trả lương cao\n10. be on my feet all night = phải đứng suốt đêm",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 283282,
+          "challenge_id": 30043
+        }
+      }
+    },
+    {
+      "challengeId": 30044,
+      "classChallengeId": "81290",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 30,
+      "submittedAt": "2026-06-21 21:48:10",
+      "markedAt": "2026-06-24 00:34:04",
+      "commentText": "Hi Khánh, bài này em làm tốt nhé.\n\r\nEm check kĩ lại các câu sai để rút kinh nghiệm. Phần script em làm ổn rồi nha.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "283283": {
+          "total_question": 12,
+          "total_correct_result_answer": 11,
+          "user_answer": {
+            "input_0": "salesperson",
+            "input_1": "computers",
+            "input_2": "students",
+            "input_3": "person",
+            "input_4": "book",
+            "input_5": "dogs",
+            "input_6": "cats",
+            "input_7": "vet",
+            "input_8": "countries",
+            "input_9": "chef",
+            "input_10": "restaurant",
+            "input_11": "children"
+          },
+          "correct_answer": {
+            "input_0": [
+              "salesperson"
+            ],
+            "input_1": [
+              "computers"
+            ],
+            "input_2": [
+              "students"
+            ],
+            "input_3": [
+              "people"
+            ],
+            "input_4": [
+              "book"
+            ],
+            "input_5": [
+              "dogs"
+            ],
+            "input_6": [
+              "cats"
+            ],
+            "input_7": [
+              "vet"
+            ],
+            "input_8": [
+              "countries"
+            ],
+            "input_9": [
+              "chef"
+            ],
+            "input_10": [
+              "restaurant"
+            ],
+            "input_11": [
+              "children"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": false,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true,
+            "input_10": true,
+            "input_11": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 283283,
+          "challenge_id": 30044
+        },
+        "283284": {
+          "total_question": 9,
+          "total_correct_result_answer": 8,
+          "user_answer": {
+            "input_0": "a farmer",
+            "input_1": "sheep",
+            "input_6": "fisherman",
+            "input_7": "fish",
+            "input_5": "a firefighter",
+            "input_8": "a policeman",
+            "input_3": "women",
+            "input_4": "housewives",
+            "input_2": "office worker"
+          },
+          "correct_answer": {
+            "input_0": [
+              "a farmer"
+            ],
+            "input_1": [
+              "sheep"
+            ],
+            "input_2": [
+              "businessmen",
+              " office workers"
+            ],
+            "input_3": [
+              "women"
+            ],
+            "input_4": [
+              "housewives"
+            ],
+            "input_5": [
+              "a firefighter"
+            ],
+            "input_6": [
+              "fisherman"
+            ],
+            "input_7": [
+              "fish"
+            ],
+            "input_8": [
+              " a policeman"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": false,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 283284,
+          "challenge_id": 30044
+        },
+        "283285": {
+          "total_question": 10,
+          "total_correct_result_answer": 10,
+          "user_answer": {
+            "input_0": "nurses",
+            "input_1": "OK",
+            "input_2": "teeth",
+            "input_3": "job",
+            "input_4": "singers",
+            "input_5": "people",
+            "input_6": "OK",
+            "input_7": "OK",
+            "input_8": "toys",
+            "input_9": "OK"
+          },
+          "correct_answer": {
+            "input_0": [
+              "nurses"
+            ],
+            "input_1": [
+              "OK"
+            ],
+            "input_2": [
+              "teeth"
+            ],
+            "input_3": [
+              "job"
+            ],
+            "input_4": [
+              "singers"
+            ],
+            "input_5": [
+              "people"
+            ],
+            "input_6": [
+              "OK"
+            ],
+            "input_7": [
+              "OK"
+            ],
+            "input_8": [
+              "toys"
+            ],
+            "input_9": [
+              "OK"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 283285,
+          "challenge_id": 30044
+        },
+        "283286": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://docs.google.com/document/d/1oGwECEe29aWHwFD_fP-kJWoChkkbBB0ZIcPDtPn16rs/edit?usp=sharing",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 283286,
+          "challenge_id": 30044
+        }
+      }
+    }
+  ]
+}

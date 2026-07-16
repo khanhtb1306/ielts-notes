@@ -1,0 +1,313 @@
+{
+  "lesson": 2,
+  "lessonKey": "lesson-02",
+  "items": [
+    {
+      "challengeId": 28459,
+      "classChallengeId": "79762",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 17,
+      "submittedAt": "2026-06-10 23:27:19",
+      "markedAt": "2026-06-11 13:03:08",
+      "commentText": "Hi Khánh, cô gửi nhận xét cho challenge của mình nha.\n\r\nTrước tiên, cô lưu ý là em cần đọc mỗi âm IPA 3 lần theo đúng yêu cầu của đề bài trước khi chuyển sang phần từ vựng. Bài sau em nhớ thực hiện đầy đủ nhé.\n\r\n/ɔː/\nEm cần kéo dài âm hơn để ra đúng đặc trưng của âm /ɔː/. Hiện tại âm vẫn hơi ngắn nên chưa thể hiện rõ sự khác biệt với các nguyên âm khác.\n\r\n/ɔɪ/\nTừ \"oil\" đang thiếu âm cuối /l/. Em cần kết thúc từ rõ hơn bằng cách đặt đầu lưỡi chạm nhẹ lợi trên để tạo đúng âm /l/.\n\r\n/aʊ/\nTrong từ \"hour\", chữ \"h\" là âm câm nên em không cần phát âm âm /h/ ở đầu từ. Hãy bắt đầu trực tiếp bằng nguyên âm đôi /aʊ/.\n\r\n/əʊ/\nTừ \"boat\" hiện chưa đọc đúng nguyên âm đôi /əʊ/. Em cần bắt đầu từ âm /ə/ rồi lướt nhẹ sang /ʊ/, tránh đọc thành nguyên âm đơn hoặc đọc quá ngắn.\n\r\n/ɒ/, /ɜː/, /ə/, /eə/, /ɪə/, /ʊə/, /eɪ/, /aɪ/\nCác âm này em phát âm khá tốt, khẩu hình và cách đọc nhìn chung đã đúng. Em tiếp tục duy trì và luyện tập thường xuyên nhé.\n\r\nEm đọc kĩ nhận xét và luyện tập lại để mình ngày càng tiến bộ hơn nhé.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "266036": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 540064,
+          "correct_answer": 540064,
+          "result_answer": {
+            "540064": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 266036,
+          "challenge_id": 28459
+        },
+        "266037": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 540073,
+          "correct_answer": 540073,
+          "result_answer": {
+            "540073": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 266037,
+          "challenge_id": 28459
+        },
+        "266038": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 540079,
+          "correct_answer": 540079,
+          "result_answer": {
+            "540079": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 266038,
+          "challenge_id": 28459
+        },
+        "266039": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 540090,
+          "correct_answer": 540090,
+          "result_answer": {
+            "540090": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 266039,
+          "challenge_id": 28459
+        },
+        "266040": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 540099,
+          "correct_answer": 540099,
+          "result_answer": {
+            "540099": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 266040,
+          "challenge_id": 28459
+        },
+        "266041": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 540110,
+          "correct_answer": 540110,
+          "result_answer": {
+            "540110": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 266041,
+          "challenge_id": 28459
+        },
+        "266042": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 540117,
+          "correct_answer": 540117,
+          "result_answer": {
+            "540117": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 266042,
+          "challenge_id": 28459
+        },
+        "266043": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 540124,
+          "correct_answer": 540124,
+          "result_answer": {
+            "540124": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 266043,
+          "challenge_id": 28459
+        },
+        "266044": {
+          "total_question": 8,
+          "total_correct_result_answer": 7,
+          "user_answer": {
+            "input_0": "job",
+            "input_1": "got",
+            "input_2": "newspaper",
+            "input_3": "taxi",
+            "input_4": "coffee",
+            "input_5": "airport",
+            "input_6": "married",
+            "input_7": "doctor"
+          },
+          "correct_answer": {
+            "input_0": [
+              "job"
+            ],
+            "input_1": [
+              "get"
+            ],
+            "input_2": [
+              "newspaper"
+            ],
+            "input_3": [
+              "taxi"
+            ],
+            "input_4": [
+              "coffee"
+            ],
+            "input_5": [
+              "airport"
+            ],
+            "input_6": [
+              "married"
+            ],
+            "input_7": [
+              "doctor"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": false,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 266044,
+          "challenge_id": 28459
+        },
+        "266045": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "Get dark – Trời tối dần\nGet better – Khỏe hơn\nGet a newspaper – Mua một tờ báo\nGet a job – Kiếm một công việc\nGet a taxi – Bắt taxi\nGet some coffee – Mua/uống cà phê\nGet a doctor – Tìm bác sĩ\nGet married – Kết hôn\nGet home – Về nhà\nGet there – Đến đó\nGet back – Trở về\nGet back home – Trở về nhà\nGet tired – Trở nên mệt mỏi\nGet wet – Bị ướt\nGet hot – Trở nên nóng",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 266045,
+          "challenge_id": 28459
+        },
+        "266047": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://drive.google.com/file/d/1QAPKRf8Th_k3DAOPuVhjzFUqm5xvER18/view?usp=sharing",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 266047,
+          "challenge_id": 28459
+        }
+      }
+    },
+    {
+      "challengeId": 28460,
+      "classChallengeId": "79763",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 12,
+      "submittedAt": "2026-06-10 23:41:28",
+      "markedAt": "2026-06-11 01:23:20",
+      "commentText": "Hi Khánh, bài này em làm rất tốt nha.\n\r\nEm chú ý câu 6 bài 2, đi đến the top of the hill (đỉnh đồi) thì phải là go up (đi lên) mới đúng nghĩa chứ.\n\r\nEm đọc kĩ nhận xét để rút kinh nghiệm cho bài sau làm tốt hơn nha.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "266049": {
+          "total_question": 5,
+          "total_correct_result_answer": 5,
+          "user_answer": {
+            "input_0": "by motorbike",
+            "input_1": "by car",
+            "input_2": "by motorbike",
+            "input_3": "by bike",
+            "input_4": "by plane"
+          },
+          "correct_answer": {
+            "input_0": [
+              ""
+            ],
+            "input_1": [
+              ""
+            ],
+            "input_2": [
+              ""
+            ],
+            "input_3": [
+              ""
+            ],
+            "input_4": [
+              ""
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 266049,
+          "challenge_id": 28460
+        },
+        "266050": {
+          "total_question": 7,
+          "total_correct_result_answer": 6,
+          "user_answer": {
+            "input_0": "go shopping",
+            "input_1": "go down",
+            "input_2": "go swimming",
+            "input_3": "go out of",
+            "input_4": "go down",
+            "input_5": "go sightseeing",
+            "input_6": "go fishing"
+          },
+          "correct_answer": {
+            "input_0": [
+              "go shopping"
+            ],
+            "input_1": [
+              "go down"
+            ],
+            "input_2": [
+              "go swimming"
+            ],
+            "input_3": [
+              "go out of"
+            ],
+            "input_4": [
+              "go up"
+            ],
+            "input_5": [
+              "go sightseeing"
+            ],
+            "input_6": [
+              "go fishing"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": false,
+            "input_5": true,
+            "input_6": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 266050,
+          "challenge_id": 28460
+        },
+        "266051": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "Go to work by bike – Đi làm bằng xe đạp\nGo to school by bus – Đi học bằng xe buýt\nGo into the house – Đi vào trong nhà\nGo out of the room – Đi ra khỏi phòng\nGo up the stairs – Đi lên cầu thang\nGo down the stairs – Đi xuống cầu thang\nGo shopping – Đi mua sắm\nGo swimming – Đi bơi\nGo sightseeing – Đi tham quan ngắm cảnh\nGo fishing – Đi câu cá",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 266051,
+          "challenge_id": 28460
+        }
+      }
+    }
+  ]
+}

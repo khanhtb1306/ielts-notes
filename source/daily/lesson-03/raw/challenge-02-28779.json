@@ -1,0 +1,414 @@
+{
+  "listItem": {
+    "id": "80072",
+    "challenge_id": 28779,
+    "class_id": "177286917873dop75b27mv",
+    "day": 3,
+    "deadline": "2026-06-13 12:30:00",
+    "challenge_title": "[PRE IELTS] LESSON 3 - CHALLENGE 2",
+    "challenge_note": "Vocabulary (Everyday things)",
+    "challenge_status": 1,
+    "challenge_band": "161433861829325240c1g7",
+    "total_question": 25,
+    "classification": "dc",
+    "student_challenge": {
+      "id": 548023,
+      "class_challenge_id": 80072,
+      "class_id": "177286917873dop75b27mv",
+      "challenge_id": 28779,
+      "cts_id": "1780455880vwydc1i2ehir",
+      "rate": 1,
+      "comment": "<p>Hi Khánh, bài này mình cần làm cẩn thận hơn nhé.</p>\r\n<div>\r\n<div>\r\n<div>\r\n<div id=\"bb_msg_id_1780997766176\" data-component=\"bubble-message\">\r\n<div>\r\n<div>\r\n<div>\r\n<div id=\"message-frame_1780997766176\" data-component=\"message-content-view\" data-qid=\"7917722792065@1780997766176_0_2381432164101090380\">\r\n<div data-id=\"div_DisabledTargetEventLayer\">\r\n<div>\r\n<div id=\"text-mCntr_7917722792065-1780997766176-0-2381432164101090380\" data-id=\"div_SentMsg_Text\">\r\n<div>\r\n<div data-component=\"message-text-content\">Cô thấy em còn điền sai các cụm từ nhiều. Em chú ý xem kĩ lại các cụm từ trong mục bên trái, sau đó ghép vào câu. Phần nào trong đề có sẵn rồi thì em không cần ghi lại. Nếu vẫn chưa hiểu được thì em bấm vào mục giải thích chi tiết đáp án phía dưới.</div>\r\n<div data-component=\"message-text-content\"> </div>\r\n</div>\r\n</div>\r\n</div>\r\n<div>Cố gắng học tốt hơn em nha.</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+      "url": null,
+      "redo_comment": null,
+      "cancel_comment": null,
+      "date_redo": null,
+      "status_mark": "graded",
+      "status_mark_date": "2026-06-15 11:20:43",
+      "flag_overdue": 0,
+      "flag_not_star": 0,
+      "flag_not_submit": 0,
+      "flag_late_redo": 0,
+      "flag_late_submit": 0,
+      "flag_status_mark": 0,
+      "updated_by": null,
+      "updated": "2026-06-15 11:20:43",
+      "created_by": "1779875378vawpfok6ii4u",
+      "created": "2026-06-12 23:12:22",
+      "correct_answer": 18,
+      "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+      "submitted_at": "2026-06-12 23:12:22",
+      "re_submitted_at": null,
+      "answers": [
+        {
+          "id": 7945583,
+          "question_id": 45405,
+          "choice_id": null,
+          "user_id": null,
+          "content": "https://docs.google.com/document/d/1bYeBtp3IxdW6WhSPs6ZBy0fbV7eFXmnHDX94_tYKLeU/edit?usp=sharing",
+          "student_challenge_id": 80072,
+          "index": 0,
+          "created_at": "2024-09-30 23:42:11",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        }
+      ],
+      "tab_switch_count": 0
+    }
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "80072",
+        "challenge_id": 28779,
+        "class_id": "177286917873dop75b27mv",
+        "day": 3,
+        "deadline": "2026-06-13 12:30:00",
+        "flag_status_mark": 1,
+        "flag_not_submit": 1,
+        "created": "2026-06-11 19:52:04",
+        "created_by": null,
+        "challenge": {
+          "id": "28779",
+          "title": "[PRE IELTS] LESSON 3 - CHALLENGE 2",
+          "note": "Vocabulary (Everyday things)",
+          "day": "6",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "161433861829325240c1g7",
+          "created": "2026-06-11 19:52:04",
+          "updated": null,
+          "created_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+          "updated_by": null,
+          "total_question": 25,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 8051
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 548023,
+        "class_challenge_id": 80072,
+        "class_id": "177286917873dop75b27mv",
+        "challenge_id": 28779,
+        "cts_id": "1780455880vwydc1i2ehir",
+        "rate": 1,
+        "comment": "<p>Hi Khánh, bài này mình cần làm cẩn thận hơn nhé.</p>\r\n<div>\r\n<div>\r\n<div>\r\n<div id=\"bb_msg_id_1780997766176\" data-component=\"bubble-message\">\r\n<div>\r\n<div>\r\n<div>\r\n<div id=\"message-frame_1780997766176\" data-component=\"message-content-view\" data-qid=\"7917722792065@1780997766176_0_2381432164101090380\">\r\n<div data-id=\"div_DisabledTargetEventLayer\">\r\n<div>\r\n<div id=\"text-mCntr_7917722792065-1780997766176-0-2381432164101090380\" data-id=\"div_SentMsg_Text\">\r\n<div>\r\n<div data-component=\"message-text-content\">Cô thấy em còn điền sai các cụm từ nhiều. Em chú ý xem kĩ lại các cụm từ trong mục bên trái, sau đó ghép vào câu. Phần nào trong đề có sẵn rồi thì em không cần ghi lại. Nếu vẫn chưa hiểu được thì em bấm vào mục giải thích chi tiết đáp án phía dưới.</div>\r\n<div data-component=\"message-text-content\"> </div>\r\n</div>\r\n</div>\r\n</div>\r\n<div>Cố gắng học tốt hơn em nha.</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": "graded",
+        "status_mark_date": "2026-06-15 11:20:43",
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": null,
+        "updated": "2026-06-15 11:20:43",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-06-12 23:12:22",
+        "correct_answer": 18,
+        "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+        "submitted_at": "2026-06-12 23:12:22",
+        "re_submitted_at": null,
+        "answers": {
+          "269513": {
+            "total_question": 12,
+            "total_correct_result_answer": 6,
+            "user_answer": {
+              "input_0": "call a friend",
+              "input_1": "go to work",
+              "input_2": "watch TV",
+              "input_3": "dinner",
+              "input_4": "go to bed",
+              "input_5": "get up",
+              "input_6": "bathroom",
+              "input_7": "shower",
+              "input_8": "walk",
+              "input_9": "letters/emails",
+              "input_10": "clothes",
+              "input_11": "house"
+            },
+            "correct_answer": {
+              "input_0": [
+                "friend",
+                "friends"
+              ],
+              "input_1": [
+                "to work"
+              ],
+              "input_2": [
+                "TV",
+                "television"
+              ],
+              "input_3": [
+                "dinner"
+              ],
+              "input_4": [
+                "bed",
+                "sleep"
+              ],
+              "input_5": [
+                "home"
+              ],
+              "input_6": [
+                "bathroom"
+              ],
+              "input_7": [
+                "shower",
+                "bath"
+              ],
+              "input_8": [
+                "walk"
+              ],
+              "input_9": [
+                "letters",
+                "emails"
+              ],
+              "input_10": [
+                "clothes"
+              ],
+              "input_11": [
+                "house"
+              ]
+            },
+            "result_answer": {
+              "input_0": false,
+              "input_1": false,
+              "input_2": false,
+              "input_3": true,
+              "input_4": false,
+              "input_5": false,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": false,
+              "input_10": true,
+              "input_11": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 269513,
+            "challenge_id": 28779
+          },
+          "269514": {
+            "total_question": 12,
+            "total_correct_result_answer": 11,
+            "user_answer": {
+              "input_0": "6 o'clock",
+              "input_1": "6 o'clock.",
+              "input_2": "bus",
+              "input_3": "home",
+              "input_4": "6",
+              "input_5": "TV",
+              "input_6": "3",
+              "input_7": "make",
+              "input_8": "7",
+              "input_9": "go for a walk",
+              "input_10": "bed",
+              "input_11": "10"
+            },
+            "correct_answer": {
+              "input_0": [
+                ""
+              ],
+              "input_1": [
+                "bath",
+                "shower"
+              ],
+              "input_2": [
+                "bus",
+                "bike",
+                "motorbike",
+                "bicycle",
+                "motorcycle",
+                "car",
+                "train",
+                "electric motorbike",
+                "electric bike",
+                "electric bicycle",
+                "electric car"
+              ],
+              "input_3": [
+                "home"
+              ],
+              "input_4": [
+                ""
+              ],
+              "input_5": [
+                "TV",
+                "movies",
+                "television",
+                "films",
+                "a film",
+                "a movie",
+                "a video",
+                "a show"
+              ],
+              "input_6": [
+                ""
+              ],
+              "input_7": [
+                "make",
+                "have"
+              ],
+              "input_8": [
+                ""
+              ],
+              "input_9": [
+                ""
+              ],
+              "input_10": [
+                "bed",
+                "sleep"
+              ],
+              "input_11": [
+                ""
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": false,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true,
+              "input_10": true,
+              "input_11": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 269514,
+            "challenge_id": 28779
+          },
+          "269515": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "get home: về nhà\nhave a bath: tắm (bồn)\ngo to the bathroom: đi vệ sinh\ngo to work: đi làm\nmake dinner: làm bữa tối\ngo to bed: đi ngủ\nwash clothes: giặt quần áo\nclean the house: lau nhà\ngo for a walk: đi dạo\nwrite letters/emails: viết thư/email\nphone a friend: gọi điện cho bạn\nhave a shower: tắm (vòi hoa sen)",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 269515,
+            "challenge_id": 28779
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 77811,
+          "content": "<p><span style=\"font-family: Nunito-ExtraBold; font-size: 16pt; color: #ffffff; background-color: #ba372a;\"><strong> VOCABULARY: Everyday things </strong></span></p>\n<p><span style=\"color: #c0392b; font-family: Nunito-Regular; font-size: 12pt;\"><strong>A. Things we do every day </strong></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">1. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709109241.mp3\" /> <strong>Wake up</strong>: Thức giấc </span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">2. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709109253.mp3\" /> <strong>Get up</strong>: Thức dậy</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">3. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709109263.mp3\" /> <strong>Go to the bathroom</strong>: Đi vệ sinh </span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">4. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709109279.mp3\" /> <strong>Have a shower</strong>: Tắm (vòi hoa sen)</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">5. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709109292.mp3\" /> <strong>Have a bath:</strong> Tắm (bồn)</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">6. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709109303.mp3\" /> <strong>Go to work</strong>: Đi làm</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">7. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709109314.mp3\" /> <strong>Come/ Go/ Get home:</strong> Đi về nhà</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">8. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709109325.mp3\" /> <strong>Make dinner</strong>: Làm bữa tối</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">9. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709109336.mp3\" /> <strong>Phone (or call) a friend</strong>: Gọi điện cho bạn</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">10. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709109351.mp3\" /> <strong>Watch TV</strong>: Xem tivi</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">11. <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709109368.mp3\" /><strong>Go to bed/ Go to sleep: </strong>đi ngủ</span></p>\n<p> </p>\n<p><span style=\"color: #c0392b; font-family: Nunito-Regular; font-size: 12pt;\"><strong>B. Sometimes I … </strong></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><em>Giặt quần áo  <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709110452.mp3\" />     Lau nhà  <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709110466.mp3\" />             Đi dạo  <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709110486.mp3\" />        Viết thư/ email  <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1709110519.mp3\" /></em></span></p>\n<p><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1709110452.png\" alt=\"\" width=\"510\" height=\"138\" /></p>\n<p> </p>\n<p><span style=\"color: #c0392b; font-family: Nunito-Regular; font-size: 12pt;\"><strong>C. Expressions</strong></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>A: </strong>How often do you read the newspaper / watch TV? <em>(Bạn có hay đọc báo/ xem ti vi không?)</em></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>B: </strong>Three or four times a week. <em>(3 hoặc 4 lần 1 tuần)</em></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>A: </strong>What time do you get up / go to work? <em>(Mấy giờ bạn ngủ dậy/ đi làm?)</em></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>B: </strong>At 7 o'clock normally. <em>(Thường là 7 giờ)</em></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>A: </strong>How do you go to work? <em>(Bạn đi làm bằng phương tiện gì?)</em></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>B: </strong>Usually by bus / train / car. <em>(Thường là xe buýt/ tàu/ ô tô)</em></span></p>\n<p> </p>\n<p> </p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 28779,
+          "id": 269513,
+          "name": null,
+          "title": "Vocabulary: Everyday things",
+          "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 10pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-family: Nunito-ExtraBold;\">Exercise 1. Complete the sentences using the words given in parts A and B. Write NO MORE THAN TWO WORDS for each answer. </span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Trả lời c&aacute;c c&acirc;u hỏi b&ecirc;n dưới bằng c&aacute;ch sử dụng c&aacute;c cụm từ đ&atilde; được cho trong phần A v&agrave; B. Điền KH&Ocirc;NG QU&Aacute; HAI TỪ cho mỗi khoảng trống.)</span></span></p>\n<p><span id=\"docs-internal-guid-423309d2-7fff-797c-4891-694e7d02f132\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 12pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Example: He <span style=\"color: #e03e2d;\">wakes</span></span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #e03e2d;\"> up</span> </span><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">at 6 a.m every morning.</span></span></p>",
+          "explain": "<p><strong>1. She phones her [friend/friends] two or three times a week.</strong></p>\n<p><strong>Giải thích:</strong> Bạn có thể gọi điện cho <strong>một người bạn (friend)</strong> hoặc <strong>nhiều người bạn (friends)</strong>. Cả hai đều đúng ngữ pháp tùy thuộc vào số lượng bạn bè mà cô ấy gọi. Cụm từ là <strong>phone (someone)</strong> (gọi điện cho ai đó).</p>\n<p><em><strong>Dịch nghĩa:</strong> Cô ấy gọi điện cho <strong>bạn/những người bạn</strong> của mình hai hoặc ba lần một tuần.</em></p>\n<p><strong>2. He goes [to work] from Monday to Friday.</strong></p>\n<p><strong>Giải thích:</strong> Để nói về việc đi làm, chúng ta dùng cụm từ cố định <strong>go to work</strong>.</p>\n<p><em><strong>Dịch nghĩa:</strong> Anh ấy <strong>đi làm</strong> từ thứ Hai đến thứ Sáu.</em></p>\n<p><strong>3. He watches [TV] every evening.</strong></p>\n<p><strong>Giải thích:</strong> Để nói về việc xem tivi, chúng ta dùng cụm từ cố định <strong>watch TV</strong> (không có mạo từ \"the\").</p>\n<p><em><strong>Dịch nghĩa:</strong> Anh ấy <strong>xem TV</strong> mỗi tối.</em></p>\n<p><strong>4. She makes [dinner] every Sunday.</strong></p>\n<p><strong>Giải thích:</strong> Để nói về việc nấu bữa tối, chúng ta dùng cụm từ cố định <strong>make dinner</strong>.</p>\n<p><em><strong>Dịch nghĩa:</strong> Cô ấy <strong>nấu bữa tối</strong> vào mỗi Chủ Nhật.</em></p>\n<p><strong>5. I usually go to [bed/sleep] at 10 p.m every night.</strong></p>\n<p><strong>Giải thích:</strong> Để nói về việc đi ngủ, chúng ta dùng cụm từ cố định <strong>go to bed</strong> hoặc <strong>go to sleep</strong>.</p>\n<p><em><strong>Dịch nghĩa:</strong> Tôi thường <strong>đi ngủ</strong> lúc 10 giờ tối mỗi đêm.</em></p>\n<p><strong>6. My mom normally comes [home] at 6 p.m every day.</strong></p>\n<p><strong>Giải thích:</strong> Để nói về việc về nhà, chúng ta dùng cụm từ cố định <strong>come home</strong> (không có giới từ \"to\" trước \"home\" khi \"home\" đóng vai trò trạng từ chỉ nơi chốn).</p>\n<p><em><strong>Dịch nghĩa:</strong> Mẹ tôi thường <strong>về nhà</strong> lúc 6 giờ tối mỗi ngày.</em></p>\n<p><strong>7. Every morning, I go to the [bathroom] to have a [shower/bath].</strong></p>\n<p><strong>Giải thích:</strong> Để nói về việc đi vào nhà tắm, chúng ta dùng cụm từ cố định <strong>go to the bathroom</strong>. Để nói về việc tắm, ta dùng <strong>have a shower</strong> hoặc <strong>have a bath</strong>.</p>\n<p><em><strong>Dịch nghĩa:</strong> Mỗi sáng, tôi đi vào <strong>nhà tắm</strong> để <strong>tắm vòi sen/tắm bồn</strong>.</em></p>\n<p><strong>8. In my free time, I like going for a [walk] to relax.</strong></p>\n<p><strong>Giải thích:</strong> Để nói về việc đi dạo thư giãn, chúng ta dùng cụm từ cố định <strong>go for a walk</strong>.</p>\n<p><em><strong>Dịch nghĩa:</strong> Vào thời gian rảnh, tôi thích <strong>đi dạo</strong> để thư giãn.</em></p>\n<p><strong>9. Sometimes, John writes [letters/emails] to send his friends.</strong></p>\n<p><strong>Giải thích:</strong> Để nói về việc viết thư hoặc email, chúng ta dùng cụm từ <strong>write letters</strong> hoặc <strong>write emails</strong>.</p>\n<p><em><strong>Dịch nghĩa:</strong> Đôi khi, John <strong>viết thư/email</strong> để gửi cho bạn bè của mình.</em></p>\n<p><strong>10. My dad often washes [clothes] and cleans the [house] on the weekend.</strong></p>\n<p><strong>Giải thích:</strong> Để nói về việc giặt quần áo, chúng ta dùng cụm từ <strong>wash clothes</strong>. Để nói về việc dọn dẹp nhà cửa, chúng ta dùng cụm từ <strong>clean the house</strong>.</p>\n<p><em><strong>Dịch nghĩa:</strong> Bố tôi thường <strong>giặt quần áo</strong> và <strong>dọn nhà</strong> vào cuối tuần.</em></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 65357,
+              "content": "<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. She phones her <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_0]</span></span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> two or three times a week. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. He goes <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_1]</span></span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> from Monday to Friday. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. He watches [input_2] every evening. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. She makes  <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_3]</span></span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">  every Sunday. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. I usually go to <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_4]</span></span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">  at 10 p.m every night. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. My mom normally comes <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_5]</span></span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> at 6 p.m every day. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. Every morning, I go to the <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_6]</span></span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> to have a <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_7]</span></span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. In my free time, I like going for a <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_8]</span></span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> to relax. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9. Sometimes, John writes <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_9]</span></span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> to send his friends. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"color: #000000; font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">10. My dad often washes <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_10]</span> </span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">and cleans the <span style=\"font-size: 16px; white-space-collapse: preserve;\">[input_11]</span></span><span style=\"font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> on the weekend. </span></span></p>\n<p><span id=\"docs-internal-guid-48046ef3-7fff-4407-c583-f9fca7cdb700\"></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 28779,
+          "id": 269514,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": "<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 10pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Bài yêu cầu điền thông tin của cá nhân, nên thông tin thời gian tùy thuộc vào HV, không có câu trả lời sai. Cần chú ý cách viết thời gian đúng. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 10pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. I usually get up at ……… .  </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Suggested answer: &lt;specific time&gt;)</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. After that, I often go to the bathroom to have a ……… . </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Suggested answer: bath/shower)</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. After having breakfast, I go to work/school by ……… .  </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Suggested answer: bus/train/car)</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. I come ……… at ………  o’clock after work/school. </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Suggested answer: home; &lt;specific time&gt;)</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. I often watch ………  ……… times a week .  </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Suggested answer: TV; &lt;a number&gt;)</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. I normally ………  dinner at ………  o’clock. </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Suggested answer: make/have; &lt;specific time&gt;)</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. In the evenings, I usually  ……… .  </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Suggested answer: go for a walk / clean the house / …)</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #242938; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. At night, I often go to ……… at ……… . </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Suggested answer: sleep/bed; &lt;specific time&gt;)</span></span></p>\n<p><span id=\"docs-internal-guid-57a9b65c-7fff-d916-e19e-92ebac4113a4\" style=\"font-family: Nunito-Regular;\"></span></p>",
+          "introduction": "<p> </p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-ExtraBold;\"><strong><em>Exercise 2. </em></strong></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong><em>Complete the sentences about yourself. </em></strong><em>(hoàn thành các câu hỏi sau bằng thông tin của bản thân)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 65358,
+              "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">1. I usually wake up at [input_0].</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">2. After that, I go to the bathroom to have a [input_1].</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">3. After having breakfast, I go to school/work by [input_2].</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">4. I come [input_3] at [input_4] o'clock after school/work.</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">5. I often watch [input_5]    [input_6] times a week.</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">6. I normally [input_7] dinner at [input_8] o'clock.</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">7. In the evenings, I usually [input_9].</span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">8. At night, I often go to [input_10] at [input_11].</span></p>\n<p> </p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 28779,
+          "id": 269515,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span style=\"font-size: 12pt; font-family: Nunito-ExtraBold;\"><strong>Exercise 3. </strong></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong><em>Ghi lại &iacute;t nhất 10 từ/ cụm từ/ c&acirc;u học được từ phần Vocabulary, k&egrave;m theo nghĩa</em></strong></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

@@ -1,0 +1,2994 @@
+{
+  "lesson": null,
+  "lessonKey": "lesson-misc",
+  "questions": [
+    {
+      "id": "question-276926",
+      "sourceQuestionId": 276926,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 4,
+      "prompt": "Ex 1. Choose the best answer (Chọn đáp án thích hợp nhất)",
+      "introductionText": "Ex 1. Choose the best answer (Chọn đáp án thích hợp nhất)",
+      "contentText": "1) I ..........  at a swimming pool near my house every day in the summer.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-d60d2216-7fff-6f4e-c034-2d22640f9c6e\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-ExtraBold; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Ex 1. Choose the best answer </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-family: Nunito-Regular;\">(Chọn đ&aacute;p &aacute;n th&iacute;ch hợp nhất)</span></span></p>",
+        "content": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1) I &hellip;&hellip;&hellip;.&nbsp; at a swimming pool near my house every day in the summer.</span></p>\n<p><span id=\"docs-internal-guid-e4bf91df-7fff-cc03-23dd-746c6bf87a99\" style=\"font-family: Nunito-Regular;\"></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 566163,
+        "correctAnswer": 566163,
+        "resultAnswer": {
+          "566163": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276927",
+      "sourceQuestionId": 276927,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 4,
+      "prompt": "2) Is that your new camera? Can I ......?",
+      "introductionText": "",
+      "contentText": "2) Is that your new camera? Can I ......?",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-723d648f-7fff-a2b9-2182-9c5af0dd303f\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">2) Is that your new camera? Can I &hellip;&hellip;?</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br /></span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 566169,
+        "correctAnswer": 566169,
+        "resultAnswer": {
+          "566169": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276928",
+      "sourceQuestionId": 276928,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 4,
+      "prompt": "3) She loves ......... with her father.",
+      "introductionText": "",
+      "contentText": "3) She loves ......... with her father.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-86c7b051-7fff-789a-6506-d8f29aeb4f5d\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">3) She loves &hellip;&hellip;&hellip; with her father.</span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 566173,
+        "correctAnswer": 566173,
+        "resultAnswer": {
+          "566173": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276929",
+      "sourceQuestionId": 276929,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 4,
+      "prompt": "4) Alan ............. tennis with his cousin tomorrow.",
+      "introductionText": "",
+      "contentText": "4) Alan ............. tennis with his cousin tomorrow.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-58834196-7fff-a2db-120a-258629d77fd6\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4) Alan &hellip;&hellip;&hellip;&hellip;. tennis with his cousin tomorrow.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 566176,
+        "correctAnswer": 566176,
+        "resultAnswer": {
+          "566176": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276930",
+      "sourceQuestionId": 276930,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 4,
+      "prompt": "5) Our company ............. the UK.",
+      "introductionText": "",
+      "contentText": "5) Our company ............. the UK.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-1db85095-7fff-4000-4c8e-bc5aca1c5d3c\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5) Our company &hellip;&hellip;&hellip;&hellip;. the UK.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 566179,
+        "correctAnswer": 566179,
+        "resultAnswer": {
+          "566179": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276931",
+      "sourceQuestionId": 276931,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 4,
+      "prompt": "6) My sister is …….................",
+      "introductionText": "",
+      "contentText": "6) My sister is …….................",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-e0c5f08d-7fff-bba2-a86d-71f4deaa1a8d\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6) My sister is …….................</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 566183,
+        "correctAnswer": 566183,
+        "resultAnswer": {
+          "566183": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276932",
+      "sourceQuestionId": 276932,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 4,
+      "prompt": "7) This movie ..........",
+      "introductionText": "",
+      "contentText": "7) This movie ..........",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-2d03dc4f-7fff-4d0c-d6c1-56a4fdd3f763\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7) This movie &hellip;&hellip;&hellip;.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 566189,
+        "correctAnswer": 566189,
+        "resultAnswer": {
+          "566189": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276933",
+      "sourceQuestionId": 276933,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 4,
+      "prompt": "8) She will  .......... today.",
+      "introductionText": "",
+      "contentText": "8) She will  .......... today.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-9aa6d036-7fff-53fe-4450-7474a97fff11\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8) She will&nbsp; &hellip;&hellip;&hellip;. today.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 566191,
+        "correctAnswer": 566191,
+        "resultAnswer": {
+          "566191": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276934",
+      "sourceQuestionId": 276934,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 4,
+      "prompt": "9) How long does it ....... to ...... to school?",
+      "introductionText": "",
+      "contentText": "9) How long does it ....... to ...... to school?",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-88705fc5-7fff-ded2-1292-faf1c986ab19\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9) How long does it &hellip;&hellip;. to &hellip;&hellip; to school?</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 566198,
+        "correctAnswer": 566198,
+        "resultAnswer": {
+          "566198": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276935",
+      "sourceQuestionId": 276935,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 4,
+      "prompt": "10) How does Julie go to work? - She .....",
+      "introductionText": "",
+      "contentText": "10) How does Julie go to work? - She .....",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-e7a1f3a1-7fff-3e37-70f4-6543be08903c\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">10) How does Julie go to work? - She &hellip;..</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 566200,
+        "correctAnswer": 566200,
+        "resultAnswer": {
+          "566200": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276936",
+      "sourceQuestionId": 276936,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 4,
+      "prompt": "11) He wants to ....... after graduating (tốt nghiệp) from university.",
+      "introductionText": "",
+      "contentText": "11) He wants to ....... after graduating (tốt nghiệp) from university.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-5294c762-7fff-6354-b5fd-2337b4299f55\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">11) He wants to &hellip;&hellip;. after </span><span style=\"color: #000000; background-color: #f4cccc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">graduating</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(tốt nghiệp) </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">from university.</span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 566203,
+        "correctAnswer": 566203,
+        "resultAnswer": {
+          "566203": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276937",
+      "sourceQuestionId": 276937,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 4,
+      "prompt": "12) How do you ..... dog in Vietnamese?",
+      "introductionText": "",
+      "contentText": "12) How do you ..... dog in Vietnamese?",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-919a7408-7fff-d645-5fc9-33f0ea136d99\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">12) How do you &hellip;.. </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">dog </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">in Vietnamese?</span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 566207,
+        "correctAnswer": 566207,
+        "resultAnswer": {
+          "566207": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276938",
+      "sourceQuestionId": 276938,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 4,
+      "prompt": "13) Can you ....... me the time?",
+      "introductionText": "",
+      "contentText": "13) Can you ....... me the time?",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-05434483-7fff-63dd-751a-be716e3cd19c\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">13) Can you &hellip;&hellip;. me the time?</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 566213,
+        "correctAnswer": 566213,
+        "resultAnswer": {
+          "566213": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276939",
+      "sourceQuestionId": 276939,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 4,
+      "prompt": "14) You should ...... him.",
+      "introductionText": "",
+      "contentText": "14) You should ...... him.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-3ec0a55f-7fff-c8e7-2d83-8ea8f3747320\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">14) You should &hellip;&hellip; him.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 566215,
+        "correctAnswer": 566215,
+        "resultAnswer": {
+          "566215": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276940",
+      "sourceQuestionId": 276940,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 4,
+      "prompt": "15) She ....... goodbye to everyone.",
+      "introductionText": "",
+      "contentText": "15) She ....... goodbye to everyone.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-e939fc9d-7fff-3058-71ae-5a2f0e505279\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">15) She &hellip;&hellip;. goodbye to everyone.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 566221,
+        "correctAnswer": 566221,
+        "resultAnswer": {
+          "566221": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276941",
+      "sourceQuestionId": 276941,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 4,
+      "prompt": "16) We .... at the last school prom.",
+      "introductionText": "",
+      "contentText": "16) We .... at the last school prom.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-6190c75f-7fff-b27e-196f-7549da9e0534\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">16) We &hellip;. at the last school prom.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 566224,
+        "correctAnswer": 566224,
+        "resultAnswer": {
+          "566224": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276942",
+      "sourceQuestionId": 276942,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 4,
+      "prompt": "17) She ..... because she is late for school.",
+      "introductionText": "",
+      "contentText": "17) She ..... because she is late for school.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-6817a546-7fff-1d4d-78a0-3225e81b304b\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">17) She &hellip;.. because she is late for school.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 566227,
+        "correctAnswer": 566227,
+        "resultAnswer": {
+          "566227": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276943",
+      "sourceQuestionId": 276943,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 4,
+      "prompt": "18) Can you ..... me the sugar?",
+      "introductionText": "",
+      "contentText": "18) Can you ..... me the sugar?",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-8515feb8-7fff-8c9d-184f-dcbaa650fef9\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">18) Can you &hellip;.. me the sugar?</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 566231,
+        "correctAnswer": 566231,
+        "resultAnswer": {
+          "566231": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276944",
+      "sourceQuestionId": 276944,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 4,
+      "prompt": "19) How did you .... here? - I .... here.",
+      "introductionText": "",
+      "contentText": "19) How did you .... here? - I .... here.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-e7960cd5-7fff-fb71-7b7d-ba8af23ee064\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">19) How did you &hellip;. here? - I &hellip;. here.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 566238,
+        "correctAnswer": 566238,
+        "resultAnswer": {
+          "566238": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276945",
+      "sourceQuestionId": 276945,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 4,
+      "prompt": "20) My father .... me to school every day.",
+      "introductionText": "",
+      "contentText": "20) My father .... me to school every day.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-ce474321-7fff-5c96-7291-72bceed9c2e0\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">20) My father &hellip;. me to school every day.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 566239,
+        "correctAnswer": 566239,
+        "resultAnswer": {
+          "566239": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276946",
+      "sourceQuestionId": 276946,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 1,
+      "prompt": "Ex 2. Look at Tim's timetable and write sentences about his day. Remember to write the time in words. (Nhìn thời khóa biểu của Tim và viết về ngày của anh ấy. Nhớ viết thời gian bằng chữ)",
+      "introductionText": "Ex 2. Look at Tim's timetable and write sentences about his day. Remember to write the time in words. (Nhìn thời khóa biểu của Tim và viết về ngày của anh ấy. Nhớ viết thời gian bằng chữ)",
+      "contentText": "1\n\n |\n\nWake up\n\n |\n\n6:00 \n\n |\n\n2\n\n |\n\nTake a shower\n\n |\n\n6:15 \n\n |\n\n3\n\n |\n\nHave breakfast, read the newspaper\n\n |\n\n6:30 \n\n |\n\n4\n\n |\n\nGo to work\n\n |\n\n7:45 \n\n |\n\n5\n\n |\n\nCome home\n\n |\n\n6:50\n\n |\n\n6\n\n |\n\nMake dinner\n\n |\n\n8:15\n\n |\n\n7\n\n |\n\nCall his mother\n\n |\n\n9:25\n\n |\n\n8\n\n |\n\nGo to bed\n\n |\n\n10:10\n\n |\n\n \n\nE.g.\n\n1. Tim wakes up at six o’clock.",
+      "answerTemplateText": "[input_0]\n\n[input_1]\n\n[input_2]\n\n[input_3]\n\n[input_4]\n\n[input_5]\n\n[input_6]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-5978b6b9-7fff-466b-eea7-dd6db5592ce5\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-ExtraBold;\">Ex 2. Look at Tim&rsquo;s timetable and write sentences about his day. Remember to write the time in words.</span> </span><span style=\"font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Nh&igrave;n thời kh&oacute;a biểu của Tim v&agrave; viết về ng&agrave;y của anh ấy. Nhớ viết thời gian bằng chữ)</span></span></p>",
+        "content": "<p><span id=\"docs-internal-guid-a7bd2129-7fff-d910-b754-ab34b3e1ee04\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse;\"><colgroup><col width=\"59\" /><col width=\"409\" /><col width=\"134\" /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Wake up</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6:00 </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Take a shower</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6:15 </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Have breakfast, read the newspaper</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6:30 </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Go to work</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7:45 </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Come home</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6:50</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Make dinner</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8:15</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Call his mother</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9:25</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Go to bed</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">10:10</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">E.g.</span></p>\n<p><span style=\"font-family: Nunito-Regular; color: #000000; font-size: 12pt;\">1. <span style=\"white-space-collapse: preserve;\">Tim wakes up at six o’clock.</span></span></p>\n</div>",
+        "answerTemplate": "<ol>\n<li>\n<p data-path-to-node=\"0,0,0\">[input_0]</p>\n</li>\n<li>\n<p data-path-to-node=\"0,1,0\">[input_1]</p>\n</li>\n<li>\n<p data-path-to-node=\"0,2,0\">[input_2]</p>\n</li>\n<li>\n<p data-path-to-node=\"0,3,0\">[input_3]</p>\n</li>\n<li>\n<p data-path-to-node=\"0,4,0\">[input_4]</p>\n</li>\n<li>\n<p data-path-to-node=\"0,5,0\">[input_5]</p>\n</li>\n<li>\n<p data-path-to-node=\"0,6,0\">[input_6]</p>\n</li>\n</ol>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 7,
+        "totalCorrect": 0,
+        "userAnswer": {
+          "input_0": "Tim takes a shower at a quarter past six",
+          "input_1": "Tim has breakfast, reads the newspaper at half past six",
+          "input_2": "Tim goes to work at a quarter to eight",
+          "input_3": "Tim comes home at ten to seven",
+          "input_4": "Tim makes dinner at a quarter past eight",
+          "input_5": "Tim calls his mother at twenty-five past nine",
+          "input_6": "Tim goes to bed at ten past ten"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "He|Tim takes a shower at six fifteen|quarter past six|fifteen after six.|a quarter past six."
+          ],
+          "input_1": [
+            "He|Tim has breakfast and reads the newspaper at half past six|six thirty."
+          ],
+          "input_2": [
+            "He|Tim goes to work at a quarter to eight|seven forty-five|fifteen to eight."
+          ],
+          "input_3": [
+            "He|Tim comes home at six fifty|ten to seven."
+          ],
+          "input_4": [
+            "He|Tim makes dinner at a quarter past eight|quarter past eight|eight fifteen|fifteen past eight."
+          ],
+          "input_5": [
+            "He|Tim calls his mother at nine twenty-five|twenty-five past nine."
+          ],
+          "input_6": [
+            "He|Tim goes to bed at ten after ten|ten past ten|ten ten."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false,
+          "input_1": false,
+          "input_2": false,
+          "input_3": false,
+          "input_4": false,
+          "input_5": false,
+          "input_6": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276947",
+      "sourceQuestionId": 276947,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 1,
+      "prompt": "Ex 3. Translate these sentences into English using phrases you have learned from lessons 1 to 5. (Dịch các câu sau sang tiếng Anh sử dụng những cụm từ đã học từ bài 1 đến 5.)",
+      "introductionText": "Ex 3. Translate these sentences into English using phrases you have learned from lessons 1 to 5. (Dịch các câu sau sang tiếng Anh sử dụng những cụm từ đã học từ bài 1 đến 5.)",
+      "contentText": "1. Mẹ bạn làm nghề gì? - Mẹ tôi là y tá.",
+      "answerTemplateText": "[input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-eea5ffa9-7fff-92fb-5100-fcda7fda62f7\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-ExtraBold;\">Ex 3. Translate these sentences into English using phrases you have learned from lessons 1 to 5</span>. </span><span style=\"font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Dịch c&aacute;c c&acirc;u sau sang tiếng Anh sử dụng những cụm từ đ&atilde; học từ b&agrave;i 1 đến 5.)</span></span></p>",
+        "content": "<p><span id=\"docs-internal-guid-ac6cbfef-7fff-fe09-1713-a83e20ff4c8b\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. Mẹ bạn l&agrave;m nghề g&igrave;? - Mẹ t&ocirc;i l&agrave; y t&aacute;.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\">&nbsp;</p>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; color: #000000; font-size: 12pt;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 0,
+        "userAnswer": {
+          "input_0": "What does your mother do? -  My mother is a nurse."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "What does your mother do? - My mother is a nurse."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276948",
+      "sourceQuestionId": 276948,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 1,
+      "prompt": "2. Anh trai tôi tập thể dục mỗi ngày.",
+      "introductionText": "",
+      "contentText": "2. Anh trai tôi tập thể dục mỗi ngày.",
+      "answerTemplateText": "[input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-1b7342fa-7fff-e26c-95e1-bac1a233f126\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. Anh trai t&ocirc;i tập thể dục mỗi ng&agrave;y.</span></p>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 0,
+        "userAnswer": {
+          "input_0": "My brother takes exams every day."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "My brother does exercise every day."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276949",
+      "sourceQuestionId": 276949,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 1,
+      "prompt": "3. Bố tôi giặt quần áo trong gia đình tôi.",
+      "introductionText": "",
+      "contentText": "3. Bố tôi giặt quần áo trong gia đình tôi.",
+      "answerTemplateText": "[input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-7d26ce70-7fff-41b6-6afa-b0e4f186a8fb\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. Bố t&ocirc;i giặt quần &aacute;o trong gia đ&igrave;nh t&ocirc;i.</span></p>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"white-space-collapse: preserve;\"><span style=\"color: #000000;\">[input_0]</span></span></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 0,
+        "userAnswer": {
+          "input_0": "My father does the washing for my family."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "My father does the washing in my family.|My father does the laundry in my family."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276950",
+      "sourceQuestionId": 276950,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 1,
+      "prompt": "4. Tôi thường tắm lúc 7 giờ tối.",
+      "introductionText": "",
+      "contentText": "4. Tôi thường tắm lúc 7 giờ tối.",
+      "answerTemplateText": "[input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-c954b64f-7fff-ccee-63fe-04b43385a2ea\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. T&ocirc;i thường tắm l&uacute;c 7 giờ tối.</span></p>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"color: #000000;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 0,
+        "userAnswer": {
+          "input_0": "I usually take a bath at 7 pm"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "I often have a shower at 7 pm.|I usually have a shower at 7 pm."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276951",
+      "sourceQuestionId": 276951,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 1,
+      "prompt": "5. Tôi thường ăn bánh mì với trứng và một cốc sữa cho bữa sáng.",
+      "introductionText": "",
+      "contentText": "5. Tôi thường ăn bánh mì với trứng và một cốc sữa cho bữa sáng.",
+      "answerTemplateText": "[input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-0ba886e6-7fff-370c-12b2-433765e009c1\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. T&ocirc;i thường ăn b&aacute;nh m&igrave; với trứng v&agrave; một cốc sữa cho bữa s&aacute;ng.</span></p>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 0,
+        "userAnswer": {
+          "input_0": "I take a bánh mì with egg an one cốc sữa for breadfast"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "I often have bread with eggs and a glass of milk for breakfast."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276952",
+      "sourceQuestionId": 276952,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 1,
+      "prompt": "6. Tôi thích đi ngắm cảnh vào kì nghỉ.",
+      "introductionText": "",
+      "contentText": "6. Tôi thích đi ngắm cảnh vào kì nghỉ.",
+      "answerTemplateText": "[input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-16729b6b-7fff-9556-458b-61fed2dc744a\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. T&ocirc;i th&iacute;ch đi ngắm cảnh v&agrave;o k&igrave; nghỉ.</span></p>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"color: #000000;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 0,
+        "userAnswer": {
+          "input_0": "I have a banh mi with an egg and a cup of milk for breakfast"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "I like going sightseeing when I'm on holiday.|I like to go sightseeing when I'm on holiday."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276953",
+      "sourceQuestionId": 276953,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 1,
+      "prompt": "7. Tôi đi tản bộ hai lần mỗi tuần.",
+      "introductionText": "",
+      "contentText": "7. Tôi đi tản bộ hai lần mỗi tuần.",
+      "answerTemplateText": "[input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-b5e3c535-7fff-ffcb-22ee-5ab4a2399d0d\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. T&ocirc;i đi tản bộ hai lần mỗi tuần.</span></p>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"color: #000000;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 0,
+        "userAnswer": {
+          "input_0": "I go for a walk twice a week"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "I go for a walk twice a week.|I go for a walk two times a week."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276954",
+      "sourceQuestionId": 276954,
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "title": null,
+      "type": 1,
+      "prompt": "8. Tôi thường đi đến trường bằng xe máy.",
+      "introductionText": "",
+      "contentText": "8. Tôi thường đi đến trường bằng xe máy.",
+      "answerTemplateText": "[input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-fe011113-7fff-65f1-4cc4-4f595c4477f7\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. T&ocirc;i thường đi đến trường bằng xe m&aacute;y.</span></p>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": {
+          "input_0": "I often go to school by motorbike"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "I often go to school by motorbike."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301022",
+      "sourceQuestionId": 301022,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 1: Listen and match the aspects that the speakers like and dislike about the jobs (Nghe và nối những điều mà người nói thích hay không thích về công việc của mình.)\n\n \n\n1. I get to meet so many people.\n\n |\n\n2. I love working with kids.\n\n |\n\n3. I’m always really tired when I get home at night.\n\n |\n\n4. It’s hard work and pretty tiring, too.\n\n |\n\n5. The tips are great.\n\n |\n\n6. It takes me an hour to drive there every day.\n\n |\n\n7. I am well paid.\n\n |\n\n8. I have to travel a lot.\n\n |\n\n9. The people I work with are so nice.\n\n |\n\n10. I do the same thing every day.\n\n |",
+      "introductionText": "Exercise 1: Listen and match the aspects that the speakers like and dislike about the jobs (Nghe và nối những điều mà người nói thích hay không thích về công việc của mình.)\n\n \n\n1. I get to meet so many people.\n\n |\n\n2. I love working with kids.\n\n |\n\n3. I’m always really tired when I get home at night.\n\n |\n\n4. It’s hard work and pretty tiring, too.\n\n |\n\n5. The tips are great.\n\n |\n\n6. It takes me an hour to drive there every day.\n\n |\n\n7. I am well paid.\n\n |\n\n8. I have to travel a lot.\n\n |\n\n9. The people I work with are so nice.\n\n |\n\n10. I do the same thing every day.\n\n |",
+      "contentText": "Speaker 1:",
+      "answerTemplateText": "What I like about my job: [input_0]\n\nWhat I don't like about my job: [input_1]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-31b5f3ef-7fff-83c1-5781-7e1612f39986\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-family: Nunito-ExtraBold;\">Exercise 1: L</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-family: Nunito-ExtraBold;\">isten and match the aspects that the speakers like and dislike about the jobs</span> <em>(Nghe và nối những điều mà người nói thích hay không thích về công việc của mình.) </em></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n<table style=\"border: none; width: 253px;\">\n<tbody>\n<tr style=\"height: 21pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. I get to meet so many people.</span></p>\n</td>\n</tr>\n<tr style=\"height: 21pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. I love working with kids.</span></p>\n</td>\n</tr>\n<tr style=\"height: 21pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. I’m always really tired when I get home at night.</span></p>\n</td>\n</tr>\n<tr style=\"height: 21pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. It’s hard work and pretty tiring, too. </span></p>\n</td>\n</tr>\n<tr style=\"height: 21pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. The tips are great.</span></p>\n</td>\n</tr>\n<tr style=\"height: 21pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. It takes me an hour to drive there every day. </span></p>\n</td>\n</tr>\n<tr style=\"height: 21pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. I am well paid.</span></p>\n</td>\n</tr>\n<tr style=\"height: 21pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. I have to travel a lot.</span></p>\n</td>\n</tr>\n<tr style=\"height: 29.7979pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9. The people I work with are so nice. </span></p>\n</td>\n</tr>\n<tr style=\"height: 21pt;\">\n<td style=\"vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; border: 1pt solid #000000;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">10. I do the same thing every day.</span></p>\n</td>\n</tr>\n</tbody>\n</table>",
+        "content": "<p><span id=\"docs-internal-guid-4af38d46-7fff-5a08-02c4-d55a27efd192\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"><span style=\"font-family: Nunito-BoldItalic; font-size: 12pt;\">Speaker 1:</span></div>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">What I like about my job: <span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_0]</span></span></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">What I don't like about my job: <span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_1]</span></span></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 2,
+        "totalCorrect": 0,
+        "userAnswer": {
+          "input_0": "7. I am well paid.",
+          "input_1": "10. I do the same thing every day."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "7",
+            "I am well paid."
+          ],
+          "input_1": [
+            "10",
+            "I do the same thing every day."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false,
+          "input_1": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301023",
+      "sourceQuestionId": 301023,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 1,
+      "prompt": "Speaker 2:",
+      "introductionText": "",
+      "contentText": "Speaker 2:",
+      "answerTemplateText": "What I like about my job: [input_0]\n\nWhat I don't like about my job: [input_1]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-4af38d46-7fff-5a08-02c4-d55a27efd192\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"><span style=\"font-family: Nunito-BoldItalic; font-size: 12pt;\">Speaker 2:</span></div>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">What I like about my job: <span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_0]</span></span></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">What I don't like about my job: <span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_1]</span></span></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 2,
+        "totalCorrect": 0,
+        "userAnswer": {
+          "input_0": "2. I love working with kids.",
+          "input_1": "6. It takes me an hour to drive there every day."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "2",
+            "I love working with kids."
+          ],
+          "input_1": [
+            "6",
+            "It takes me an hour to drive there every day."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false,
+          "input_1": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301024",
+      "sourceQuestionId": 301024,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 1,
+      "prompt": "Speaker 3:",
+      "introductionText": "",
+      "contentText": "Speaker 3:",
+      "answerTemplateText": "What I like about my job: [input_0]\n\nWhat I don't like about my job: [input_1]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-4af38d46-7fff-5a08-02c4-d55a27efd192\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"><span style=\"font-family: Nunito-BoldItalic; font-size: 12pt;\">Speaker 3:</span></div>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">What I like about my job: <span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_0]</span></span></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">What I don't like about my job: <span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_1]</span></span></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 2,
+        "totalCorrect": 0,
+        "userAnswer": {
+          "input_0": "9. The people I work with are so nice.",
+          "input_1": "8. I have to travel a lot."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "9",
+            "The people I work with are so nice."
+          ],
+          "input_1": [
+            "8",
+            "I have to travel a lot."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false,
+          "input_1": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301025",
+      "sourceQuestionId": 301025,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 1,
+      "prompt": "Speaker 4:",
+      "introductionText": "",
+      "contentText": "Speaker 4:",
+      "answerTemplateText": "What I like about my job: [input_0]\n\nWhat I don't like about my job: [input_1]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-4af38d46-7fff-5a08-02c4-d55a27efd192\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"><span style=\"font-family: Nunito-BoldItalic; font-size: 12pt;\">Speaker 4:</span></div>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">What I like about my job: <span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_0]</span></span></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">What I don't like about my job: <span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_1]</span></span></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 2,
+        "totalCorrect": 0,
+        "userAnswer": {
+          "input_0": "1. I get to meet so many people.",
+          "input_1": "3. I'm always really"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "1",
+            "I get to meet so many people."
+          ],
+          "input_1": [
+            "3",
+            "I'm always really tired when I get home at night."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false,
+          "input_1": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301026",
+      "sourceQuestionId": 301026,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 1,
+      "prompt": "Speaker 5:",
+      "introductionText": "",
+      "contentText": "Speaker 5:",
+      "answerTemplateText": "What I like about my job: [input_0]\n\nWhat I don't like about my job: [input_1]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-4af38d46-7fff-5a08-02c4-d55a27efd192\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"><span style=\"font-family: Nunito-BoldItalic; font-size: 12pt;\">Speaker 5:</span></div>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">What I like about my job: <span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_0]</span></span></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">What I don't like about my job: <span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_1]</span></span></span></p>\n<p> </p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 2,
+        "totalCorrect": 0,
+        "userAnswer": {
+          "input_0": "5. The tips are great.",
+          "input_1": "4. It's hard work and pretty tiring."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "5",
+            "The tips are great."
+          ],
+          "input_1": [
+            "4",
+            "It's hard work and pretty tiring, too."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false,
+          "input_1": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301027",
+      "sourceQuestionId": 301027,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 5,
+      "prompt": "Exercise 2: Listen and choose the correct description of the kid. You can choose more than one answer (Nghe và chọn miêu tả đúng về đứa bé đang cần tìm. Em có thể chọn nhiều hơn một đáp án.)",
+      "introductionText": "Exercise 2: Listen and choose the correct description of the kid. You can choose more than one answer (Nghe và chọn miêu tả đúng về đứa bé đang cần tìm. Em có thể chọn nhiều hơn một đáp án.)",
+      "contentText": "Conversation 1:",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-40d3b9a8-7fff-3ea4-1393-fe38d752e68f\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-family: Nunito-ExtraBold;\"><strong><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 2:</span></strong></span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-ExtraBold;\"><strong> Listen and choose the correct description of the kid. You can choose more than one answer</strong></span> (<em>Nghe v&agrave; chọn mi&ecirc;u tả đ&uacute;ng về đứa b&eacute; đang cần t&igrave;m. Em c&oacute; thể chọn nhiều hơn một đ&aacute;p &aacute;n.) </em></span></span></p>",
+        "content": "<p><span style=\"font-family: Nunito-BoldItalic; font-size: 12pt;\">Conversation 1:</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": [
+          621518
+        ],
+        "correctAnswer": [
+          621518
+        ],
+        "resultAnswer": {
+          "621518": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301028",
+      "sourceQuestionId": 301028,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 5,
+      "prompt": "Conversation 2:",
+      "introductionText": "",
+      "contentText": "Conversation 2:",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-BoldItalic; font-size: 12pt;\">Conversation 2:</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": [
+          621520
+        ],
+        "correctAnswer": [
+          621520
+        ],
+        "resultAnswer": {
+          "621520": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301029",
+      "sourceQuestionId": 301029,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 5,
+      "prompt": "Conversation 3:",
+      "introductionText": "",
+      "contentText": "Conversation 3:",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-BoldItalic; font-size: 12pt;\">Conversation 3:</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 2,
+        "totalCorrect": 2,
+        "userAnswer": [
+          621523,
+          621525
+        ],
+        "correctAnswer": [
+          621523,
+          621525
+        ],
+        "resultAnswer": {
+          "621523": true,
+          "621525": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301030",
+      "sourceQuestionId": 301030,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 5,
+      "prompt": "Conversation 4:",
+      "introductionText": "",
+      "contentText": "Conversation 4:",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-BoldItalic;\">Conversation 4:&nbsp;</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": [
+          621528
+        ],
+        "correctAnswer": [
+          621528
+        ],
+        "resultAnswer": {
+          "621528": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301031",
+      "sourceQuestionId": 301031,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 5,
+      "prompt": "Conversation 5:",
+      "introductionText": "Conversation 5:",
+      "contentText": "",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-BoldItalic;\">Conversation 5:</span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 2,
+        "totalCorrect": 2,
+        "userAnswer": [
+          621530,
+          621531
+        ],
+        "correctAnswer": [
+          621530,
+          621531
+        ],
+        "resultAnswer": {
+          "621530": true,
+          "621531": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301032",
+      "sourceQuestionId": 301032,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 3: Listen to the audio and rearrange the words into correct sentences (Nghe ghi âm và sắp xếp lại các từ vào thành câu đúng)",
+      "introductionText": "Exercise 3: Listen to the audio and rearrange the words into correct sentences (Nghe ghi âm và sắp xếp lại các từ vào thành câu đúng)",
+      "contentText": "1.  tall / , / not / about / average / he's / very / .",
+      "answerTemplateText": "[input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-family: Nunito-ExtraBold;\">Exercise 3: Listen to the audio and rearrange the words into correct sentences</span> <em>(Nghe ghi &acirc;m v&agrave; sắp xếp lại c&aacute;c từ v&agrave;o th&agrave;nh c&acirc;u đ&uacute;ng) </em></span></p>",
+        "content": "<p><span style=\"color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\">1.&nbsp;</span><span style=\"box-sizing: border-box; color: #242938; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve; background-color: #ffffff;\"> tall / , / not / about / average / he&rsquo;s / very / .</span></p>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; color: #000000; font-size: 12pt;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 0,
+        "userAnswer": {
+          "input_0": "He's not very tall."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "He's not very tall, about average."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301033",
+      "sourceQuestionId": 301033,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 1,
+      "prompt": "2. centimeters / tall / about / , / She's / pretty / 170 / .",
+      "introductionText": "",
+      "contentText": "2. centimeters / tall / about / , / She's / pretty / 170 / .",
+      "answerTemplateText": "[input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"box-sizing: border-box; color: #242938; font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\">2.&nbsp;<span style=\"box-sizing: border-box; white-space-collapse: preserve;\">centimeters / tall / about </span></span><span style=\"box-sizing: border-box; color: #242938; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve; background-color: #ffffff;\">/ , / </span><span style=\"box-sizing: border-box; color: #242938; font-family: Nunito-Regular; font-size: 12pt; white-space-collapse: preserve; background-color: #ffffff;\">She&rsquo;s / pretty / 170 / . </span></p>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 0,
+        "userAnswer": {
+          "input_0": "She's about 170 centimeters tall."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "She's pretty tall, about 170 centimeters."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301034",
+      "sourceQuestionId": 301034,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 1,
+      "prompt": "3. She's / curly / glasses / and / got / short/ hair / .",
+      "introductionText": "",
+      "contentText": "3. She's / curly / glasses / and / got / short/ hair / .",
+      "answerTemplateText": "[input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #242938; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve; background-color: #ffffff;\">3. She&rsquo;s / curly / glasses / and / got / short/ hair / .</span></p>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_0]</span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 0,
+        "userAnswer": {
+          "input_0": "She's got short curly hair and glasses."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "She's got glasses and short curly hair."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301035",
+      "sourceQuestionId": 301035,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 1,
+      "prompt": "4. dark/ got/ she's/ hair/ brown.",
+      "introductionText": "",
+      "contentText": "4. dark/ got/ she's/ hair/ brown.",
+      "answerTemplateText": "[input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">4.&nbsp;<span style=\"white-space-collapse: preserve;\">dark/ got/ she&rsquo;s/ hair/ brown. </span></span></p>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": {
+          "input_0": "She's got dark brown hair."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "She's got dark brown hair."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301036",
+      "sourceQuestionId": 301036,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 1,
+      "prompt": "5. meet/ like/ to/ I'd/ her.",
+      "introductionText": "",
+      "contentText": "5. meet/ like/ to/ I'd/ her.",
+      "answerTemplateText": "[input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\">5.&nbsp;<span style=\"white-space-collapse: preserve;\">meet/ like/ to/ I&rsquo;d/ her.</span></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; white-space-collapse: preserve; color: #000000;\">&nbsp;</span></p>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": {
+          "input_0": "I'd like to meet her."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "I'd like to meet her."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301037",
+      "sourceQuestionId": 301037,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 5,
+      "prompt": "Exercise 4: Listen to the audio and choose the items that the person is wearing, you can choose more than 1 item. (Nghe và chọn những đồ mà người đó đang mặc. Bạn có thể chọn nhiều hơn một món đồ)",
+      "introductionText": "Exercise 4: Listen to the audio and choose the items that the person is wearing, you can choose more than 1 item. (Nghe và chọn những đồ mà người đó đang mặc. Bạn có thể chọn nhiều hơn một món đồ)",
+      "contentText": "1.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-f3577689-7fff-2d88-a0a8-9c1978e8fe1c\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-ExtraBold;\">Exercise 4: Listen to the audio and choose the items that the person is wearing, you can choose more than 1 item.</span> <em>(Nghe v&agrave; chọn những đồ m&agrave; người đ&oacute; đang mặc. Bạn c&oacute; thể chọn nhiều hơn một m&oacute;n đồ)</em></span></span></p>",
+        "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">1.&nbsp;</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 3,
+        "totalCorrect": 3,
+        "userAnswer": [
+          621532,
+          621534,
+          621535
+        ],
+        "correctAnswer": [
+          621532,
+          621534,
+          621535
+        ],
+        "resultAnswer": {
+          "621532": true,
+          "621534": true,
+          "621535": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301038",
+      "sourceQuestionId": 301038,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 5,
+      "prompt": "2.",
+      "introductionText": "",
+      "contentText": "2.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">2.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": [
+          621536
+        ],
+        "correctAnswer": [
+          621536
+        ],
+        "resultAnswer": {
+          "621536": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301039",
+      "sourceQuestionId": 301039,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 5,
+      "prompt": "3.",
+      "introductionText": "",
+      "contentText": "3.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">3.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": [
+          621542
+        ],
+        "correctAnswer": [
+          621542
+        ],
+        "resultAnswer": {
+          "621542": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301040",
+      "sourceQuestionId": 301040,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 5,
+      "prompt": "4.",
+      "introductionText": "",
+      "contentText": "4.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p>4.</p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 2,
+        "totalCorrect": 1,
+        "userAnswer": [
+          621545
+        ],
+        "correctAnswer": [
+          621545,
+          621547
+        ],
+        "resultAnswer": {
+          "621545": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301041",
+      "sourceQuestionId": 301041,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 4,
+      "prompt": "Exercise 5: Listen to the audio and choose the correct (Nghe và chọn đáp án đúng)\n\n(Speaker 1) Wen Ping",
+      "introductionText": "Exercise 5: Listen to the audio and choose the correct (Nghe và chọn đáp án đúng)\n\n(Speaker 1) Wen Ping",
+      "contentText": "1. Who is the tallest in her family?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-b548eb96-7fff-be21-6e5c-3e8ab2d746a7\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; font-family: Nunito-ExtraBold;\">Exercise 5:</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-ExtraBold;\"> Listen to the audio and choose the correct</span> <em>(Nghe v&agrave; chọn đ&aacute;p &aacute;n đ&uacute;ng)</em></span></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: Nunito-SemiBold;\">(Speaker 1) Wen Ping</span><span style=\"font-family: Nunito-SemiBold;\">&nbsp;</span></p>",
+        "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">1. </span><span style=\"white-space-collapse: preserve;\">Who is the tallest in her family? </span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621549,
+        "correctAnswer": 621549,
+        "resultAnswer": {
+          "621549": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301042",
+      "sourceQuestionId": 301042,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 4,
+      "prompt": "(Speaker 2) Michael",
+      "introductionText": "(Speaker 2) Michael",
+      "contentText": "2. Who is interested in music?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-SemiBold;\">(Speaker 2) Michael</span></p>",
+        "content": "<p><span id=\"docs-internal-guid-287ea678-7fff-5373-ac6e-0844e1b117ea\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">2. Who is interested in music? </span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621553,
+        "correctAnswer": 621553,
+        "resultAnswer": {
+          "621553": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301043",
+      "sourceQuestionId": 301043,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 4,
+      "prompt": "(Speaker 3) Justin",
+      "introductionText": "(Speaker 3) Justin",
+      "contentText": "3. Who likes to go away for the weekend?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-SemiBold;\">(Speaker 3) Justin</span></p>",
+        "content": "<p><span id=\"docs-internal-guid-93012ed2-7fff-850c-4e1f-5dbfe9ed5a36\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">3. Who likes to go away for the weekend? </span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621554,
+        "correctAnswer": 621554,
+        "resultAnswer": {
+          "621554": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301044",
+      "sourceQuestionId": 301044,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 4,
+      "prompt": "(Speaker 4) Susan",
+      "introductionText": "(Speaker 4) Susan",
+      "contentText": "4. Who in her family is really into sports and swimming?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-SemiBold;\">(Speaker 4) Susan</span></p>",
+        "content": "<p><span id=\"docs-internal-guid-ba1e4f67-7fff-0e66-a868-6b9e87788c09\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">4. Who in her family is really into sports and swimming? </span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621559,
+        "correctAnswer": 621559,
+        "resultAnswer": {
+          "621559": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301045",
+      "sourceQuestionId": 301045,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 4,
+      "prompt": "(Speaker 5) Robert",
+      "introductionText": "(Speaker 5) Robert",
+      "contentText": "5. Who hates computers?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-SemiBold;\">(Speaker 5) Robert</span></p>",
+        "content": "<p><span id=\"docs-internal-guid-c6cf695f-7fff-8f16-0b35-94b5b344b120\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">5. Who hates computers? </span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621560,
+        "correctAnswer": 621560,
+        "resultAnswer": {
+          "621560": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301046",
+      "sourceQuestionId": 301046,
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "title": null,
+      "type": 4,
+      "prompt": "(Speaker 6) Beth",
+      "introductionText": "(Speaker 6) Beth",
+      "contentText": "6. Who goes to a different place every year?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-SemiBold;\">(Speaker 6) Beth</span></p>",
+        "content": "<p><span id=\"docs-internal-guid-72980a36-7fff-424e-b083-9b44d73eecf0\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">6. Who goes to a different place every year?</span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621563,
+        "correctAnswer": 621563,
+        "resultAnswer": {
+          "621563": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-276955",
+      "sourceQuestionId": 276955,
+      "challengeId": 29473,
+      "classChallengeId": "80745",
+      "title": "SHADOWING",
+      "type": 2,
+      "prompt": "SHADOWING",
+      "introductionText": "Record and submit your link here:",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "SHADOWING",
+        "introduction": "<p><span id=\"docs-internal-guid-39fbe986-7fff-84a1-10ad-52aee9c4f3c3\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-ExtraBold;\"><span style=\"white-space-collapse: preserve;\"><strong>Record and submit your link here:</strong></span></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "https://drive.google.com/file/d/1CzJQW-Sgca8rhMzxbpWtEr0ufdl3bzvE/view?usp=sharing",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301047",
+      "sourceQuestionId": 301047,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": "LISTENING",
+      "type": 3,
+      "prompt": "LISTENING",
+      "introductionText": "Exercise 1\n\nListen to the audio and match the comments with the correct person, each person has 2 comments about them (Nghe ghi âm và nối các nhận xét với người phù hợp, mỗi người sẽ có 2 nhận xét về họ)\n\nComments:",
+      "contentText": "a.He speaks six languages.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "LISTENING",
+        "introduction": "<p><strong><span style=\"font-family: Nunito-Regular;\">Exercise 1</span></strong></p>\n<p><span style=\"font-family: Nunito-Regular;\"><span id=\"docs-internal-guid-21a2ac5f-7fff-dba1-b482-e70f55ff07e5\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Listen to the audio and match the comments with the correct person, each person has 2 comments about them </strong><em>(N</em></span></span><em><span style=\"font-size: 12pt; white-space-collapse: preserve;\">ghe ghi &acirc;m v&agrave; nối c&aacute;c nhận x&eacute;t với người ph&ugrave; hợp, mỗi người sẽ c&oacute; 2 nhận x&eacute;t về họ)</span></em></span></p>\n<p><span style=\"font-family: Nunito-Regular;\"><strong style=\"color: #34495e; font-family: 'Nunito Regular';\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Comments: </span></strong></span></p>",
+        "content": "<p><span id=\"docs-internal-guid-248f813c-7fff-abd1-bdb0-1f123be9a1f3\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a.He speaks six languages.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621569,
+        "correctAnswer": 621569,
+        "resultAnswer": {
+          "621569": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301048",
+      "sourceQuestionId": 301048,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 3,
+      "prompt": "b. She loves giving things to people.",
+      "introductionText": "",
+      "contentText": "b. She loves giving things to people.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">b. She loves giving things to people.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621577,
+        "correctAnswer": 621577,
+        "resultAnswer": {
+          "621577": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301049",
+      "sourceQuestionId": 301049,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 3,
+      "prompt": "c. He's always doing crazy things.",
+      "introductionText": "",
+      "contentText": "c. He's always doing crazy things.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">c. He&rsquo;s always doing crazy things.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621580,
+        "correctAnswer": 621580,
+        "resultAnswer": {
+          "621580": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301050",
+      "sourceQuestionId": 301050,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 3,
+      "prompt": "d. He makes me laugh.",
+      "introductionText": "",
+      "contentText": "d. He makes me laugh.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">d. He makes me laugh.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621586,
+        "correctAnswer": 621586,
+        "resultAnswer": {
+          "621586": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301051",
+      "sourceQuestionId": 301051,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 3,
+      "prompt": "e. He loves going out and meeting people.",
+      "introductionText": "",
+      "contentText": "e. He loves going out and meeting people.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">e. He loves going out and meeting people.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621594,
+        "correctAnswer": 621594,
+        "resultAnswer": {
+          "621594": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301052",
+      "sourceQuestionId": 301052,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 3,
+      "prompt": "f. She doesn't expect anything in return.",
+      "introductionText": "",
+      "contentText": "f. She doesn't expect anything in return.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">f. She doesn&rsquo;t expect anything in return.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621601,
+        "correctAnswer": 621601,
+        "resultAnswer": {
+          "621601": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301053",
+      "sourceQuestionId": 301053,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 3,
+      "prompt": "g. She's great to be with.",
+      "introductionText": "",
+      "contentText": "g. She's great to be with.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">g. She&rsquo;s great to be with.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621602,
+        "correctAnswer": 621602,
+        "resultAnswer": {
+          "621602": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301054",
+      "sourceQuestionId": 301054,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 3,
+      "prompt": "h. He goes to parties all the time.",
+      "introductionText": "",
+      "contentText": "h. He goes to parties all the time.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">h. He goes to parties all the time.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621612,
+        "correctAnswer": 621612,
+        "resultAnswer": {
+          "621612": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301055",
+      "sourceQuestionId": 301055,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 3,
+      "prompt": "i. She tells her whole life story to everyone she meets.",
+      "introductionText": "",
+      "contentText": "i. She tells her whole life story to everyone she meets.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">i. She tells her whole life story to everyone she meets.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621615,
+        "correctAnswer": 621615,
+        "resultAnswer": {
+          "621615": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301056",
+      "sourceQuestionId": 301056,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 3,
+      "prompt": "j. She makes me laugh all the time.",
+      "introductionText": "",
+      "contentText": "j. She makes me laugh all the time.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">j. She makes me laugh all the time.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621620,
+        "correctAnswer": 621620,
+        "resultAnswer": {
+          "621620": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301057",
+      "sourceQuestionId": 301057,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 3,
+      "prompt": "k.  He's really friendly and easy to talk to.",
+      "introductionText": "",
+      "contentText": "k.  He's really friendly and easy to talk to.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">k.&nbsp; He&rsquo;s really friendly and easy to talk to.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621629,
+        "correctAnswer": 621629,
+        "resultAnswer": {
+          "621629": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301058",
+      "sourceQuestionId": 301058,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 3,
+      "prompt": "l. She's nice",
+      "introductionText": "",
+      "contentText": "l. She's nice",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">l. She&rsquo;s nice&nbsp;</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621633,
+        "correctAnswer": 621633,
+        "resultAnswer": {
+          "621633": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301059",
+      "sourceQuestionId": 301059,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2. Listen to the audio and fill in the blanks (Nghe audio và điền vào ô trống)",
+      "introductionText": "Exercise 2. Listen to the audio and fill in the blanks (Nghe audio và điền vào ô trống)",
+      "contentText": "",
+      "answerTemplateText": "Speaker 1:\n\nMr. Grant loves telling [input_0]. And he's so easy-going.\n\nMrs. Grant never seems to [input_1].\n\nSpeaker 2: \n\nThey aren't [input_2] about studying, that's for sure.\n\nAll they [input_3] to do is sit at home and play computer games.\n\nSpeaker 3: \n\nWell, they seem [input_4].\n\nHe's kind of shy and not very [input_5].\n\nSpeaker 4: \n\nThey're so [input_6].\n\nThey both love partying and they're both a little [input_7] at times.\n\nSpeaker 5: \n\nWell, Mr. Williams is very [input_8], and he's really smart, too.\n\nShe's not as easy to get to know.\n\nSpeaker 6: \n\nShe's just like my brother—serious and hard-working.\n\nThey sound like the [input_9] couple.",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p>&nbsp;</p>\n<p><span id=\"docs-internal-guid-01b64f62-7fff-2fc0-1dcf-41c68fe545af\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-ExtraBold;\">Exercise 2. Listen to the audio and fill in the blanks</span> <em>(Nghe audio v&agrave; điền v&agrave;o &ocirc; trống) </em></span></span></p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-SemiBold; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Speaker 1: </span></p>\n<ol style=\"margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;\">\n<li dir=\"ltr\" style=\"list-style-type: lower-alpha; font-size: 12pt; font-family: Lexend,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; margin-left: 36pt;\" aria-level=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mr. Grant loves telling [input_0]. And he's so easy-going.</span></p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: lower-alpha; font-size: 12pt; font-family: Lexend,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; margin-left: 36pt;\" aria-level=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mrs. Grant never seems to [input_1].</span></p>\n</li>\n</ol>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-SemiBold; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Speaker 2: </span></p>\n<ol style=\"margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;\" start=\"3\">\n<li dir=\"ltr\" style=\"list-style-type: lower-alpha; font-size: 12pt; font-family: Lexend,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; margin-left: 36pt;\" aria-level=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">They aren't [input_2] about studying, that's for sure. </span></p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: lower-alpha; font-size: 12pt; font-family: Lexend,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; margin-left: 36pt;\" aria-level=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">All they [input_3] to do is sit at home and play computer games. </span></p>\n</li>\n</ol>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-SemiBold; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Speaker 3: </span></p>\n<ol style=\"margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;\" start=\"5\">\n<li dir=\"ltr\" style=\"list-style-type: lower-alpha; font-size: 12pt; font-family: Lexend,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; margin-left: 36pt;\" aria-level=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Well, they seem [input_4].</span></p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: lower-alpha; font-size: 12pt; font-family: Lexend,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; margin-left: 36pt;\" aria-level=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">He's kind of shy and not very [input_5].</span></p>\n</li>\n</ol>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-SemiBold; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Speaker 4: </span></p>\n<ol style=\"margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;\" start=\"7\">\n<li dir=\"ltr\" style=\"list-style-type: lower-alpha; font-size: 12pt; font-family: Lexend,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; margin-left: 36pt;\" aria-level=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">They're so [input_6].</span></p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: lower-alpha; font-size: 12pt; font-family: Lexend,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; margin-left: 36pt;\" aria-level=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">They both love partying and they're both a little [input_7] at times.</span></p>\n</li>\n</ol>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-SemiBold; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Speaker 5: </span></p>\n<ol style=\"margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;\" start=\"9\">\n<li dir=\"ltr\" style=\"list-style-type: lower-alpha; font-size: 12pt; font-family: Lexend,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; margin-left: 36pt;\" aria-level=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Well, Mr. Williams is very [input_8], and he's really smart, too.</span></p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: lower-alpha; font-size: 12pt; font-family: Lexend,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; margin-left: 36pt;\" aria-level=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">She's not as easy to get to know.</span></p>\n</li>\n</ol>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-SemiBold; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Speaker 6: </span></p>\n<ol style=\"margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;\" start=\"11\">\n<li dir=\"ltr\" style=\"list-style-type: lower-alpha; font-size: 12pt; font-family: Lexend, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; margin-left: 36pt; line-height: 1.5;\" aria-level=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">She's just like my brother—serious and hard-working.</span></p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: lower-alpha; font-size: 12pt; font-family: Lexend,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; margin-left: 36pt;\" aria-level=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">They sound like the [input_9] couple.</span></p>\n</li>\n</ol>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 10,
+        "totalCorrect": 10,
+        "userAnswer": {
+          "input_0": "jokes",
+          "input_1": "smile",
+          "input_2": "serious",
+          "input_3": "like",
+          "input_4": "nice",
+          "input_5": "talkative",
+          "input_6": "sociable",
+          "input_7": "crazy",
+          "input_8": "easy-going",
+          "input_9": "perfect"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "jokes"
+          ],
+          "input_1": [
+            "smile"
+          ],
+          "input_2": [
+            "serious"
+          ],
+          "input_3": [
+            "like"
+          ],
+          "input_4": [
+            "nice"
+          ],
+          "input_5": [
+            "talkative"
+          ],
+          "input_6": [
+            "sociable"
+          ],
+          "input_7": [
+            "crazy"
+          ],
+          "input_8": [
+            "easy-going"
+          ],
+          "input_9": [
+            "perfect"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": true,
+          "input_9": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301060",
+      "sourceQuestionId": 301060,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 5,
+      "prompt": "Exercise 3. Listen to the audio and choose what the speaker wants to buy, you can choose more than one option (Nghe ghi âm và chọn thứ mà người nói muốn mua, em có thể chọn nhiều hơn 1 đáp án)",
+      "introductionText": "Exercise 3. Listen to the audio and choose what the speaker wants to buy, you can choose more than one option (Nghe ghi âm và chọn thứ mà người nói muốn mua, em có thể chọn nhiều hơn 1 đáp án)",
+      "contentText": "Speaker 1",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-family: Nunito-ExtraBold;\">Exercise 3.</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-family: Nunito-ExtraBold;\"> Listen to the audio and choose what the speaker wants to buy, you can choose more than one option</span> <em>(Nghe ghi &acirc;m v&agrave; chọn thứ m&agrave; người n&oacute;i muốn mua, em c&oacute; thể chọn nhiều hơn 1 đ&aacute;p &aacute;n) </em></span></p>",
+        "content": "<p><span id=\"docs-internal-guid-7c18e4b0-7fff-628b-c59f-986f7ef92d33\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-ExtraBold;\"><span style=\"white-space-collapse: preserve;\">Speaker 1</span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 2,
+        "totalCorrect": 2,
+        "userAnswer": [
+          621639,
+          621640
+        ],
+        "correctAnswer": [
+          621639,
+          621640
+        ],
+        "resultAnswer": {
+          "621639": true,
+          "621640": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301061",
+      "sourceQuestionId": 301061,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 5,
+      "prompt": "Speaker 2",
+      "introductionText": "",
+      "contentText": "Speaker 2",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-ExtraBold; white-space-collapse: preserve;\">Speaker 2</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 2,
+        "totalCorrect": 2,
+        "userAnswer": [
+          621642,
+          621645
+        ],
+        "correctAnswer": [
+          621642,
+          621645
+        ],
+        "resultAnswer": {
+          "621642": true,
+          "621645": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301062",
+      "sourceQuestionId": 301062,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 5,
+      "prompt": "Speaker 3",
+      "introductionText": "",
+      "contentText": "Speaker 3",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-ExtraBold; white-space-collapse: preserve;\">Speaker 3</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": [
+          621649
+        ],
+        "correctAnswer": [
+          621649
+        ],
+        "resultAnswer": {
+          "621649": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301063",
+      "sourceQuestionId": 301063,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 5,
+      "prompt": "Speaker 4",
+      "introductionText": "",
+      "contentText": "Speaker 4",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-ExtraBold; white-space-collapse: preserve;\">Speaker 4</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": [
+          621651
+        ],
+        "correctAnswer": [
+          621651
+        ],
+        "resultAnswer": {
+          "621651": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301064",
+      "sourceQuestionId": 301064,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 4,
+      "prompt": "Exercise 4. Listen to the audio and choose the correct location the speaker is looking for (Nghe ghi âm và chọn địa điểm mà người nói đang tìm)",
+      "introductionText": "Exercise 4. Listen to the audio and choose the correct location the speaker is looking for (Nghe ghi âm và chọn địa điểm mà người nói đang tìm)",
+      "contentText": "Speaker 1",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-f8e8a4d3-7fff-42c1-8ef5-e5d213433478\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; font-family: Nunito-ExtraBold;\">Exercise 4. L</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-ExtraBold;\">isten to the audio and choose the correct location the speaker is looking for</span> (Nghe ghi &acirc;m v&agrave; chọn địa điểm m&agrave; người n&oacute;i đang t&igrave;m) </span></span></p>",
+        "content": "<p><span style=\"font-family: Nunito-ExtraBold; font-size: 12pt;\">Speaker 1</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621655,
+        "correctAnswer": 621655,
+        "resultAnswer": {
+          "621655": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301065",
+      "sourceQuestionId": 301065,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 4,
+      "prompt": "Speaker 2",
+      "introductionText": "",
+      "contentText": "Speaker 2",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-ExtraBold; font-size: 16px;\">Speaker 2</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621657,
+        "correctAnswer": 621657,
+        "resultAnswer": {
+          "621657": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301066",
+      "sourceQuestionId": 301066,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 4,
+      "prompt": "Speaker 3",
+      "introductionText": "",
+      "contentText": "Speaker 3",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-ExtraBold;\">Speaker 3</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621662,
+        "correctAnswer": 621662,
+        "resultAnswer": {
+          "621662": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301067",
+      "sourceQuestionId": 301067,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 4,
+      "prompt": "Speaker 4",
+      "introductionText": "Speaker 4",
+      "contentText": "",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-ExtraBold;\">Speaker 4</span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621664,
+        "correctAnswer": 621664,
+        "resultAnswer": {
+          "621664": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301068",
+      "sourceQuestionId": 301068,
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 5. Listen to the audio and fill in the blanks with no more than 3 words (Nghe ghi âm và điền vào ô trống, không quá 3 từ)",
+      "introductionText": "Exercise 5. Listen to the audio and fill in the blanks with no more than 3 words (Nghe ghi âm và điền vào ô trống, không quá 3 từ)",
+      "contentText": "",
+      "answerTemplateText": "Speaker 1:\n\n[input_0] that for two blocks and you'll see a small street [input_1].\n\n [input_2] the street and my place is the fourth house on the [input_3]\n\nSpeaker 2: \n\nMy place is fairly [input_4].\n\n[input_5] the bus across from the supermarket.\n\n[input_6] the street, and on the [input_7] you'll see an apartment building.\n\nSpeaker 3: \n\n[input_8] the intersection and take the [input_9] on the left.\n\nMy house is right [input_10] it.\n\nSpeaker 4: \n\n[input_11] the bus across from the school and walk [input_12] for about four blocks.\n\nMy building is [input_13] the church.",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-fe7eaed3-7fff-5d1b-5e44-4070282d6442\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-family: Nunito-ExtraBold;\">Exercise 5.</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-family: Nunito-ExtraBold;\"> Listen to the audio and fill in the blanks with no more than 3 words</span> <em>(Nghe ghi &acirc;m v&agrave; điền v&agrave;o &ocirc; trống, kh&ocirc;ng qu&aacute; 3 từ) </em></span></span></p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-SemiBold; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Speaker 1: </span></p>\n<ol style=\"margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;\">\n<li dir=\"ltr\" style=\"list-style-type: decimal; font-size: 12pt; font-family: Lexend,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;\" aria-level=\"1\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_0] that for two blocks and you'll see a small street [input_1]. </span></p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: decimal; font-size: 12pt; font-family: Lexend,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;\" aria-level=\"1\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> [input_2] the street and my place is the fourth house on the [input_3]</span></p>\n</li>\n</ol>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-SemiBold; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Speaker 2: </span></p>\n<ol style=\"margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;\" start=\"3\">\n<li dir=\"ltr\" style=\"list-style-type: decimal; font-size: 12pt; font-family: Lexend,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;\" aria-level=\"1\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">My place is fairly [input_4].</span></p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: decimal; font-size: 12pt; font-family: Lexend,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;\" aria-level=\"1\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_5] the bus across from the supermarket. </span></p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: decimal; font-size: 12pt; font-family: Lexend,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;\" aria-level=\"1\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_6] the street, and on the [input_7] you'll see an apartment building.</span></p>\n</li>\n</ol>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-SemiBold; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Speaker 3: </span></p>\n<ol style=\"margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;\" start=\"6\">\n<li dir=\"ltr\" style=\"list-style-type: decimal; font-size: 12pt; font-family: Lexend,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;\" aria-level=\"1\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_8] the intersection and take the [input_9] on the left.</span></p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: decimal; font-size: 12pt; font-family: Lexend,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;\" aria-level=\"1\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">My house is right [input_10] it.</span></p>\n</li>\n</ol>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-SemiBold; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Speaker 4: </span></p>\n<p style=\"line-height: 1.5;\"><span id=\"docs-internal-guid-4deb6cfe-7fff-e237-94fc-92d89533a52e\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"></span></p>\n<ol style=\"margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;\" start=\"8\">\n<li dir=\"ltr\" style=\"list-style-type: decimal; font-size: 12pt; font-family: Lexend, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; line-height: 1.5;\" aria-level=\"1\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_11] the bus across from the school and walk [input_12] for about four blocks.</span></p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: decimal; font-size: 12pt; font-family: Lexend,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;\" aria-level=\"1\">\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">My building is [input_13] the church. </span></p>\n</li>\n</ol>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 14,
+        "totalCorrect": 14,
+        "userAnswer": {
+          "input_0": "Walk past",
+          "input_1": "on the right",
+          "input_2": "Go down",
+          "input_3": "left",
+          "input_4": "easy to find",
+          "input_5": "Get off",
+          "input_6": "Go down",
+          "input_7": "corner",
+          "input_8": "Go through",
+          "input_9": "first street",
+          "input_10": "next to",
+          "input_11": "Get off",
+          "input_12": "north",
+          "input_13": "across from"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "Walk past"
+          ],
+          "input_1": [
+            "on the right"
+          ],
+          "input_2": [
+            "Go down"
+          ],
+          "input_3": [
+            "left"
+          ],
+          "input_4": [
+            "easy to find"
+          ],
+          "input_5": [
+            "Get off"
+          ],
+          "input_6": [
+            "Go down"
+          ],
+          "input_7": [
+            "corner"
+          ],
+          "input_8": [
+            "Go through"
+          ],
+          "input_9": [
+            "first street"
+          ],
+          "input_10": [
+            "next to"
+          ],
+          "input_11": [
+            "Get off"
+          ],
+          "input_12": [
+            "north"
+          ],
+          "input_13": [
+            "across from"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": true,
+          "input_9": true,
+          "input_10": true,
+          "input_11": true,
+          "input_12": true,
+          "input_13": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    }
+  ]
+}

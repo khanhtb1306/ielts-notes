@@ -1,0 +1,654 @@
+{
+  "lesson": 2,
+  "lessonKey": "lesson-02",
+  "questions": [
+    {
+      "id": "question-266036",
+      "sourceQuestionId": 266036,
+      "challengeId": 28459,
+      "classChallengeId": "79762",
+      "title": "I. Vocabulary",
+      "type": 3,
+      "prompt": "I. Vocabulary",
+      "introductionText": "Exercise 1. Choose the correct word. (Chọn từ thích hợp.)",
+      "contentText": "1. I studied too much and I got ___.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "I studied too much and I got [tired].\n\nGiải thích: Khi học quá nhiều, trạng thái mà bạn thường cảm thấy là mệt mỏi. \"Get tired\" có nghĩa là trở nên mệt mỏi.\n\nDịch nghĩa: Tôi học quá nhiều nên tôi bị mệt.",
+      "rawHtml": {
+        "title": "I. Vocabulary",
+        "introduction": "<p><span style=\"font-family: Nunito-ExtraBold; font-size: 12pt;\"><strong>Exercise 1. </strong></span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong>Choose the correct word. </strong><em>(Chọn từ th&iacute;ch hợp.)</em></span></p>",
+        "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">1. I studied too much and I got ___.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p><strong>I studied too much and I got [tired].</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi học quá nhiều, trạng thái mà bạn thường cảm thấy là mệt mỏi. <strong>\"Get tired\"</strong> có nghĩa là trở nên mệt mỏi.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi học quá nhiều nên tôi <strong>bị mệt</strong>.</em></p>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 540064,
+        "correctAnswer": 540064,
+        "resultAnswer": {
+          "540064": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-266037",
+      "sourceQuestionId": 266037,
+      "challengeId": 28459,
+      "classChallengeId": "79762",
+      "title": null,
+      "type": 3,
+      "prompt": "2.I stayed out in the rain for too long and I got __",
+      "introductionText": "",
+      "contentText": "2.I stayed out in the rain for too long and I got __",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "I stayed out in the rain for too long and I got [sick].\n\nGiải thích: Ở ngoài mưa quá lâu thường khiến bạn bị ốm. \"Get sick\" có nghĩa là bị ốm/trở nên ốm.\n\nDịch nghĩa: Tôi ở ngoài mưa quá lâu nên tôi bị ốm.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">2.I stayed out in the rain for too long and I got __</span></p>",
+        "answerTemplate": null,
+        "explain": "<p><strong>I stayed out in the rain for too long and I got [sick].</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Ở ngoài mưa quá lâu thường khiến bạn bị ốm. <strong>\"Get sick\"</strong> có nghĩa là bị ốm/trở nên ốm.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi ở ngoài mưa quá lâu nên tôi <strong>bị ốm</strong>.</em></p>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 540073,
+        "correctAnswer": 540073,
+        "resultAnswer": {
+          "540073": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-266038",
+      "sourceQuestionId": 266038,
+      "challengeId": 28459,
+      "classChallengeId": "79762",
+      "title": null,
+      "type": 3,
+      "prompt": "3. I sat in the sun too much and I got ___.",
+      "introductionText": "",
+      "contentText": "3. I sat in the sun too much and I got ___.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "I sat in the sun too much and I got [hot].\n\nGiải thích: Ngồi dưới nắng nhiều sẽ khiến cơ thể bạn nóng lên. \"Get hot\" có nghĩa là trở nên nóng.\n\nDịch nghĩa: Tôi ngồi dưới nắng quá nhiều nên tôi bị nóng.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">3. I sat in the sun too much and I got ___<em>.</em></span></p>",
+        "answerTemplate": null,
+        "explain": "<p><strong>I sat in the sun too much and I got [hot].</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Ngồi dưới nắng nhiều sẽ khiến cơ thể bạn nóng lên. <strong>\"Get hot\"</strong> có nghĩa là trở nên nóng.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi ngồi dưới nắng quá nhiều nên tôi <strong>bị nóng</strong>.</em></p>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 540079,
+        "correctAnswer": 540079,
+        "resultAnswer": {
+          "540079": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-266039",
+      "sourceQuestionId": 266039,
+      "challengeId": 28459,
+      "classChallengeId": "79762",
+      "title": null,
+      "type": 3,
+      "prompt": "4. In winter in the north, the sun sets early, and it gets ___ very quickly.",
+      "introductionText": "",
+      "contentText": "4. In winter in the north, the sun sets early, and it gets ___ very quickly.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "In winter in the north, the sun sets early, and it gets [dark] very quickly.\n\nGiải thích: Khi mặt trời lặn sớm, trời sẽ trở nên tối. \"Get dark\" có nghĩa là trời trở tối.\n\nDịch nghĩa: Vào mùa đông ở phía bắc, mặt trời lặn sớm và trời trở tối rất nhanh.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">4. In winter in the north, the sun sets early, and it gets ___ very quickly.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p><strong>In winter in the north, the sun sets early, and it gets [dark] very quickly.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi mặt trời lặn sớm, trời sẽ trở nên tối. <strong>\"Get dark\"</strong> có nghĩa là trời trở tối.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Vào mùa đông ở phía bắc, mặt trời lặn sớm và trời <strong>trở tối</strong> rất nhanh.</em></p>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 540090,
+        "correctAnswer": 540090,
+        "resultAnswer": {
+          "540090": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-266040",
+      "sourceQuestionId": 266040,
+      "challengeId": 28459,
+      "classChallengeId": "79762",
+      "title": null,
+      "type": 3,
+      "prompt": "5. John got very ___ in the rain.",
+      "introductionText": "",
+      "contentText": "5. John got very ___ in the rain.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "John got very [wet] in the rain.\n\nGiải thích: Khi ở trong mưa, bạn sẽ bị ướt. \"Get wet\" có nghĩa là bị ướt.\n\nDịch nghĩa: John bị ướt rất nhiều dưới trời mưa.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">5. John got very ___ in the rain.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p><strong>John got very [wet] in the rain.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi ở trong mưa, bạn sẽ bị ướt. <strong>\"Get wet\"</strong> có nghĩa là bị ướt.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> John <strong>bị ướt</strong> rất nhiều dưới trời mưa.</em></p>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 540099,
+        "correctAnswer": 540099,
+        "resultAnswer": {
+          "540099": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-266041",
+      "sourceQuestionId": 266041,
+      "challengeId": 28459,
+      "classChallengeId": "79762",
+      "title": null,
+      "type": 3,
+      "prompt": "6. I've taken some medicines, and I'm getting __________ now.",
+      "introductionText": "",
+      "contentText": "6. I've taken some medicines, and I'm getting __________ now.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "I’ve taken some medicines, and I’m getting [better] now.\n\nGiải thích: Sau khi uống thuốc, tình trạng sức khỏe của bạn sẽ cải thiện. \"Get better\" có nghĩa là trở nên tốt hơn/khỏi bệnh.\n\nDịch nghĩa: Tôi đã uống thuốc rồi, và bây giờ tôi đang dần khá hơn.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">6. I&rsquo;ve taken some medicines, and I&rsquo;m getting __________ now.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p><strong>I’ve taken some medicines, and I’m getting [better] now.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Sau khi uống thuốc, tình trạng sức khỏe của bạn sẽ cải thiện. <strong>\"Get better\"</strong> có nghĩa là trở nên tốt hơn/khỏi bệnh.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi đã uống thuốc rồi, và bây giờ tôi đang <strong>dần khá hơn</strong>.</em></p>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 540110,
+        "correctAnswer": 540110,
+        "resultAnswer": {
+          "540110": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-266042",
+      "sourceQuestionId": 266042,
+      "challengeId": 28459,
+      "classChallengeId": "79762",
+      "title": null,
+      "type": 3,
+      "prompt": "7. The weather is getting __________ because it's November already.",
+      "introductionText": "",
+      "contentText": "7. The weather is getting __________ because it's November already.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "The weather is getting [cold] because it's November already.\n\nGiải thích: Tháng Mười Một là mùa đông, thời tiết sẽ trở nên lạnh hơn. \"Get cold\" có nghĩa là trời trở lạnh.\n\nDịch nghĩa: Thời tiết đang trở lạnh vì đã là tháng Mười Một rồi.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">7. The weather is getting __________ because it's November already.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p><strong>The weather is getting [cold] because it's November already.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Tháng Mười Một là mùa đông, thời tiết sẽ trở nên lạnh hơn. <strong>\"Get cold\"</strong> có nghĩa là trời trở lạnh.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Thời tiết đang <strong>trở lạnh</strong> vì đã là tháng Mười Một rồi.</em></p>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 540117,
+        "correctAnswer": 540117,
+        "resultAnswer": {
+          "540117": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-266043",
+      "sourceQuestionId": 266043,
+      "challengeId": 28459,
+      "classChallengeId": "79762",
+      "title": null,
+      "type": 3,
+      "prompt": "8. The sun is coming up. It's getting __________.",
+      "introductionText": "",
+      "contentText": "8. The sun is coming up. It's getting __________.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "The sun is coming up. It's getting [light].\n\nGiải thích: Khi mặt trời mọc, trời sẽ trở nên sáng. \"Get light\" có nghĩa là trời trở sáng.\n\nDịch nghĩa: Mặt trời đang lên. Trời đang dần sáng.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">8. The sun is coming up. It's getting __________.&nbsp;</span></p>",
+        "answerTemplate": null,
+        "explain": "<p><strong>The sun is coming up. It's getting [light].</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi mặt trời mọc, trời sẽ trở nên sáng. <strong>\"Get light\"</strong> có nghĩa là trời trở sáng.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Mặt trời đang lên. Trời đang <strong>dần sáng</strong>.</em></p>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 540124,
+        "correctAnswer": 540124,
+        "resultAnswer": {
+          "540124": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-266044",
+      "sourceQuestionId": 266044,
+      "challengeId": 28459,
+      "classChallengeId": "79762",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2. Write ONE WORD from the Vocabulary section in each blank to make a meaningful sentence. (Viết MỘT TỪ từ phần Từ Vựng vào mỗi ô trống để tạo 1 câu có ý nghĩa.)",
+      "introductionText": "Exercise 2. Write ONE WORD from the Vocabulary section in each blank to make a meaningful sentence. (Viết MỘT TỪ từ phần Từ Vựng vào mỗi ô trống để tạo 1 câu có ý nghĩa.)",
+      "contentText": "",
+      "answerTemplateText": "1. I really want to get a good [input_0] to earn a lot of money (kiếm nhiều tiền).\n\n2. When you [input_1] back home, use the key card to open the door.\n\n3. I went to the bookshop and got a [input_2] to read.\n\n4. I didn't know how to get there (đi đến đó), so I got a [input_3].\n\n5. My mother always gets some [input_4] in the morning to keep her awake (tỉnh táo).\n\n6. I had got to the [input_5] before that flight took off (cất cánh).\n\n7. They got [input_6] 5 years ago and now they have 2 children.\n\n8. He's going to get a [input_7] because he doesn't feel well.",
+      "explanationText": "I really want to get a good [job] to earn a lot of money.\n\nGiải thích: Để kiếm nhiều tiền (earn a lot of money), bạn cần có một công việc (job) tốt. Cụm từ là get a job (có được một công việc).\n\nDịch nghĩa: Tôi thực sự muốn có một công việc tốt để kiếm nhiều tiền.\n\nWhen you [get] back home, use the key card to open the door.\n\nGiải thích: Khi trở về nhà (back home), bạn dùng thẻ khóa để mở cửa. Cụm từ là get back (trở về).\n\nDịch nghĩa: Khi bạn trở về nhà, hãy dùng thẻ khóa để mở cửa.\n\nI went to the bookshop and got a [newspaper] to read.\n\nGiải thích: Khi đến hiệu sách (bookshop) và muốn đọc, bạn thường mua một tờ báo (newspaper) hoặc sách. Ở đây, \"newspaper\" phù hợp hơn vì thường là thứ đọc nhanh. Cụm từ là get a newspaper (mua một tờ báo).\n\nDịch nghĩa: Tôi đã đến hiệu sách và mua một tờ báo để đọc.\n\nI didn't know how to get there, so I got a [taxi].\n\nGiải thích: Khi không biết đường đi đến đó (get there), bạn thường bắt taxi (taxi) để được đưa đến nơi. Cụm từ là get a taxi (bắt một chiếc taxi).\n\nDịch nghĩa: Tôi không biết làm thế nào để đến đó, vì vậy tôi đã bắt taxi.\n\nMy mother always gets some [coffee] in the morning to keep her awake.\n\nGiải thích: Để giữ tỉnh táo (keep her awake) vào buổi sáng, mẹ tôi thường uống cà phê (coffee). Cụm từ là get some coffee (lấy/mua cà phê).\n\nDịch nghĩa: Mẹ tôi luôn mua một ít cà phê vào buổi sáng để giữ cho bà tỉnh táo.\n\nI had got to the [airport] before that flight took off.\n\nGiải thích: Trước khi chuyến bay cất cánh (flight took off), bạn cần phải đến sân bay (airport). Cụm từ là get to the airport (đến sân bay).\n\nDịch nghĩa: Tôi đã đến sân bay trước khi chuyến bay đó cất cánh.\n\nThey got [married] 5 years ago and now they have 2 children.\n\nGiải thích: Sau 5 năm và có 2 con, họ hẳn đã kết hôn (married). Cụm từ là get married (kết hôn).\n\nDịch nghĩa: Họ đã kết hôn 5 năm trước và bây giờ họ có 2 con.\n\nHe's going to get a [doctor] because he doesn’t feel well.\n\nGiải thích: Khi không khỏe (doesn’t feel well), bạn cần đi gặp bác sĩ (doctor). Cụm từ là get a doctor (gọi/tìm bác sĩ).\n\nDịch nghĩa: Anh ấy sẽ đi tìm bác sĩ vì anh ấy cảm thấy không khỏe.",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p>&nbsp;</p>\n<p><span style=\"font-family: Nunito-ExtraBold; font-size: 12pt;\"><strong>Exercise 2. </strong></span><span style=\"font-family: Nunito-Regular;\"><strong>Write ONE WORD from the Vocabulary section in each blank to make a meaningful sentence. </strong><em>(Viết MỘT TỪ từ phần Từ Vựng v&agrave;o mỗi &ocirc; trống để tạo 1 c&acirc;u c&oacute; &yacute; nghĩa.)</em></span></p>",
+        "content": null,
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular;\">1. I really want to get a good [input_0] to <span style=\"background-color: #f8cac6;\">earn a lot of money</span> <span style=\"font-family: Nunito-Regular;\"><em>(kiếm nhiều tiền)</em></span>.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">2. When you [input_1] back home, use the key card to open the door.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">3. I went to the bookshop and got a [input_2] to read.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">4. I didn't know how to <span style=\"background-color: #f8cac6;\">get there</span> <em>(đi đến đó)</em>, so I got a [input_3].</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">5. My mother always gets some [input_4] in the morning to keep her <span style=\"background-color: #f8cac6;\">awake</span> <em>(tỉnh táo)</em>.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">6. I had got to the [input_5] before that flight <span style=\"background-color: #f8cac6;\">took off</span> <em>(cất cánh)</em>.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">7. They got [input_6] 5 years ago and now they have 2 children.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">8. He's going to get a [input_7] because he doesn't feel well.</span></p>",
+        "explain": "<ol start=\"1\">\n<li>\n<p><strong>I really want to get a good [job] to earn a lot of money.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Để <strong>kiếm nhiều tiền (earn a lot of money)</strong>, bạn cần có một <strong>công việc (job)</strong> tốt. Cụm từ là <strong>get a job</strong> (có được một công việc).</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi thực sự muốn có một <strong>công việc</strong> tốt để kiếm nhiều tiền.</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>When you [get] back home, use the key card to open the door.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi <strong>trở về nhà (back home)</strong>, bạn dùng thẻ khóa để mở cửa. Cụm từ là <strong>get back</strong> (trở về).</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Khi bạn <strong>trở về</strong> nhà, hãy dùng thẻ khóa để mở cửa.</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>I went to the bookshop and got a [newspaper] to read.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi đến <strong>hiệu sách (bookshop)</strong> và muốn đọc, bạn thường mua một <strong>tờ báo (newspaper)</strong> hoặc sách. Ở đây, \"newspaper\" phù hợp hơn vì thường là thứ đọc nhanh. Cụm từ là <strong>get a newspaper</strong> (mua một tờ báo).</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi đã đến hiệu sách và mua một <strong>tờ báo</strong> để đọc.</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>I didn't know how to get there, so I got a [taxi].</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi không biết đường <strong>đi đến đó (get there)</strong>, bạn thường <strong>bắt taxi (taxi)</strong> để được đưa đến nơi. Cụm từ là <strong>get a taxi</strong> (bắt một chiếc taxi).</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi không biết làm thế nào để đến đó, vì vậy tôi đã <strong>bắt taxi</strong>.</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>My mother always gets some [coffee] in the morning to keep her awake.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Để <strong>giữ tỉnh táo (keep her awake)</strong> vào buổi sáng, mẹ tôi thường uống <strong>cà phê (coffee)</strong>. Cụm từ là <strong>get some coffee</strong> (lấy/mua cà phê).</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Mẹ tôi luôn mua một ít <strong>cà phê</strong> vào buổi sáng để giữ cho bà tỉnh táo.</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>I had got to the [airport] before that flight took off.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Trước khi <strong>chuyến bay cất cánh (flight took off)</strong>, bạn cần phải đến <strong>sân bay (airport)</strong>. Cụm từ là <strong>get to the airport</strong> (đến sân bay).</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi đã đến <strong>sân bay</strong> trước khi chuyến bay đó cất cánh.</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>They got [married] 5 years ago and now they have 2 children.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Sau 5 năm và có 2 con, họ hẳn đã <strong>kết hôn (married)</strong>. Cụm từ là <strong>get married</strong> (kết hôn).</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Họ đã <strong>kết hôn</strong> 5 năm trước và bây giờ họ có 2 con.</em></p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>He's going to get a [doctor] because he doesn’t feel well.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi <strong>không khỏe (doesn’t feel well)</strong>, bạn cần đi gặp <strong>bác sĩ (doctor)</strong>. Cụm từ là <strong>get a doctor</strong> (gọi/tìm bác sĩ).</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Anh ấy sẽ đi tìm <strong>bác sĩ</strong> vì anh ấy cảm thấy không khỏe.</em></p>\n</li>\n</ul>\n</li>\n</ol>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 8,
+        "totalCorrect": 7,
+        "userAnswer": {
+          "input_0": "job",
+          "input_1": "got",
+          "input_2": "newspaper",
+          "input_3": "taxi",
+          "input_4": "coffee",
+          "input_5": "airport",
+          "input_6": "married",
+          "input_7": "doctor"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "job"
+          ],
+          "input_1": [
+            "get"
+          ],
+          "input_2": [
+            "newspaper"
+          ],
+          "input_3": [
+            "taxi"
+          ],
+          "input_4": [
+            "coffee"
+          ],
+          "input_5": [
+            "airport"
+          ],
+          "input_6": [
+            "married"
+          ],
+          "input_7": [
+            "doctor"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": false,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-266045",
+      "sourceQuestionId": 266045,
+      "challengeId": 28459,
+      "classChallengeId": "79762",
+      "title": null,
+      "type": 2,
+      "prompt": "Exercise 3. Note down at least 10 words/phrases with their definitions. (Ghi lại ít nhất 10 từ vựng/câu học được từ phần Vocabulary, kèm theo nghĩa.)\n\nVí dụ: Get married - Kết hôn",
+      "introductionText": "Exercise 3. Note down at least 10 words/phrases with their definitions. (Ghi lại ít nhất 10 từ vựng/câu học được từ phần Vocabulary, kèm theo nghĩa.)\n\nVí dụ: Get married - Kết hôn",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-ExtraBold; font-size: 12pt;\"><strong>Exercise 3.&nbsp;</strong></span><span style=\"font-family: Nunito-ExtraBold;\"><strong><span style=\"font-family: Nunito-Regular;\">Note down at least 10 words/phrases with their definitions. </span></strong><span style=\"font-family: Nunito-Regular;\"><em>(Ghi lại &iacute;t nhất 10 từ vựng/c&acirc;u học được từ phần Vocabulary, k&egrave;m theo nghĩa.)</em></span></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: Nunito-ExtraBold;\"><span style=\"font-family: Nunito-Regular;\"><em style=\"font-family: 'Nunito Regular';\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">V&iacute; dụ: Get married - Kết h&ocirc;n</span></em></span></span></p>\n<p>&nbsp;</p>\n<p><span id=\"docs-internal-guid-e21be559-7fff-e9f8-80d5-9e2f32295c7a\"></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "Get dark – Trời tối dần\nGet better – Khỏe hơn\nGet a newspaper – Mua một tờ báo\nGet a job – Kiếm một công việc\nGet a taxi – Bắt taxi\nGet some coffee – Mua/uống cà phê\nGet a doctor – Tìm bác sĩ\nGet married – Kết hôn\nGet home – Về nhà\nGet there – Đến đó\nGet back – Trở về\nGet back home – Trở về nhà\nGet tired – Trở nên mệt mỏi\nGet wet – Bị ướt\nGet hot – Trở nên nóng",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-266046",
+      "sourceQuestionId": 266046,
+      "challengeId": 28459,
+      "classChallengeId": "79762",
+      "title": null,
+      "type": null,
+      "prompt": "",
+      "introductionText": "",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "null",
+      "submission": null,
+      "imageRefs": []
+    },
+    {
+      "id": "question-266047",
+      "sourceQuestionId": 266047,
+      "challengeId": 28459,
+      "classChallengeId": "79762",
+      "title": "II. Pronunciation",
+      "type": 2,
+      "prompt": "II. Pronunciation",
+      "introductionText": "",
+      "contentText": "Link video:",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "II. Pronunciation",
+        "introduction": null,
+        "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Link video:&nbsp;</strong></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "https://drive.google.com/file/d/1QAPKRf8Th_k3DAOPuVhjzFUqm5xvER18/view?usp=sharing",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-266048",
+      "sourceQuestionId": 266048,
+      "challengeId": 28459,
+      "classChallengeId": "79762",
+      "title": null,
+      "type": null,
+      "prompt": "",
+      "introductionText": "",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "null",
+      "submission": null,
+      "imageRefs": []
+    },
+    {
+      "id": "question-266049",
+      "sourceQuestionId": 266049,
+      "challengeId": 28460,
+      "classChallengeId": "79763",
+      "title": "I. Vocabulary: go/went/gone",
+      "type": 1,
+      "prompt": "I. Vocabulary: go/went/gone",
+      "introductionText": "Exercise 1. Answer these questions about yourself by filling in the blanks. (Trả lời các câu hỏi bên dưới về bản thân.)",
+      "contentText": "E.g. How do you often go to work?\n\n => I often go to work by train.",
+      "answerTemplateText": "1. How do you go to school?\n\n=> I often go to school [input_0].\n\n2. How does your father go to work?\n\n=> My father goes to work [input_1].\n\n3. How does your mother go to the market?\n\n=> My mother goes to the market [input_2].\n\n4. How did you go to school when you were a child?\n\n=>  When I was a child, I went to school [input_3].\n\n5. How can you go to Thailand?\n\n=>  I can go to Thailand [input_4].",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "I. Vocabulary: go/went/gone",
+        "introduction": "<p><span style=\"font-family: Nunito-ExtraBold; font-size: 12pt;\"><strong>Exercise 1. </strong></span><span style=\"font-family: Nunito-Regular;\"><strong>Answer these questions about yourself by filling in the blanks. </strong><em>(Trả lời c&aacute;c c&acirc;u hỏi b&ecirc;n dưới về bản th&acirc;n.)</em></span></p>",
+        "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>E.g</strong>. How do you often go to work?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> =&gt; I often go to work </span><span style=\"font-size: 12pt; color: #ff0000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">by train</span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">.</span></span></p>\n<p><span id=\"docs-internal-guid-cac45317-7fff-a854-c27d-57e9dfa1c856\"></span></p>",
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. How do you go to school?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=> I often go to school [input_0].</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. How does your father go to work?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=> My father goes to work [input_1].</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. How does your mother go to the market?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=> My mother goes to the market [input_2].</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. How did you go to school when you were a child?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=>  When I was a child, I went to school [input_3].</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. How can you go to Thailand?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=>  I can go to Thailand [input_4].</span></p>\n<p><span id=\"docs-internal-guid-aedc1955-7fff-0d69-17b4-6ada8a578f0a\"></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 5,
+        "totalCorrect": 5,
+        "userAnswer": {
+          "input_0": "by motorbike",
+          "input_1": "by car",
+          "input_2": "by motorbike",
+          "input_3": "by bike",
+          "input_4": "by plane"
+        },
+        "correctAnswer": {
+          "input_0": [
+            ""
+          ],
+          "input_1": [
+            ""
+          ],
+          "input_2": [
+            ""
+          ],
+          "input_3": [
+            ""
+          ],
+          "input_4": [
+            ""
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-266050",
+      "sourceQuestionId": 266050,
+      "challengeId": 28460,
+      "classChallengeId": "79763",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2. Fill in the blank with a suitable phrase from the table. (Điền vào chỗ trống với cụm từ ở trong bảng.)",
+      "introductionText": "Exercise 2. Fill in the blank with a suitable phrase from the table. (Điền vào chỗ trống với cụm từ ở trong bảng.)",
+      "contentText": "go shopping\n\n |\n\ngo down\n\n |\n\ngo swimming\n\n |\n\ngo out of\n\n |\n\ngo up\n\n |\n\ngo sightseeing\n\n |\n\ngo fishing\n\n |\n\ngo into\n\n |",
+      "answerTemplateText": "1. The weather is quite cold here. Let's go into the house.\n\n2. We've run out of (hết) food. We need to [input_0] for some food to make dinner.\n\n3. If you want to see her, please [input_1] the stairs and she's downstairs (dưới tầng) in the room on your left (bên trái).\n\n4. There's a beach nearby. Do you want to [input_2]?\n\n5. There is an awful smell (mùi kinh khủng) in the room, and I really want to [input_3] it.\n\n6. Let's [input_4] to the top of the hill (đỉnh đồi).\n\n7. When I visit a new place, I usually [input_5].\n\n8. I heard that there are a lot of fish in the lake behind the park. Let's [input_6] there.",
+      "explanationText": "2. We've run out of food. We need to [go shopping] for some food to make dinner.\n\nGiải thích: Khi hết đồ ăn (run out of food) và cần mua thêm để nấu bữa tối, hoạt động bạn cần làm là đi mua sắm (go shopping).\n\nDịch nghĩa: Chúng ta đã hết thức ăn rồi. Chúng ta cần đi mua sắm một ít thức ăn để làm bữa tối.\n\n3. If you want to see her, please [go down] the stairs and she’s downstairs in the room on your left.\n\nGiải thích: Để đến dưới tầng (downstairs), bạn cần đi xuống (go down) cầu thang.\n\nDịch nghĩa: Nếu bạn muốn gặp cô ấy, làm ơn đi xuống cầu thang và cô ấy ở dưới tầng trong phòng bên trái của bạn.\n\n4. There's a beach nearby. Do you want to [go swimming]?\n\nGiải thích: Khi có một bãi biển (beach) gần đó, hoạt động bạn có thể đề xuất là đi bơi (go swimming).\n\nDịch nghĩa: Có một bãi biển gần đây. Bạn có muốn đi bơi không?\n\n5. There is an awful smell in the room, and I really want to [go out of] it.\n\nGiải thích: Khi có một mùi kinh khủng (awful smell) trong phòng, bạn sẽ muốn đi ra khỏi (go out of) đó ngay lập tức.\n\nDịch nghĩa: Có một mùi kinh khủng trong phòng, và tôi thực sự muốn đi ra khỏi nó.\n\n6. Let's [go up] to the top of the hill.\n\nGiải thích: Để đến đỉnh đồi (top of the hill), bạn cần đi lên (go up).\n\nDịch nghĩa: Chúng ta hãy đi lên đỉnh đồi nào.\n\n7. When I visit a new place, I usually [go sightseeing].\n\nGiải thích: Khi thăm một địa điểm mới (visit a new place), hoạt động phổ biến để khám phá là đi ngắm cảnh (go sightseeing).\n\nDịch nghĩa: Khi tôi đến thăm một nơi mới, tôi thường đi ngắm cảnh.\n\n8. I heard that there are a lot of fish in the lake behind the park. Let's [go fishing] there.\n\nGiải thích: Khi biết có nhiều cá (a lot of fish) trong hồ, hoạt động bạn có thể làm là đi câu cá (go fishing).\n\nDịch nghĩa: Tôi nghe nói có rất nhiều cá ở hồ phía sau công viên. Chúng ta hãy đi câu cá ở đó.",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-ExtraBold; font-size: 12pt;\"><strong>Exercise 2.&nbsp;</strong></span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-family: Nunito-Regular;\"><strong>Fill in the blank with a suitable phrase from the table.</strong><span style=\"font-size: 12pt;\">&nbsp;</span></span><em style=\"font-family: Nunito-Regular; font-size: 12pt;\">(Điền v&agrave;o chỗ trống với cụm từ ở trong bảng.)</em></span></p>",
+        "content": "<p><span id=\"docs-internal-guid-287b8163-7fff-7189-1cdb-0902c2810edf\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 451.27559055118115pt;\"><colgroup><col /><col /><col /><col /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">go shopping</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">go down</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">go swimming</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">go out of</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">go up</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">go sightseeing</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">go fishing</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: line-through; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">go into</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><span id=\"docs-internal-guid-33695b7e-7fff-e15b-fd13-b04767be058a\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n</div>",
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. The weather is quite cold here. Let's </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">go into</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">the house.</span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. We've<span style=\"background-color: #f8cac6;\"> run out of</span> (</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">hết</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">) food. We need to [input_0] for some food to make dinner. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. If you want to see her, please [input_1] the stairs and she's <span style=\"background-color: #f8cac6;\">downstairs </span>(</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">dưới tầng</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">) in the room <span style=\"background-color: #f8cac6;\">on your left</span> (</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">bên trái</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">).</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. There's a beach nearby. Do you want to [input_2]? </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. There is an <span style=\"background-color: #f8cac6;\">awful smell</span> (mùi kinh khủng) in the room, and I really want to [input_3] it.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. Let's [input_4] to <span style=\"background-color: #f8cac6;\">the top of the hill</span> (</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">đỉnh đồi</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">).</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. When I visit a new place, I usually [input_5].</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. I heard that there are a lot of fish in the lake behind the park. Let's [input_6] there.</span></span></p>\n<p><span id=\"docs-internal-guid-127e0dc2-7fff-27d6-04df-a1da2da8c892\" style=\"font-family: Nunito-Regular;\"></span></p>",
+        "explain": "<p><strong>2. We've run out of food. We need to [go shopping] for some food to make dinner.</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi <strong>hết đồ ăn (run out of food)</strong> và cần mua thêm để nấu bữa tối, hoạt động bạn cần làm là <strong>đi mua sắm (go shopping)</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Chúng ta đã hết thức ăn rồi. Chúng ta cần <strong>đi mua sắm</strong> một ít thức ăn để làm bữa tối.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>3. If you want to see her, please [go down] the stairs and she’s downstairs in the room on your left.</strong></p>\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Để đến <strong>dưới tầng (downstairs)</strong>, bạn cần <strong>đi xuống (go down)</strong> cầu thang.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Nếu bạn muốn gặp cô ấy, làm ơn <strong>đi xuống</strong> cầu thang và cô ấy ở dưới tầng trong phòng bên trái của bạn.</em></p>\n</li>\n</ul>\n<p><strong>4. There's a beach nearby. Do you want to [go swimming]?</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi có một <strong>bãi biển (beach)</strong> gần đó, hoạt động bạn có thể đề xuất là <strong>đi bơi (go swimming)</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Có một bãi biển gần đây. Bạn có muốn <strong>đi bơi</strong> không?</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>5. There is an awful smell in the room, and I really want to [go out of] it.</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul style=\"list-style-type: circle;\">\n<li><strong>Giải thích:</strong> Khi có một <strong>mùi kinh khủng (awful smell)</strong> trong phòng, bạn sẽ muốn <strong>đi ra khỏi (go out of)</strong> đó ngay lập tức.</li>\n<li><em><strong>Dịch nghĩa:</strong> Có một mùi kinh khủng trong phòng, và tôi thực sự muốn <strong>đi ra khỏi</strong> nó.</em></li>\n</ul>\n</li>\n</ul>\n<p><strong>6. Let's [go up] to the top of the hill.</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Để đến <strong>đỉnh đồi (top of the hill)</strong>, bạn cần <strong>đi lên (go up)</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Chúng ta hãy <strong>đi lên</strong> đỉnh đồi nào.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>7. When I visit a new place, I usually [go sightseeing].</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi <strong>thăm một địa điểm mới (visit a new place)</strong>, hoạt động phổ biến để khám phá là <strong>đi ngắm cảnh (go sightseeing)</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Khi tôi đến thăm một nơi mới, tôi thường <strong>đi ngắm cảnh</strong>.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>8. I heard that there are a lot of fish in the lake behind the park. Let's [go fishing] there.</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi biết có <strong>nhiều cá (a lot of fish)</strong> trong hồ, hoạt động bạn có thể làm là <strong>đi câu cá (go fishing)</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi nghe nói có rất nhiều cá ở hồ phía sau công viên. Chúng ta hãy <strong>đi câu cá</strong> ở đó.</em></p>\n</li>\n</ul>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 7,
+        "totalCorrect": 6,
+        "userAnswer": {
+          "input_0": "go shopping",
+          "input_1": "go down",
+          "input_2": "go swimming",
+          "input_3": "go out of",
+          "input_4": "go down",
+          "input_5": "go sightseeing",
+          "input_6": "go fishing"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "go shopping"
+          ],
+          "input_1": [
+            "go down"
+          ],
+          "input_2": [
+            "go swimming"
+          ],
+          "input_3": [
+            "go out of"
+          ],
+          "input_4": [
+            "go up"
+          ],
+          "input_5": [
+            "go sightseeing"
+          ],
+          "input_6": [
+            "go fishing"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": false,
+          "input_5": true,
+          "input_6": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-266051",
+      "sourceQuestionId": 266051,
+      "challengeId": 28460,
+      "classChallengeId": "79763",
+      "title": "Useful words/ phrases/ sentences",
+      "type": 2,
+      "prompt": "Useful words/ phrases/ sentences",
+      "introductionText": "",
+      "contentText": "Sau khi làm bài tập, ghi lại ít nhất 10 từ/ cụm từ/ câu học được, kèm theo nghĩa:\n\nVí dụ:\n\ngo to work by bike: đi xe đạp đi làm",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "Useful words/ phrases/ sentences",
+        "introduction": null,
+        "content": "<p><span style=\"color: #c0392b; font-family: Nunito-Regular; font-size: 12pt;\"><strong>Sau khi l&agrave;m b&agrave;i tập, ghi lại &iacute;t nhất 10 từ/ cụm từ/ c&acirc;u học được, k&egrave;m theo nghĩa:<br /></strong></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">V&iacute; dụ: </span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">go to work by bike: đi xe đạp đi l&agrave;m</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "Go to work by bike – Đi làm bằng xe đạp\nGo to school by bus – Đi học bằng xe buýt\nGo into the house – Đi vào trong nhà\nGo out of the room – Đi ra khỏi phòng\nGo up the stairs – Đi lên cầu thang\nGo down the stairs – Đi xuống cầu thang\nGo shopping – Đi mua sắm\nGo swimming – Đi bơi\nGo sightseeing – Đi tham quan ngắm cảnh\nGo fishing – Đi câu cá",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-266052",
+      "sourceQuestionId": 266052,
+      "challengeId": 28460,
+      "classChallengeId": "79763",
+      "title": null,
+      "type": null,
+      "prompt": "",
+      "introductionText": "",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "null",
+      "submission": null,
+      "imageRefs": []
+    }
+  ]
+}

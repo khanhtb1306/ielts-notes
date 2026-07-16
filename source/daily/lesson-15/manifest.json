@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "lesson": 15,
+  "lessonKey": "lesson-15",
+  "title": "Lesson 15",
+  "source": "LangGo daily challenge API",
+  "rawFolder": "raw/",
+  "files": {
+    "overview": "overview.md",
+    "content": "content.json",
+    "exercises": "exercises.json",
+    "scripts": "scripts.json",
+    "submission": "submission.json",
+    "audioManifest": "audio/manifest.json",
+    "imageManifest": "images/manifest.json"
+  },
+  "challenges": [
+    {
+      "id": 33411,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "number": 1,
+      "title": "[PRE IELTS] LESSON 15 - CHALLENGE 1",
+      "note": "Grammar (modal verbs) | Listening (Restaurants)",
+      "day": 15,
+      "deadline": "2026-07-16 12:30:00",
+      "totalQuestion": 54,
+      "classification": "dc",
+      "rawFile": "raw/challenge-01-33411.json"
+    },
+    {
+      "id": 33412,
+      "challengeId": 33412,
+      "classChallengeId": "84532",
+      "number": 2,
+      "title": "[PRE IELTS] LESSON 15 - CHALLENGE 2",
+      "note": "Shadowing | Speaking (Trip + Restaurants)",
+      "day": 15,
+      "deadline": "2026-07-16 12:30:00",
+      "totalQuestion": 1,
+      "classification": "dc",
+      "rawFile": "raw/challenge-02-33412.json"
+    }
+  ]
+}

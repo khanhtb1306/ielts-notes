@@ -1,0 +1,742 @@
+{
+  "lesson": 7,
+  "lessonKey": "lesson-07",
+  "items": [
+    {
+      "challengeId": 30354,
+      "classChallengeId": "81588",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 54,
+      "submittedAt": "2026-06-24 21:25:54",
+      "markedAt": "2026-06-27 00:14:37",
+      "commentText": "Hi Khánh, bài này mình làm khá ổn nha.\n\r\nEm nhớ xem lại các câu sai để rút kinh nghiệm nhé.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "286728": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 588931,
+          "correct_answer": 588931,
+          "result_answer": {
+            "588931": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 286728,
+          "challenge_id": 30354
+        },
+        "286729": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 588936,
+          "correct_answer": 588936,
+          "result_answer": {
+            "588936": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 286729,
+          "challenge_id": 30354
+        },
+        "286730": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 588940,
+          "correct_answer": 588940,
+          "result_answer": {
+            "588940": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 286730,
+          "challenge_id": 30354
+        },
+        "286731": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 588943,
+          "correct_answer": 588943,
+          "result_answer": {
+            "588943": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 286731,
+          "challenge_id": 30354
+        },
+        "286732": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 588950,
+          "correct_answer": 588950,
+          "result_answer": {
+            "588950": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 286732,
+          "challenge_id": 30354
+        },
+        "286733": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 588951,
+          "correct_answer": 588951,
+          "result_answer": {
+            "588951": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 286733,
+          "challenge_id": 30354
+        },
+        "286734": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 588955,
+          "correct_answer": 588955,
+          "result_answer": {
+            "588955": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 286734,
+          "challenge_id": 30354
+        },
+        "286735": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 588960,
+          "correct_answer": 588960,
+          "result_answer": {
+            "588960": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 286735,
+          "challenge_id": 30354
+        },
+        "286736": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 588964,
+          "correct_answer": 588964,
+          "result_answer": {
+            "588964": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 286736,
+          "challenge_id": 30354
+        },
+        "286737": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 588968,
+          "correct_answer": 588968,
+          "result_answer": {
+            "588968": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 286737,
+          "challenge_id": 30354
+        },
+        "286738": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 588973,
+          "correct_answer": 588973,
+          "result_answer": {
+            "588973": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 286738,
+          "challenge_id": 30354
+        },
+        "286739": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 588977,
+          "correct_answer": 588977,
+          "result_answer": {
+            "588977": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 286739,
+          "challenge_id": 30354
+        },
+        "286740": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 588980,
+          "correct_answer": 588980,
+          "result_answer": {
+            "588980": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 286740,
+          "challenge_id": 30354
+        },
+        "286741": {
+          "total_question": 1,
+          "total_correct_result_answer": 0,
+          "user_answer": 588984,
+          "correct_answer": 588983,
+          "result_answer": {
+            "588984": false
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 286741,
+          "challenge_id": 30354
+        },
+        "286742": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 588989,
+          "correct_answer": 588989,
+          "result_answer": {
+            "588989": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 286742,
+          "challenge_id": 30354
+        },
+        "286743": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 588992,
+          "correct_answer": 588992,
+          "result_answer": {
+            "588992": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 286743,
+          "challenge_id": 30354
+        },
+        "286744": {
+          "total_question": 1,
+          "total_correct_result_answer": 0,
+          "user_answer": 588996,
+          "correct_answer": 588997,
+          "result_answer": {
+            "588996": false
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 286744,
+          "challenge_id": 30354
+        },
+        "286745": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 588999,
+          "correct_answer": 588999,
+          "result_answer": {
+            "588999": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 286745,
+          "challenge_id": 30354
+        },
+        "286746": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 589005,
+          "correct_answer": 589005,
+          "result_answer": {
+            "589005": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 286746,
+          "challenge_id": 30354
+        },
+        "286747": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 589010,
+          "correct_answer": 589010,
+          "result_answer": {
+            "589010": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 286747,
+          "challenge_id": 30354
+        },
+        "286748": {
+          "total_question": 15,
+          "total_correct_result_answer": 11,
+          "user_answer": {
+            "input_0": "any",
+            "input_1": "a few",
+            "input_2": "much",
+            "input_3": "any",
+            "input_4": "many",
+            "input_5": "some",
+            "input_6": "a few",
+            "input_7": "many",
+            "input_8": "a few",
+            "input_9": "a lot of",
+            "input_10": "a lot of",
+            "input_11": "many",
+            "input_12": "many",
+            "input_13": "many",
+            "input_14": "a few"
+          },
+          "correct_answer": {
+            "input_0": [
+              "any"
+            ],
+            "input_1": [
+              "a few",
+              "many",
+              "some"
+            ],
+            "input_2": [
+              "little",
+              "much"
+            ],
+            "input_3": [
+              "many",
+              "any"
+            ],
+            "input_4": [
+              "many"
+            ],
+            "input_5": [
+              "some"
+            ],
+            "input_6": [
+              "few"
+            ],
+            "input_7": [
+              "any"
+            ],
+            "input_8": [
+              "some",
+              "many",
+              "a few"
+            ],
+            "input_9": [
+              "little"
+            ],
+            "input_10": [
+              "any"
+            ],
+            "input_11": [
+              "a few",
+              "many",
+              "some"
+            ],
+            "input_12": [
+              "some",
+              "many",
+              "a few"
+            ],
+            "input_13": [
+              "many"
+            ],
+            "input_14": [
+              "a few",
+              "some"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": false,
+            "input_7": false,
+            "input_8": true,
+            "input_9": false,
+            "input_10": false,
+            "input_11": true,
+            "input_12": true,
+            "input_13": true,
+            "input_14": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 286748,
+          "challenge_id": 30354
+        },
+        "286750": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "in his twenties\nin her teens\nabout 22\n19 years old\nin her thirties\nalmost 25",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 286750,
+          "challenge_id": 30354
+        },
+        "286751": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "tall\nnot so tall\nabout 170 cm",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 286751,
+          "challenge_id": 30354
+        },
+        "286752": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "short\nlong\nlight brown\ndark\ncurly\nshoulder length\nblond\nstraight",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 286752,
+          "challenge_id": 30354
+        },
+        "286753": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 589013,
+          "correct_answer": 589013,
+          "result_answer": {
+            "589013": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 286753,
+          "challenge_id": 30354
+        },
+        "286754": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 589015,
+          "correct_answer": 589015,
+          "result_answer": {
+            "589015": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 286754,
+          "challenge_id": 30354
+        },
+        "286755": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 589017,
+          "correct_answer": 589017,
+          "result_answer": {
+            "589017": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 286755,
+          "challenge_id": 30354
+        },
+        "286756": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 589022,
+          "correct_answer": 589022,
+          "result_answer": {
+            "589022": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 286756,
+          "challenge_id": 30354
+        },
+        "286757": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 589024,
+          "correct_answer": 589024,
+          "result_answer": {
+            "589024": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 286757,
+          "challenge_id": 30354
+        },
+        "286758": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 589026,
+          "correct_answer": 589026,
+          "result_answer": {
+            "589026": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 286758,
+          "challenge_id": 30354
+        },
+        "286759": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 589031,
+          "correct_answer": 589031,
+          "result_answer": {
+            "589031": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 286759,
+          "challenge_id": 30354
+        },
+        "286760": {
+          "total_question": 8,
+          "total_correct_result_answer": 8,
+          "user_answer": {
+            "input_0": "C",
+            "input_1": "D",
+            "input_2": "B",
+            "input_3": "A",
+            "input_4": "F",
+            "input_5": "H",
+            "input_7": "G",
+            "input_6": "E"
+          },
+          "correct_answer": {
+            "input_0": [
+              "C"
+            ],
+            "input_1": [
+              "D"
+            ],
+            "input_2": [
+              "B"
+            ],
+            "input_3": [
+              "A"
+            ],
+            "input_4": [
+              "F"
+            ],
+            "input_5": [
+              "H"
+            ],
+            "input_6": [
+              "E"
+            ],
+            "input_7": [
+              "G"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 286760,
+          "challenge_id": 30354
+        },
+        "286761": {
+          "total_question": 5,
+          "total_correct_result_answer": 1,
+          "user_answer": {
+            "input_0": "She's got long drak brown hair.",
+            "input_1": "He's not very tall - abot average.",
+            "input_2": "She's about 20.",
+            "input_3": "No, she isn't. She's got dark brown hair.",
+            "input_4": "She's got drak brown hair."
+          },
+          "correct_answer": {
+            "input_0": [
+              "She has long, dark brown hair.",
+              "She's got long, dark brown hair.",
+              "She has got long, dark brown hair."
+            ],
+            "input_1": [
+              "He's not very tall - about average.",
+              "He is not very tall - about average.",
+              "Bob's not very tall - about average.",
+              "Bob is not very tall - about average."
+            ],
+            "input_2": [
+              "She's about 20.",
+              "She is about 20.",
+              "Anne's about 20.",
+              "Anne is about 20."
+            ],
+            "input_3": [
+              "No, she isn't.",
+              "No, she is not."
+            ],
+            "input_4": [
+              "Dark brown.",
+              "She has dark brown hair.",
+              "She's got dark brown hair.",
+              "She has got dark brown hair."
+            ]
+          },
+          "result_answer": {
+            "input_0": false,
+            "input_1": false,
+            "input_2": true,
+            "input_3": false,
+            "input_4": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 286761,
+          "challenge_id": 30354
+        },
+        "286762": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": {
+            "input_0": "He is seven years old and he has light brown hair."
+          },
+          "correct_answer": {
+            "input_0": [
+              "He is seven years old and he has light brown hair."
+            ]
+          },
+          "result_answer": {
+            "input_0": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 286762,
+          "challenge_id": 30354
+        },
+        "286763": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": {
+            "input_0": "She has brown hair and it is very curly."
+          },
+          "correct_answer": {
+            "input_0": [
+              "She has brown hair and it is very curly."
+            ]
+          },
+          "result_answer": {
+            "input_0": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 286763,
+          "challenge_id": 30354
+        },
+        "286764": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": {
+            "input_0": "His hair is blond and pretty long."
+          },
+          "correct_answer": {
+            "input_0": [
+              "His hair is blond and pretty long.",
+              "His hair is pretty long and blond."
+            ]
+          },
+          "result_answer": {
+            "input_0": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 286764,
+          "challenge_id": 30354
+        },
+        "286765": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": {
+            "input_0": "His hair is dark brown and he is really cute."
+          },
+          "correct_answer": {
+            "input_0": [
+              "He is really cute and his hair is dark brown.",
+              "His hair is dark brown and he is really cute."
+            ]
+          },
+          "result_answer": {
+            "input_0": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 286765,
+          "challenge_id": 30354
+        },
+        "286766": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": {
+            "input_0": "She is about average height, with short blond hair."
+          },
+          "correct_answer": {
+            "input_0": [
+              "She is about average height, with short blond hair."
+            ]
+          },
+          "result_answer": {
+            "input_0": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 286766,
+          "challenge_id": 30354
+        },
+        "286767": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "blond: tóc vàng\nbrown: tóc nâu\ncurly: xoăn\nstraight: thẳng\nlight brown: nâu nhạt\ndark brown: nâu đậm\nshoulder-length hair: tóc dài ngang vai\nabout average height: chiều cao trung bình\nnot very tall: không quá cao\nin her twenties: ở độ tuổi 20\nin her thirties: ở độ tuổi 30\nabout 170 centimeters: khoảng 170 cm",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 286767,
+          "challenge_id": 30354
+        }
+      }
+    },
+    {
+      "challengeId": 30355,
+      "classChallengeId": "81589",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 1,
+      "submittedAt": "2026-06-24 21:43:16",
+      "markedAt": "2026-06-30 01:38:24",
+      "commentText": "Hi Khánh, bài này em làm tốt nhé. Em nhớ luyện tập để trả lời thật trôi chảy nha.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "286769": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://docs.google.com/document/d/1pU1O-wqU5IYwaruIxM8waoQcBW0s64ku4cbbcKagG_I/edit?usp=sharing",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 286769,
+          "challenge_id": 30355
+        }
+      }
+    }
+  ]
+}

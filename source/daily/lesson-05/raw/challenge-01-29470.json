@@ -1,0 +1,1085 @@
+{
+  "listItem": {
+    "id": "80742",
+    "challenge_id": 29470,
+    "class_id": "177286917873dop75b27mv",
+    "day": 5,
+    "deadline": "2026-06-18 12:30:00",
+    "challenge_title": "[PRE IELTS] LESSON 5 - CHALLENGE 1",
+    "challenge_note": "Pronunciation (review) | Listening (names)",
+    "challenge_status": 1,
+    "challenge_band": "161433861829325240c1g7",
+    "total_question": 72,
+    "classification": "dc",
+    "student_challenge": {
+      "id": 552429,
+      "class_challenge_id": 80742,
+      "class_id": "177286917873dop75b27mv",
+      "challenge_id": 29470,
+      "cts_id": "1780455880vwydc1i2ehir",
+      "rate": 1,
+      "comment": "<p>Hi Khánh, bài này em làm tốt nha.</p>\r\n<p>Mình chỉ cần để ý làm bài nghe cẩn thận hơn chút là được nè. Keep going!</p>",
+      "url": null,
+      "redo_comment": null,
+      "cancel_comment": null,
+      "date_redo": null,
+      "status_mark": "graded",
+      "status_mark_date": "2026-06-21 01:34:22",
+      "flag_overdue": 0,
+      "flag_not_star": 0,
+      "flag_not_submit": 0,
+      "flag_late_redo": 0,
+      "flag_late_submit": 0,
+      "flag_status_mark": 0,
+      "updated_by": null,
+      "updated": "2026-06-21 01:34:21",
+      "created_by": "1779875378vawpfok6ii4u",
+      "created": "2026-06-17 22:02:08",
+      "correct_answer": 64,
+      "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+      "submitted_at": "2026-06-17 22:02:08",
+      "re_submitted_at": null,
+      "answers": [
+        {
+          "id": 8014653,
+          "question_id": 44393,
+          "choice_id": null,
+          "user_id": null,
+          "content": "so",
+          "student_challenge_id": 80742,
+          "index": 0,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014654,
+          "question_id": 44393,
+          "choice_id": null,
+          "user_id": null,
+          "content": "and",
+          "student_challenge_id": 80742,
+          "index": 1,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014655,
+          "question_id": 44393,
+          "choice_id": null,
+          "user_id": null,
+          "content": "but",
+          "student_challenge_id": 80742,
+          "index": 2,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014656,
+          "question_id": 44393,
+          "choice_id": null,
+          "user_id": null,
+          "content": "so",
+          "student_challenge_id": 80742,
+          "index": 3,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014657,
+          "question_id": 44393,
+          "choice_id": null,
+          "user_id": null,
+          "content": "and",
+          "student_challenge_id": 80742,
+          "index": 4,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014658,
+          "question_id": 44393,
+          "choice_id": null,
+          "user_id": null,
+          "content": "so",
+          "student_challenge_id": 80742,
+          "index": 5,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014659,
+          "question_id": 44393,
+          "choice_id": null,
+          "user_id": null,
+          "content": "and",
+          "student_challenge_id": 80742,
+          "index": 6,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014660,
+          "question_id": 44393,
+          "choice_id": null,
+          "user_id": null,
+          "content": "and",
+          "student_challenge_id": 80742,
+          "index": 7,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014661,
+          "question_id": 44393,
+          "choice_id": null,
+          "user_id": null,
+          "content": "so",
+          "student_challenge_id": 80742,
+          "index": 8,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014662,
+          "question_id": 44393,
+          "choice_id": null,
+          "user_id": null,
+          "content": "or",
+          "student_challenge_id": 80742,
+          "index": 9,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014663,
+          "question_id": 44393,
+          "choice_id": null,
+          "user_id": null,
+          "content": "but",
+          "student_challenge_id": 80742,
+          "index": 10,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014664,
+          "question_id": 44393,
+          "choice_id": null,
+          "user_id": null,
+          "content": "and",
+          "student_challenge_id": 80742,
+          "index": 11,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014665,
+          "question_id": 44394,
+          "choice_id": null,
+          "user_id": null,
+          "content": "My office has everything I need to do my work.",
+          "student_challenge_id": 80742,
+          "index": 0,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014666,
+          "question_id": 44395,
+          "choice_id": 37574,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80742,
+          "index": 0,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014667,
+          "question_id": 44395,
+          "choice_id": 37576,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80742,
+          "index": 0,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014668,
+          "question_id": 44396,
+          "choice_id": null,
+          "user_id": null,
+          "content": "My 96-year-old neighbor, Mrs. Wills, lives alone and takes care of herself.",
+          "student_challenge_id": 80742,
+          "index": 0,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014669,
+          "question_id": 44397,
+          "choice_id": 37514,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80742,
+          "index": 0,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014670,
+          "question_id": 44397,
+          "choice_id": 37516,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80742,
+          "index": 0,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014671,
+          "question_id": 44398,
+          "choice_id": null,
+          "user_id": null,
+          "content": "Canada is a large country but the population of Canada is very small.",
+          "student_challenge_id": 80742,
+          "index": 0,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014672,
+          "question_id": 44399,
+          "choice_id": null,
+          "user_id": null,
+          "content": "Writers should make a list of ideas that are important and interesting before serious writers begin writing.",
+          "student_challenge_id": 80742,
+          "index": 0,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014673,
+          "question_id": 44400,
+          "choice_id": null,
+          "user_id": null,
+          "content": "Our history class is British History has a last assignment is to write a paper that should explain how the War of 1812 started.",
+          "student_challenge_id": 80742,
+          "index": 0,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014674,
+          "question_id": 44401,
+          "choice_id": null,
+          "user_id": null,
+          "content": "In this city, new residents can find the schools are good, the housing is affordable and the public transportation is convenient.",
+          "student_challenge_id": 80742,
+          "index": 0,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014675,
+          "question_id": 44402,
+          "choice_id": null,
+          "user_id": null,
+          "content": "When the students who can ask a former teacher or a sports coach or another adult to write a letter, are applying for a job.",
+          "student_challenge_id": 80742,
+          "index": 0,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8014676,
+          "question_id": 44403,
+          "choice_id": null,
+          "user_id": null,
+          "content": "https://docs.google.com/document/d/12kgsPOuDVktifYf5fJ8klSs7dJOLa7oTWD7p-aNsg1c/edit?usp=sharing",
+          "student_challenge_id": 80742,
+          "index": 0,
+          "created_at": "2024-10-01 23:49:27",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        }
+      ],
+      "tab_switch_count": 0
+    }
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "80742",
+        "challenge_id": 29470,
+        "class_id": "177286917873dop75b27mv",
+        "day": 5,
+        "deadline": "2026-06-18 12:30:00",
+        "flag_status_mark": 1,
+        "flag_not_submit": 1,
+        "created": "2026-06-16 22:24:44",
+        "created_by": null,
+        "challenge": {
+          "id": "29470",
+          "title": "[PRE IELTS] LESSON 5 - CHALLENGE 1",
+          "note": "Pronunciation (review) | Listening (names)",
+          "day": "9",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "161433861829325240c1g7",
+          "created": "2026-06-16 22:24:36",
+          "updated": null,
+          "created_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+          "updated_by": null,
+          "total_question": 72,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 8054
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 552429,
+        "class_challenge_id": 80742,
+        "class_id": "177286917873dop75b27mv",
+        "challenge_id": 29470,
+        "cts_id": "1780455880vwydc1i2ehir",
+        "rate": 1,
+        "comment": "<p>Hi Khánh, bài này em làm tốt nha.</p>\r\n<p>Mình chỉ cần để ý làm bài nghe cẩn thận hơn chút là được nè. Keep going!</p>",
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": "graded",
+        "status_mark_date": "2026-06-21 01:34:22",
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": null,
+        "updated": "2026-06-21 01:34:21",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-06-17 22:02:08",
+        "correct_answer": 64,
+        "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+        "submitted_at": "2026-06-17 22:02:08",
+        "re_submitted_at": null,
+        "answers": {
+          "276916": {
+            "total_question": 20,
+            "total_correct_result_answer": 20,
+            "user_answer": {
+              "input_0": "say goodbye",
+              "input_2": "wake up",
+              "input_1": "open the door",
+              "input_3": "go to work",
+              "input_4": "have a bath",
+              "input_5": "take a photo",
+              "input_6": "go to the cinema",
+              "input_7": "make dinner",
+              "input_8": "wash clothes",
+              "input_9": "watch TV",
+              "input_10": "get sick",
+              "input_11": "have breakfast",
+              "input_12": "phone a friend",
+              "input_13": "make a mistake",
+              "input_14": "drive a car",
+              "input_15": "make noise",
+              "input_16": "clean the house",
+              "input_17": "take a break",
+              "input_18": "go swimming",
+              "input_19": "take the bus"
+            },
+            "correct_answer": {
+              "input_0": [
+                "say goodbye"
+              ],
+              "input_1": [
+                "open the door"
+              ],
+              "input_2": [
+                "wake up"
+              ],
+              "input_3": [
+                "go to work"
+              ],
+              "input_4": [
+                "have a bath"
+              ],
+              "input_5": [
+                "take a photo"
+              ],
+              "input_6": [
+                "go to the cinema"
+              ],
+              "input_7": [
+                "make dinner"
+              ],
+              "input_8": [
+                "wash clothes"
+              ],
+              "input_9": [
+                "watch TV"
+              ],
+              "input_10": [
+                "get sick"
+              ],
+              "input_11": [
+                "have breakfast"
+              ],
+              "input_12": [
+                "phone a friend"
+              ],
+              "input_13": [
+                "make a mistake"
+              ],
+              "input_14": [
+                "drive a car"
+              ],
+              "input_15": [
+                "make noise"
+              ],
+              "input_16": [
+                "clean the house"
+              ],
+              "input_17": [
+                "take a break"
+              ],
+              "input_18": [
+                "go swimming"
+              ],
+              "input_19": [
+                "take the bus"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true,
+              "input_10": true,
+              "input_11": true,
+              "input_12": true,
+              "input_13": true,
+              "input_14": true,
+              "input_15": true,
+              "input_16": true,
+              "input_17": true,
+              "input_18": true,
+              "input_19": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 276916,
+            "challenge_id": 29470
+          },
+          "276917": {
+            "total_question": 20,
+            "total_correct_result_answer": 20,
+            "user_answer": {
+              "input_0": "get sick",
+              "input_1": "watch TV",
+              "input_2": "drive a car",
+              "input_3": "make a mistake",
+              "input_4": "take the bus",
+              "input_5": "take a break",
+              "input_6": "have a bath",
+              "input_7": "open the door",
+              "input_8": "say goodbye",
+              "input_9": "wash clothes",
+              "input_10": "go to work",
+              "input_11": "wake up",
+              "input_12": "make dinner",
+              "input_13": "go swimming",
+              "input_14": "make noise",
+              "input_15": "clean the house",
+              "input_16": "phone a friend",
+              "input_17": "have breakfast",
+              "input_18": "take a photo",
+              "input_19": "go to the cinema"
+            },
+            "correct_answer": {
+              "input_0": [
+                "get sick"
+              ],
+              "input_1": [
+                "watch TV"
+              ],
+              "input_2": [
+                "drive a car"
+              ],
+              "input_3": [
+                "make a mistake"
+              ],
+              "input_4": [
+                "take the bus"
+              ],
+              "input_5": [
+                "take a break"
+              ],
+              "input_6": [
+                "have a bath"
+              ],
+              "input_7": [
+                "open the door"
+              ],
+              "input_8": [
+                "say goodbye"
+              ],
+              "input_9": [
+                "wash clothes"
+              ],
+              "input_10": [
+                "go to work"
+              ],
+              "input_11": [
+                "wake up"
+              ],
+              "input_12": [
+                "make dinner"
+              ],
+              "input_13": [
+                "go swimming"
+              ],
+              "input_14": [
+                "make noise"
+              ],
+              "input_15": [
+                "clean the house"
+              ],
+              "input_16": [
+                "phone a friend"
+              ],
+              "input_17": [
+                "have breakfast"
+              ],
+              "input_18": [
+                "take a photo"
+              ],
+              "input_19": [
+                "go to the cinema"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true,
+              "input_10": true,
+              "input_11": true,
+              "input_12": true,
+              "input_13": true,
+              "input_14": true,
+              "input_15": true,
+              "input_16": true,
+              "input_17": true,
+              "input_18": true,
+              "input_19": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 276917,
+            "challenge_id": 29470
+          },
+          "276918": {
+            "total_question": 20,
+            "total_correct_result_answer": 17,
+            "user_answer": {
+              "input_0": "take a photo",
+              "input_1": "wash clothes",
+              "input_2": "watch TV",
+              "input_3": "make dinner",
+              "input_4": "goes to work",
+              "input_5": "take the bus",
+              "input_6": "drive car",
+              "input_7": "say goodbye",
+              "input_8": "goes to the cinema",
+              "input_9": "open the door",
+              "input_10": "wakes up",
+              "input_11": "have breakfast",
+              "input_12": "go swimming",
+              "input_13": "have a bath",
+              "input_14": "make noise",
+              "input_15": "gets sick",
+              "input_16": "phone a friend",
+              "input_17": "take a bread",
+              "input_18": "makes a mistake",
+              "input_19": "clean the house"
+            },
+            "correct_answer": {
+              "input_0": [
+                "take a photo"
+              ],
+              "input_1": [
+                "wash clothes"
+              ],
+              "input_2": [
+                "watch TV"
+              ],
+              "input_3": [
+                "makes dinner"
+              ],
+              "input_4": [
+                "goes to work"
+              ],
+              "input_5": [
+                "take the bus"
+              ],
+              "input_6": [
+                "drive a car"
+              ],
+              "input_7": [
+                "say goodbye"
+              ],
+              "input_8": [
+                "goes to the cinema"
+              ],
+              "input_9": [
+                "Open the door"
+              ],
+              "input_10": [
+                "wakes up"
+              ],
+              "input_11": [
+                "have breakfast"
+              ],
+              "input_12": [
+                "go swimming"
+              ],
+              "input_13": [
+                "have a bath"
+              ],
+              "input_14": [
+                "make noise"
+              ],
+              "input_15": [
+                "gets sick"
+              ],
+              "input_16": [
+                "phone a friend"
+              ],
+              "input_17": [
+                "take a break"
+              ],
+              "input_18": [
+                "makes a mistake"
+              ],
+              "input_19": [
+                "clean the house"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": false,
+              "input_4": true,
+              "input_5": true,
+              "input_6": false,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true,
+              "input_10": true,
+              "input_11": true,
+              "input_12": true,
+              "input_13": true,
+              "input_14": true,
+              "input_15": true,
+              "input_16": true,
+              "input_17": false,
+              "input_18": true,
+              "input_19": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 276918,
+            "challenge_id": 29470
+          },
+          "276920": {
+            "total_question": 6,
+            "total_correct_result_answer": 3,
+            "user_answer": {
+              "input_0": "Maria",
+              "input_1": "Sujanna",
+              "input_2": "Harry Wilson",
+              "input_3": "Abramsom",
+              "input_4": "Louis",
+              "input_5": "Mialy Cruise"
+            },
+            "correct_answer": {
+              "input_0": [
+                "Maria Carter",
+                "Maria"
+              ],
+              "input_1": [
+                "Suzanna Smith",
+                "Suzanna"
+              ],
+              "input_2": [
+                "Harry Wilson",
+                "Harry"
+              ],
+              "input_3": [
+                "Joseph Abramson",
+                "Abramson"
+              ],
+              "input_4": [
+                "Louis Jackson",
+                "Louis"
+              ],
+              "input_5": [
+                "Marley Cruise",
+                "Marley",
+                "Cruise"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": false,
+              "input_2": true,
+              "input_3": false,
+              "input_4": true,
+              "input_5": false
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 276920,
+            "challenge_id": 29470
+          },
+          "276921": {
+            "total_question": 6,
+            "total_correct_result_answer": 4,
+            "user_answer": {
+              "input_0": "Jackson",
+              "input_1": "6913839",
+              "input_3": "83918264",
+              "input_4": "Brian Kennedy",
+              "input_5": "2718914",
+              "input_2": "Nancy"
+            },
+            "correct_answer": {
+              "input_0": [
+                "Bob Jackson"
+              ],
+              "input_1": [
+                "6913839"
+              ],
+              "input_2": [
+                "Nancy"
+              ],
+              "input_3": [
+                "3918246"
+              ],
+              "input_4": [
+                "Brian Kennedy"
+              ],
+              "input_5": [
+                "2718914"
+              ]
+            },
+            "result_answer": {
+              "input_0": false,
+              "input_1": true,
+              "input_2": true,
+              "input_3": false,
+              "input_4": true,
+              "input_5": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 276921,
+            "challenge_id": 29470
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 79593,
+          "content": "<p><span style=\"box-sizing: border-box; font-size: 16pt; font-family: Nunito-ExtraBold; background-color: #ba372a; color: #ffffff;\"> <strong>I. PRONUNCIATION </strong></span><strong><span style=\"color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"> </span></strong></p>\n<p><span style=\"box-sizing: border-box; font-size: 12pt; background-color: #ffffff; font-family: Nunito-ExtraBold;\"><span style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box; font-style: normal;\">Exercise 1.</strong></span></span></p>\n<p><span style=\"box-sizing: border-box; font-size: 12pt; background-color: #ffffff; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box; font-style: normal;\">Task 1. Write these words.</strong><em><span style=\"box-sizing: border-box;\">(Viết từ.)</span></em></span></span></p>\n<p><span style=\"box-sizing: border-box; font-size: 12pt; background-color: #ffffff; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box;\"><strong><span style=\"box-sizing: border-box;\"><span style=\"font-family: Nunito-Regular;\">Task 2. </span></span></strong></span></span><strong><span style=\"font-family: Nunito-Regular;\">Then, </span></strong><strong><span style=\"font-family: Nunito-Regular;\">based on the given meaning in Vietnamese in the table below, </span></strong><strong><span style=\"font-family: Nunito-Regular;\">fill in the blank with the phrases written from task 1. </span></strong><span style=\"font-family: Nunito-Regular;\"><em>(Sau đó, </em></span><em style=\"font-family: Nunito-Regular;\">dựa vào nghĩa tiếng Việt được cho sẵn ở bảng bên dưới, </em><em style=\"font-family: Nunito-Regular;\">điền vào khoảng trống với những cụm từ đã viết từ bài tập 1.)</em></p>\n<p><span style=\"box-sizing: border-box; font-size: 12pt; background-color: #ffffff; font-family: Nunito-ExtraBold;\"><span style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box; font-style: normal;\">Exercise 2.</strong></span></span></p>\n<p><span style=\"box-sizing: border-box; font-size: 12pt; background-color: #ffffff; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box; font-style: normal;\">Fill in the blanks using the correct phrase from Exercise 1. </strong><em><span style=\"box-sizing: border-box;\">(Điền vào khoảng trống với cụm từ đúng từ bài tập 1.)</span></em></span></span></p>\n<p> </p>\n<p><span style=\"box-sizing: border-box; font-size: 12pt; background-color: #ffffff; color: #000000; font-family: Nunito-Regular;\"><em style=\"box-sizing: border-box;\"><span style=\"color: #ffffff; font-family: Nunito-ExtraBold; font-style: normal; box-sizing: border-box; font-size: 16pt; background-color: #ba372a;\"> <strong>II.</strong> <strong>LISTENING </strong></span><strong><span style=\"color: #242938; font-family: Nunito-Regular; font-style: normal;\"> </span></strong><span style=\"font-style: normal;\"><span style=\"color: #ba372a; font-family: Nunito-SemiBold;\">Names and Titles</span></span></em></span></p>\n<p><span style=\"box-sizing: border-box; font-size: 12pt; background-color: #ffffff; font-family: Nunito-ExtraBold;\"><span style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box; font-style: normal;\"><span style=\"box-sizing: border-box;\">Exercise 1. </span></strong></span></span></p>\n<p><span style=\"font-family: Nunito-Regular;\"><strong>What is the name of the caller? Fill the correct names in the blanks. </strong></span><span style=\"box-sizing: border-box; font-size: 12pt; background-color: #ffffff; font-family: Nunito-Regular;\"><em style=\"box-sizing: border-box;\"><em style=\"box-sizing: border-box;\">(Tên của người gọi đến là gì? Điền tên đúng vào khoảng trống)</em></em></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">SPELLING NAMES: </span></p>\n<ul>\n<li dir=\"ltr\" style=\"line-height: 1.2;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">first name:  </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">tên </span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.2;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">last name: </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">họ</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.2;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">When you want to know how to write somebody's name, you ask: </span><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">How do you spell your name? </span></li>\n</ul>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: #ffffff; font-family: Nunito-Regular;\"><em style=\"box-sizing: border-box;\"><em style=\"box-sizing: border-box;\"><strong id=\"docs-internal-guid-bc87ca85-7fff-56d0-a2b9-d16fc0b4a1c4\" style=\"font-weight: normal;\"></strong></em></em></span><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">NOTE: </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">chú ý các chữ cái hay nhầm lẫn với nhau: </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; white-space-collapse: preserve; text-align: center;\">i - e </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">g - j </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a - r </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">m - n </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">b - d</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">p - q</span></p>\n<p> </p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        },
+        {
+          "id": 79594,
+          "content": null,
+          "index": 1,
+          "type": "audio",
+          "audio_url": "https://api-quiz-maker.langgo.vn/storage/audio/1708654469.mp3",
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 79595,
+          "content": "<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-family: Nunito-ExtraBold; font-size: 12pt; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">Exercise 2.</strong></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"font-size: 12pt;\"><span style=\"font-family: Nunito-Regular;\"><strong>What is his/her name? What is his/her phone number? </strong></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-family: Nunito-Regular; border-radius: 0px !important; font-size: 12pt;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><em style=\"box-sizing: border-box;\">(Tên của anh ấy/cô ấy là gì? Số điện thoại của anh ấy/cô ấy là gì?)</em></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"font-size: 12pt;\"><strong><span style=\"font-family: Nunito-Regular;\"><em>SPELLING NUMBERS: </em></span></strong></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"font-size: 12pt;\"><span style=\"font-family: Nunito-Regular;\"><em><strong>NOTE: </strong></em></span></span></p>\n<ul>\n<li style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff;\"><span style=\"font-family: Nunito-Regular;\"><em>'<span style=\"font-size: 12pt;\">0' can be spelled 'oh' or 'zero, but 'oh' is more common (số '0' có thể được đọc là 'oh' hoặc 'zero' khi đánh vần, nhưng thường được đọc là 'oh nhiều hơn.) </span></em></span></li>\n<li style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff;\"><span style=\"font-size: 12pt;\"><span style=\"font-family: Nunito-Regular;\"><em>When the same numbers appear together. (khi có cùng 1 số xuất hiện liên tiếp): </em></span></span>\n<ul>\n<li style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff;\"><span style=\"font-size: 12pt;\"><em style=\"font-family: Nunito-Regular;\">33 = double 3 </em></span></li>\n<li style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff;\"><span style=\"font-size: 12pt;\"><em style=\"font-family: Nunito-Regular;\">777 = triple 7 </em></span></li>\n</ul>\n</li>\n</ul>",
+          "index": 2,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 79596,
+          "content": null,
+          "index": 3,
+          "type": "audio",
+          "audio_url": "https://api-quiz-maker.langgo.vn/storage/audio/1717988408.mp3",
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 79597,
+          "content": "<p> </p>\n<p> </p>\n<p> </p>",
+          "index": 4,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 29470,
+          "id": 276916,
+          "name": null,
+          "title": "I. Pronunciation",
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span style=\"box-sizing: border-box; font-size: 12pt; background-color: #ffffff; font-family: Nunito-ExtraBold;\"><span style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box; font-style: normal;\">Exercise 1.</strong></span></span></p>\n<p><span style=\"box-sizing: border-box; font-size: 12pt; background-color: #ffffff; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box; font-style: normal;\">Task 1. Write these words. </strong><em><span style=\"box-sizing: border-box;\">(Viết từ.)</span></em></span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 67069,
+              "content": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 12pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 12pt;\"><span id=\"docs-internal-guid-3844112b-7fff-0dfd-ee73-2b4c1eb90d95\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 451.27559055118115pt;\"><colgroup><col /><col /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11.5pt; font-family: Arial,sans-serif; color: #373737; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">seɪ ɡʊdˈbai</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_0]</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">ˈəʊpᵊn ðə dɔː</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">weɪk ʌp</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_2]</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">ɡəʊ tuː wɜːk</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_3] </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11.5pt; font-family: Arial,sans-serif; color: #373737; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">hæv ə bɑːθ</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_4] </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11.5pt; font-family: Arial,sans-serif; color: #373737; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">teɪk ə ˈfəʊtəʊ</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_5] </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11.5pt; font-family: Arial,sans-serif; color: #373737; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">ɡəʊ tuː ðə ˈsɪnəmə</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_6] </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11.5pt; font-family: Arial,sans-serif; color: #373737; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">meɪk ˈdɪnə</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_7] </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11.5pt; font-family: Arial,sans-serif; color: #373737; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">wɒʃ kləʊðz</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_8]</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11.5pt; font-family: Arial,sans-serif; color: #373737; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">wɒʧ ˌtiːˈviː</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_9] </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11.5pt; font-family: Arial,sans-serif; color: #373737; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">ɡɛt sɪk</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_10]</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11.5pt; font-family: Arial,sans-serif; color: #373737; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">hæv ˈbrɛkfəst</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_11] </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11.5pt; font-family: Arial,sans-serif; color: #373737; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">fəʊn ə frɛnd</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_12] </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11.5pt; font-family: Arial,sans-serif; color: #373737; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">meɪk ə mɪˈsteɪk</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_13]</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11.5pt; font-family: Arial,sans-serif; color: #373737; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">draɪv ə kɑː</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_14]</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11.5pt; font-family: Arial,sans-serif; color: #373737; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">meɪk nɔɪz</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_15] </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11.5pt; font-family: Arial,sans-serif; color: #373737; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">kliːn ðə haʊs</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_16]</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11.5pt; font-family: Arial,sans-serif; color: #373737; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">teɪk ə breɪk</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_17] </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11.5pt; font-family: Arial,sans-serif; color: #373737; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">ɡəʊ ˈswɪmɪŋ</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_18]</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11.5pt; font-family: Arial,sans-serif; color: #373737; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">teɪk ðə bʌs</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_19] </span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><span id=\"docs-internal-guid-7df93b05-7fff-2c9f-002c-4b766a974930\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\"> </div>"
+            }
+          }
+        },
+        {
+          "challenge_id": 29470,
+          "id": 276917,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": "<p>&nbsp;</p>\n<p><strong><span style=\"font-family: Nunito-Regular;\">Task 2. </span></strong><strong><span style=\"font-family: Nunito-Regular;\">Then,&nbsp;</span></strong><strong><span style=\"font-family: Nunito-Regular;\">based on the given meaning in Vietnamese in the table below, </span></strong><strong><span style=\"font-family: Nunito-Regular;\">fill in the blank with the phrases written from task 1.&nbsp;</span></strong><span id=\"docs-internal-guid-90944df8-7fff-1dad-5f99-84de875b9be3\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Sau đ&oacute;, nối c&aacute;c từ trong b&agrave;i vừa t&igrave;m được với nghĩa đ&uacute;ng của từ)</span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 67070,
+              "content": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"> </p>\n<p><span id=\"docs-internal-guid-2873d6ae-7fff-f026-3c68-82a2a95f42f0\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 451.27559055118115pt;\"><colgroup><col /><col /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> [input_0]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">bị ốm</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">xem TV </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_2] </span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">lái xe </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_3]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">phạm sai lầm </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_4] </span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">đi xe buýt </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_5] </span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">nghỉ ngơi</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> [input_6] </span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">đi tắm </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_7] </span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">mở cửa</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_8]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">chào tạm biệt</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_9]  </span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">giặt quần áo </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_10] </span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> đi làm </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_11] </span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">tỉnh dậy</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_12] </span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">nấu bữa tối </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_13]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">đi bơi </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_14] </span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">gây tiếng ồn </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_15] </span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">dọn nhà </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_16]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">gọi điện thoại cho bạn</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_17]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">ăn sáng </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_18]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">chụp ảnh </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_19]</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">đi xem phim </span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>"
+            }
+          }
+        },
+        {
+          "challenge_id": 29470,
+          "id": 276918,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": "<p><strong>1, I [take a photo] of my friends with my new camera.</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Để chụp ảnh bạn bè bằng máy ảnh mới, bạn sẽ <strong>chụp một bức ảnh (take a photo)</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi <strong>chụp một bức ảnh</strong> bạn bè của mình bằng chiếc máy ảnh mới.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>2. They use the washing machine to [wash clothes].</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Máy giặt được dùng để <strong>giặt quần áo (wash clothes)</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Họ dùng máy giặt để <strong>giặt quần áo</strong>.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>3. I [watch TV] on Monday evenings, because it has my favorite series.</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Để xem chương trình yêu thích trên tivi, bạn sẽ <strong>xem TV (watch TV)</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi <strong>xem TV</strong> vào tối thứ Hai, vì có bộ phim yêu thích của tôi.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>4. My mom usually [makes dinner] for us, but today we went to the restaurant.</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Mẹ thường <strong>nấu bữa tối (make dinner)</strong> cho gia đình.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Mẹ tôi thường <strong>nấu bữa tối</strong> cho chúng tôi, nhưng hôm nay chúng tôi đã đi nhà hàng.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>5. He [goes to work] by motorbike, but he has to [take the bus] today. He doesn’t know how to [drive a car], so he can’t go by car.</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Để nói về việc đi làm, chúng ta dùng <strong>goes to work</strong>. Khi dùng phương tiện công cộng như xe buýt, ta dùng <strong>take the bus</strong>. Để nói về việc lái ô tô, ta dùng <strong>drive a car</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Anh ấy <strong>đi làm</strong> bằng xe máy, nhưng hôm nay anh ấy phải <strong>đi xe buýt</strong>. Anh ấy không biết <strong>lái ô tô</strong>, vì vậy anh ấy không thể đi bằng ô tô.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>6. How do you [say goodbye] in Vietnamese? “Tạm biệt!”</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Để hỏi cách nói lời tạm biệt, bạn dùng cụm <strong>say goodbye</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Bạn <strong>nói lời tạm biệt</strong> trong tiếng Việt như thế nào? “Tạm biệt!”</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>7. She rarely [goes to the cinema], because she doesn’t like movies.</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi một người không thích phim, họ sẽ ít khi <strong>đi xem phim (go to the cinema)</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Cô ấy hiếm khi <strong>đi xem phim</strong>, vì cô ấy không thích phim.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>8. I can’t get in! [Open the door]!</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi không thể vào được, bạn cần ai đó <strong>mở cửa (open the door)</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi không vào được! <strong>Mở cửa</strong> đi!</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>9. He always [wakes up] late, so he goes to school late, and he can’t [have breakfast].</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Để nói về việc thức dậy, ta dùng <strong>wake up</strong>. Khi không có thời gian ăn bữa sáng, bạn sẽ <strong>không ăn sáng (can’t have breakfast)</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Anh ấy luôn <strong>thức dậy</strong> muộn, nên anh ấy đi học muộn, và anh ấy không thể <strong>ăn sáng</strong>.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>10. In the summer, it’s hot, so I usually [go swimming] at the swimming pool, and then I [have a bath].</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Vào mùa hè trời nóng, bạn thường <strong>đi bơi (go swimming)</strong> ở hồ bơi, sau đó <strong>tắm bồn (have a bath)</strong> để làm sạch cơ thể.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Vào mùa hè, trời nóng, vì vậy tôi thường <strong>đi bơi</strong> ở hồ bơi, và sau đó tôi <strong>tắm bồn</strong>.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>11. Don’t [make noise] in the library. You have to keep quiet there.</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Trong thư viện, bạn phải giữ im lặng, tức là <strong>không làm ồn (don't make noise)</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Đừng <strong>gây ồn</strong> trong thư viện. Bạn phải giữ im lặng ở đó.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>12. My friend [gets sick] easily.</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Để diễn tả việc bị ốm hoặc trở nên ốm, ta dùng cụm <strong>get sick</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Bạn tôi <strong>dễ bị ốm</strong>.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>13. I usually [phone a friend] to tell her about my day.</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Để kể chuyện về một ngày của mình, bạn thường <strong>gọi điện cho một người bạn (phone a friend)</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi thường <strong>gọi điện cho một người bạn</strong> để kể cho cô ấy nghe về ngày của tôi.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>14. I’m tired, let’s [take a break]!</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi cảm thấy mệt mỏi, bạn cần <strong>nghỉ ngơi (take a break)</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Tôi mệt rồi, chúng ta hãy <strong>nghỉ giải lao</strong> đi!</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>15. She [makes a mistake] in her exam, so she doesn’t get full marks.</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi không đạt được điểm tối đa trong bài kiểm tra, điều đó có nghĩa là cô ấy đã <strong>mắc lỗi (make a mistake)</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Cô ấy <strong>mắc lỗi</strong> trong bài kiểm tra, nên cô ấy không được điểm tối đa.</em></p>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>16. We usually [clean the house], so it is really neat.</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<p><strong>Giải thích:</strong> Khi ngôi nhà gọn gàng, điều đó có nghĩa là bạn thường xuyên <strong>dọn dẹp nhà cửa (clean the house)</strong>.</p>\n</li>\n<li>\n<p><em><strong>Dịch nghĩa:</strong> Chúng tôi thường <strong>dọn dẹp nhà cửa</strong>, vì vậy nó rất gọn gàng.</em></p>\n</li>\n</ul>\n</li>\n</ul>",
+          "introduction": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><strong><span style=\"font-family: Nunito-ExtraBold; font-size: 16px; white-space-collapse: preserve;\">Exercise 2</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Fill in the blanks using the correct word from Ex.1</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span id=\"docs-internal-guid-ccb0ab5a-7fff-7763-bc78-845eda1e7c0a\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Note: đối với các chủ ngữ số ít (vd: he/she/it…) có thì hiện tại đơn, ta cần chú ý chia động từ V+s/es. </span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 67071,
+              "content": "<ol>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_0]</span> </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">of my friends with my new camera. </span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">They use the washing machine to <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span>.</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_2]</span> </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">on Monday evenings , because it has my favorite series. </span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">My mom usually <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_3]</span> </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">for us, but today we went to the restaurant. </span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">He <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_4]</span> </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">by motorbike, but he has to <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_5]</span></span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> today.  He doesn't know how to <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_6]</span></span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, so he can't go by car. </span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">How do you <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_7]</span> </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">in Vietnamese? \"Tạm biệt!\"</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">She rarely <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_8]</span></span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, because she doesn't like movies. </span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I can't get in </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(vào được)</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">! <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_9]</span></span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">!</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">He always <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_10]</span></span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> late, so he goes to school late, and he can't <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_11]</span></span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">.  </span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In the summer, it's hot, so I usually <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_12]</span> </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">at the swimming pool, and then I <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_13]</span>. </span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Don't <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_14]</span> </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">in the library. You have to keep quiet </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(giữ im lặng) </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">there. </span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> My friend <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_15]</span></span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> easily. </span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I usually <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_16]</span></span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> to tell her about my day.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I'm tired, let's <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_17]</span></span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">! </span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> She <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_18]</span> </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">in her exam, so she doesn't get full marks. </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(không được điểm tối đa)</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">We usually</span><span style=\"font-size: 12pt; color: #ff0000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"> [input_19]</span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">, so it is really neat (</span><span style=\"font-size: 12pt; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">gọn gàng</span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">)</span></span></li>\n</ol>"
+            }
+          }
+        },
+        {
+          "challenge_id": 29470,
+          "id": 276919,
+          "name": null,
+          "title": "II. Listening",
+          "content": null,
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": null,
+          "answer": null
+        },
+        {
+          "challenge_id": 29470,
+          "id": 276920,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span style=\"box-sizing: border-box; font-size: 12pt; background-color: #ffffff; font-family: Nunito-ExtraBold;\"><span style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box; font-style: normal;\">Exercise 1.</strong></span></span></p>\n<p><span style=\"font-family: Nunito-Regular;\"><strong style=\"font-family: Nunito-Regular;\">What is the name of the caller? </strong><span style=\"font-family: Nunito-Regular;\"><strong>Write down your answer.</strong></span><strong style=\"font-family: Nunito-Regular;\"> </strong></span><span style=\"box-sizing: border-box; font-size: 12pt; background-color: #ffffff; font-family: Nunito-Regular;\"><em style=\"box-sizing: border-box;\">(T&ecirc;n của người gọi đến l&agrave; g&igrave;? Viết c&acirc;u trả lời đ&uacute;ng.)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 67072,
+              "content": "<ol>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">NAME:</span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> [input_0]</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">NAME: <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span></span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">NAME:</span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> [input_2]</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">NAME:</span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> [input_3]</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">NAME:</span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> [input_4] </span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff;\" role=\"presentation\"><span id=\"docs-internal-guid-6991d5c6-7fff-9bd8-a904-b77d97285e4e\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">NAME:</span><span style=\"font-size: 12pt; color: #ff0000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> [input_5]</span></span></li>\n</ol>"
+            }
+          }
+        },
+        {
+          "challenge_id": 29470,
+          "id": 276921,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": "<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"font-family: Nunito-ExtraBold; font-size: 12pt;\"><strong>Exercise 2. </strong></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-size: 12pt; font-weight: bold; white-space-collapse: preserve;\">What's his/her name? What is his/her phone number? </span><em>(T&ecirc;n người gọi đến l&agrave; g&igrave;? Số điện thoại của anh/c&ocirc; ấy l&agrave; g&igrave;?)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 67073,
+              "content": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>1.</strong> Name:</span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> [input_0]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> Telephone number: <span style=\"color: #ff0000;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span></span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>2.</strong> Name: [input_2]</span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> Telephone number: <span style=\"color: #ff0000;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_3]</span></span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>3.</strong> Name: <span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_4]</span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><span style=\"white-space-collapse: preserve;\"> Telephone number:</span> <span style=\"color: #ff0000;\">[input_5]</span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\" role=\"presentation\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\" role=\"presentation\"> </p>"
+            }
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

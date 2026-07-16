@@ -1,0 +1,468 @@
+{
+  "listItem": {
+    "id": "82860",
+    "challenge_id": 31675,
+    "class_id": "177286917873dop75b27mv",
+    "day": 11,
+    "deadline": "2026-07-05 12:30:00",
+    "challenge_title": "[PRE IELTS] LESSON 11 - CHALLENGE 1",
+    "challenge_note": "Grammar (Prepositions) | Vocabulary (Describing positions) | Speaking (House, room)",
+    "challenge_status": 1,
+    "challenge_band": "161433861829325240c1g7",
+    "total_question": 29,
+    "classification": "dc",
+    "student_challenge": {
+      "id": 568822,
+      "class_challenge_id": 82860,
+      "class_id": "177286917873dop75b27mv",
+      "challenge_id": 31675,
+      "cts_id": "1780455880vwydc1i2ehir",
+      "rate": 1,
+      "comment": "<p>Hi Khánh, bài này em làm tốt nhé. Em check chỉnh sửa của cô trong doc nha.</p>",
+      "url": null,
+      "redo_comment": null,
+      "cancel_comment": null,
+      "date_redo": null,
+      "status_mark": "graded",
+      "status_mark_date": "2026-07-05 16:54:35",
+      "flag_overdue": 0,
+      "flag_not_star": 0,
+      "flag_not_submit": 0,
+      "flag_late_redo": 0,
+      "flag_late_submit": 0,
+      "flag_status_mark": 0,
+      "updated_by": "1779875378vawpfok6ii4u",
+      "updated": "2026-07-05 16:54:35",
+      "created_by": "1779875378vawpfok6ii4u",
+      "created": "2026-07-04 22:39:18",
+      "correct_answer": 29,
+      "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+      "submitted_at": "2026-07-04 22:39:18",
+      "re_submitted_at": null,
+      "answers": [],
+      "tab_switch_count": 0
+    }
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "82860",
+        "challenge_id": 31675,
+        "class_id": "177286917873dop75b27mv",
+        "day": 11,
+        "deadline": "2026-07-05 12:30:00",
+        "flag_status_mark": 1,
+        "flag_not_submit": 1,
+        "created": "2026-07-02 18:11:32",
+        "created_by": null,
+        "challenge": {
+          "id": "31675",
+          "title": "[PRE IELTS] LESSON 11 - CHALLENGE 1",
+          "note": "Grammar (Prepositions) | Vocabulary (Describing positions) | Speaking (House, room)",
+          "day": "23",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "161433861829325240c1g7",
+          "created": "2026-07-02 18:11:28",
+          "updated": null,
+          "created_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+          "updated_by": null,
+          "total_question": 29,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 8072
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 568822,
+        "class_challenge_id": 82860,
+        "class_id": "177286917873dop75b27mv",
+        "challenge_id": 31675,
+        "cts_id": "1780455880vwydc1i2ehir",
+        "rate": 1,
+        "comment": "<p>Hi Khánh, bài này em làm tốt nhé. Em check chỉnh sửa của cô trong doc nha.</p>",
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": "graded",
+        "status_mark_date": "2026-07-05 16:54:35",
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": "1779875378vawpfok6ii4u",
+        "updated": "2026-07-05 16:54:35",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-07-04 22:39:18",
+        "correct_answer": 29,
+        "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+        "submitted_at": "2026-07-04 22:39:18",
+        "re_submitted_at": null,
+        "answers": {
+          "301007": {
+            "total_question": 8,
+            "total_correct_result_answer": 8,
+            "user_answer": {
+              "input_0": "on",
+              "input_1": "on",
+              "input_2": "in",
+              "input_4": "in",
+              "input_3": "in",
+              "input_5": "on",
+              "input_6": "at",
+              "input_7": "on"
+            },
+            "correct_answer": {
+              "input_0": [
+                "on"
+              ],
+              "input_1": [
+                "on"
+              ],
+              "input_2": [
+                "in"
+              ],
+              "input_3": [
+                "in"
+              ],
+              "input_4": [
+                "in"
+              ],
+              "input_5": [
+                "on"
+              ],
+              "input_6": [
+                "at"
+              ],
+              "input_7": [
+                "on"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 301007,
+            "challenge_id": 31675
+          },
+          "301008": {
+            "total_question": 5,
+            "total_correct_result_answer": 5,
+            "user_answer": {
+              "input_0": "on",
+              "input_1": "in",
+              "input_2": "next to",
+              "input_3": "against",
+              "input_4": "opposite"
+            },
+            "correct_answer": {
+              "input_0": [
+                "on"
+              ],
+              "input_1": [
+                "in"
+              ],
+              "input_2": [
+                "next to"
+              ],
+              "input_3": [
+                "against"
+              ],
+              "input_4": [
+                "across from",
+                "opposite"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 301008,
+            "challenge_id": 31675
+          },
+          "301009": {
+            "total_question": 8,
+            "total_correct_result_answer": 8,
+            "user_answer": {
+              "input_0": "in",
+              "input_1": "between",
+              "input_2": "above",
+              "input_3": "on",
+              "input_4": "on",
+              "input_5": "in",
+              "input_6": "on",
+              "input_7": "on"
+            },
+            "correct_answer": {
+              "input_0": [
+                "in"
+              ],
+              "input_1": [
+                "between"
+              ],
+              "input_2": [
+                "above"
+              ],
+              "input_3": [
+                "on"
+              ],
+              "input_4": [
+                "on"
+              ],
+              "input_5": [
+                "in"
+              ],
+              "input_6": [
+                "on"
+              ],
+              "input_7": [
+                "on"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 301009,
+            "challenge_id": 31675
+          },
+          "301010": {
+            "total_question": 7,
+            "total_correct_result_answer": 7,
+            "user_answer": {
+              "input_0": "The clock is on the wall.",
+              "input_1": "The table is under the window",
+              "input_2": "The computer is on the table.",
+              "input_3": "The teddy bear is on the chest of drawers.",
+              "input_4": "The book is on the bed",
+              "input_5": "The stool is under the table.",
+              "input_6": "The guitar is between the chest of drawers and the bed."
+            },
+            "correct_answer": {
+              "input_0": [
+                "The clock is on the wall."
+              ],
+              "input_1": [
+                "The table is under the window."
+              ],
+              "input_2": [
+                "The computer is on the table."
+              ],
+              "input_3": [
+                "The teddy bear is on the chest of drawers."
+              ],
+              "input_4": [
+                "The book is on the bed."
+              ],
+              "input_5": [
+                "The stool is under the table."
+              ],
+              "input_6": [
+                "The guitar is between the bed and the chest of drawers.",
+                " The guitar is between the chest of drawers and the bed."
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 301010,
+            "challenge_id": 31675
+          },
+          "301011": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "https://docs.google.com/document/d/1G00jE6-TXvDyIh6mY2HDsBXHAY9yyHk7wJLWw2tODxQ/edit?usp=sharing",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 301011,
+            "challenge_id": 31675
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "1783179869fe048c3ntbj2",
+        "class_challenge_id": 82860,
+        "contact_id": "1779875378vawpfok6ii4u",
+        "highlight": "[{\"id\": \"1783179869egg92oc99atc\", \"text\": \"I'd put it on an end table \", \"endOffset\": 630, \"startOffset\": 603, \"endContainer\": \"div.question-item.question-301008\", \"startContainer\": \"div.question-item.question-301008\"}, {\"id\": \"1783179869egg92oc99atc\", \"text\": \" \", \"endOffset\": 631, \"startOffset\": 630, \"endContainer\": \"div.question-item.question-301008\", \"startContainer\": \"div.question-item.question-301008\"}, {\"id\": \"1783179869egg92oc99atc\", \"text\": \"in\", \"endOffset\": 633, \"startOffset\": 631, \"endContainer\": \"div.question-item.question-301008\", \"startContainer\": \"div.question-item.question-301008\"}, {\"id\": \"1783179869egg92oc99atc\", \"text\": \" \", \"endOffset\": 634, \"startOffset\": 633, \"endContainer\": \"div.question-item.question-301008\", \"startContainer\": \"div.question-item.question-301008\"}, {\"id\": \"1783179869egg92oc99atc\", \"text\": \" the corner \", \"endOffset\": 646, \"startOffset\": 634, \"endContainer\": \"div.question-item.question-301008\", \"startContainer\": \"div.question-item.question-301008\"}, {\"id\": \"1783179869egg92oc99atc\", \"text\": \" \", \"endOffset\": 647, \"startOffset\": 646, \"endContainer\": \"div.question-item.question-301008\", \"startContainer\": \"div.question-item.question-301008\"}, {\"id\": \"1783179869egg92oc99atc\", \"text\": \"on\", \"endOffset\": 649, \"startOffset\": 647, \"endContainer\": \"div.question-item.question-301008\", \"startContainer\": \"div.question-item.question-301008\"}, {\"id\": \"1783179869egg92oc99atc\", \"text\": \" \", \"endOffset\": 650, \"startOffset\": 649, \"endContainer\": \"div.question-item.question-301008\", \"startContainer\": \"div.question-item.question-301008\"}, {\"id\": \"1783179869egg92oc99atc\", \"text\": \" the sofa. It will look nice there.\", \"endOffset\": 685, \"startOffset\": 650, \"endContainer\": \"div.question-item.question-301008\", \"startContainer\": \"div.question-item.question-301008\"}]",
+        "note": null,
+        "created_at": "2026-07-04T15:44:29.000000Z",
+        "updated_at": null
+      },
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 85507,
+          "content": "<p><span style=\"font-size: 16pt; background-color: #ba372a; color: #ffffff; font-family: Nunito-ExtraBold;\"><strong> I. GRAMMAR: PREPOSITIONS </strong></span></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><strong>Exercise 1. Complete the sentences with <em>in</em>, <em>at</em> or <em>on</em>.</strong><em> (Hoàn thành các câu sau với in, at hoặc on)</em></span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Exercise 2. Use the suitable prepositions to complete the following dialogues based on the given pictures.</strong><em> (Sử dụng giới từ thích hợp để hoàn thiện các đoạn hội thoại tương ứng với tranh)</em></span></p>\n<p dir=\"ltr\"> </p>\n<p dir=\"ltr\"><strong><span style=\"font-size: 14px;\"><span style=\"font-family: 'Times New Roman', Times, serif;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">1.</span></span></span></strong></p>\n<p dir=\"ltr\" style=\"text-align: center;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Times New Roman,Times,serif;\"> <img src=\"https://api-quiz-maker.langgo.vn/storage/images/1711769249.png\" alt=\"\" width=\"345\" height=\"286\" /></span></span></p>\n<p dir=\"ltr\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">2.</span></strong></p>\n<p dir=\"ltr\" style=\"text-align: center;\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1711769263.png\" alt=\"\" width=\"380\" height=\"280\" /></p>\n<p dir=\"ltr\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">3.</span></strong></p>\n<p dir=\"ltr\" style=\"text-align: center;\"><img src=\"https://api-quiz-maker.langgo.vn/storage/images/1711769275.png\" alt=\"\" width=\"386\" height=\"237\" /></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">​</span></p>\n<p> </p>\n<p><strong><span style=\"font-size: 16pt; background-color: #ba372a; color: #ffffff; font-family: Nunito-ExtraBold;\"> II. VOCABULARY </span></strong></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong style=\"box-sizing: border-box; background-color: #ffffff;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Exercise 1. Fill in the blanks with suitable prepositions from the table below to describe the positions of the objects in the given picture. You can use any prepositions more than once. </span></span></strong><em><span style=\"box-sizing: border-box; background-color: #ffffff;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">(Điền vào ô trống những giới từ phù hợp từ bảng bên dưới để miêu tả vị trí của các đồ vật trong ảnh đã cho. Bạn có thể dùng bất cứ giới từ nào nhiều hơn một lần.)</span></span></span></em></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span id=\"docs-internal-guid-045b3ccd-7fff-da26-b71a-5bb528156e26\"><span style=\"font-size: 12pt; font-family: Nunito, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"border: none; display: inline-block; overflow: hidden; width: 602px; height: 301px;\"><img style=\"margin-left: 0px; margin-top: 0px;\" src=\"https://lh7-us.googleusercontent.com/TjWjoJqzGmjX3WLlq2P3Q7NuDmu0OXIFPADOSsKRH0SdKu5ZVnSuhKTIebcRb_l1HVyTL3pNDmXeXJo7_HbWx--7dIEZfpXVc_ng106Uy-NL0293DQ3Mp-Wu6WbGNxWyGVbDvehc0dvs2_OENifSEZk\" width=\"602\" height=\"301\" /></span></span></span></span></p>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span id=\"docs-internal-guid-092e6f98-7fff-8eb5-d672-0880c2920d45\"></span></span></p>\n<p> </p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 2. Make a complete sentence by rearranging the words given to describe the position of the objects in the picture below. </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Tạo một câu hoàn chỉnh bằng cách sắp xếp lại các từ cho sẵn để miêu tả vị trí các đồ vật trong hình bên dưới.)</span></span></p>\n<p><span id=\"docs-internal-guid-bb24e6ba-7fff-57d6-5725-2c43b2dc0191\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"border: none; display: inline-block; overflow: hidden; width: 602px; height: 481px;\"><img style=\"margin-left: 0px; margin-top: 0px;\" src=\"https://lh7-us.googleusercontent.com/GBjJWdK_EZXZ1xJcvQ8WLSwdBkiEBBadoT9AsDbDm9WrFgwJoeIGE53rW9x4EEUZUvDRnXyH7JBOCYdTpzdDquYY-2wUyBzSuKj9tusk1GgUEkW1tUKJaPPeDN42q6l9SIE_zK5gPH0p7ti1Gew5I90\" width=\"602\" height=\"481\" /></span></span></p>\n</div>\n<p><span style=\"font-size: 16pt; background-color: #ba372a; color: #ffffff; font-family: Nunito-ExtraBold;\"> <strong>III. SPEAKING</strong> </span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">Chuẩn bị câu trả lời cho các câu sau, sử dụng các từ vựng, cấu trúc, câu học được phía trên và từ bài Grammar & Vocabulary.</strong></span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">Xem thêm trong phần Gợi ý trả lời:</strong> <strong style=\"box-sizing: border-box;\"><a style=\"box-sizing: border-box; background-color: transparent; color: #0d638f; text-decoration-line: none; outline: 0px; border-radius: 0px !important; text-shadow: none !important;\" href=\"https://docs.google.com/document/d/1VaO2mVuRNhZJTXlvo_vrgrn3JuliBeu-/edit?usp=sharing&ouid=116087920410815633677&rtpof=true&sd=true\">Gợi ý</a></strong></span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong>a.</strong> What is your house like</span></span><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">?/ </span></span><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">How many rooms are there in your house?/ </span></span><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Do you live in a big house?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong>b.</strong> What is your favorite room in your house? Why?</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong>c.</strong> Can you describe your bedroom/</span></span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"> living room/ </span><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">your kitchen?</span></span></p>\n<p><strong>Viết câu trả lời đầy đủ cho từng câu hỏi vào file google docs và nộp lại.</strong></p>\n<p><strong>GV feedback xong thì học thuộc lòng câu trả lời.</strong></p>\n<p><strong>Sau khi được GV hướng dẫn thêm trên lớp, HV tiếp tục hoàn thiện câu trả lời và luyện tập.</strong></p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 31675,
+          "id": 301007,
+          "name": null,
+          "title": "I. Grammar: Prepositions",
+          "content": null,
+          "explain": "<p><strong>2. There is a clock on the wall.</strong></p>\n<p><em>(Có một cái đồng hồ trên tường.)</em></p>\n<p><strong>3. There are two bedrooms and a bathroom on the second floor of my house.</strong></p>\n<p><em>(Có hai phòng ngủ và một phòng tắm ở trên tầng hai của nhà tôi.)</em></p>\n<p><strong>4. The chair is in front of the desk.</strong></p>\n<p><em>(Cái ghế ở phía trước bàn làm việc.)</em></p>\n<p><strong>5. I feel most comfortable in my bedroom, and I often relax in the armchair there.</strong></p>\n<p><em>(Tôi cảm thấy thoải mái nhất trong phòng ngủ của mình, và tôi thường thư giãn trong chiếc ghế bành ở đó.)</em></p>\n<p><strong>6. My kitchen is quite big. There are two windows on the wall, right above the sink.</strong></p>\n<p><em>(Phòng bếp của tôi khá lớn. Có hai cái cửa sổ trên tường, ngay phía trên bồn rửa bát.)</em></p>\n<p><strong>7. There is a toilet at the end of the hall.</strong></p>\n<p><em>(Có một nhà vệ sinh ở cuối hành lang.)</em></p>\n<p><strong>8. You can find some newspaper on the bookshelf.</strong></p>\n<p><em>(Bạn có thể tìm thấy vài tờ báo ở trên giá sách.)</em></p>",
+          "introduction": "<p><strong style=\"font-family: Nunito-Regular; font-size: 16px;\">Exercise 1. Complete the sentences with <em>in</em>, <em>at</em> or <em>on</em>. </strong><span style=\"font-family: Nunito-Regular; font-size: 16px;\"><em>(Hoàn thành các câu sau với in, at hoặc on)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 72678,
+              "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. There was a  bag of trash (</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">túi rác</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">) </span><span style=\"font-size: 12pt; color: #ba372a; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">at</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the corner of the room.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. There is a clock [input_0] the wall.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. There are two bedrooms and a bathroom <strong>[input_1]</strong> the second floor of my house.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. The chair is [input_2] front of the desk.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. I feel most comfortable <strong>[input_3]</strong> my bedroom, and I often relax <strong>[input_4]</strong> the armchair there.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. My kitchen is quite big. There are two windows <strong>[input_5]</strong> the wall, right above the sink.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. There is a toilet [input_6] the end of the hall.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. You can find some newspaper [input_7] the bookshelf.</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31675,
+          "id": 301008,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 6pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B&agrave;i tập 2 cần dựa theo vị tr&iacute; nh&acirc;n vật/đồ vật trong tranh v&agrave; điền từ c&oacute; nghĩa ph&ugrave; hợp.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">On&nbsp;</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Vị tr&iacute; bạn nữ trong tranh ngồi tr&ecirc;n một bề mặt (ghế) &rarr; I&rsquo;m eating my meal while sitting </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">on </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">the sofa. </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 300; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(T&ocirc;i đang ăn khi ngồi tr&ecirc;n sofa)</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In -</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Next to </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span class=\"Apple-tab-span\" style=\"white-space: pre;\"> </span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">X&aacute;c định vị tr&iacute; b&oacute; hoa trong tranh. Li&ecirc;n quan đến &lsquo;corner&rsquo; v&agrave; &lsquo;sofa&rsquo; th&igrave; c&oacute; thể hiểu l&agrave; hoa nằm trong g&oacute;c, b&ecirc;n cạnh ghế s&ocirc; pha &rarr; I&rsquo;d put it on an end table </span><span style=\"font-size: 12pt; color: #c00000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">in</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the corner </span><span style=\"font-size: 12pt; color: #c00000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">next to</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the sofa.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 300; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(T&ocirc;i đặt tr&ecirc;n b&agrave;n tr&agrave; trong g&oacute;c cạnh ghế s&ocirc; pha.)&nbsp;</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Against -</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Across from / opposite</span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span class=\"Apple-tab-span\" style=\"white-space: pre;\"> </span></span></span></p>\n<p><span id=\"docs-internal-guid-f1997831-7fff-0e07-10f0-b9c10983b740\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">X&aacute;c định vị tr&iacute; tủ s&aacute;ch trong tranh, li&ecirc;n quan đến &lsquo;wall&rsquo; v&agrave; &lsquo;bed&rsquo; th&igrave; c&oacute; thể hiểu l&agrave; tủ s&aacute;ch k&ecirc; s&aacute;t tường, đối diện c&aacute;i giường &rarr; Maybe we can put it </span><span style=\"font-size: 12pt; color: #c00000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">against</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the wall, </span><span style=\"font-size: 12pt; color: #c00000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">across from / opposite</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the bed. </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 300; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(C&oacute; lẽ ch&uacute;ng ta c&oacute; thể đặt n&oacute; s&aacute;t tường, đối diện c&aacute;i giường.)</span></span></p>",
+          "introduction": "<p><strong style=\"font-family: Nunito-Regular; font-size: 16px;\">Exercise 2. Use the suitable prepositions to complete the following dialogues based on the given pictures.</strong><em style=\"font-family: Nunito-Regular; font-size: 16px;\">&nbsp;(Sử dụng giới từ th&iacute;ch hợp để ho&agrave;n thiện c&aacute;c đoạn hội thoại tương ứng với tranh)</em></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 72679,
+              "content": "<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">1. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Haku: </strong>Chihiro, seriously? I thought you've bought a new dining table.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Chihiro:</strong> No, I haven't. The sales clerk said that they're having a big sale next week, so I'm waiting for that. For now, I'm eating my meals while sitting [input_0] the sofa.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Haku: </strong>You better clean up after that.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">2. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Peter: </strong>I brought you some flowers.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Michelle: </strong>Aw, how sweet. Thank you so much.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Peter: </strong>You're welcome. Where's the vase?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Michelle: </strong>I'd put it on an end table [input_1] the corner [input_2] the sofa. It will look nice there.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">3.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Flynn</strong>: Where is a good place for your new bookshelf?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Rapunzel</strong>: Maybe we can put it [input_3] the wall, [input_4] the bed.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Flynn</strong>: Yeah, that sounds good. There. How does it look?</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31675,
+          "id": 301009,
+          "name": null,
+          "title": "II. Vocabulary",
+          "content": "<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong style=\"box-sizing: border-box; background-color: #ffffff;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Exercise 1. Fill in the blanks with suitable prepositions from the table below to describe the positions of the objects in the given picture. You can use any prepositions more than once. </span></span></strong><em><span style=\"box-sizing: border-box; background-color: #ffffff;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">(Điền vào ô trống những giới từ phù hợp từ bảng bên dưới để miêu tả vị trí của các đồ vật trong ảnh đã cho. Bạn có thể dùng bất cứ giới từ nào nhiều hơn một lần.)</span></span></span></em></span></p>\n<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span id=\"docs-internal-guid-092e6f98-7fff-8eb5-d672-0880c2920d45\"></span></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 602px;\"><colgroup><col style=\"width: 120px;\" /><col style=\"width: 120px;\" /><col style=\"width: 120px;\" /><col style=\"width: 120px;\" /><col style=\"width: 120px;\" /></colgroup>\n<tbody>\n<tr style=\"height: 36pt;\">\n<td style=\"vertical-align: middle; padding: 2.1543307086614174pt 2.1543307086614174pt 2.1543307086614174pt 2.1543307086614174pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">in</span></p>\n</td>\n<td style=\"vertical-align: middle; padding: 2.1543307086614174pt 2.1543307086614174pt 2.1543307086614174pt 2.1543307086614174pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">on </span></p>\n</td>\n<td style=\"vertical-align: middle; padding: 2.1543307086614174pt 2.1543307086614174pt 2.1543307086614174pt 2.1543307086614174pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">above </span></p>\n</td>\n<td style=\"vertical-align: middle; padding: 2.1543307086614174pt 2.1543307086614174pt 2.1543307086614174pt 2.1543307086614174pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">opposite </span></p>\n</td>\n<td style=\"vertical-align: middle; padding: 2.1543307086614174pt 2.1543307086614174pt 2.1543307086614174pt 2.1543307086614174pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">between </span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>",
+          "explain": "<p data-path-to-node=\"2,0,0\"><strong data-path-to-node=\"2,0,0\" data-index-in-node=\"0\">1. The couch is in the middle of the room.</strong></p>\n<p data-path-to-node=\"2,0,1,0,0\"><strong data-path-to-node=\"2,0,1,0,0\" data-index-in-node=\"0\">Giải thích:</strong> Cụm từ cố định \"in the middle of\" dùng để chỉ vị trí ở chính giữa một không gian nào đó (ở đây là căn phòng).</p>\n<p data-path-to-node=\"2,0,1,1,0\"><em data-path-to-node=\"2,0,1,1,0\" data-index-in-node=\"0\"><strong>Dịch nghĩa:</strong> Chiếc ghế sa-lon nằm ở giữa căn phòng.</em></p>\n<p data-path-to-node=\"2,1,0\"> </p>\n<p data-path-to-node=\"2,1,0\"><strong data-path-to-node=\"2,1,0\" data-index-in-node=\"0\">2. The table is between the couch and the TV stand.</strong></p>\n<p data-path-to-node=\"2,1,1,0,0\"><strong data-path-to-node=\"2,1,1,0,0\" data-index-in-node=\"0\">Giải thích:</strong> Cấu trúc \"between... and...\" dùng để chỉ một vật nằm ở giữa hai vật khác (ghế sa-lon và kệ tivi).</p>\n<p data-path-to-node=\"2,1,1,1,0\"><em data-path-to-node=\"2,1,1,1,0\" data-index-in-node=\"0\"><strong>Dịch nghĩa:</strong> Cái bàn nằm ở giữa ghế sa-lon và kệ tivi.</em></p>\n<p data-path-to-node=\"2,2,0\"> </p>\n<p data-path-to-node=\"2,2,0\"><strong data-path-to-node=\"2,2,0\" data-index-in-node=\"0\">3. The TV is above the TV stand.</strong></p>\n<p data-path-to-node=\"2,2,1,0,0\"><strong data-path-to-node=\"2,2,1,0,0\" data-index-in-node=\"0\">Giải thích:</strong> Giới từ \"above\" chỉ vị trí ở phía trên (thường là tivi được treo trên tường, phía trên cái kệ tivi mà không chạm vào kệ).</p>\n<p data-path-to-node=\"2,2,1,1,0\"><em data-path-to-node=\"2,2,1,1,0\" data-index-in-node=\"0\"><strong>Dịch nghĩa:</strong> Chiếc tivi ở phía trên kệ tivi.</em></p>\n<p data-path-to-node=\"2,3,0\"> </p>\n<p data-path-to-node=\"2,3,0\"><strong data-path-to-node=\"2,3,0\" data-index-in-node=\"0\">4. The clock is on the wall.</strong></p>\n<p data-path-to-node=\"2,3,1,0,0\"><strong data-path-to-node=\"2,3,1,0,0\" data-index-in-node=\"0\">Giải thích:</strong> Dùng giới từ \"on\" vì chiếc đồng hồ tiếp xúc trực tiếp với bề mặt thẳng đứng của bức tường.</p>\n<p data-path-to-node=\"2,3,1,1,0\"><em data-path-to-node=\"2,3,1,1,0\" data-index-in-node=\"0\"><strong>Dịch nghĩa:</strong> Chiếc đồng hồ treo ở trên tường.</em></p>\n<p data-path-to-node=\"2,3,1,1,0\"> </p>\n<p data-path-to-node=\"2,4,0\"><strong data-path-to-node=\"2,4,0\" data-index-in-node=\"0\">5. The pillow is on the floor.</strong></p>\n<p data-path-to-node=\"2,4,1,0,0\"><strong data-path-to-node=\"2,4,1,0,0\" data-index-in-node=\"0\">Giải thích:</strong> Dùng giới từ \"on\" vì chiếc gối tiếp xúc trực tiếp với bề mặt nằm ngang của sàn nhà.</p>\n<p data-path-to-node=\"2,4,1,1,0\"><em data-path-to-node=\"2,4,1,1,0\" data-index-in-node=\"0\"><strong>Dịch nghĩa: </strong>Chiếc gối nằm ở trên sàn nhà.</em></p>\n<p data-path-to-node=\"2,4,1,1,0\"> </p>\n<p data-path-to-node=\"2,5,0\"><strong data-path-to-node=\"2,5,0\" data-index-in-node=\"0\">6. The lamp is in the corner of the room.</strong></p>\n<p data-path-to-node=\"2,5,1,0,0\"><strong data-path-to-node=\"2,5,1,0,0\" data-index-in-node=\"0\">Giải thích:</strong> Cụm từ cố định \"in the corner of\" dùng để chỉ một vật nằm góc bên trong của một không gian kín như căn phòng.</p>\n<p data-path-to-node=\"2,5,1,1,0\"><em data-path-to-node=\"2,5,1,1,0\" data-index-in-node=\"0\"><strong>Dịch nghĩa:</strong> Chiếc đèn nằm ở trong góc phòng.</em></p>\n<p data-path-to-node=\"2,5,1,1,0\"> </p>\n<p data-path-to-node=\"2,6,0\"><strong data-path-to-node=\"2,6,0\" data-index-in-node=\"0\">7. The bookshelf stand is on the left of the room.</strong></p>\n<p data-path-to-node=\"2,6,1,0,0\"><strong data-path-to-node=\"2,6,1,0,0\" data-index-in-node=\"0\">Giải thích:</strong> Cụm từ \"on the left of\" dùng để chỉ vị trí nằm ở phía bên trái thuộc phạm vi bên trong của căn phòng.</p>\n<p data-path-to-node=\"2,6,1,1,0\"><em data-path-to-node=\"2,6,1,1,0\" data-index-in-node=\"0\"><strong>Dịch nghĩa:</strong> Giá sách đứng nằm ở phía bên trái của căn phòng.</em></p>\n<p data-path-to-node=\"2,6,1,1,0\"> </p>\n<p data-path-to-node=\"2,7,0\"><strong data-path-to-node=\"2,7,0\" data-index-in-node=\"0\">8. The books are on the bookshelf.</strong></p>\n<p data-path-to-node=\"2,7,1,0,0\"><strong data-path-to-node=\"2,7,1,0,0\" data-index-in-node=\"0\">Giải thích:</strong> Dùng giới từ \"on\" vì những cuốn sách được đặt tiếp xúc trên các bề mặt ngăn phẳng của giá sách.</p>\n<p data-path-to-node=\"2,7,1,1,0\"><em data-path-to-node=\"2,7,1,1,0\" data-index-in-node=\"0\"><strong>Dịch nghĩa:</strong> Những cuốn sách nằm ở trên giá sách.</em></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 72680,
+              "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span style=\"font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Example: The TV stand (</span><span style=\"background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">kệ TV</span><span style=\"background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">) is </span><span style=\"background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; color: #ba372a;\">opposite</span><span style=\"background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the couch.</span></span></em><span style=\"font-size: 12pt; color: #000000;\"><strong id=\"docs-internal-guid-7bc8500c-7fff-fae5-7c6c-e142b204b24d\" style=\"font-weight: normal;\"></strong></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. The couch is <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_0]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the middle of the room.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. The table is <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the couch and the TV stand.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. The TV is <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_2]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the TV stand.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. The clock is <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_3]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the wall.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. The pillow (</span><span style=\"background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">gối</span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">) is <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_4]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the floor.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. The lamp is <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_5]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the corner of the room.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. The bookshelf stand (</span><span style=\"background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">giá sách đứng</span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">) is <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_6]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the left of the room.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. The books are <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_7]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the bookshelf.</span></span></p>\n<p> </p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31675,
+          "id": 301010,
+          "name": null,
+          "title": null,
+          "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 2. Make a complete sentence by rearranging the words given to describe the position of the objects in the picture below. </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Tạo một c&acirc;u ho&agrave;n chỉnh bằng c&aacute;ch sắp xếp lại c&aacute;c từ cho sẵn để mi&ecirc;u tả vị tr&iacute; c&aacute;c đồ vật trong h&igrave;nh b&ecirc;n dưới.)</span></span></p>\n<p><span id=\"docs-internal-guid-bb24e6ba-7fff-57d6-5725-2c43b2dc0191\" style=\"font-family: Nunito-Regular;\"></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 72681,
+              "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Example: chest of drawers (tủ ngăn kéo) / the / in / is / the corner of / room / . </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"color: #000000;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=> <span style=\"color: #ba372a;\">The chest of drawers is in the corner of the room.</span></span><span style=\"font-family: Nunito-Regular;\"><strong id=\"docs-internal-guid-afd6465c-7fff-a608-9098-3f564a9e339c\" style=\"font-weight: normal;\"></strong></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. clock / on / is / wall / the / the / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=> [input_0]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. table / the / under / window / the / is / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=> [input_1]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. computer / the / is / on / table / the / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=> [input_2]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. teddy bear / on / is / the / the / chest of drawers / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=> [input_3]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. book / the / is / on / the / bed / . </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=> [input_4]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. stool (</span><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">ghế đẩu</span><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">) / the / is / under / table / the / .</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=> [input_5]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. guitar / bed / between / the / chest of drawers / the / and / the / is / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=> [input_6]</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 31675,
+          "id": 301011,
+          "name": null,
+          "title": "III. Speaking",
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong style=\"box-sizing: border-box; background-color: #ffffff;\">Link script (Google Docs):</strong></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

@@ -1,0 +1,698 @@
+{
+  "listItem": {
+    "id": "79471",
+    "challenge_id": 28158,
+    "class_id": "177286917873dop75b27mv",
+    "day": 1,
+    "deadline": "2026-06-08 23:30:00",
+    "challenge_title": "[PRE IELTS] LESSON 1 - CHALLENGE 1",
+    "challenge_note": "Áp dụng với các lớp khai giảng từ 3/7/2025",
+    "challenge_status": 1,
+    "challenge_band": "161433861829325240c1g7",
+    "total_question": 7,
+    "classification": "dc",
+    "student_challenge": {
+      "id": 542826,
+      "class_challenge_id": 79471,
+      "class_id": "177286917873dop75b27mv",
+      "challenge_id": 28158,
+      "cts_id": "1780455880vwydc1i2ehir",
+      "rate": 1,
+      "comment": "<p>You're doing great. Keep going to reach your goal!</p>",
+      "url": null,
+      "redo_comment": null,
+      "cancel_comment": null,
+      "date_redo": null,
+      "status_mark": "graded",
+      "status_mark_date": "2026-06-09 16:25:09",
+      "flag_overdue": 0,
+      "flag_not_star": 0,
+      "flag_not_submit": 0,
+      "flag_late_redo": 0,
+      "flag_late_submit": 0,
+      "flag_status_mark": 0,
+      "updated_by": null,
+      "updated": "2026-06-09 16:25:09",
+      "created_by": "1779875378vawpfok6ii4u",
+      "created": "2026-06-07 11:46:37",
+      "correct_answer": 7,
+      "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+      "submitted_at": "2026-06-07 11:46:37",
+      "re_submitted_at": null,
+      "answers": [
+        {
+          "id": 7889683,
+          "question_id": 47352,
+          "choice_id": null,
+          "user_id": null,
+          "content": "She's wearing a long dress.",
+          "student_challenge_id": 79471,
+          "index": 0,
+          "created_at": "2024-09-30 01:30:25",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 7889684,
+          "question_id": 47352,
+          "choice_id": null,
+          "user_id": null,
+          "content": "He's wearing a dark suit, a tie and sneakers",
+          "student_challenge_id": 79471,
+          "index": 1,
+          "created_at": "2024-09-30 01:30:25",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 7889685,
+          "question_id": 47352,
+          "choice_id": null,
+          "user_id": null,
+          "content": "She's wearing white pants and a red blouse.",
+          "student_challenge_id": 79471,
+          "index": 2,
+          "created_at": "2024-09-30 01:30:25",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 7889686,
+          "question_id": 47352,
+          "choice_id": null,
+          "user_id": null,
+          "content": "He's wearing shorts and a T-shirt.",
+          "student_challenge_id": 79471,
+          "index": 3,
+          "created_at": "2024-09-30 01:30:25",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 7889687,
+          "question_id": 47352,
+          "choice_id": null,
+          "user_id": null,
+          "content": "She's wearing a yellow skirt, a blue blouse, and red sandals.",
+          "student_challenge_id": 79471,
+          "index": 4,
+          "created_at": "2024-09-30 01:30:25",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 7889688,
+          "question_id": 47352,
+          "choice_id": null,
+          "user_id": null,
+          "content": "She's wearing jeans and a green shirt.",
+          "student_challenge_id": 79471,
+          "index": 5,
+          "created_at": "2024-09-30 01:30:25",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 7889689,
+          "question_id": 47352,
+          "choice_id": null,
+          "user_id": null,
+          "content": "He's wearing shorts and a tight shirt.",
+          "student_challenge_id": 79471,
+          "index": 6,
+          "created_at": "2024-09-30 01:30:25",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 7889690,
+          "question_id": 47353,
+          "choice_id": null,
+          "user_id": null,
+          "content": "He's into cars.",
+          "student_challenge_id": 79471,
+          "index": 0,
+          "created_at": "2024-09-30 01:30:25",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 7889691,
+          "question_id": 47353,
+          "choice_id": null,
+          "user_id": null,
+          "content": "I love taking photographs of wild birds when I'm in the countryside.",
+          "student_challenge_id": 79471,
+          "index": 1,
+          "created_at": "2024-09-30 01:30:25",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 7889692,
+          "question_id": 47353,
+          "choice_id": null,
+          "user_id": null,
+          "content": "I read a lot of books and I love going to the library.",
+          "student_challenge_id": 79471,
+          "index": 2,
+          "created_at": "2024-09-30 01:30:25",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 7889693,
+          "question_id": 47353,
+          "choice_id": null,
+          "user_id": null,
+          "content": "My brother and I spend all our free time in computer stores and on the Internet.",
+          "student_challenge_id": 79471,
+          "index": 3,
+          "created_at": "2024-09-30 01:30:25",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 7889694,
+          "question_id": 47353,
+          "choice_id": null,
+          "user_id": null,
+          "content": "Both of us love to learn new things about cultures.",
+          "student_challenge_id": 79471,
+          "index": 4,
+          "created_at": "2024-09-30 01:30:25",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 7889695,
+          "question_id": 47354,
+          "choice_id": null,
+          "user_id": null,
+          "content": "1, He's here somewhere: anh ấy ở quanh quẩn đâu đây \n2, Both of my parents: cả bố mẹ tôi \n3, the short ones in the family: những người thấp trong gia đình. \n4, He into cars: anh ấy thích ô tô\n5, to be interested in + ...: thích/ quan tâm cái gì \n6, a couple of parrots: một vài con vẹt \n7, I can't stand: tôi không thể chịu được\n8, get more instersted in sport: quan tâm hơn đến thể thao \n9, birdwatching: ngắm chim \n10, reddish-blond hair: tóc vàng ánh đỏ",
+          "student_challenge_id": 79471,
+          "index": 0,
+          "created_at": "2024-09-30 01:30:25",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 7889696,
+          "question_id": 47355,
+          "choice_id": null,
+          "user_id": null,
+          "content": "https://docs.google.com/document/d/12FBe1xAXPtdLU8O-51QZ6qIvud7vWoO0Lyjj2MgFEZc/edit",
+          "student_challenge_id": 79471,
+          "index": 0,
+          "created_at": "2024-09-30 01:30:25",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        }
+      ],
+      "tab_switch_count": 0
+    }
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "79471",
+        "challenge_id": 28158,
+        "class_id": "177286917873dop75b27mv",
+        "day": 1,
+        "deadline": "2026-06-08 23:30:00",
+        "flag_status_mark": 1,
+        "flag_not_submit": 1,
+        "created": "2026-06-06 23:05:09",
+        "created_by": null,
+        "challenge": {
+          "id": "28158",
+          "title": "[PRE IELTS] LESSON 1 - CHALLENGE 1",
+          "note": "Áp dụng với các lớp khai giảng từ 3/7/2025",
+          "day": null,
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "161433861829325240c1g7",
+          "created": "2026-06-06 23:05:08",
+          "updated": null,
+          "created_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+          "updated_by": null,
+          "total_question": 7,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 9253
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 542826,
+        "class_challenge_id": 79471,
+        "class_id": "177286917873dop75b27mv",
+        "challenge_id": 28158,
+        "cts_id": "1780455880vwydc1i2ehir",
+        "rate": 1,
+        "comment": "<p>You're doing great. Keep going to reach your goal!</p>",
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": "graded",
+        "status_mark_date": "2026-06-09 16:25:09",
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": null,
+        "updated": "2026-06-09 16:25:09",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-06-07 11:46:37",
+        "correct_answer": 7,
+        "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+        "submitted_at": "2026-06-07 11:46:37",
+        "re_submitted_at": null,
+        "answers": {
+          "262514": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 531796,
+            "correct_answer": 531796,
+            "result_answer": {
+              "531796": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 262514,
+            "challenge_id": 28158
+          },
+          "262515": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 531801,
+            "correct_answer": 531801,
+            "result_answer": {
+              "531801": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 262515,
+            "challenge_id": 28158
+          },
+          "262516": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 531805,
+            "correct_answer": 531805,
+            "result_answer": {
+              "531805": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 262516,
+            "challenge_id": 28158
+          },
+          "262517": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 531808,
+            "correct_answer": 531808,
+            "result_answer": {
+              "531808": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 262517,
+            "challenge_id": 28158
+          },
+          "262518": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 531813,
+            "correct_answer": 531813,
+            "result_answer": {
+              "531813": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 262518,
+            "challenge_id": 28158
+          },
+          "262519": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 531817,
+            "correct_answer": 531817,
+            "result_answer": {
+              "531817": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 262519,
+            "challenge_id": 28158
+          },
+          "262520": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 531821,
+            "correct_answer": 531821,
+            "result_answer": {
+              "531821": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 262520,
+            "challenge_id": 28158
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 76142,
+          "content": "<p style=\"text-align: justify; line-height: 1.5;\">Các bạn hãy xem hướng dẫn làm Daily Challenge ở link hoặc video sau (không có tiếng) để làm bài tập đủ yêu cầu và hiệu quả nhất nhé: <a href=\"https://drive.google.com/file/d/1gtLhk07TAxMA_bczP7UJ6s3s-hmziH3b/view\" target=\"_blank\" rel=\"noopener\">File đọc</a><img /><img /><img /></p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        },
+        {
+          "id": 76143,
+          "content": null,
+          "index": 1,
+          "type": "video",
+          "audio_url": null,
+          "video_url": "https://drive.google.com/file/d/1TV0k7GmCIjdQ5BKnJj5xAs--Qc_GvleP/preview",
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 76144,
+          "content": "<p style=\"text-align: justify; line-height: 1.5;\"><span style=\"color: #ba372a;\"><strong>Sự liên kết giữa bài học trên lớp và DC (daily challenge) của 5 LESSON ĐẦU TIÊN</strong></span></p>\n<p style=\"text-align: justify; line-height: 1.5;\">Trên lớp học IPA —> Nội dung DC sẽ gồm các phần:</p>\n<p style=\"text-align: justify; line-height: 1.5;\">1. <strong>Quay video</strong> luyện <strong>các âm đã học</strong> trên lớp để được GV nhận xét chi tiết</p>\n<p style=\"text-align: justify; line-height: 1.5;\">2. <strong>Từ vựng</strong> liên quan đến các âm đã học, ví dụ trên lớp học âm /u:/ => từ vựng theo cụm với DO /du:/ (do the housework, do the gardening....).</p>\n<p style=\"text-align: justify; line-height: 1.5;\">Các cụm từ đều có nghĩa đi kèm => học cả nghĩa theo cụm và đọc nhiều lần để nhớ cách phát âm</p>\n<p style=\"text-align: justify; line-height: 1.5;\">3. <strong>Bài tập</strong> để <strong>củng cố các từ vựng</strong> đó: chỉ cần nắm chắc các cụm từ ở phía bên trái (mục 2).</p>\n<p style=\"text-align: justify; line-height: 1.5;\">Các phần liên quan đến ngữ pháp sẽ được học kĩ hơn ở các bài sau trong khoá (từ lesson 6)</p>\n<p style=\"text-align: justify; line-height: 1.5;\">=> Đầu giờ buổi tiếp theo, GV sẽ cùng HV review các cụm từ này và trong các bài về sau HV sẽ được hướng dẫn cách áp dụng cụm từ vào câu để nghe - nói về các chủ đề quen thuộc<img /></p>",
+          "index": 2,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 28158,
+          "id": 262514,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"color: #ba372a;\"><strong>1. Phần Daily Challenge của 4 lessons đầu tiên yêu cầu học viên làm gì?</strong></span></p>",
+          "explain": "<p style=\"text-align: justify; line-height: 1.5;\"><strong>Giải thích: </strong></p>\n<p style=\"text-align: justify; line-height: 1.5;\">Trong buổi học, giáo viên đã hướng dẫn rất kỹ về khẩu hình miệng và cách phát âm từng âm. Về nhà, HV không phải học thêm gì mới, mà chủ động luyện tập lại đúng những nội dung đã học, rồi quay video để giáo viên kiểm tra và feedback lại từng lỗi cá nhân (VD: chưa tròn môi, thiếu âm đuôi…).</p>\n<p style=\"text-align: justify; line-height: 1.5;\">Nếu HV chỉ học kiến thức trên lớp mà không luyện tập lại ở nhà thì thật sự rất khó cải thiện phát âm.</p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 531795,
+                "content": "A. Ghi âm lại bài giảng của giáo viên"
+              },
+              {
+                "id": 531796,
+                "content": "B. Quay video luyện tập các âm đã học"
+              },
+              {
+                "id": 531797,
+                "content": "C. Viết đoạn văn sử dụng từ mới"
+              },
+              {
+                "id": 531798,
+                "content": "D. Viết ví dụ từ có chứa âm đã học"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 28158,
+          "id": 262515,
+          "name": null,
+          "title": null,
+          "content": "<p style=\"text-align: justify; line-height: 1.5;\"><span style=\"color: #ba372a;\"><strong>2. Trước khi quay video đọc âm và từ, học viên cần làm gì?</strong></span></p>",
+          "explain": "<p style=\"text-align: justify; line-height: 1.5;\"><strong>Giải thích:</strong></p>\n<p style=\"text-align: justify; line-height: 1.5;\">Phần audio đã được thiết kế chuẩn để HV luyện phát âm tại nhà. HV nghe kỹ audio trước sẽ giúp ghi nhớ âm thanh đúng, luyện tập bắt chước cho giống nhất, rồi mới quay video. Giáo viên sẽ chỉ ra các lỗi học viên chưa nhận thấy.</p>\n<p style=\"text-align: justify; line-height: 1.5;\">Nếu bỏ qua bước nghe và quay video luôn thì HV dễ đọc theo cảm tính, đọc theo thói quen cũ =&gt; không hình thành được cách đọc chuẩn.</p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 531799,
+                "content": "A. Viết lại nghĩa tiếng Việt của các từ và cụm từ"
+              },
+              {
+                "id": 531800,
+                "content": "B. Ghi âm lại phần giảng của giáo viên trên lớp"
+              },
+              {
+                "id": 531801,
+                "content": "C. Xem lại cách phát âm đã được học trên lớp, nghe audio và luyện phát âm chính xác các từ"
+              },
+              {
+                "id": 531802,
+                "content": "D. Tìm thêm từ mới liên quan trên mạng để mở rộng"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 28158,
+          "id": 262516,
+          "name": null,
+          "title": null,
+          "content": "<p style=\"text-align: justify; line-height: 1.5;\"><span style=\"color: #ba372a;\"><strong>3. Từ vựng trong Daily Challenge được liên kết với điều gì?</strong></span></p>",
+          "explain": "<p style=\"text-align: justify; line-height: 1.5;\"><strong>Giải thích:</strong></p>\n<p style=\"text-align: justify; line-height: 1.5;\">Từ vựng trong Daily Challenge không phải là những từ vựng ngẫu nhiên mà đã được chọn lựa theo các âm IPA học trên lớp. Mục tiêu là giúp HV luyện lại phát âm trong cụm từ thực tế.</p>\n<p style=\"text-align: justify; line-height: 1.5;\">Ví dụ: nếu vừa học âm /uː/, trong Daily Challenge sẽ có các cụm từ như “do the housework”, “do my homework”,... để giúp HV luyện lại chính âm đó trong ngữ cảnh thật. </p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 531803,
+                "content": "A. Ngữ pháp của bài học"
+              },
+              {
+                "id": 531804,
+                "content": "B. Các chủ đề trong tiết học tiếp theo"
+              },
+              {
+                "id": 531805,
+                "content": "C. Các âm IPA đã học"
+              },
+              {
+                "id": 531806,
+                "content": "D. Đọc hiểu theo chủ đề"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 28158,
+          "id": 262517,
+          "name": null,
+          "title": null,
+          "content": "<p style=\"line-height: 1.5;\"><span style=\"color: #ba372a;\"><strong>4. Các từ vựng ở mục bên trái được cung cấp có phải hoàn toàn là các từ mới không?</strong></span></p>",
+          "explain": "<p style=\"text-align: justify; line-height: 1.5;\"><strong>Giải thích: </strong></p>\n<p style=\"text-align: justify; line-height: 1.5;\">Các từ vựng đều thuộc các chủ đề cơ bản và không hoàn toàn mới với HV thuộc đúng trình độ của khoá PRE.</p>\n<p style=\"text-align: justify; line-height: 1.5;\">Với các từ quen thuộc thì là cơ hội để HV ôn tập lại, còn với các từ mới thì HV nên dành thời gian nhiều hơn để củng cố vốn từ của mình.</p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 531807,
+                "content": "A. Có, tất cả đều là từ mới"
+              },
+              {
+                "id": 531808,
+                "content": "B. Không, có thể bao gồm cả từ học viên đã biết"
+              },
+              {
+                "id": 531809,
+                "content": "C. Có, nhưng chỉ dùng trong bài nghe"
+              },
+              {
+                "id": 531810,
+                "content": "D. Không rõ, tùy mỗi bài"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 28158,
+          "id": 262518,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"color: #ba372a;\"><strong>5. Muốn làm đúng các bài tập từ vựng học viên cần làm gì?</strong></span></p>",
+          "explain": "<p style=\"text-align: justify; line-height: 1.5;\"><strong>Giải thích: </strong></p>\n<p style=\"text-align: justify; line-height: 1.5;\">Các bài tập từ vựng chỉ xoay quanh <strong>cụm từ đã cho sẵn</strong> bên trái màn hình, không yêu cầu HV phải tìm từ vựng bên ngoài. HV chỉ cần đọc kỹ, hiểu nghĩa và luyện phát âm đúng là chắc chắn làm được.</p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 531811,
+                "content": "A. Ghi nhớ phát âm của các từ riêng lẻ trong cụm từ"
+              },
+              {
+                "id": 531812,
+                "content": "B. Tra từ điển dịch nghĩa từng từ một sang tiếng Việt"
+              },
+              {
+                "id": 531813,
+                "content": "C. Đọc kĩ thật nhiều lần để nhớ nghĩa và phát âm các cụm đã được cho sẵn (mục bên tay trái)"
+              },
+              {
+                "id": 531814,
+                "content": "D. Ghi nhớ các câu ví dụ trong bài học"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 28158,
+          "id": 262519,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"color: #ba372a;\"><strong>6. Bài tập về từ vựng có yêu cầu nhiều về ngữ pháp không?</strong></span></p>",
+          "explain": "<p style=\"text-align: justify; line-height: 1.5;\"><strong>Giải thích: </strong></p>\n<p style=\"text-align: justify; line-height: 1.5;\">Phần bài tập từ vựng không tập trung vào ngữ pháp, mà chủ yếu giúp luyện cách sử dụng các cụm từ đã cho bên trái.</p>\n<p style=\"text-align: justify; line-height: 1.5;\">Từ buổi 6 mới bắt đầu học ngữ pháp sâu hơn, nên hiện tại HV chỉ cần nhớ, hiểu và dùng đúng cụm là đủ.</p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 531815,
+                "content": "A. Có, vì đây là phần ôn ngữ pháp"
+              },
+              {
+                "id": 531816,
+                "content": "B. Có, phải dùng đúng cấu trúc phức tạp"
+              },
+              {
+                "id": 531817,
+                "content": "C. Không, vì ngữ pháp sẽ được học sâu hơn từ buổi 6 trở đi"
+              },
+              {
+                "id": 531818,
+                "content": "D. Không, vì không cần quan tâm đến ngữ pháp khi làm từ vựng"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 28158,
+          "id": 262520,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"color: #ba372a;\"><strong>7. Trước buổi học tiếp theo, học viên cần chuẩn bị gì theo yêu cầu của Daily Challenge?</strong></span></p>",
+          "explain": "<p style=\"text-align: justify; line-height: 1.5;\"><strong>Giải thích: </strong></p>\n<p style=\"text-align: justify; line-height: 1.5;\">HV cần nắm chắc các cụm từ cho sẵn, dành nhiều thời gian hơn cho các cụm bị sai khi làm bài tập, và xem kĩ feedback của GV để chủ động luyện tập, cải thiện các phần chưa tốt. Có như vậy HV mới có thể cải thiện được.</p>\n<p style=\"text-align: justify; line-height: 1.5;\">Đầu giờ các buổi tiếp theo luôn có mục REVIEW yêu cầu HV nhắc lại các phần đã làm trong DC và cũng sẽ có sự hướng dẫn từ phía GV. </p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 531819,
+                "content": "A. Học trước toàn bộ nội dung bài mới để bắt kịp tiến độ của lớp trong buổi sau"
+              },
+              {
+                "id": 531820,
+                "content": "B. Ghi nhớ các quy tắc ngữ pháp đã học và làm thêm bài tập củng cố"
+              },
+              {
+                "id": 531821,
+                "content": "C. Ghi nhớ các cụm từ đã học, học kỹ lại các cụm bị sai khi làm bài tập và luyện tập kỹ theo feedback của giáo viên"
+              },
+              {
+                "id": 531822,
+                "content": "D. Viết câu ví dụ sử dụng tất cả các từ vựng và cấu trúc ngữ pháp đã học trong buổi trước"
+              }
+            ]
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "lesson": 3,
+  "lessonKey": "lesson-03",
+  "title": "Lesson 3",
+  "source": "LangGo daily challenge API",
+  "rawFolder": "raw/",
+  "files": {
+    "overview": "overview.md",
+    "content": "content.json",
+    "exercises": "exercises.json",
+    "scripts": "scripts.json",
+    "submission": "submission.json",
+    "audioManifest": "audio/manifest.json",
+    "imageManifest": "images/manifest.json"
+  },
+  "challenges": [
+    {
+      "id": 28778,
+      "challengeId": 28778,
+      "classChallengeId": "80071",
+      "number": 1,
+      "title": "[PRE IELTS] LESSON 3 - CHALLENGE 1",
+      "note": "Vocabulary (take/took/taken) | Pronunciation (Consonants)",
+      "day": 3,
+      "deadline": "2026-06-13 12:30:00",
+      "totalQuestion": 24,
+      "classification": "dc",
+      "rawFile": "raw/challenge-01-28778.json"
+    },
+    {
+      "id": 28779,
+      "challengeId": 28779,
+      "classChallengeId": "80072",
+      "number": 2,
+      "title": "[PRE IELTS] LESSON 3 - CHALLENGE 2",
+      "note": "Vocabulary (Everyday things)",
+      "day": 3,
+      "deadline": "2026-06-13 12:30:00",
+      "totalQuestion": 25,
+      "classification": "dc",
+      "rawFile": "raw/challenge-02-28779.json"
+    }
+  ]
+}

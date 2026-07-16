@@ -1,0 +1,767 @@
+{
+  "lesson": 11,
+  "lessonKey": "lesson-11",
+  "questions": [
+    {
+      "id": "question-301007",
+      "sourceQuestionId": 301007,
+      "challengeId": 31675,
+      "classChallengeId": "82860",
+      "title": "I. Grammar: Prepositions",
+      "type": 1,
+      "prompt": "I. Grammar: Prepositions",
+      "introductionText": "Exercise 1. Complete the sentences with in, at or on. (Hoàn thành các câu sau với in, at hoặc on)",
+      "contentText": "",
+      "answerTemplateText": "1. There was a  bag of trash (túi rác) at the corner of the room.\n\n2. There is a clock [input_0] the wall.\n\n3. There are two bedrooms and a bathroom [input_1] the second floor of my house.\n\n4. The chair is [input_2] front of the desk.\n\n5. I feel most comfortable [input_3] my bedroom, and I often relax [input_4] the armchair there.\n\n6. My kitchen is quite big. There are two windows [input_5] the wall, right above the sink.\n\n7. There is a toilet [input_6] the end of the hall.\n\n8. You can find some newspaper [input_7] the bookshelf.",
+      "explanationText": "2. There is a clock on the wall.\n\n(Có một cái đồng hồ trên tường.)\n\n3. There are two bedrooms and a bathroom on the second floor of my house.\n\n(Có hai phòng ngủ và một phòng tắm ở trên tầng hai của nhà tôi.)\n\n4. The chair is in front of the desk.\n\n(Cái ghế ở phía trước bàn làm việc.)\n\n5. I feel most comfortable in my bedroom, and I often relax in the armchair there.\n\n(Tôi cảm thấy thoải mái nhất trong phòng ngủ của mình, và tôi thường thư giãn trong chiếc ghế bành ở đó.)\n\n6. My kitchen is quite big. There are two windows on the wall, right above the sink.\n\n(Phòng bếp của tôi khá lớn. Có hai cái cửa sổ trên tường, ngay phía trên bồn rửa bát.)\n\n7. There is a toilet at the end of the hall.\n\n(Có một nhà vệ sinh ở cuối hành lang.)\n\n8. You can find some newspaper on the bookshelf.\n\n(Bạn có thể tìm thấy vài tờ báo ở trên giá sách.)",
+      "rawHtml": {
+        "title": "I. Grammar: Prepositions",
+        "introduction": "<p><strong style=\"font-family: Nunito-Regular; font-size: 16px;\">Exercise 1. Complete the sentences with <em>in</em>, <em>at</em> or <em>on</em>. </strong><span style=\"font-family: Nunito-Regular; font-size: 16px;\"><em>(Hoàn thành các câu sau với in, at hoặc on)</em></span></p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. There was a  bag of trash (</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">túi rác</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">) </span><span style=\"font-size: 12pt; color: #ba372a; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">at</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the corner of the room.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. There is a clock [input_0] the wall.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. There are two bedrooms and a bathroom <strong>[input_1]</strong> the second floor of my house.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. The chair is [input_2] front of the desk.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. I feel most comfortable <strong>[input_3]</strong> my bedroom, and I often relax <strong>[input_4]</strong> the armchair there.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. My kitchen is quite big. There are two windows <strong>[input_5]</strong> the wall, right above the sink.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. There is a toilet [input_6] the end of the hall.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. You can find some newspaper [input_7] the bookshelf.</span></p>",
+        "explain": "<p><strong>2. There is a clock on the wall.</strong></p>\n<p><em>(Có một cái đồng hồ trên tường.)</em></p>\n<p><strong>3. There are two bedrooms and a bathroom on the second floor of my house.</strong></p>\n<p><em>(Có hai phòng ngủ và một phòng tắm ở trên tầng hai của nhà tôi.)</em></p>\n<p><strong>4. The chair is in front of the desk.</strong></p>\n<p><em>(Cái ghế ở phía trước bàn làm việc.)</em></p>\n<p><strong>5. I feel most comfortable in my bedroom, and I often relax in the armchair there.</strong></p>\n<p><em>(Tôi cảm thấy thoải mái nhất trong phòng ngủ của mình, và tôi thường thư giãn trong chiếc ghế bành ở đó.)</em></p>\n<p><strong>6. My kitchen is quite big. There are two windows on the wall, right above the sink.</strong></p>\n<p><em>(Phòng bếp của tôi khá lớn. Có hai cái cửa sổ trên tường, ngay phía trên bồn rửa bát.)</em></p>\n<p><strong>7. There is a toilet at the end of the hall.</strong></p>\n<p><em>(Có một nhà vệ sinh ở cuối hành lang.)</em></p>\n<p><strong>8. You can find some newspaper on the bookshelf.</strong></p>\n<p><em>(Bạn có thể tìm thấy vài tờ báo ở trên giá sách.)</em></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 8,
+        "totalCorrect": 8,
+        "userAnswer": {
+          "input_0": "on",
+          "input_1": "on",
+          "input_2": "in",
+          "input_4": "in",
+          "input_3": "in",
+          "input_5": "on",
+          "input_6": "at",
+          "input_7": "on"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "on"
+          ],
+          "input_1": [
+            "on"
+          ],
+          "input_2": [
+            "in"
+          ],
+          "input_3": [
+            "in"
+          ],
+          "input_4": [
+            "in"
+          ],
+          "input_5": [
+            "on"
+          ],
+          "input_6": [
+            "at"
+          ],
+          "input_7": [
+            "on"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301008",
+      "sourceQuestionId": 301008,
+      "challengeId": 31675,
+      "classChallengeId": "82860",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2. Use the suitable prepositions to complete the following dialogues based on the given pictures. (Sử dụng giới từ thích hợp để hoàn thiện các đoạn hội thoại tương ứng với tranh)",
+      "introductionText": "Exercise 2. Use the suitable prepositions to complete the following dialogues based on the given pictures. (Sử dụng giới từ thích hợp để hoàn thiện các đoạn hội thoại tương ứng với tranh)",
+      "contentText": "",
+      "answerTemplateText": "1. \n\nHaku: Chihiro, seriously? I thought you've bought a new dining table.\n\nChihiro: No, I haven't. The sales clerk said that they're having a big sale next week, so I'm waiting for that. For now, I'm eating my meals while sitting [input_0] the sofa.\n\nHaku: You better clean up after that.\n\n2. \n\nPeter: I brought you some flowers.\n\nMichelle: Aw, how sweet. Thank you so much.\n\nPeter: You're welcome. Where's the vase?\n\nMichelle: I'd put it on an end table [input_1] the corner [input_2] the sofa. It will look nice there.\n\n3.\n\nFlynn: Where is a good place for your new bookshelf?\n\nRapunzel: Maybe we can put it [input_3] the wall, [input_4] the bed.\n\nFlynn: Yeah, that sounds good. There. How does it look?",
+      "explanationText": "Bài tập 2 cần dựa theo vị trí nhân vật/đồ vật trong tranh và điền từ có nghĩa phù hợp.\n\n1. On\n\nVị trí bạn nữ trong tranh ngồi trên một bề mặt (ghế) &rarr; I'm eating my meal while sitting on the sofa. (Tôi đang ăn khi ngồi trên sofa)\n\n2. In - Next to\n\nXác định vị trí bó hoa trong tranh. Liên quan đến 'corner' và 'sofa' thì có thể hiểu là hoa nằm trong góc, bên cạnh ghế sô pha &rarr; I'd put it on an end table in the corner next to the sofa. (Tôi đặt trên bàn trà trong góc cạnh ghế sô pha.)\n\n3. Against - Across from / opposite\n\nXác định vị trí tủ sách trong tranh, liên quan đến 'wall' và 'bed' thì có thể hiểu là tủ sách kê sát tường, đối diện cái giường &rarr; Maybe we can put it against the wall, across from / opposite the bed. (Có lẽ chúng ta có thể đặt nó sát tường, đối diện cái giường.)",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><strong style=\"font-family: Nunito-Regular; font-size: 16px;\">Exercise 2. Use the suitable prepositions to complete the following dialogues based on the given pictures.</strong><em style=\"font-family: Nunito-Regular; font-size: 16px;\">&nbsp;(Sử dụng giới từ th&iacute;ch hợp để ho&agrave;n thiện c&aacute;c đoạn hội thoại tương ứng với tranh)</em></p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">1. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Haku: </strong>Chihiro, seriously? I thought you've bought a new dining table.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Chihiro:</strong> No, I haven't. The sales clerk said that they're having a big sale next week, so I'm waiting for that. For now, I'm eating my meals while sitting [input_0] the sofa.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Haku: </strong>You better clean up after that.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">2. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Peter: </strong>I brought you some flowers.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Michelle: </strong>Aw, how sweet. Thank you so much.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Peter: </strong>You're welcome. Where's the vase?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Michelle: </strong>I'd put it on an end table [input_1] the corner [input_2] the sofa. It will look nice there.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">3.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Flynn</strong>: Where is a good place for your new bookshelf?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Rapunzel</strong>: Maybe we can put it [input_3] the wall, [input_4] the bed.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Flynn</strong>: Yeah, that sounds good. There. How does it look?</span></p>",
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 6pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B&agrave;i tập 2 cần dựa theo vị tr&iacute; nh&acirc;n vật/đồ vật trong tranh v&agrave; điền từ c&oacute; nghĩa ph&ugrave; hợp.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">On&nbsp;</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Vị tr&iacute; bạn nữ trong tranh ngồi tr&ecirc;n một bề mặt (ghế) &rarr; I&rsquo;m eating my meal while sitting </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">on </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">the sofa. </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 300; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(T&ocirc;i đang ăn khi ngồi tr&ecirc;n sofa)</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">In -</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Next to </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span class=\"Apple-tab-span\" style=\"white-space: pre;\"> </span></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">X&aacute;c định vị tr&iacute; b&oacute; hoa trong tranh. Li&ecirc;n quan đến &lsquo;corner&rsquo; v&agrave; &lsquo;sofa&rsquo; th&igrave; c&oacute; thể hiểu l&agrave; hoa nằm trong g&oacute;c, b&ecirc;n cạnh ghế s&ocirc; pha &rarr; I&rsquo;d put it on an end table </span><span style=\"font-size: 12pt; color: #c00000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">in</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the corner </span><span style=\"font-size: 12pt; color: #c00000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">next to</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the sofa.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 300; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(T&ocirc;i đặt tr&ecirc;n b&agrave;n tr&agrave; trong g&oacute;c cạnh ghế s&ocirc; pha.)&nbsp;</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Against -</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Across from / opposite</span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span class=\"Apple-tab-span\" style=\"white-space: pre;\"> </span></span></span></p>\n<p><span id=\"docs-internal-guid-f1997831-7fff-0e07-10f0-b9c10983b740\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">X&aacute;c định vị tr&iacute; tủ s&aacute;ch trong tranh, li&ecirc;n quan đến &lsquo;wall&rsquo; v&agrave; &lsquo;bed&rsquo; th&igrave; c&oacute; thể hiểu l&agrave; tủ s&aacute;ch k&ecirc; s&aacute;t tường, đối diện c&aacute;i giường &rarr; Maybe we can put it </span><span style=\"font-size: 12pt; color: #c00000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">against</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the wall, </span><span style=\"font-size: 12pt; color: #c00000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">across from / opposite</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the bed. </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 300; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(C&oacute; lẽ ch&uacute;ng ta c&oacute; thể đặt n&oacute; s&aacute;t tường, đối diện c&aacute;i giường.)</span></span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 5,
+        "totalCorrect": 5,
+        "userAnswer": {
+          "input_0": "on",
+          "input_1": "in",
+          "input_2": "next to",
+          "input_3": "against",
+          "input_4": "opposite"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "on"
+          ],
+          "input_1": [
+            "in"
+          ],
+          "input_2": [
+            "next to"
+          ],
+          "input_3": [
+            "against"
+          ],
+          "input_4": [
+            "across from",
+            "opposite"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301009",
+      "sourceQuestionId": 301009,
+      "challengeId": 31675,
+      "classChallengeId": "82860",
+      "title": "II. Vocabulary",
+      "type": 1,
+      "prompt": "II. Vocabulary",
+      "introductionText": "",
+      "contentText": "Exercise 1. Fill in the blanks with suitable prepositions from the table below to describe the positions of the objects in the given picture. You can use any prepositions more than once. (Điền vào ô trống những giới từ phù hợp từ bảng bên dưới để miêu tả vị trí của các đồ vật trong ảnh đã cho. Bạn có thể dùng bất cứ giới từ nào nhiều hơn một lần.)\n\nin\n\n |\n\non \n\n |\n\nabove \n\n |\n\nopposite \n\n |\n\nbetween \n\n |",
+      "answerTemplateText": "Example: The TV stand (kệ TV) is opposite the couch.\n\n1. The couch is [input_0] the middle of the room.\n\n2. The table is [input_1] the couch and the TV stand.\n\n3. The TV is [input_2] the TV stand.\n\n4. The clock is [input_3] the wall.\n\n5. The pillow (gối) is [input_4] the floor.\n\n6. The lamp is [input_5] the corner of the room.\n\n7. The bookshelf stand (giá sách đứng) is [input_6] the left of the room.\n\n8. The books are [input_7] the bookshelf.",
+      "explanationText": "1. The couch is in the middle of the room.\n\nGiải thích: Cụm từ cố định \"in the middle of\" dùng để chỉ vị trí ở chính giữa một không gian nào đó (ở đây là căn phòng).\n\nDịch nghĩa: Chiếc ghế sa-lon nằm ở giữa căn phòng.\n\n \n\n2. The table is between the couch and the TV stand.\n\nGiải thích: Cấu trúc \"between... and...\" dùng để chỉ một vật nằm ở giữa hai vật khác (ghế sa-lon và kệ tivi).\n\nDịch nghĩa: Cái bàn nằm ở giữa ghế sa-lon và kệ tivi.\n\n \n\n3. The TV is above the TV stand.\n\nGiải thích: Giới từ \"above\" chỉ vị trí ở phía trên (thường là tivi được treo trên tường, phía trên cái kệ tivi mà không chạm vào kệ).\n\nDịch nghĩa: Chiếc tivi ở phía trên kệ tivi.\n\n \n\n4. The clock is on the wall.\n\nGiải thích: Dùng giới từ \"on\" vì chiếc đồng hồ tiếp xúc trực tiếp với bề mặt thẳng đứng của bức tường.\n\nDịch nghĩa: Chiếc đồng hồ treo ở trên tường.\n\n \n\n5. The pillow is on the floor.\n\nGiải thích: Dùng giới từ \"on\" vì chiếc gối tiếp xúc trực tiếp với bề mặt nằm ngang của sàn nhà.\n\nDịch nghĩa: Chiếc gối nằm ở trên sàn nhà.\n\n \n\n6. The lamp is in the corner of the room.\n\nGiải thích: Cụm từ cố định \"in the corner of\" dùng để chỉ một vật nằm góc bên trong của một không gian kín như căn phòng.\n\nDịch nghĩa: Chiếc đèn nằm ở trong góc phòng.\n\n \n\n7. The bookshelf stand is on the left of the room.\n\nGiải thích: Cụm từ \"on the left of\" dùng để chỉ vị trí nằm ở phía bên trái thuộc phạm vi bên trong của căn phòng.\n\nDịch nghĩa: Giá sách đứng nằm ở phía bên trái của căn phòng.\n\n \n\n8. The books are on the bookshelf.\n\nGiải thích: Dùng giới từ \"on\" vì những cuốn sách được đặt tiếp xúc trên các bề mặt ngăn phẳng của giá sách.\n\nDịch nghĩa: Những cuốn sách nằm ở trên giá sách.",
+      "rawHtml": {
+        "title": "II. Vocabulary",
+        "introduction": null,
+        "content": "<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong style=\"box-sizing: border-box; background-color: #ffffff;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Exercise 1. Fill in the blanks with suitable prepositions from the table below to describe the positions of the objects in the given picture. You can use any prepositions more than once. </span></span></strong><em><span style=\"box-sizing: border-box; background-color: #ffffff;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">(Điền vào ô trống những giới từ phù hợp từ bảng bên dưới để miêu tả vị trí của các đồ vật trong ảnh đã cho. Bạn có thể dùng bất cứ giới từ nào nhiều hơn một lần.)</span></span></span></em></span></p>\n<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span id=\"docs-internal-guid-092e6f98-7fff-8eb5-d672-0880c2920d45\"></span></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 602px;\"><colgroup><col style=\"width: 120px;\" /><col style=\"width: 120px;\" /><col style=\"width: 120px;\" /><col style=\"width: 120px;\" /><col style=\"width: 120px;\" /></colgroup>\n<tbody>\n<tr style=\"height: 36pt;\">\n<td style=\"vertical-align: middle; padding: 2.1543307086614174pt 2.1543307086614174pt 2.1543307086614174pt 2.1543307086614174pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">in</span></p>\n</td>\n<td style=\"vertical-align: middle; padding: 2.1543307086614174pt 2.1543307086614174pt 2.1543307086614174pt 2.1543307086614174pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">on </span></p>\n</td>\n<td style=\"vertical-align: middle; padding: 2.1543307086614174pt 2.1543307086614174pt 2.1543307086614174pt 2.1543307086614174pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">above </span></p>\n</td>\n<td style=\"vertical-align: middle; padding: 2.1543307086614174pt 2.1543307086614174pt 2.1543307086614174pt 2.1543307086614174pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">opposite </span></p>\n</td>\n<td style=\"vertical-align: middle; padding: 2.1543307086614174pt 2.1543307086614174pt 2.1543307086614174pt 2.1543307086614174pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">between </span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>",
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span style=\"font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Example: The TV stand (</span><span style=\"background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">kệ TV</span><span style=\"background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">) is </span><span style=\"background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; color: #ba372a;\">opposite</span><span style=\"background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the couch.</span></span></em><span style=\"font-size: 12pt; color: #000000;\"><strong id=\"docs-internal-guid-7bc8500c-7fff-fae5-7c6c-e142b204b24d\" style=\"font-weight: normal;\"></strong></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. The couch is <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_0]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the middle of the room.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. The table is <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the couch and the TV stand.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. The TV is <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_2]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the TV stand.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. The clock is <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_3]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the wall.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. The pillow (</span><span style=\"background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">gối</span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">) is <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_4]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the floor.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. The lamp is <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_5]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the corner of the room.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. The bookshelf stand (</span><span style=\"background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">giá sách đứng</span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">) is <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_6]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the left of the room.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. The books are <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_7]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> the bookshelf.</span></span></p>\n<p> </p>",
+        "explain": "<p data-path-to-node=\"2,0,0\"><strong data-path-to-node=\"2,0,0\" data-index-in-node=\"0\">1. The couch is in the middle of the room.</strong></p>\n<p data-path-to-node=\"2,0,1,0,0\"><strong data-path-to-node=\"2,0,1,0,0\" data-index-in-node=\"0\">Giải thích:</strong> Cụm từ cố định \"in the middle of\" dùng để chỉ vị trí ở chính giữa một không gian nào đó (ở đây là căn phòng).</p>\n<p data-path-to-node=\"2,0,1,1,0\"><em data-path-to-node=\"2,0,1,1,0\" data-index-in-node=\"0\"><strong>Dịch nghĩa:</strong> Chiếc ghế sa-lon nằm ở giữa căn phòng.</em></p>\n<p data-path-to-node=\"2,1,0\"> </p>\n<p data-path-to-node=\"2,1,0\"><strong data-path-to-node=\"2,1,0\" data-index-in-node=\"0\">2. The table is between the couch and the TV stand.</strong></p>\n<p data-path-to-node=\"2,1,1,0,0\"><strong data-path-to-node=\"2,1,1,0,0\" data-index-in-node=\"0\">Giải thích:</strong> Cấu trúc \"between... and...\" dùng để chỉ một vật nằm ở giữa hai vật khác (ghế sa-lon và kệ tivi).</p>\n<p data-path-to-node=\"2,1,1,1,0\"><em data-path-to-node=\"2,1,1,1,0\" data-index-in-node=\"0\"><strong>Dịch nghĩa:</strong> Cái bàn nằm ở giữa ghế sa-lon và kệ tivi.</em></p>\n<p data-path-to-node=\"2,2,0\"> </p>\n<p data-path-to-node=\"2,2,0\"><strong data-path-to-node=\"2,2,0\" data-index-in-node=\"0\">3. The TV is above the TV stand.</strong></p>\n<p data-path-to-node=\"2,2,1,0,0\"><strong data-path-to-node=\"2,2,1,0,0\" data-index-in-node=\"0\">Giải thích:</strong> Giới từ \"above\" chỉ vị trí ở phía trên (thường là tivi được treo trên tường, phía trên cái kệ tivi mà không chạm vào kệ).</p>\n<p data-path-to-node=\"2,2,1,1,0\"><em data-path-to-node=\"2,2,1,1,0\" data-index-in-node=\"0\"><strong>Dịch nghĩa:</strong> Chiếc tivi ở phía trên kệ tivi.</em></p>\n<p data-path-to-node=\"2,3,0\"> </p>\n<p data-path-to-node=\"2,3,0\"><strong data-path-to-node=\"2,3,0\" data-index-in-node=\"0\">4. The clock is on the wall.</strong></p>\n<p data-path-to-node=\"2,3,1,0,0\"><strong data-path-to-node=\"2,3,1,0,0\" data-index-in-node=\"0\">Giải thích:</strong> Dùng giới từ \"on\" vì chiếc đồng hồ tiếp xúc trực tiếp với bề mặt thẳng đứng của bức tường.</p>\n<p data-path-to-node=\"2,3,1,1,0\"><em data-path-to-node=\"2,3,1,1,0\" data-index-in-node=\"0\"><strong>Dịch nghĩa:</strong> Chiếc đồng hồ treo ở trên tường.</em></p>\n<p data-path-to-node=\"2,3,1,1,0\"> </p>\n<p data-path-to-node=\"2,4,0\"><strong data-path-to-node=\"2,4,0\" data-index-in-node=\"0\">5. The pillow is on the floor.</strong></p>\n<p data-path-to-node=\"2,4,1,0,0\"><strong data-path-to-node=\"2,4,1,0,0\" data-index-in-node=\"0\">Giải thích:</strong> Dùng giới từ \"on\" vì chiếc gối tiếp xúc trực tiếp với bề mặt nằm ngang của sàn nhà.</p>\n<p data-path-to-node=\"2,4,1,1,0\"><em data-path-to-node=\"2,4,1,1,0\" data-index-in-node=\"0\"><strong>Dịch nghĩa: </strong>Chiếc gối nằm ở trên sàn nhà.</em></p>\n<p data-path-to-node=\"2,4,1,1,0\"> </p>\n<p data-path-to-node=\"2,5,0\"><strong data-path-to-node=\"2,5,0\" data-index-in-node=\"0\">6. The lamp is in the corner of the room.</strong></p>\n<p data-path-to-node=\"2,5,1,0,0\"><strong data-path-to-node=\"2,5,1,0,0\" data-index-in-node=\"0\">Giải thích:</strong> Cụm từ cố định \"in the corner of\" dùng để chỉ một vật nằm góc bên trong của một không gian kín như căn phòng.</p>\n<p data-path-to-node=\"2,5,1,1,0\"><em data-path-to-node=\"2,5,1,1,0\" data-index-in-node=\"0\"><strong>Dịch nghĩa:</strong> Chiếc đèn nằm ở trong góc phòng.</em></p>\n<p data-path-to-node=\"2,5,1,1,0\"> </p>\n<p data-path-to-node=\"2,6,0\"><strong data-path-to-node=\"2,6,0\" data-index-in-node=\"0\">7. The bookshelf stand is on the left of the room.</strong></p>\n<p data-path-to-node=\"2,6,1,0,0\"><strong data-path-to-node=\"2,6,1,0,0\" data-index-in-node=\"0\">Giải thích:</strong> Cụm từ \"on the left of\" dùng để chỉ vị trí nằm ở phía bên trái thuộc phạm vi bên trong của căn phòng.</p>\n<p data-path-to-node=\"2,6,1,1,0\"><em data-path-to-node=\"2,6,1,1,0\" data-index-in-node=\"0\"><strong>Dịch nghĩa:</strong> Giá sách đứng nằm ở phía bên trái của căn phòng.</em></p>\n<p data-path-to-node=\"2,6,1,1,0\"> </p>\n<p data-path-to-node=\"2,7,0\"><strong data-path-to-node=\"2,7,0\" data-index-in-node=\"0\">8. The books are on the bookshelf.</strong></p>\n<p data-path-to-node=\"2,7,1,0,0\"><strong data-path-to-node=\"2,7,1,0,0\" data-index-in-node=\"0\">Giải thích:</strong> Dùng giới từ \"on\" vì những cuốn sách được đặt tiếp xúc trên các bề mặt ngăn phẳng của giá sách.</p>\n<p data-path-to-node=\"2,7,1,1,0\"><em data-path-to-node=\"2,7,1,1,0\" data-index-in-node=\"0\"><strong>Dịch nghĩa:</strong> Những cuốn sách nằm ở trên giá sách.</em></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 8,
+        "totalCorrect": 8,
+        "userAnswer": {
+          "input_0": "in",
+          "input_1": "between",
+          "input_2": "above",
+          "input_3": "on",
+          "input_4": "on",
+          "input_5": "in",
+          "input_6": "on",
+          "input_7": "on"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "in"
+          ],
+          "input_1": [
+            "between"
+          ],
+          "input_2": [
+            "above"
+          ],
+          "input_3": [
+            "on"
+          ],
+          "input_4": [
+            "on"
+          ],
+          "input_5": [
+            "in"
+          ],
+          "input_6": [
+            "on"
+          ],
+          "input_7": [
+            "on"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301010",
+      "sourceQuestionId": 301010,
+      "challengeId": 31675,
+      "classChallengeId": "82860",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2. Make a complete sentence by rearranging the words given to describe the position of the objects in the picture below. (Tạo một câu hoàn chỉnh bằng cách sắp xếp lại các từ cho sẵn để miêu tả vị trí các đồ vật trong hình bên dưới.)",
+      "introductionText": "",
+      "contentText": "Exercise 2. Make a complete sentence by rearranging the words given to describe the position of the objects in the picture below. (Tạo một câu hoàn chỉnh bằng cách sắp xếp lại các từ cho sẵn để miêu tả vị trí các đồ vật trong hình bên dưới.)",
+      "answerTemplateText": "Example: chest of drawers (tủ ngăn kéo) / the / in / is / the corner of / room / . \n\n=> The chest of drawers is in the corner of the room.\n\n1. clock / on / is / wall / the / the / .\n\n=> [input_0]\n\n2. table / the / under / window / the / is / .\n\n=> [input_1]\n\n3. computer / the / is / on / table / the / .\n\n=> [input_2]\n\n4. teddy bear / on / is / the / the / chest of drawers / .\n\n=> [input_3]\n\n5. book / the / is / on / the / bed / . \n\n=> [input_4]\n\n6. stool (ghế đẩu) / the / is / under / table / the / .\n\n=> [input_5]\n\n7. guitar / bed / between / the / chest of drawers / the / and / the / is / .\n\n=> [input_6]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 2. Make a complete sentence by rearranging the words given to describe the position of the objects in the picture below. </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Tạo một c&acirc;u ho&agrave;n chỉnh bằng c&aacute;ch sắp xếp lại c&aacute;c từ cho sẵn để mi&ecirc;u tả vị tr&iacute; c&aacute;c đồ vật trong h&igrave;nh b&ecirc;n dưới.)</span></span></p>\n<p><span id=\"docs-internal-guid-bb24e6ba-7fff-57d6-5725-2c43b2dc0191\" style=\"font-family: Nunito-Regular;\"></span></p>",
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Example: chest of drawers (tủ ngăn kéo) / the / in / is / the corner of / room / . </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"color: #000000;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=> <span style=\"color: #ba372a;\">The chest of drawers is in the corner of the room.</span></span><span style=\"font-family: Nunito-Regular;\"><strong id=\"docs-internal-guid-afd6465c-7fff-a608-9098-3f564a9e339c\" style=\"font-weight: normal;\"></strong></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. clock / on / is / wall / the / the / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=> [input_0]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. table / the / under / window / the / is / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=> [input_1]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. computer / the / is / on / table / the / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=> [input_2]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. teddy bear / on / is / the / the / chest of drawers / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=> [input_3]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. book / the / is / on / the / bed / . </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=> [input_4]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. stool (</span><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">ghế đẩu</span><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">) / the / is / under / table / the / .</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=> [input_5]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. guitar / bed / between / the / chest of drawers / the / and / the / is / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=> [input_6]</span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 7,
+        "totalCorrect": 7,
+        "userAnswer": {
+          "input_0": "The clock is on the wall.",
+          "input_1": "The table is under the window",
+          "input_2": "The computer is on the table.",
+          "input_3": "The teddy bear is on the chest of drawers.",
+          "input_4": "The book is on the bed",
+          "input_5": "The stool is under the table.",
+          "input_6": "The guitar is between the chest of drawers and the bed."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "The clock is on the wall."
+          ],
+          "input_1": [
+            "The table is under the window."
+          ],
+          "input_2": [
+            "The computer is on the table."
+          ],
+          "input_3": [
+            "The teddy bear is on the chest of drawers."
+          ],
+          "input_4": [
+            "The book is on the bed."
+          ],
+          "input_5": [
+            "The stool is under the table."
+          ],
+          "input_6": [
+            "The guitar is between the bed and the chest of drawers.",
+            " The guitar is between the chest of drawers and the bed."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301011",
+      "sourceQuestionId": 301011,
+      "challengeId": 31675,
+      "classChallengeId": "82860",
+      "title": "III. Speaking",
+      "type": 2,
+      "prompt": "III. Speaking",
+      "introductionText": "Link script (Google Docs):",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "III. Speaking",
+        "introduction": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong style=\"box-sizing: border-box; background-color: #ffffff;\">Link script (Google Docs):</strong></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "https://docs.google.com/document/d/1G00jE6-TXvDyIh6mY2HDsBXHAY9yyHk7wJLWw2tODxQ/edit?usp=sharing",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301012",
+      "sourceQuestionId": 301012,
+      "challengeId": 31676,
+      "classChallengeId": "82861",
+      "title": "I. Listening Script",
+      "type": 1,
+      "prompt": "I. Listening Script",
+      "introductionText": "Exercise 1. Read the conversations from 1-4 about asking for and giving directions. Then finish the sentences below (a, b, c) by choosing the correct word given in the bracket. (Đọc các đoạn hội thoại từ 1-4 về việc hỏi và chỉ đường. Sau đó hoàn thành các câu bên dưới a, b, c bằng việc chọn từ đúng được cho trong ngoặc đơn.)",
+      "contentText": "",
+      "answerTemplateText": "Based on the conversations from 1-4 (Dựa vào đoạn hội thoại từ 1-4):\n\n1. Where's the post office?\n\nExample: a. Go straight (for/in) for two blocks.\n\nb. Then, turn (left/right) [input_0].\n\nc. It's (on/at) [input_1] your left.\n\n2. Where's the bank?\n\na. Take a right (in/at) [input_2] the first (corner/intersection) [input_3].\n\nb. You'll see a bank (in/on) [input_4] the right.\n\n3. Where's the hotel?\n\na. Go straight (at/up) [input_5] two blocks.\n\nb. Turn right (on/at) [input_6] the light.\n\nc. The hotel is (in/on) [input_7] your right.\n\n4. Where's the bookstore?\n\na. (Go/Take) [input_8] the first street on the left.\n\nb. (Turn/Go) [input_9] through the next intersection.\n\nc. It's (on/at) [input_10] the right.",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "I. Listening Script",
+        "introduction": "<p><span id=\"docs-internal-guid-8d86a6e2-7fff-cd2a-828c-979d65295536\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 1. Read the conversations from 1-4 about asking for and giving directions. Then finish the sentences below (a, b, c) by choosing the correct word given in the bracket.</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Đọc c&aacute;c đoạn hội thoại từ 1-4 về việc hỏi v&agrave; chỉ đường. Sau đ&oacute; ho&agrave;n th&agrave;nh c&aacute;c c&acirc;u b&ecirc;n dưới a, b, c bằng việc chọn từ đ&uacute;ng được cho trong ngoặc đơn.)</span></span></p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Based on the conversations from 1-4 </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Dựa vào đoạn hội thoại từ 1-4)</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">:</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. Where's the </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">post office</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Example: a. Go straight (for/in) <span style=\"color: #ba372a;\">for </span>two blocks.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">b. Then, turn (left/right) [input_0].</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">c. It's (on/at) [input_1] your left.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. Where's the </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">bank</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a. Take a right (in/at) [input_2] the first (corner/intersection) [input_3].</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">b. You'll see a bank (in/on) [input_4] the right.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. Where's the </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">hotel</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a. Go straight (at/up) [input_5] two blocks.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">b. Turn right (on/at) [input_6] the light.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">c. The hotel is (in/on) [input_7] your right.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. Where's the </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">bookstore</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">?</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a. (Go/Take) [input_8] the first street on the left.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">b. (Turn/Go) [input_9] through the next intersection.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">c. It's (on/at) [input_10] the right. </span></p>\n<p><span id=\"docs-internal-guid-02d502d3-7fff-2135-b944-259e6f6f33fa\"></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 11,
+        "totalCorrect": 11,
+        "userAnswer": {
+          "input_0": "left",
+          "input_1": "on",
+          "input_2": "at",
+          "input_3": "corner",
+          "input_4": "on",
+          "input_5": "up",
+          "input_6": "at",
+          "input_7": "on",
+          "input_8": "Take",
+          "input_9": "Go",
+          "input_10": "on"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "left"
+          ],
+          "input_1": [
+            "on"
+          ],
+          "input_2": [
+            "at"
+          ],
+          "input_3": [
+            "corner"
+          ],
+          "input_4": [
+            "on"
+          ],
+          "input_5": [
+            "up"
+          ],
+          "input_6": [
+            "at"
+          ],
+          "input_7": [
+            "on"
+          ],
+          "input_8": [
+            "Take"
+          ],
+          "input_9": [
+            "Go"
+          ],
+          "input_10": [
+            "on"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": true,
+          "input_9": true,
+          "input_10": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301013",
+      "sourceQuestionId": 301013,
+      "challengeId": 31676,
+      "classChallengeId": "82861",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2. Finish these sentences of asking for and giving directions below by matching the beginning parts from1-10 with their correct endings from a-k. (Hoàn thành các câu hỏi và chỉ đường sau bằng cách ghép đoạn đầu câu từ 1-10 với đoạn cuối của câu từ a-k.)\n\nBased on the conversations from 1-6 (Dựa vào đoạn hội thoại từ 1-6):\n\nExample: 0 - b",
+      "introductionText": "Exercise 2. Finish these sentences of asking for and giving directions below by matching the beginning parts from1-10 with their correct endings from a-k. (Hoàn thành các câu hỏi và chỉ đường sau bằng cách ghép đoạn đầu câu từ 1-10 với đoạn cuối của câu từ a-k.)\n\nBased on the conversations from 1-6 (Dựa vào đoạn hội thoại từ 1-6):\n\nExample: 0 - b",
+      "contentText": "Example: 0. Is there a stadium\n\n |\n\na. for the Chelsea Hotel.\n\n |\n\n1. Go straight\n\n |\n\nb. near here?\n\n |\n\n2. Turn right \n\n |\n\nc. find Centennial Park.\n\n |\n\n3. I’m looking\n\n |\n\nd. up Heath Street for three blocks.\n\n |\n\n4. It’s on the corner\n\n |\n\ne. on Cornelia Street.\n\n |\n\n5. I’m trying to\n\n |\n\nf. to the West Village?\n\n |\n\n6. How can I get\n\n |\n\ng. of Highgate Street.\n\n |\n\n7. It’s not far\n\n |\n\nh. me how to get to Bedford Street?\n\n |\n\n8. The office is in the first building you\n\n |\n\ni. from here. \n\n |\n\n9. Can you tell\n\n |\n\nj. two blocks and turn left on 72nd Street.\n\n |\n\n10. Go up Groove Street for\n\n |\n\nk. see on your right.\n\n |",
+      "answerTemplateText": "Your answers:\n\n1. [input_0]\n\n2. [input_1]\n\n3. [input_2]\n\n4. [input_3]\n\n5. [input_4]\n\n6. [input_5]\n\n7. [input_6]\n\n8. [input_7]\n\n9. [input_8]\n\n10. [input_9]",
+      "explanationText": "1. Go straight [d] up Heath Street for three blocks.\n\nDịch: Đi thẳng phố Heath khoảng ba dãy nhà.\n\n2. Turn right [e] on Cornelia Street.\n\nDịch: Rẽ phải vào phố Cornelia.\n\n3. I’m looking [a] for the Chelsea Hotel.\n\nDịch: Tôi đang tìm Khách sạn Chelsea.\n\n4. It’s on the corner [g] of Highgate Street.\n\nDịch: Nó ở góc phố Highgate.\n\n5. I’m trying to [c] find Centennial Park.\n\nDịch: Tôi đang cố gắng tìm Công viên Centennial.\n\n6. How can I get [f] to the West Village?\n\nDịch: Làm thế nào để tôi đến được West Village?\n\n7. It’s not far [i] from here.\n\nDịch: Nó không xa từ đây.\n\n8. The office is in the first building you [k] see on your right.\n\nDịch: Văn phòng ở ngay tòa nhà đầu tiên bạn thấy bên tay phải.\n\n9. Can you tell [h] me how to get to Bedford Street?\n\nDịch: Bạn có thể chỉ cho tôi đường đến phố Bedford không?\n\n10. Go up Groove Street for [j] two blocks and turn left on 72nd Street.\n\nDịch: Đi thẳng phố Groove hai dãy nhà rồi rẽ trái vào phố 72.",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 2. Finish these sentences of asking for and giving directions below by matching the beginning parts from<em>1-10</em> with their correct endings from <em>a-k. </em></span><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><em>(Hoàn thành các câu hỏi và chỉ đường sau bằng cách ghép đoạn đầu câu từ 1-10 với đoạn cuối của câu từ a-k.)</em></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Based on the conversations from 1-6 </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Dựa vào đoạn hội thoại từ 1-6)</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">:</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Example: <span style=\"color: #ba372a;\">0 -</span><span style=\"color: #ba372a;\"> b</span></span></p>\n<p><span id=\"docs-internal-guid-df764d02-7fff-17e5-5101-aa27b600cd54\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"></span></p>",
+        "content": "<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 451.27559055118115pt;\"><colgroup><col /><col /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Example: 0. Is there a stadium</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a. for the Chelsea Hotel.</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. Go straight</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: line-through; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">b. near here?</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. Turn right </span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">c. find Centennial Park.</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. I’m looking</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">d. up Heath Street for three blocks.</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. It’s on the corner</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">e. on Cornelia Street.</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. I’m trying to</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">f. to the West Village?</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. How can I get</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">g. of Highgate Street.</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. It’s not far</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">h. me how to get to Bedford Street?</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. The office is in the first building you</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">i. from here. </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9. Can you tell</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">j. two blocks and turn left on 72nd Street.</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">10. Go up Groove Street for</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">k. see on your right.</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>",
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><em>Your answers:</em></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. [input_0]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. [input_1]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. [input_2]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. [input_3]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. [input_4]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. [input_5]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. [input_6]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. [input_7]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9. [input_8]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">10. [input_9]</span></p>\n<p><span id=\"docs-internal-guid-4585e0a7-7fff-1dfd-6efb-2a3aa6d46e03\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"></span></p>",
+        "explain": "<p><strong>1. Go straight [d] up Heath Street for three blocks.</strong></p>\n<p><em><strong>Dịch:</strong> Đi thẳng phố Heath khoảng ba dãy nhà.</em></p>\n<p><strong>2. Turn right [e] on Cornelia Street.</strong></p>\n<p><em><strong>Dịch:</strong> Rẽ phải vào phố Cornelia.</em></p>\n<p><strong>3. I’m looking [a] for the Chelsea Hotel.</strong></p>\n<p><em><strong>Dịch:</strong> Tôi đang tìm Khách sạn Chelsea.</em></p>\n<p><strong>4. It’s on the corner [g] of Highgate Street.</strong></p>\n<p><em><strong>Dịch:</strong> Nó ở góc phố Highgate.</em></p>\n<p><strong>5. I’m trying to [c] find Centennial Park.</strong></p>\n<p><em><strong>Dịch:</strong> Tôi đang cố gắng tìm Công viên Centennial.</em></p>\n<p><strong>6. How can I get [f] to the West Village?</strong></p>\n<p><em><strong>Dịch:</strong> Làm thế nào để tôi đến được West Village?</em></p>\n<p><strong>7. It’s not far [i] from here.</strong></p>\n<p><em><strong>Dịch:</strong> Nó không xa từ đây.</em></p>\n<p><strong>8. The office is in the first building you [k] see on your right.</strong></p>\n<p><em><strong>Dịch:</strong> Văn phòng ở ngay tòa nhà đầu tiên bạn thấy bên tay phải.</em></p>\n<p><strong>9. Can you tell [h] me how to get to Bedford Street?</strong></p>\n<p><em><strong>Dịch:</strong> Bạn có thể chỉ cho tôi đường đến phố Bedford không?</em></p>\n<p><strong>10. Go up Groove Street for [j] two blocks and turn left on 72nd Street.</strong></p>\n<p><em><strong>Dịch:</strong> Đi thẳng phố Groove hai dãy nhà rồi rẽ trái vào phố 72.</em></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 10,
+        "totalCorrect": 10,
+        "userAnswer": {
+          "input_0": "d",
+          "input_1": "e",
+          "input_2": "a",
+          "input_3": "g",
+          "input_4": "c",
+          "input_5": "f",
+          "input_6": "i",
+          "input_7": "k",
+          "input_8": "h",
+          "input_9": "j"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "d"
+          ],
+          "input_1": [
+            "e"
+          ],
+          "input_2": [
+            "a"
+          ],
+          "input_3": [
+            "g"
+          ],
+          "input_4": [
+            "c"
+          ],
+          "input_5": [
+            "f"
+          ],
+          "input_6": [
+            "i"
+          ],
+          "input_7": [
+            "k"
+          ],
+          "input_8": [
+            "h"
+          ],
+          "input_9": [
+            "j"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": true,
+          "input_9": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301014",
+      "sourceQuestionId": 301014,
+      "challengeId": 31676,
+      "classChallengeId": "82861",
+      "title": null,
+      "type": 4,
+      "prompt": "Exercise 3. Each person from 1-4 is giving direction to their place. Choose the correct answer for each question. (Mỗi người từ 1-4 đang chỉ đường để đi đến nơi ở của họ. Chọn đáp án đúng cho mỗi câu hỏi.)",
+      "introductionText": "Exercise 3. Each person from 1-4 is giving direction to their place. Choose the correct answer for each question. (Mỗi người từ 1-4 đang chỉ đường để đi đến nơi ở của họ. Chọn đáp án đúng cho mỗi câu hỏi.)",
+      "contentText": "1. In paragraph 1, when you come out of the subway, which do you look for?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "Ở đoạn 1, khi bạn ra khỏi ga tàu điện ngầm, bạn tìm kiếm cái gì?\n\nĐáp án: a. một khách sạn",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-8380af41-7fff-f387-4d52-5c82ff642505\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 3. Each person from 1-4 is giving direction to their place. </span><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\"><strong>Choose the correct answer for each question.&nbsp;</strong></span></span></span><em><span style=\"background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular;\">(Mỗi người từ 1-4 đang chỉ đường để đi đến nơi ở của họ. Chọn đ&aacute;p &aacute;n đ&uacute;ng cho mỗi c&acirc;u hỏi.)</span></span></em></p>",
+        "content": "<p><span id=\"docs-internal-guid-fa415a5f-7fff-2005-8fe2-0b793b4f6224\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\">1. <span style=\"text-decoration: underline;\"><em>In paragraph 1</em></span>, when you come out of the subway, which do you look for? </span></span></p>",
+        "answerTemplate": null,
+        "explain": "<p><em><strong>Ở đoạn 1, khi bạn ra khỏi ga tàu điện ngầm, bạn tìm kiếm cái gì?</strong></em></p>\n<ul>\n<li>\n<p>Đáp án: a. một khách sạn</p>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621493,
+        "correctAnswer": 621493,
+        "resultAnswer": {
+          "621493": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301015",
+      "sourceQuestionId": 301015,
+      "challengeId": 31676,
+      "classChallengeId": "82861",
+      "title": null,
+      "type": 4,
+      "prompt": "2. In paragraph 1, after you find the tall glass building, what do you do next?",
+      "introductionText": "",
+      "contentText": "2. In paragraph 1, after you find the tall glass building, what do you do next?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "Ở đoạn 1, sau khi bạn tìm thấy tòa nhà kính cao, bạn làm gì tiếp theo?\n\nĐáp án: b. đi qua nó hai dãy nhà",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-f98c8bf2-7fff-2d06-9e02-d05569e10acd\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\">2. <em><span style=\"text-decoration: underline;\">In paragraph 1</span></em>, after you find the tall glass building, what do you do next? </span></span></p>",
+        "answerTemplate": null,
+        "explain": "<p><em><strong>Ở đoạn 1, sau khi bạn tìm thấy tòa nhà kính cao, bạn làm gì tiếp theo?</strong></em></p>\n<ul>\n<li>\n<p>Đáp án: b. đi qua nó hai dãy nhà</p>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621497,
+        "correctAnswer": 621497,
+        "resultAnswer": {
+          "621497": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301016",
+      "sourceQuestionId": 301016,
+      "challengeId": 31676,
+      "classChallengeId": "82861",
+      "title": null,
+      "type": 4,
+      "prompt": "3. In paragraph 2, where do you need to get off the bus?",
+      "introductionText": "",
+      "contentText": "3. In paragraph 2, where do you need to get off the bus?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "Ở đoạn 2, bạn cần xuống xe buýt ở đâu?\n\nĐáp án: b. đối diện siêu thị",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-02c9d73f-7fff-dac6-8a2b-cbc049dc76b3\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span id=\"docs-internal-guid-afeea7a5-7fff-0efd-1afa-a67e06c60c05\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. </span><span style=\"text-decoration: underline;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;\">In paragraph 2</span></span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, where do you need to get off the bus?</span></span></p>",
+        "answerTemplate": null,
+        "explain": "<p><em><strong>Ở đoạn 2, bạn cần xuống xe buýt ở đâu?</strong></em></p>\n<ul>\n<li>\n<p>Đáp án: b. đối diện siêu thị</p>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621500,
+        "correctAnswer": 621500,
+        "resultAnswer": {
+          "621500": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301017",
+      "sourceQuestionId": 301017,
+      "challengeId": 31676,
+      "classChallengeId": "82861",
+      "title": null,
+      "type": 4,
+      "prompt": "4. In paragraph 2, what do you do after you see a footbridge?",
+      "introductionText": "",
+      "contentText": "4. In paragraph 2, what do you do after you see a footbridge?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "Ở đoạn 2, bạn làm gì sau khi nhìn thấy một cây cầu đi bộ?\n\nĐáp án: b. đi qua cây cầu đó và đi xuống con phố ở phía bên kia",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-d7569d51-7fff-8789-5082-73ab58853a83\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\">4. <em><span style=\"text-decoration: underline;\">In paragraph 2</span></em>, what do you do after you see a footbridge? </span></span></p>",
+        "answerTemplate": null,
+        "explain": "<p><em><strong>Ở đoạn 2, bạn làm gì sau khi nhìn thấy một cây cầu đi bộ?</strong></em></p>\n<ul>\n<li>\n<p>Đáp án: b. đi qua cây cầu đó và đi xuống con phố ở phía bên kia</p>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621503,
+        "correctAnswer": 621503,
+        "resultAnswer": {
+          "621503": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301018",
+      "sourceQuestionId": 301018,
+      "challengeId": 31676,
+      "classChallengeId": "82861",
+      "title": null,
+      "type": 4,
+      "prompt": "5. In Paragraph 3, when you come out of the subway, what do you do next?",
+      "introductionText": "",
+      "contentText": "5. In Paragraph 3, when you come out of the subway, what do you do next?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "Ở đoạn 3, khi bạn ra khỏi ga tàu điện ngầm, bạn làm gì tiếp theo?\n\nĐáp án: c. đi về phía con sông",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-d7569d51-7fff-8789-5082-73ab58853a83\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\">5. <span style=\"text-decoration: underline;\"><em>In Paragraph 3</em></span>, when you come out of the subway, what do you do next? </span></span></p>",
+        "answerTemplate": null,
+        "explain": "<p><em><strong>Ở đoạn 3, khi bạn ra khỏi ga tàu điện ngầm, bạn làm gì tiếp theo?</strong></em></p>\n<ul>\n<li>\n<p>Đáp án: c. đi về phía con sông</p>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621507,
+        "correctAnswer": 621507,
+        "resultAnswer": {
+          "621507": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301019",
+      "sourceQuestionId": 301019,
+      "challengeId": 31676,
+      "classChallengeId": "82861",
+      "title": null,
+      "type": 4,
+      "prompt": "6. In Paragraph 3, what do you do after you see the intersection?",
+      "introductionText": "",
+      "contentText": "6. In Paragraph 3, what do you do after you see the intersection?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "Ở đoạn 3, bạn làm gì sau khi nhìn thấy ngã tư?\n\nĐáp án: a. đi qua ngã tư và rẽ vào con phố đầu tiên bên tay trái",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-d7569d51-7fff-8789-5082-73ab58853a83\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\">6. <span style=\"text-decoration: underline;\"><em>In Paragraph 3</em></span>, what do you do after you see the intersection? </span></span></p>",
+        "answerTemplate": null,
+        "explain": "<p><em><strong>Ở đoạn 3, bạn làm gì sau khi nhìn thấy ngã tư?</strong></em></p>\n<ul>\n<li>\n<p>Đáp án: a. đi qua ngã tư và rẽ vào con phố đầu tiên bên tay trái</p>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621508,
+        "correctAnswer": 621508,
+        "resultAnswer": {
+          "621508": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301020",
+      "sourceQuestionId": 301020,
+      "challengeId": 31676,
+      "classChallengeId": "82861",
+      "title": null,
+      "type": 4,
+      "prompt": "7. In Paragraph 4, what do you do when you get off the bus?",
+      "introductionText": "",
+      "contentText": "7. In Paragraph 4, what do you do when you get off the bus?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "Ở đoạn 4, bạn làm gì khi xuống xe buýt?\n\nĐáp án: c. đi về phía bắc khoảng bốn dãy nhà",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">7. <span style=\"text-decoration: underline;\"><em>In Paragraph 4</em></span>, what do you do when you get off the bus?</span></p>",
+        "answerTemplate": null,
+        "explain": "<p><em><strong>Ở đoạn 4, bạn làm gì khi xuống xe buýt?</strong></em></p>\n<ul>\n<li>\n<p>Đáp án: c. đi về phía bắc khoảng bốn dãy nhà</p>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621513,
+        "correctAnswer": 621513,
+        "resultAnswer": {
+          "621513": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-301021",
+      "sourceQuestionId": 301021,
+      "challengeId": 31676,
+      "classChallengeId": "82861",
+      "title": null,
+      "type": 4,
+      "prompt": "8. In Paragraph 4, what is the final landmark (cột mốc cuối cùng) before getting to the apartment?",
+      "introductionText": "",
+      "contentText": "8. In Paragraph 4, what is the final landmark (cột mốc cuối cùng) before getting to the apartment?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "Ở đoạn 4, cột mốc cuối cùng trước khi đến căn hộ là gì?\n\nĐáp án: c. một nhà thờ",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">8. <span style=\"text-decoration: underline;\"><em>In Paragraph 4</em></span>,&nbsp;</span><span style=\"font-family: Nunito-Regular;\">what is the <em>final landmark (cột mốc cuối c&ugrave;ng)</em> before getting to the apartment?</span></p>",
+        "answerTemplate": null,
+        "explain": "<p><em><strong>Ở đoạn 4, cột mốc cuối cùng trước khi đến căn hộ là gì?</strong></em></p>\n<ul>\n<li>\n<p>Đáp án: c. một nhà thờ</p>\n</li>\n</ul>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 621516,
+        "correctAnswer": 621516,
+        "resultAnswer": {
+          "621516": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    }
+  ]
+}

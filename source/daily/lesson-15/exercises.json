@@ -1,0 +1,887 @@
+{
+  "lesson": 15,
+  "lessonKey": "lesson-15",
+  "questions": [
+    {
+      "id": "question-320683",
+      "sourceQuestionId": 320683,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "title": "Grammar",
+      "type": 1,
+      "prompt": "Grammar",
+      "introductionText": "",
+      "contentText": "Exercise 1. Complete the sentences with a modal verb from the box below. Sometimes more than one answer is possible. (Điền động từ khuyết thiếu thích hợp vào chỗ trống. Một số từ có thể áp dụng trong nhiều hơn một câu.)\n\nmust   mustn't/must not   can    can't/cannot   could   should   may   might   might not    need   needn't/need not   do not need/don't need   will |",
+      "answerTemplateText": "1. We [input_0] be able to win, but I don't think we have a good chance.\n\n2. That [input_1] be John. He said he was going to travel to Australia.\n\n3. When I was younger, I [input_2] sing very well.\n\n4. I think you [input_3] relax more. You have been working too much lately.\n\n5. I [input_4] ask you to help me later. \n\n6. You [input_5] to go shopping this weekend. We've got everything at home.\n\n7. You [input_6] go in without a ticket. All seats are reserved. \n\n8. All passengers [input_7] put on their seatbelts during take-off and landing.\n\n9. At what age [input_8] you get a driving license in your country?\n\n10. In the US, young men [input_9] join the army. It's voluntary.\n\n11. I promise I [input_10] stop smoking.\n\n12. Mom, [input_11] you pass me the sugar, please?\n\n13. If you want to be a teacher, you [input_12] attend a teacher's training college.\n\n14. He's not picking up the phone. He [input_13] be home yet.\n\n15. You [input_14] park in a no-parking area. It's forbidden.",
+      "explanationText": "1. may / might\n\n“I don't think\" (tôi không nghĩ) => khả năng thắng chỉ là có thể và không cao => dùng “may/might\"\n\n2. can't / cannot\n\n“He said he was going to travel to Australia.” (anh ta đã đi Úc) => không thể là anh ta được\n\n3. could\n\n“when I was younger\" (khi tôi trẻ hơn) => nói về khả năng trong quá khứ => dùng “could\"\n\n4. should\n\n“I think\" (tôi nghĩ rằng)\n\n“You have been working too much lately.” (Bạn đã làm việc nhiều gần đây)\n\n=> 1 lời khuyên => dùng “should\"\n\n5. may / might\n\nKhả năng có thể xảy ra không cao => may / might (vì có thể khá ngại khi nhờ người ta giúp)\n\n6. do not need / don't need\n\n“We’ve got everything at home.” (chúng tôi đã có mọi thứ ở nhà rồi) => không cần thiết phải đi mua sắm\n\n7. can't / cannot \n\n“ All seats are reserved.” (tất cả các ghế đã được đặt trước) => không thể đi mà không có vé\n\n8. must\n\n1 luật ở trên máy bay phải thực hiện => dùng “must”\n\n9. can\n\n“get a driving license” (lấy bằng lái xe) => khả năng ở hiện tại => dùng “can\"\n\n10. needn't / need not\n\n“voluntary” (tự nguyện) => hành động không cần thiết => dùng “needn't\"\n\n11. will\n\n1 lời hứa => dùng “will\"\n\n12. could / can\n\n1 lời đề nghị, yêu cầu => dùng “can / could\"\n\n13. must\n\nNói đến sự cần thiết của việc trở thành giáo viên là phải tham gia khoá này => dùng “must\"\n\n14. might not\n\n1 lời dự đoán vì anh ta không nghe điện thoại => dùng “might not\" vì khả năng không cao\n\n15. must not / mustn't / can’t / cannot \n\n1 hành động bị cấm và không được phép làm => dùng “mustn't\" hoặc “can't\"",
+      "rawHtml": {
+        "title": "Grammar",
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-family: Nunito-ExtraBold;\"><strong style=\"box-sizing: border-box; background-color: #ffffff;\">Exercise 1. Complete the sentences with a modal verb from the box below. Sometimes more than one answer is possible. </strong></span><em style=\"box-sizing: border-box; background-color: #ffffff;\">(Điền động từ khuyết thiếu thích hợp vào chỗ trống. Một số từ có thể áp dụng trong nhiều hơn một câu.)</em></span></p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 99.2006%;\">must   mustn't/must not   can    can't/cannot   could   should   may   might   might not    need   needn't/need not   do not need/don't need   will</td>\n</tr>\n</tbody>\n</table>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">1. We [input_0] be able to win, but I don't think we have a good chance.</span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">2. That [input_1] be John. He said he was going to travel to Australia.</span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">3. When I was younger, I [input_2] sing very well.</span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">4. I think you [input_3] relax more. You have been working too much lately.</span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">5. I [input_4] ask you to help me later. </span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">6. You [input_5] to go shopping this weekend. We've got everything at home.</span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">7. You [input_6] go in without a ticket. All seats are reserved. </span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">8. All passengers [input_7] put on their seatbelts during take-off and landing.</span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">9. At what age [input_8] you get a driving license in your country?</span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">10. In the US, young men [input_9] join the army. It's voluntary.</span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">11. I promise I [input_10] stop smoking.</span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">12. Mom, [input_11] you pass me the sugar, please?</span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">13. If you want to be a teacher, you [input_12] attend a teacher's training college.</span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">14. He's not picking up the phone. He [input_13] be home yet.</span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">15. You [input_14] park in a no-parking area. It's forbidden.</span></p>",
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">may / might</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">“I don't think\" (tôi không nghĩ) =&gt; khả năng thắng chỉ là có thể và không cao =&gt; dùng “may/might\"</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">can't / cannot</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">“He said he was going to travel to Australia.” (anh ta đã đi Úc) =&gt; không thể là anh ta được</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">could</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">“when I was younger\" (khi tôi trẻ hơn) =&gt; nói về khả năng trong quá khứ =&gt; dùng “could\"</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">should</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">“I think\" (tôi nghĩ rằng)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">“You have been working too much lately.” (Bạn đã làm việc nhiều gần đây)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=&gt; 1 lời khuyên =&gt; dùng “should\"</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">may / might</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Khả năng có thể xảy ra không cao =&gt; may / might (vì có thể khá ngại khi nhờ người ta giúp)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">do not need / don't need</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">“We’ve got everything at home.” (chúng tôi đã có mọi thứ ở nhà rồi) =&gt; không cần thiết phải đi mua sắm</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">can't / cannot</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">“ All seats are reserved.” (tất cả các ghế đã được đặt trước) =&gt; không thể đi mà không có vé</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">must</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1 luật ở trên máy bay phải thực hiện =&gt; dùng “must”</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">can</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">“get a driving license” (lấy bằng lái xe) =&gt; khả năng ở hiện tại =&gt; dùng “can\"</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">10. </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">needn't / need not</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">“voluntary” (tự nguyện) =&gt; hành động không cần thiết =&gt; dùng “needn't\"</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">11.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">will</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1 lời hứa =&gt; dùng “will\"</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">12. </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">could / can</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1 lời đề nghị, yêu cầu =&gt; dùng “can / could\"</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">13.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">must</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Nói đến sự cần thiết của việc trở thành giáo viên là phải tham gia khoá này =&gt; dùng “must\"</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">14. </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">might not</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1 lời dự đoán vì anh ta không nghe điện thoại =&gt; dùng “might not\" vì khả năng không cao</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">15.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">must not / mustn't / can’t / cannot</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1 hành động bị cấm và không được phép làm =&gt; dùng “mustn't\" hoặc “can't\"</span></p>\n<p><span id=\"docs-internal-guid-6cdae1f8-7fff-70f9-2ee8-9bef34ec9a77\" style=\"font-family: Nunito-Regular;\"></span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 15,
+        "totalCorrect": 12,
+        "userAnswer": {
+          "input_0": "may",
+          "input_1": "can't",
+          "input_2": "could",
+          "input_3": "should",
+          "input_4": "may",
+          "input_5": "don't need",
+          "input_6": "can't",
+          "input_7": "must",
+          "input_8": "can",
+          "input_9": "needn’t",
+          "input_10": "will",
+          "input_11": "can",
+          "input_12": "need to",
+          "input_13": "may not",
+          "input_14": "must not"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "might",
+            "may"
+          ],
+          "input_1": [
+            "can't",
+            "cannot"
+          ],
+          "input_2": [
+            "could"
+          ],
+          "input_3": [
+            "should"
+          ],
+          "input_4": [
+            "may",
+            "might"
+          ],
+          "input_5": [
+            "do not need",
+            "don't need"
+          ],
+          "input_6": [
+            "can't",
+            "cannot"
+          ],
+          "input_7": [
+            "must"
+          ],
+          "input_8": [
+            "can"
+          ],
+          "input_9": [
+            "needn't",
+            "need not"
+          ],
+          "input_10": [
+            "will"
+          ],
+          "input_11": [
+            "could",
+            "can"
+          ],
+          "input_12": [
+            "must"
+          ],
+          "input_13": [
+            "might not"
+          ],
+          "input_14": [
+            "must not",
+            "mustn't",
+            "can't",
+            "cannot"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": true,
+          "input_9": false,
+          "input_10": true,
+          "input_11": true,
+          "input_12": false,
+          "input_13": false,
+          "input_14": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-320684",
+      "sourceQuestionId": 320684,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2. Matching (Nối câu)",
+      "introductionText": "Exercise 2. Matching (Nối câu)",
+      "contentText": "1. There was a huge storm in Ha Long, so we ....\n\n2. This chocolate mousse was too sweet and not creamy at all. I thought I was eating jelly. I ...\n\n3. The appetizer was so good that she ordered that same dish again. After the meal, she ...\n\n4. We ..., because I really enjoyed the spices the chicken was cooked in.\n\n5. The beautiful cafe with the most delicious egg coffee that you mentioned ...\n\n |\n\na. need to ask for a refund.\n\nb. might give this restaurant a 5-star rating.\n\nc. must be LGo cafe in my neighborhood.\n\nd. couldn't go swimming at the beach.\n\ne. should come back here one day.\n\n |",
+      "answerTemplateText": "1. [input_0]\n\n2. [input_1]\n\n3. [input_2]\n\n4. [input_3]\n\n5. [input_4]",
+      "explanationText": "1. d\n\nCâu nói về 1 cơn bão lớn ở Hạ Long => chọn câu nói về hậu quả (không thể đi bơi được)\n\n2. a\n\nCâu nói về việc chiếc bánh mousse quá ngọt và có vị kem => chọn câu nói về kết quả (refund - hoàn tiền)\n\n3. e\n\nCâu nói về việc đồ khai vị ngon nên cô ấy đã gọi thêm 1 lần nữa => chọn câu nói về hệ quả (cô ta sẽ có thể quay lại đây trong tương lai)\n\n4. b\n\nCâu nói về việc gia vị nấu gà rất ngon => chọn câu nói về kết quả (sẽ có thể cho nhà hàng này đánh giá 5 sao)\n\n5. c\n\nCâu nói về quán cà phê đẹp với món cà phê trứng ngon => chọn câu nói về 1 lời dự đoán (đó có thể là quán cà phê LGo)",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-1da2cfc5-7fff-0b01-92e4-1797297fc44e\" style=\"font-family: Nunito-ExtraBold; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 2. Matching</span><span style=\"font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> <span style=\"font-family: Nunito-Regular;\">(Nối c&acirc;u)</span></span></span></p>",
+        "content": "<p style=\"line-height: 2;\"><span id=\"docs-internal-guid-fb5dc2bd-7fff-6960-c3d6-830ec9499338\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; width: 58.2467%;\"><colgroup><col style=\"width: 50.8396%;\" width=\"201\" /><col style=\"width: 49.1044%;\" width=\"245\" /></colgroup>\n<tbody>\n<tr style=\"height: 233.25pt;\">\n<td style=\"vertical-align: top; background-color: #ffffff; padding: 4pt; overflow: hidden; overflow-wrap: break-word; line-height: 2;\">\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. There was a huge storm in Ha Long, so we &hellip;.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. This chocolate mousse was too sweet and not creamy at all. I thought I was eating jelly. I &hellip;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. The appetizer was so good that she ordered that same dish again. After the meal, she &hellip;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. We &hellip;, because I really enjoyed the spices the chicken was cooked in.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. The beautiful cafe with the most delicious egg coffee that you mentioned &hellip;</span></p>\n</td>\n<td style=\"vertical-align: top; background-color: #ffffff; padding: 4pt 4pt 4pt 4pt; overflow: hidden; overflow-wrap: break-word;\">\n<p dir=\"ltr\" style=\"margin-left: 30pt; margin-top: 0pt; margin-bottom: 6pt; line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a. need to ask for a refund.</span></p>\n<p dir=\"ltr\" style=\"margin-left: 30pt; margin-top: 0pt; margin-bottom: 6pt; line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">b. might give this restaurant a 5-star rating.</span></p>\n<p dir=\"ltr\" style=\"margin-left: 30pt; margin-top: 0pt; margin-bottom: 6pt; line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">c. must be LGo cafe in my neighborhood.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"margin-left: 30pt; margin-top: 0pt; margin-bottom: 6pt; line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">d. couldn&rsquo;t go swimming at the beach.</span></p>\n<p dir=\"ltr\" style=\"margin: 0pt -86.1555pt 6pt 30pt; line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">e. should come back here one day.</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>",
+        "answerTemplate": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">1. [input_0]</span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">2. [input_1]</span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">3. [input_2]</span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">4. [input_3]</span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">5. [input_4]</span></p>",
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">d</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&acirc;u n&oacute;i về 1 cơn b&atilde;o lớn ở Hạ Long =&gt; chọn c&acirc;u n&oacute;i về hậu quả (kh&ocirc;ng thể đi bơi được)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&acirc;u n&oacute;i về việc chiếc b&aacute;nh mousse qu&aacute; ngọt v&agrave; c&oacute; vị kem =&gt; chọn c&acirc;u n&oacute;i về kết quả (refund - ho&agrave;n tiền)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">e</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&acirc;u n&oacute;i về việc đồ khai vị ngon n&ecirc;n c&ocirc; ấy đ&atilde; gọi th&ecirc;m 1 lần nữa =&gt; chọn c&acirc;u n&oacute;i về hệ quả (c&ocirc; ta sẽ c&oacute; thể quay lại đ&acirc;y trong tương lai)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">b</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&acirc;u n&oacute;i về việc gia vị nấu g&agrave; rất ngon =&gt; chọn c&acirc;u n&oacute;i về kết quả (sẽ c&oacute; thể cho nh&agrave; h&agrave;ng n&agrave;y đ&aacute;nh gi&aacute; 5 sao)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">c</span></span></p>\n<p><span id=\"docs-internal-guid-735f5254-7fff-d338-6155-dc0f7c76d80e\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C&acirc;u n&oacute;i về qu&aacute;n c&agrave; ph&ecirc; đẹp với m&oacute;n c&agrave; ph&ecirc; trứng ngon =&gt; chọn c&acirc;u n&oacute;i về 1 lời dự đo&aacute;n (đ&oacute; c&oacute; thể l&agrave; qu&aacute;n c&agrave; ph&ecirc; LGo)</span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 5,
+        "totalCorrect": 5,
+        "userAnswer": {
+          "input_0": "d",
+          "input_1": "a",
+          "input_2": "b",
+          "input_3": "e",
+          "input_4": "c"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "d"
+          ],
+          "input_1": [
+            "a"
+          ],
+          "input_2": [
+            "b"
+          ],
+          "input_3": [
+            "e"
+          ],
+          "input_4": [
+            "c"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-320685",
+      "sourceQuestionId": 320685,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "title": null,
+      "type": 4,
+      "prompt": "Exercise 3. Choose the correct answer (Chọn phương án đúng)",
+      "introductionText": "Exercise 3. Choose the correct answer (Chọn phương án đúng)",
+      "contentText": "1. I don't think he ____ speak Japanese to get orders from those guests, though he used to live in Japan for a year.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "1. C\n\n\"speak Japanese\" => nói về khả năng ở hiện tại => chọn Can",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-bdf638ef-7fff-5182-f804-7a19e2edbd19\" style=\"font-size: 12pt;\"><span style=\"font-family: Nunito-ExtraBold; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 3. Choose the correct answer</span><span style=\"font-family: Nunito, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-family: Nunito-Regular; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Chọn phương &aacute;n đ&uacute;ng)</span></span></p>",
+        "content": "<p><span id=\"docs-internal-guid-67483dc2-7fff-b841-b67c-8ed9297da9fd\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. I don&rsquo;t think he ____ speak Japanese to get orders from those guests, though he used to live in Japan for a year.&nbsp; </span></p>",
+        "answerTemplate": null,
+        "explain": "<p><span id=\"docs-internal-guid-9183fca3-7fff-256e-9dd8-1ab332562d2e\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">1. </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">C</span></span></p>\n<p><span id=\"docs-internal-guid-64fbb724-7fff-e9b3-a22b-0f19940aeda5\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;speak Japanese\" =&gt; n&oacute;i về khả năng ở hiện tại =&gt; chọn Can</span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 0,
+        "userAnswer": 667447,
+        "correctAnswer": 667449,
+        "resultAnswer": {
+          "667447": false
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-320686",
+      "sourceQuestionId": 320686,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "title": null,
+      "type": 4,
+      "prompt": "2. Welcome to LGo cafe, _____ I help you?",
+      "introductionText": "2. Welcome to LGo cafe, _____ I help you?",
+      "contentText": "",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "2. B\n\n1 lời đề nghị giúp đỡ với thái độ lịch sự => chọn May",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-00f7ec5f-7fff-97d4-6871-31398ba795ac\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. Welcome to LGo cafe, _____ I help you? </span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B</span></span></p>\n<p><span id=\"docs-internal-guid-28eb2aa3-7fff-a8c8-fd7a-ab8e2f7962de\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1 lời đề nghị gi&uacute;p đỡ với th&aacute;i độ lịch sự =&gt; chọn May</span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 667452,
+        "correctAnswer": 667452,
+        "resultAnswer": {
+          "667452": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-320687",
+      "sourceQuestionId": 320687,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "title": null,
+      "type": 4,
+      "prompt": "3. Can you see that red sign? You _____ smoke in this restaurant.",
+      "introductionText": "",
+      "contentText": "3. Can you see that red sign? You _____ smoke in this restaurant.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "3. B\n\n1 quy định mà cần làm theo => chọn Mustn't",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-ffe6b26f-7fff-8158-4a1f-130ef4c148e7\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. Can you see that red sign? You _____ smoke in this restaurant. </span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B</span></span></p>\n<p><span id=\"docs-internal-guid-c649cc91-7fff-3249-2d57-f63408181838\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1 quy định m&agrave; cần l&agrave;m theo =&gt; chọn Mustn&rsquo;t</span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 667456,
+        "correctAnswer": 667456,
+        "resultAnswer": {
+          "667456": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-320688",
+      "sourceQuestionId": 320688,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "title": null,
+      "type": 4,
+      "prompt": "4. The dessert was the best. It was apple pie with a lot of cream on it. I know I ____ eat so many sweets, but it was so delicious.",
+      "introductionText": "",
+      "contentText": "4. The dessert was the best. It was apple pie with a lot of cream on it. I know I ____ eat so many sweets, but it was so delicious.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "4. D\n\n1 lời từ khuyên bản thân => chọn Shouldn't",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-296b08b6-7fff-1e6e-3681-c891f241d8a1\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. The dessert was the best. It was apple pie with a lot of cream on it. I know I ____ eat so many sweets, but it was so delicious. </span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">D</span></span></p>\n<p><span id=\"docs-internal-guid-155a2f50-7fff-6eed-0528-560a1da84eca\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1 lời từ khuy&ecirc;n bản th&acirc;n =&gt; chọn Shouldn't</span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 667462,
+        "correctAnswer": 667462,
+        "resultAnswer": {
+          "667462": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-320689",
+      "sourceQuestionId": 320689,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "title": null,
+      "type": 4,
+      "prompt": "5. The vegetables were nice and fresh, so we _____ make a big bowl of salad with sesame dressing in our gathering yesterday.",
+      "introductionText": "",
+      "contentText": "5. The vegetables were nice and fresh, so we _____ make a big bowl of salad with sesame dressing in our gathering yesterday.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "5. A\n\nNói về khả năng làm 1 việc gì đó trong quá khứ => chọn Could",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-c6bd0107-7fff-a761-0c53-c119c8b7d45d\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. The vegetables were nice and fresh, so we _____ make a big bowl of salad with sesame dressing in our gathering yesterday. </span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A</span></span></p>\n<p><span id=\"docs-internal-guid-88a02877-7fff-aa35-efbd-75066a4bf088\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">N&oacute;i về khả năng l&agrave;m 1 việc g&igrave; đ&oacute; trong qu&aacute; khứ =&gt; chọn Could</span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 667463,
+        "correctAnswer": 667463,
+        "resultAnswer": {
+          "667463": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-320690",
+      "sourceQuestionId": 320690,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "title": null,
+      "type": 4,
+      "prompt": "6. It _____ be an upcoming proposal (buổi cầu hôn sắp tới) in this restaurant. Many waiters and waitresses are preparing roses, candles, a lovely cake and a few musicians are coming.",
+      "introductionText": "",
+      "contentText": "6. It _____ be an upcoming proposal (buổi cầu hôn sắp tới) in this restaurant. Many waiters and waitresses are preparing roses, candles, a lovely cake and a few musicians are coming.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "6. B\n\n1 lời dự đoán 1 điều gì đó có khả năng cao sẽ xảy ra trong tương lai => chọn Must",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-538aa923-7fff-28b2-e7c5-7a9e38763512\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. It _____ be </span><span style=\"font-size: 12pt; color: #000000; background-color: #ffcccc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">an upcoming proposal</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(buổi cầu h&ocirc;n sắp tới) </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">in this restaurant. Many waiters and waitresses are preparing roses, candles, a lovely cake and a few musicians are coming.&nbsp;</span></span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B</span></span></p>\n<p><span id=\"docs-internal-guid-6eb20633-7fff-ea8f-b652-d27128eab3e9\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1 lời dự đo&aacute;n 1 điều g&igrave; đ&oacute; c&oacute; khả năng cao sẽ xảy ra trong tương lai =&gt; chọn Must</span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 667468,
+        "correctAnswer": 667468,
+        "resultAnswer": {
+          "667468": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-320691",
+      "sourceQuestionId": 320691,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "title": null,
+      "type": 4,
+      "prompt": "7. _____ you do me a favor? - Yes, sure. - I would like this coke to have less ice.",
+      "introductionText": "7. _____ you do me a favor? - Yes, sure. - I would like this coke to have less ice.",
+      "contentText": "",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "7. C\n\n1 lời đề nghị, nhờ vả => Chọn Could để tăng sự trang trọng",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-cb3be986-7fff-3cdd-8532-52781e7d23d7\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. _____ you do me a favor? - Yes, sure. - I would like this coke to have less ice. </span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C</span></span></p>\n<p><span id=\"docs-internal-guid-9532db13-7fff-4aa5-34d9-85e166804a58\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1 lời đề nghị, nhờ vả =&gt; Chọn Could để tăng sự trang trọng</span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 667473,
+        "correctAnswer": 667473,
+        "resultAnswer": {
+          "667473": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-320692",
+      "sourceQuestionId": 320692,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "title": null,
+      "type": 4,
+      "prompt": "8. The doctor put me on a low-salt diet (chế độ ăn ít muối) to reduce my blood pressure (giảm huyết áp), so I ______ cut down on a lot of snacks.",
+      "introductionText": "",
+      "contentText": "8. The doctor put me on a low-salt diet (chế độ ăn ít muối) to reduce my blood pressure (giảm huyết áp), so I ______ cut down on a lot of snacks.",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "8. A\n\nPhải làm theo lời của bác sĩ => chọn Must",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-5247533e-7fff-b91f-4ae6-40af69786893\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. The doctor put me on </span><span style=\"font-size: 12pt; color: #000000; background-color: #ffcccc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">a low-salt diet </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(chế độ ăn &iacute;t muối)</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> to </span><span style=\"font-size: 12pt; color: #000000; background-color: #ffcccc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">reduce my blood pressure</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(giảm huyết &aacute;p)</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, so I ______ cut down on a lot of snacks.&nbsp;</span></span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #ff0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A</span></span></p>\n<p><span id=\"docs-internal-guid-664dc983-7fff-8a20-862f-9792bdadfe39\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Phải l&agrave;m theo lời của b&aacute;c sĩ =&gt; chọn Must</span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 667475,
+        "correctAnswer": 667475,
+        "resultAnswer": {
+          "667475": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-320693",
+      "sourceQuestionId": 320693,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "title": "Listening",
+      "type": 1,
+      "prompt": "Listening",
+      "introductionText": "Ex1. Listen and fill in the blanks. (Nghe và điền vào chỗ trống)",
+      "contentText": "",
+      "answerTemplateText": "1. I went to a new [input_0] last night that [input_1] near my house.\n\n2. To start the meal, I had an [input_2].\n\n3. It was [input_3] and [input_4] with a great house [input_5].\n\n4. The [input_6] were good—very [input_7] and [input_8].\n\n5. My new girlfriend took me to a [input_9] in her [input_10] the other night.\n\n6. For my [input_11], I had a piece of [input_12]. It was too [input_13] and [input_14].\n\n7. They were the best [input_15].\n\n8. The [input_16] was a big bowl of [input_17].",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "Listening",
+        "introduction": "<p><span id=\"docs-internal-guid-d7b5a3d1-7fff-d72e-2629-9638f7299407\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-family: Nunito-ExtraBold;\">Ex1. Listen and fill in the blanks. </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Nghe v&agrave; điền v&agrave;o chỗ trống)</span></span></p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. I went to a new <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_0]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> last night that <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span> </span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">near my house.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. To start the meal, I had an <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_2]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. It was <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_3]</span> </span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">and <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_4]</span> </span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">with a great house <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_5]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. The <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_6]</span> </span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">were good—very <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_7]</span> </span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">and <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_8]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. My new girlfriend took me to a <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_9]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> in her <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_10]</span> </span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">the other night.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. For my <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_11]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, I had a piece of <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_12]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. It was too <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_13]</span> </span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">and <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_14]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. They were the best <span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_15]</span></span><span style=\"background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span id=\"docs-internal-guid-c9fa7689-7fff-3e74-1687-0dcfbec03c10\" style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">8. The <span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">[input_16]</span> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">was a big bowl of <span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">[input_17]</span></span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">.</span></span></p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 18,
+        "totalCorrect": 16,
+        "userAnswer": {
+          "input_0": "steak restaurant",
+          "input_1": "opened",
+          "input_2": "interesting appetizer",
+          "input_3": "nice",
+          "input_4": "fresh",
+          "input_5": "dressing",
+          "input_6": "vegetables",
+          "input_7": "fresh",
+          "input_8": "tasty",
+          "input_9": "Chinese restaurant",
+          "input_10": "neighborhood",
+          "input_11": "main dish",
+          "input_12": "pork",
+          "input_13": "dry",
+          "input_14": "tasteless",
+          "input_15": "had ever tasted",
+          "input_16": "dessert",
+          "input_17": "fresh fruit"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "steak restaurant"
+          ],
+          "input_1": [
+            "opened"
+          ],
+          "input_2": [
+            "interesting appetizer"
+          ],
+          "input_3": [
+            "nice"
+          ],
+          "input_4": [
+            "fresh"
+          ],
+          "input_5": [
+            "dressing"
+          ],
+          "input_6": [
+            "vegetables"
+          ],
+          "input_7": [
+            "fresh"
+          ],
+          "input_8": [
+            "tasty"
+          ],
+          "input_9": [
+            "Chinese restaurant"
+          ],
+          "input_10": [
+            "neighborhood"
+          ],
+          "input_11": [
+            "main dish"
+          ],
+          "input_12": [
+            "pork"
+          ],
+          "input_13": [
+            "dry"
+          ],
+          "input_14": [
+            "had no taste"
+          ],
+          "input_15": [
+            "I had ever tasted"
+          ],
+          "input_16": [
+            "dessert"
+          ],
+          "input_17": [
+            "fresh fruit"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": true,
+          "input_9": true,
+          "input_10": true,
+          "input_11": true,
+          "input_12": true,
+          "input_13": true,
+          "input_14": false,
+          "input_15": false,
+          "input_16": true,
+          "input_17": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-320694",
+      "sourceQuestionId": 320694,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "title": null,
+      "type": 4,
+      "prompt": "Ex2. People are talking about meals they had at a restaurant. Listen and choose the correct answer. (Khách hàng đang chia sẻ về trải nghiệm ăn uống ở một nhà hàng. Nghe và chọn phương án đúng.)",
+      "introductionText": "Ex2. People are talking about meals they had at a restaurant. Listen and choose the correct answer. (Khách hàng đang chia sẻ về trải nghiệm ăn uống ở một nhà hàng. Nghe và chọn phương án đúng.)",
+      "contentText": "1. The seafood dish of the first person came with....",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-family: Nunito-ExtraBold;\">Ex2. People are talking about meals they had at a restaurant. Listen and choose the correct answer.</span> </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Kh&aacute;ch h&agrave;ng đang chia sẻ về trải nghiệm ăn uống ở một nh&agrave; h&agrave;ng. Nghe v&agrave; chọn phương &aacute;n đ&uacute;ng.)</span></p>",
+        "content": "<p><span id=\"docs-internal-guid-5f0b3016-7fff-eb08-ba54-f8a4b8488b62\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span id=\"docs-internal-guid-8fd90cf3-7fff-4391-5c27-c2556251138c\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. The seafood dish of the first person came with&hellip;.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 667479,
+        "correctAnswer": 667479,
+        "resultAnswer": {
+          "667479": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-320695",
+      "sourceQuestionId": 320695,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "title": null,
+      "type": 4,
+      "prompt": "2. The steak of the first person was ...",
+      "introductionText": "",
+      "contentText": "2. The steak of the first person was ...",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-14ec1616-7fff-bff9-60ae-a815061c38ac\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. The steak of the first person was &hellip;</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 667484,
+        "correctAnswer": 667484,
+        "resultAnswer": {
+          "667484": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-320696",
+      "sourceQuestionId": 320696,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "title": null,
+      "type": 4,
+      "prompt": "3. What did the second person start the meal with?",
+      "introductionText": "",
+      "contentText": "3. What did the second person start the meal with?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-04b8cb45-7fff-3d6a-2713-dc1974127c7a\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">3. What did the second person start the meal with?</span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 667486,
+        "correctAnswer": 667486,
+        "resultAnswer": {
+          "667486": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-320697",
+      "sourceQuestionId": 320697,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "title": null,
+      "type": 4,
+      "prompt": "4. How was the chocolate cake in the seafood restaurant?",
+      "introductionText": "",
+      "contentText": "4. How was the chocolate cake in the seafood restaurant?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-baad91c1-7fff-aaee-f4ab-92fbd04d8326\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. How was the chocolate cake in the seafood restaurant?</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 667490,
+        "correctAnswer": 667490,
+        "resultAnswer": {
+          "667490": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-320698",
+      "sourceQuestionId": 320698,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "title": null,
+      "type": 4,
+      "prompt": "5. Where did the third person go to?",
+      "introductionText": "",
+      "contentText": "5. Where did the third person go to?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-b39f7153-7fff-17a4-76f8-b3a0870c83a6\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. Where did the third person go to?</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 667493,
+        "correctAnswer": 667493,
+        "resultAnswer": {
+          "667493": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-320699",
+      "sourceQuestionId": 320699,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "title": null,
+      "type": 4,
+      "prompt": "6. How were the steamed vegetables?",
+      "introductionText": "",
+      "contentText": "6. How were the steamed vegetables?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-3c6d8352-7fff-78b2-cf51-146e0421d71c\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. How were the steamed vegetables?</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 667496,
+        "correctAnswer": 667496,
+        "resultAnswer": {
+          "667496": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-320700",
+      "sourceQuestionId": 320700,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "title": null,
+      "type": 4,
+      "prompt": "7. What did the fourth person have for lunch?",
+      "introductionText": "",
+      "contentText": "7. What did the fourth person have for lunch?",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-1a809067-7fff-79a5-6d11-68544e19eb9e\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. What did the fourth person have for lunch?</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 667499,
+        "correctAnswer": 667499,
+        "resultAnswer": {
+          "667499": true
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-320701",
+      "sourceQuestionId": 320701,
+      "challengeId": 33411,
+      "classChallengeId": "84531",
+      "title": null,
+      "type": 4,
+      "prompt": "8. What were the fourth person's favorites?",
+      "introductionText": "",
+      "contentText": "8. What were the fourth person's favorites?",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-234b37b0-7fff-d549-f207-1133f2363c10\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. What were the fourth person&rsquo;s favorites?</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 0,
+        "userAnswer": 667503,
+        "correctAnswer": 667502,
+        "resultAnswer": {
+          "667503": false
+        },
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-320702",
+      "sourceQuestionId": 320702,
+      "challengeId": 33412,
+      "classChallengeId": "84532",
+      "title": "Speaking",
+      "type": 2,
+      "prompt": "Speaking",
+      "introductionText": "Submit your link here:",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "Speaking",
+        "introduction": "<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Tahoma; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-family: Nunito-Regular; border-radius: 0px !important; font-size: 12pt;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">Submit your link here:&nbsp;</strong></span></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "https://docs.google.com/document/d/101j5GtQaVp_N4WehLNUFKgofwPKwJKC1Z5cxN9_3ms0/edit?usp=sharing",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    }
+  ]
+}

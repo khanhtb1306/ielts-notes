@@ -1,27 +1,45 @@
-(function clientApp() {
-  const DATA = window.__DATA__ || { docs: [], meta: {}, audio: [], ipa: {} };
-  const DOCS = DATA.docs;
-  const AUDIO = DATA.audio;
+/* ================================================================
+ * app.js - Shell + Notes (Stage/Course/Pronunciation/Grammar/Speaking/Final)
+ *
+ * Publishes shared state + helpers on `window.APP` so that daily.js /
+ * topics.js / practice.js (concat'd after this file by build.mjs) can
+ * register additional NAV entries + renderers without touching the
+ * shell. All modules run inside their own IIFE but read/write the
+ * same window.APP object.
+ * ================================================================ */
+(function bootApp() {
+  const DATA = window.__DATA__ || {};
+  const DOCS = DATA.docs || [];
+  const AUDIO = DATA.audio || [];
   const IPA = DATA.ipa || {};
   const M = DATA.meta || {};
 
-  const NAV = [
-    ["stage", "Current Stage", "🎯"],
-    ["course", "Course Map", "🗺️"],
-    ["pronunciation", "Pronunciation", "🔊"],
-    ["grammar", "Grammar", "📐"],
-    ["speaking", "Speaking", "💬"],
-    ["final", "Final Review", "🏁"],
-  ];
-  const SUB = {
-    stage: M.stageSub, course: M.courseSub, pronunciation: M.pronSub,
-    grammar: M.grammarSub, speaking: M.speakingSub, final: M.reviewSub,
+  const APP = window.APP = {
+    state: { page: "stage", opts: {} },
+    data: {
+      docs: DOCS,
+      audio: AUDIO,
+      ipa: IPA,
+      meta: M,
+      dailyIndex: DATA.dailyIndex || [],
+      topicsIndex: DATA.topicsIndex || { topics: {}, order: [] },
+      presets: DATA.presets || [],
+      speakingQuestions: DATA.speakingQuestions || {},
+      topicLabels: DATA.topicLabels || {}
+    },
+    NAV: [],
+    TITLE: {},
+    SUB: {},
+    EYEBROW: {},
+    renderers: {},
+    wirers: {},
+    helpers: {}
   };
-  const TITLE = { stage: "Current Stage", course: "Course Map", pronunciation: "Pronunciation Notes", grammar: "Grammar Notes", speaking: "Speaking Notes", final: "Final Review · Pre-IELTS" };
-  const state = { page: "stage" };
 
+  /* ============== Utilities ============== */
   const el = (id) => document.getElementById(id);
-  const esc = (s) => String(s).replace(/[&<>]/g, (m) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[m]));
+  const esc = (s) => String(s == null ? "" : s).replace(/[&<>"']/g, (m) =>
+    ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[m]));
   const inline = (s) =>
     esc(s)
       .replace(/`([^`]+)`/g, "<code>$1</code>")
@@ -31,7 +49,7 @@
     String(s).toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "")
       .replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 80);
 
-  /* ================= Speech ================= */
+  /* ============== Speech + dictionary ============== */
   let VOICES = [];
   function loadVoices() { VOICES = (window.speechSynthesis ? speechSynthesis.getVoices() : []) || []; }
   if (window.speechSynthesis) { loadVoices(); speechSynthesis.onvoiceschanged = loadVoices; }
@@ -67,14 +85,14 @@
   const audioEl = new Audio();
   function playUrl(url) { try { audioEl.src = url; audioEl.play(); return true; } catch (e) { return false; } }
 
-  /* ================= Audio bank ================= */
+  /* ============== Audio bank (Speaking notes) ============== */
   const audioById = (n) => AUDIO.find((a) => String(a.num) === String(n));
   const audioHtml = (a) => a
     ? '<div class="inline-audio"><span class="audio-title">🎧 Audio trung tâm: ' + esc(a.title) +
       '</span><audio controls preload="none" src="' + esc(a.file) + '"></audio></div>'
     : "";
 
-  /* ================= Markdown ================= */
+  /* ============== Markdown ============== */
   function mdToHtml(md) {
     const lines = md.split(/\r?\n/); const out = []; let i = 0;
     function table() {
@@ -120,6 +138,7 @@
     return out.join("\n");
   }
 
+  /* ============== Notes helpers ============== */
   const skillLabel = { pronunciation: "Pronunciation", grammar: "Grammar", speaking: "Speaking" };
   function badges(doc) {
     let b = `<span class="badge skill">${skillLabel[doc.type] || doc.type}</span>`;
@@ -136,11 +155,11 @@
     if (!list.length) return "";
     return `<div class="chips">` + list.map((d) => `<button class="chip" data-goto="doc-${d.id}">${esc(d.title)}</button>`).join("") + `</div>`;
   }
-
-  /* ================= Pages ================= */
   function heroOf(tag, title, text) {
     return `<section class="hero"><span class="tag">${esc(tag)}</span><h2>${esc(title)}</h2><p>${esc(text)}</p></section>`;
   }
+
+  /* ============== Notes pages ============== */
   function stagePage() {
     const goals = (M.goals || []).map((g) => `<li>${esc(g)}</li>`).join("");
     const pr = (M.principles || []).map((p) => `<article class="note-card searchable"><h2>${esc(p.title)}</h2><p>${esc(p.text)}</p></article>`).join("");
@@ -208,7 +227,7 @@
       DOCS.filter((d) => d.type === "speaking").map(docSection).join("");
   }
 
-  /* ================= Final Review + progress ================= */
+  /* ============== Final Review ============== */
   const LS_KEY = "ielts-final-progress";
   function getProgress() { try { return JSON.parse(localStorage.getItem(LS_KEY)) || {}; } catch (e) { return {}; } }
   function setProgress(p) { try { localStorage.setItem(LS_KEY, JSON.stringify(p)); } catch (e) {} }
@@ -233,9 +252,35 @@
       `<section class="note-card vocab searchable"><h2>Vocabulary Bank</h2>${vocab}</section>`;
   }
 
-  const renderers = { stage: stagePage, course: coursePage, pronunciation: pronunciationPage, grammar: grammarPage, speaking: speakingPage, final: finalPage };
+  /* ============== Register core NAV + renderers ============== */
+  APP.NAV.push(
+    ["stage", "Current Stage", "🎯"],
+    ["course", "Course Map", "🗺️"],
+    ["pronunciation", "Pronunciation", "🔊"],
+    ["grammar", "Grammar", "📐"],
+    ["speaking", "Speaking", "💬"]
+  );
+  APP.TITLE.stage = "Current Stage";
+  APP.TITLE.course = "Course Map";
+  APP.TITLE.pronunciation = "Pronunciation Notes";
+  APP.TITLE.grammar = "Grammar Notes";
+  APP.TITLE.speaking = "Speaking Notes";
+  APP.TITLE.final = "Final Review · Pre-IELTS";
+  APP.SUB.stage = M.stageSub;
+  APP.SUB.course = M.courseSub;
+  APP.SUB.pronunciation = M.pronSub;
+  APP.SUB.grammar = M.grammarSub;
+  APP.SUB.speaking = M.speakingSub;
+  APP.SUB.final = M.reviewSub;
+  APP.EYEBROW.final = "Kỳ thi cuối · Pre-IELTS";
+  APP.renderers.stage = stagePage;
+  APP.renderers.course = coursePage;
+  APP.renderers.pronunciation = pronunciationPage;
+  APP.renderers.grammar = grammarPage;
+  APP.renderers.speaking = speakingPage;
+  APP.renderers.final = finalPage;
 
-  /* ================= UI wiring ================= */
+  /* ============== Router + shell UI ============== */
   function updateProgress() {
     const items = document.querySelectorAll("#content .exam-item");
     if (!items.length) return;
@@ -243,12 +288,14 @@
     const bar = el("progBar"); if (bar) bar.style.width = Math.round((done / items.length) * 100) + "%";
   }
   function buildNav() {
-    el("nav").innerHTML = NAV.map(([id, label, ico]) =>
-      `<button data-page="${id}"${id === state.page ? ' class="active"' : ""}><span class="ico">${ico}</span>${label}</button>`).join("");
+    el("nav").innerHTML = APP.NAV.map(([id, label, ico]) =>
+      `<button data-page="${id}"${id === APP.state.page ? ' class="active"' : ""}><span class="ico">${ico}</span>${label}</button>`).join("") +
+      // Final Review pinned last
+      `<button data-page="final"${APP.state.page === "final" ? ' class="active"' : ""}><span class="ico">🏁</span>Final Review</button>`;
     el("nav").querySelectorAll("button").forEach((b) => b.onclick = () => go(b.dataset.page));
   }
   function buildToc() {
-    const hs = [...el("content").querySelectorAll(".note-content h2, .note-card > h2, .exam-head h2, .pron-tool h2")].slice(0, 60);
+    const hs = [...el("content").querySelectorAll(".note-content h2, .note-card > h2, .exam-head h2, .pron-tool h2, .daily-detail h2, .topic-detail h2, .practice-page h2")].slice(0, 60);
     const html = hs.map((h) => { if (!h.id) h.id = slug(h.textContent); return `<a data-goto="${h.id}">${esc(h.textContent)}</a>`; }).join("");
     el("toc").innerHTML = "<b>Mục lục</b>" + hs.map((h) => `<button data-goto="${h.id}">${esc(h.textContent)}</button>`).join("");
     el("rail").innerHTML = html ? `<div class="rail-inner"><b>Trong trang này</b>${html}</div>` : "";
@@ -258,18 +305,15 @@
       el("side").classList.remove("open");
     });
   }
-  function wirePage() {
-    // chips
+  function wireNotesPage() {
     document.querySelectorAll(".chip[data-goto]").forEach((c) => c.onclick = () => {
       const t = document.getElementById(c.dataset.goto); if (t) t.scrollIntoView({ behavior: "smooth" });
     });
-    // IPA tiles
     document.querySelectorAll(".ipa-tile").forEach((t) => t.onclick = () => {
       document.querySelectorAll(".ipa-tile.playing").forEach((x) => x.classList.remove("playing"));
       t.classList.add("playing"); setTimeout(() => t.classList.remove("playing"), 900);
       speak(t.dataset.word);
     });
-    // pronounce tool
     const inp = el("pronInput");
     if (inp) {
       const run = async () => {
@@ -289,7 +333,6 @@
       inp.onkeydown = (e) => { if (e.key === "Enter") run(); };
       el("pronTts").onclick = () => { if (inp.value.trim()) speak(inp.value.trim()); };
     }
-    // exam checkboxes
     document.querySelectorAll("#content .exam-item").forEach((item) => {
       const cb = item.querySelector("input");
       cb.onchange = () => { const p = getProgress(); if (cb.checked) p[item.dataset.id] = true; else delete p[item.dataset.id]; setProgress(p); item.classList.toggle("done", cb.checked); updateProgress(); };
@@ -303,22 +346,59 @@
     const q = el("search").value.toLowerCase().trim();
     document.querySelectorAll(".searchable").forEach((n) => n.classList.toggle("hidden", q && !n.textContent.toLowerCase().includes(q)));
   }
-  function render(scrollToId) {
-    document.querySelector(".app").dataset.page = state.page;
-    el("eyebrow").textContent = state.page === "final" ? "Kỳ thi cuối · Pre-IELTS" : "Pre-IELTS · up to Lesson 15";
-    el("title").textContent = TITLE[state.page];
-    el("subtitle").textContent = SUB[state.page] || "";
-    el("content").innerHTML = renderers[state.page]();
-    buildNav(); buildToc(); wirePage(); applySearch();
+  async function render(scrollToId) {
+    document.querySelector(".app").dataset.page = APP.state.page;
+    el("eyebrow").textContent = APP.EYEBROW[APP.state.page] || "Pre-IELTS · up to Lesson 15";
+    el("title").textContent = APP.TITLE[APP.state.page] || APP.state.page;
+    el("subtitle").textContent = APP.SUB[APP.state.page] || "";
+    const r = APP.renderers[APP.state.page];
+    if (!r) { el("content").innerHTML = "<p>Không tìm thấy trang.</p>"; return; }
+    let out;
+    try { out = r(APP.state.opts || {}); }
+    catch (e) { el("content").innerHTML = `<pre class="callout warn">Lỗi render: ${esc(String(e && e.message || e))}</pre>`; return; }
+    if (out && typeof out.then === "function") {
+      el("content").innerHTML = '<div class="loading-block">⏳ Đang tải...</div>';
+      try { out = await out; } catch (e) {
+        el("content").innerHTML = `<pre class="callout warn">Lỗi tải: ${esc(String(e && e.message || e))}</pre>`;
+        return;
+      }
+    }
+    el("content").innerHTML = out || "";
+    buildNav(); buildToc();
+    wireNotesPage();
+    const w = APP.wirers[APP.state.page];
+    if (w) { try { w(APP.state.opts || {}); } catch (e) { console.error("wirer error:", e); } }
+    applySearch();
     el("side").classList.remove("open");
     if (scrollToId) { const t = document.getElementById(scrollToId); if (t) { t.scrollIntoView(); return; } }
     window.scrollTo(0, 0);
   }
-  function go(page, scrollToId) { state.page = page; el("search").value = ""; render(scrollToId); }
+  function go(page, arg2) {
+    APP.state.page = page;
+    if (arg2 && typeof arg2 === "object") APP.state.opts = arg2;
+    else APP.state.opts = {};
+    const scrollToId = typeof arg2 === "string" ? arg2 : (APP.state.opts.scrollToId || null);
+    el("search").value = "";
+    render(scrollToId);
+  }
 
-  el("search").oninput = applySearch;
-  el("menu").onclick = () => el("side").classList.toggle("open");
-  el("closeMenu").onclick = () => el("side").classList.remove("open");
-  buildNav();
-  render();
+  APP.go = go;
+  APP.render = render;
+  APP.buildNav = buildNav;
+  APP.updateProgress = updateProgress;
+  APP.helpers = {
+    el, esc, inline, slug, mdToHtml, audioHtml, audioById,
+    speak, pickVoice, dictLookup, playUrl,
+    heroOf, badges, docSection, chips
+  };
+
+  APP.init = function () {
+    el("search").oninput = applySearch;
+    el("menu").onclick = () => el("side").classList.toggle("open");
+    el("closeMenu").onclick = () => el("side").classList.remove("open");
+    buildNav();
+    render();
+  };
+
+  // init is fired at the end of the concat'd bundle (see build.mjs)
 })();

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "lesson": 14,
+  "lessonKey": "lesson-14",
+  "title": "Lesson 14",
+  "source": "LangGo daily challenge API",
+  "rawFolder": "raw/",
+  "files": {
+    "overview": "overview.md",
+    "content": "content.json",
+    "exercises": "exercises.json",
+    "scripts": "scripts.json",
+    "submission": "submission.json",
+    "audioManifest": "audio/manifest.json",
+    "imageManifest": "images/manifest.json"
+  },
+  "challenges": [
+    {
+      "id": 33068,
+      "challengeId": 33068,
+      "classChallengeId": "84206",
+      "number": 1,
+      "title": "[PRE IELTS] LESSON 14 - CHALLENGE 1",
+      "note": "Grammar (Will, be going to)",
+      "day": 14,
+      "deadline": "2026-07-13 12:30:00",
+      "totalQuestion": 32,
+      "classification": "dc",
+      "rawFile": "raw/challenge-01-33068.json"
+    },
+    {
+      "id": 33069,
+      "challengeId": 33069,
+      "classChallengeId": "84207",
+      "number": 2,
+      "title": "[PRE IELTS] LESSON 14 - CHALLENGE 2",
+      "note": "Vocabulary (Shops, shopping) | Listening (Prices)",
+      "day": 14,
+      "deadline": "2026-07-13 12:30:00",
+      "totalQuestion": 35,
+      "classification": "dc",
+      "rawFile": "raw/challenge-02-33069.json"
+    }
+  ]
+}

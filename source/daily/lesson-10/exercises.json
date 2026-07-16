@@ -1,0 +1,1147 @@
+{
+  "lesson": 10,
+  "lessonKey": "lesson-10",
+  "questions": [
+    {
+      "id": "question-297868",
+      "sourceQuestionId": 297868,
+      "challengeId": 31371,
+      "classChallengeId": "82563",
+      "title": "Vocabulary",
+      "type": 1,
+      "prompt": "Vocabulary",
+      "introductionText": "",
+      "contentText": "Exercise 1: Match the words on the left with the words on the right. (Nối những từ bên trái với từ tương ứng phía bên phải.)",
+      "answerTemplateText": "1. switch on the [input_0]\n\n2. relax in a/an [input_1]\n\n3. close the [input_2]\n\n4. pass the [input_3]\n\n5. listen to the [input_4]\n\n6. watch [input_5]\n\n |\n\na. TV\n\nb. lamp\n\nc. remote control\n\nd. radio\n\ne. armchair\n\nf. curtains\n\n \n\n |",
+      "explanationText": "1. switch on the lamp\n\nDịch: bật đèn\n\n2. relax in an armchair\n\nDịch: thư giãn trên ghế bành\n\n3. close the curtains\n\nDịch: đóng rèm cửa\n\n4. pass the remote control\n\nDịch: đưa cái điều khiển\n\n5. listen to the radio\n\nDịch: nghe đài\n\n6. watch TV\n\nDịch: xem TV",
+      "rawHtml": {
+        "title": "Vocabulary",
+        "introduction": null,
+        "content": "<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span id=\"docs-internal-guid-1dc144f3-7fff-6c24-58ee-52e8f20d392e\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 1: Match the words on the left with the words on the right. </span><span style=\"color: #000000; background-color: #ffffff; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Nối những từ b&ecirc;n tr&aacute;i với từ tương ứng ph&iacute;a b&ecirc;n phải.)</span></span></p>",
+        "answerTemplate": "<table style=\"border-spacing: 0px; background-color: #ffffff; font-family: Arial, sans-serif; font-size: 12px; width: 39.047%; border-radius: 0px !important;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\">\n<tbody style=\"box-sizing: border-box;\">\n<tr style=\"box-sizing: border-box;\">\n<td style=\"box-sizing: border-box; padding: 0px; width: 46.0054%; border-radius: 0px !important;\">\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">1. switch on the [input_0]</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">2. relax in a/an [input_1]</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">3. close the [input_2]</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">4. pass the [input_3]</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">5. listen to the [input_4]</span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">6. watch [input_5]</span></span></p>\n</td>\n<td style=\"box-sizing: border-box; padding: 0px; width: 54.096%; border-radius: 0px !important;\">\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\">a. TV</span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\">b. lamp</span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\">c. remote control</span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\">d. radio</span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\">e. armchair</span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\">f. curtains</span></p>\n<p><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"> </span></p>\n</td>\n</tr>\n</tbody>\n</table>",
+        "explain": "<p><strong>1. switch on the lamp</strong></p>\n<p><em><strong>Dịch:</strong> bật đèn</em></p>\n<p><strong>2. relax in an armchair</strong></p>\n<p><em><strong>Dịch:</strong> thư giãn trên ghế bành</em></p>\n<p><strong>3. close the curtains</strong></p>\n<p><em><strong>Dịch:</strong> đóng rèm cửa</em></p>\n<p><strong>4. pass the remote control</strong></p>\n<p><em><strong>Dịch:</strong> đưa cái điều khiển</em></p>\n<p><strong>5. listen to the radio</strong></p>\n<p><em><strong>Dịch:</strong> nghe đài</em></p>\n<p><strong>6. watch TV</strong></p>\n<p><em><strong>Dịch:</strong> xem TV</em></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 6,
+        "totalCorrect": 6,
+        "userAnswer": {
+          "input_0": "lamp",
+          "input_4": "radio",
+          "input_5": "TV",
+          "input_1": "armchair",
+          "input_3": "remote control",
+          "input_2": "curtains"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "b",
+            "lamp"
+          ],
+          "input_1": [
+            "e",
+            "armchair"
+          ],
+          "input_2": [
+            "f",
+            "curtains"
+          ],
+          "input_3": [
+            "c",
+            "remote control"
+          ],
+          "input_4": [
+            "d",
+            "radio"
+          ],
+          "input_5": [
+            "a",
+            "TV"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-297869",
+      "sourceQuestionId": 297869,
+      "challengeId": 31371,
+      "classChallengeId": "82563",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2: Correct the mistakes in the sentences. (Sửa lỗi sai trong các câu sau.)\n\n1. This evening let's just relax us at home.\n\nCorrect: This evening let's just relax at home.",
+      "introductionText": "",
+      "contentText": "Exercise 2: Correct the mistakes in the sentences. (Sửa lỗi sai trong các câu sau.)\n\n1. This evening let's just relax us at home.\n\nCorrect: This evening let's just relax at home.",
+      "answerTemplateText": "2. I don't often listen the radio.\n\nCorrect: [input_0]\n\n3. We need some more bookshelfs in this room.\n\nCorrect: [input_1]\n\n4. I watched at television all evening yesterday.\n\nCorrect: [input_2]\n\n5. It's dark now. Please make the curtains.\n\nCorrect: [input_3]\n\n6. Jim has some very nice furnitures in his house.\n\nCorrect: [input_4]\n\n7. She makes a shower in the afternoon. \n\nCorrect: [input_5]\n\n8. She walk downstair so she can make dinner for the family. \n\nCorrect: [input_6]\n\n9. I don't watch TV anymore, so can you turn the TV on?\n\nCorrect: [input_7]\n\n10. She is sleepy, so she stay to the bed early.\n\nCorrect: [input_8]",
+      "explanationText": "2. I don't often listen the radio.\n\nLỗi sai: thiếu giới từ to sau \"listen\"\n\nCâu đúng: I don't often listen to the radio. (Tôi không thường nghe đài.)\n\n3. We need some more bookshelfs in this room.\n\nLỗi sai: bookshelfs (số nhiều của \"bookshelf\" phải là \"bookshelves\")\n\nCâu đúng: We need some more bookshelves in this room. (Chúng ta cần thêm vài cái giá sách trong phòng này.)\n\n4. I watched at television all evening yesterday.\n\nLỗi sai: giới từ at thừa\n\nCâu đúng: I watched television all evening yesterday. (Tôi đã xem TV cả tối qua.)\n\n5. It's dark now. Please make the curtains.\n\nLỗi sai: động từ make (đúng phải là \"close\")\n\nCâu đúng: It's dark now. Please close the curtains. (Bây giờ trời tối rồi. Làm ơn đóng rèm lại.)\n\n6. Jim has some very nice furnitures in his house.\n\nLỗi sai: furnitures (\"furniture\" là danh từ không đếm được, không có dạng số nhiều)\n\nCâu đúng: Jim has some very nice furniture in his house. (Jim có vài món đồ nội thất rất đẹp trong nhà.)\n\n7. She makes a shower in the afternoon.\n\nLỗi sai: động từ makes (đúng phải là \"takes\")\n\nCâu đúng: She takes a shower in the afternoon. (Cô ấy tắm vào buổi chiều.)\n\n8. She walk downstair so she can make dinner for the family.\n\nLỗi sai: thiếu -s sau \"walk\" & thiếu -s sau \"downstairs\"\n\nCâu đúng: She walks downstairs so she can make dinner for the family. (Cô ấy đi xuống lầu để có thể nấu bữa tối cho gia đình.)\n\n9. I don’t watch TV anymore, so can you turn the TV on?\n\nLỗi sai: động từ on (ý nghĩa không hợp lý, đúng phải là \"off\")\n\nCâu đúng: I don’t watch TV anymore, so can you turn the TV off? (Tôi không xem TV nữa, nên bạn có thể tắt TV đi không?)\n\n10. She is sleepy, so she stay to the bed early.\n\nLỗi sai: thiếu -s sau \"stay\" & giới từ to (đúng phải là \"in\")\n\nCâu đúng: She is sleepy, so she stays in bed early. (Cô ấy buồn ngủ nên cô ấy đi ngủ sớm.)",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Exercise 2: Correct the mistakes in the sentences. </strong><em>(Sửa lỗi sai trong c&aacute;c c&acirc;u sau.)</em></span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">1. This evening let&rsquo;s just relax us at home.</span></p>\n<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Correct:<em>&nbsp;This evening let&rsquo;s just relax at home.</em></strong></span></p>",
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">2. I don't often listen the radio.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Correct: <strong><span style=\"font-family: Nunito-Regular;\">[input_0]</strong></span></strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">3. We need some more bookshelfs in this room.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Correct: <strong><span style=\"font-family: Nunito-Regular;\">[input_1]</strong></span></strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">4. I watched at television all evening yesterday.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Correct: <strong><span style=\"font-family: Nunito-Regular;\">[input_2]</strong></span></strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">5. It's dark now. Please make the curtains.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Correct: <strong><span style=\"font-family: Nunito-Regular;\">[input_3]</strong></span></strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">6. Jim has some very nice furnitures in his house.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><strong>Correct: <strong><span style=\"font-family: Nunito-Regular;\">[input_4]</strong></span></strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. She makes a shower in the afternoon. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Correct: [input_5]</span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. She walk downstair so she can make dinner for the family. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Correct: <span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_6]</span></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9. I don't watch TV anymore, so can you turn the TV on? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Correct: <span style=\"background-color: #ffffff;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_7]</span></span></span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">10. She is sleepy, so she stay to the bed early.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Correct: <span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 12pt; white-space-collapse: preserve;\">[input_8]</span></span></strong></p>\n<p dir=\"ltr\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span id=\"docs-internal-guid-9e7ba98c-7fff-e2cd-c4b3-f7d701a2cb2f\"></span></span></p>",
+        "explain": "<p><strong>2. I don't often listen the radio.</strong></p>\n<p><strong>Lỗi sai:</strong> thiếu giới từ <strong>to</strong> sau \"listen\"</p>\n<p><strong>Câu đúng:</strong> I don't often listen <strong>to</strong> the radio. <em>(Tôi không thường nghe đài.)</em></p>\n<p><strong>3. We need some more bookshelfs in this room.</strong></p>\n<p><strong>Lỗi sai:</strong> <strong>bookshelfs</strong> (số nhiều của \"bookshelf\" phải là \"bookshelves\")</p>\n<p><strong>Câu đúng:</strong> We need some more <strong>bookshelves</strong> in this room. <em>(Chúng ta cần thêm vài cái giá sách trong phòng này.)</em></p>\n<p><strong>4. I watched at television all evening yesterday.</strong></p>\n<p><strong>Lỗi sai:</strong> giới từ <strong>at</strong> thừa</p>\n<p><strong>Câu đúng:</strong> I watched television all evening yesterday. <em>(Tôi đã xem TV cả tối qua.)</em></p>\n<p><strong>5. It's dark now. Please make the curtains.</strong></p>\n<p><strong>Lỗi sai:</strong> động từ <strong>make</strong> (đúng phải là \"close\")</p>\n<p><strong>Câu đúng:</strong> It's dark now. Please <strong>close</strong> the curtains. <em>(Bây giờ trời tối rồi. Làm ơn đóng rèm lại.)</em></p>\n<p><strong>6. Jim has some very nice furnitures in his house.</strong></p>\n<p><strong>Lỗi sai:</strong> <strong>furnitures</strong> (\"furniture\" là danh từ không đếm được, không có dạng số nhiều)</p>\n<p><strong>Câu đúng:</strong> Jim has some very nice <strong>furniture</strong> in his house. <em>(Jim có vài món đồ nội thất rất đẹp trong nhà.)</em></p>\n<p><strong>7. She makes a shower in the afternoon.</strong></p>\n<p><strong>Lỗi sai:</strong> động từ <strong>makes</strong> (đúng phải là \"takes\")</p>\n<p><strong>Câu đúng:</strong> She <strong>takes</strong> a shower in the afternoon. <em>(Cô ấy tắm vào buổi chiều.)</em></p>\n<p><strong>8. She walk downstair so she can make dinner for the family.</strong></p>\n<p><strong>Lỗi sai:</strong> thiếu <strong>-s</strong> sau \"walk\" &amp; thiếu <strong>-s</strong> sau \"downstairs\"</p>\n<p><strong>Câu đúng:</strong> She <strong>walks</strong> <strong>downstairs</strong> so she can make dinner for the family. <em>(Cô ấy đi xuống lầu để có thể nấu bữa tối cho gia đình.)</em></p>\n<p><strong>9. I don’t watch TV anymore, so can you turn the TV on?</strong></p>\n<p><strong>Lỗi sai:</strong> động từ <strong>on</strong> (ý nghĩa không hợp lý, đúng phải là \"off\")</p>\n<p><strong>Câu đúng:</strong> I don’t watch TV anymore, so can you <strong>turn the TV off</strong>? <em>(Tôi không xem TV nữa, nên bạn có thể tắt TV đi không?)</em></p>\n<p><strong>10. She is sleepy, so she stay to the bed early.</strong></p>\n<p><strong>Lỗi sai:</strong> thiếu <strong>-s</strong> sau \"stay\" &amp; giới từ <strong>to</strong> (đúng phải là \"in\")</p>\n<p><strong>Câu đúng:</strong> She is sleepy, so she <strong>stays in</strong> bed early. <em>(Cô ấy buồn ngủ nên cô ấy đi ngủ sớm.)</em></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 9,
+        "totalCorrect": 4,
+        "userAnswer": {
+          "input_0": "I don't often listen to the radio.",
+          "input_1": "We need some more bookshelves in this room.",
+          "input_2": "I watch television all evening yesterday.",
+          "input_3": "It's dark now. Please close the curtains.",
+          "input_4": "Jim has some very nice furniture in his house.",
+          "input_5": "She have a shower in the afternoon.",
+          "input_6": "She walks downstair so she can make dinner for the family.",
+          "input_7": "I don't watch TV anymore,  so but can you turn the TV on?",
+          "input_8": "She is sleepy,so she goes to bed early."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "I don't often listen to the radio."
+          ],
+          "input_1": [
+            "We need some more bookshelves in this room."
+          ],
+          "input_2": [
+            "I watched television all evening yesterday."
+          ],
+          "input_3": [
+            "It's dark now. Please close the curtains."
+          ],
+          "input_4": [
+            "Jim has some very nice furniture in his house."
+          ],
+          "input_5": [
+            "She takes a shower in the afternoon."
+          ],
+          "input_6": [
+            "She walks downstairs so she can make dinner for the family."
+          ],
+          "input_7": [
+            "I don't watch TV anymore, so can you turn the TV off?",
+            "I don't watch TV anymore, so can you turn off the TV?"
+          ],
+          "input_8": [
+            "She is sleepy, so she goes to bed early."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": false,
+          "input_3": true,
+          "input_4": true,
+          "input_5": false,
+          "input_6": false,
+          "input_7": false,
+          "input_8": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-297870",
+      "sourceQuestionId": 297870,
+      "challengeId": 31371,
+      "classChallengeId": "82563",
+      "title": "Listening transcript: Describing apartments",
+      "type": 1,
+      "prompt": "Listening transcript: Describing apartments",
+      "introductionText": "",
+      "contentText": "Exercise 1: How do people describe their apartments? Read the conversations in ex 1 and write down the correct answers. (Người ta miêu tả căn hộ mình như thế nào? Đọc các cuộc hội thoại bài 1 và điền đáp án đúng.)",
+      "answerTemplateText": "Conversation 1 (Ken):\n\nThe apartment has a [input_0], but it doesn't have a [input_1]. \n\nConversation 2 (Celia):\n\nThe apartment has a [input_2], and a huge [input_3] and [input_4], and it has two [input_5]. \n\nConversation 3 (Joe):\n\nThe apartment is very [input_6]. It has a [input_7] and a [input_8] , but [input_9] live with Joe. \n\nConversation 4 (Ellen):\n\nThe apartment has two [input_10]. Ellen has the [input_11].",
+      "explanationText": "1. (Ken): Căn hộ có một phòng khách, nhưng không có phòng ngủ.\n\n2. (Celia): Căn hộ có một phòng khách, một nhà bếp và phòng tắm rất lớn, và nó có hai phòng ngủ.\n\n3. (Joe): Căn hộ rất nhỏ. Nó có một phòng ngủ/phòng khách và một phòng khách/phòng ngủ, nhưng có bảy người/ 7 người sống cùng Joe.\n\n4. (Ellen): Căn hộ có hai phòng ngủ. Ellen có phòng ngủ nhỏ.",
+      "rawHtml": {
+        "title": "Listening transcript: Describing apartments",
+        "introduction": null,
+        "content": "<p dir=\"ltr\" style=\"line-height: 1.3; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 1: How do people describe their apartments? Read the conversations in ex 1 and write down the correct answers. </span><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Người ta mi&ecirc;u tả căn hộ m&igrave;nh như thế n&agrave;o? Đọc c&aacute;c cuộc hội thoại b&agrave;i 1 v&agrave; điền đ&aacute;p &aacute;n đ&uacute;ng.) </span></p>\n<p><span id=\"docs-internal-guid-90cdb974-7fff-fa6f-b596-10b99a28245d\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"></span></p>",
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Conversation 1 (Ken): </span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The apartment has a </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_0],</span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> but it doesn't have a </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Conversation 2 (Celia): </span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The apartment has a </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_2]</span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, and a huge [input_3] </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">and </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_4]</span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, and it has two </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_5]</span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Conversation 3 (Joe): </span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The apartment is very </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_6]</span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. It has a </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_7] </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">and a </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_8] </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, but </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_9] </span><span style=\"color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">live with Joe. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><strong><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Conversation 4 (Ellen): </span></strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span id=\"docs-internal-guid-6badbe8f-7fff-b78e-4c30-fe45405fedea\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">The apartment has two </span><span style=\"background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">[input_10]</span><span style=\"background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">. Ellen has the </span><span style=\"background-color: #ffffff; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">[input_11].</span></span></p>",
+        "explain": "<p><strong>1. (Ken):</strong> <em>Căn hộ có một <strong>phòng khách</strong>, nhưng không có <strong>phòng ngủ</strong>.</em></p>\n<p><strong>2. (Celia):</strong> <em>Căn hộ có một <strong>phòng khách</strong>, một <strong>nhà bếp</strong> và <strong>phòng tắm</strong> rất lớn, và nó có hai <strong>phòng ngủ</strong>.</em></p>\n<p><strong>3. (Joe):</strong> <em>Căn hộ rất <strong>nhỏ</strong>. Nó có một <strong>phòng ngủ/phòng khách</strong> và một <strong>phòng khách/phòng ngủ</strong>, nhưng có <strong>bảy người/ 7 người</strong> sống cùng Joe.</em></p>\n<p><strong>4. (Ellen):</strong> <em>Căn hộ có hai <strong>phòng ngủ</strong>. Ellen có <strong>phòng ngủ nhỏ</strong>.</em></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 12,
+        "totalCorrect": 11,
+        "userAnswer": {
+          "input_0": "living room",
+          "input_1": "bedroom",
+          "input_2": "tow bedrooms",
+          "input_3": "kitchen",
+          "input_4": "bathroom",
+          "input_5": "bedrooms",
+          "input_6": "small",
+          "input_7": "bedroom",
+          "input_8": "living room",
+          "input_9": "seven people",
+          "input_10": "bedrooms",
+          "input_11": "small one"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "living room"
+          ],
+          "input_1": [
+            "bedroom"
+          ],
+          "input_2": [
+            "living room"
+          ],
+          "input_3": [
+            "kitchen"
+          ],
+          "input_4": [
+            "bathroom"
+          ],
+          "input_5": [
+            "bedrooms"
+          ],
+          "input_6": [
+            "small"
+          ],
+          "input_7": [
+            "bedroom",
+            "living room"
+          ],
+          "input_8": [
+            "living room",
+            "bedroom"
+          ],
+          "input_9": [
+            "seven people",
+            " 7 people"
+          ],
+          "input_10": [
+            "bedrooms"
+          ],
+          "input_11": [
+            "small bedroom",
+            "small one"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": false,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": true,
+          "input_9": true,
+          "input_10": true,
+          "input_11": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-297871",
+      "sourceQuestionId": 297871,
+      "challengeId": 31371,
+      "classChallengeId": "82563",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2: Fill in the blanks with the correct verbs below, you may need to change the word form. You can also use a word more than once. (Điền vào ô trống động từ đúng, em có thể phải đổi loại từ dựa theo chủ ngữ. Em cũng có thể dùng 1 từ nhiều hơn 1 lần.)\n\n               be               have           live         look\n\n |",
+      "introductionText": "",
+      "contentText": "Exercise 2: Fill in the blanks with the correct verbs below, you may need to change the word form. You can also use a word more than once. (Điền vào ô trống động từ đúng, em có thể phải đổi loại từ dựa theo chủ ngữ. Em cũng có thể dùng 1 từ nhiều hơn 1 lần.)\n\n               be               have           live         look\n\n |",
+      "answerTemplateText": "1. What [input_0] your bedroom like?\n\n2. It [input_1] comfortable, but it [input_2] only one room.\n\n3. [input_3] you [input_4] with your sister?\n\n4. The bathroom [input_5] very small. It [input_6] only a shower and a toilet. \n\n5. The bookshelf [input_7] really good in the living room.\n\n6. We [input_8] much furniture yet. (not)\n\n7. You [input_9] a bed in your bedroom. (not)",
+      "explanationText": "What is your bedroom like? (Phòng ngủ của bạn trông như thế nào?)\n\nIt is comfortable, but it has only one room. (Nó thoải mái, nhưng nó chỉ có một phòng.)\n\nDo you live with your sister? (Bạn có sống với chị/em gái của bạn không?)\n\nThe bathroom is very small. It has only a shower and a toilet. (Phòng tắm rất nhỏ. Nó chỉ có một vòi sen và một bồn cầu.)\n\nThe bookshelf looks really good in the living room. (Cái giá sách trông rất đẹp trong phòng khách.)\n\nWe do not have much furniture yet. (Chúng tôi chưa có nhiều đồ nội thất.)\n\nYou do not have a bed in your bedroom. (Bạn không có một cái giường trong phòng ngủ của mình.)",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 2: Fill in the blanks with the correct verbs below, you may need to change the word form. You can also use a word more than once. </span><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Điền v&agrave;o &ocirc; trống động từ đ&uacute;ng, em c&oacute; thể phải đổi loại từ dựa theo chủ ngữ. Em cũng c&oacute; thể d&ugrave;ng 1 từ nhiều hơn 1 lần.) </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<p><span id=\"docs-internal-guid-cb11be29-7fff-ec25-cf6b-6de0d5fa2165\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 438px;\"><colgroup><col style=\"width: 415px;\" /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; be &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; have &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; live &nbsp; &nbsp; &nbsp; &nbsp; look</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n</div>",
+        "answerTemplate": "<p><span id=\"docs-internal-guid-6921bed5-7fff-f61e-cdc1-ce42adb4e99d\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. What [input_0] your bedroom like? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. It [input_1] comfortable, but it [input_2] only one room. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. [input_3] you [input_4] with your sister? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. The bathroom [input_5] very small. It [input_6] only a shower and a toilet.  </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. The bookshelf [input_7] really good in the living room.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. We [input_8] much furniture yet. (not)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. You [input_9] a bed in your bedroom. (not)</span></p>",
+        "explain": "<ol>\n<li>\n<p><strong>What is your bedroom like?</strong> <em>(Phòng ngủ của bạn trông như thế nào?)</em></p>\n</li>\n<li>\n<p><strong>It is comfortable, but it has only one room.</strong> <em>(Nó thoải mái, nhưng nó chỉ có một phòng.)</em></p>\n</li>\n<li>\n<p><strong>Do you live with your sister?</strong> <em>(Bạn có sống với chị/em gái của bạn không?)</em></p>\n</li>\n<li>\n<p><strong>The bathroom is very small. It has only a shower and a toilet.</strong> <em>(Phòng tắm rất nhỏ. Nó chỉ có một vòi sen và một bồn cầu.)</em></p>\n</li>\n<li>\n<p><strong>The bookshelf looks really good in the living room.</strong> <em>(Cái giá sách trông rất đẹp trong phòng khách.)</em></p>\n</li>\n<li>\n<p><strong>We do not have much furniture yet.</strong> <em>(Chúng tôi chưa có nhiều đồ nội thất.)</em></p>\n</li>\n<li>\n<p><strong>You do not have a bed in your bedroom.</strong> <em>(Bạn không có một cái giường trong phòng ngủ của mình.)</em></p>\n</li>\n</ol>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 10,
+        "totalCorrect": 6,
+        "userAnswer": {
+          "input_0": "is",
+          "input_1": "is",
+          "input_2": "has",
+          "input_3": "Do",
+          "input_4": "like",
+          "input_5": "is",
+          "input_6": "has",
+          "input_7": "look",
+          "input_8": "have",
+          "input_9": "have"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "is"
+          ],
+          "input_1": [
+            "is"
+          ],
+          "input_2": [
+            "has"
+          ],
+          "input_3": [
+            "Do"
+          ],
+          "input_4": [
+            "live"
+          ],
+          "input_5": [
+            "is"
+          ],
+          "input_6": [
+            "has"
+          ],
+          "input_7": [
+            "looks"
+          ],
+          "input_8": [
+            "don't have",
+            "do not have"
+          ],
+          "input_9": [
+            "don't have",
+            "do not have"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": false,
+          "input_5": true,
+          "input_6": true,
+          "input_7": false,
+          "input_8": false,
+          "input_9": false
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-297872",
+      "sourceQuestionId": 297872,
+      "challengeId": 31371,
+      "classChallengeId": "82563",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 3: Read people's description of their house in exercise 3 and write the adjectives that describe the furniture. (Đọc miêu tả về nhà trong bài 3 và viết các tính từ dùng để miêu tả nội thất trong đó.)",
+      "introductionText": "",
+      "contentText": "Exercise 3: Read people's description of their house in exercise 3 and write the adjectives that describe the furniture. (Đọc miêu tả về nhà trong bài 3 và viết các tính từ dùng để miêu tả nội thất trong đó.)",
+      "answerTemplateText": "1. \n\n bookshelf : [input_0]\n\nTV: [input_1]\n\nliving room: [input_2]\n\nsofa: [input_3] \n\n \n\n2.\n\nTV and radio: [input_4]\n\ndinner tables: [input_5] \n\n \n\n3. \n\nTV: [input_6], [input_7]\n\ndinner table: [input_8], [input_9]\n\nsofa: [input_10], [input_11]\n\n \n\n4. \n\nbookshelf: [input_12], [input_13]\n\nstereo: [input_14]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-f01e4d4e-7fff-f6fe-5d53-023c018e39f0\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 3: Read people&rsquo;s description of their house in exercise 3 and write the adjectives that describe the furniture.</span><span style=\"color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"color: #000000; background-color: #ffffff; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Đọc mi&ecirc;u tả về nh&agrave; trong b&agrave;i 3 v&agrave; viết c&aacute;c t&iacute;nh từ d&ugrave;ng để mi&ecirc;u tả nội thất trong đ&oacute;.)</span></span></p>",
+        "answerTemplate": "<p style=\"line-height: 1.5;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">1. </span></p>\n<ul>\n<li dir=\"ltr\" style=\"line-height: 1.5;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> bookshelf : <span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_0]</span></span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.5;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">TV: <span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span></span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.5;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">living room: <span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_2]</span></span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.5;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">sofa: <span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_3]</span></span><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span></span></li>\n</ul>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. </span></p>\n<ul>\n<li dir=\"ltr\" style=\"line-height: 1.5;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">TV and radio: <span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_4]</span></span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.5;\" role=\"presentation\"><span style=\"font-size: 12pt;\"><span style=\"font-family: Nunito-Regular; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">dinner tables: <span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_5]</span></span><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span></span><span style=\"font-family: Nunito-Regular; color: #000000;\"><strong id=\"docs-internal-guid-71880d5e-7fff-e84e-f408-3cbb578f0a59\" style=\"font-weight: normal;\"></strong></span></span></li>\n</ul>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. </span></p>\n<ul>\n<li dir=\"ltr\" style=\"line-height: 1.5;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">TV:</span><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> [input_6], [input_7]</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.5;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">dinner table: <span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_8]</span>, [input_9] </span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.5;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">sofa: <span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_10]</span>, <span style=\"color: #000000;\"><span style=\"background-color: #ffffff;\"><span style=\"background-color: #ffffff;\"><span style=\"background-color: #ffffff;\"><span style=\"background-color: #ffffff;\">[input_11]</span></span></span></span></span></span></span></li>\n</ul>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. </span></p>\n<ul>\n<li dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">bookshelf:</span><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> [input_12], [input_13]</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">stereo: <span style=\"background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_14]</span></span></span></li>\n</ul>\n<p style=\"line-height: 1.5;\"> </p>",
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 15,
+        "totalCorrect": 12,
+        "userAnswer": {
+          "input_0": "good",
+          "input_1": "fine",
+          "input_2": "small",
+          "input_3": "small",
+          "input_4": "really good",
+          "input_5": "too expensive",
+          "input_6": "cheap",
+          "input_7": "good",
+          "input_8": "nice",
+          "input_9": "big",
+          "input_10": "cheap",
+          "input_11": "comfortable",
+          "input_12": "good",
+          "input_13": "too big",
+          "input_14": "good"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "good"
+          ],
+          "input_1": [
+            "fine"
+          ],
+          "input_2": [
+            "small"
+          ],
+          "input_3": [
+            "small"
+          ],
+          "input_4": [
+            "good"
+          ],
+          "input_5": [
+            "expensive"
+          ],
+          "input_6": [
+            "cheap",
+            "used"
+          ],
+          "input_7": [
+            "used",
+            "cheap"
+          ],
+          "input_8": [
+            "nice",
+            "big"
+          ],
+          "input_9": [
+            "big",
+            "nice"
+          ],
+          "input_10": [
+            "cheap",
+            "comfortable"
+          ],
+          "input_11": [
+            "comfortable",
+            "cheap"
+          ],
+          "input_12": [
+            "good",
+            "too big"
+          ],
+          "input_13": [
+            "too big",
+            "good"
+          ],
+          "input_14": [
+            "good"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": false,
+          "input_5": false,
+          "input_6": true,
+          "input_7": false,
+          "input_8": true,
+          "input_9": true,
+          "input_10": true,
+          "input_11": true,
+          "input_12": true,
+          "input_13": true,
+          "input_14": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-297873",
+      "sourceQuestionId": 297873,
+      "challengeId": 31371,
+      "classChallengeId": "82563",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 4: Rearrange the words into correct sentences. Then, listen to the audio and repeat the sentences. (Sắp xếp các câu sau thành câu đúng. Sau đó, nghe ghi âm và lặp lại các câu đúng ngữ điệu và phát âm)",
+      "introductionText": "",
+      "contentText": "Exercise 4: Rearrange the words into correct sentences. Then, listen to the audio and repeat the sentences. (Sắp xếp các câu sau thành câu đúng. Sau đó, nghe ghi âm và lặp lại các câu đúng ngữ điệu và phát âm)",
+      "answerTemplateText": "1. apartment / is / your / What / like / ?\n\n[input_0]\n\n \n\n2. rooms / does / apartment /have / How / many / your / ?\n\n[input_1]\n\n \n\n3. like / is / your / What / place / ?\n\n[input_2]\n\n \n\n4. furniture / have / don't / We / much / .\n\n[input_3]\n\n \n\n5. small / is / The / bathroom / very / .\n\n[input_4]",
+      "explanationText": "What is your apartment like? (Căn hộ của bạn trông như thế nào?)\n\nHow many rooms does your apartment have? (Căn hộ của bạn có bao nhiêu phòng?)\n\nWhat is your place like? (Nơi ở của bạn trông như thế nào?)\n\nWe don’t have much furniture. (Chúng tôi không có nhiều đồ nội thất.)\n\nThe bathroom is very small. (Phòng tắm rất nhỏ.)",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span id=\"docs-internal-guid-44a56984-7fff-6e65-4367-f3b81aaa3658\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 10.5pt; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt;\"><span style=\"color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 4: Rearrange the words into correct sentences. T</span><span style=\"background-color: #ffffff; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">hen, listen to the audio and repeat the sentences. </span></span></span><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(S</span><span style=\"color: #000000; background-color: #ffffff; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">ắp xếp c&aacute;c c&acirc;u sau th&agrave;nh c&acirc;u đ&uacute;ng. </span></span><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; font-style: italic; white-space-collapse: preserve;\">Sau đ&oacute;, nghe ghi &acirc;m v&agrave; lặp lại c&aacute;c c&acirc;u đ&uacute;ng ngữ điệu v&agrave; ph&aacute;t &acirc;m</span><span style=\"color: #000000; background-color: #ffffff; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">)</span><span style=\"color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span></p>",
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. apartment / is / your / What / like / ? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_0]</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. rooms / does / apartment /have / How / many / your / ? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. like / is / your / What / place / ? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_2]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. furniture / have / don't / We / much / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_3]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. small / is / The / bathroom / very / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"background-color: #ffffff; font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_4]</span></p>\n<p style=\"line-height: 1.5;\"><span id=\"docs-internal-guid-5d63c0ca-7fff-b462-b778-f1006e14f7d1\" style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"></span></p>",
+        "explain": "<ol>\n<li>\n<p><strong>What is your apartment like?</strong> <em>(Căn hộ của bạn trông như thế nào?)</em></p>\n</li>\n<li>\n<p><strong>How many rooms does your apartment have?</strong> <em>(Căn hộ của bạn có bao nhiêu phòng?)</em></p>\n</li>\n<li>\n<p><strong>What is your place like?</strong> <em>(Nơi ở của bạn trông như thế nào?)</em></p>\n</li>\n<li>\n<p><strong>We don’t have much furniture.</strong> <em>(Chúng tôi không có nhiều đồ nội thất.)</em></p>\n</li>\n<li>\n<p><strong>The bathroom is very small.</strong> <em>(Phòng tắm rất nhỏ.)</em></p>\n</li>\n</ol>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 5,
+        "totalCorrect": 5,
+        "userAnswer": {
+          "input_0": "What is your apartment like?",
+          "input_1": "How many rooms does your apartment have?",
+          "input_2": "What is your place like?",
+          "input_3": "We don't have much furniture.",
+          "input_4": "The bathroom is very small."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "What is your apartment like?"
+          ],
+          "input_1": [
+            "How many rooms does your apartment have?"
+          ],
+          "input_2": [
+            "What is your place like?"
+          ],
+          "input_3": [
+            "We don't have much furniture."
+          ],
+          "input_4": [
+            "The bathroom is very small."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-297874",
+      "sourceQuestionId": 297874,
+      "challengeId": 31371,
+      "classChallengeId": "82563",
+      "title": "New words/phrases + Good structures/sentences",
+      "type": 2,
+      "prompt": "New words/phrases + Good structures/sentences",
+      "introductionText": "",
+      "contentText": "Nghiên cứu kĩ và ghi lại ít nhất 10 từ vựng/ cấu trúc/ câu hay có trong bài cùng với nghĩa của chúng.",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "New words/phrases + Good structures/sentences",
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 16px; font-weight: bold; white-space-collapse: preserve; background-color: #ffffff;\">Nghi&ecirc;n cứu kĩ v&agrave; ghi lại &iacute;t nhất 10 từ vựng/ cấu tr&uacute;c/ c&acirc;u hay c&oacute; trong b&agrave;i c&ugrave;ng với nghĩa của ch&uacute;ng. </span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "What's your apartment like? — Căn hộ của bạn như thế nào?\nIt's comfortable. — Nó rất thoải mái.\nIt's pretty small. — Nó khá nhỏ.\nIt's got only one room. — Nó chỉ có một phòng.\nHow many rooms does it have? — Nó có bao nhiêu phòng?\nIt has two bedrooms, a living room, and a huge kitchen. — Nó có hai phòng ngủ, một phòng khách và một nhà bếp rất lớn.\nI sleep in the living room. — Tôi ngủ ở phòng khách.\nI live with my sister. — Tôi sống cùng chị/em gái của mình.\nWe don't have much furniture yet. — Chúng tôi vẫn chưa có nhiều đồ nội thất.\nThe bookshelf looks really good. — Giá sách trông rất đẹp.\nThe dinner table is very nice and big enough. — Bàn ăn rất đẹp và đủ lớn.\nI need to buy one. — Tôi cần mua một cái.\nSounds great! — Nghe tuyệt đấy!\nI haven't been able to find one. — Tôi vẫn chưa thể tìm được một cái.\nIt's really comfortable. — Nó thực sự rất thoải mái.",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-297875",
+      "sourceQuestionId": 297875,
+      "challengeId": 31372,
+      "classChallengeId": "82564",
+      "title": "GRAMMAR",
+      "type": 1,
+      "prompt": "GRAMMAR",
+      "introductionText": "",
+      "contentText": "1. Fill in the blanks with my, your, his, her, its, our, their. (Điền vào chỗ trống với my, your, his, her, its, our, their.)",
+      "answerTemplateText": "1. Ann likes [input_0] teachers at school.\n\n2. Is this Peter's book? No, [input_1] book is in the schoolbag.\n\n3. Mary, is this your bike? No, [input_2] bike is behind the house.\n\n4. The hamster is in [input_3] cage.\n\n5. Henry helps [input_4] little brother.\n\n6. Children, where are [input_5] exercise books?\n\n7. The boys play with [input_6] ball.\n\n8. Tommy writes [input_7] homework.\n\n9. Paul and Cathy eat [input_8] sandwiches.\n\n10. My sister and I go to [input_9] grandmother.\n\n11. The monkey eats [input_10] bananas.\n\n12. The cats drink [input_11] milk.\n\n13. Tom and I like spaghetti. It is [input_12] favourite food.\n\n14. Carol and Bob do not like [input_13] classroom.\n\n15. Can I play with [input_14] computer game, Tom?\n\n16. Dad always washes [input_15] car on Sundays.\n\n17. What's [input_16] telephone number, Susan?\n\n18. Ann has two brothers. [input_17] names are Bill and George.\n\n19. Lucy likes [input_18] new bike.\n\n20. I can't find [input_19] new shirt. Have you seen it?",
+      "explanationText": "1. Ann likes her teachers at school.\n\nGiải thích: Ann là con gái, nên để chỉ giáo viên của cô ấy, ta dùng her.\n\nDịch: Ann thích các giáo viên của cô ấy ở trường.\n\n2. Is this Peter’s book? No, his book is in the schoolbag.\n\nGiải thích: Peter là con trai, nên để chỉ sách của anh ấy, ta dùng his.\n\nDịch: Đây có phải sách của Peter không? Không, sách của anh ấy ở trong cặp sách.\n\n3. Mary, is this your bike? No, my bike is behind the house.\n\nGiải thích: Mary đang được hỏi, nên cô ấy sẽ trả lời \"xe đạp của tôi\", ta dùng my.\n\nDịch: Mary, đây có phải xe đạp của bạn không? Không, xe đạp của tôi ở sau nhà.\n\n4. The hamster is in its cage.\n\nGiải thích: \"The hamster\" là một con vật, nên để chỉ lồng của nó, ta dùng its.\n\nDịch: Chú chuột hamster đang ở trong lồng của nó.\n\n5. Henry helps his little brother.\n\nGiải thích: Henry là con trai, nên để chỉ em trai của anh ấy, ta dùng his.\n\nDịch: Henry giúp em trai của anh ấy.\n\n6. Children, where are your exercise books?\n\nGiải thích: Khi giáo viên nói chuyện với \"Children\" (số nhiều), thì sách của họ là your.\n\nDịch: Các em, sách bài tập của các em ở đâu?\n\n7. The boys play with their ball.\n\nGiải thích: \"The boys\" là số nhiều, nên để chỉ quả bóng của họ, ta dùng their.\n\nDịch: Các cậu bé chơi với quả bóng của họ.\n\n8. Tommy writes his homework.\n\nGiải thích: Tommy là con trai, nên để chỉ bài tập về nhà của cậu ấy, ta dùng his.\n\nDịch: Tommy viết bài tập về nhà của cậu ấy.\n\n9. Paul and Cathy eat their sandwiches.\n\nGiải thích: \"Paul and Cathy\" là hai người (số nhiều), nên để chỉ bánh sandwich của họ, ta dùng their.\n\nDịch: Paul và Cathy ăn bánh mì kẹp của họ.\n\n10. My sister and I go to our grandmother.\n\nGiải thích: Chủ ngữ là \"My sister and I\" (chị tôi và tôi), nên để chỉ bà của chúng tôi, ta dùng our.\n\nDịch: Chị gái tôi và tôi đi đến nhà bà của chúng tôi.\n\n11. The monkey eats its bananas.\n\nGiải thích: \"The monkey\" là một con vật, nên để chỉ chuối của nó, ta dùng its.\n\nDịch: Con khỉ ăn chuối của nó.\n\n12. The cats drink their milk.\n\nGiải thích: \"The cats\" là số nhiều, nên để chỉ sữa của chúng, ta dùng their.\n\nDịch: Những con mèo uống sữa của chúng.\n\n13. Tom and I like spaghetti. It is our favourite food.\n\nGiải thích: Chủ ngữ là \"Tom and I\" (Tom và tôi), nên món ăn yêu thích của chúng tôi là our.\n\nDịch: Tom và tôi thích mì ý. Đó là món ăn yêu thích của chúng tôi.\n\n14. Carol and Bob do not like their classroom.\n\nGiải thích: \"Carol and Bob\" là số nhiều, nên để chỉ lớp học của họ, ta dùng their.\n\nDịch: Carol và Bob không thích lớp học của họ.\n\n15. Can I play with your computer game, Tom?\n\nGiải thích: Người nói đang hỏi Tom, nên trò chơi máy tính của Tom là your.\n\nDịch: Tớ chơi trò chơi máy tính của cậu được không, Tom?\n\n16. Dad always washes his car on Sundays.\n\nGiải thích: \"Dad\" là đàn ông, nên để chỉ xe của ông ấy, ta dùng his.\n\nDịch: Bố luôn rửa xe của ông ấy vào các ngày Chủ nhật.\n\n17. What's your telephone number, Susan?\n\nGiải thích: Người nói đang hỏi Susan, nên số điện thoại của Susan là your.\n\nDịch: Số điện thoại của bạn là gì, Susan?\n\n18. Ann has two brothers. Their names are Bill and George.\n\nGiải thích: \"Two brothers\" (hai anh em trai) là số nhiều, nên tên của họ là their.\n\nDịch: Ann có hai người anh trai. Tên của họ là Bill và George.\n\n19. Lucy likes her new bike.\n\nGiải thích: Lucy là con gái, nên để chỉ xe đạp của cô ấy, ta dùng her.\n\nDịch: Lucy thích chiếc xe đạp mới của cô ấy.\n\n20. I can't find my new shirt. Have you seen it?\n\nGiải thích: Chủ ngữ là \"I\", nên chiếc áo sơ mi của tôi là my.\n\nDịch: Tớ không tìm thấy chiếc áo sơ mi mới của tớ. Cậu có thấy nó không?",
+      "rawHtml": {
+        "title": "GRAMMAR",
+        "introduction": null,
+        "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-ExtraBold;\"><strong style=\"box-sizing: border-box; background-color: #ffffff;\">1. Fill in the blanks with&nbsp;<span style=\"box-sizing: border-box;\">my, your, his, her, its, our, their. (Điền v&agrave;o chỗ trống với my, your, his, her, its, our, their.)</span></strong></span></p>",
+        "answerTemplate": "<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">1. Ann likes [input_0] teachers at school.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">2. Is this Peter's book? No, [input_1] book is in the schoolbag.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">3. Mary, is this your bike? No, [input_2] bike is behind the house.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">4. The hamster is in [input_3] cage.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">5. Henry helps [input_4] little brother.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">6. Children, where are [input_5] exercise books?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">7. The boys play with [input_6] ball.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">8. Tommy writes [input_7] homework.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">9. Paul and Cathy eat [input_8] sandwiches.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">10. My sister and I go to [input_9] grandmother.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">11. The monkey eats [input_10] bananas.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">12. The cats drink [input_11] milk.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">13. Tom and I like spaghetti. It is [input_12] favourite food.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">14. Carol and Bob do not like [input_13] classroom.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">15. Can I play with [input_14] computer game, Tom?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">16. Dad always washes [input_15] car on Sundays.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">17. What's [input_16] telephone number, Susan?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">18. Ann has two brothers. [input_17] names are Bill and George.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">19. Lucy likes [input_18] new bike.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">20. I can't find [input_19] new shirt. Have you seen it?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"> </p>",
+        "explain": "<p><strong>1. Ann likes her teachers at school.</strong></p>\n<p><strong>Giải thích:</strong> Ann là con gái, nên để chỉ giáo viên của cô ấy, ta dùng <strong>her</strong>.</p>\n<p><em><strong>Dịch:</strong> Ann thích các giáo viên của cô ấy ở trường.</em></p>\n<p><strong>2. Is this Peter’s book? No, his book is in the schoolbag.</strong></p>\n<p><strong>Giải thích:</strong> Peter là con trai, nên để chỉ sách của anh ấy, ta dùng <strong>his</strong>.</p>\n<p><em><strong>Dịch:</strong> Đây có phải sách của Peter không? Không, sách của anh ấy ở trong cặp sách.</em></p>\n<p><strong>3. Mary, is this your bike? No, my bike is behind the house.</strong></p>\n<p><strong>Giải thích:</strong> Mary đang được hỏi, nên cô ấy sẽ trả lời \"xe đạp của tôi\", ta dùng <strong>my</strong>.</p>\n<p><em><strong>Dịch:</strong> Mary, đây có phải xe đạp của bạn không? Không, xe đạp của tôi ở sau nhà.</em></p>\n<p><strong>4. The hamster is in its cage.</strong></p>\n<p><strong>Giải thích:</strong> \"The hamster\" là một con vật, nên để chỉ lồng của nó, ta dùng <strong>its</strong>.</p>\n<p><em><strong>Dịch:</strong> Chú chuột hamster đang ở trong lồng của nó.</em></p>\n<p><strong>5. Henry helps his little brother.</strong></p>\n<p><strong>Giải thích:</strong> Henry là con trai, nên để chỉ em trai của anh ấy, ta dùng <strong>his</strong>.</p>\n<p><em><strong>Dịch:</strong> Henry giúp em trai của anh ấy.</em></p>\n<p><strong>6. Children, where are your exercise books?</strong></p>\n<p><strong>Giải thích:</strong> Khi giáo viên nói chuyện với \"Children\" (số nhiều), thì sách của họ là <strong>your</strong>.</p>\n<p><em><strong>Dịch:</strong> Các em, sách bài tập của các em ở đâu?</em></p>\n<p><strong>7. The boys play with their ball.</strong></p>\n<p><strong>Giải thích:</strong> \"The boys\" là số nhiều, nên để chỉ quả bóng của họ, ta dùng <strong>their</strong>.</p>\n<p><em><strong>Dịch:</strong> Các cậu bé chơi với quả bóng của họ.</em></p>\n<p><strong>8. Tommy writes his homework.</strong></p>\n<p><strong>Giải thích:</strong> Tommy là con trai, nên để chỉ bài tập về nhà của cậu ấy, ta dùng <strong>his</strong>.</p>\n<p><em><strong>Dịch:</strong> Tommy viết bài tập về nhà của cậu ấy.</em></p>\n<p><strong>9. Paul and Cathy eat their sandwiches.</strong></p>\n<p><strong>Giải thích:</strong> \"Paul and Cathy\" là hai người (số nhiều), nên để chỉ bánh sandwich của họ, ta dùng <strong>their</strong>.</p>\n<p><em><strong>Dịch:</strong> Paul và Cathy ăn bánh mì kẹp của họ.</em></p>\n<p><strong>10. My sister and I go to our grandmother.</strong></p>\n<p><strong>Giải thích:</strong> Chủ ngữ là \"My sister and I\" (chị tôi và tôi), nên để chỉ bà của chúng tôi, ta dùng <strong>our</strong>.</p>\n<p><em><strong>Dịch:</strong> Chị gái tôi và tôi đi đến nhà bà của chúng tôi.</em></p>\n<p><strong>11. The monkey eats its bananas.</strong></p>\n<p><strong>Giải thích:</strong> \"The monkey\" là một con vật, nên để chỉ chuối của nó, ta dùng <strong>its</strong>.</p>\n<p><em><strong>Dịch:</strong> Con khỉ ăn chuối của nó.</em></p>\n<p><strong>12. The cats drink their milk.</strong></p>\n<p><strong>Giải thích:</strong> \"The cats\" là số nhiều, nên để chỉ sữa của chúng, ta dùng <strong>their</strong>.</p>\n<p><em><strong>Dịch:</strong> Những con mèo uống sữa của chúng.</em></p>\n<p><strong>13. Tom and I like spaghetti. It is our favourite food.</strong></p>\n<p><strong>Giải thích:</strong> Chủ ngữ là \"Tom and I\" (Tom và tôi), nên món ăn yêu thích của chúng tôi là <strong>our</strong>.</p>\n<p><em><strong>Dịch:</strong> Tom và tôi thích mì ý. Đó là món ăn yêu thích của chúng tôi.</em></p>\n<p><strong>14. Carol and Bob do not like their classroom.</strong></p>\n<p><strong>Giải thích:</strong> \"Carol and Bob\" là số nhiều, nên để chỉ lớp học của họ, ta dùng <strong>their</strong>.</p>\n<p><em><strong>Dịch:</strong> Carol và Bob không thích lớp học của họ.</em></p>\n<p><strong>15. Can I play with your computer game, Tom?</strong></p>\n<p><strong>Giải thích:</strong> Người nói đang hỏi Tom, nên trò chơi máy tính của Tom là <strong>your</strong>.</p>\n<p><em><strong>Dịch:</strong> Tớ chơi trò chơi máy tính của cậu được không, Tom?</em></p>\n<p><strong>16. Dad always washes his car on Sundays.</strong></p>\n<p><strong>Giải thích:</strong> \"Dad\" là đàn ông, nên để chỉ xe của ông ấy, ta dùng <strong>his</strong>.</p>\n<p><em><strong>Dịch:</strong> Bố luôn rửa xe của ông ấy vào các ngày Chủ nhật.</em></p>\n<p><strong>17. What's your telephone number, Susan?</strong></p>\n<p><strong>Giải thích:</strong> Người nói đang hỏi Susan, nên số điện thoại của Susan là <strong>your</strong>.</p>\n<p><em><strong>Dịch:</strong> Số điện thoại của bạn là gì, Susan?</em></p>\n<p><strong>18. Ann has two brothers. Their names are Bill and George.</strong></p>\n<p><strong>Giải thích:</strong> \"Two brothers\" (hai anh em trai) là số nhiều, nên tên của họ là <strong>their</strong>.</p>\n<p><em><strong>Dịch:</strong> Ann có hai người anh trai. Tên của họ là Bill và George.</em></p>\n<p><strong>19. Lucy likes her new bike.</strong></p>\n<p><strong>Giải thích:</strong> Lucy là con gái, nên để chỉ xe đạp của cô ấy, ta dùng <strong>her</strong>.</p>\n<p><em><strong>Dịch:</strong> Lucy thích chiếc xe đạp mới của cô ấy.</em></p>\n<p><strong>20. I can't find my new shirt. Have you seen it?</strong></p>\n<p><strong>Giải thích:</strong> Chủ ngữ là \"I\", nên chiếc áo sơ mi của tôi là <strong>my</strong>.</p>\n<p><em><strong>Dịch:</strong> Tớ không tìm thấy chiếc áo sơ mi mới của tớ. Cậu có thấy nó không?</em></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 20,
+        "totalCorrect": 17,
+        "userAnswer": {
+          "input_0": "my",
+          "input_1": "his",
+          "input_2": "its",
+          "input_3": "its",
+          "input_4": "his",
+          "input_5": "your",
+          "input_6": "their",
+          "input_7": "his",
+          "input_8": "their",
+          "input_9": "our",
+          "input_10": "its",
+          "input_11": "their",
+          "input_12": "our",
+          "input_13": "their",
+          "input_14": "your",
+          "input_15": "his",
+          "input_16": "your",
+          "input_17": "their",
+          "input_18": "my",
+          "input_19": "my"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "her"
+          ],
+          "input_1": [
+            "his"
+          ],
+          "input_2": [
+            "my"
+          ],
+          "input_3": [
+            "its"
+          ],
+          "input_4": [
+            "his"
+          ],
+          "input_5": [
+            "your"
+          ],
+          "input_6": [
+            "their"
+          ],
+          "input_7": [
+            "his"
+          ],
+          "input_8": [
+            "their"
+          ],
+          "input_9": [
+            "our"
+          ],
+          "input_10": [
+            "its"
+          ],
+          "input_11": [
+            "their"
+          ],
+          "input_12": [
+            "our"
+          ],
+          "input_13": [
+            "their"
+          ],
+          "input_14": [
+            "your"
+          ],
+          "input_15": [
+            "his"
+          ],
+          "input_16": [
+            "your"
+          ],
+          "input_17": [
+            "Their"
+          ],
+          "input_18": [
+            "her"
+          ],
+          "input_19": [
+            "my"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false,
+          "input_1": true,
+          "input_2": false,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": true,
+          "input_9": true,
+          "input_10": true,
+          "input_11": true,
+          "input_12": true,
+          "input_13": true,
+          "input_14": true,
+          "input_15": true,
+          "input_16": true,
+          "input_17": true,
+          "input_18": false,
+          "input_19": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-297876",
+      "sourceQuestionId": 297876,
+      "challengeId": 31372,
+      "classChallengeId": "82564",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2. Fill in the blanks with a, an, the or x. (Điền vào chỗ trống với a, an, the hoặc x.)",
+      "introductionText": "",
+      "contentText": "Exercise 2. Fill in the blanks with a, an, the or x. (Điền vào chỗ trống với a, an, the hoặc x.)",
+      "answerTemplateText": "1. Look at [input_0] sea!\n\n2. Who is [input_1] lady in [input_2]  picture?\n\n3. I visited [input_3] South Africa last summer.\n\n4. The book is about [input_4] man who lives on [input_5] small island.\n\n5. I work as [input_6] only English teacher at this school.\n\n6. Harry fixed [input_7] car, so we can go to [input_8] lake.\n\n7. She goes to work by [input_9] bike.\n\n8. Jamy likes [input_10] music, he plays [input_11] instrument.\n\n9. Marie enjoys eating [input_12] Swiss cheese.\n\n10. We have [input_13] small house in [input_14] village in [input_15] Netherlands.\n\n11. I like [input_16] blue T-shirt over there better than [input_17] red one.\n\n12. Their car does 150 miles [input_18] hour.\n\n13. Where's [input_19] USB drive I lent you last week?\n\n14. Do you still live in [input_20] Bristol?\n\n15. Is your mother working in [input_21] old office building?\n\n16. Carol's father works as [input_22] electrician.\n\n17. The tomatoes are 99 pence [input_23] kilo.\n\n18. What do you usually have for [input_24] breakfast?\n\n19. Ben has [input_25] terrible headache.\n\n20. After this tour you have [input_26] whole afternoon free to explore the city.",
+      "explanationText": "1. Look at the sea!\n\nGiải thích: \"the sea\" (biển) là một danh từ xác định, chỉ một đối tượng cụ thể mà người nói và người nghe đều biết.\n\nDịch: Nhìn ra biển kìa!\n\n2. Who is the lady in the picture?\n\nGiải thích: \"the lady\" và \"the picture\" đều là danh từ xác định, cả hai người đang nói chuyện đều hiểu đang nhắc đến người phụ nữ và bức tranh cụ thể nào.\n\nDịch: Người phụ nữ trong bức tranh là ai vậy?\n\n3. I visited South Africa last summer.\n\nGiải thích: Tên quốc gia \"South Africa\" (Nam Phi) không cần mạo từ.\n\nDịch: Hè năm ngoái tôi đã đến thăm Nam Phi.\n\n4. The book is about a man who lives on a small island.\n\nGiải thích: \"a man\" và \"a small island\" là những danh từ không xác định, được nhắc đến lần đầu.\n\nDịch: Cuốn sách nói về một người đàn ông sống trên một hòn đảo nhỏ.\n\n5. I work as the only English teacher at this school.\n\nGiải thích: \"the only English teacher\" là danh từ xác định, vì chỉ có một người duy nhất giữ vai trò đó.\n\nDịch: Tôi là giáo viên tiếng Anh duy nhất ở trường này.\n\n6. Harry fixed the car, so we can go to the lake.\n\nGiải thích: \"the car\" và \"the lake\" đều là danh từ xác định, vì cả hai người đều biết đó là cái xe và cái hồ nào.\n\nDịch: Harry đã sửa xong cái xe, nên chúng ta có thể đến hồ rồi.\n\n7. She goes to work by bike.\n\nGiải thích: Sau giới từ \"by\" khi chỉ phương tiện di chuyển, ta không dùng mạo từ.\n\nDịch: Cô ấy đi làm bằng xe đạp.\n\n8. Jamy likes music, he plays an instrument.\n\nGiải thích: \"music\" là danh từ chung chung, không cần mạo từ. \"an instrument\" là một danh từ không xác định, vì người nghe chưa biết đó là nhạc cụ gì.\n\nDịch: Jamy thích âm nhạc, cậu ấy chơi một loại nhạc cụ.\n\n9. Marie enjoys eating Swiss cheese.\n\nGiải thích: \"Swiss cheese\" là danh từ không đếm được và đang được nhắc đến một cách chung chung, nên không cần mạo từ.\n\nDịch: Marie thích ăn phô mai Thụy Sĩ.\n\n10. We have a small house in a village in the Netherlands.\n\nGiải thích: \"a small house\" và \"a village\" là các danh từ không xác định. Tên quốc gia \"the Netherlands\" (Hà Lan) luôn đi kèm với mạo từ \"the\".\n\nDịch: Chúng tôi có một ngôi nhà nhỏ trong một ngôi làng ở Hà Lan.\n\n11. I like the blue T-shirt over there better than the red one.\n\nGiải thích: \"the blue T-shirt\" và \"the red one\" đều là danh từ xác định, vì người nói và người nghe đều nhìn thấy hai cái áo cụ thể đó.\n\nDịch: Tớ thích cái áo phông xanh ở đằng kia hơn cái áo màu đỏ.\n\n12. Their car does 150 miles an hour.\n\nGiải thích: \"an hour\" dùng để diễn tả tốc độ trên mỗi giờ. \"hour\" bắt đầu bằng một nguyên âm trong cách phát âm, nên ta dùng \"an\".\n\nDịch: Chiếc xe của họ đi được 150 dặm một giờ.\n\n13. Where's the USB drive I lent you last week?\n\nGiải thích: \"the USB drive\" là danh từ xác định, vì người nói và người nghe đều biết cái USB đó đã được cho mượn từ tuần trước.\n\nDịch: Cái USB mà tớ cho cậu mượn tuần trước đâu rồi?\n\n14. Do you still live in Bristol?\n\nGiải thích: Tên thành phố \"Bristol\" không cần mạo từ.\n\nDịch: Bạn vẫn sống ở Bristol à?\n\n15. Is your mother working in an old office building?\n\nGiải thích: \"an old office building\" là danh từ không xác định, chỉ một tòa nhà văn phòng cũ bất kỳ. \"old\" bắt đầu bằng nguyên âm nên ta dùng \"an\".\n\nDịch: Mẹ bạn đang làm việc trong một tòa nhà văn phòng cũ phải không?\n\n16. Carol's father works as an electrician.\n\nGiải thích: \"an electrician\" là một danh từ không xác định, chỉ một nghề nghiệp. \"electrician\" bắt đầu bằng nguyên âm nên ta dùng \"an\".\n\nDịch: Bố của Carol làm thợ điện.\n\n17. The tomatoes are 99 pence a kilo.\n\nGiải thích: \"a kilo\" dùng để diễn tả giá trên mỗi kg.\n\nDịch: Cà chua giá 99 xu một cân.\n\n18. What do you usually have for breakfast?\n\nGiải thích: \"breakfast\" là tên bữa ăn, không cần mạo từ.\n\nDịch: Bạn thường ăn gì vào bữa sáng?\n\n19. Ben has a terrible headache.\n\nGiải thích: \"a terrible headache\" là một danh từ không xác định, chỉ một cơn đau đầu bất kỳ. \"terrible\" bắt đầu bằng một phụ âm, nên ta dùng \"a\".\n\nDịch: Ben bị đau đầu khủng khiếp.\n\n20. After this tour you have the whole afternoon free to explore the city.\n\nGiải thích: \"the whole afternoon\" là một khoảng thời gian xác định, được nhấn mạnh là \"toàn bộ\" buổi chiều.\n\nDịch: Sau chuyến tham quan này, bạn có cả buổi chiều rảnh rỗi để khám phá thành phố.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-ExtraBold; color: #000000;\"><strong style=\"box-sizing: border-box; background-color: #ffffff;\">Exercise 2. Fill in the blanks with&nbsp;<em style=\"box-sizing: border-box;\">a, an, the or x. (Điền v&agrave;o chỗ trống với a, an, the hoặc x.)</em></strong></span></p>",
+        "answerTemplate": "<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">1. Look at [input_0] sea!</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">2. Who is [input_1] lady in [input_2]  picture?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">3. I visited [input_3] South Africa last summer.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">4. The book is about [input_4] man who lives on [input_5] small island.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">5. I work as [input_6] only English teacher at this school.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">6. Harry fixed [input_7] car, so we can go to [input_8] lake.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">7. She goes to work by [input_9] bike.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">8. Jamy likes [input_10] music, he plays [input_11] instrument.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">9. Marie enjoys eating [input_12] Swiss cheese.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">10. We have [input_13] small house in [input_14] village in [input_15] Netherlands.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">11. I like [input_16] blue T-shirt over there better than [input_17] red one.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">12. Their car does 150 miles [input_18] hour.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">13. Where's [input_19] USB drive I lent you last week?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">14. Do you still live in [input_20] Bristol?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">15. Is your mother working in [input_21] old office building?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">16. Carol's father works as [input_22] electrician.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">17. The tomatoes are 99 pence [input_23] kilo.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">18. What do you usually have for [input_24] breakfast?</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">19. Ben has [input_25] terrible headache.</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">20. After this tour you have [input_26] whole afternoon free to explore the city.</span></span></p>",
+        "explain": "<p><strong>1. Look at the sea!</strong></p>\n<p><strong>Giải thích:</strong> \"the sea\" (biển) là một danh từ xác định, chỉ một đối tượng cụ thể mà người nói và người nghe đều biết.</p>\n<p><em><strong>Dịch:</strong> Nhìn ra biển kìa!</em></p>\n<p><strong>2. Who is the lady in the picture?</strong></p>\n<p><strong>Giải thích:</strong> \"the lady\" và \"the picture\" đều là danh từ xác định, cả hai người đang nói chuyện đều hiểu đang nhắc đến người phụ nữ và bức tranh cụ thể nào.</p>\n<p><em><strong>Dịch:</strong> Người phụ nữ trong bức tranh là ai vậy?</em></p>\n<p><strong>3. I visited South Africa last summer.</strong></p>\n<p><strong>Giải thích:</strong> Tên quốc gia \"South Africa\" (Nam Phi) không cần mạo từ.</p>\n<p><em><strong>Dịch:</strong> Hè năm ngoái tôi đã đến thăm Nam Phi.</em></p>\n<p><strong>4. The book is about a man who lives on a small island.</strong></p>\n<p><strong>Giải thích:</strong> \"a man\" và \"a small island\" là những danh từ không xác định, được nhắc đến lần đầu.</p>\n<p><em><strong>Dịch:</strong> Cuốn sách nói về một người đàn ông sống trên một hòn đảo nhỏ.</em></p>\n<p><strong>5. I work as the only English teacher at this school.</strong></p>\n<p><strong>Giải thích:</strong> \"the only English teacher\" là danh từ xác định, vì chỉ có một người duy nhất giữ vai trò đó.</p>\n<p><em><strong>Dịch:</strong> Tôi là giáo viên tiếng Anh duy nhất ở trường này.</em></p>\n<p><strong>6. Harry fixed the car, so we can go to the lake.</strong></p>\n<p><strong>Giải thích:</strong> \"the car\" và \"the lake\" đều là danh từ xác định, vì cả hai người đều biết đó là cái xe và cái hồ nào.</p>\n<p><em><strong>Dịch:</strong> Harry đã sửa xong cái xe, nên chúng ta có thể đến hồ rồi.</em></p>\n<p><strong>7. She goes to work by bike.</strong></p>\n<p><strong>Giải thích:</strong> Sau giới từ \"by\" khi chỉ phương tiện di chuyển, ta không dùng mạo từ.</p>\n<p><em><strong>Dịch:</strong> Cô ấy đi làm bằng xe đạp.</em></p>\n<p><strong>8. Jamy likes music, he plays an instrument.</strong></p>\n<p><strong>Giải thích:</strong> \"music\" là danh từ chung chung, không cần mạo từ. \"an instrument\" là một danh từ không xác định, vì người nghe chưa biết đó là nhạc cụ gì.</p>\n<p><em><strong>Dịch:</strong> Jamy thích âm nhạc, cậu ấy chơi một loại nhạc cụ.</em></p>\n<p><strong>9. Marie enjoys eating Swiss cheese.</strong></p>\n<p><strong>Giải thích:</strong> \"Swiss cheese\" là danh từ không đếm được và đang được nhắc đến một cách chung chung, nên không cần mạo từ.</p>\n<p><em><strong>Dịch:</strong> Marie thích ăn phô mai Thụy Sĩ.</em></p>\n<p><strong>10. We have a small house in a village in the Netherlands.</strong></p>\n<p><strong>Giải thích:</strong> \"a small house\" và \"a village\" là các danh từ không xác định. Tên quốc gia \"the Netherlands\" (Hà Lan) luôn đi kèm với mạo từ \"the\".</p>\n<p><em><strong>Dịch:</strong> Chúng tôi có một ngôi nhà nhỏ trong một ngôi làng ở Hà Lan.</em></p>\n<p><strong>11. I like the blue T-shirt over there better than the red one.</strong></p>\n<p><strong>Giải thích:</strong> \"the blue T-shirt\" và \"the red one\" đều là danh từ xác định, vì người nói và người nghe đều nhìn thấy hai cái áo cụ thể đó.</p>\n<p><em><strong>Dịch:</strong> Tớ thích cái áo phông xanh ở đằng kia hơn cái áo màu đỏ.</em></p>\n<p><strong>12. Their car does 150 miles an hour.</strong></p>\n<p><strong>Giải thích:</strong> \"an hour\" dùng để diễn tả tốc độ trên mỗi giờ. \"hour\" bắt đầu bằng một nguyên âm trong cách phát âm, nên ta dùng \"an\".</p>\n<p><em><strong>Dịch:</strong> Chiếc xe của họ đi được 150 dặm một giờ.</em></p>\n<p><strong>13. Where's the USB drive I lent you last week?</strong></p>\n<p><strong>Giải thích:</strong> \"the USB drive\" là danh từ xác định, vì người nói và người nghe đều biết cái USB đó đã được cho mượn từ tuần trước.</p>\n<p><em><strong>Dịch:</strong> Cái USB mà tớ cho cậu mượn tuần trước đâu rồi?</em></p>\n<p><strong>14. Do you still live in Bristol?</strong></p>\n<p><strong>Giải thích:</strong> Tên thành phố \"Bristol\" không cần mạo từ.</p>\n<p><em><strong>Dịch:</strong> Bạn vẫn sống ở Bristol à?</em></p>\n<p><strong>15. Is your mother working in an old office building?</strong></p>\n<p><strong>Giải thích:</strong> \"an old office building\" là danh từ không xác định, chỉ một tòa nhà văn phòng cũ bất kỳ. \"old\" bắt đầu bằng nguyên âm nên ta dùng \"an\".</p>\n<p><em><strong>Dịch:</strong> Mẹ bạn đang làm việc trong một tòa nhà văn phòng cũ phải không?</em></p>\n<p><strong>16. Carol's father works as an electrician.</strong></p>\n<p><strong>Giải thích:</strong> \"an electrician\" là một danh từ không xác định, chỉ một nghề nghiệp. \"electrician\" bắt đầu bằng nguyên âm nên ta dùng \"an\".</p>\n<p><em><strong>Dịch:</strong> Bố của Carol làm thợ điện.</em></p>\n<p><strong>17. The tomatoes are 99 pence a kilo.</strong></p>\n<p><strong>Giải thích:</strong> \"a kilo\" dùng để diễn tả giá trên mỗi kg.</p>\n<p><em><strong>Dịch:</strong> Cà chua giá 99 xu một cân.</em></p>\n<p><strong>18. What do you usually have for breakfast?</strong></p>\n<p><strong>Giải thích:</strong> \"breakfast\" là tên bữa ăn, không cần mạo từ.</p>\n<p><em><strong>Dịch:</strong> Bạn thường ăn gì vào bữa sáng?</em></p>\n<p><strong>19. Ben has a terrible headache.</strong></p>\n<p><strong>Giải thích:</strong> \"a terrible headache\" là một danh từ không xác định, chỉ một cơn đau đầu bất kỳ. \"terrible\" bắt đầu bằng một phụ âm, nên ta dùng \"a\".</p>\n<p><em><strong>Dịch:</strong> Ben bị đau đầu khủng khiếp.</em></p>\n<p><strong>20. After this tour you have the whole afternoon free to explore the city.</strong></p>\n<p><strong>Giải thích:</strong> \"the whole afternoon\" là một khoảng thời gian xác định, được nhấn mạnh là \"toàn bộ\" buổi chiều.</p>\n<p><em><strong>Dịch:</strong> Sau chuyến tham quan này, bạn có cả buổi chiều rảnh rỗi để khám phá thành phố.</em></p>\n<p><span id=\"docs-internal-guid-9f4a7f3d-7fff-ce56-992d-a420a3badd17\" style=\"font-family: Nunito-Regular;\"></span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "object",
+      "submission": {
+        "totalQuestion": 27,
+        "totalCorrect": 23,
+        "userAnswer": {
+          "input_0": "a",
+          "input_1": "the",
+          "input_2": "the",
+          "input_3": "x",
+          "input_4": "the",
+          "input_5": "a",
+          "input_6": "an",
+          "input_7": "the",
+          "input_8": "the",
+          "input_9": "a",
+          "input_10": "x",
+          "input_11": "an",
+          "input_12": "x",
+          "input_13": "a",
+          "input_14": "a",
+          "input_15": "the",
+          "input_16": "the",
+          "input_17": "the",
+          "input_18": "an",
+          "input_19": "the",
+          "input_20": "x",
+          "input_21": "an",
+          "input_22": "an",
+          "input_23": "a",
+          "input_24": "x",
+          "input_25": "a",
+          "input_26": "the"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "the"
+          ],
+          "input_1": [
+            "the"
+          ],
+          "input_2": [
+            "the"
+          ],
+          "input_3": [
+            "x"
+          ],
+          "input_4": [
+            "a"
+          ],
+          "input_5": [
+            "a"
+          ],
+          "input_6": [
+            "the"
+          ],
+          "input_7": [
+            "the"
+          ],
+          "input_8": [
+            "the"
+          ],
+          "input_9": [
+            "x"
+          ],
+          "input_10": [
+            "x"
+          ],
+          "input_11": [
+            "an"
+          ],
+          "input_12": [
+            "x"
+          ],
+          "input_13": [
+            "a"
+          ],
+          "input_14": [
+            "a"
+          ],
+          "input_15": [
+            "the"
+          ],
+          "input_16": [
+            "the"
+          ],
+          "input_17": [
+            "the"
+          ],
+          "input_18": [
+            "an"
+          ],
+          "input_19": [
+            "the"
+          ],
+          "input_20": [
+            "x"
+          ],
+          "input_21": [
+            "an"
+          ],
+          "input_22": [
+            "an"
+          ],
+          "input_23": [
+            "a"
+          ],
+          "input_24": [
+            "x"
+          ],
+          "input_25": [
+            "a"
+          ],
+          "input_26": [
+            "the"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": false,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": false,
+          "input_5": true,
+          "input_6": false,
+          "input_7": true,
+          "input_8": true,
+          "input_9": false,
+          "input_10": true,
+          "input_11": true,
+          "input_12": true,
+          "input_13": true,
+          "input_14": true,
+          "input_15": true,
+          "input_16": true,
+          "input_17": true,
+          "input_18": true,
+          "input_19": true,
+          "input_20": true,
+          "input_21": true,
+          "input_22": true,
+          "input_23": true,
+          "input_24": true,
+          "input_25": true,
+          "input_26": true
+        },
+        "hasAnswerEmpty": []
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-297877",
+      "sourceQuestionId": 297877,
+      "challengeId": 31372,
+      "classChallengeId": "82564",
+      "title": null,
+      "type": 2,
+      "prompt": "Exercise 3. Correct the sentences by adding a, an or the. (Sửa lại các câu sau bằng cách thêm a, an hoặc the)\n\na. I need new mouse for my computer. Answer: I need a new mouse for my computer.\n\nb. Why are you always in good mood? Answer:",
+      "introductionText": "",
+      "contentText": "Exercise 3. Correct the sentences by adding a, an or the. (Sửa lại các câu sau bằng cách thêm a, an hoặc the)\n\na. I need new mouse for my computer. Answer: I need a new mouse for my computer.\n\nb. Why are you always in good mood? Answer:",
+      "answerTemplateText": "",
+      "explanationText": "Why are you always in a good mood? (Tại sao bạn luôn vui vẻ vậy?)\n\n‘Mood’ là danh từ đếm được, số ít,  nói về trạng thái cảm xúc tại một thời điểm → không xác định, dùng ‘a’",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">Exercise 3. Correct the sentences by adding a, an or the.&nbsp;<em style=\"box-sizing: border-box;\">(Sửa lại c&aacute;c c&acirc;u sau bằng c&aacute;ch th&ecirc;m a, an hoặc the)</em></strong></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">a. I need&nbsp;<em style=\"box-sizing: border-box;\">new mouse</em>&nbsp;for my computer.&nbsp;<strong style=\"box-sizing: border-box;\">Answer:&nbsp;<em style=\"box-sizing: border-box;\">I need a new mouse for my computer.</em></strong></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; font-size: 12pt; border-radius: 0px !important; font-family: Nunito-Regular;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">b. Why are you always in good mood?&nbsp;<strong style=\"box-sizing: border-box;\">Answer:</strong></span></span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 6pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #e03e2d; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Why are you always in a good mood? <em>(Tại sao bạn luôn vui vẻ vậy?) </em></span></p>\n<p><span id=\"docs-internal-guid-f22893e7-7fff-0473-acc4-4a67e297aabb\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">‘Mood’ là danh từ đếm được, số ít,  nói về trạng thái cảm xúc tại một thời điểm → không xác định, dùng ‘a’<br /><br /></span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "Why are you always in a good mood?",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-297878",
+      "sourceQuestionId": 297878,
+      "challengeId": 31372,
+      "classChallengeId": "82564",
+      "title": null,
+      "type": 2,
+      "prompt": "c. Red, yellow and blue are three primary colours. Answer:",
+      "introductionText": "",
+      "contentText": "c. Red, yellow and blue are three primary colours. Answer:",
+      "answerTemplateText": "",
+      "explanationText": "Red, yellow and blue are the three primary colours. (Đỏ, vàng và xanh dương là ba màu cơ bản.)\n\nKhông phải kể chung một số màu sắc, mà đây là ba màu cụ thể được coi là màu cơ bản trong các màu → được xác định, dùng ‘the’",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"background-color: #ffffff;\">c. Red, yellow and blue are three primary colours.&nbsp;</span><strong style=\"box-sizing: border-box; background-color: #ffffff;\">Answer:</strong></span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 6pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #e03e2d; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Red, yellow and blue are the three primary colours. <em>(Đỏ, vàng và xanh dương là ba màu cơ bản.)</em></span></p>\n<p><span id=\"docs-internal-guid-d9b59fab-7fff-60c0-a8c5-8bd256ecbbb2\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Không phải kể chung một số màu sắc, mà đây là ba màu cụ thể được coi là màu cơ bản trong các màu → được xác định, dùng ‘the’</span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "Red, yellow and blue are the three primary colours.",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-297879",
+      "sourceQuestionId": 297879,
+      "challengeId": 31372,
+      "classChallengeId": "82564",
+      "title": null,
+      "type": 2,
+      "prompt": "d. Photoshop is program for editing digital images. Answer:",
+      "introductionText": "",
+      "contentText": "d. Photoshop is program for editing digital images. Answer:",
+      "answerTemplateText": "",
+      "explanationText": "Photoshop is a program for editing digital images. (Photoshop là một chương trình để chỉnh sửa hình ảnh kỹ thuật số.)\n\n‘Program’ là danh từ đếm được số ít, nhắc đến lần đầu và là ví dụ một trong rất nhiều những phần mềm thiết kế → không xác định, dùng ‘a’",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">d. Photoshop is program for editing digital images. <strong>Answer:</strong></span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 6pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #e03e2d; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Photoshop is a program for editing digital images. <em>(Photoshop là một chương trình để chỉnh sửa hình ảnh kỹ thuật số.)</em></span></p>\n<p><span id=\"docs-internal-guid-6ac8eba6-7fff-ea8b-513a-585eed358b52\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">‘Program’ là danh từ đếm được số ít, nhắc đến lần đầu và là ví dụ một trong rất nhiều những phần mềm thiết kế → không xác định, dùng ‘a’</span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "Photoshop is a program for editing digital images.",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-297880",
+      "sourceQuestionId": 297880,
+      "challengeId": 31372,
+      "classChallengeId": "82564",
+      "title": null,
+      "type": 2,
+      "prompt": "e. Acid rain is big problem in parts of Europe. Answer:",
+      "introductionText": "",
+      "contentText": "e. Acid rain is big problem in parts of Europe. Answer:",
+      "answerTemplateText": "",
+      "explanationText": "Acid rain is a big problem in parts of Europe. (Mưa axit là một vấn đề lớn ở một số vùng của châu Âu.)\n\n‘problem’ là danh từ đếm được số ít, mưa axit nói chung là một trong những vấn đề lớn ở nhiều nơi thuộc châu Âu chứ không phải 1 vấn đề cụ thể từng được đề cập trước đó hay là đối tượng cả người nghe và người nói cùng hiểu và xác định được → không xác định, dùng ‘a’",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">e. Acid rain is big problem in parts of Europe. <strong>Answer:</strong></span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 6pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #e03e2d; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Acid rain is a big problem in parts of Europe. <em>(Mưa axit là một vấn đề lớn ở một số vùng của châu Âu.)</em></span></p>\n<p><span id=\"docs-internal-guid-d66929cf-7fff-3dc5-1c78-084ce2394666\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">‘problem’ là danh từ đếm được số ít, mưa axit nói chung là một trong những vấn đề lớn ở nhiều nơi thuộc châu Âu chứ không phải 1 vấn đề cụ thể từng được đề cập trước đó hay là đối tượng cả người nghe và người nói cùng hiểu và xác định được → không xác định, dùng ‘a’</span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "Acid rain is a big problem in parts of Europe.",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-297881",
+      "sourceQuestionId": 297881,
+      "challengeId": 31372,
+      "classChallengeId": "82564",
+      "title": null,
+      "type": 2,
+      "prompt": "f. We went out for meal last night at Indian restaurant in South Street. Answer:",
+      "introductionText": "",
+      "contentText": "f. We went out for meal last night at Indian restaurant in South Street. Answer:",
+      "answerTemplateText": "",
+      "explanationText": "We went out for a meal last night at an Indian restaurant on South Street. (Tối qua chúng tôi đã đi ăn tối ở một nhà hàng Ấn Độ trên phố South.)\n\n‘Meal’ và ‘Indian restaurant’ đều là danh từ đếm được số ít. \n\nTa đang nói chung về việc đi ra ngoài ăn một bữa (một bữa bất kì trong vô số bữa ăn có thể xảy ra tối qua, cũng không có bối cảnh nhắc đến bữa ăn trước đó) → không xác định, dùng ‘a’\n\n‘Indian restaurant’ ám chỉ một nhà hàng Ấn bất kì trên phố South, bắt đầu với nguyên âm → dùng ‘an’",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">f. We went out for meal last night at Indian restaurant in South Street. <strong>Answer:</strong></span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 6pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #e03e2d; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">We went out for a meal last night at an Indian restaurant on South Street. <em>(Tối qua chúng tôi đã đi ăn tối ở một nhà hàng Ấn Độ trên phố South.)</em></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">‘Meal’ và ‘Indian restaurant’ đều là danh từ đếm được số ít. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Ta đang nói chung về việc đi ra ngoài ăn một bữa (một bữa bất kì trong vô số bữa ăn có thể xảy ra tối qua, cũng không có bối cảnh nhắc đến bữa ăn trước đó) → không xác định, dùng ‘a’</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">‘Indian restaurant’ ám chỉ một nhà hàng Ấn bất kì trên phố South, bắt đầu với nguyên âm → dùng ‘an’</span></p>\n<p><span id=\"docs-internal-guid-8db56aef-7fff-823e-8a25-9833799e30bf\" style=\"font-family: Nunito-Regular;\"></span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "We went out for a meal last night at an Indian restaurant in South Street.",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-297882",
+      "sourceQuestionId": 297882,
+      "challengeId": 31372,
+      "classChallengeId": "82564",
+      "title": null,
+      "type": 2,
+      "prompt": "g. My brother became engineer because he liked playing with motors. Answer:",
+      "introductionText": "",
+      "contentText": "g. My brother became engineer because he liked playing with motors. Answer:",
+      "answerTemplateText": "",
+      "explanationText": "My brother became an engineer because he liked playing with motors. (Anh trai tôi trở thành một kỹ sư vì anh ấy thích mày mò với các động cơ.)\n\nGiới thiệu về mong muốn công việc lần đầu. ‘Engineer’ là danh từ đếm được số ít, bắt đầu với nguyên âm → dùng ‘an’",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">g. My brother became engineer because he liked playing with motors. <strong>Answer:</strong></span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 6pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #e03e2d; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">My brother became an engineer because he liked playing with motors. <em>(Anh trai tôi trở thành một kỹ sư vì anh ấy thích mày mò với các động cơ.)</em></span></p>\n<p><span id=\"docs-internal-guid-303d2bf7-7fff-d118-eb58-0eec8ac464ec\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Giới thiệu về mong muốn công việc lần đầu. ‘Engineer’ là danh từ đếm được số ít, bắt đầu với nguyên âm → dùng ‘an’</span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "My brother became an engineer because he liked playing with motors.",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-297883",
+      "sourceQuestionId": 297883,
+      "challengeId": 31372,
+      "classChallengeId": "82564",
+      "title": null,
+      "type": 2,
+      "prompt": "h. I lost all my work when a computer crashed. Answer:",
+      "introductionText": "",
+      "contentText": "h. I lost all my work when a computer crashed. Answer:",
+      "answerTemplateText": "",
+      "explanationText": "I lost all my work when the computer crashed. (Tôi đã mất hết công việc khi máy tính bị hỏng.)\n\n‘computer’ là danh từ đếm được số ít. Trường hợp này không phải một cái máy tính mới, ngẫu nhiên, mà phải là cái máy mà ‘I’ đang làm việc mà lại bị sập để rồi mất hết phần công việc đang làm → đã xác dịnh, dùng ‘the’",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">h. I lost all my work when a computer crashed.<strong> Answer:</strong></span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 6pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #e03e2d; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I lost all my work when the computer crashed. <em>(Tôi đã mất hết công việc khi máy tính bị hỏng.)</em></span></p>\n<p><span id=\"docs-internal-guid-dc93a2d2-7fff-0763-8136-98a73422393a\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">‘computer’ là danh từ đếm được số ít. Trường hợp này không phải một cái máy tính mới, ngẫu nhiên, mà phải là cái máy mà ‘I’ đang làm việc mà lại bị sập để rồi mất hết phần công việc đang làm → đã xác dịnh, dùng ‘the’</span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "I lost all my work when the computer crashed.",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-297884",
+      "sourceQuestionId": 297884,
+      "challengeId": 31372,
+      "classChallengeId": "82564",
+      "title": null,
+      "type": 2,
+      "prompt": "i. This is book she gave me. Answer:",
+      "introductionText": "",
+      "contentText": "i. This is book she gave me. Answer:",
+      "answerTemplateText": "",
+      "explanationText": "This is the book she gave me. (Đây là cuốn sách cô ấy đã đưa cho tôi.)\n\n‘Book’ là danh từ đếm được số ít. Đây không phải là một quyển sách nói chung, bất kì mà cụ thể đúng là cuốn mà cô ấy đã cho tôi → đã xác định, dùng ‘the’",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">i. This is book she gave me.<strong> Answer:</strong></span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 6pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #e03e2d; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This is the book she gave me. <em>(Đây là cuốn sách cô ấy đã đưa cho tôi.)</em></span></p>\n<p><span id=\"docs-internal-guid-5d6a57d4-7fff-452c-8980-362f80e2dc83\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">‘Book’ là danh từ đếm được số ít. Đây không phải là một quyển sách nói chung, bất kì mà cụ thể đúng là cuốn mà cô ấy đã cho tôi → đã xác định, dùng ‘the’</span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "This is the book she gave me.",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    },
+    {
+      "id": "question-297885",
+      "sourceQuestionId": 297885,
+      "challengeId": 31372,
+      "classChallengeId": "82564",
+      "title": null,
+      "type": 2,
+      "prompt": "j. It takes one hour to finish unit of this book. Answer:",
+      "introductionText": "",
+      "contentText": "j. It takes one hour to finish unit of this book. Answer:",
+      "answerTemplateText": "",
+      "explanationText": "It takes one hour to finish a unit of this book. (Mất một tiếng để hoàn thành một bài học của cuốn sách này.)\n\n‘Unit’ là danh từ đếm được số ít. Ý nói chung là chương nào trong cuốn sách cũng sẽ mất một tiếng để hoàn thành → không xác định, dùng ‘a’",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">j. It takes one hour to finish unit of this book. <strong>Answer:</strong></span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 6pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #e03e2d; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">It takes one hour to finish a unit of this book. <em>(Mất một tiếng để hoàn thành một bài học của cuốn sách này.)</em></span></p>\n<p><span id=\"docs-internal-guid-b2564044-7fff-7f55-b8d6-42aecb63f24d\" style=\"font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">‘Unit’ là danh từ đếm được số ít. Ý nói chung là chương nào trong cuốn sách cũng sẽ mất một tiếng để hoàn thành → không xác định, dùng ‘a’</span></p>"
+      },
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "sourceAnswerShape": "array",
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "It takes one hour to finish a unit of this book.",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      },
+      "imageRefs": []
+    }
+  ]
+}

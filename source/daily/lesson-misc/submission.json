@@ -1,0 +1,1433 @@
+{
+  "lesson": null,
+  "lessonKey": "lesson-misc",
+  "items": [
+    {
+      "challengeId": 29472,
+      "classChallengeId": "80744",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 21,
+      "submittedAt": "2026-06-17 22:45:18",
+      "markedAt": "2026-06-21 10:38:24",
+      "commentText": "Hi Khánh, bài này em làm khá tốt nha.\n\r\nPhần viết em chú ý từ bài sau mình viết cả dấu chấm câu để hệ thống không tính là câu sai nhé.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "276926": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 566163,
+          "correct_answer": 566163,
+          "result_answer": {
+            "566163": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 276926,
+          "challenge_id": 29472
+        },
+        "276927": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 566169,
+          "correct_answer": 566169,
+          "result_answer": {
+            "566169": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 276927,
+          "challenge_id": 29472
+        },
+        "276928": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 566173,
+          "correct_answer": 566173,
+          "result_answer": {
+            "566173": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 276928,
+          "challenge_id": 29472
+        },
+        "276929": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 566176,
+          "correct_answer": 566176,
+          "result_answer": {
+            "566176": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 276929,
+          "challenge_id": 29472
+        },
+        "276930": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 566179,
+          "correct_answer": 566179,
+          "result_answer": {
+            "566179": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 276930,
+          "challenge_id": 29472
+        },
+        "276931": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 566183,
+          "correct_answer": 566183,
+          "result_answer": {
+            "566183": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 276931,
+          "challenge_id": 29472
+        },
+        "276932": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 566189,
+          "correct_answer": 566189,
+          "result_answer": {
+            "566189": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 276932,
+          "challenge_id": 29472
+        },
+        "276933": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 566191,
+          "correct_answer": 566191,
+          "result_answer": {
+            "566191": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 276933,
+          "challenge_id": 29472
+        },
+        "276934": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 566198,
+          "correct_answer": 566198,
+          "result_answer": {
+            "566198": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 276934,
+          "challenge_id": 29472
+        },
+        "276935": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 566200,
+          "correct_answer": 566200,
+          "result_answer": {
+            "566200": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 276935,
+          "challenge_id": 29472
+        },
+        "276936": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 566203,
+          "correct_answer": 566203,
+          "result_answer": {
+            "566203": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 276936,
+          "challenge_id": 29472
+        },
+        "276937": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 566207,
+          "correct_answer": 566207,
+          "result_answer": {
+            "566207": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 276937,
+          "challenge_id": 29472
+        },
+        "276938": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 566213,
+          "correct_answer": 566213,
+          "result_answer": {
+            "566213": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 276938,
+          "challenge_id": 29472
+        },
+        "276939": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 566215,
+          "correct_answer": 566215,
+          "result_answer": {
+            "566215": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 276939,
+          "challenge_id": 29472
+        },
+        "276940": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 566221,
+          "correct_answer": 566221,
+          "result_answer": {
+            "566221": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 276940,
+          "challenge_id": 29472
+        },
+        "276941": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 566224,
+          "correct_answer": 566224,
+          "result_answer": {
+            "566224": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 276941,
+          "challenge_id": 29472
+        },
+        "276942": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 566227,
+          "correct_answer": 566227,
+          "result_answer": {
+            "566227": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 276942,
+          "challenge_id": 29472
+        },
+        "276943": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 566231,
+          "correct_answer": 566231,
+          "result_answer": {
+            "566231": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 276943,
+          "challenge_id": 29472
+        },
+        "276944": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 566238,
+          "correct_answer": 566238,
+          "result_answer": {
+            "566238": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 276944,
+          "challenge_id": 29472
+        },
+        "276945": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 566239,
+          "correct_answer": 566239,
+          "result_answer": {
+            "566239": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 276945,
+          "challenge_id": 29472
+        },
+        "276946": {
+          "total_question": 7,
+          "total_correct_result_answer": 0,
+          "user_answer": {
+            "input_0": "Tim takes a shower at a quarter past six",
+            "input_1": "Tim has breakfast, reads the newspaper at half past six",
+            "input_2": "Tim goes to work at a quarter to eight",
+            "input_3": "Tim comes home at ten to seven",
+            "input_4": "Tim makes dinner at a quarter past eight",
+            "input_5": "Tim calls his mother at twenty-five past nine",
+            "input_6": "Tim goes to bed at ten past ten"
+          },
+          "correct_answer": {
+            "input_0": [
+              "He|Tim takes a shower at six fifteen|quarter past six|fifteen after six.|a quarter past six."
+            ],
+            "input_1": [
+              "He|Tim has breakfast and reads the newspaper at half past six|six thirty."
+            ],
+            "input_2": [
+              "He|Tim goes to work at a quarter to eight|seven forty-five|fifteen to eight."
+            ],
+            "input_3": [
+              "He|Tim comes home at six fifty|ten to seven."
+            ],
+            "input_4": [
+              "He|Tim makes dinner at a quarter past eight|quarter past eight|eight fifteen|fifteen past eight."
+            ],
+            "input_5": [
+              "He|Tim calls his mother at nine twenty-five|twenty-five past nine."
+            ],
+            "input_6": [
+              "He|Tim goes to bed at ten after ten|ten past ten|ten ten."
+            ]
+          },
+          "result_answer": {
+            "input_0": false,
+            "input_1": false,
+            "input_2": false,
+            "input_3": false,
+            "input_4": false,
+            "input_5": false,
+            "input_6": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 276946,
+          "challenge_id": 29472
+        },
+        "276947": {
+          "total_question": 1,
+          "total_correct_result_answer": 0,
+          "user_answer": {
+            "input_0": "What does your mother do? -  My mother is a nurse."
+          },
+          "correct_answer": {
+            "input_0": [
+              "What does your mother do? - My mother is a nurse."
+            ]
+          },
+          "result_answer": {
+            "input_0": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 276947,
+          "challenge_id": 29472
+        },
+        "276948": {
+          "total_question": 1,
+          "total_correct_result_answer": 0,
+          "user_answer": {
+            "input_0": "My brother takes exams every day."
+          },
+          "correct_answer": {
+            "input_0": [
+              "My brother does exercise every day."
+            ]
+          },
+          "result_answer": {
+            "input_0": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 276948,
+          "challenge_id": 29472
+        },
+        "276949": {
+          "total_question": 1,
+          "total_correct_result_answer": 0,
+          "user_answer": {
+            "input_0": "My father does the washing for my family."
+          },
+          "correct_answer": {
+            "input_0": [
+              "My father does the washing in my family.|My father does the laundry in my family."
+            ]
+          },
+          "result_answer": {
+            "input_0": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 276949,
+          "challenge_id": 29472
+        },
+        "276950": {
+          "total_question": 1,
+          "total_correct_result_answer": 0,
+          "user_answer": {
+            "input_0": "I usually take a bath at 7 pm"
+          },
+          "correct_answer": {
+            "input_0": [
+              "I often have a shower at 7 pm.|I usually have a shower at 7 pm."
+            ]
+          },
+          "result_answer": {
+            "input_0": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 276950,
+          "challenge_id": 29472
+        },
+        "276951": {
+          "total_question": 1,
+          "total_correct_result_answer": 0,
+          "user_answer": {
+            "input_0": "I take a bánh mì with egg an one cốc sữa for breadfast"
+          },
+          "correct_answer": {
+            "input_0": [
+              "I often have bread with eggs and a glass of milk for breakfast."
+            ]
+          },
+          "result_answer": {
+            "input_0": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 276951,
+          "challenge_id": 29472
+        },
+        "276952": {
+          "total_question": 1,
+          "total_correct_result_answer": 0,
+          "user_answer": {
+            "input_0": "I have a banh mi with an egg and a cup of milk for breakfast"
+          },
+          "correct_answer": {
+            "input_0": [
+              "I like going sightseeing when I'm on holiday.|I like to go sightseeing when I'm on holiday."
+            ]
+          },
+          "result_answer": {
+            "input_0": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 276952,
+          "challenge_id": 29472
+        },
+        "276953": {
+          "total_question": 1,
+          "total_correct_result_answer": 0,
+          "user_answer": {
+            "input_0": "I go for a walk twice a week"
+          },
+          "correct_answer": {
+            "input_0": [
+              "I go for a walk twice a week.|I go for a walk two times a week."
+            ]
+          },
+          "result_answer": {
+            "input_0": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 276953,
+          "challenge_id": 29472
+        },
+        "276954": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": {
+            "input_0": "I often go to school by motorbike"
+          },
+          "correct_answer": {
+            "input_0": [
+              "I often go to school by motorbike."
+            ]
+          },
+          "result_answer": {
+            "input_0": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 276954,
+          "challenge_id": 29472
+        }
+      }
+    },
+    {
+      "challengeId": 31677,
+      "classChallengeId": "82862",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 21,
+      "submittedAt": "2026-07-05 22:57:18",
+      "markedAt": "2026-07-11 01:08:28",
+      "commentText": "Hi Khánh, bài này mình làm khá tốt nhé. Lần sau em chú ý các dấu câu để hệ thống không bôi đỏ nha.\n\r\nVới dạng bài nghe, sau khi check đáp án xong em cần nghe lại song song với đọc script để hiểu tại sao mình lại sai, từ đó rút kinh nghiệm cho các bài sau nha.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "301022": {
+          "total_question": 2,
+          "total_correct_result_answer": 0,
+          "user_answer": {
+            "input_0": "7. I am well paid.",
+            "input_1": "10. I do the same thing every day."
+          },
+          "correct_answer": {
+            "input_0": [
+              "7",
+              "I am well paid."
+            ],
+            "input_1": [
+              "10",
+              "I do the same thing every day."
+            ]
+          },
+          "result_answer": {
+            "input_0": false,
+            "input_1": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 301022,
+          "challenge_id": 31677
+        },
+        "301023": {
+          "total_question": 2,
+          "total_correct_result_answer": 0,
+          "user_answer": {
+            "input_0": "2. I love working with kids.",
+            "input_1": "6. It takes me an hour to drive there every day."
+          },
+          "correct_answer": {
+            "input_0": [
+              "2",
+              "I love working with kids."
+            ],
+            "input_1": [
+              "6",
+              "It takes me an hour to drive there every day."
+            ]
+          },
+          "result_answer": {
+            "input_0": false,
+            "input_1": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 301023,
+          "challenge_id": 31677
+        },
+        "301024": {
+          "total_question": 2,
+          "total_correct_result_answer": 0,
+          "user_answer": {
+            "input_0": "9. The people I work with are so nice.",
+            "input_1": "8. I have to travel a lot."
+          },
+          "correct_answer": {
+            "input_0": [
+              "9",
+              "The people I work with are so nice."
+            ],
+            "input_1": [
+              "8",
+              "I have to travel a lot."
+            ]
+          },
+          "result_answer": {
+            "input_0": false,
+            "input_1": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 301024,
+          "challenge_id": 31677
+        },
+        "301025": {
+          "total_question": 2,
+          "total_correct_result_answer": 0,
+          "user_answer": {
+            "input_0": "1. I get to meet so many people.",
+            "input_1": "3. I'm always really"
+          },
+          "correct_answer": {
+            "input_0": [
+              "1",
+              "I get to meet so many people."
+            ],
+            "input_1": [
+              "3",
+              "I'm always really tired when I get home at night."
+            ]
+          },
+          "result_answer": {
+            "input_0": false,
+            "input_1": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 301025,
+          "challenge_id": 31677
+        },
+        "301026": {
+          "total_question": 2,
+          "total_correct_result_answer": 0,
+          "user_answer": {
+            "input_0": "5. The tips are great.",
+            "input_1": "4. It's hard work and pretty tiring."
+          },
+          "correct_answer": {
+            "input_0": [
+              "5",
+              "The tips are great."
+            ],
+            "input_1": [
+              "4",
+              "It's hard work and pretty tiring, too."
+            ]
+          },
+          "result_answer": {
+            "input_0": false,
+            "input_1": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 301026,
+          "challenge_id": 31677
+        },
+        "301027": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": [
+            621518
+          ],
+          "correct_answer": [
+            621518
+          ],
+          "result_answer": {
+            "621518": true
+          },
+          "has_answer_empty": false,
+          "type": 5,
+          "question_id": 301027,
+          "challenge_id": 31677
+        },
+        "301028": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": [
+            621520
+          ],
+          "correct_answer": [
+            621520
+          ],
+          "result_answer": {
+            "621520": true
+          },
+          "has_answer_empty": false,
+          "type": 5,
+          "question_id": 301028,
+          "challenge_id": 31677
+        },
+        "301029": {
+          "total_question": 2,
+          "total_correct_result_answer": 2,
+          "user_answer": [
+            621523,
+            621525
+          ],
+          "correct_answer": [
+            621523,
+            621525
+          ],
+          "result_answer": {
+            "621523": true,
+            "621525": true
+          },
+          "has_answer_empty": false,
+          "type": 5,
+          "question_id": 301029,
+          "challenge_id": 31677
+        },
+        "301030": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": [
+            621528
+          ],
+          "correct_answer": [
+            621528
+          ],
+          "result_answer": {
+            "621528": true
+          },
+          "has_answer_empty": false,
+          "type": 5,
+          "question_id": 301030,
+          "challenge_id": 31677
+        },
+        "301031": {
+          "total_question": 2,
+          "total_correct_result_answer": 2,
+          "user_answer": [
+            621530,
+            621531
+          ],
+          "correct_answer": [
+            621530,
+            621531
+          ],
+          "result_answer": {
+            "621530": true,
+            "621531": true
+          },
+          "has_answer_empty": false,
+          "type": 5,
+          "question_id": 301031,
+          "challenge_id": 31677
+        },
+        "301032": {
+          "total_question": 1,
+          "total_correct_result_answer": 0,
+          "user_answer": {
+            "input_0": "He's not very tall."
+          },
+          "correct_answer": {
+            "input_0": [
+              "He's not very tall, about average."
+            ]
+          },
+          "result_answer": {
+            "input_0": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 301032,
+          "challenge_id": 31677
+        },
+        "301033": {
+          "total_question": 1,
+          "total_correct_result_answer": 0,
+          "user_answer": {
+            "input_0": "She's about 170 centimeters tall."
+          },
+          "correct_answer": {
+            "input_0": [
+              "She's pretty tall, about 170 centimeters."
+            ]
+          },
+          "result_answer": {
+            "input_0": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 301033,
+          "challenge_id": 31677
+        },
+        "301034": {
+          "total_question": 1,
+          "total_correct_result_answer": 0,
+          "user_answer": {
+            "input_0": "She's got short curly hair and glasses."
+          },
+          "correct_answer": {
+            "input_0": [
+              "She's got glasses and short curly hair."
+            ]
+          },
+          "result_answer": {
+            "input_0": false
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 301034,
+          "challenge_id": 31677
+        },
+        "301035": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": {
+            "input_0": "She's got dark brown hair."
+          },
+          "correct_answer": {
+            "input_0": [
+              "She's got dark brown hair."
+            ]
+          },
+          "result_answer": {
+            "input_0": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 301035,
+          "challenge_id": 31677
+        },
+        "301036": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": {
+            "input_0": "I'd like to meet her."
+          },
+          "correct_answer": {
+            "input_0": [
+              "I'd like to meet her."
+            ]
+          },
+          "result_answer": {
+            "input_0": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 301036,
+          "challenge_id": 31677
+        },
+        "301037": {
+          "total_question": 3,
+          "total_correct_result_answer": 3,
+          "user_answer": [
+            621532,
+            621534,
+            621535
+          ],
+          "correct_answer": [
+            621532,
+            621534,
+            621535
+          ],
+          "result_answer": {
+            "621532": true,
+            "621534": true,
+            "621535": true
+          },
+          "has_answer_empty": false,
+          "type": 5,
+          "question_id": 301037,
+          "challenge_id": 31677
+        },
+        "301038": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": [
+            621536
+          ],
+          "correct_answer": [
+            621536
+          ],
+          "result_answer": {
+            "621536": true
+          },
+          "has_answer_empty": false,
+          "type": 5,
+          "question_id": 301038,
+          "challenge_id": 31677
+        },
+        "301039": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": [
+            621542
+          ],
+          "correct_answer": [
+            621542
+          ],
+          "result_answer": {
+            "621542": true
+          },
+          "has_answer_empty": false,
+          "type": 5,
+          "question_id": 301039,
+          "challenge_id": 31677
+        },
+        "301040": {
+          "total_question": 2,
+          "total_correct_result_answer": 1,
+          "user_answer": [
+            621545
+          ],
+          "correct_answer": [
+            621545,
+            621547
+          ],
+          "result_answer": {
+            "621545": true
+          },
+          "has_answer_empty": false,
+          "type": 5,
+          "question_id": 301040,
+          "challenge_id": 31677
+        },
+        "301041": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621549,
+          "correct_answer": 621549,
+          "result_answer": {
+            "621549": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 301041,
+          "challenge_id": 31677
+        },
+        "301042": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621553,
+          "correct_answer": 621553,
+          "result_answer": {
+            "621553": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 301042,
+          "challenge_id": 31677
+        },
+        "301043": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621554,
+          "correct_answer": 621554,
+          "result_answer": {
+            "621554": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 301043,
+          "challenge_id": 31677
+        },
+        "301044": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621559,
+          "correct_answer": 621559,
+          "result_answer": {
+            "621559": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 301044,
+          "challenge_id": 31677
+        },
+        "301045": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621560,
+          "correct_answer": 621560,
+          "result_answer": {
+            "621560": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 301045,
+          "challenge_id": 31677
+        },
+        "301046": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621563,
+          "correct_answer": 621563,
+          "result_answer": {
+            "621563": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 301046,
+          "challenge_id": 31677
+        }
+      }
+    },
+    {
+      "challengeId": 29473,
+      "classChallengeId": "80745",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 1,
+      "submittedAt": "2026-06-17 23:16:26",
+      "markedAt": "2026-06-23 22:53:26",
+      "commentText": "Hi Khánh, cô gửi nhận xét cho bài của mình nha.\n\r\nPhát âm\n\r\n\r\n\r\nyour /jɔːr/ (hoặc /jʊər/): em đang phát âm chưa đúng âm /j/ ở đầu từ. Khi đọc, lưỡi nâng gần vòm miệng rồi chuyển nhanh sang nguyên âm phía sau, tránh đọc thành âm \"d\" hoặc bỏ mất âm đầu.\n\r\n\n\r\n\r\nnurse /nɜːrs/: em đang thiếu âm cuối /s/. Cần đọc rõ âm cuối để từ được đầy đủ và chính xác hơn.\n\r\n\n\r\n\r\ndoes /dʌz/: em đọc sai nguyên âm /ʌ/. Khẩu hình mở tự nhiên, lưỡi thả lỏng ở giữa miệng, tránh đọc thành âm /o/ hoặc /u/.\n\r\n\n\r\n\r\neggs /eɡz/: em cần đọc rõ hơn nguyên âm /e/. Khẩu hình mở vừa phải, giữ âm ngắn và dứt khoát, tránh kéo sang các nguyên âm khác.\n\r\n\n\r\n\r\ntwice /twaɪs/: em cần chú ý đọc rõ âm cuối /aɪ/\n\r\n\n\r\n\r\nEm đọc kĩ feedback và cố gắng cải thiện để bài sau làm tốt hơn nhé.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "276955": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://drive.google.com/file/d/1CzJQW-Sgca8rhMzxbpWtEr0ufdl3bzvE/view?usp=sharing",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 276955,
+          "challenge_id": 29473
+        }
+      }
+    },
+    {
+      "challengeId": 31678,
+      "classChallengeId": "82863",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 46,
+      "submittedAt": "2026-07-05 22:45:10",
+      "markedAt": "2026-07-11 01:18:42",
+      "commentText": "Hi Khánh, you did this very well!",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "301047": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621569,
+          "correct_answer": 621569,
+          "result_answer": {
+            "621569": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 301047,
+          "challenge_id": 31678
+        },
+        "301048": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621577,
+          "correct_answer": 621577,
+          "result_answer": {
+            "621577": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 301048,
+          "challenge_id": 31678
+        },
+        "301049": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621580,
+          "correct_answer": 621580,
+          "result_answer": {
+            "621580": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 301049,
+          "challenge_id": 31678
+        },
+        "301050": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621586,
+          "correct_answer": 621586,
+          "result_answer": {
+            "621586": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 301050,
+          "challenge_id": 31678
+        },
+        "301051": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621594,
+          "correct_answer": 621594,
+          "result_answer": {
+            "621594": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 301051,
+          "challenge_id": 31678
+        },
+        "301052": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621601,
+          "correct_answer": 621601,
+          "result_answer": {
+            "621601": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 301052,
+          "challenge_id": 31678
+        },
+        "301053": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621602,
+          "correct_answer": 621602,
+          "result_answer": {
+            "621602": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 301053,
+          "challenge_id": 31678
+        },
+        "301054": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621612,
+          "correct_answer": 621612,
+          "result_answer": {
+            "621612": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 301054,
+          "challenge_id": 31678
+        },
+        "301055": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621615,
+          "correct_answer": 621615,
+          "result_answer": {
+            "621615": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 301055,
+          "challenge_id": 31678
+        },
+        "301056": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621620,
+          "correct_answer": 621620,
+          "result_answer": {
+            "621620": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 301056,
+          "challenge_id": 31678
+        },
+        "301057": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621629,
+          "correct_answer": 621629,
+          "result_answer": {
+            "621629": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 301057,
+          "challenge_id": 31678
+        },
+        "301058": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621633,
+          "correct_answer": 621633,
+          "result_answer": {
+            "621633": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 301058,
+          "challenge_id": 31678
+        },
+        "301059": {
+          "total_question": 10,
+          "total_correct_result_answer": 10,
+          "user_answer": {
+            "input_0": "jokes",
+            "input_1": "smile",
+            "input_2": "serious",
+            "input_3": "like",
+            "input_4": "nice",
+            "input_5": "talkative",
+            "input_6": "sociable",
+            "input_7": "crazy",
+            "input_8": "easy-going",
+            "input_9": "perfect"
+          },
+          "correct_answer": {
+            "input_0": [
+              "jokes"
+            ],
+            "input_1": [
+              "smile"
+            ],
+            "input_2": [
+              "serious"
+            ],
+            "input_3": [
+              "like"
+            ],
+            "input_4": [
+              "nice"
+            ],
+            "input_5": [
+              "talkative"
+            ],
+            "input_6": [
+              "sociable"
+            ],
+            "input_7": [
+              "crazy"
+            ],
+            "input_8": [
+              "easy-going"
+            ],
+            "input_9": [
+              "perfect"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 301059,
+          "challenge_id": 31678
+        },
+        "301060": {
+          "total_question": 2,
+          "total_correct_result_answer": 2,
+          "user_answer": [
+            621639,
+            621640
+          ],
+          "correct_answer": [
+            621639,
+            621640
+          ],
+          "result_answer": {
+            "621639": true,
+            "621640": true
+          },
+          "has_answer_empty": false,
+          "type": 5,
+          "question_id": 301060,
+          "challenge_id": 31678
+        },
+        "301061": {
+          "total_question": 2,
+          "total_correct_result_answer": 2,
+          "user_answer": [
+            621642,
+            621645
+          ],
+          "correct_answer": [
+            621642,
+            621645
+          ],
+          "result_answer": {
+            "621642": true,
+            "621645": true
+          },
+          "has_answer_empty": false,
+          "type": 5,
+          "question_id": 301061,
+          "challenge_id": 31678
+        },
+        "301062": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": [
+            621649
+          ],
+          "correct_answer": [
+            621649
+          ],
+          "result_answer": {
+            "621649": true
+          },
+          "has_answer_empty": false,
+          "type": 5,
+          "question_id": 301062,
+          "challenge_id": 31678
+        },
+        "301063": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": [
+            621651
+          ],
+          "correct_answer": [
+            621651
+          ],
+          "result_answer": {
+            "621651": true
+          },
+          "has_answer_empty": false,
+          "type": 5,
+          "question_id": 301063,
+          "challenge_id": 31678
+        },
+        "301064": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621655,
+          "correct_answer": 621655,
+          "result_answer": {
+            "621655": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 301064,
+          "challenge_id": 31678
+        },
+        "301065": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621657,
+          "correct_answer": 621657,
+          "result_answer": {
+            "621657": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 301065,
+          "challenge_id": 31678
+        },
+        "301066": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621662,
+          "correct_answer": 621662,
+          "result_answer": {
+            "621662": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 301066,
+          "challenge_id": 31678
+        },
+        "301067": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 621664,
+          "correct_answer": 621664,
+          "result_answer": {
+            "621664": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 301067,
+          "challenge_id": 31678
+        },
+        "301068": {
+          "total_question": 14,
+          "total_correct_result_answer": 14,
+          "user_answer": {
+            "input_0": "Walk past",
+            "input_1": "on the right",
+            "input_2": "Go down",
+            "input_3": "left",
+            "input_4": "easy to find",
+            "input_5": "Get off",
+            "input_6": "Go down",
+            "input_7": "corner",
+            "input_8": "Go through",
+            "input_9": "first street",
+            "input_10": "next to",
+            "input_11": "Get off",
+            "input_12": "north",
+            "input_13": "across from"
+          },
+          "correct_answer": {
+            "input_0": [
+              "Walk past"
+            ],
+            "input_1": [
+              "on the right"
+            ],
+            "input_2": [
+              "Go down"
+            ],
+            "input_3": [
+              "left"
+            ],
+            "input_4": [
+              "easy to find"
+            ],
+            "input_5": [
+              "Get off"
+            ],
+            "input_6": [
+              "Go down"
+            ],
+            "input_7": [
+              "corner"
+            ],
+            "input_8": [
+              "Go through"
+            ],
+            "input_9": [
+              "first street"
+            ],
+            "input_10": [
+              "next to"
+            ],
+            "input_11": [
+              "Get off"
+            ],
+            "input_12": [
+              "north"
+            ],
+            "input_13": [
+              "across from"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true,
+            "input_10": true,
+            "input_11": true,
+            "input_12": true,
+            "input_13": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 301068,
+          "challenge_id": 31678
+        }
+      }
+    }
+  ]
+}

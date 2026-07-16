@@ -1,0 +1,2212 @@
+{
+  "listItem": {
+    "id": "80744",
+    "challenge_id": 29472,
+    "class_id": "177286917873dop75b27mv",
+    "day": 5,
+    "deadline": "2026-06-19 23:30:00",
+    "challenge_title": "[PRE IELTS] BREAK 1 - CHALLENGE 1",
+    "challenge_note": null,
+    "challenge_status": 1,
+    "challenge_band": "161433861829325240c1g7",
+    "total_question": 35,
+    "classification": "break",
+    "student_challenge": {
+      "id": 552509,
+      "class_challenge_id": 80744,
+      "class_id": "177286917873dop75b27mv",
+      "challenge_id": 29472,
+      "cts_id": "1780455880vwydc1i2ehir",
+      "rate": 1,
+      "comment": "<p>Hi Khánh, bài này em làm khá tốt nha.</p>\r\n<p>Phần viết em chú ý từ bài sau mình viết cả dấu chấm câu để hệ thống không tính là câu sai nhé.</p>",
+      "url": null,
+      "redo_comment": null,
+      "cancel_comment": null,
+      "date_redo": null,
+      "status_mark": "graded",
+      "status_mark_date": "2026-06-21 10:38:24",
+      "flag_overdue": 0,
+      "flag_not_star": 0,
+      "flag_not_submit": 0,
+      "flag_late_redo": 0,
+      "flag_late_submit": 0,
+      "flag_status_mark": 0,
+      "updated_by": "1779875378vawpfok6ii4u",
+      "updated": "2026-06-21 10:38:24",
+      "created_by": "1779875378vawpfok6ii4u",
+      "created": "2026-06-17 22:45:18",
+      "correct_answer": 21,
+      "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+      "submitted_at": "2026-06-17 22:45:18",
+      "re_submitted_at": null,
+      "answers": [
+        {
+          "id": 8019714,
+          "question_id": 47629,
+          "choice_id": null,
+          "user_id": null,
+          "content": "S",
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019715,
+          "question_id": 47629,
+          "choice_id": null,
+          "user_id": null,
+          "content": "C",
+          "student_challenge_id": 80744,
+          "index": 1,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019716,
+          "question_id": 47629,
+          "choice_id": null,
+          "user_id": null,
+          "content": "S",
+          "student_challenge_id": 80744,
+          "index": 2,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019717,
+          "question_id": 47629,
+          "choice_id": null,
+          "user_id": null,
+          "content": "S",
+          "student_challenge_id": 80744,
+          "index": 3,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019718,
+          "question_id": 47629,
+          "choice_id": null,
+          "user_id": null,
+          "content": "C",
+          "student_challenge_id": 80744,
+          "index": 4,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019719,
+          "question_id": 47629,
+          "choice_id": null,
+          "user_id": null,
+          "content": "S",
+          "student_challenge_id": 80744,
+          "index": 5,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019720,
+          "question_id": 47629,
+          "choice_id": null,
+          "user_id": null,
+          "content": "C",
+          "student_challenge_id": 80744,
+          "index": 6,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019721,
+          "question_id": 47629,
+          "choice_id": null,
+          "user_id": null,
+          "content": "S",
+          "student_challenge_id": 80744,
+          "index": 7,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019722,
+          "question_id": 47629,
+          "choice_id": null,
+          "user_id": null,
+          "content": "S",
+          "student_challenge_id": 80744,
+          "index": 8,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019723,
+          "question_id": 47629,
+          "choice_id": null,
+          "user_id": null,
+          "content": "C",
+          "student_challenge_id": 80744,
+          "index": 9,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019724,
+          "question_id": 47630,
+          "choice_id": null,
+          "user_id": null,
+          "content": "Pam liked Wayne, and Leena liked Wayne.",
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019725,
+          "question_id": 47630,
+          "choice_id": null,
+          "user_id": null,
+          "content": "The little boy has a toothache, but he doesn't go to the dentist.",
+          "student_challenge_id": 80744,
+          "index": 1,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019726,
+          "question_id": 47630,
+          "choice_id": null,
+          "user_id": null,
+          "content": "I am ill, so I need to go to the hospital.",
+          "student_challenge_id": 80744,
+          "index": 2,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019727,
+          "question_id": 47630,
+          "choice_id": null,
+          "user_id": null,
+          "content": "I sneeze when I am around cats, for I am allergic to cats.",
+          "student_challenge_id": 80744,
+          "index": 3,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019728,
+          "question_id": 47630,
+          "choice_id": null,
+          "user_id": null,
+          "content": "I don't want to eat, nor do I want to drink.",
+          "student_challenge_id": 80744,
+          "index": 4,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019729,
+          "question_id": 47630,
+          "choice_id": null,
+          "user_id": null,
+          "content": "We went to a good restaurant, but the fish in the restaurant was bad.",
+          "student_challenge_id": 80744,
+          "index": 5,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019730,
+          "question_id": 47630,
+          "choice_id": null,
+          "user_id": null,
+          "content": "I like playing sports, for they are good for me.",
+          "student_challenge_id": 80744,
+          "index": 6,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019731,
+          "question_id": 47630,
+          "choice_id": null,
+          "user_id": null,
+          "content": "I need to go to the store, but I'm feeling too sick to drive.",
+          "student_challenge_id": 80744,
+          "index": 7,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019732,
+          "question_id": 47630,
+          "choice_id": null,
+          "user_id": null,
+          "content": "I didn’t have my glasses on, so I walked into a door.",
+          "student_challenge_id": 80744,
+          "index": 8,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019733,
+          "question_id": 47630,
+          "choice_id": null,
+          "user_id": null,
+          "content": "I was working in the garden last week, and I cut my leg.",
+          "student_challenge_id": 80744,
+          "index": 9,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019734,
+          "question_id": 47630,
+          "choice_id": null,
+          "user_id": null,
+          "content": "I didn't do my homework, so my parents punished me.",
+          "student_challenge_id": 80744,
+          "index": 10,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019735,
+          "question_id": 47630,
+          "choice_id": null,
+          "user_id": null,
+          "content": "I have never visited Asia, nor have I visited Africa.",
+          "student_challenge_id": 80744,
+          "index": 11,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019736,
+          "question_id": 47630,
+          "choice_id": null,
+          "user_id": null,
+          "content": "I’ve been taking medicine, but I still feel sick.",
+          "student_challenge_id": 80744,
+          "index": 12,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019737,
+          "question_id": 47631,
+          "choice_id": null,
+          "user_id": null,
+          "content": "but",
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019738,
+          "question_id": 47631,
+          "choice_id": null,
+          "user_id": null,
+          "content": "so",
+          "student_challenge_id": 80744,
+          "index": 1,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019739,
+          "question_id": 47631,
+          "choice_id": null,
+          "user_id": null,
+          "content": "nor",
+          "student_challenge_id": 80744,
+          "index": 2,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019740,
+          "question_id": 47631,
+          "choice_id": null,
+          "user_id": null,
+          "content": "for",
+          "student_challenge_id": 80744,
+          "index": 3,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019741,
+          "question_id": 47631,
+          "choice_id": null,
+          "user_id": null,
+          "content": "for",
+          "student_challenge_id": 80744,
+          "index": 4,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019742,
+          "question_id": 47631,
+          "choice_id": null,
+          "user_id": null,
+          "content": "so",
+          "student_challenge_id": 80744,
+          "index": 5,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019743,
+          "question_id": 47631,
+          "choice_id": null,
+          "user_id": null,
+          "content": "for",
+          "student_challenge_id": 80744,
+          "index": 6,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019744,
+          "question_id": 47631,
+          "choice_id": null,
+          "user_id": null,
+          "content": "nor",
+          "student_challenge_id": 80744,
+          "index": 7,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019745,
+          "question_id": 47633,
+          "choice_id": 46730,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019746,
+          "question_id": 47634,
+          "choice_id": 46739,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019747,
+          "question_id": 47635,
+          "choice_id": 46741,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019748,
+          "question_id": 47636,
+          "choice_id": 46750,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019749,
+          "question_id": 47637,
+          "choice_id": 46755,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019750,
+          "question_id": 47638,
+          "choice_id": 46758,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019751,
+          "question_id": 47639,
+          "choice_id": 46764,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019752,
+          "question_id": 47640,
+          "choice_id": 46770,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019753,
+          "question_id": 47641,
+          "choice_id": 46775,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019754,
+          "question_id": 47642,
+          "choice_id": 46777,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019755,
+          "question_id": 47643,
+          "choice_id": 46782,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019756,
+          "question_id": 47644,
+          "choice_id": 46787,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019757,
+          "question_id": 47645,
+          "choice_id": 46790,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019758,
+          "question_id": 47646,
+          "choice_id": 49466,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019759,
+          "question_id": 47647,
+          "choice_id": 46799,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019760,
+          "question_id": 47648,
+          "choice_id": 46800,
+          "user_id": null,
+          "content": null,
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019761,
+          "question_id": 47649,
+          "choice_id": null,
+          "user_id": null,
+          "content": "a",
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019762,
+          "question_id": 47649,
+          "choice_id": null,
+          "user_id": null,
+          "content": "h",
+          "student_challenge_id": 80744,
+          "index": 1,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019763,
+          "question_id": 47649,
+          "choice_id": null,
+          "user_id": null,
+          "content": "g",
+          "student_challenge_id": 80744,
+          "index": 2,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019764,
+          "question_id": 47649,
+          "choice_id": null,
+          "user_id": null,
+          "content": "e",
+          "student_challenge_id": 80744,
+          "index": 3,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019765,
+          "question_id": 47649,
+          "choice_id": null,
+          "user_id": null,
+          "content": "d",
+          "student_challenge_id": 80744,
+          "index": 4,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019766,
+          "question_id": 47649,
+          "choice_id": null,
+          "user_id": null,
+          "content": "f",
+          "student_challenge_id": 80744,
+          "index": 5,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019767,
+          "question_id": 47649,
+          "choice_id": null,
+          "user_id": null,
+          "content": "c",
+          "student_challenge_id": 80744,
+          "index": 6,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019768,
+          "question_id": 47649,
+          "choice_id": null,
+          "user_id": null,
+          "content": "b",
+          "student_challenge_id": 80744,
+          "index": 7,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        },
+        {
+          "id": 8019769,
+          "question_id": 47650,
+          "choice_id": null,
+          "user_id": null,
+          "content": "Sometimes the pain is so bad I can hardly move: Đôi khi cơn đau tệ đến mức tôi khó có thể di chuyển\nI changed the way I sat: tôi đã thay đổi cách ngồi\nI’ve been feeling very tired lately: gần đây tôi cảm thấy rất mệt mỏi\ntrouble: lo lắng, phiền muộn\nsleeping pills: thuốc ngủ\nShe put some stitches in it: cô ấy khâu vài mũi vào nó\nI slipped and twisted my ankle as we were going down a steep path.: tôi bị trượt chân và trật mắt cá chân khi chúng tôi đi xuống một con đường dốc\nI bandaged it: tôi đã băng bó nó\npulled a muscle: căng cơ\nI’m left-handed.: tôi thuận tay trái",
+          "student_challenge_id": 80744,
+          "index": 0,
+          "created_at": "2024-10-02 00:41:16",
+          "choice_grid_answer_id": null,
+          "choice_grid_question_id": null,
+          "matching_id": null,
+          "matching_answer_id": null
+        }
+      ],
+      "tab_switch_count": 0
+    }
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "80744",
+        "challenge_id": 29472,
+        "class_id": "177286917873dop75b27mv",
+        "day": 5,
+        "deadline": "2026-06-19 23:30:00",
+        "flag_status_mark": 1,
+        "flag_not_submit": 0,
+        "created": "2026-06-16 22:24:45",
+        "created_by": null,
+        "challenge": {
+          "id": "29472",
+          "title": "[PRE IELTS] BREAK 1 - CHALLENGE 1",
+          "note": null,
+          "day": "11",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "161433861829325240c1g7",
+          "created": "2026-06-16 22:24:43",
+          "updated": null,
+          "created_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+          "updated_by": null,
+          "total_question": 35,
+          "classification": "break",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 8071
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 552509,
+        "class_challenge_id": 80744,
+        "class_id": "177286917873dop75b27mv",
+        "challenge_id": 29472,
+        "cts_id": "1780455880vwydc1i2ehir",
+        "rate": 1,
+        "comment": "<p>Hi Khánh, bài này em làm khá tốt nha.</p>\r\n<p>Phần viết em chú ý từ bài sau mình viết cả dấu chấm câu để hệ thống không tính là câu sai nhé.</p>",
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": "graded",
+        "status_mark_date": "2026-06-21 10:38:24",
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": "1779875378vawpfok6ii4u",
+        "updated": "2026-06-21 10:38:24",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-06-17 22:45:18",
+        "correct_answer": 21,
+        "marked_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+        "submitted_at": "2026-06-17 22:45:18",
+        "re_submitted_at": null,
+        "answers": {
+          "276926": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 566163,
+            "correct_answer": 566163,
+            "result_answer": {
+              "566163": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 276926,
+            "challenge_id": 29472
+          },
+          "276927": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 566169,
+            "correct_answer": 566169,
+            "result_answer": {
+              "566169": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 276927,
+            "challenge_id": 29472
+          },
+          "276928": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 566173,
+            "correct_answer": 566173,
+            "result_answer": {
+              "566173": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 276928,
+            "challenge_id": 29472
+          },
+          "276929": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 566176,
+            "correct_answer": 566176,
+            "result_answer": {
+              "566176": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 276929,
+            "challenge_id": 29472
+          },
+          "276930": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 566179,
+            "correct_answer": 566179,
+            "result_answer": {
+              "566179": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 276930,
+            "challenge_id": 29472
+          },
+          "276931": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 566183,
+            "correct_answer": 566183,
+            "result_answer": {
+              "566183": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 276931,
+            "challenge_id": 29472
+          },
+          "276932": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 566189,
+            "correct_answer": 566189,
+            "result_answer": {
+              "566189": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 276932,
+            "challenge_id": 29472
+          },
+          "276933": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 566191,
+            "correct_answer": 566191,
+            "result_answer": {
+              "566191": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 276933,
+            "challenge_id": 29472
+          },
+          "276934": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 566198,
+            "correct_answer": 566198,
+            "result_answer": {
+              "566198": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 276934,
+            "challenge_id": 29472
+          },
+          "276935": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 566200,
+            "correct_answer": 566200,
+            "result_answer": {
+              "566200": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 276935,
+            "challenge_id": 29472
+          },
+          "276936": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 566203,
+            "correct_answer": 566203,
+            "result_answer": {
+              "566203": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 276936,
+            "challenge_id": 29472
+          },
+          "276937": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 566207,
+            "correct_answer": 566207,
+            "result_answer": {
+              "566207": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 276937,
+            "challenge_id": 29472
+          },
+          "276938": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 566213,
+            "correct_answer": 566213,
+            "result_answer": {
+              "566213": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 276938,
+            "challenge_id": 29472
+          },
+          "276939": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 566215,
+            "correct_answer": 566215,
+            "result_answer": {
+              "566215": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 276939,
+            "challenge_id": 29472
+          },
+          "276940": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 566221,
+            "correct_answer": 566221,
+            "result_answer": {
+              "566221": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 276940,
+            "challenge_id": 29472
+          },
+          "276941": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 566224,
+            "correct_answer": 566224,
+            "result_answer": {
+              "566224": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 276941,
+            "challenge_id": 29472
+          },
+          "276942": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 566227,
+            "correct_answer": 566227,
+            "result_answer": {
+              "566227": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 276942,
+            "challenge_id": 29472
+          },
+          "276943": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 566231,
+            "correct_answer": 566231,
+            "result_answer": {
+              "566231": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 276943,
+            "challenge_id": 29472
+          },
+          "276944": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 566238,
+            "correct_answer": 566238,
+            "result_answer": {
+              "566238": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 276944,
+            "challenge_id": 29472
+          },
+          "276945": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 566239,
+            "correct_answer": 566239,
+            "result_answer": {
+              "566239": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 276945,
+            "challenge_id": 29472
+          },
+          "276946": {
+            "total_question": 7,
+            "total_correct_result_answer": 0,
+            "user_answer": {
+              "input_0": "Tim takes a shower at a quarter past six",
+              "input_1": "Tim has breakfast, reads the newspaper at half past six",
+              "input_2": "Tim goes to work at a quarter to eight",
+              "input_3": "Tim comes home at ten to seven",
+              "input_4": "Tim makes dinner at a quarter past eight",
+              "input_5": "Tim calls his mother at twenty-five past nine",
+              "input_6": "Tim goes to bed at ten past ten"
+            },
+            "correct_answer": {
+              "input_0": [
+                "He|Tim takes a shower at six fifteen|quarter past six|fifteen after six.|a quarter past six."
+              ],
+              "input_1": [
+                "He|Tim has breakfast and reads the newspaper at half past six|six thirty."
+              ],
+              "input_2": [
+                "He|Tim goes to work at a quarter to eight|seven forty-five|fifteen to eight."
+              ],
+              "input_3": [
+                "He|Tim comes home at six fifty|ten to seven."
+              ],
+              "input_4": [
+                "He|Tim makes dinner at a quarter past eight|quarter past eight|eight fifteen|fifteen past eight."
+              ],
+              "input_5": [
+                "He|Tim calls his mother at nine twenty-five|twenty-five past nine."
+              ],
+              "input_6": [
+                "He|Tim goes to bed at ten after ten|ten past ten|ten ten."
+              ]
+            },
+            "result_answer": {
+              "input_0": false,
+              "input_1": false,
+              "input_2": false,
+              "input_3": false,
+              "input_4": false,
+              "input_5": false,
+              "input_6": false
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 276946,
+            "challenge_id": 29472
+          },
+          "276947": {
+            "total_question": 1,
+            "total_correct_result_answer": 0,
+            "user_answer": {
+              "input_0": "What does your mother do? -  My mother is a nurse."
+            },
+            "correct_answer": {
+              "input_0": [
+                "What does your mother do? - My mother is a nurse."
+              ]
+            },
+            "result_answer": {
+              "input_0": false
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 276947,
+            "challenge_id": 29472
+          },
+          "276948": {
+            "total_question": 1,
+            "total_correct_result_answer": 0,
+            "user_answer": {
+              "input_0": "My brother takes exams every day."
+            },
+            "correct_answer": {
+              "input_0": [
+                "My brother does exercise every day."
+              ]
+            },
+            "result_answer": {
+              "input_0": false
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 276948,
+            "challenge_id": 29472
+          },
+          "276949": {
+            "total_question": 1,
+            "total_correct_result_answer": 0,
+            "user_answer": {
+              "input_0": "My father does the washing for my family."
+            },
+            "correct_answer": {
+              "input_0": [
+                "My father does the washing in my family.|My father does the laundry in my family."
+              ]
+            },
+            "result_answer": {
+              "input_0": false
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 276949,
+            "challenge_id": 29472
+          },
+          "276950": {
+            "total_question": 1,
+            "total_correct_result_answer": 0,
+            "user_answer": {
+              "input_0": "I usually take a bath at 7 pm"
+            },
+            "correct_answer": {
+              "input_0": [
+                "I often have a shower at 7 pm.|I usually have a shower at 7 pm."
+              ]
+            },
+            "result_answer": {
+              "input_0": false
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 276950,
+            "challenge_id": 29472
+          },
+          "276951": {
+            "total_question": 1,
+            "total_correct_result_answer": 0,
+            "user_answer": {
+              "input_0": "I take a bánh mì with egg an one cốc sữa for breadfast"
+            },
+            "correct_answer": {
+              "input_0": [
+                "I often have bread with eggs and a glass of milk for breakfast."
+              ]
+            },
+            "result_answer": {
+              "input_0": false
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 276951,
+            "challenge_id": 29472
+          },
+          "276952": {
+            "total_question": 1,
+            "total_correct_result_answer": 0,
+            "user_answer": {
+              "input_0": "I have a banh mi with an egg and a cup of milk for breakfast"
+            },
+            "correct_answer": {
+              "input_0": [
+                "I like going sightseeing when I'm on holiday.|I like to go sightseeing when I'm on holiday."
+              ]
+            },
+            "result_answer": {
+              "input_0": false
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 276952,
+            "challenge_id": 29472
+          },
+          "276953": {
+            "total_question": 1,
+            "total_correct_result_answer": 0,
+            "user_answer": {
+              "input_0": "I go for a walk twice a week"
+            },
+            "correct_answer": {
+              "input_0": [
+                "I go for a walk twice a week.|I go for a walk two times a week."
+              ]
+            },
+            "result_answer": {
+              "input_0": false
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 276953,
+            "challenge_id": 29472
+          },
+          "276954": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": {
+              "input_0": "I often go to school by motorbike"
+            },
+            "correct_answer": {
+              "input_0": [
+                "I often go to school by motorbike."
+              ]
+            },
+            "result_answer": {
+              "input_0": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 276954,
+            "challenge_id": 29472
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 79600,
+          "content": "<p><span style=\"font-family: Nunito-Light;\"><phần đề bài để trống> </span></p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 29472,
+          "id": 276926,
+          "name": null,
+          "title": null,
+          "content": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1) I &hellip;&hellip;&hellip;.&nbsp; at a swimming pool near my house every day in the summer.</span></p>\n<p><span id=\"docs-internal-guid-e4bf91df-7fff-cc03-23dd-746c6bf87a99\" style=\"font-family: Nunito-Regular;\"></span></p>",
+          "explain": null,
+          "introduction": "<p><span id=\"docs-internal-guid-d60d2216-7fff-6f4e-c034-2d22640f9c6e\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-ExtraBold; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Ex 1. Choose the best answer </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-family: Nunito-Regular;\">(Chọn đ&aacute;p &aacute;n th&iacute;ch hợp nhất)</span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 566163,
+                "content": "a) have a swim"
+              },
+              {
+                "id": 566164,
+                "content": "b) get a swim"
+              },
+              {
+                "id": 566165,
+                "content": "c) do swimming"
+              },
+              {
+                "id": 566166,
+                "content": "d) go swim"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276927,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-723d648f-7fff-a2b9-2182-9c5af0dd303f\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">2) Is that your new camera? Can I &hellip;&hellip;?</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br /></span></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 566167,
+                "content": "a) go look"
+              },
+              {
+                "id": 566168,
+                "content": "b) do looking"
+              },
+              {
+                "id": 566169,
+                "content": "c) have a look"
+              },
+              {
+                "id": 566170,
+                "content": "d) get a looking"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276928,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-86c7b051-7fff-789a-6506-d8f29aeb4f5d\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">3) She loves &hellip;&hellip;&hellip; with her father.</span></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 566171,
+                "content": "a) doing fishing"
+              },
+              {
+                "id": 566172,
+                "content": "b) making fishing"
+              },
+              {
+                "id": 566173,
+                "content": "c) going fishing"
+              },
+              {
+                "id": 566174,
+                "content": "d) going to fishing"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276929,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-58834196-7fff-a2db-120a-258629d77fd6\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4) Alan &hellip;&hellip;&hellip;&hellip;. tennis with his cousin tomorrow.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 566175,
+                "content": "a) am going to play"
+              },
+              {
+                "id": 566176,
+                "content": "b) is going to play"
+              },
+              {
+                "id": 566177,
+                "content": "c) am going play"
+              },
+              {
+                "id": 566178,
+                "content": "d) is going play"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276930,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-1db85095-7fff-4000-4c8e-bc5aca1c5d3c\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5) Our company &hellip;&hellip;&hellip;&hellip;. the UK.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 566179,
+                "content": "a) does business with"
+              },
+              {
+                "id": 566180,
+                "content": "b) does a business with"
+              },
+              {
+                "id": 566181,
+                "content": "c) does business to"
+              },
+              {
+                "id": 566182,
+                "content": "d) does the business to"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276931,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-e0c5f08d-7fff-bba2-a86d-71f4deaa1a8d\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6) My sister is …….................</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 566183,
+                "content": "a) doing the washing up"
+              },
+              {
+                "id": 566184,
+                "content": "b) making the washing up"
+              },
+              {
+                "id": 566185,
+                "content": "c) doing washing up"
+              },
+              {
+                "id": 566186,
+                "content": "d) making washing up"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276932,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-2d03dc4f-7fff-4d0c-d6c1-56a4fdd3f763\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7) This movie &hellip;&hellip;&hellip;.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 566187,
+                "content": "a) does me tired"
+              },
+              {
+                "id": 566188,
+                "content": "b) has me tiring"
+              },
+              {
+                "id": 566189,
+                "content": "c) makes me tired"
+              },
+              {
+                "id": 566190,
+                "content": "d) makes me tiring"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276933,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-9aa6d036-7fff-53fe-4450-7474a97fff11\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8) She will&nbsp; &hellip;&hellip;&hellip;. today.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 566191,
+                "content": "a) make breakfast"
+              },
+              {
+                "id": 566192,
+                "content": "b) do a breakfast"
+              },
+              {
+                "id": 566193,
+                "content": "c) go breakfast"
+              },
+              {
+                "id": 566194,
+                "content": "d) make a breakfast"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276934,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-88705fc5-7fff-ded2-1292-faf1c986ab19\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9) How long does it &hellip;&hellip;. to &hellip;&hellip; to school?</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 566195,
+                "content": "a) get/get"
+              },
+              {
+                "id": 566196,
+                "content": "b) do/go"
+              },
+              {
+                "id": 566197,
+                "content": "c) make/go"
+              },
+              {
+                "id": 566198,
+                "content": "d) take/get"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276935,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-e7a1f3a1-7fff-3e37-70f4-6543be08903c\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">10) How does Julie go to work? - She &hellip;..</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 566199,
+                "content": "a) gets the train"
+              },
+              {
+                "id": 566200,
+                "content": "b) takes the train"
+              },
+              {
+                "id": 566201,
+                "content": "c) take the train"
+              },
+              {
+                "id": 566202,
+                "content": "d) get the train"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276936,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-5294c762-7fff-6354-b5fd-2337b4299f55\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">11) He wants to &hellip;&hellip;. after </span><span style=\"color: #000000; background-color: #f4cccc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">graduating</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(tốt nghiệp) </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">from university.</span></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 566203,
+                "content": "a) get a job"
+              },
+              {
+                "id": 566204,
+                "content": "b) go a job"
+              },
+              {
+                "id": 566205,
+                "content": "c) catch a job"
+              },
+              {
+                "id": 566206,
+                "content": "d) make a job"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276937,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-919a7408-7fff-d645-5fc9-33f0ea136d99\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">12) How do you &hellip;.. </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">dog </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">in Vietnamese?</span></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 566207,
+                "content": "a) say"
+              },
+              {
+                "id": 566208,
+                "content": "b) speak"
+              },
+              {
+                "id": 566209,
+                "content": "c) tell"
+              },
+              {
+                "id": 566210,
+                "content": "d) ask"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276938,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-05434483-7fff-63dd-751a-be716e3cd19c\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">13) Can you &hellip;&hellip;. me the time?</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 566211,
+                "content": "a) say"
+              },
+              {
+                "id": 566212,
+                "content": "b) speak"
+              },
+              {
+                "id": 566213,
+                "content": "c) tell"
+              },
+              {
+                "id": 566214,
+                "content": "d) ask"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276939,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-3ec0a55f-7fff-c8e7-2d83-8ea8f3747320\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">14) You should &hellip;&hellip; him.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 566215,
+                "content": "a) talk to"
+              },
+              {
+                "id": 566216,
+                "content": "b) talk with"
+              },
+              {
+                "id": 566217,
+                "content": "c) say to"
+              },
+              {
+                "id": 566218,
+                "content": "d) say with"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276940,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-e939fc9d-7fff-3058-71ae-5a2f0e505279\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">15) She &hellip;&hellip;. goodbye to everyone.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 566219,
+                "content": "a) speaks"
+              },
+              {
+                "id": 566220,
+                "content": "b) tells"
+              },
+              {
+                "id": 566221,
+                "content": "c) says"
+              },
+              {
+                "id": 566222,
+                "content": "d) asks"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276941,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-6190c75f-7fff-b27e-196f-7549da9e0534\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">16) We &hellip;. at the last school prom.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 566223,
+                "content": "a) walked"
+              },
+              {
+                "id": 566224,
+                "content": "b) danced"
+              },
+              {
+                "id": 566225,
+                "content": "c) ran"
+              },
+              {
+                "id": 566226,
+                "content": "d) jogged"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276942,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-6817a546-7fff-1d4d-78a0-3225e81b304b\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">17) She &hellip;.. because she is late for school.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 566227,
+                "content": "a) runs"
+              },
+              {
+                "id": 566228,
+                "content": "b) walks"
+              },
+              {
+                "id": 566229,
+                "content": "c) dances"
+              },
+              {
+                "id": 566230,
+                "content": "d) flies"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276943,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-8515feb8-7fff-8c9d-184f-dcbaa650fef9\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">18) Can you &hellip;.. me the sugar?</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 566231,
+                "content": "a) pass"
+              },
+              {
+                "id": 566232,
+                "content": "b) move"
+              },
+              {
+                "id": 566233,
+                "content": "c) catch"
+              },
+              {
+                "id": 566234,
+                "content": "d) take"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276944,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-e7960cd5-7fff-fb71-7b7d-ba8af23ee064\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">19) How did you &hellip;. here? - I &hellip;. here.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 566235,
+                "content": "a) get/came"
+              },
+              {
+                "id": 566236,
+                "content": "b) come/passed"
+              },
+              {
+                "id": 566237,
+                "content": "c) come/ran"
+              },
+              {
+                "id": 566238,
+                "content": "d) get/flew"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276945,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-ce474321-7fff-5c96-7291-72bceed9c2e0\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">20) My father &hellip;. me to school every day.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 566239,
+                "content": "a) drives"
+              },
+              {
+                "id": 566240,
+                "content": "b) passes"
+              },
+              {
+                "id": 566241,
+                "content": "c) runs"
+              },
+              {
+                "id": 566242,
+                "content": "d) dances"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276946,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-a7bd2129-7fff-d910-b754-ab34b3e1ee04\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse;\"><colgroup><col width=\"59\" /><col width=\"409\" /><col width=\"134\" /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Wake up</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6:00 </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Take a shower</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6:15 </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Have breakfast, read the newspaper</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6:30 </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Go to work</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7:45 </span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Come home</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6:50</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Make dinner</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8:15</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Call his mother</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9:25</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Go to bed</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">10:10</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\">E.g.</span></p>\n<p><span style=\"font-family: Nunito-Regular; color: #000000; font-size: 12pt;\">1. <span style=\"white-space-collapse: preserve;\">Tim wakes up at six o’clock.</span></span></p>\n</div>",
+          "explain": null,
+          "introduction": "<p><span id=\"docs-internal-guid-5978b6b9-7fff-466b-eea7-dd6db5592ce5\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-ExtraBold;\">Ex 2. Look at Tim&rsquo;s timetable and write sentences about his day. Remember to write the time in words.</span> </span><span style=\"font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Nh&igrave;n thời kh&oacute;a biểu của Tim v&agrave; viết về ng&agrave;y của anh ấy. Nhớ viết thời gian bằng chữ)</span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 67077,
+              "content": "<ol>\n<li>\n<p data-path-to-node=\"0,0,0\">[input_0]</p>\n</li>\n<li>\n<p data-path-to-node=\"0,1,0\">[input_1]</p>\n</li>\n<li>\n<p data-path-to-node=\"0,2,0\">[input_2]</p>\n</li>\n<li>\n<p data-path-to-node=\"0,3,0\">[input_3]</p>\n</li>\n<li>\n<p data-path-to-node=\"0,4,0\">[input_4]</p>\n</li>\n<li>\n<p data-path-to-node=\"0,5,0\">[input_5]</p>\n</li>\n<li>\n<p data-path-to-node=\"0,6,0\">[input_6]</p>\n</li>\n</ol>"
+            }
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276947,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-ac6cbfef-7fff-fe09-1713-a83e20ff4c8b\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. Mẹ bạn l&agrave;m nghề g&igrave;? - Mẹ t&ocirc;i l&agrave; y t&aacute;.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\">&nbsp;</p>",
+          "explain": null,
+          "introduction": "<p><span id=\"docs-internal-guid-eea5ffa9-7fff-92fb-5100-fcda7fda62f7\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-ExtraBold;\">Ex 3. Translate these sentences into English using phrases you have learned from lessons 1 to 5</span>. </span><span style=\"font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Dịch c&aacute;c c&acirc;u sau sang tiếng Anh sử dụng những cụm từ đ&atilde; học từ b&agrave;i 1 đến 5.)</span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 67078,
+              "content": "<p><span style=\"font-family: Nunito-Regular; color: #000000; font-size: 12pt;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276948,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-1b7342fa-7fff-e26c-95e1-bac1a233f126\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. Anh trai t&ocirc;i tập thể dục mỗi ng&agrave;y.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 67079,
+              "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276949,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-7d26ce70-7fff-41b6-6afa-b0e4f186a8fb\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. Bố t&ocirc;i giặt quần &aacute;o trong gia đ&igrave;nh t&ocirc;i.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 67080,
+              "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"white-space-collapse: preserve;\"><span style=\"color: #000000;\">[input_0]</span></span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276950,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-c954b64f-7fff-ccee-63fe-04b43385a2ea\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. T&ocirc;i thường tắm l&uacute;c 7 giờ tối.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 67081,
+              "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"color: #000000;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276951,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-0ba886e6-7fff-370c-12b2-433765e009c1\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. T&ocirc;i thường ăn b&aacute;nh m&igrave; với trứng v&agrave; một cốc sữa cho bữa s&aacute;ng.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 67082,
+              "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276952,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-16729b6b-7fff-9556-458b-61fed2dc744a\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. T&ocirc;i th&iacute;ch đi ngắm cảnh v&agrave;o k&igrave; nghỉ.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 67083,
+              "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"color: #000000;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276953,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-b5e3c535-7fff-ffcb-22ee-5ab4a2399d0d\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. T&ocirc;i đi tản bộ hai lần mỗi tuần.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 67084,
+              "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"color: #000000;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 29472,
+          "id": 276954,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-fe011113-7fff-65f1-4cc4-4f595c4477f7\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. T&ocirc;i thường đi đến trường bằng xe m&aacute;y.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 67085,
+              "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; color: #000000;\"><span style=\"white-space-collapse: preserve;\">[input_0]</span></span></p>"
+            }
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}
