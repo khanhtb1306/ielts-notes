@@ -114,6 +114,7 @@ function EmptyState({ msg }: { msg: string }) {
 
 function LessonFlashcards({ data, lessonKey }: { data: Lesson; lessonKey: string }) {
   const cards: FlashcardItem[] = []
+  const seenTerms = new Set<string>()
   for (const a of data.audio) {
     if (!a.script) continue
     cards.push({
@@ -122,9 +123,11 @@ function LessonFlashcards({ data, lessonKey }: { data: Lesson; lessonKey: string
       back: <AudioBack a={a} />,
       kind: "audio",
     })
+    if (a.script) seenTerms.add(a.script.toLowerCase())
   }
   for (let i = 0; i < data.vocabPairs.length; i++) {
     const p = data.vocabPairs[i]
+    if (seenTerms.has(p.term.toLowerCase())) continue
     cards.push({
       id: `vp-${i}`,
       front: <div className="text-xl font-medium">{p.term}</div>,
@@ -140,6 +143,9 @@ function AudioBack({ a }: { a: AudioItem }) {
   return (
     <div className="flex flex-col items-center gap-3">
       <div className="text-base font-medium">{a.script}</div>
+      {a.translation && (
+        <div className="text-sm italic text-muted-foreground text-center">{a.translation}</div>
+      )}
       {src && <audio controls autoPlay preload="none" src={src} className="w-full max-w-md" />}
     </div>
   )

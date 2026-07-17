@@ -21,7 +21,7 @@ Chủ đề mở đầu Speaking Part 1, sau Self và trước Family. Học nh�
 
 Nếu quê khác nơi ở hiện tại thì thêm câu thứ hai để tránh bí:
 
-- My hometown is Nam Dinh, but I live in Hanoi for school/work now.
+- My hometown is Nam Dinh, but I live in Hanoi to study / to work now.
 
 ## 02. What do you like about your hometown?
 
@@ -46,7 +46,7 @@ Câu ngắn khoe thiên nhiên. Học 1 danh từ + 1 tính từ mô tả là đ
 
 - Yes, there is a big lake right in the centre of the city. It is called...
 - We have a beautiful river running through the town.
-- There are green hills / high mountains near my hometown. People often go there for a picnic on the weekend.
+- There are green hills / high mountains near my hometown. People often go there for a picnic at the weekend.
 - No, my hometown is quite flat, but the beach is only 20 minutes away.
 
 ## 05. Từ Vựng Cần Nhớ
@@ -68,7 +68,7 @@ Câu ngắn khoe thiên nhiên. Học 1 danh từ + 1 tính từ mô tả là đ
 
 ## 06. Cách Đọc / Stress
 
-- **ho**·me·town — nhấn âm đầu: /ˈhoʊm.taʊn/.
+- **ho**·me·town — nhấn âm đầu: /ˈhəʊm.taʊn/.
 - **peace**·ful — nhấn âm đầu; đọc rõ /iː/ dài.
 - **cost** of **liv**·ing — nối "cost-of" thành /kɒstəv/.
 - **cro·wded** — /ˈkraʊ.dɪd/, chú ý /aʊ/.
@@ -81,4 +81,12 @@ Câu ngắn khoe thiên nhiên. Học 1 danh từ + 1 tính từ mô tả là đ
 
 ## 08. Bài Mẫu Ngắn
 
-I come from Nam Dinh, a small town in the north of Vietnam. It is a peaceful place, and the food is really good — my favorite dish is beef pho. The people are friendly, and everyone knows each other. However, there are not many jobs for young people, so I moved to Hanoi last year for university. I still go back home every month to visit my family.
+**Version 1 — Cứng, không filler (Band 4-5):**
+
+> I come from Nam Dinh, a small town in the north of Vietnam. It is a peaceful place. The food is really good. The people are friendly. There are not many jobs, so I moved to Hanoi last year. I still go back home every month.
+
+**Version 2 — Có filler + connector tự nhiên (Band 5-6):**
+
+> **Well**, I come from Nam Dinh, **you know**, a small town in the north of Vietnam. **It's really** peaceful, **and** the food is amazing — **especially** beef pho, which is my favourite. The people are friendly, **and** everyone knows each other. **But to be honest**, there aren't many jobs for young people, **so** I moved to Hanoi last year to study. **That's why** I still go back home every month to visit my family.
+
+> Xem thêm bộ filler + connector trong note `00-fillers-connectors.md`.

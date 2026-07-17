@@ -45,7 +45,7 @@ Trả lời gọn theo cặp "activity + time". Dùng Present Simple, không th�
 Cấu trúc gọn: **once / twice / three times + a week / a month / a year**, hoặc trạng từ tần suất.
 
 - ... phone your friend? → *I call my best friend once or twice a week. We chat about school and movies.*
-- ... clean the house? → *I clean my room every weekend, and I help my mom clean the whole house on Sundays.*
+- ... clean the house? → *I clean my room every weekend, and I help my mum clean the whole house on Sundays.*
 - ... read the newspaper? → *I rarely read paper newspapers, but I read news on my phone every morning.*
 - ... have friends round? → *My friends come over about twice a month. We usually watch a movie, play games and cook something simple like instant noodles.*
 

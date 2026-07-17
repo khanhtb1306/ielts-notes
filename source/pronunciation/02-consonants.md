@@ -23,7 +23,7 @@ Tiếng Anh có **24 phụ âm**, chia thành 2 nhóm: **voiced (hữu thanh)** 
 | /s/ | /z/ | sit / zoo, bus / rose |
 | /ʃ/ | /ʒ/ | shop / measure, cash / vision |
 | /tʃ/ | /dʒ/ | chair / jam, watch / bridge |
-| /θ/ | /ð/ | think / this, math / mother |
+| /θ/ | /ð/ | think / this, maths / mother |
 
 > [!tip] Mẹo phân biệt
 > Đặt tay lên cổ họng: âm **hữu thanh** làm cổ rung (/b/, /d/, /g/, /v/, /z/, /ð/); âm **vô thanh** thì không (/p/, /t/, /k/, /f/, /s/, /θ/).
@@ -40,7 +40,7 @@ Tiếng Anh có **24 phụ âm**, chia thành 2 nhóm: **voiced (hữu thanh)** 
 | /ʒ/ | s, g | measure, television, garage, decision |
 | /tʃ/ | ch, t, tch | teacher, future, watch, kitchen |
 | /dʒ/ | j, g, ge, dge | jam, general, language, bridge |
-| /θ/ | th | think, thousand, math, birthday |
+| /θ/ | th | think, thousand, maths, birthday |
 | /ð/ | th | the, weather, mother, this, breathe |
 
 ## 03. Các Phụ Âm Còn Lại
@@ -67,4 +67,4 @@ Tiếng Anh có **24 phụ âm**, chia thành 2 nhóm: **voiced (hữu thanh)** 
 - I had a stomachache two days ago. `/aɪ hæd ə ˈstʌmək eɪk tuː deɪz əˈɡəʊ/`
 - My brother buys a lot of clothes. `/maɪ ˈbrʌðə baɪz ə lɒt ɒv kləʊðz/`
 - They take a deep breath, and then breathe out slowly. `/ðeɪ teɪk ə diːp breθ ænd ðen briːð aʊt ˈsləʊli/`
-- His mom makes lunch for him every Monday. `/hɪz mɒm meɪks lʌntʃ fɔː hɪm ˈevri ˈmʌndeɪ/`
+- His mum makes lunch for him every Monday. `/hɪz mʌm meɪks lʌntʃ fɔː hɪm ˈevri ˈmʌndeɪ/`

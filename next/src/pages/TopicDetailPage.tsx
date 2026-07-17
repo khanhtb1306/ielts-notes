@@ -211,6 +211,9 @@ function TopicFlashcards({ audios, scope }: { audios: ResolvedAudio[]; scope: st
       back: (
         <div className="flex flex-col items-center gap-3">
           <div className="text-base font-medium">{a.script}</div>
+          {a.translation && (
+            <div className="text-sm italic text-muted-foreground text-center">{a.translation}</div>
+          )}
           {(a.localFile || a.url) && (
             <audio controls autoPlay preload="none" src={a.localFile || a.url || ""} className="w-full max-w-md" />
           )}

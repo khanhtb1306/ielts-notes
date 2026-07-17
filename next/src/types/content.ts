@@ -18,6 +18,7 @@ export interface AudioRef {
   url: string | null
   localFile: string | null
   script: string | null
+  translation: string | null
   text: string | null
   source: string | null
 }
@@ -108,6 +109,7 @@ export interface AudioItem {
   localFile: string | null
   url: string | null
   script: string | null
+  translation: string | null
   needsScriptReview: boolean
   note: string | null
 }

@@ -112,6 +112,10 @@ Không có test / lint / CI ngoài GH Pages deploy (`.github/workflows/deploy.ym
 ## Editing Guidance (React chuẩn)
 
 - Giữ tiếng Việt learner-facing.
+- **English variant = British English (BrE)** cho Notes + `web/enrich/meta.json`. Áp dụng khi thêm/sửa ví dụ:
+  - Từ vựng: `mum` (not `mom`), `maths` (not `math`), `film` (not `movie` for cinema context), `at the weekend` (not `on the weekend`), `flat` (not `apartment`), `lift` (not `elevator`), `go clubbing` / `go into town` (not `disco` / `downtown`), `build muscle` (not `get big muscles`).
+  - IPA: non-rhotic (`fɔː` not `fɔːr`), `/əʊ/` not `/oʊ/` cho `home/go/no/hope`.
+  - **Ngoại lệ**: `source/daily/lesson-XX/**` là raw từ LangGo, không sửa dialect ở đây (lệch nguồn). Chỉ áp dụng cho Notes tự viết.
 - Notes-first UI: reveal câu đúng chỉ ở Practice runner + result. Study/Exercises tabs của Daily luôn hiển thị đáp án (đây là chế độ ôn).
 - Khi thêm lesson daily: thả folder chuẩn vào `source/daily/lesson-XX/` (manifest + 5 json + audio + images + raw) rồi restart `npm run dev` để `predev` sinh lại `src/data/`.
 - Sửa taxonomy → `source/daily/topics-map.json` → restart dev.

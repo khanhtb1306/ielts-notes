@@ -143,13 +143,49 @@ function collectRawQuestions(rawFilesDir) {
 }
 
 /* -------------------- Normalize question / block -------------------- */
+// Vietnamese diacritics range (Latin Extended Additional + Latin-1 Supplement)
+const HAS_VN_DIACRITICS = /[\u00C0-\u1EF9]/
+
+// Split a script that may combine "English | Vietnamese" or "English: Vietnamese"
+// into { script (English), translation (Vietnamese) }. Idempotent-safe: only
+// splits when left side has no VN diacritics AND right side does. Leaves scripts
+// unchanged when the pattern is ambiguous (e.g. pure English or pure Vietnamese).
+function splitScriptAndTranslation(raw) {
+  if (!raw || typeof raw !== "string") return { script: raw || null, translation: null }
+  const s = raw.trim()
+  if (!s) return { script: null, translation: null }
+
+  const pipeIdx = s.indexOf(" | ")
+  if (pipeIdx > 0) {
+    const left = s.slice(0, pipeIdx).trim()
+    const right = s.slice(pipeIdx + 3).trim()
+    if (left && right && !HAS_VN_DIACRITICS.test(left) && HAS_VN_DIACRITICS.test(right)) {
+      return { script: left, translation: right }
+    }
+  }
+
+  const colonIdx = s.indexOf(":")
+  if (colonIdx > 0 && colonIdx < s.length - 1) {
+    const left = s.slice(0, colonIdx).trim()
+    const right = s.slice(colonIdx + 1).trim()
+    if (left && right && !HAS_VN_DIACRITICS.test(left) && HAS_VN_DIACRITICS.test(right)) {
+      return { script: left, translation: right }
+    }
+  }
+
+  return { script: s, translation: null }
+}
+
 function normalizeAudioRef(a, audioMap) {
   const src = a.url || a.sourceUrl
   const item = src && audioMap.get(src)
+  const rawScript = a.script || (item && item.script) || null
+  const { script, translation } = splitScriptAndTranslation(rawScript)
   return {
     url: src || null,
     localFile: (item && item.localFile) || a.localFile || null,
-    script: a.script || (item && item.script) || null,
+    script,
+    translation,
     text: a.text || null,
     source: a.source || null,
   }
@@ -404,21 +440,24 @@ function normalizeLesson(lessonKey, ctx) {
 
   const exerciseGroups = groupExercises(normQuestions, manifest)
 
-  const audio = (audioManifest.items || []).map((a) => ({
-    id: a.id,
-    challengeId: a.challengeId,
-    localFile: a.localFile,
-    url: a.sourceUrl,
-    script: a.script,
-    needsScriptReview: !!a.needsScriptReview,
-    note: a.note,
-  }))
+  const audio = (audioManifest.items || []).map((a) => {
+    const { script, translation } = splitScriptAndTranslation(a.script)
+    return {
+      id: a.id,
+      challengeId: a.challengeId,
+      localFile: a.localFile,
+      url: a.sourceUrl,
+      script,
+      translation,
+      needsScriptReview: !!a.needsScriptReview,
+      note: a.note,
+    }
+  })
 
   const vocabPairs = []
   for (const a of audio) {
-    if (a.script) {
-      const m = a.script.match(/^([^:\-]+)[:\-]\s*(.+)$/)
-      if (m) vocabPairs.push({ term: m[1].trim(), meaning: m[2].trim() })
+    if (a.script && a.translation) {
+      vocabPairs.push({ term: a.script, meaning: a.translation })
     }
   }
 

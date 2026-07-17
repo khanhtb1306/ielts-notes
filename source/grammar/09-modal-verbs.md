@@ -54,7 +54,7 @@ Modal verb là **trợ động từ** diễn tả: ability (khả năng), permis
 | Permission (cho phép) | may, can | You may come in. / You can use my laptop. |
 | Advice | should, ought to | You should study every day. |
 | Obligation | must (người nói muốn), have to (bên ngoài bắt), need to (nhẹ hơn) | I must study tonight. / We have to attend 80% of classes. |
-| Probability | must (gần như chắc), can't/couldn't (không thể), may/might (có thể) | It must be Simon. / It can't be my mom. / It may rain. |
+| Probability | must (gần như chắc), can't/couldn't (không thể), may/might (có thể) | It must be Simon. / It can't be my mum. / It may rain. |
 
 ## 05. Important Differences
 

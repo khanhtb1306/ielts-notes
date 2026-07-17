@@ -10,7 +10,7 @@ priority: High
 
 Chủ đề `hobbies` trong Speaking bank tương ứng với note này. Bao gồm hoạt động cuối tuần, thể thao, giải trí — tất cả các câu hỏi "What do you do in your free time?", "Do you like sports?", "Do you like movies?" đều nằm ở đây.
 
-## 01. What do you often do on the weekend / in your free time?
+## 01. What do you often do at the weekend / in your free time?
 
 [[audio:13]]
 
@@ -18,7 +18,7 @@ Chủ đề `hobbies` trong Speaking bank tương ứng với note này. Bao g�
 
 **Mẫu câu:** I often + V. / I don't do anything special. / I usually go away for the weekend.
 
-**Gợi ý hoạt động:** have a picnic, go to a disco, go out for dinner, see a movie / go to the cinema, go for coffee after class, go downtown, go shopping.
+**Gợi ý hoạt động:** have a picnic, go clubbing, go out for dinner, see a film / go to the cinema, go for coffee after class, go into town, go shopping.
 
 ## 02. Cách Diễn Tả Thích / Không Thích
 
@@ -34,7 +34,7 @@ Chủ đề `hobbies` trong Speaking bank tương ứng với note này. Bao g�
 
 [[audio:15]]
 
-**Từ vựng:** work out, get some exercise, take walks, go jogging, keep in great shape, get big muscles, be really good at something.
+**Từ vựng:** work out, get some exercise, take walks, go jogging, keep in great shape, build muscle, be really good at something.
 
 **How often?** every day, always, usually, often, sometimes, once/twice/three times a week.
 

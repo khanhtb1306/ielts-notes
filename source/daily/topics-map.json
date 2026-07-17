@@ -142,7 +142,7 @@
     "hobbies": [
       { "q": "What do you often do in your free time?" },
       { "q": "What are your hobbies?" },
-      { "q": "What do you often do on the weekend?" },
+      { "q": "What do you often do at the weekend?" },
       { "q": "Do you like sports? How often?" },
       { "q": "Do you like watching movies?", "subQuestions": [
         "What kinds of movies do you like?",

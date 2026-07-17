@@ -54,7 +54,7 @@ Các cụm từ này học được qua Daily Challenge của Lesson 2–5, gắ
 | tell + sb + sth | He told me the truth. |
 | tell + sb + to V | The teacher told us to be quiet. |
 | ask + sb + a question | Can I ask you a question? |
-| ask + sb + to V | My mom asked me to clean my room. |
+| ask + sb + to V | My mum asked me to clean my room. |
 | ask + sb + for + sth | I asked her for some water. |
 
 > **Phân biệt nhanh:**

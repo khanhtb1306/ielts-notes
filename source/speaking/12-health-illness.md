@@ -26,7 +26,7 @@ Nhắc: **healthy** (khỏe mạnh, tính từ) — *a healthy diet, a healthy p
 
 - Yes, I exercise / work out ... times a week.
 - I go jogging in the park every morning.
-- I play badminton / football with my friends on the weekend.
+- I play badminton / football with my friends at the weekend.
 - I do yoga at home when I don't have time to go out.
 - I want to keep in shape and get some fresh air.
 
@@ -106,4 +106,12 @@ Nếu ít vận động, nói thật cho ngắn:
 
 ## 09. Bài Mẫu Ngắn
 
-I try to have a healthy diet, but I'm not perfect. I eat a lot of vegetables and fruit, and I try not to skip breakfast. I go jogging in the park two or three times a week to keep in shape. Sometimes I feel stressed before an exam, so I listen to music or take a short walk to relax. Last winter, I got a bad cold and had a sore throat. My mom told me I should drink hot water with honey and rest. I also had to wear a mask when I went out. After three days, I felt much better.
+**Version 1 — Cứng, không filler (Band 4-5):**
+
+> I try to have a healthy diet, but I'm not perfect. I eat a lot of vegetables and fruit. I try not to skip breakfast. I go jogging in the park two or three times a week. Sometimes I feel stressed before an exam. I listen to music or take a short walk to relax. Last winter, I got a bad cold and had a sore throat. My mum told me I should drink hot water with honey and rest. I also had to wear a mask when I went out. After three days, I felt much better.
+
+**Version 2 — Có filler + connector + storytelling markers (Band 5-6):**
+
+> **Well, to be honest**, I try to have a healthy diet, **but I'm not perfect**. I eat a lot of vegetables and fruit, **and** I try not to skip breakfast. **I also** go jogging in the park two or three times a week to keep in shape. **You know**, sometimes I feel stressed before an exam, **so** I listen to music or take a short walk to relax. **Actually**, last winter, I got a bad cold and had a sore throat. **First**, my mum told me I should drink hot water with honey and rest. **Then**, I had to wear a mask when I went out. **In the end**, after three days, I felt much better.
+
+> Xem thêm bộ filler + connector trong note `00-fillers-connectors.md`.

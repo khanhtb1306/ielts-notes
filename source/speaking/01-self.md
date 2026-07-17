@@ -52,4 +52,12 @@ Gợi ý: *My favourite subject is English because it is useful and interesting.
 
 ## 04. Bài Mẫu Ngắn
 
-My name is Khanh. I am a student and I am from Hanoi. In my free time, I enjoy listening to music and watching movies because they help me relax.
+**Version 1 — Cứng, không filler (Band 4-5):**
+
+> My name is Khanh. I am a student and I am from Hanoi. In my free time, I enjoy listening to music and watching films because they help me relax.
+
+**Version 2 — Có filler + connector tự nhiên (Band 5-6):**
+
+> **Well**, my name is Khanh. I'm a student, **and** I'm from Hanoi. **In my free time**, I really enjoy listening to music and watching films — **you know**, they help me relax after a long day.
+
+> Xem thêm bộ filler + connector trong note `00-fillers-connectors.md`.

@@ -56,6 +56,6 @@ Nguyên âm đôi là hai âm trượt vào nhau trong một hơi.
 ## 03. Câu luyện đọc
 
 - This is my family. `/ðɪs ɪz maɪ ˈfæməli/`
-- Every morning, I have noodles for breakfast. `/ˈevri ˈmɔːnɪŋ aɪ hæv ˈnuːdlz fɔːr ˈbrekfəst/`
+- Every morning, I have noodles for breakfast. `/ˈevri ˈmɔːnɪŋ aɪ hæv ˈnuːdlz fɔː ˈbrekfəst/`
 - Today is a nice day. The sky is blue. `/təˈdeɪ ɪz ə naɪs deɪ ðə skaɪ ɪz bluː/`
 - I often do the gardening in my free time. `/aɪ ˈɒfən duː ðə ˈɡɑːdənɪŋ ɪn maɪ friː taɪm/`
