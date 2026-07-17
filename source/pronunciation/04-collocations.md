@@ -63,7 +63,20 @@ Các cụm từ này học được qua Daily Challenge của Lesson 2–5, gắ
 > - `ask` + `for` = xin/yêu cầu vật; `ask` + `to V` = nhờ làm việc.
 > - `say` dùng cho **reported speech** (`She said that ...`), KHÔNG dùng với direct speech trong bảng này. Direct speech dùng dấu ngoặc kép và không cần `that`: *She said, "It's cold."* — nhưng đó là văn kể chuyện, không phải pattern dạy ở đây.
 
-## 05. Cấu Trúc Thời Gian Hữu Ích
+## Learning tip khi review Daily Lesson 4
+
+Bài Daily Lesson 4 dạy **7 động từ nói/giao tiếp cùng lúc** (`say / tell / ask / speak / talk / answer / reply`), khá tải với Band 5–6. **Chia làm 2 buổi review**:
+
+1. **Buổi 1 — Reporting group**: `say / tell / ask` (là group cốt lõi ở bảng 04 phía trên). Nắm chắc pattern 3 verb này trước.
+2. **Buổi 2 — Communication group**: `speak / talk / answer / reply` — nhóm giao tiếp/phản hồi. Ghi nhớ 4 quy tắc:
+   - `speak + language`: *Do you speak Japanese?* (KHÔNG dùng `talk` với ngôn ngữ).
+   - `talk to sb` = trò chuyện, thân mật hơn: *I like talking to you.*
+   - `answer the phone / the door / a question`: hành động phản hồi trực tiếp.
+   - `reply to + email/letter/text`: dùng cho văn bản, có `to`.
+
+Học riêng từng nhóm giúp tránh nhầm lẫn khi thi Speaking Part 1.
+
+## 06. Cấu Trúc Thời Gian Hữu Ích
 
 - `It takes + sb + time + to V`: It takes me 20 minutes to wash clothes.
 - `once / twice / three times + a week/month`: I play sports twice a week.

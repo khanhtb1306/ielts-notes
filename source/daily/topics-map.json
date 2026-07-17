@@ -223,14 +223,16 @@
       "skill": "grammar",
       "totalQuestions": 30,
       "mix": [
-        { "topic": "articles-determiners", "percent": 33 },
-        { "topic": "word-classes",         "percent": 22 },
-        { "topic": "present-tenses",       "percent": 11 },
-        { "topic": "past-tenses",          "percent": 11 },
-        { "topic": "pronouns",             "percent": 7  },
-        { "topic": "adjectives",           "percent": 7  },
+        { "topic": "articles-determiners", "percent": 25 },
+        { "topic": "word-classes",         "percent": 18 },
+        { "topic": "present-tenses",       "percent": 10 },
+        { "topic": "past-tenses",          "percent": 10 },
+        { "topic": "modal-verbs",          "percent": 8  },
+        { "topic": "prepositions",         "percent": 7  },
+        { "topic": "pronouns",             "percent": 6  },
+        { "topic": "adjectives",           "percent": 6  },
         { "topic": "nouns-quantifiers",    "percent": 5  },
-        { "topic": "future-tenses",        "percent": 4  }
+        { "topic": "future-tenses",        "percent": 5  }
       ],
       "questionTypes": ["fill_blank", "single_choice", "multi_select", "matching"]
     },
@@ -240,14 +242,16 @@
       "skill": "grammar",
       "totalQuestions": 45,
       "mix": [
-        { "topic": "articles-determiners", "percent": 33 },
-        { "topic": "word-classes",         "percent": 22 },
-        { "topic": "present-tenses",       "percent": 11 },
-        { "topic": "past-tenses",          "percent": 11 },
-        { "topic": "pronouns",             "percent": 7  },
-        { "topic": "adjectives",           "percent": 7  },
+        { "topic": "articles-determiners", "percent": 25 },
+        { "topic": "word-classes",         "percent": 18 },
+        { "topic": "present-tenses",       "percent": 10 },
+        { "topic": "past-tenses",          "percent": 10 },
+        { "topic": "modal-verbs",          "percent": 8  },
+        { "topic": "prepositions",         "percent": 7  },
+        { "topic": "pronouns",             "percent": 6  },
+        { "topic": "adjectives",           "percent": 6  },
         { "topic": "nouns-quantifiers",    "percent": 5  },
-        { "topic": "future-tenses",        "percent": 4  }
+        { "topic": "future-tenses",        "percent": 5  }
       ],
       "questionTypes": ["fill_blank", "single_choice", "multi_select", "matching"]
     },

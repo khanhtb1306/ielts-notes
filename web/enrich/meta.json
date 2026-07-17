@@ -52,8 +52,8 @@
     { "topic": "House", "text": "My favorite room is my bedroom / because I feel free and comfortable there.", "stress": "favorite room, bedroom, free, comfortable", "grammar": "be + noun; because" },
     { "topic": "Weekend", "text": "On the weekend, / I often go out for coffee / with my friends.", "stress": "weekend, often, coffee, friends", "grammar": "Present Simple; adverb of frequency" },
     { "topic": "Trip (past)", "text": "The trip I remember the most / is my trip to Hue, Da Nang, and Hoi An.", "stress": "trip, remember, Hue, Da Nang, Hoi An", "grammar": "Past Simple setup" },
-    { "topic": "Trip (future)", "text": "I am going to go with my best friends. / We are going to travel by car.", "stress": "going to, best friends, travel, car", "grammar": "be going to; will" },
-    { "topic": "Restaurant", "text": "Last weekend, / I went to a seafood restaurant / with my family.", "stress": "last weekend, seafood restaurant, family", "grammar": "Past Simple; modal verbs" }
+    { "topic": "Trip (future)", "text": "I am going to go with my best friends. / We are going to travel by car.", "stress": "going to, best friends, travel, car", "grammar": "be going to" },
+    { "topic": "Restaurant", "text": "Last weekend, / I went to a seafood restaurant / with my family.", "stress": "last weekend, seafood restaurant, family", "grammar": "Past Simple" }
   ],
 
   "review": [
@@ -72,12 +72,14 @@
       "Modal verbs: can/could, may/might, should/ought to, must/have to/need to."
     ] },
     { "title": "Speaking Review", "ordered": true, "items": [
-      "Bản thân, Công việc.",
+      "Bản thân, Quê hương (Hometown), Công việc / Học tập.",
       "Gia đình, Ngoại hình, Tính cách.",
       "House / Room.",
-      "Weekend / Free time.",
+      "Daily Routine / Giờ giấc.",
+      "Weekend / Free time / Sở thích.",
       "Trip (quá khứ và tương lai).",
-      "Food & Restaurant."
+      "Food & Restaurant.",
+      "Sức khoẻ & Bệnh nhẹ (Health & Illness)."
     ] },
     { "title": "Common Mistake Review", "ordered": false, "items": [
       "Quên `s/es` với he/she/it.",
@@ -103,7 +105,7 @@
     "Appearance": ["good-looking", "average-looking", "slim", "well-built", "straight hair", "curly hair", "glasses"],
     "Personality": ["neat", "organized", "easy-going", "sociable", "generous", "shy", "serious"],
     "House": ["living room", "kitchen", "bathroom", "bedroom", "wardrobe", "next to", "in the middle of"],
-    "Weekend": ["go shopping", "go to the cinema", "work out", "take walks", "go jogging", "soundtrack"],
+    "Weekend": ["go shopping", "go to the cinema", "work out", "take walks", "go jogging", "hang out with friends"],
     "Trip": ["travel", "trip", "sightseeing", "local food", "beautiful scenery", "wonderful", "crowded"],
     "Restaurant": ["seafood restaurant", "main dish", "for dessert", "tasty", "book a table", "the service"]
   }
