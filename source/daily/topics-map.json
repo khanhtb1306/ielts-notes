@@ -2,35 +2,35 @@
   "version": 1,
   "description": "Topic taxonomy + Speaking question bank + Final Practice presets. Sửa file này rồi npm run build để reflect vào app.",
   "topicLabels": {
-    "articles-determiners": { "label": "Articles & Determiners", "skill": "grammar" },
-    "word-classes":         { "label": "Word Classes (N/V/Adj/Adv)", "skill": "grammar" },
-    "present-tenses":       { "label": "Present Tenses", "skill": "grammar" },
-    "past-tenses":          { "label": "Past Tenses", "skill": "grammar" },
-    "future-tenses":        { "label": "Future Tenses", "skill": "grammar" },
-    "pronouns":             { "label": "Pronouns (incl. reflexive)", "skill": "grammar" },
-    "adjectives":           { "label": "Adjectives & Adverbs", "skill": "grammar" },
-    "nouns-quantifiers":    { "label": "Nouns & Quantifiers", "skill": "grammar" },
-    "modal-verbs":          { "label": "Modal Verbs", "skill": "grammar" },
-    "prepositions":         { "label": "Prepositions", "skill": "grammar" },
+    "articles-determiners": { "label": "Articles & Determiners", "viLabel": "Mạo từ & từ hạn định", "skill": "grammar" },
+    "word-classes":         { "label": "Word Classes (N/V/Adj/Adv)", "viLabel": "Từ loại (Danh/Động/Tính/Trạng)", "skill": "grammar" },
+    "present-tenses":       { "label": "Present Tenses", "viLabel": "Thì hiện tại", "skill": "grammar" },
+    "past-tenses":          { "label": "Past Tenses", "viLabel": "Thì quá khứ", "skill": "grammar" },
+    "future-tenses":        { "label": "Future Tenses", "viLabel": "Thì tương lai", "skill": "grammar" },
+    "pronouns":             { "label": "Pronouns (incl. reflexive)", "viLabel": "Đại từ (kể cả phản thân)", "skill": "grammar" },
+    "adjectives":           { "label": "Adjectives & Adverbs", "viLabel": "Tính từ & Trạng từ", "skill": "grammar" },
+    "nouns-quantifiers":    { "label": "Nouns & Quantifiers", "viLabel": "Danh từ & Lượng từ", "skill": "grammar" },
+    "modal-verbs":          { "label": "Modal Verbs", "viLabel": "Động từ khiếm khuyết (Modals)", "skill": "grammar" },
+    "prepositions":         { "label": "Prepositions", "viLabel": "Giới từ", "skill": "grammar" },
 
-    "vowels":               { "label": "Vowels", "skill": "pronunciation" },
-    "consonants":           { "label": "Consonants", "skill": "pronunciation" },
-    "reading-stress-time":  { "label": "Reading, Stress & Time", "skill": "pronunciation" },
+    "vowels":               { "label": "Vowels", "viLabel": "Nguyên âm", "skill": "pronunciation" },
+    "consonants":           { "label": "Consonants", "viLabel": "Phụ âm", "skill": "pronunciation" },
+    "reading-stress-time":  { "label": "Reading, Stress & Time", "viLabel": "Đọc số, Trọng âm & Giờ", "skill": "pronunciation" },
 
-    "collocations":         { "label": "Collocations (do/get/take/have/make)", "skill": "vocabulary" },
+    "collocations":         { "label": "Collocations (verb + noun)", "viLabel": "Cụm từ cố định (verb + noun)", "skill": "vocabulary" },
 
-    "self":                 { "label": "Self · Name/Age", "skill": "speaking" },
-    "hometown":             { "label": "Hometown", "skill": "speaking" },
-    "job":                  { "label": "Job / School", "skill": "speaking" },
-    "hobbies":              { "label": "Hobbies", "skill": "speaking" },
-    "daily-routine":        { "label": "Daily Routine / Time", "skill": "speaking" },
-    "family":               { "label": "Family", "skill": "speaking" },
-    "appearance":           { "label": "Appearance", "skill": "speaking" },
-    "personality":          { "label": "Personality", "skill": "speaking" },
-    "house":                { "label": "House / Room", "skill": "speaking" },
-    "trip":                 { "label": "Trip / Vacations", "skill": "speaking" },
-    "food-restaurant":      { "label": "Food & Restaurant", "skill": "speaking" },
-    "health-illness":       { "label": "Health & Illness", "skill": "speaking" }
+    "self":                 { "label": "Self / Name / Age", "viLabel": "Giới thiệu bản thân", "skill": "speaking" },
+    "hometown":             { "label": "Hometown", "viLabel": "Quê hương", "skill": "speaking" },
+    "job":                  { "label": "Job / School", "viLabel": "Công việc / Học tập", "skill": "speaking" },
+    "hobbies":              { "label": "Hobbies", "viLabel": "Sở thích", "skill": "speaking" },
+    "daily-routine":        { "label": "Daily Routine / Time", "viLabel": "Thời gian biểu / Giờ giấc", "skill": "speaking" },
+    "family":               { "label": "Family", "viLabel": "Gia đình", "skill": "speaking" },
+    "appearance":           { "label": "Appearance", "viLabel": "Ngoại hình", "skill": "speaking" },
+    "personality":          { "label": "Personality", "viLabel": "Tính cách", "skill": "speaking" },
+    "house":                { "label": "House / Room", "viLabel": "Nhà / Phòng", "skill": "speaking" },
+    "trip":                 { "label": "Trip / Vacation", "viLabel": "Chuyến đi / Du lịch", "skill": "speaking" },
+    "food-restaurant":      { "label": "Food & Restaurant", "viLabel": "Đồ ăn & Nhà hàng", "skill": "speaking" },
+    "health-illness":       { "label": "Health & Illness", "viLabel": "Sức khoẻ & Bệnh nhẹ", "skill": "speaking" }
   },
 
   "noteKeywords": {
@@ -128,15 +128,20 @@
       { "q": "Where do you come from?" },
       { "q": "What do you like about your hometown?" },
       { "q": "Is there anything you dislike about your hometown?" },
-      { "q": "Are there any lakes or rivers / woods or forests / hills or mountains in your hometown?" }
+      { "q": "What natural features are there in your hometown?", "subQuestions": [
+        "Are there any lakes or rivers?",
+        "Any woods or forests?",
+        "Any hills or mountains?"
+      ] }
     ],
     "job": [
       { "q": "What do you do?" },
-      { "q": "Are you a student or are you working?" },
+      { "q": "Are you a student or do you work?" },
       { "q": "What is your dream job? Why?" }
     ],
     "hobbies": [
-      { "q": "What do you often do in your free time? / What are your hobbies?" },
+      { "q": "What do you often do in your free time?" },
+      { "q": "What are your hobbies?" },
       { "q": "What do you often do on the weekend?" },
       { "q": "Do you like sports? How often?" },
       { "q": "Do you like watching movies?", "subQuestions": [
@@ -176,11 +181,20 @@
     ],
     "personality": [
       { "q": "What is he/she like?" },
-      { "q": "Is he/she friendly / talkative / humorous / generous?" }
+      { "q": "How would you describe his/her personality?", "subQuestions": [
+        "Is he/she friendly?",
+        "Is he/she talkative?",
+        "Is he/she humorous?",
+        "Is he/she generous?"
+      ] }
     ],
     "house": [
       { "q": "What is your favorite room in your house?" },
-      { "q": "Can you describe your living room / bedroom / kitchen?" }
+      { "q": "Can you describe a room in your house?", "subQuestions": [
+        "Can you describe your living room?",
+        "Can you describe your bedroom?",
+        "Can you describe your kitchen?"
+      ] }
     ],
     "trip": [
       { "q": "Do you love traveling?" },

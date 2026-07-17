@@ -116,3 +116,13 @@ Dấu hiệu: at that time/moment, at one o'clock, when, while.
 2. She ______ (cook) when I came home.
 3. They ______ (watch) TV while I ______ (study).
 4. Did you ______ (go) to school yesterday?
+
+<details>
+<summary><strong>Gợi ý đáp án</strong></summary>
+
+1. **visited** — dấu hiệu `last year` → Past Simple; `visit` là động từ có quy tắc, thêm `-ed`.
+2. **was cooking** — hành động đang diễn ra bị xen vào (`when I came home`) → Past Continuous.
+3. **were watching** / **was studying** — hai hành động song song trong quá khứ (`while`) → cả hai đều Past Continuous.
+4. **go** — sau `Did` luôn dùng động từ nguyên mẫu V1, không dùng `went`.
+
+</details>

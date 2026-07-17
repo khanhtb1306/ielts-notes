@@ -9,6 +9,7 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { ArrowLeft, BookOpen, Pencil, Layers, MessageSquare } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
+import { displayLabel } from "@/lib/topic-label"
 
 interface ResolvedBlock {
   lessonKey: string
@@ -108,11 +109,14 @@ export function TopicDetailPage() {
         </Link>
         <Badge variant="secondary" className="mb-2">{meta.skill || "misc"}</Badge>
         <h2 className="text-2xl font-bold">
-          {meta.label || t.label}
+          {displayLabel(meta, t.label)}
           {meta.needsNotes && (
             <Badge variant="warn" className="ml-2 align-middle">chưa có notes</Badge>
           )}
         </h2>
+        {meta.viLabel && meta.label && meta.viLabel !== meta.label && (
+          <div className="text-sm text-muted-foreground mt-1">{meta.label}</div>
+        )}
         <p className="text-sm text-muted-foreground mt-1">
           {refs.length} item · trải qua {lessonKeys.length} lesson:{" "}
           {lessonKeys.map((l) => l.replace("lesson-", "L")).join(", ")}
@@ -179,7 +183,7 @@ export function TopicDetailPage() {
 
         {isSpeaking && (
           <TabsContent value="questions">
-            <SpeakingQuestionsSection topicKey={topicKey} bank={speakingQuestions[topicKey] || []} label={meta.label || t.label} needsNotes={!!meta.needsNotes} />
+            <SpeakingQuestionsSection topicKey={topicKey} bank={speakingQuestions[topicKey] || []} label={displayLabel(meta, t.label)} needsNotes={!!meta.needsNotes} />
           </TabsContent>
         )}
       </Tabs>

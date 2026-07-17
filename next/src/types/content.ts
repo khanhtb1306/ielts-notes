@@ -160,6 +160,7 @@ export type TopicSkill =
 
 export interface TopicLabel {
   label: string
+  viLabel?: string
   skill: TopicSkill
   needsNotes?: boolean
 }
@@ -176,6 +177,7 @@ export interface TopicRef {
 
 export interface TopicIndexEntry {
   label: string
+  viLabel?: string
   skill: TopicSkill
   refs: TopicRef[]
 }

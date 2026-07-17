@@ -8,6 +8,7 @@ import { useData } from "@/stores/data"
 import { useHistory } from "@/stores/history"
 import { usePractice, uid } from "@/stores/practice"
 import { samplePool } from "@/lib/sample-pool"
+import { displayLabel } from "@/lib/topic-label"
 import { ArrowLeft, PartyPopper, Repeat, X, Check } from "lucide-react"
 
 export function PracticeResultPage() {
@@ -73,7 +74,7 @@ export function PracticeResultPage() {
           <CardContent className="p-4 space-y-2">
             {Object.entries(entry.breakdown).map(([topic, b]) => {
               const p = b.total ? Math.round((b.correct / b.total) * 100) : 0
-              const label = topicLabels[topic]?.label || topic
+              const label = displayLabel(topicLabels[topic], topic)
               return (
                 <div key={topic} className="grid grid-cols-[1fr_120px_100px] gap-3 items-center">
                   <div className="font-medium text-sm truncate">{label}</div>
@@ -103,7 +104,7 @@ export function PracticeResultPage() {
               <Card key={d.i}>
                 <CardContent className="p-5">
                   <div className="flex flex-wrap items-center gap-2 mb-2">
-                    <Badge variant="outline">{topicLabels[d.topic]?.label || d.topic}</Badge>
+                    <Badge variant="outline">{displayLabel(topicLabels[d.topic], d.topic)}</Badge>
                     <Badge variant="destructive" className="gap-1">
                       <X className="h-3 w-3" /> sai
                     </Badge>

@@ -4,6 +4,7 @@ import { useData } from "@/stores/data"
 import { useUi } from "@/stores/ui"
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
+import { displayLabel } from "@/lib/topic-label"
 
 const SKILL_ORDER = ["grammar", "pronunciation", "vocabulary", "speaking", "listening", "misc"]
 const SKILL_LABEL: Record<string, string> = {
@@ -46,8 +47,11 @@ export function TopicsIndexPage() {
       {SKILL_ORDER.filter((s) => grouped[s]?.length).map((skill) => {
         const keys = (grouped[skill] || []).filter((k) => {
           if (!search) return true
-          const label = topicLabels[k]?.label || k
-          return label.toLowerCase().includes(search) || k.toLowerCase().includes(search)
+          const meta = topicLabels[k]
+          const labelVi = displayLabel(meta, k).toLowerCase()
+          const labelEn = (meta?.label || k).toLowerCase()
+          const s = search
+          return labelVi.includes(s) || labelEn.includes(s) || k.toLowerCase().includes(s)
         })
         if (!keys.length) return null
         return (
@@ -67,7 +71,12 @@ export function TopicsIndexPage() {
                     <Card className="h-full transition-shadow group-hover:shadow-md group-hover:border-primary/40 searchable">
                       <CardContent className="p-5">
                         <div className="flex items-start justify-between gap-2 mb-1">
-                          <h4 className="font-semibold text-base leading-tight">{meta.label || t?.label || k}</h4>
+                          <div className="min-w-0">
+                            <h4 className="font-semibold text-base leading-tight">{displayLabel(meta, t?.label || k)}</h4>
+                            {meta.viLabel && meta.label && meta.viLabel !== meta.label && (
+                              <div className="text-[11px] text-muted-foreground mt-0.5">{meta.label}</div>
+                            )}
+                          </div>
                           {meta.needsNotes && (
                             <Badge variant="warn" className="shrink-0 text-[10px]">chưa có notes</Badge>
                           )}

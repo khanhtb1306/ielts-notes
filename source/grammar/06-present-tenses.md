@@ -77,3 +77,13 @@ now, right now, at the moment, today, this week (nghĩa tạm thời), always (p
 2. My parents ______ (make) dinner right now.
 3. What time ______ the movie ______ (begin)?
 4. He ______ always ______ (lose) his keys.
+
+<details>
+<summary><strong>Gợi ý đáp án</strong></summary>
+
+1. **goes** — dấu hiệu `usually` (thói quen) → Present Simple; chủ ngữ `she` nên thêm `-es`.
+2. **are making** — dấu hiệu `right now` (đang diễn ra) → Present Continuous; chủ ngữ số nhiều dùng `are`.
+3. **does the movie begin** — hỏi về lịch chiếu cố định → Present Simple; câu hỏi WH cần trợ động từ `does` + V1.
+4. **always loses** (thói quen bình thường) HOẶC **is always losing** (phàn nàn về thói quen khó chịu) — cả hai đều đúng ngữ pháp, khác về sắc thái.
+
+</details>

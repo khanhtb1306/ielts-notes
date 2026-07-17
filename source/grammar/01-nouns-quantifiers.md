@@ -86,3 +86,13 @@ Ví dụ:
 2. There aren't `many/much` students in the room.
 3. She has `a few/a little` money.
 4. My mother wears `a/an` dress and has `a lot of/much` dresses.
+
+<details>
+<summary><strong>Gợi ý đáp án</strong></summary>
+
+1. **any** — câu hỏi thông thường dùng `any`; chỉ dùng `some` khi mời/đề nghị và mong câu trả lời "yes".
+2. **many** — `students` là danh từ đếm được số nhiều, đi với `many` trong câu phủ định.
+3. **a little** — `money` là danh từ không đếm được, đi với `a little` (nghĩa tích cực "một ít").
+4. **a** + **a lot of** — `dress` bắt đầu bằng phụ âm /d/ nên dùng `a`; câu khẳng định không dùng `much`, thay bằng `a lot of`.
+
+</details>

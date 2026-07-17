@@ -569,12 +569,14 @@ function main() {
   const orderedKeys = [...labelKeys, ...extraKeys]
   for (const k of orderedKeys) {
     const metaLabel = ctx.topicLabels[k] || {}
-    topicsIndex.topics[k] = {
+    const entry = {
       label: metaLabel.label || k,
       skill: metaLabel.skill || "misc",
       refs: topicRefs[k] || [],
       needsNotes: metaLabel.needsNotes || false,
     }
+    if (metaLabel.viLabel) entry.viLabel = metaLabel.viLabel
+    topicsIndex.topics[k] = entry
     topicsIndex.order.push(k)
   }
 

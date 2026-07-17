@@ -67,3 +67,13 @@ Dấu hiệu: tomorrow, next week, tonight, soon, in the future, I think..., pro
 2. Look at those clouds. It ______ rain.
 3. We ______ visit Da Nang next month. We already have a plan.
 4. ______ you help me?
+
+<details>
+<summary><strong>Gợi ý đáp án</strong></summary>
+
+1. **will** — dự đoán dựa trên ý kiến cá nhân (`I think`), không có căn cứ hiện tại → dùng `will`.
+2. **is going to** — dự đoán có căn cứ hiện tại (`Look at those clouds`) → dùng `be going to`.
+3. **are going to** — kế hoạch đã có từ trước (`already have a plan`) → dùng `be going to`.
+4. **Will** — lời đề nghị/nhờ vả → dùng `Will you...?` (`Are you going to help me?` mang nghĩa hỏi kế hoạch, không tự nhiên trong ngữ cảnh nhờ giúp).
+
+</details>

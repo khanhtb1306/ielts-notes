@@ -52,11 +52,11 @@ Dùng **Past Simple** + **modal verbs** (could / had to / should).
 
 ### Would you go again?
 
-- If I go back to that city, I `would` definitely eat there again! I `may` try other dishes next time.
+- If I go back to that city, I `will` definitely eat there again! I `may` try other dishes next time.
 
 ## 04. Bài Mẫu Ngắn
 
-Last weekend, I went to a seafood restaurant with my family. It was very popular, so we had to book a table. The main dish was grilled prawns with rice, and the spices were amazing. The staff were kind, and we could ask them anything about the food. It was a great experience — if I go back, I would definitely eat there again.
+Last weekend, I went to a seafood restaurant with my family. It was very popular, so we had to book a table. The main dish was grilled prawns with rice, and the spices were amazing. The staff were kind, and we could ask them anything about the food. It was a great experience — if I go back, I will definitely eat there again.
 
 ## 05. Từ Vựng Cần Nhớ
 

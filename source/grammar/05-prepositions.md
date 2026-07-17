@@ -64,3 +64,14 @@ Giới từ nối một vật/việc với vật/việc khác, cho biết **quan
 3. They met David ___ Monday evening.
 4. You are leaving ___ 7 o'clock, right?
 5. ___ the morning, there are a lot of birds here.
+
+<details>
+<summary><strong>Gợi ý đáp án</strong></summary>
+
+1. **on** — ngày cụ thể trong tháng (`the 31st January`) dùng `on`.
+2. **(bỏ trống)** — không dùng giới từ trước `tomorrow`, `yesterday`, `next week`...
+3. **on** — buổi tối của một ngày cụ thể (`Monday evening`) dùng `on`, không phải `in`.
+4. **at** — giờ đồng hồ (`7 o'clock`) luôn đi với `at`.
+5. **In** — buổi trong ngày (`the morning`) dùng `in`.
+
+</details>

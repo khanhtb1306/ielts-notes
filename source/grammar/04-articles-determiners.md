@@ -58,3 +58,14 @@ Ví dụ: *This letter is hard to understand. / Those books are on the bookshelf
 3. There is ___ old sofa in ___ living room.
 4. I love ___ cats. (nói chung)
 5. She lives in ___ USA.
+
+<details>
+<summary><strong>Gợi ý đáp án</strong></summary>
+
+1. **a** — danh từ đếm được số ít, chưa xác định; `small` bắt đầu bằng phụ âm /s/.
+2. **the** — trong một ngôi nhà chỉ có một `living room` duy nhất → đã xác định.
+3. **an** + **the** — `old` bắt đầu bằng nguyên âm /ɒ/ → `an old sofa`; `living room` đã nhắc ở câu 2 → dùng `the`.
+4. **(bỏ trống)** — nói chung về loài mèo, danh từ đếm được số nhiều → không dùng article.
+5. **the** — tên quốc gia có "United States" luôn đi với `the` (the USA, the UK, the Philippines).
+
+</details>

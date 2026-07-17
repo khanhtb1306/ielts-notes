@@ -74,3 +74,13 @@ Ví dụ: `long straight black hair`, `a small golden necklace`, `a big brown ba
 2. The soup tastes ______ (good / well).
 3. The movie was ______ (bored / boring).
 4. Thêm suffix: care____, wonder____, friend____.
+
+<details>
+<summary><strong>Gợi ý đáp án</strong></summary>
+
+1. **a blue cotton dress** — theo OSASCOMP, Color (blue) đứng trước Material (cotton).
+2. **good** — sau động từ giác quan (`taste`) dùng tính từ, không dùng trạng từ `well`.
+3. **boring** — chủ ngữ `movie` là vật gây ra cảm xúc → dùng `-ing`. (Nếu chủ ngữ là người cảm nhận thì mới dùng `bored`.)
+4. **careful/careless**, **wonderful**, **friendly** — thêm `-ful`/`-less` cho `care`, `-ful` cho `wonder`, `-ly` cho `friend`.
+
+</details>

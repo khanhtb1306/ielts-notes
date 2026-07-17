@@ -21,7 +21,7 @@ Dùng **Past Simple**. Khung: went to → went with → went by → what you did
 
 **Bài mẫu:**
 
-The trip I remember the most is my trip to Hue, Da Nang, and Hoi An. I went there last year with my friends. We went there by plane, and it took us about one hour. We went sightseeing, enjoyed the local food, visited many beautiful places, and took a lot of photos. The trip was wonderful, and I had a great time. If I have a chance, I would love to visit again.
+The trip I remember the most is my trip to Hue, Da Nang, and Hoi An. I went there last year with my friends. We went there by plane, and it took us about one hour. We went sightseeing, enjoyed the local food, visited many beautiful places, and took a lot of photos. The trip was wonderful, and I had a great time. I hope to visit there again someday.
 
 **Useful expressions:** The trip I remember the most is... / We went there by... / It took us about... / We went sightseeing. / The trip was wonderful. / I had a great time.
 
@@ -56,4 +56,5 @@ I want to talk about a trip I am going to take in the future. I want to go to Da
 ## 05. Useful Grammar
 
 - Present Simple, Simple Past (trip quá khứ), will / be going to (trip tương lai).
-- because...; and / also; If I have a chance, I would love to...
+- because...; and / also; I hope to visit there again someday. (dạng đơn giản, không dùng conditional).
+- Nếu muốn dùng câu điều kiện, phải chuẩn Type 1: **If** + Present, **will** + V — *If I have a chance, I will visit there again.* KHÔNG dùng ~~If I have a chance, I would love to visit again.~~ (mixed conditional sai).

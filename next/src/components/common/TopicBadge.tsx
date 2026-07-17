@@ -2,6 +2,7 @@ import { Badge } from "@/components/ui/badge"
 import { useData } from "@/stores/data"
 import type { TopicTag, TopicRole } from "@/types/content"
 import { cn } from "@/lib/utils"
+import { displayLabel } from "@/lib/topic-label"
 
 const ROLE_STYLES: Record<TopicRole, string> = {
   core: "bg-emerald-500/15 text-emerald-700 dark:text-emerald-300 border-emerald-500/30",
@@ -13,7 +14,7 @@ export function TopicBadge({ tag }: { tag: TopicTag | string }) {
   const { topicLabels } = useData()
   const key = typeof tag === "string" ? tag : tag.key
   const role = typeof tag === "string" ? "core" : tag.role || "core"
-  const label = topicLabels[key]?.label || key
+  const label = displayLabel(topicLabels[key], key)
   return (
     <Badge
       variant="outline"

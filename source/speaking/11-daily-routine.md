@@ -75,7 +75,7 @@ Cấu trúc gọn: **once / twice / three times + a week / a month / a year**, h
 
 ## 07. Cách Đọc / Stress
 
-- **a**·bout — nhấn âm 2: /əˈbaʊt/.
+- a·**bout** — nhấn âm 2: /əˈbaʊt/.
 - **quar**·ter — /ˈkwɔːtə(r)/, /ɔː/ dài.
 - rou·**tine** — nhấn âm cuối: /ruːˈtiːn/.
 - **al**·ways — /ˈɔːl.weɪz/, chú ý /ɔː/.

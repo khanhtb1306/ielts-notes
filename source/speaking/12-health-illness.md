@@ -94,7 +94,7 @@ Nếu ít vận động, nói thật cho ngắn:
 - **head**·ache /ˈhed.eɪk/ — nhấn âm đầu, /eɪ/ đôi.
 - **stom**·ach·ache /ˈstʌm.ək.eɪk/ — chú ý âm câm, "ch" đọc /k/.
 - **health**·y /ˈhel.θi/ — âm /θ/ (đầu lưỡi chạm răng cửa, không thành /s/).
-- ex·**er**·cise /ˈek.sə.saɪz/ — nhấn âm đầu, đuôi /aɪz/.
+- **ex**·er·cise /ˈek.sə.saɪz/ — nhấn âm đầu, đuôi /aɪz/.
 - **should** /ʃʊd/ — âm /ʊ/ ngắn, âm "l" câm.
 
 ## 08. Common Mistakes

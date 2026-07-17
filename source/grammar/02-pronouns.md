@@ -61,3 +61,14 @@ Ví dụ: *This is an apple. Those are apples.*
 3. My friends and I went shopping, and ______ bought some shirts.
 4. Tom looked at ______ in the mirror. (chính Tom)
 5. ______ is this bag? — It's mine.
+
+<details>
+<summary><strong>Gợi ý đáp án</strong></summary>
+
+1. **She** — thay cho `my sister` (nữ, số ít) làm chủ ngữ của `wears`.
+2. **you** — chủ ngữ của `buy` trong câu hỏi, ngôi thứ hai.
+3. **we** — thay cho `my friends and I` (bao gồm người nói) làm chủ ngữ của `bought`.
+4. **himself** — chủ ngữ và tân ngữ cùng là Tom → reflexive pronoun (nam, số ít).
+5. **Whose** — hỏi về sở hữu ("của ai"), câu trả lời "It's mine" xác nhận.
+
+</details>

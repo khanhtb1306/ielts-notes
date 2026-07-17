@@ -43,18 +43,25 @@ Các cụm từ này học được qua Daily Challenge của Lesson 2–5, gắ
 | take a bus | make some coffee |
 | take an exam | make noise |
 | take a photo | make an appointment |
-| take a break | make a bed |
+| take a break | make **the** bed |
 | take an umbrella | make dinner |
 
 ## 04. SAY / TELL / ASK
 
 | Cấu trúc | Ví dụ |
 |---|---|
-| say + (that) ... | She said, "This is wonderful." |
-| tell + sb + ... | Tell me when you go to school. |
+| say + (that) + clause | She said (that) the food was wonderful. |
+| tell + sb + sth | He told me the truth. |
+| tell + sb + to V | The teacher told us to be quiet. |
 | ask + sb + a question | Can I ask you a question? |
-| ask + sb + to V | I ask you to make my bed. |
-| ask + sb + for + sth | She asks me for an umbrella. |
+| ask + sb + to V | My mom asked me to clean my room. |
+| ask + sb + for + sth | I asked her for some water. |
+
+> **Phân biệt nhanh:**
+> - `say` KHÔNG cần người nghe: *I said hello.* (đúng), ~~*I said him hello.*~~
+> - `tell` PHẢI có người nghe: *I told **him** the truth.* (đúng), ~~*I told the truth.*~~ (thiếu người nghe)
+> - `ask` + `for` = xin/yêu cầu vật; `ask` + `to V` = nhờ làm việc.
+> - `say` dùng cho **reported speech** (`She said that ...`), KHÔNG dùng với direct speech trong bảng này. Direct speech dùng dấu ngoặc kép và không cần `that`: *She said, "It's cold."* — nhưng đó là văn kể chuyện, không phải pattern dạy ở đây.
 
 ## 05. Cấu Trúc Thời Gian Hữu Ích
 

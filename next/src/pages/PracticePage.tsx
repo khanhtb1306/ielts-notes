@@ -11,6 +11,7 @@ import { useData } from "@/stores/data"
 import { useHistory } from "@/stores/history"
 import { usePractice, uid } from "@/stores/practice"
 import { samplePool, hashCode, type SamplePoolConfig } from "@/lib/sample-pool"
+import { displayLabel } from "@/lib/topic-label"
 import type { QuestionKind, TopicRole } from "@/types/content"
 
 const ALL_TYPES: QuestionKind[] = ["fill_blank", "single_choice", "multi_select", "matching"]
@@ -40,7 +41,7 @@ export function PracticePage() {
   const topicOptions = useMemo(() => {
     const keys = topicsIndex.order || Object.keys(topicsIndex.topics)
     return keys.map((k) => {
-      const label = topicLabels[k]?.label || k
+      const label = displayLabel(topicLabels[k], k)
       const n = (topicsIndex.topics[k]?.refs || []).filter((r) => r.kind === "question").length
       return { key: k, label, n }
     })
@@ -232,7 +233,7 @@ export function PracticePage() {
             </div>
             <div className="space-y-2">
               {mix.map((row) => {
-                const label = topicLabels[row.topic]?.label || row.topic
+                const label = displayLabel(topicLabels[row.topic], row.topic)
                 const n = Math.round((row.percent / 100) * total)
                 return (
                   <div key={row.topic} className="grid grid-cols-[1fr_100px_60px_40px] items-center gap-3">

@@ -10,6 +10,7 @@ import { usePractice, type PracticeSession } from "@/stores/practice"
 import { useHistory, toLightItem } from "@/stores/history"
 import { gradeAll } from "@/lib/grading"
 import { dedupImageRefs, dedupAudioRefs } from "@/lib/media-dedup"
+import { displayLabel } from "@/lib/topic-label"
 import type { Lesson, Question } from "@/types/content"
 import { ArrowLeft, CheckCircle2 } from "lucide-react"
 
@@ -131,7 +132,7 @@ export function PracticeRunnerPage() {
             total={hydrated.length}
             q={h.q}
             topic={h.topic}
-            topicLabel={topicLabels[h.topic]?.label || h.topic}
+            topicLabel={displayLabel(topicLabels[h.topic], h.topic)}
             currentAnswer={session.answers[h.index]}
             onChange={(a) => setAnswer(session.id, h.index, a)}
           />

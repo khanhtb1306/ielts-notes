@@ -139,13 +139,11 @@
           "input_2": [
             "a",
             "A. out with my friends every Sunday",
-            "out with my friends every Sunday",
-            "out with my friends every Sunday",
             "out with my friends every Sunday"
           ],
           "input_3": [
             "B",
-            " gardening, they like to grow flowers in their backyards",
+            "gardening, they like to grow flowers in their backyards",
             "B. gardening, they like to grow flowers in their backyards"
           ],
           "input_4": [
@@ -859,7 +857,8 @@
             "grows"
           ],
           "input_5": [
-            "doesn't need"
+            "doesn't need",
+            "does not need"
           ],
           "input_6": [
             "reads"
@@ -868,7 +867,8 @@
             "loves"
           ],
           "input_8": [
-            "doesn't take"
+            "doesn't take",
+            "does not take"
           ],
           "input_9": [
             "hangs"
@@ -1061,7 +1061,7 @@
           ],
           "input_4": [
             "is not singing",
-            " isn't singing"
+            "isn't singing"
           ],
           "input_5": [
             "is playing",
@@ -1129,7 +1129,7 @@
             "Is dad watching"
           ],
           "input_4": [
-            "The children do not",
+            "The children do not go swimming",
             "The children don't go swimming"
           ],
           "input_5": [
