@@ -21,12 +21,12 @@ export interface NavItem {
 }
 
 export const NAV: NavItem[] = [
-  { to: "/", label: "Trang chủ", icon: Target, eyebrow: "Pre-IELTS · up to Lesson 15", title: "Current Stage", subtitle: "Tổng quan giai đoạn học" },
-  { to: "/course", label: "Course Map", icon: Map, eyebrow: "Lesson 1–15", title: "Course Map", subtitle: "Bản đồ khoá học" },
+  { to: "/", label: "Trang chủ", icon: Target, eyebrow: "Pre-IELTS · Lesson 1–16 + Final", title: "Current Stage", subtitle: "Tổng quan giai đoạn học" },
+  { to: "/course", label: "Course Map", icon: Map, eyebrow: "Lesson 1–16", title: "Course Map", subtitle: "Bản đồ khoá học" },
   { to: "/pronunciation", label: "Pronunciation", icon: Volume2, eyebrow: "Lesson 1–5", title: "Pronunciation Notes", subtitle: "Ghi chú phát âm" },
-  { to: "/grammar", label: "Grammar", icon: Rows, eyebrow: "Up to Lesson 15", title: "Grammar Notes", subtitle: "Ghi chú ngữ pháp" },
+  { to: "/grammar", label: "Grammar", icon: Rows, eyebrow: "Up to Final", title: "Grammar Notes", subtitle: "Ghi chú ngữ pháp" },
   { to: "/speaking", label: "Speaking", icon: MessageSquare, eyebrow: "A1–A2 first", title: "Speaking Notes", subtitle: "Ghi chú luyện nói" },
-  { to: "/daily", label: "Daily · Lesson", icon: CalendarDays, eyebrow: "Daily · By Lesson", title: "Daily Practice · Theo Lesson", subtitle: "16 challenge sets từ giáo trình" },
+  { to: "/daily", label: "Daily · Lesson", icon: CalendarDays, eyebrow: "Daily · By Lesson", title: "Daily Practice · Theo Lesson", subtitle: "17 daily sets từ giáo trình" },
   { to: "/topics", label: "Daily · Topic", icon: Tag, eyebrow: "Daily · By Topic", title: "Daily Practice · Theo Chủ Đề", subtitle: "Gom xuyên suốt các chủ đề" },
   { to: "/practice", label: "Final Practice", icon: Trophy, eyebrow: "Final Practice", title: "Final Practice · Generator", subtitle: "Sinh phiên quiz shuffle" },
 ]

@@ -9,7 +9,7 @@ Repo hiện có **2 stack song song** trong quá trình migrate:
 
 Content chung ở `source/` (markdown + JSON). Cả 2 stack đều đọc từ đó.
 
-**Scope hiện tại**: Lesson 1–15 Notes + 16 daily lessons (L1-15 + `lesson-misc` Break/ôn) + Final Practice generator.
+**Scope hiện tại**: Lesson 1–16 Notes + 17 daily sets (L1-16 + `lesson-misc` Break/ôn) + Final Practice generator.
 
 ## Content sources
 

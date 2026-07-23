@@ -23,7 +23,7 @@ export function LandingPage() {
       <section className="rounded-2xl border border-border bg-gradient-to-br from-primary/10 via-card to-card p-6 sm:p-10 shadow-sm">
         <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-6">
           <div className="max-w-2xl">
-            <Badge variant="secondary" className="mb-3">Pre-IELTS Foundation · Lesson 15/15</Badge>
+            <Badge variant="secondary" className="mb-3">Pre-IELTS Foundation · Lesson 1–16 + Final</Badge>
             <h2 className="text-3xl sm:text-4xl font-bold tracking-tight leading-tight">
               Học Pre-IELTS bài bản — <span className="text-primary">notes-first</span>, practice có ý đồ sư phạm.
             </h2>
@@ -75,7 +75,7 @@ export function LandingPage() {
           to="/topics"
           icon={Tag}
           title="Daily · Theo Chủ Đề"
-          description={`Gộp ${numTopics} chủ đề xuyên suốt 16 lessons, phân biệt core / review / preview`}
+          description={`Gộp ${numTopics} chủ đề xuyên suốt 17 daily sets, phân biệt core / review / preview`}
           accent="text-sky-500 bg-sky-500/10"
         />
         <EntryCard

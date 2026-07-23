@@ -103,6 +103,72 @@ function validScriptCandidate(value) {
   return true;
 }
 
+function countBlankInputs(value) {
+  const nums = [...String(value || "").matchAll(/\[\s*input_?(\d+)\s*\]/gi)].map((match) => Number(match[1]));
+  return nums.length ? Math.max(...nums) + 1 : 0;
+}
+
+function answerVariants(value) {
+  const raw = compactText(value);
+  if (/colo\(u\)rfully/i.test(raw)) return ["colourfully", "colorfully"];
+  const text = raw.replace(/\s*\([^)]*\).*$/, "").replace(/[.。]+$/g, "").replace(/’/g, "'").trim();
+  if (!text) return [];
+  const slash = text.match(/^(\S+)\/(\S+)\s+(.+)$/);
+  if (slash) return [`${slash[1]} ${slash[3]}`, `${slash[2]} ${slash[3]}`];
+  return [text];
+}
+
+function fillAnswersFromExplanation(explanationText, answerTemplateText) {
+  const count = countBlankInputs(answerTemplateText);
+  if (!count || !explanationText) return null;
+  const lines = String(explanationText).split(/\n+/).map((line) => line.trim()).filter(Boolean);
+
+  const numbered = [];
+  for (const line of lines) {
+    const match = line.match(/^\d+\.\s+(.+)$/);
+    if (match) numbered.push(answerVariants(match[1]));
+  }
+  const answers = numbered.length === count ? numbered : [];
+
+  if (!answers.length) {
+    for (let i = 0; i < lines.length - 1; i += 1) {
+      if (/\d\s*\/\s*5\s*sao/i.test(lines[i + 1])) {
+        const variants = answerVariants(lines[i]);
+        const normalisedTemplate = compactText(answerTemplateText).toLowerCase();
+        if (!variants.some((item) => normalisedTemplate.includes(compactText(item).toLowerCase()))) answers.push(variants);
+      }
+    }
+  }
+
+  if (answers.length !== count || answers.some((item) => !item.length)) return null;
+  return Object.fromEntries(answers.map((item, index) => [`input_${index}`, item]));
+}
+
+function choiceAnswerFromExplanation(rawAnswers, explanationText) {
+  if (!Array.isArray(rawAnswers) || !rawAnswers.length) return null;
+  const direct = rawAnswers.filter((item) => item?.isCorrect).map((item) => item.id);
+  if (direct.length) return direct;
+  const letter = String(explanationText || "").match(/(?:^|\n|\s)\d*\.?\s*([A-Z])(?:\s|$)/)?.[1];
+  if (!letter) return null;
+  const idx = letter.charCodeAt(0) - 65;
+  const byPrefix = rawAnswers.find((item) => new RegExp(`^\\s*${letter}\\s*[.)]`, "i").test(htmlToText(item?.content)));
+  const picked = byPrefix || rawAnswers[idx];
+  return picked?.id != null ? [picked.id] : null;
+}
+
+function fallbackSubmission(item, answer, explanationText, answerTemplateText) {
+  if (item.type === 1) {
+    const correctAnswer = fillAnswersFromExplanation(explanationText, answerTemplateText);
+    return correctAnswer ? { correctAnswer } : null;
+  }
+  if (item.type === 3 || item.type === 4 || item.type === 5) {
+    const correctIds = choiceAnswerFromExplanation(Array.isArray(answer) ? answer : null, explanationText);
+    if (!correctIds) return null;
+    return { correctAnswer: item.type === 5 ? correctIds : correctIds[0] };
+  }
+  return null;
+}
+
 function previousCandidate(before) {
   const parts = before.split(/[\n,;|/]+/);
   return compactText(parts[parts.length - 1].replace(/\/[a-zɪʊəæɑɔʌɜː:]+\/?/gi, ""));
@@ -238,6 +304,16 @@ function normalizeQuestion(item, challenge, submissionByQuestion, audioLookup) {
   const submitted = submissionByQuestion?.[String(item.id)] || null;
   const answer = item.answer?.answers ?? null;
   const audioRefs = audioRefsForItem(item, audioLookup);
+  const answerTemplateText = typeof answer === "object" && answer && "content" in answer ? htmlToText(answer.content) : htmlToText(answer);
+  const explanationText = htmlToText(item.explain);
+  const submission = submitted ? {
+    totalQuestion: submitted.total_question ?? null,
+    totalCorrect: submitted.total_correct_result_answer ?? null,
+    userAnswer: submitted.user_answer ?? null,
+    correctAnswer: submitted.correct_answer ?? null,
+    resultAnswer: submitted.result_answer ?? null,
+    hasAnswerEmpty: submitted.has_answer_empty ?? null
+  } : fallbackSubmission(item, answer, explanationText, answerTemplateText);
   return {
     id: `question-${item.id}`,
     sourceQuestionId: item.id,
@@ -248,8 +324,8 @@ function normalizeQuestion(item, challenge, submissionByQuestion, audioLookup) {
     prompt: firstText(item.title, item.introduction, item.content),
     introductionText: htmlToText(item.introduction),
     contentText: htmlToText(item.content),
-    answerTemplateText: typeof answer === "object" && answer && "content" in answer ? htmlToText(answer.content) : htmlToText(answer),
-    explanationText: htmlToText(item.explain),
+    answerTemplateText,
+    explanationText,
     rawHtml: {
       title: item.title || null,
       introduction: item.introduction || null,
@@ -260,14 +336,7 @@ function normalizeQuestion(item, challenge, submissionByQuestion, audioLookup) {
     audioRefs,
     fallbackForMissingAudio: audioRefs.length === 0,
     sourceAnswerShape: answerShape(answer),
-    submission: submitted ? {
-      totalQuestion: submitted.total_question ?? null,
-      totalCorrect: submitted.total_correct_result_answer ?? null,
-      userAnswer: submitted.user_answer ?? null,
-      correctAnswer: submitted.correct_answer ?? null,
-      resultAnswer: submitted.result_answer ?? null,
-      hasAnswerEmpty: submitted.has_answer_empty ?? null
-    } : null,
+    submission,
     imageRefs: imageUrls(item).map((url) => ({ url, localFile: null }))
   };
 }

@@ -36,7 +36,7 @@ export function TopicsIndexPage() {
         <Badge variant="secondary" className="mb-2">{Object.keys(topicsIndex.topics).length} chủ đề</Badge>
         <h2 className="text-2xl font-bold">Daily Practice · Theo Chủ Đề</h2>
         <p className="text-muted-foreground mt-1">
-          Gom mọi content block + câu hỏi thuộc cùng chủ đề, xuyên suốt 16 lessons. Phân biệt{" "}
+          Gom mọi content block + câu hỏi thuộc cùng chủ đề, xuyên suốt 17 daily sets. Phân biệt{" "}
           <Badge variant="success" className="mx-0.5">core</Badge>{" "}
           <Badge variant="secondary" className="mx-0.5">review</Badge>{" "}
           <Badge variant="info" className="mx-0.5">preview</Badge>{" "}

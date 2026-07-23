@@ -220,6 +220,21 @@ export interface NotesAudio {
   file: string
 }
 
+export interface FinalSpeakingSheet {
+  topic: string
+  file: string
+  localPath: string
+  sourceHref?: string
+  focus?: string
+}
+
+export interface FinalPacket {
+  title: string
+  sourceFile: string
+  markdown: string
+  speakingSheets: FinalSpeakingSheet[]
+}
+
 export interface IpaEntry {
   ipa: string
   word: string

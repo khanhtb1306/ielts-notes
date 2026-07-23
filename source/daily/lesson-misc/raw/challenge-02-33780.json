@@ -1,0 +1,748 @@
+{
+  "listItem": {
+    "id": "84887",
+    "challenge_id": 33780,
+    "class_id": "177286917873dop75b27mv",
+    "day": 16,
+    "deadline": "2026-07-20 23:30:00",
+    "challenge_title": "[PRE IELTS] BREAK 3 - CHALLENGE 2",
+    "challenge_note": null,
+    "challenge_status": 1,
+    "challenge_band": "161433861829325240c1g7",
+    "total_question": 50,
+    "classification": "break"
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "84887",
+        "challenge_id": 33780,
+        "class_id": "177286917873dop75b27mv",
+        "day": 16,
+        "deadline": "2026-07-20 23:30:00",
+        "flag_status_mark": 0,
+        "flag_not_submit": 0,
+        "created": "2026-07-16 19:15:56",
+        "created_by": null,
+        "challenge": {
+          "id": "33780",
+          "title": "[PRE IELTS] BREAK 3 - CHALLENGE 2",
+          "note": null,
+          "day": "38",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "161433861829325240c1g7",
+          "created": "2026-07-16 19:15:55",
+          "updated": null,
+          "created_by": "6071d5cf-6b7a-4cfb-b218-546b36ffebdb",
+          "updated_by": null,
+          "total_question": 50,
+          "classification": "break",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 8085
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 90902,
+          "content": "<p><span style=\"font-family: Nunito-Bold; font-size: 12pt;\">Exercise 1</span></p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        },
+        {
+          "id": 90903,
+          "content": null,
+          "index": 1,
+          "type": "audio",
+          "audio_url": "https://api-quiz-maker.langgo.vn/storage/audio/1715677718.mp3",
+          "video_url": null,
+          "transcript": "<p><span id=\"docs-internal-guid-0c3932ed-7fff-2d71-ed75-8f661d6520ce\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">1.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">Let&rsquo;s see. Soup. That&rsquo;s two for a dollar. And a bottle of shampoo&mdash;$6.50. So that comes to $7.50 and your change is $12.50.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">Để xem n&agrave;o. S&uacute;p, 2 suất cho $1. V&agrave; một chai dầu gội đầu - $6.50. Vậy l&agrave; tổng $7.50 v&agrave; tiền thừa của bạn l&agrave; $12.50.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">2.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">Okay, now&mdash;let me see what you&rsquo;ve got. The CD is $14.95, and the cassette&mdash;oh, a good one, my favorite group&mdash;it&rsquo;s on sale for $4.95. So, let me see&hellip;. That comes to $19.90. So here&rsquo;s your change, ten cents.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">Okay, n&agrave;o để xem bạn c&oacute; những g&igrave; n&agrave;o. Đĩa CD l&agrave; $14.95, v&agrave; băng c&aacute;t x&eacute;t - ồ, băng tốt đ&oacute;, nh&oacute;m y&ecirc;u th&iacute;ch của t&ocirc;i - n&oacute; được giảm gi&aacute; c&ograve;n $4.95. Vậy, để t&ocirc;i xem n&agrave;o&hellip; Tổng l&agrave; $19.90. Vậy đ&acirc;y l&agrave; tiền thừa của bạn, 10 cents.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">3.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Yes, can I help you? Okay. Let&rsquo;s see. The newspapers are $1.50, and the magazines will cost another&hellip;$8.15. Yes, so that&rsquo;s, let me see, $9.65, right? </span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Here&rsquo;s your change</span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">, $10.35.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">V&acirc;ng, t&ocirc;i c&oacute; thể gi&uacute;p g&igrave; cho bạn? Okay. Để xem n&agrave;o. Tờ b&aacute;o l&agrave; $1.50, v&agrave; tạp ch&iacute; th&igrave; sẽ l&agrave; gi&aacute; kh&aacute;c&hellip; $8.15. V&acirc;ng, vậy l&agrave;, để t&ocirc;i xem n&agrave;o, $9.65 đ&uacute;ng kh&ocirc;ng? Tiền thừa của bạn đ&acirc;y, $10.35.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">4.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">So you&rsquo;re taking the T-shirt&mdash;nice choice. </span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">The color suits you.</span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> Okay, that&rsquo;s $4.95, then the socks. They&rsquo;re another $3.20, so that&rsquo;s $8.15, and here&rsquo;s your change, $11.85.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">Vậy bạn sẽ lấy &aacute;o ph&ocirc;ng - một sự lựa chọn tốt đấy. M&agrave;u n&agrave;y hợp với bạn. Okay, vậy l&agrave; $4.95, v&agrave; th&ecirc;m đ&ocirc;i tất nữa. Th&ecirc;m $3.20 nữa, n&ecirc;n tổng l&agrave; $8.15, v&agrave; đ&acirc;y l&agrave; tiền thừa của bạn, $11.85.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">5.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">Mmm, I like chocolates, too. Okay, that&rsquo;s $9.50 for the chocolates. And chocolate chip cookies, too. Mmm. You really do like chocolate. The cookies are $2.99. So that&rsquo;s $12.49. And here&rsquo;s your change, $7.51.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">Mmm, t&ocirc;i cũng th&iacute;ch socola. Okay, vậy l&agrave; $9.50 cho s&ocirc; c&ocirc; la. V&agrave; b&aacute;nh quy socola nữa. Mmm, bạn đ&uacute;ng l&agrave; rất th&iacute;ch socola. B&aacute;nh quy c&oacute; gi&aacute; l&agrave; $2.99. Vậy tổng l&agrave; $12.49. V&agrave; đ&acirc;y l&agrave; tiền thừa của bạn, $7.51.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">6.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">Is this all? Okay. Let&rsquo;s see. Now the magazines are $6.25. And you&rsquo;re taking the book? That&rsquo;s $12.00. So that comes to $18.25 altogether. And here&rsquo;s your change. That&rsquo;s a dollar seventy-five.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">Đ&acirc;y l&agrave; tất cả đ&uacute;ng kh&ocirc;ng? Okay, để xem n&agrave;o. Tạp ch&iacute; l&agrave; $6.25. V&agrave; bạn cũng lấy cả cuốn s&aacute;ch nữa? N&oacute; c&oacute; gi&aacute; $12.00. N&ecirc;n tổng l&agrave; $18.25 tất cả. V&agrave; đ&acirc;y l&agrave; tiền thừa của bạn, $1.75.</span></p>\n<span id=\"docs-internal-guid-0af5148d-7fff-af90-2e84-0669b8447f9d\"></span></div>",
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 90904,
+          "content": "<p><span style=\"font-family: Nunito-Bold; font-size: 16px;\">Exercise 2</span></p>",
+          "index": 2,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 90905,
+          "content": null,
+          "index": 3,
+          "type": "audio",
+          "audio_url": "https://api-quiz-maker.langgo.vn/storage/audio/1715677771.mp3",
+          "video_url": null,
+          "transcript": "<p><span id=\"docs-internal-guid-812ebb37-7fff-8f71-5eb7-3bd362131f5d\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0.25695037841796875pt;\" align=\"left\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">1.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">I could never buy a car at home because we pay a very high tax on cars. </span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Only rich people can really afford to buy a car at home. </span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Here in the U.S., I drive a nice new car and </span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">I can easily afford it</span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">. You don&rsquo;t have to be rich to own a car, which is great.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">Ở đất nước t&ocirc;i, t&ocirc;i kh&ocirc;ng thể n&agrave;o mua được một chiếc xe &ocirc; t&ocirc; v&igrave; ch&uacute;ng t&ocirc;i phải trả thuế rất cao cho &ocirc; t&ocirc;. Ở nước t&ocirc;i th&igrave; chỉ c&oacute; những người gi&agrave;u mới c&oacute; thể mua được một chiếc &ocirc; t&ocirc;. Ở đ&acirc;y, ở Mỹ, t&ocirc;i l&aacute;i một chiếc xe mới, đẹp v&agrave; t&ocirc;i dễ d&agrave;ng c&oacute; thể mua n&oacute;. Bạn kh&ocirc;ng cần phải gi&agrave;u để c&oacute; thể sở hữu một chiếc xe, điều đ&oacute; thật tuyệt.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">2.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">At home </span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">it only costs about $200 a month to rent a nice apartment. </span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">That&rsquo;s what I used to pay for a four-room apartment in a good neighborhood. Here in the U.S., I pay about twice that for a much smaller apartment, and it&rsquo;s not in a very nice neighborhood.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">Ở đất nước t&ocirc;i, chỉ tốn $200 một th&aacute;ng để thu&ecirc; một căn hộ đẹp. Đ&oacute; l&agrave; gi&aacute; t&ocirc;i đ&atilde; từng trả cho một căn hộ 4 ph&ograve;ng ở một khu cư tốt. Ở đ&acirc;y, ở Mỹ, t&ocirc;i phải trả gấp đ&ocirc;i cho một căn hộ nhỏ hơn rất nhiều, v&agrave; khu d&acirc;n cư cũng kh&ocirc;ng tốt bằng.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">3.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">I bought a lot of clothes in my country before I moved to the U.S. because everyone told me how expensive American clothing is. I was kind of surprised that </span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">I could get nice clothes here for very reasonable prices.</span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> In fact, it costs me less for clothes here than it used to cost me at home.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">T&ocirc;i mua rất nhiều quần &aacute;o ở nước t&ocirc;i trước khi t&ocirc;i chuyển đến Mỹ v&igrave; mọi người c&oacute; n&oacute;i với t&ocirc;i về việc quần &aacute;o ở Mỹ đắt đến mức n&agrave;o. T&ocirc;i đ&atilde; kh&aacute; ngạc nhi&ecirc;n v&igrave; t&ocirc;i c&oacute; thể mua được quần &aacute;o đẹp ở đ&acirc;y với gi&aacute; cả vừa phải. Thực ra, n&oacute; tốn &iacute;t tiền hơn khi mua quần &aacute;o ở đ&acirc;y so với l&uacute;c t&ocirc;i mua ở qu&ecirc; nh&agrave;.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">4.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">I come from a small country and not a lot of people travel by plane because it costs more than most people can afford. But the U.S. is such a big country and the population is large, so you have a lot of people traveling by plane. That&rsquo;s what keeps the prices down. That means I can afford to fly here and I do it all the time. I couldn&rsquo;t do that at home.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">T&ocirc;i đến từ một đất nước nhỏ v&agrave; kh&ocirc;ng c&oacute; nhiều người đi lại, di chuyển bằng m&aacute;y bay v&igrave; n&oacute; tốn nhiều hơn so với hầu hết mọi người c&oacute; thể chi trả. Nhưng Mỹ l&agrave; một quốc gia lớn v&agrave; d&acirc;n số đ&ocirc;ng, v&igrave; thế c&oacute; nhiều người di chuyển bằng m&aacute;y bay. Đ&oacute; l&agrave; điều khiến cho chi ph&iacute; thấp hơn. Nghĩa l&agrave; t&ocirc;i c&oacute; thể bay ở đ&acirc;y v&agrave; t&ocirc;i l&agrave;m thế suốt. T&ocirc;i kh&ocirc;ng thể l&agrave;m điều đ&oacute; ở qu&ecirc; nh&agrave;.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">5.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Most people send their children to private schools at home because the public schools are not very good. You have to pay a lot to do that, so </span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">it&rsquo;s a big expense for many people</span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">. Public schools are better here, and cheaper than in my country. People don&rsquo;t have to spend a lot on tuition, so most people send their children to public schools.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">Nhiều người gửi con cho trường tư thục ở qu&ecirc; nh&agrave; t&ocirc;i v&igrave; trường c&ocirc;ng kh&ocirc;ng được tốt lắm. Bạn phải chi trả rất nhiều cho việc đ&oacute;, n&ecirc;n đ&oacute; l&agrave; một khoản chi lớn đối với nhiều người. Trường c&ocirc;ng ở đ&acirc;y tốt hơn, v&agrave; rẻ hơn so với đất nước t&ocirc;i. Mọi người kh&ocirc;ng phải trả qu&aacute; nhiều cho học ph&iacute;, n&ecirc;n hầu hết mọi người gửi con ở c&aacute;c trường c&ocirc;ng.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">6.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Here in the U.S., you need to have health insurance because</span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> it costs a lot to see a doctor or to enter a hospital.</span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> At home, you don&rsquo;t have to pay much to see a doctor or go to a hospital because most of the clinics and hospitals are run by the government.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">Ở đ&acirc;y, ở Mỹ, bạn cần c&oacute; bảo hiểm sức khỏe v&igrave; sẽ tốn rất nhiều tiền để đi gặp b&aacute;c sĩ hoặc đến bệnh viện. Ở qu&ecirc; nh&agrave;, bạn kh&ocirc;ng cần phải trả nhiều tiền để đi gặp b&aacute;c sĩ hoặc đến bệnh viện v&igrave; hầu hết c&aacute;c ph&ograve;ng kh&aacute;m v&agrave; bệnh viện l&agrave; thuộc ch&iacute;nh phủ. </span></p>\n<span id=\"docs-internal-guid-5dca622c-7fff-6913-551c-bfe6fb1d4a8a\"></span></div>",
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 90906,
+          "content": "<p><span style=\"font-family: Nunito-Bold; font-size: 16px;\">Exercise 3</span></p>",
+          "index": 4,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 90907,
+          "content": null,
+          "index": 5,
+          "type": "audio",
+          "audio_url": "https://api-quiz-maker.langgo.vn/storage/audio/1715677825.mp3",
+          "video_url": null,
+          "transcript": "<p><span id=\"docs-internal-guid-589b18ad-7fff-03cd-197d-525b829cfcc6\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">1.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">I went to a new steak restaurant last night that opened near my house. I love trying new places. To start the meal, </span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">I had an interesting appetizer.</span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> It was some kind of seafood with a spicy sauce on it&hellip; Mmm! The main dish, of course, was steak. It was very small and a little tough, though. However, </span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">the vegetables were great&mdash;nice and fresh</span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">, but not too oily. The final thing was the best&mdash;the dessert! It was apple pie with a lot of ice cream on it. I know that I shouldn&rsquo;t eat so many sweets, but it was delicious!</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">T&ocirc;i đ&atilde; đến nh&agrave; h&agrave;ng b&iacute;t tết mới mở gần nh&agrave; t&ocirc;i v&agrave;o tối qua. T&ocirc;i th&iacute;ch thử đến những nơi mới mẻ. Để bắt đầu bữa ăn, t&ocirc;i đ&atilde; c&oacute; một m&oacute;n khai vị rất th&uacute; vị. N&oacute; l&agrave; một kiểu hải sản với sốt cay ph&iacute;a tr&ecirc;n&hellip; Mmm! M&oacute;n ch&iacute;nh đương nhi&ecirc;n l&agrave; b&iacute;t tết. Tuy nhi&ecirc;n, n&oacute; kh&aacute; nhỏ v&agrave; hơi cứng. Nhưng m&oacute;n rau th&igrave; tuyệt vời - ngon v&agrave; tươi, nhưng kh&ocirc;ng qu&aacute; dầu mỡ. M&oacute;n cuối c&ugrave;ng l&agrave; tuyệt nhất - m&oacute;n tr&aacute;ng miệng. N&oacute; l&agrave; b&aacute;nh t&aacute;o với rất nhiều kem ph&iacute;a tr&ecirc;n. T&ocirc;i biết t&ocirc;i kh&ocirc;ng n&ecirc;n ăn qu&aacute; nhiều đồ ngọt, nhưng n&oacute; thật sự rất ngon!</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">2.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Have you ever tried that seafood restaurant on Main Street? You should&mdash;it&rsquo;s great! I go there often. In fact, I went there last weekend. </span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">To begin, I had a salad.</span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">It was nice and fresh with a great house dressing.</span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> My main dish was a fish that I had never tried. I really enjoyed the spices it was cooked in. The vegetables were good&mdash;very fresh and tasty. </span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">For dessert, I had chocolate cake.</span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> It&rsquo;s usually very delicious, but this time, it was much too sweet. I couldn&rsquo;t eat more than two bites! That&rsquo;s okay, though, because </span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">I am on a diet.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">Bạn đ&atilde; bao giờ thử ăn ở nh&agrave; h&agrave;ng hải sản tr&ecirc;n phố Main chưa? Bạn n&ecirc;n thử - n&oacute; rất tuyệt. T&ocirc;i thường xuy&ecirc;n đến đ&oacute;. Thực ra, t&ocirc;i đến đ&oacute; cuối tuần trước. Để bắt đầu, t&ocirc;i đ&atilde; ăn salad. N&oacute; rất ngon v&agrave; tươi với nước sốt tuyệt vời. M&oacute;n ch&iacute;nh l&agrave; m&oacute;n c&aacute; m&agrave; t&ocirc;i chưa từng thử bao giờ. T&ocirc;i rất th&iacute;ch gia vị n&ecirc;m nếm của m&oacute;n đ&oacute;. M&oacute;n rau ngon - rất tươi v&agrave; ngon. Cho m&oacute;n tr&aacute;ng miệng, t&ocirc;i đ&atilde; ăn b&aacute;nh kem socola. Thường th&igrave; n&oacute; rất ngon, nhưng lần n&agrave;y, n&oacute; qu&aacute; ngọt. T&ocirc;i kh&ocirc;ng thể ăn qu&aacute; 2 miếng. Nhưng d&ugrave; sao cũng ổn, bởi t&ocirc;i đang ăn ki&ecirc;ng.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">3.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">My new girlfriend took me to a Chinese restaurant</span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> in her neighborhood the other night. It was pretty good. First, we had some egg rolls. They were the best I had ever tasted. Then we ordered the beef and pepper stir-fry. It came in a very interesting sauce&mdash;spicy, but not too spicy. </span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">We also ordered the steamed vegetables, but they were awful.</span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> They were really too soft. The dessert was a big bowl of fresh fruit. Some of the fruit I had never seen. It was fantastic&mdash;and so was my date!</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">Bạn g&aacute;i mới của t&ocirc;i dẫn t&ocirc;i đến một nh&agrave; h&agrave;ng Trung Hoa ở khu của c&ocirc; ấy v&agrave;o tối n&oacute;. N&oacute; kh&aacute; l&agrave; ngon. Đầu ti&ecirc;n, ch&uacute;ng t&ocirc;i ăn một &iacute;t trứng cuộn. N&oacute; l&agrave; m&oacute;n ngon nhất m&agrave; t&ocirc;i từng ăn. Sau đ&oacute;, ch&uacute;ng t&ocirc;i gọi thịt b&ograve; v&agrave; ớt chu&ocirc;ng x&agrave;o. N&oacute; ăn k&egrave;m với nước sốt kh&aacute; th&uacute; vị - cay, nhưng kh&ocirc;ng cay qu&aacute;. Ch&uacute;ng t&ocirc;i cũng gọi rau hấp, nhưng n&oacute; rất tệ. N&oacute; qu&aacute; mềm. M&oacute;n tr&aacute;ng miệng l&agrave; một b&aacute;t lớn hoa quả tươi. Một v&agrave;i loại quả t&ocirc;i chưa thấy bao giờ. N&oacute; rất tuyệt - v&agrave; buổi hẹn của t&ocirc;i cũng thế!</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">4.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-family: Nunito-Regular; font-size: 12pt; background-color: #ffffff;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">For lunch, my co-worker and I went to a nice little French restaurant near our office. </span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">He didn&rsquo;t feel like eating much</span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">, so he just had a small salad. I had a large meal, though. First, I had the onion soup, but it was much too salty. For my main dish, I had a piece of pork. </span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">It was too dry and had no taste.</span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> The vegetables were perfect, though&mdash;broccoli and peas. Those are my favorites. Finally, I had a large bowl of chocolate mousse. It was just like the chocolate mousse I had in France during my last vacation&mdash;very creamy and delicious. I think I&rsquo;ll have it next time, too.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; background-color: #ffffff;\">Cho bữa trưa, đồng nghiệp của t&ocirc;i v&agrave; t&ocirc;i đ&atilde; đến một nh&agrave; h&agrave;ng Ph&aacute;p nhỏ, xinh gần văn ph&ograve;ng. Anh ấy kh&ocirc;ng th&egrave;m ăn lắm, n&ecirc;n anh ấy chỉ ăn một ch&uacute;t salad. T&ocirc;i đ&atilde; c&oacute; một bữa ăn kh&aacute; lớn. Đầu ti&ecirc;n, t&ocirc;i ăn s&uacute;p h&agrave;nh, nhưng n&oacute; qu&aacute; mặn. Với m&oacute;n ch&iacute;nh, t&ocirc;i ăn thịt lợn. N&oacute; qu&aacute; kh&ocirc; v&agrave; kh&ocirc;ng c&oacute; vị g&igrave; cả. Tuy nhi&ecirc;n, m&oacute;n rau th&igrave; ho&agrave;n thảo - s&uacute;p lơ xanh v&agrave; đậu. Đ&oacute; l&agrave; những m&oacute;n ưa th&iacute;ch của t&ocirc;i. Cuối c&ugrave;ng, t&ocirc;i ăn một b&aacute;t lớn mousse socola. N&oacute; giống như m&oacute;n mousse socola m&agrave; t&ocirc;i đ&atilde; ăn ở Ph&aacute;p v&agrave;o k&igrave; nghỉ trước - rất ngậy v&agrave; ngon. T&ocirc;i nghĩ lần sau t&ocirc;i cũng sẽ ăn m&oacute;n đ&oacute;.&nbsp;</span></p>\n<span id=\"docs-internal-guid-e4bd0780-7fff-8630-c7d1-d04ce464732d\"></span></div>",
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 90908,
+          "content": "<p><span style=\"font-family: Nunito-Bold; font-size: 16px;\">Exercise 4</span></p>",
+          "index": 6,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 90909,
+          "content": null,
+          "index": 7,
+          "type": "audio",
+          "audio_url": "https://api-quiz-maker.langgo.vn/storage/audio/1715677904.mp3",
+          "video_url": null,
+          "transcript": "<p><span id=\"docs-internal-guid-db1e8536-7fff-9f73-8177-1f7d51c11007\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt;\" align=\"left\">\n<table style=\"border: none; border-collapse: collapse; table-layout: fixed; width: 451.27559055118115pt;\"><colgroup><col /><col /></colgroup>\n<tbody>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: There you are, sir. Two slices of pizza and a large cola.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Thank you. Hmm.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C: How does it look?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Okay, I guess, but I think I should have ordered three or four slices. These slices are much smaller than I expected.</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Của ng&agrave;i đ&acirc;y. 2 miếng pizza v&agrave; 1 cola cỡ lớn.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Cảm ơn. Hmm.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C: N&oacute; tr&ocirc;ng thế n&agrave;o?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Ổn, t&ocirc;i nghĩ vậy, nhưng t&ocirc;i nghĩ t&ocirc;i đ&aacute;ng lẽ n&ecirc;n gọi 3 hoặc 4 miếng. Những miếng n&agrave;y b&eacute; hơn t&ocirc;i kỳ vọng.&nbsp;</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: And here&rsquo;s your order. Steak with French fries and coffee.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Thanks. I can&rsquo;t wait to eat. I&rsquo;m starving.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C: It looks okay. How is it?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Let me try. Oh, just perfect.</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Đ&acirc;y l&agrave; m&oacute;n m&agrave; bạn đ&atilde; order. B&iacute;t tết với khoai t&acirc;y chi&ecirc;n v&agrave; c&agrave; ph&ecirc;.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Cảm ơn. T&ocirc;i kh&ocirc;ng thể chờ được nữa. T&ocirc;i đ&oacute;i lắm rồi.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C: N&oacute; tr&ocirc;ng c&oacute; vẻ ổn. N&oacute; thế n&agrave;o?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Để t&ocirc;i thử. Oh, ho&agrave;n hảo.&nbsp;</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Sorry to keep you waiting. One order of fried chicken with broccoli.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Thanks. Oh my! This chicken looks pretty dry.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C: Really. How does it taste?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: I&rsquo;m afraid it&rsquo;s not very fresh. I think it must have been frozen.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C: Let&rsquo;s send it back.</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Xin lỗi v&igrave; đ&atilde; để bạn phải chờ. Một phần g&agrave; r&aacute;n v&agrave; s&uacute;p lơ xanh.</span></p>\n<br />\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Cảm ơn. &Ocirc;i trời! M&oacute;n g&agrave; n&agrave;y tr&ocirc;ng c&oacute; vẻ kh&aacute; kh&ocirc;.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C: Thật sao? Vị của n&oacute; như thế n&agrave;o?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: T&ocirc;i e rằng n&oacute; kh&ocirc;ng được tươi. T&ocirc;i nghĩ n&oacute; đ&atilde; được đ&ocirc;ng lạnh.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C: H&atilde;y trả lại m&oacute;n th&ocirc;i.&nbsp;</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: There&rsquo;s your order, ma&rsquo;am. Fish, salad, and peas.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Oh. But you told me today&rsquo;s vegetable was broccoli.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C: You don&rsquo;t like peas, do you?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: No, I don&rsquo;t. I hate peas!</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Đ&acirc;y l&agrave; những m&oacute;n m&agrave; b&agrave; đ&atilde; order, thưa b&agrave;. C&aacute;, salad v&agrave; đậu.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Oh, nhưng bạn bảo với t&ocirc;i rằng rau củ ng&agrave;y h&ocirc;m nay l&agrave; s&uacute;p lơ xanh m&agrave;.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C: Bạn kh&ocirc;ng th&iacute;ch đậu đ&uacute;ng kh&ocirc;ng?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Kh&ocirc;ng hề, t&ocirc;i gh&eacute;t đậu.</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: And here&rsquo;s your dessert. Chocolate cake, with two scoops of ice cream and a large cola.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Great.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C: Wow. That cake looks good. I wish I had ordered it.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Do you want to try it? It&rsquo;s delicious.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C: Just a taste. Mmm. Fabulous.</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: V&agrave; đ&acirc;y l&agrave; m&oacute;n tr&aacute;ng miệng của bạn. B&aacute;nh kem socola, với 2 vi&ecirc;n kem v&agrave; 1 cola cỡ lớn.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Tuyệt.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C: Wow, b&aacute;nh tr&ocirc;ng ngon qu&aacute;. Ước g&igrave; t&ocirc;i đ&atilde; gọi n&oacute;.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Bạn c&oacute; muốn thử kh&ocirc;ng? N&oacute; ngon lắm.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C: Chỉ một miếng th&ocirc;i. Mmm. Tuyệt vời.</span></p>\n</td>\n</tr>\n<tr style=\"height: 0pt;\">\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Did you order the spaghetti?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: That&rsquo;s right.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Good. Here you are. And here&rsquo;s your cola.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Thanks. I don&rsquo;t think I made a very good choice.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C: Really?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Yeah. I think I can make better spaghetti than this.</span></p>\n</td>\n<td style=\"vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 1pt;\">\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Bạn đ&atilde; gọi spaghetti đ&uacute;ng kh&ocirc;ng?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Đ&uacute;ng vậy.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Tốt, của bạn đ&acirc;y. V&agrave; đ&acirc;y l&agrave; cola của bạn.&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Cảm ơn. T&ocirc;i kh&ocirc;ng nghĩ t&ocirc;i đ&atilde; c&oacute; sự lựa chọn đ&uacute;ng đắn.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">C: Thật sao?&nbsp;</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 10pt; margin-bottom: 10pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Yeah, t&ocirc;i nghĩ t&ocirc;i l&agrave;m spaghetti c&ograve;n ngon hơn như thế n&agrave;y.&nbsp;</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>",
+          "layout_audio": "full",
+          "align": "center"
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 33780,
+          "id": 324728,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-284ca81b-7fff-163e-3ae1-ba8a7f75e798\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-SemiBold; font-size: 16px;\">Speaker 1</span></p>",
+          "explain": null,
+          "introduction": "<p style=\"line-height: 1.5;\"><span style=\"font-family: Arial, sans-serif; font-size: 12pt; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-ExtraBold;\">Exercise 1. Listen to the audio and choose the item the buyer wants to buy. You can choose 2 item</span> (<span style=\"font-family: Nunito-Regular;\">Nghe ghi &acirc;m v&agrave; chọn m&oacute;n m&agrave; người mua muốn mua. Bạn c&oacute; thể chọn 2 đ&aacute;p &aacute;n.) </span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 5,
+          "answer": {
+            "answers": [
+              {
+                "id": 676704,
+                "content": "a. soup"
+              },
+              {
+                "id": 676705,
+                "content": "b. meat"
+              },
+              {
+                "id": 676706,
+                "content": "c. shampoo"
+              },
+              {
+                "id": 676707,
+                "content": "d. snack"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 33780,
+          "id": 324729,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-SemiBold; font-size: 16px;\">Speaker 2</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 5,
+          "answer": {
+            "answers": [
+              {
+                "id": 676708,
+                "content": "a. chips"
+              },
+              {
+                "id": 676709,
+                "content": "b. CD"
+              },
+              {
+                "id": 676710,
+                "content": "c. stereo"
+              },
+              {
+                "id": 676711,
+                "content": "d. cassette"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 33780,
+          "id": 324730,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-SemiBold; font-size: 16px;\">Speaker 3</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 5,
+          "answer": {
+            "answers": [
+              {
+                "id": 676712,
+                "content": "a. paper"
+              },
+              {
+                "id": 676713,
+                "content": "b. books"
+              },
+              {
+                "id": 676714,
+                "content": "c. newspaper"
+              },
+              {
+                "id": 676715,
+                "content": "d. magazines"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 33780,
+          "id": 324731,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-SemiBold; font-size: 16px;\">Speaker 4</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 5,
+          "answer": {
+            "answers": [
+              {
+                "id": 676716,
+                "content": "a. shoes"
+              },
+              {
+                "id": 676717,
+                "content": "b. socks"
+              },
+              {
+                "id": 676718,
+                "content": "c. T-shirt"
+              },
+              {
+                "id": 676719,
+                "content": "d. shirt"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 33780,
+          "id": 324732,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-SemiBold; font-size: 16px;\">Speaker 5</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 5,
+          "answer": {
+            "answers": [
+              {
+                "id": 676720,
+                "content": "a. chocolate"
+              },
+              {
+                "id": 676721,
+                "content": "b. chocolate cake"
+              },
+              {
+                "id": 676722,
+                "content": "c. cookies"
+              },
+              {
+                "id": 676723,
+                "content": "d. chocolate chips"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 33780,
+          "id": 324733,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-SemiBold; font-size: 16px;\">Speaker 6</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 5,
+          "answer": {
+            "answers": [
+              {
+                "id": 676724,
+                "content": "a. newspaper"
+              },
+              {
+                "id": 676725,
+                "content": "b. books"
+              },
+              {
+                "id": 676726,
+                "content": "c. paper"
+              },
+              {
+                "id": 676727,
+                "content": "d. magazines"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 33780,
+          "id": 324734,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span id=\"docs-internal-guid-066cc9d2-7fff-aec8-fd3d-a5bcb71773c7\" style=\"font-size: 12pt;\"><span style=\"font-family: Nunito-ExtraBold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 2. </span><span style=\"font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-ExtraBold;\">Listen to the audio and fill in the blanks</span> <em><span style=\"font-family: Nunito-Regular;\">(Nghe ghi &acirc;m v&agrave; chọn đ&aacute;p &aacute;n đ&uacute;ng).</span></em></span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 78405,
+              "content": "<p><span style=\"font-family: Nunito-SemiBold;\">Speaker 1</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">a. Only rich people can really [input_0] to buy a car at home</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">b. You don't have to be [input_1] to [input_2] a car, which is great.</span></p>\n<p><span style=\"font-family: Nunito-SemiBold;\">Speaker 2</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">c. That's what I used to pay for a four-room apartment in a good [input_3].</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">d. Here in the U.S, I pay about twice that for a much smaller apartment, and it's not in a very nice neighborhood.</span></p>\n<p><span style=\"font-family: Nunito-SemiBold;\">Speaker 3</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">e. I [input_4] a lot of clothes in my country before I moved to the U.S. because everyone told me how [input_5] American clothing is.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\"> f. I was kind of [input_6] that I could get nice clothes here for very [input_7] prices.</span></p>\n<p><span style=\"font-family: Nunito-SemiBold;\">Speaker 4</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">g. But the U.S. is such a big country and the population is [input_8], so you have a lot of people traveling by [input_9].</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">h. That's what keeps the prices [input_10].</span></p>\n<p><span style=\"font-family: Nunito-SemiBold;\">Speaker 5</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">i. You have to pay a lot to do that, so it's a big [input_11] for many people.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">j. People don't have to [input_12] a lot on tuition, so most people send their children to public schools.</span></p>\n<p><span style=\"font-family: Nunito-SemiBold;\">Speaker 6</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">k. Here in the U.S., you need to have [input_13] insurance because it [input_14] a lot to see a doctor or to enter a hospital.</span></p>\n<p><span style=\"font-family: Nunito-Regular;\">l. At home, you don't have to [input_15] much to see a doctor or go to a hospital.</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 33780,
+          "id": 324735,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-SemiBold; font-size: 12pt;\">Speaker 1</span></p>",
+          "explain": null,
+          "introduction": "<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt;\"><span style=\"font-family: Nunito-ExtraBold; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 3. L</span><span style=\"font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-family: Nunito-ExtraBold;\">isten to the audio file and then match the dish with appropriate comments</span> <em><span style=\"font-family: Nunito-Regular;\">(Nghe tệp ghi &acirc;m v&agrave; nối m&oacute;n ăn với nhận x&eacute;t ph&ugrave; hợp về m&oacute;n đ&oacute;) </span></em></span></span></p>\n<p><span id=\"docs-internal-guid-f9094916-7fff-a0d9-9446-f6dedb0c7e17\"></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 7,
+          "answer": {
+            "questions": [
+              {
+                "id": 9023,
+                "content": "appertizer"
+              },
+              {
+                "id": 9024,
+                "content": "main dish"
+              },
+              {
+                "id": 9025,
+                "content": "vegetable"
+              },
+              {
+                "id": 9026,
+                "content": "dessert"
+              }
+            ],
+            "answers": [
+              {
+                "id": 8985,
+                "content": "it was interesting"
+              },
+              {
+                "id": 8986,
+                "content": "it was very small and a little tough"
+              },
+              {
+                "id": 8987,
+                "content": "they were great - nice and fresh"
+              },
+              {
+                "id": 8988,
+                "content": "it was delicious"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 33780,
+          "id": 324736,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-SemiBold; font-size: 12pt;\">Speaker 2</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 7,
+          "answer": {
+            "questions": [
+              {
+                "id": 9027,
+                "content": "salad"
+              },
+              {
+                "id": 9028,
+                "content": "main dish"
+              },
+              {
+                "id": 9029,
+                "content": "vegetables"
+              },
+              {
+                "id": 9030,
+                "content": "dessert"
+              }
+            ],
+            "answers": [
+              {
+                "id": 8989,
+                "content": "it was nice and fresh"
+              },
+              {
+                "id": 8990,
+                "content": "I really enjoyed the spices it was cooked in"
+              },
+              {
+                "id": 8991,
+                "content": "they were good - very tasty"
+              },
+              {
+                "id": 8992,
+                "content": "it was too sweet"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 33780,
+          "id": 324737,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-SemiBold; font-size: 12pt;\">Speaker 3</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 7,
+          "answer": {
+            "questions": [
+              {
+                "id": 9031,
+                "content": "egg rolls"
+              },
+              {
+                "id": 9032,
+                "content": "beef and pepper stir-fry"
+              },
+              {
+                "id": 9033,
+                "content": "steamed vegetables"
+              },
+              {
+                "id": 9034,
+                "content": "a big bowl of fresh fruit"
+              }
+            ],
+            "answers": [
+              {
+                "id": 8993,
+                "content": "They were the best I had ever tasted"
+              },
+              {
+                "id": 8994,
+                "content": "it was spicy - but not too spicy"
+              },
+              {
+                "id": 8995,
+                "content": "they were awful"
+              },
+              {
+                "id": 8996,
+                "content": "I have never seen some of them."
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 33780,
+          "id": 324738,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-SemiBold; font-size: 12pt;\">Speaker 4</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 7,
+          "answer": {
+            "questions": [
+              {
+                "id": 9035,
+                "content": "onion soup"
+              },
+              {
+                "id": 9036,
+                "content": "pork"
+              },
+              {
+                "id": 9037,
+                "content": "vegetables"
+              },
+              {
+                "id": 9038,
+                "content": "chocolate mousse"
+              }
+            ],
+            "answers": [
+              {
+                "id": 8997,
+                "content": "It was much too salty"
+              },
+              {
+                "id": 8998,
+                "content": "It was too dry and had no taste"
+              },
+              {
+                "id": 8999,
+                "content": "they were my favorites"
+              },
+              {
+                "id": 9000,
+                "content": "It was very creamy and delicious"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 33780,
+          "id": 324739,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-SemiBold; font-size: 12pt;\">Speaker 1</span></p>",
+          "explain": null,
+          "introduction": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-ExtraBold; color: #000000; background-color: transparent; font-weight: 400; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 4. W</span><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-family: Nunito-ExtraBold;\">hat do do people say about their dishes?</span></span><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> <em>(Mọi người n&oacute;i g&igrave; về m&oacute;n ăn của m&igrave;nh?) </em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 676728,
+                "content": "a. These slices are small"
+              },
+              {
+                "id": 676729,
+                "content": "b. He wants to order more cola"
+              },
+              {
+                "id": 676730,
+                "content": "c. It's perfect"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 33780,
+          "id": 324740,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-SemiBold; font-size: 16px;\">Speaker 2</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 676731,
+                "content": "a. It's salty"
+              },
+              {
+                "id": 676732,
+                "content": "b. It's perfect"
+              },
+              {
+                "id": 676733,
+                "content": "c. It's too sweet"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 33780,
+          "id": 324741,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-SemiBold; font-size: 16px;\">Speaker 3</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 676734,
+                "content": "a. It's dry"
+              },
+              {
+                "id": 676735,
+                "content": "b. It's fresh"
+              },
+              {
+                "id": 676736,
+                "content": "c. It's hot"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 33780,
+          "id": 324742,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-SemiBold; font-size: 16px;\">Speaker 4</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 676737,
+                "content": "a. She likes peas"
+              },
+              {
+                "id": 676738,
+                "content": "b. She likes broccoli"
+              },
+              {
+                "id": 676739,
+                "content": "c. She hates peas"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 33780,
+          "id": 324743,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-SemiBold; font-size: 16px;\">Speaker 5</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 676740,
+                "content": "a. The cake is too sweet"
+              },
+              {
+                "id": 676741,
+                "content": "b. The cake is dry"
+              },
+              {
+                "id": 676742,
+                "content": "c. The cake is delicious"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 33780,
+          "id": 324744,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-SemiBold; font-size: 12pt;\">Speaker 6</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 676743,
+                "content": "a. He can makes better spaghetti"
+              },
+              {
+                "id": 676744,
+                "content": "b. He likes the spaghetti"
+              },
+              {
+                "id": 676745,
+                "content": "c. He wants to order cola"
+              }
+            ]
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

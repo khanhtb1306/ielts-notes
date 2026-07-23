@@ -116,8 +116,8 @@ function AudioList({ audios }: { audios: AudioRef[] }) {
 
 function AnswerReveal({ q }: { q: Question }) {
   if (q.kind === "single_choice" || q.kind === "multi_select") {
-    const correctSet = new Set((q.correctAnswer || []).map(String))
-    const userSet = new Set(((q.userAnswer as (string | number)[]) || []).map(String))
+    const correctSet = new Set(toArray(q.correctAnswer).map(String))
+    const userSet = new Set(toArray(q.userAnswer).map(String))
     if (!q.options.length) return null
     return (
       <ul className="mt-3 space-y-2">
@@ -167,8 +167,8 @@ function AnswerReveal({ q }: { q: Question }) {
         <table className="w-full text-sm">
           <thead className="bg-muted/60">
             <tr>
-              <th className="text-left px-3 py-2">Word</th>
-              <th className="text-left px-3 py-2">Meaning</th>
+              <th className="text-left px-3 py-2">Mục</th>
+              <th className="text-left px-3 py-2">Đáp án</th>
             </tr>
           </thead>
           <tbody>
@@ -202,6 +202,11 @@ function AnswerReveal({ q }: { q: Question }) {
     )
   }
   return <div className="mt-3 text-sm text-muted-foreground italic">Yêu cầu tự soạn (video / text).</div>
+}
+
+function toArray(value: unknown): (string | number)[] {
+  if (value == null) return []
+  return Array.isArray(value) ? value : [value as string | number]
 }
 
 function FillBlankReveal({ q }: { q: Question }) {

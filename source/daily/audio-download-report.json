@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-15T15:54:05.945Z",
+  "generatedAt": "2026-07-18T15:33:12.860Z",
   "maxBytes": 20971520,
-  "totalUrls": 433,
-  "downloaded": 40,
-  "skippedExisting": 393,
+  "totalUrls": 452,
+  "downloaded": 19,
+  "skippedExisting": 433,
   "tooLarge": [],
   "failed": [],
   "files": [
@@ -3157,8 +3157,7 @@
       "classChallengeId": "83882",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715662671.mp3",
       "file": "audio/daily/lesson-13/32729-1-1715662671.mp3",
-      "bytes": 1713676,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 13,
@@ -3166,8 +3165,7 @@
       "classChallengeId": "83882",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715662885.mp3",
       "file": "audio/daily/lesson-13/32729-2-1715662885.mp3",
-      "bytes": 1016520,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 13,
@@ -3175,8 +3173,7 @@
       "classChallengeId": "83882",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715662977.mp3",
       "file": "audio/daily/lesson-13/32729-3-1715662977.mp3",
-      "bytes": 1561867,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 13,
@@ -3184,8 +3181,7 @@
       "classChallengeId": "83882",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715663593.mp3",
       "file": "audio/daily/lesson-13/32729-4-1715663593.mp3",
-      "bytes": 27958,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 13,
@@ -3193,8 +3189,7 @@
       "classChallengeId": "83882",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715663568.mp3",
       "file": "audio/daily/lesson-13/32729-5-1715663568.mp3",
-      "bytes": 68918,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 13,
@@ -3202,8 +3197,7 @@
       "classChallengeId": "83882",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715663558.mp3",
       "file": "audio/daily/lesson-13/32729-6-1715663558.mp3",
-      "bytes": 48856,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 13,
@@ -3211,8 +3205,7 @@
       "classChallengeId": "83882",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715663547.mp3",
       "file": "audio/daily/lesson-13/32729-7-1715663547.mp3",
-      "bytes": 35480,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 13,
@@ -3220,8 +3213,7 @@
       "classChallengeId": "83882",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715663536.mp3",
       "file": "audio/daily/lesson-13/32729-8-1715663536.mp3",
-      "bytes": 73515,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 13,
@@ -3229,8 +3221,7 @@
       "classChallengeId": "83882",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715663519.mp3",
       "file": "audio/daily/lesson-13/32729-9-1715663519.mp3",
-      "bytes": 38825,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 13,
@@ -3238,8 +3229,7 @@
       "classChallengeId": "83882",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715663406.mp3",
       "file": "audio/daily/lesson-13/32729-10-1715663406.mp3",
-      "bytes": 83964,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 13,
@@ -3247,8 +3237,7 @@
       "classChallengeId": "83882",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715663385.mp3",
       "file": "audio/daily/lesson-13/32729-11-1715663385.mp3",
-      "bytes": 67245,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 13,
@@ -3256,8 +3245,7 @@
       "classChallengeId": "83882",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715663366.mp3",
       "file": "audio/daily/lesson-13/32729-12-1715663366.mp3",
-      "bytes": 119490,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 13,
@@ -3265,8 +3253,7 @@
       "classChallengeId": "83882",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715663335.mp3",
       "file": "audio/daily/lesson-13/32729-13-1715663335.mp3",
-      "bytes": 63901,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 14,
@@ -3274,8 +3261,7 @@
       "classChallengeId": "84207",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1718209189.mp3",
       "file": "audio/daily/lesson-14/33069-1-1718209189.mp3",
-      "bytes": 1368770,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 14,
@@ -3283,8 +3269,7 @@
       "classChallengeId": "84207",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1718209247.mp3",
       "file": "audio/daily/lesson-14/33069-2-1718209247.mp3",
-      "bytes": 2484304,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 14,
@@ -3292,8 +3277,7 @@
       "classChallengeId": "84207",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1718209261.mp3",
       "file": "audio/daily/lesson-14/33069-3-1718209261.mp3",
-      "bytes": 2495171,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 14,
@@ -3301,8 +3285,7 @@
       "classChallengeId": "84207",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715746764.mp3",
       "file": "audio/daily/lesson-14/33069-4-1715746764.mp3",
-      "bytes": 28793,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 14,
@@ -3310,8 +3293,7 @@
       "classChallengeId": "84207",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715746777.mp3",
       "file": "audio/daily/lesson-14/33069-5-1715746777.mp3",
-      "bytes": 24195,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 14,
@@ -3319,8 +3301,7 @@
       "classChallengeId": "84207",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715746790.mp3",
       "file": "audio/daily/lesson-14/33069-6-1715746790.mp3",
-      "bytes": 71426,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 14,
@@ -3328,8 +3309,7 @@
       "classChallengeId": "84207",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715746816.mp3",
       "file": "audio/daily/lesson-14/33069-7-1715746816.mp3",
-      "bytes": 51364,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 14,
@@ -3337,8 +3317,7 @@
       "classChallengeId": "84207",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715746829.mp3",
       "file": "audio/daily/lesson-14/33069-8-1715746829.mp3",
-      "bytes": 106116,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 14,
@@ -3346,8 +3325,7 @@
       "classChallengeId": "84207",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715746839.mp3",
       "file": "audio/daily/lesson-14/33069-9-1715746839.mp3",
-      "bytes": 82293,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 14,
@@ -3355,8 +3333,7 @@
       "classChallengeId": "84207",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715746849.mp3",
       "file": "audio/daily/lesson-14/33069-10-1715746849.mp3",
-      "bytes": 106952,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 15,
@@ -3364,8 +3341,7 @@
       "classChallengeId": "84531",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715657276.mp3",
       "file": "audio/daily/lesson-15/33411-1-1715657276.mp3",
-      "bytes": 67664,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 15,
@@ -3373,8 +3349,7 @@
       "classChallengeId": "84531",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715657300.mp3",
       "file": "audio/daily/lesson-15/33411-2-1715657300.mp3",
-      "bytes": 56379,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 15,
@@ -3382,8 +3357,7 @@
       "classChallengeId": "84531",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1717726038.mp3",
       "file": "audio/daily/lesson-15/33411-3-1717726038.mp3",
-      "bytes": 68918,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 15,
@@ -3391,8 +3365,7 @@
       "classChallengeId": "84531",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715657408.mp3",
       "file": "audio/daily/lesson-15/33411-4-1715657408.mp3",
-      "bytes": 60141,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 15,
@@ -3400,8 +3373,7 @@
       "classChallengeId": "84531",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715657463.mp3",
       "file": "audio/daily/lesson-15/33411-5-1715657463.mp3",
-      "bytes": 69754,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 15,
@@ -3409,8 +3381,7 @@
       "classChallengeId": "84531",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1717726058.mp3",
       "file": "audio/daily/lesson-15/33411-6-1717726058.mp3",
-      "bytes": 93577,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 15,
@@ -3418,8 +3389,7 @@
       "classChallengeId": "84531",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715657515.mp3",
       "file": "audio/daily/lesson-15/33411-7-1715657515.mp3",
-      "bytes": 48438,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 15,
@@ -3427,8 +3397,7 @@
       "classChallengeId": "84531",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715657551.mp3",
       "file": "audio/daily/lesson-15/33411-8-1715657551.mp3",
-      "bytes": 37989,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 15,
@@ -3436,8 +3405,7 @@
       "classChallengeId": "84531",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715659373.mp3",
       "file": "audio/daily/lesson-15/33411-9-1715659373.mp3",
-      "bytes": 2801953,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 15,
@@ -3445,8 +3413,7 @@
       "classChallengeId": "84532",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709019674.mp3",
       "file": "audio/daily/lesson-15/33412-1-1709019674.mp3",
-      "bytes": 67664,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 15,
@@ -3454,8 +3421,7 @@
       "classChallengeId": "84532",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709020259.mp3",
       "file": "audio/daily/lesson-15/33412-2-1709020259.mp3",
-      "bytes": 56379,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 15,
@@ -3463,8 +3429,7 @@
       "classChallengeId": "84532",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709020291.mp3",
       "file": "audio/daily/lesson-15/33412-3-1709020291.mp3",
-      "bytes": 68918,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 15,
@@ -3472,8 +3437,7 @@
       "classChallengeId": "84532",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709020332.mp3",
       "file": "audio/daily/lesson-15/33412-4-1709020332.mp3",
-      "bytes": 60141,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 15,
@@ -3481,8 +3445,7 @@
       "classChallengeId": "84532",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709020356.mp3",
       "file": "audio/daily/lesson-15/33412-5-1709020356.mp3",
-      "bytes": 69754,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 15,
@@ -3490,8 +3453,7 @@
       "classChallengeId": "84532",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709021624.mp3",
       "file": "audio/daily/lesson-15/33412-6-1709021624.mp3",
-      "bytes": 93577,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 15,
@@ -3499,8 +3461,7 @@
       "classChallengeId": "84532",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709021772.mp3",
       "file": "audio/daily/lesson-15/33412-7-1709021772.mp3",
-      "bytes": 48438,
-      "status": "downloaded"
+      "status": "exists"
     },
     {
       "lesson": 15,
@@ -3508,7 +3469,177 @@
       "classChallengeId": "84532",
       "url": "https://api-quiz-maker.langgo.vn/storage/audio/1709021796.mp3",
       "file": "audio/daily/lesson-15/33412-8-1709021796.mp3",
-      "bytes": 37989,
+      "status": "exists"
+    },
+    {
+      "lesson": 16,
+      "challengeId": 33777,
+      "classChallengeId": "84884",
+      "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708921070.mp3",
+      "file": "audio/daily/lesson-16/33777-1-1708921070.mp3",
+      "bytes": 1735015,
+      "status": "downloaded"
+    },
+    {
+      "lesson": 16,
+      "challengeId": 33777,
+      "classChallengeId": "84884",
+      "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708921233.mp3",
+      "file": "audio/daily/lesson-16/33777-2-1708921233.mp3",
+      "bytes": 971799,
+      "status": "downloaded"
+    },
+    {
+      "lesson": 16,
+      "challengeId": 33777,
+      "classChallengeId": "84884",
+      "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708921327.mp3",
+      "file": "audio/daily/lesson-16/33777-3-1708921327.mp3",
+      "bytes": 1363844,
+      "status": "downloaded"
+    },
+    {
+      "lesson": 16,
+      "challengeId": 33778,
+      "classChallengeId": "84885",
+      "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708920516.mp3",
+      "file": "audio/daily/lesson-16/33778-1-1708920516.mp3",
+      "bytes": 33921,
+      "status": "downloaded"
+    },
+    {
+      "lesson": 16,
+      "challengeId": 33778,
+      "classChallengeId": "84885",
+      "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708920543.mp3",
+      "file": "audio/daily/lesson-16/33778-2-1708920543.mp3",
+      "bytes": 72374,
+      "status": "downloaded"
+    },
+    {
+      "lesson": 16,
+      "challengeId": 33778,
+      "classChallengeId": "84885",
+      "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708920570.mp3",
+      "file": "audio/daily/lesson-16/33778-3-1708920570.mp3",
+      "bytes": 42698,
+      "status": "downloaded"
+    },
+    {
+      "lesson": 16,
+      "challengeId": 33778,
+      "classChallengeId": "84885",
+      "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708920597.mp3",
+      "file": "audio/daily/lesson-16/33778-4-1708920597.mp3",
+      "bytes": 33122,
+      "status": "downloaded"
+    },
+    {
+      "lesson": 16,
+      "challengeId": 33778,
+      "classChallengeId": "84885",
+      "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708920622.mp3",
+      "file": "audio/daily/lesson-16/33778-5-1708920622.mp3",
+      "bytes": 28943,
+      "status": "downloaded"
+    },
+    {
+      "lesson": 16,
+      "challengeId": 33778,
+      "classChallengeId": "84885",
+      "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708920647.mp3",
+      "file": "audio/daily/lesson-16/33778-6-1708920647.mp3",
+      "bytes": 37720,
+      "status": "downloaded"
+    },
+    {
+      "lesson": 16,
+      "challengeId": 33778,
+      "classChallengeId": "84885",
+      "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708920678.mp3",
+      "file": "audio/daily/lesson-16/33778-7-1708920678.mp3",
+      "bytes": 46497,
+      "status": "downloaded"
+    },
+    {
+      "lesson": 16,
+      "challengeId": 33778,
+      "classChallengeId": "84885",
+      "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708920701.mp3",
+      "file": "audio/daily/lesson-16/33778-8-1708920701.mp3",
+      "bytes": 102706,
+      "status": "downloaded"
+    },
+    {
+      "lesson": 16,
+      "challengeId": 33778,
+      "classChallengeId": "84885",
+      "url": "https://api-quiz-maker.langgo.vn/storage/audio/1708920741.mp3",
+      "file": "audio/daily/lesson-16/33778-9-1708920741.mp3",
+      "bytes": 98526,
+      "status": "downloaded"
+    },
+    {
+      "lesson": null,
+      "challengeId": 33779,
+      "classChallengeId": "84886",
+      "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715675611.mp3",
+      "file": "audio/daily/lesson-misc/33779-1-1715675611.mp3",
+      "bytes": 1387996,
+      "status": "downloaded"
+    },
+    {
+      "lesson": null,
+      "challengeId": 33779,
+      "classChallengeId": "84886",
+      "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715675758.mp3",
+      "file": "audio/daily/lesson-misc/33779-2-1715675758.mp3",
+      "bytes": 1561867,
+      "status": "downloaded"
+    },
+    {
+      "lesson": null,
+      "challengeId": 33779,
+      "classChallengeId": "84886",
+      "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715676075.mp3",
+      "file": "audio/daily/lesson-misc/33779-3-1715676075.mp3",
+      "bytes": 1735015,
+      "status": "downloaded"
+    },
+    {
+      "lesson": null,
+      "challengeId": 33780,
+      "classChallengeId": "84887",
+      "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715677718.mp3",
+      "file": "audio/daily/lesson-misc/33780-1-1715677718.mp3",
+      "bytes": 2484304,
+      "status": "downloaded"
+    },
+    {
+      "lesson": null,
+      "challengeId": 33780,
+      "classChallengeId": "84887",
+      "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715677771.mp3",
+      "file": "audio/daily/lesson-misc/33780-2-1715677771.mp3",
+      "bytes": 2495171,
+      "status": "downloaded"
+    },
+    {
+      "lesson": null,
+      "challengeId": 33780,
+      "classChallengeId": "84887",
+      "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715677825.mp3",
+      "file": "audio/daily/lesson-misc/33780-3-1715677825.mp3",
+      "bytes": 2801953,
+      "status": "downloaded"
+    },
+    {
+      "lesson": null,
+      "challengeId": 33780,
+      "classChallengeId": "84887",
+      "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715677904.mp3",
+      "file": "audio/daily/lesson-misc/33780-4-1715677904.mp3",
+      "bytes": 1901669,
       "status": "downloaded"
     }
   ]

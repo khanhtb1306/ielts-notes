@@ -28,7 +28,7 @@
     "appearance":           { "label": "Appearance", "viLabel": "Ngoại hình", "skill": "speaking" },
     "personality":          { "label": "Personality", "viLabel": "Tính cách", "skill": "speaking" },
     "house":                { "label": "House / Room", "viLabel": "Nhà / Phòng", "skill": "speaking" },
-    "trip":                 { "label": "Trip / Vacation", "viLabel": "Chuyến đi / Du lịch", "skill": "speaking" },
+    "trip":                 { "label": "Trip / Travelling", "viLabel": "Chuyến đi / Du lịch", "skill": "speaking" },
     "food-restaurant":      { "label": "Food & Restaurant", "viLabel": "Đồ ăn & Nhà hàng", "skill": "speaking" },
     "health-illness":       { "label": "Health & Illness", "viLabel": "Sức khoẻ & Bệnh nhẹ", "skill": "speaking" }
   },
@@ -111,6 +111,7 @@
     "lesson-13": ["past-tenses", "trip"],
     "lesson-14": ["future-tenses"],
     "lesson-15": ["modal-verbs", "food-restaurant"],
+    "lesson-16": ["adjectives", "daily-routine", "house", "trip"],
     "lesson-misc": []
   },
 
@@ -144,9 +145,9 @@
       { "q": "What are your hobbies?" },
       { "q": "What do you often do at the weekend?" },
       { "q": "Do you like sports? How often?" },
-      { "q": "Do you like watching movies?", "subQuestions": [
-        "What kinds of movies do you like?",
-        "What is your favorite movie?"
+      { "q": "Do you like watching films?", "subQuestions": [
+        "What kinds of films do you like?",
+        "What is your favourite film?"
       ] },
       { "q": "Do you like reading books?" },
       { "q": "Do you like listening to music?" },
@@ -189,7 +190,7 @@
       ] }
     ],
     "house": [
-      { "q": "What is your favorite room in your house?" },
+      { "q": "What is your favourite room in your house?" },
       { "q": "Can you describe a room in your house?", "subQuestions": [
         "Can you describe your living room?",
         "Can you describe your bedroom?",
@@ -197,12 +198,12 @@
       ] }
     ],
     "trip": [
-      { "q": "Do you love traveling?" },
+      { "q": "Do you love travelling?" },
       { "q": "Tell me about one trip you remember the most." },
       { "q": "Tell me about one trip you want to take in the future." }
     ],
     "food-restaurant": [
-      { "q": "What are your favorite foods / drinks? Are they good for you?" },
+      { "q": "What are your favourite foods / drinks? Are they good for you?" },
       { "q": "Do you like eating out? How often do you go to a restaurant?" }
     ],
     "health-illness": [

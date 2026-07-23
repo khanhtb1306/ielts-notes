@@ -1,16 +1,16 @@
 {
-  "stageSub": "Mục tiêu giai đoạn hiện tại: học chắc nội dung đã học đến Lesson 15.",
-  "courseSub": "Bản đồ nguồn kiến thức Lesson 1–15, dùng để tra kiến thức đến từ đâu.",
+  "stageSub": "Mục tiêu giai đoạn hiện tại: học chắc Lesson 1–16 và ôn theo Final Review.",
+  "courseSub": "Bản đồ nguồn kiến thức Lesson 1–16, dùng để tra kiến thức đến từ đâu.",
   "pronSub": "IPA cơ bản, trọng âm, âm cuối, các âm dễ nhầm và collocation theo âm (Lesson 1–5).",
   "grammarSub": "Khái niệm → công thức → cách dùng → dấu hiệu → ví dụ → bẫy lỗi.",
-  "speakingSub": "Giữ nguyên ví dụ thật, thêm answer frame, speaking sheets giáo viên gửi và audio drill để luyện nói đúng, dễ thuộc.",
-  "reviewSub": "Ôn cho kỳ thi cuối: câu hỏi Speaking giáo viên random hỏi, audio phản xạ, Grammar Atlas theo ảnh tổng hợp và checklist tiến độ.",
+  "speakingSub": "Answer frame và speaking topic sheets giáo viên gửi; dùng để luyện trả lời đúng chủ đề, không học vocab rời rạc.",
+  "reviewSub": "Trang chính ôn thi cuối: render packet Tổng hợp kiến thức khóa Pre-IELTS, kèm speaking topic sheets và question bank.",
 
   "stageTitle": "Giai đoạn hiện tại, chưa phải toàn bộ khóa",
-  "stageIntro": "Tài liệu này tổng hợp kiến thức đã học đến Lesson 15. Các lesson sau sẽ được bổ sung theo tiến độ học.",
+  "stageIntro": "Tài liệu này tổng hợp kiến thức đã học đến Lesson 16 và lấy Final Review làm chuẩn ôn tập.",
   "courseIntro": "Dùng để biết kiến thức đến từ lesson nào. Khi ôn, ưu tiên ôn theo topic trong Pronunciation/Grammar/Speaking.",
   "reviewTitle": "Ôn tập cho kỳ thi cuối giai đoạn",
-  "reviewIntro": "Kỳ thi cuối tập trung vào Speaking theo các câu hỏi giáo viên random hỏi, kèm kiểm tra nền Grammar/Pronunciation. Ôn theo audio drill, speaking sheets và Grammar Atlas; tích ô đã ôn để theo dõi tiến độ.",
+  "reviewIntro": "Ôn theo packet giáo viên gửi: Grammar tổng hợp bằng ảnh/sơ đồ, speaking topic sheets, và bộ câu hỏi Speaking Final. Notes/Daily/Practice chỉ là phần luyện lại sau khi nắm packet chính.",
 
   "goals": [
     "Hoàn thành tốt giai đoạn Pre-IELTS hiện tại.",
@@ -42,14 +42,15 @@
     { "n": 12, "title": "Present tenses + House", "focus": "What is a verb, Present Simple, Present Continuous và Speaking House.", "note": "Xem Grammar Present Tenses và Speaking House.", "source": "Lesson 12.pptx" },
     { "n": 13, "title": "Past tenses + Free time", "focus": "Past Simple, Past Continuous, -ed, irregular verbs và Speaking Free time.", "note": "Xem Grammar Past Tenses và Speaking Weekend.", "source": "Lesson 13.pptx" },
     { "n": 14, "title": "Future tenses + Trip", "focus": "Future Simple, be going to và Speaking mô tả chuyến đi tương lai.", "note": "Xem Grammar Future Tenses và Speaking Trip.", "source": "Lesson 14.pptx" },
-    { "n": 15, "title": "Modal Verbs + Restaurant", "focus": "Modal verbs (ability/permission/advice/obligation/probability) và Speaking Food & Restaurant.", "note": "Xem Grammar Modal Verbs và Speaking Food & Restaurant.", "source": "Lesson 15.pptx" }
+    { "n": 15, "title": "Modal Verbs + Restaurant", "focus": "Modal verbs (ability/permission/advice/obligation/probability) và Speaking Food & Restaurant.", "note": "Xem Grammar Modal Verbs và Speaking Food & Restaurant.", "source": "Lesson 15.pptx" },
+    { "n": 16, "title": "Adverbs + Review Speaking", "focus": "Adverbs of manner, time, place, frequency, degree; phân biệt adjective vs adverb và ôn Speaking Weekend/Family/Trip.", "note": "Xem Grammar Foundation · Tính từ & Trạng từ, luyện adverbs of frequency trong Daily Lesson 16.", "source": "Lesson 16.pptx" }
   ],
 
   "readGuide": [
     { "topic": "Job", "text": "My dream is to become a teacher. / It is a good job for me / because I love working with kids.", "stress": "dream, teacher, good job, love, kids", "grammar": "want to become; because; Present Simple" },
     { "topic": "Family", "text": "There are four people in my family: / my parents, / my younger brother / and me.", "stress": "four people, family, parents, younger brother", "grammar": "There are; possessive my" },
     { "topic": "Appearance", "text": "My father is in his forties. / He is not very tall, / but he is well-built.", "stress": "father, forties, not very tall, well-built", "grammar": "be + adjective; but" },
-    { "topic": "House", "text": "My favorite room is my bedroom / because I feel free and comfortable there.", "stress": "favorite room, bedroom, free, comfortable", "grammar": "be + noun; because" },
+    { "topic": "House", "text": "My favourite room is my bedroom / because I feel free and comfortable there.", "stress": "favourite room, bedroom, free, comfortable", "grammar": "be + noun; because" },
     { "topic": "Weekend", "text": "At the weekend, / I often go out for coffee / with my friends.", "stress": "weekend, often, coffee, friends", "grammar": "Present Simple; adverb of frequency" },
     { "topic": "Trip (past)", "text": "The trip I remember the most / is my trip to Hue, Da Nang, and Hoi An.", "stress": "trip, remember, Hue, Da Nang, Hoi An", "grammar": "Past Simple setup" },
     { "topic": "Trip (future)", "text": "I am going to go with my best friends. / We are going to travel by car.", "stress": "going to, best friends, travel, car", "grammar": "be going to" },
@@ -104,7 +105,7 @@
     "Job": ["dream job", "well-paid", "work with kids", "hard work", "long hours", "on my feet all day"],
     "Family": ["only child", "nuclear family", "younger brother", "elder sister", "siblings", "parents"],
     "Appearance": ["good-looking", "average-looking", "slim", "well-built", "straight hair", "curly hair", "glasses"],
-    "Personality": ["neat", "organized", "easy-going", "sociable", "generous", "shy", "serious"],
+    "Personality": ["neat", "organised", "easy-going", "sociable", "generous", "shy", "serious"],
     "House": ["living room", "kitchen", "bathroom", "bedroom", "wardrobe", "next to", "in the middle of"],
     "Weekend": ["go shopping", "go to the cinema", "work out", "take walks", "go jogging", "hang out with friends"],
     "Trip": ["travel", "trip", "sightseeing", "local food", "beautiful scenery", "wonderful", "crowded"],

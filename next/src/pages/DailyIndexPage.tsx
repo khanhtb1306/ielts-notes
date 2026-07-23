@@ -22,7 +22,7 @@ export function DailyIndexPage() {
   return (
     <div className="space-y-6">
       <div className="rounded-2xl border border-border bg-gradient-to-br from-pink-500/10 via-card to-card p-6">
-        <Badge variant="secondary" className="mb-2">16 lessons</Badge>
+        <Badge variant="secondary" className="mb-2">{dailyIndex.length} daily sets</Badge>
         <h2 className="text-2xl font-bold">Daily Practice · Theo Lesson</h2>
         <p className="text-muted-foreground mt-1">
           Bài tập daily từ LangGo, đã chuẩn hoá. Bấm vào lesson để xem nội dung + đề + đáp án + flashcard.

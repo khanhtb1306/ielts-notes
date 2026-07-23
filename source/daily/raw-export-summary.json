@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-15T15:53:56.562Z",
+  "generatedAt": "2026-07-18T15:27:01.301Z",
   "contractId": "1780455880vwydc1i2ehir",
   "classId": "177286917873dop75b27mv",
-  "totalChallenges": 35,
+  "totalChallenges": 39,
   "lessons": {
     "lesson-01": [
       {
@@ -104,6 +104,18 @@
         "challengeId": 31677,
         "classChallengeId": "82862",
         "file": "raw/challenge-01-31677.json"
+      },
+      {
+        "title": "[PRE IELTS] BREAK 3 - CHALLENGE 1",
+        "challengeId": 33779,
+        "classChallengeId": "84886",
+        "file": "raw/challenge-01-33779.json"
+      },
+      {
+        "title": "[PRE IELTS] BREAK 3 - CHALLENGE 2",
+        "challengeId": 33780,
+        "classChallengeId": "84887",
+        "file": "raw/challenge-02-33780.json"
       }
     ],
     "lesson-06": [
@@ -244,6 +256,20 @@
         "challengeId": 33412,
         "classChallengeId": "84532",
         "file": "raw/challenge-02-33412.json"
+      }
+    ],
+    "lesson-16": [
+      {
+        "title": "[PRE IELTS] LESSON 16 - CHALLENGE 1",
+        "challengeId": 33777,
+        "classChallengeId": "84884",
+        "file": "raw/challenge-01-33777.json"
+      },
+      {
+        "title": "[PRE IELTS] LESSON 16 - CHALLENGE 2",
+        "challengeId": 33778,
+        "classChallengeId": "84885",
+        "file": "raw/challenge-02-33778.json"
       }
     ]
   }

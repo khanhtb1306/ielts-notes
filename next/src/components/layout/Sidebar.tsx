@@ -19,7 +19,7 @@ export function Sidebar({ className }: { className?: string }) {
     >
       <div className="pb-4 border-b border-border">
         <div className="font-bold text-lg tracking-tight">Pre-IELTS Notes</div>
-        <div className="text-xs text-muted-foreground">Đã học đến Lesson 15</div>
+        <div className="text-xs text-muted-foreground">Lesson 1–16 + Final</div>
       </div>
 
       <div className="relative">

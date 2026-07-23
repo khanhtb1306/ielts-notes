@@ -8,7 +8,7 @@ export function CoursePage() {
   return (
     <div className="space-y-6">
       <div className="rounded-2xl border border-border bg-gradient-to-br from-primary/10 via-card to-card p-6">
-        <div className="text-[11px] font-bold uppercase tracking-widest text-primary">Lesson 1–15</div>
+        <div className="text-[11px] font-bold uppercase tracking-widest text-primary">Lesson 1–16 + Final</div>
         <h2 className="mt-1 text-2xl font-bold">Course Map</h2>
         <p className="text-muted-foreground mt-1">{meta.courseIntro}</p>
       </div>

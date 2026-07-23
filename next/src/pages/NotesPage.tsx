@@ -1,4 +1,5 @@
-import { useMemo } from "react"
+import { useEffect, useMemo } from "react"
+import { useLocation } from "react-router-dom"
 import { useData } from "@/stores/data"
 import { useUi } from "@/stores/ui"
 import { DocSection } from "@/components/notes/DocSection"
@@ -18,6 +19,7 @@ const LABEL: Record<Props["type"], string> = {
 }
 
 export function NotesPage({ type }: Props) {
+  const location = useLocation()
   const { docs, notesAudio, ipa, meta } = useData()
   const search = useUi((s) => s.search).toLowerCase().trim()
 
@@ -35,11 +37,20 @@ export function NotesPage({ type }: Props) {
   const sub =
     type === "pronunciation" ? meta.pronSub : type === "grammar" ? meta.grammarSub : meta.speakingSub
 
+  useEffect(() => {
+    if (!location.hash) return
+    const id = decodeURIComponent(location.hash.slice(1))
+    const handle = window.setTimeout(() => {
+      document.getElementById(id)?.scrollIntoView({ behavior: "smooth", block: "start" })
+    }, 0)
+    return () => window.clearTimeout(handle)
+  }, [location.hash, filtered.length])
+
   return (
     <div className="space-y-6">
       <div className="rounded-2xl border border-border bg-gradient-to-br from-primary/10 via-card to-card p-6">
         <div className="text-[11px] font-bold uppercase tracking-widest text-primary">
-          {type === "pronunciation" ? "Lesson 1–5" : type === "grammar" ? "Up to Lesson 15" : "A1–A2 first"}
+          {type === "pronunciation" ? "Lesson 1–5" : type === "grammar" ? "Up to Final" : "A1–A2 first"}
         </div>
         <h2 className="mt-1 text-2xl font-bold">{LABEL[type]}</h2>
         {sub && <p className="text-muted-foreground mt-1">{sub}</p>}

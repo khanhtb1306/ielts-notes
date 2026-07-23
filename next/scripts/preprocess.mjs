@@ -23,6 +23,19 @@ const WEB = join(REPO_ROOT, "web")
 const ENRICH = join(WEB, "enrich")
 const DAILY_DIR = join(SRC, "daily")
 const OUT = join(NEXT_ROOT, "src", "data")
+const FINAL_PACKET_ROOT = join(REPO_ROOT, "final", "google-doc-pre-course")
+
+const FINAL_SHEET_META = {
+  "Lesson 7 - Job.docx": { topic: "Work and study", focus: "dream job, job likes/dislikes, family job" },
+  "Lesson 8 - Appearance.docx": { topic: "Appearance", focus: "age, height/build, hair, clothes" },
+  "Lesson 9 - Family.docx": { topic: "Family", focus: "family size, siblings, hobbies" },
+  "Lesson 10 - Personality.docx": { topic: "Personality", focus: "neat, organised, easy-going, sociable, generous" },
+  "Lesson 13 - Weekend.docx": { topic: "Free time / Hobbies", focus: "weekend, sports, films, books, music, games" },
+  "Lesson 14 - Trip.docx": { topic: "Travelling", focus: "past trip, future trip" },
+  "Lesson 16 - Restaurants.docx": { topic: "Restaurants", focus: "restaurant, order, taste, service" },
+  "Lesson 18 - Hometown.docx": { topic: "Hometown", focus: "where from, like/dislike, lakes/rivers/mountains" },
+  "Lesson 19 - Health.docx": { topic: "Health", focus: "healthy lifestyle, exercise, headache/toothache/cold" },
+}
 
 /* -------------------- Notes -------------------- */
 function parseFrontmatter(raw) {
@@ -66,6 +79,59 @@ function readJsonEnrich(name, fallback) {
 }
 function readJsonAt(p, fallback) {
   return existsSync(p) ? JSON.parse(readFileSync(p, "utf8")) : fallback
+}
+
+function normalizeFinalPacketMarkdown(raw) {
+  return String(raw || "")
+    .replace(/\]\(images\//g, "](/final/google-doc-pre-course/images/")
+    .replace(/\]\(suggested-vocab\//g, "](/final/google-doc-pre-course/suggested-vocab/")
+    .replace(/## Tổng hợp Suggested Vocab/g, "## Tổng hợp Speaking Topic Sheets")
+}
+
+function looseDocKey(s) {
+  return String(s || "")
+    .toLowerCase()
+    .replace(/[_]+/g, " ")
+    .replace(/\s+/g, " ")
+    .replace(/\s+\.docx$/i, ".docx")
+    .trim()
+}
+
+function loadFinalPacket() {
+  const packetFile = join(FINAL_PACKET_ROOT, "tong-hop-kien-thuc-khoa-pre.md")
+  const raw = existsSync(packetFile) ? readFileSync(packetFile, "utf8") : ""
+  const links = readJsonAt(join(FINAL_PACKET_ROOT, "links-manifest.json"), [])
+  const linkByDoc = new Map()
+  for (const item of links) {
+    if (item?.text && /\.docx$/i.test(item.text)) linkByDoc.set(looseDocKey(item.text), item.href)
+  }
+
+  const sheetsDir = join(FINAL_PACKET_ROOT, "suggested-vocab")
+  const files = existsSync(sheetsDir)
+    ? readdirSync(sheetsDir).filter((f) => /\.docx$/i.test(f)).sort((a, b) => {
+        const na = Number(a.match(/Lesson\s+(\d+)/i)?.[1] || 999)
+        const nb = Number(b.match(/Lesson\s+(\d+)/i)?.[1] || 999)
+        return na - nb || a.localeCompare(b)
+      })
+    : []
+
+  const speakingSheets = files.map((file) => {
+    const meta = FINAL_SHEET_META[file] || { topic: file.replace(/\.docx$/i, ""), focus: "Speaking topic sheet giáo viên gửi" }
+    return {
+      topic: meta.topic,
+      file,
+      localPath: `final/google-doc-pre-course/suggested-vocab/${file}`,
+      sourceHref: linkByDoc.get(looseDocKey(file)),
+      focus: meta.focus,
+    }
+  })
+
+  return {
+    title: "Ôn tập kiến thức khóa Pre-IELTS",
+    sourceFile: "final/google-doc-pre-course/tong-hop-kien-thuc-khoa-pre.md",
+    markdown: normalizeFinalPacketMarkdown(raw),
+    speakingSheets,
+  }
 }
 
 /* -------------------- HTML sanitization -------------------- */
@@ -220,11 +286,13 @@ function normalizeQuestion(q, rawById, audioMap, imageMap) {
   let pairs = null
   let bodyHtml = ""
 
-  const rawAnswers = raw?.answer?.answers
+  const rawAnswer = raw?.answer || null
+  const rawAnswers = rawAnswer?.answers
+  const rawQuestions = rawAnswer?.questions
 
   if (type == null) {
     kind = "info"
-  } else if (type === 3) {
+  } else if (type === 3 || (type === 4 && Array.isArray(rawAnswers) && rawAnswers.length)) {
     kind = "single_choice"
     if (Array.isArray(rawAnswers))
       options = rawAnswers.map((o) => ({
@@ -260,6 +328,18 @@ function normalizeQuestion(q, rawById, audioMap, imageMap) {
     if (blanks.length) userAnswer = blanks.map((b) => b.userAnswer)
     const rawTpl = (q.rawHtml && q.rawHtml.answerTemplate) || ""
     bodyHtml = injectBlankSlots(rewriteHtml(rawTpl, audioMap, imageMap))
+  } else if (type === 7 && Array.isArray(rawQuestions) && Array.isArray(rawAnswers)) {
+    kind = "matching"
+    pairs = rawQuestions.map((left, i) => {
+      const right = rawAnswers[i] || {}
+      return {
+        leftId: String(left.id ?? i),
+        left: stripHtml(left.content),
+        rightId: String(right.id ?? i),
+        right: stripHtml(right.content),
+      }
+    })
+    if (submission.userAnswer != null) userAnswer = submission.userAnswer
   } else if (type === 2) {
     kind = "open_or_video"
     if (typeof submission.userAnswer === "string") userAnswer = submission.userAnswer
@@ -494,13 +574,16 @@ function normalizeLesson(lessonKey, ctx) {
   }
 }
 function summarizeLesson(lessonData) {
+  const labelPrefix = lessonData.number != null ? `Lesson ${lessonData.number}` : lessonData.title || "Break / Ôn tập"
+  const labelDetail =
+    (lessonData.challenges || [])
+      .map((c) => c.note)
+      .filter(Boolean)
+      .join(" | ") || lessonData.title
   return {
     key: lessonData.key,
     number: lessonData.number,
-    label: `Lesson ${lessonData.number} · ${(lessonData.challenges || [])
-      .map((c) => c.note)
-      .filter(Boolean)
-      .join(" | ") || lessonData.title}`,
+    label: labelDetail && labelDetail !== labelPrefix ? `${labelPrefix} · ${labelDetail}` : labelPrefix,
     challenges: (lessonData.challenges || []).map((c) => ({
       number: c.number,
       title: c.title,
@@ -534,15 +617,17 @@ function main() {
     meta: readJsonEnrich("meta.json", {}),
     audio: readJsonEnrich("audio.json", []),
     ipa: readJsonEnrich("ipa.json", {}),
+    finalPacket: loadFinalPacket(),
   }
   emit(
     join(OUT, "notes.ts"),
     HEADER +
-      `import type { NoteDoc, NotesAudio, IpaData, MetaData } from "@/types/content"\n\n` +
+      `import type { NoteDoc, NotesAudio, IpaData, MetaData, FinalPacket } from "@/types/content"\n\n` +
       `export const docs: NoteDoc[] = ${JSON.stringify(notesData.docs, null, 2)} as unknown as NoteDoc[]\n\n` +
       `export const meta: MetaData = ${JSON.stringify(notesData.meta, null, 2)} as unknown as MetaData\n\n` +
       `export const notesAudio: NotesAudio[] = ${JSON.stringify(notesData.audio, null, 2)} as unknown as NotesAudio[]\n\n` +
-      `export const ipa: IpaData = ${JSON.stringify(notesData.ipa, null, 2)} as unknown as IpaData\n`
+      `export const ipa: IpaData = ${JSON.stringify(notesData.ipa, null, 2)} as unknown as IpaData\n\n` +
+      `export const finalPacket: FinalPacket = ${JSON.stringify(notesData.finalPacket, null, 2)} as unknown as FinalPacket\n`
   )
 
   // 2. Topics + daily

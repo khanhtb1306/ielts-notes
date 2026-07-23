@@ -1,6 +1,6 @@
 # IELTS Foundation Notes
 
-Web ôn tập Pre-IELTS (đã học đến Lesson 15). Mở `index.html` bằng Chrome/Edge chạy được **offline hoàn toàn** (kể cả `file://`).
+Web ôn tập Pre-IELTS (đã học đến Lesson 16). App active nằm trong `next/` (React + Vite); không mở trực tiếp bằng `file://` vì browser chặn ES module.
 
 ## Hai lớp nội dung
 
@@ -9,12 +9,12 @@ App có **6 mảng Notes cũ** + **3 mảng Daily mới**:
 | Route             | Mô tả |
 | ----------------- | ----- |
 | `stage`           | Current Stage — mục tiêu giai đoạn |
-| `course`          | Course Map — 15 lessons trên slide |
+| `course`          | Course Map — 16 lessons trên slide |
 | `pronunciation`   | Pronunciation Notes (Lesson 1–5) + IPA tương tác + hộp phát âm |
 | `grammar`         | Grammar Notes tổng hợp |
 | `speaking`        | Speaking Notes theo chủ đề |
 | `final`           | Final Review — checklist ôn tất cả trước thi |
-| **`daily`**       | **Daily · By Lesson** — 16 lessons (L1-15 + Break) đã normalize từ LangGo API, có tab Study / Exercises / Flashcard |
+| **`daily`**       | **Daily · By Lesson** — 17 daily sets (L1-16 + Break) đã normalize từ LangGo API, có tab Study / Exercises / Flashcard |
 | **`topics`**      | **Daily · By Topic** — gom content + câu hỏi xuyên suốt theo chủ đề (Grammar / Pronunciation / Vocabulary / Speaking), có `core / review / preview` |
 | **`practice`**    | **Final Practice** — generator chọn preset / tỷ lệ % topic → shuffle → làm interactive → chấm điểm + history |
 
@@ -36,7 +36,7 @@ source/
     │   ├── audio/manifest.json
     │   ├── images/*.png + manifest.json
     │   └── raw/challenge-XX-YYYYY.json  ← nguyên bản API để trích options
-    └── lesson-02/ ... lesson-15/ + lesson-misc/
+    └── lesson-02/ ... lesson-16/ + lesson-misc/
 
 web/
 ├── template.html    ← khung DOM
@@ -54,15 +54,25 @@ dist/                ← build output (gitignored)
 
 `build.mjs` gộp tất cả → `index.html` self-contained (nội tuyến CSS + notes data + daily index + topics index + presets + bundled JS 4 module).
 
-## Chạy
+## Chạy React App
 
 ```bash
-npm run build          # sinh index.html + dist/daily/*
-npm start              # build + http-server .:5173 (khuyến khích)
-npm run serve          # chỉ http-server, không build
+npm run dev            # Vite dev server tại http://127.0.0.1:5173
+npm run build          # build React app vào next/dist
+npm run preview        # preview build tại http://127.0.0.1:5174
 ```
 
-Mở `http://127.0.0.1:5173/index.html` (khuyến khích khi test audio & images), hoặc `index.html` trực tiếp qua `file://` (kém hơn 1 chút vì browser hạn chế cache/CORS nhưng lazy-load script tag vẫn chạy).
+Mở `http://127.0.0.1:5173/#/final` khi dev, hoặc `http://127.0.0.1:5174/#/final` sau khi chạy preview.
+
+## Legacy Vanilla
+
+Legacy app vẫn giữ để reference. Chỉ dùng khi cần rollback:
+
+```bash
+npm run legacy:build
+npm run legacy:start
+npm run legacy:serve
+```
 
 Sanity check JS syntax sau khi build:
 

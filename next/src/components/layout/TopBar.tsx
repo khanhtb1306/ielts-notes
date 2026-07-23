@@ -9,7 +9,7 @@ export function TopBar() {
   const nav = findNavForPath(location.pathname)
   const setMobileMenuOpen = useUi((s) => s.setMobileMenuOpen)
 
-  const eyebrow = nav?.eyebrow || "Pre-IELTS · up to Lesson 15"
+  const eyebrow = nav?.eyebrow || "Pre-IELTS · Lesson 1–16 + Final"
   const title = nav?.title || "Pre-IELTS Notes"
   const subtitle = nav?.subtitle || ""
 

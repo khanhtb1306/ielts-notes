@@ -181,6 +181,105 @@
       "imageRefs": []
     },
     {
+      "id": "assignment-90896",
+      "sourceId": 90896,
+      "challengeId": 33779,
+      "classChallengeId": "84886",
+      "type": "paragraph",
+      "title": null,
+      "text": "Exercise 1",
+      "rawHtml": "<p><span style=\"font-family: Nunito-Bold; font-size: 12pt;\">Exercise 1</span></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-90897",
+      "sourceId": 90897,
+      "challengeId": 33779,
+      "classChallengeId": "84886",
+      "type": "audio",
+      "title": null,
+      "text": "1.\n\nA: Bobby, would you like to go out for dinner Thursday?\n\nB: Thursday? Oh, I'd love to, but I have to meet my sister for dinner.\n\nA: Oh, well, some other time, then.\n\nB: Sure.\n\n2.\n\nA: Melissa, would you like to see a movie on Saturday?\n\nB: That sounds great. What time?\n\nA: At 9:30?\n\nB: All right.\n\n3.\n\nA: Hey, Jack, let's go for coffee after class on Monday.\n\nB: Oh, sorry. I have to go downtown. I have an appointment.\n\nA: Oh, okay.\n\n4.\n\nA: Betty, do you want to come over to my house for dinner Wednesday?\n\nB: Thanks. I'd love to. What time?\n\nA: Around 6:30.\n\nB: Okay. See you then.\n\n5.\n\nA: Hey, Ralph, let's play tennis on Sunday afternoon.\n\nB: Sunday afternoon? I can't. I'm going away for the weekend. Maybe some other time?\n\nA: Sure.\n\n6.\n\nA: Say, Jill. I'm going shopping Friday night. I need a new dress. Want to come?\n\nB: Friday night? Okay, I'm not doing anything special.\n\nA: Good. Let's go after work.\n\nB: Fine.\n\n |\n\n1.\n\nA: Bobby, bạn có muốn ra ngoài ăn tối vào thứ Năm không?\n\nB: Thứ năm? Ồ, tôi rất muốn, nhưng tôi phải gặp em gái tôi để ăn tối.\n\nA: Ồ, vậy thì, lúc khác.\n\nB: Oki.\n\n2.\n\nA: Melissa, bạn có muốn xem một bộ phim vào thứ Bảy không?\n\nB: Nghe hay đấy. Mấy giờ?\n\nA: Lúc 9:30?\n\nB: Được nha.\n\n3.\n\nA: Này, Jack, chúng ta hãy đi uống cà phê sau giờ học vào thứ Hai.\n\nB: Ồ, xin lỗi. Tôi phải đến trung tâm thành phố. Tôi có một cuộc hẹn.\n\nA: Ồ, được rồi.\n\n4.\n\nA: Betty, bạn có muốn đến nhà tôi ăn tối vào thứ Tư không?\n\nB: Cảm ơn. Tôi rất thích. Mấy giờ?\n\nA: Khoảng 6:30.\n\nB: Được rồi. Gặp bạn sau.\n\n5.\n\nA: Này, Ralph, hãy chơi tennis vào chiều Chủ nhật.\n\nB: Chiều chủ nhật? Tôi không thể. Tôi sẽ đi xa vào cuối tuần. Có lẽ lúc khác?\n\nA: Chắc chắn rồi.\n\n6.\n\nA: Jill, Tôi sẽ đi mua sắm vào tối thứ Sáu. Tôi cần một chiếc váy mới. Bạn đi cùng không?\n\nB: Tối thứ sáu? Được rồi, tôi  không phải làm gì.\n\nA: Tốt quá.  Vậy sau giờ làm việc mình cùng đi nha\n\nB: Oke.\n\n |",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715675611.mp3",
+          "localFile": "audio/daily/lesson-misc/33779-1-1715675611.mp3",
+          "script": "1. A: Bobby, would you like to go out for dinner Thursday? B: Thursday? Oh, I'd love to, but I have to meet my sister for dinner. A: Oh, well, some other time, then. B: Sure. 2. A: Melissa, would you like to see a movie on Saturday? B: That sounds great. What time? A: At 9:30? B: All right. 3. A: Hey, Jack, let's go for coffee after class on Monday. B: Oh, sorry. I have to go downtown. I have an appointment. A: Oh, okay. 4. A: Betty, do you want to come over to my house for dinner Wednesday? B: Thanks. I'd love to. What time? A: Around 6:30. B: Okay. See you then. 5. A: Hey, Ralph, let's play tennis on Sunday afternoon. B: Sunday afternoon? I can't. I'm going away for the weekend. Maybe some other time? A: Sure. 6. A: Say, Jill. I'm going shopping Friday night. I need a new dress. Want to come? B: Friday night? Okay, I'm not doing anything special. A: Good. Let's go after work. B: Fine. | 1. A: Bobby, bạn có muốn ra ngoài ăn tối vào thứ Năm không? B: Thứ năm? Ồ, tôi rất muốn, nhưng tôi phải gặp em gái tôi để ăn tối. A: Ồ, vậy thì, lúc khác. B: Oki. 2. A: Melissa, bạn có muốn xem một bộ phim vào thứ Bảy không? B: Nghe hay đấy. Mấy giờ? A: Lúc 9:30? B: Được nha. 3. A: Này, Jack, chúng ta hãy đi uống cà phê sau giờ học vào thứ Hai. B: Ồ, xin lỗi. Tôi phải đến trung tâm thành phố. Tôi có một cuộc hẹn. A: Ồ, được rồi. 4. A: Betty, bạn có muốn đến nhà tôi ăn tối vào thứ Tư không? B: Cảm ơn. Tôi rất thích. Mấy giờ? A: Khoảng 6:30. B: Được rồi. Gặp bạn sau. 5. A: Này, Ralph, hãy chơi tennis vào chiều Chủ nhật. B: Chiều chủ nhật? Tôi không thể. Tôi sẽ đi xa vào cuối tuần. Có lẽ lúc khác? A: Chắc chắn rồi. 6. A: Jill, Tôi sẽ đi mua sắm vào tối thứ Sáu. Tôi cần một chiếc váy mới. Bạn đi cùng không? B: Tối thứ sáu? Được rồi, tôi không phải làm gì. A: Tốt quá. Vậy sau giờ làm việc mình cùng đi nha B: Oke",
+          "source": "audio_url"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-90898",
+      "sourceId": 90898,
+      "challengeId": 33779,
+      "classChallengeId": "84886",
+      "type": "paragraph",
+      "title": null,
+      "text": "Exercise 2",
+      "rawHtml": "<p><span style=\"font-family: Nunito-Bold; font-size: 16px;\">Exercise 2</span></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-90899",
+      "sourceId": 90899,
+      "challengeId": 33779,
+      "classChallengeId": "84886",
+      "type": "audio",
+      "title": null,
+      "text": "1.\n\nA: Did you have a nice vacation?\n\nB: It was nothing special. The weather was terrible.\n\nA: That's too bad.\n\n2.\n\nA: Did you enjoy your trip to Vancouver?\n\nB: Yeah, it was fantastic. The people are so nice.\n\n3.\n\nA: How was your ski trip?\n\nB: Awful.\n\nA: Why?\n\nB: There was no snow!\n\n4.\n\nA: So how was your trip to France?\n\nB: Very disappointing. It was so crowded everywhere. We couldn't even get a hotel room.\n\nA: That's too bad. You should never go in July.\n\nB: Now you tell me!\n\n5.\n\nA: When did you get back from the beach?\n\nB: Last weekend. I had a terrific time. I swam every day and I learned how to windsurf.\n\nA: Great!\n\n6.\n\nA: Did you have a nice vacation?\n\nB: It was terrible. The food was awful. And the hotel wasn't clean at all.\n\nA: Oh, that's too bad.\n\n7.\n\nA: So how was your trip to Thailand?\n\nB: I had a wonderful time. The shopping was fantastic. And the people were great.\n\nA: Sounds like you had fun.\n\nB: I did.\n\n8.\n\nA: Did you have a great vacation?\n\nB: Really great! But it was too short.\n\nA: Really. How long was it?\n\nB: Only a month.\n\nA: A month! You're lucky!\n\n |\n\n1.\n\nA: Bạn đã có một kỳ nghỉ vui vẻ chứ?\n\nB: Nó không có gì đặc biệt. Thời tiết rất kinh khủng.\n\nA: Hic.\n\n2.\n\nA: Bạn có thích chuyến đi đến Vancouver của mình không?\n\nB: Có, nó thật tuyệt vời. Mọi người rất tốt bụng.\n\n3.\n\nA: Chuyến đi trượt tuyết của bạn thế nào?\n\nB: Kinh khủng.\n\nA: Tại sao?\n\nB: Không có tuyết!\n\n4.\n\nA: Vậy chuyến đi của bạn đến Pháp như thế nào?\n\nB: Rất thất vọng.  Chỗ nào cũng rất đông đúc. Chúng tôi thậm chí không thể tìm được một phòng khách sạn.\n\nA: Điều đó quá tệ. Bạn không bao giờ nên đi vào tháng Bảy.\n\nB: Giờ mới biết ý!\n\n5.\n\nA: Bạn đi biển về khi nào thế?\n\nB: Cuối tuần trước. Tôi đã có một khoảng thời gian tuyệt vời. Tôi đã bơi mỗi ngày và tôi đã học cách lướt ván buồm.\n\nA: Thích nhỉ!\n\n6.\n\nA: Bạn đã có một kỳ nghỉ vui vẻ chứ?\n\nB: Thật là khủng khiếp. Thức ăn thật tệ. Và khách sạn không sạch sẽ chút nào.\n\nA: Ồ, tệ quá.\n\n7.\n\nA: Vậy chuyến đi của bạn đến Thái Lan như thế nào?\n\nB: Tôi đã có một khoảng thời gian tuyệt vời. Việc mua sắm thật tuyệt vời. Và mọi người thật tuyệt.\n\nA: Có vẻ như bạn đã rất vui.\n\nB:  Đúng vậy đó.\n\n 8.\n\nA: Bạn đã có một kỳ nghỉ tuyệt vời chứ ?\n\nB: Thực sự tuyệt vời! Nhưng nó quá ngắn.\n\nA: Thật sao. Nó dài bao lâu?\n\nB: Chỉ một tháng.\n\nA: Một tháng! Bạn thật may mắn!\n\n |",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715675758.mp3",
+          "localFile": "audio/daily/lesson-misc/33779-2-1715675758.mp3",
+          "script": "1. A: Did you have a nice vacation? B: It was nothing special. The weather was terrible. A: That's too bad. 2. A: Did you enjoy your trip to Vancouver? B: Yeah, it was fantastic. The people are so nice. 3. A: How was your ski trip? B: Awful. A: Why? B: There was no snow! 4. A: So how was your trip to France? B: Very disappointing. It was so crowded everywhere. We couldn't even get a hotel room. A: That's too bad. You should never go in July. B: Now you tell me! 5. A: When did you get back from the beach? B: Last weekend. I had a terrific time. I swam every day and I learned how to windsurf. A: Great! 6. A: Did you have a nice vacation? B: It was terrible. The food was awful. And the hotel wasn't clean at all. A: Oh, that's too bad. 7. A: So how was your trip to Thailand? B: I had a wonderful time. The shopping was fantastic. And the people were great. A: Sounds like you had fun. B: I did. 8. A: Did you have a great vacation? B: Really great! But it was too short. A: Really. How long was it? B: Only a month. A: A month! You're lucky! | 1. A: Bạn đã có một kỳ nghỉ vui vẻ chứ? B: Nó không có gì đặc biệt. Thời tiết rất kinh khủng. A: Hic. 2. A: Bạn có thích chuyến đi đến Vancouver của mình không? B: Có, nó thật tuyệt vời. Mọi người rất tốt bụng. 3. A: Chuyến đi trượt tuyết của bạn thế nào? B: Kinh khủng. A: Tại sao? B: Không có tuyết! 4. A: Vậy chuyến đi của bạn đến Pháp như thế nào? B: Rất thất vọng. Chỗ nào cũng rất đông đúc. Chúng tôi thậm chí không thể tìm được một phòng khách sạn. A: Điều đó quá tệ. Bạn không bao giờ nên đi vào tháng Bảy. B: Giờ mới biết ý! 5. A: Bạn đi biển về khi nào thế? B: Cuối tuần trước. Tôi đã có một khoảng thời gian tuyệt vời. Tôi đã bơi mỗi ngày và tôi đã học cách lướt ván buồm. A: Thích nhỉ! 6. A: Bạn đã có một kỳ nghỉ vui vẻ chứ? B: Thật là khủng khiếp. Thức ăn thật tệ. Và khách sạn không sạch sẽ chút nào. A: Ồ, tệ quá. 7. A: Vậy chuyến đi của bạn đến Thái Lan như thế nào? B: Tôi đã có một khoảng thời gian tuyệt vời. Việc mua sắm thật tuyệt vời. Và mọi người thật tuyệt. A: Có vẻ như bạn đã rất vui. B: Đúng vậy đó. 8. A: Bạn đã có một kỳ nghỉ tuyệt vời chứ ? B: Thực sự tuyệt vời! Nhưng nó quá ngắn. A: Thật sao. Nó dài bao lâu? B: Chỉ một tháng. A: Một tháng! Bạn thật may mắn!",
+          "source": "audio_url"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-90900",
+      "sourceId": 90900,
+      "challengeId": 33779,
+      "classChallengeId": "84886",
+      "type": "paragraph",
+      "title": null,
+      "text": "Exercise 3",
+      "rawHtml": "<p><span style=\"font-family: Nunito-Bold; font-size: 16px;\">Exercise 3</span></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-90901",
+      "sourceId": 90901,
+      "challengeId": 33779,
+      "classChallengeId": "84886",
+      "type": "audio",
+      "title": null,
+      "text": "Conversation 1\n\nMan: What do you do on the weekend?\n\nWoman: I usually stay home, but sometimes I go out.\n\nMan: Oh, where do you go?\n\nWoman: Sometimes I go to the beach. Sometimes I go to the park.\n\nMan: I often go there too. Do you ever go to the lake?\n\nWoman: No, very rarely. It is too far from my house.\n\n |\n\nHội thoại 1\n\nNam: Bạn thường làm gì vào cuối tuần?\n\nNữ: Tôi thường ở nhà, nhưng thỉnh thoảng tôi ra ngoài.\n\nNam: Ồ, bạn đi đâu?\n\nNữ: Thỉnh thoảng tôi đi biển. Thỉnh thoảng tôi đi đến công viên.\n\nNam: Tôi cũng thường đến đó. Bạn có bao giờ đến hồ không?\n\nNữ: Không, rất hiếm khi. Nó quá xa so với nhà tôi.\n\n |\n\nConversation 2\n\nMan: What do you usually have for dinner?\n\nWoman: I try to eat healthy, so I usually cook vegetables.\n\nMan: Really. What kind of stuff do you make?\n\nWoman: Sometimes I make soups. Sometimes I make stir-fry.\n\nMan: Stir-fry! That\"s not very healthy.\n\nWoman: I know, but don't eat it often.\n\n |\n\nHội thoại 2\n\nNam: Bạn thường ăn gì vào bữa tối?\n\nNữ: Tôi cố gắng để ăn uống tốt cho sức khoẻ, vì thế nên tôi thường nấu món rau.\n\nNam: Vậy ư? Bạn nấu món gì?\n\nNữ: Thỉnh thoảng tôi nấu súp. Thỉnh thoảng tôi xào rau.\n\nNam: Xào rau! Nghe không tốt cho sức khoẻ lắm.\n\nNữ: Tôi biết, nhưng tôi không thường xuyên ăn.\n\n |\n\nConversation 3\n\nWoman: Do you take the bus to work?\n\nMan: No, I never take the bus. I always drive.\n\nWoman: Yeah, it's so much easier to drive.\n\nMan: Do you drive to work?\n\nWoman: Actually, I rarely drive. I usually walk to work. I live near the office.\n\nMan: Lucky you!\n\n |\n\nHội thoại 3\n\nNữ: Bạn có bắt xe buýt đi làm không?\n\nNam: Không, tôi không bao giờ đi xe buýt. Tôi luôn lái xe.\n\nNữ: Yeah, lái xe dễ dàng hơn nhiều.\n\nNam: Bạn có lái xe đi làm không?\n\nNữ: Thực ra, tôi hiếm khi lái xe. Tôi thường đi bộ tới chỗ làm. Tôi sống gần văn phòng.\n\nNam: Bạn may mắn thế!\n\n |\n\nConversation 4\n\nMan: Do you ever go to the movies?\n\nWoman: I rarely do. It is too expensive. Do you?\n\nMan: No, not often. I usually rent DVDs.\n\nWoman: Really. I never do that. I usually stream movies.\n\nMan: Nice. Do you have fast Internet?\n\nWoman: Yeah, usually it is fast, but sometimes it's slow.\n\n |\n\nHội thoại 4\n\nNam: Bạn có bao giờ đi xem phim không?\n\nNữ: Tôi hiếm khi. Nó quá đắt. Bạn có đi không?\n\nNam: Không, không thường xuyên. Tôi thường thuê đĩa DVD.\n\nNữ: Vậy ư? Tôi chưa từng làm vậy. Tôi thường xem phim trực tuyến.\n\nNam: Tuyệt. Bạn có kết nối mạng nhanh chứ?\n\nNữ: Yeah: thường thì nó nhanh, nhưng thỉnh thoảng nó chậm.\n\n |",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715676075.mp3",
+          "localFile": "audio/daily/lesson-misc/33779-3-1715676075.mp3",
+          "script": "Conversation 1 Man: What do you do on the weekend? Woman: I usually stay home, but sometimes I go out. Man: Oh, where do you go? Woman: Sometimes I go to the beach. Sometimes I go to the park. Man: I often go there too. Do you ever go to the lake? Woman: No, very rarely. It is too far from my house. | Hội thoại 1 Nam: Bạn thường làm gì vào cuối tuần? Nữ: Tôi thường ở nhà, nhưng thỉnh thoảng tôi ra ngoài. Nam: Ồ, bạn đi đâu? Nữ: Thỉnh thoảng tôi đi biển. Thỉnh thoảng tôi đi đến công viên. Nam: Tôi cũng thường đến đó. Bạn có bao giờ đến hồ không? Nữ: Không, rất hiếm khi. Nó quá xa so với nhà tôi. | Conversation 2 Man: What do you usually have for dinner? Woman: I try to eat healthy, so I usually cook vegetables. Man: Really. What kind of stuff do you make? Woman: Sometimes I make soups. Sometimes I make stir-fry. Man: Stir-fry! That\"s not very healthy. Woman: I know, but don't eat it often. | Hội thoại 2 Nam: Bạn thường ăn gì vào bữa tối? Nữ: Tôi cố gắng để ăn uống tốt cho sức khoẻ, vì thế nên tôi thường nấu món rau. Nam: Vậy ư? Bạn nấu món gì? Nữ: Thỉnh thoảng tôi nấu súp. Thỉnh thoảng tôi xào rau. Nam: Xào rau! Nghe không tốt cho sức khoẻ lắm. Nữ: Tôi biết, nhưng tôi không thường xuyên ăn. | Conversation 3 Woman: Do you take the bus to work? Man: No, I never take the bus. I always drive. Woman: Yeah, it's so much easier to drive. Man: Do you drive to work? Woman: Actually, I rarely drive. I usually walk to work. I live near the office. Man: Lucky you! | Hội thoại 3 Nữ: Bạn có bắt xe buýt đi làm không? Nam: Không, tôi không bao giờ đi xe buýt. Tôi luôn lái xe. Nữ: Yeah, lái xe dễ dàng hơn nhiều. Nam: Bạn có lái xe đi làm không? Nữ: Thực ra, tôi hiếm khi lái xe. Tôi thường đi bộ tới chỗ làm. Tôi sống gần văn phòng. Nam: Bạn may mắn thế! | Conversation 4 Man: Do you ever go to the movies? Woman: I rarely do. It is too expensive. Do you? Man: No, not often. I usually rent DVDs. Woman: Really. I never do that. I usually stream movies. Man: Nice. Do you have fast Internet? Woman: Yeah, usually it is fast, but sometimes it's slow. | Hội thoại 4 Nam: Bạn có bao giờ đi xem phim không? Nữ: Tôi hiếm khi. Nó quá đắt. Bạn có đi không? Nam: Không, không thường xuyên. Tôi thường thuê đĩa DVD. Nữ: Vậy ư? Tôi chưa từng làm vậy. Tôi thường xem phim trực tuyến. Nam: Tuyệt. Bạn có kết nối mạng nhanh chứ? Nữ: Yeah: thường thì nó nhanh, nhưng thỉnh thoảng nó chậm",
+          "source": "audio_url"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
       "id": "assignment-79601",
       "sourceId": 79601,
       "challengeId": 29473,
@@ -636,6 +735,138 @@
           "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715846174.mp3",
           "localFile": "audio/daily/lesson-misc/31678-5-1715846174.mp3",
           "script": "1. So when you come out of the subway, look for a tall glass building. That's a hotel. Walk past that for two blocks and you'll see a small street on the right. That's my street. There's a grocery store on the corner. Go down the street and my place is the fourth house on the left. Maybe bring some CDs with you, because I don't have any dance music for the party. Khi bạn bước ra khỏi tàu điện ngầm, hãy tìm một tòa nhà cao bằng kính. Đó là một khách sạn. Đi bộ qua đó hai dãy nhà và bạn sẽ thấy một con phố nhỏ ở bên phải. Đó là đường chỗ nhà tôi. Có một cửa hàng tạp hóa ở góc phố. Đi xuống phố và nhà tôi là ngôi nhà thứ tư bên trái. Có thể mang theo một số đĩa CD vì tôi không có nhạc dance cho bữa tiệc. 2. My place is fairly easy to find. Get off the bus across from the supermarket. When you get to the supermarket, could you pick up some snacks? Then walk north for two blocks. You'll see a footbridge. Cross that footbridge and you'll see a small street when you get to the other side. Go down the street, and on the corner you'll see an apartment building. That's my place. Nhà của tôi khá dễ tìm. Xuống xe buýt đối diện với siêu thị. Khi bạn đến siêu thị, bạn có thể mua ít đồ ăn nhẹ được không? Sau đó đi bộ về phía bắc hai dãy nhà. Bạn sẽ thấy một cầu đi bộ. Băng qua cầu đi bộ đó và bạn sẽ thấy một con phố nhỏ khi sang phía bên kia. Đi xuống phố và ở góc bạn sẽ thấy một tòa nhà chung cư. Đó là chỗ của tôi. 3. My apartment building is near the river. When you come out of the subway, walk towards the river and you'll see an intersection. Go through the intersection and take the first street on the left. Go down the street until you see a supermarket. My house is right next to it. If you can, could you bring some fruit to go with dinner? Khu chung cư của tôi gần sông. Khi bạn ra khỏi tàu điện ngầm, đi bộ về phía sông và bạn sẽ thấy một ngã tư. Đi qua giao lộ và đi theo con đường đầu tiên bên trái. Đi xuống phố cho đến khi bạn nhìn thấy một siêu thị. Nhà tôi ở ngay bên cạnh. Nếu được, bạn có thể mang một ít trái cây để đi ăn tối được không? 4. I live in an apartment building close to the high school. Get off the bus across from the school and walk north for about four blocks. You'll see a gas station on your left. Turn right just past the gas station and go down the street until you see a church. My building is across from the church. Don't forget to bring your tennis racket. Tôi sống trong một khu chung cư gần trường trung học. Xuống xe buýt đối diện trường và đi bộ về phía bắc khoảng bốn dãy nhà. Bạn sẽ thấy một trạm xăng ở bên trái của mình. Rẽ phải ngay qua trạm xăng và đi xuống đường cho đến khi bạn nhìn thấy một nhà thờ. Tòa nhà của tôi nằm đối diện với nhà thờ. Đừng quên mang theo vợt tennis của bạn nha",
+          "source": "audio_url"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-90902",
+      "sourceId": 90902,
+      "challengeId": 33780,
+      "classChallengeId": "84887",
+      "type": "paragraph",
+      "title": null,
+      "text": "Exercise 1",
+      "rawHtml": "<p><span style=\"font-family: Nunito-Bold; font-size: 12pt;\">Exercise 1</span></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-90903",
+      "sourceId": 90903,
+      "challengeId": 33780,
+      "classChallengeId": "84887",
+      "type": "audio",
+      "title": null,
+      "text": "1.\n\nLet's see. Soup. That's two for a dollar. And a bottle of shampoo-$6.50. So that comes to $7.50 and your change is $12.50.\n\nĐể xem nào. Súp, 2 suất cho $1. Và một chai dầu gội đầu - $6.50. Vậy là tổng $7.50 và tiền thừa của bạn là $12.50.\n\n2.\n\nOkay, now-let me see what you've got. The CD is $14.95, and the cassette-oh, a good one, my favorite group-it's on sale for $4.95. So, let me see.... That comes to $19.90. So here's your change, ten cents.\n\nOkay, nào để xem bạn có những gì nào. Đĩa CD là $14.95, và băng cát xét - ồ, băng tốt đó, nhóm yêu thích của tôi - nó được giảm giá còn $4.95. Vậy, để tôi xem nào... Tổng là $19.90. Vậy đây là tiền thừa của bạn, 10 cents.\n\n3.\n\nYes, can I help you? Okay. Let's see. The newspapers are $1.50, and the magazines will cost another...$8.15. Yes, so that's, let me see, $9.65, right? Here's your change, $10.35.\n\nVâng, tôi có thể giúp gì cho bạn? Okay. Để xem nào. Tờ báo là $1.50, và tạp chí thì sẽ là giá khác... $8.15. Vâng, vậy là, để tôi xem nào, $9.65 đúng không? Tiền thừa của bạn đây, $10.35.\n\n4.\n\nSo you're taking the T-shirt-nice choice. The color suits you. Okay, that's $4.95, then the socks. They're another $3.20, so that's $8.15, and here's your change, $11.85.\n\nVậy bạn sẽ lấy áo phông - một sự lựa chọn tốt đấy. Màu này hợp với bạn. Okay, vậy là $4.95, và thêm đôi tất nữa. Thêm $3.20 nữa, nên tổng là $8.15, và đây là tiền thừa của bạn, $11.85.\n\n5.\n\nMmm, I like chocolates, too. Okay, that's $9.50 for the chocolates. And chocolate chip cookies, too. Mmm. You really do like chocolate. The cookies are $2.99. So that's $12.49. And here's your change, $7.51.\n\nMmm, tôi cũng thích socola. Okay, vậy là $9.50 cho sô cô la. Và bánh quy socola nữa. Mmm, bạn đúng là rất thích socola. Bánh quy có giá là $2.99. Vậy tổng là $12.49. Và đây là tiền thừa của bạn, $7.51.\n\n6.\n\nIs this all? Okay. Let's see. Now the magazines are $6.25. And you're taking the book? That's $12.00. So that comes to $18.25 altogether. And here's your change. That's a dollar seventy-five.\n\nĐây là tất cả đúng không? Okay, để xem nào. Tạp chí là $6.25. Và bạn cũng lấy cả cuốn sách nữa? Nó có giá $12.00. Nên tổng là $18.25 tất cả. Và đây là tiền thừa của bạn, $1.75.",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715677718.mp3",
+          "localFile": "audio/daily/lesson-misc/33780-1-1715677718.mp3",
+          "script": "1. Let's see. Soup. That's two for a dollar. And a bottle of shampoo-$6.50. So that comes to $7.50 and your change is $12.50. Để xem nào. Súp, 2 suất cho $1. Và một chai dầu gội đầu - $6.50. Vậy là tổng $7.50 và tiền thừa của bạn là $12.50. 2. Okay, now-let me see what you've got. The CD is $14.95, and the cassette-oh, a good one, my favorite group-it's on sale for $4.95. So, let me see.... That comes to $19.90. So here's your change, ten cents. Okay, nào để xem bạn có những gì nào. Đĩa CD là $14.95, và băng cát xét - ồ, băng tốt đó, nhóm yêu thích của tôi - nó được giảm giá còn $4.95. Vậy, để tôi xem nào... Tổng là $19.90. Vậy đây là tiền thừa của bạn, 10 cents. 3. Yes, can I help you? Okay. Let's see. The newspapers are $1.50, and the magazines will cost another...$8.15. Yes, so that's, let me see, $9.65, right? Here's your change, $10.35. Vâng, tôi có thể giúp gì cho bạn? Okay. Để xem nào. Tờ báo là $1.50, và tạp chí thì sẽ là giá khác... $8.15. Vâng, vậy là, để tôi xem nào, $9.65 đúng không? Tiền thừa của bạn đây, $10.35. 4. So you're taking the T-shirt-nice choice. The color suits you. Okay, that's $4.95, then the socks. They're another $3.20, so that's $8.15, and here's your change, $11.85. Vậy bạn sẽ lấy áo phông - một sự lựa chọn tốt đấy. Màu này hợp với bạn. Okay, vậy là $4.95, và thêm đôi tất nữa. Thêm $3.20 nữa, nên tổng là $8.15, và đây là tiền thừa của bạn, $11.85. 5. Mmm, I like chocolates, too. Okay, that's $9.50 for the chocolates. And chocolate chip cookies, too. Mmm. You really do like chocolate. The cookies are $2.99. So that's $12.49. And here's your change, $7.51. Mmm, tôi cũng thích socola. Okay, vậy là $9.50 cho sô cô la. Và bánh quy socola nữa. Mmm, bạn đúng là rất thích socola. Bánh quy có giá là $2.99. Vậy tổng là $12.49. Và đây là tiền thừa của bạn, $7.51. 6. Is this all? Okay. Let's see. Now the magazines are $6.25. And you're taking the book? That's $12.00. So that comes to $18.25 altogether. And here's your change. That's a dollar seventy-five. Đây là tất cả đúng không? Okay, để xem nào. Tạp chí là $6.25. Và bạn cũng lấy cả cuốn sách nữa? Nó có giá $12.00. Nên tổng là $18.25 tất cả. Và đây là tiền thừa của bạn, $1.75",
+          "source": "audio_url"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-90904",
+      "sourceId": 90904,
+      "challengeId": 33780,
+      "classChallengeId": "84887",
+      "type": "paragraph",
+      "title": null,
+      "text": "Exercise 2",
+      "rawHtml": "<p><span style=\"font-family: Nunito-Bold; font-size: 16px;\">Exercise 2</span></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-90905",
+      "sourceId": 90905,
+      "challengeId": 33780,
+      "classChallengeId": "84887",
+      "type": "audio",
+      "title": null,
+      "text": "1.\n\nI could never buy a car at home because we pay a very high tax on cars. Only rich people can really afford to buy a car at home. Here in the U.S., I drive a nice new car and I can easily afford it. You don't have to be rich to own a car, which is great.\n\nỞ đất nước tôi, tôi không thể nào mua được một chiếc xe ô tô vì chúng tôi phải trả thuế rất cao cho ô tô. Ở nước tôi thì chỉ có những người giàu mới có thể mua được một chiếc ô tô. Ở đây, ở Mỹ, tôi lái một chiếc xe mới, đẹp và tôi dễ dàng có thể mua nó. Bạn không cần phải giàu để có thể sở hữu một chiếc xe, điều đó thật tuyệt.\n\n2.\n\nAt home it only costs about $200 a month to rent a nice apartment. That's what I used to pay for a four-room apartment in a good neighborhood. Here in the U.S., I pay about twice that for a much smaller apartment, and it's not in a very nice neighborhood.\n\nỞ đất nước tôi, chỉ tốn $200 một tháng để thuê một căn hộ đẹp. Đó là giá tôi đã từng trả cho một căn hộ 4 phòng ở một khu cư tốt. Ở đây, ở Mỹ, tôi phải trả gấp đôi cho một căn hộ nhỏ hơn rất nhiều, và khu dân cư cũng không tốt bằng.\n\n3.\n\nI bought a lot of clothes in my country before I moved to the U.S. because everyone told me how expensive American clothing is. I was kind of surprised that I could get nice clothes here for very reasonable prices. In fact, it costs me less for clothes here than it used to cost me at home.\n\nTôi mua rất nhiều quần áo ở nước tôi trước khi tôi chuyển đến Mỹ vì mọi người có nói với tôi về việc quần áo ở Mỹ đắt đến mức nào. Tôi đã khá ngạc nhiên vì tôi có thể mua được quần áo đẹp ở đây với giá cả vừa phải. Thực ra, nó tốn ít tiền hơn khi mua quần áo ở đây so với lúc tôi mua ở quê nhà.\n\n4.\n\nI come from a small country and not a lot of people travel by plane because it costs more than most people can afford. But the U.S. is such a big country and the population is large, so you have a lot of people traveling by plane. That's what keeps the prices down. That means I can afford to fly here and I do it all the time. I couldn't do that at home.\n\nTôi đến từ một đất nước nhỏ và không có nhiều người đi lại, di chuyển bằng máy bay vì nó tốn nhiều hơn so với hầu hết mọi người có thể chi trả. Nhưng Mỹ là một quốc gia lớn và dân số đông, vì thế có nhiều người di chuyển bằng máy bay. Đó là điều khiến cho chi phí thấp hơn. Nghĩa là tôi có thể bay ở đây và tôi làm thế suốt. Tôi không thể làm điều đó ở quê nhà.\n\n5.\n\nMost people send their children to private schools at home because the public schools are not very good. You have to pay a lot to do that, so it's a big expense for many people. Public schools are better here, and cheaper than in my country. People don't have to spend a lot on tuition, so most people send their children to public schools.\n\nNhiều người gửi con cho trường tư thục ở quê nhà tôi vì trường công không được tốt lắm. Bạn phải chi trả rất nhiều cho việc đó, nên đó là một khoản chi lớn đối với nhiều người. Trường công ở đây tốt hơn, và rẻ hơn so với đất nước tôi. Mọi người không phải trả quá nhiều cho học phí, nên hầu hết mọi người gửi con ở các trường công.\n\n6.\n\nHere in the U.S., you need to have health insurance because it costs a lot to see a doctor or to enter a hospital. At home, you don't have to pay much to see a doctor or go to a hospital because most of the clinics and hospitals are run by the government.\n\nỞ đây, ở Mỹ, bạn cần có bảo hiểm sức khỏe vì sẽ tốn rất nhiều tiền để đi gặp bác sĩ hoặc đến bệnh viện. Ở quê nhà, bạn không cần phải trả nhiều tiền để đi gặp bác sĩ hoặc đến bệnh viện vì hầu hết các phòng khám và bệnh viện là thuộc chính phủ.",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715677771.mp3",
+          "localFile": "audio/daily/lesson-misc/33780-2-1715677771.mp3",
+          "script": "1. I could never buy a car at home because we pay a very high tax on cars. Only rich people can really afford to buy a car at home. Here in the U.S., I drive a nice new car and I can easily afford it. You don't have to be rich to own a car, which is great. Ở đất nước tôi, tôi không thể nào mua được một chiếc xe ô tô vì chúng tôi phải trả thuế rất cao cho ô tô. Ở nước tôi thì chỉ có những người giàu mới có thể mua được một chiếc ô tô. Ở đây, ở Mỹ, tôi lái một chiếc xe mới, đẹp và tôi dễ dàng có thể mua nó. Bạn không cần phải giàu để có thể sở hữu một chiếc xe, điều đó thật tuyệt. 2. At home it only costs about $200 a month to rent a nice apartment. That's what I used to pay for a four-room apartment in a good neighborhood. Here in the U.S., I pay about twice that for a much smaller apartment, and it's not in a very nice neighborhood. Ở đất nước tôi, chỉ tốn $200 một tháng để thuê một căn hộ đẹp. Đó là giá tôi đã từng trả cho một căn hộ 4 phòng ở một khu cư tốt. Ở đây, ở Mỹ, tôi phải trả gấp đôi cho một căn hộ nhỏ hơn rất nhiều, và khu dân cư cũng không tốt bằng. 3. I bought a lot of clothes in my country before I moved to the U.S. because everyone told me how expensive American clothing is. I was kind of surprised that I could get nice clothes here for very reasonable prices. In fact, it costs me less for clothes here than it used to cost me at home. Tôi mua rất nhiều quần áo ở nước tôi trước khi tôi chuyển đến Mỹ vì mọi người có nói với tôi về việc quần áo ở Mỹ đắt đến mức nào. Tôi đã khá ngạc nhiên vì tôi có thể mua được quần áo đẹp ở đây với giá cả vừa phải. Thực ra, nó tốn ít tiền hơn khi mua quần áo ở đây so với lúc tôi mua ở quê nhà. 4. I come from a small country and not a lot of people travel by plane because it costs more than most people can afford. But the U.S. is such a big country and the population is large, so you have a lot of people traveling by plane. That's what keeps the prices down. That means I can afford to fly here and I do it all the time. I couldn't do that at home. Tôi đến từ một đất nước nhỏ và không có nhiều người đi lại, di chuyển bằng máy bay vì nó tốn nhiều hơn so với hầu hết mọi người có thể chi trả. Nhưng Mỹ là một quốc gia lớn và dân số đông, vì thế có nhiều người di chuyển bằng máy bay. Đó là điều khiến cho chi phí thấp hơn. Nghĩa là tôi có thể bay ở đây và tôi làm thế suốt. Tôi không thể làm điều đó ở quê nhà. 5. Most people send their children to private schools at home because the public schools are not very good. You have to pay a lot to do that, so it's a big expense for many people. Public schools are better here, and cheaper than in my country. People don't have to spend a lot on tuition, so most people send their children to public schools. Nhiều người gửi con cho trường tư thục ở quê nhà tôi vì trường công không được tốt lắm. Bạn phải chi trả rất nhiều cho việc đó, nên đó là một khoản chi lớn đối với nhiều người. Trường công ở đây tốt hơn, và rẻ hơn so với đất nước tôi. Mọi người không phải trả quá nhiều cho học phí, nên hầu hết mọi người gửi con ở các trường công. 6. Here in the U.S., you need to have health insurance because it costs a lot to see a doctor or to enter a hospital. At home, you don't have to pay much to see a doctor or go to a hospital because most of the clinics and hospitals are run by the government. Ở đây, ở Mỹ, bạn cần có bảo hiểm sức khỏe vì sẽ tốn rất nhiều tiền để đi gặp bác sĩ hoặc đến bệnh viện. Ở quê nhà, bạn không cần phải trả nhiều tiền để đi gặp bác sĩ hoặc đến bệnh viện vì hầu hết các phòng khám và bệnh viện là thuộc chính phủ",
+          "source": "audio_url"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-90906",
+      "sourceId": 90906,
+      "challengeId": 33780,
+      "classChallengeId": "84887",
+      "type": "paragraph",
+      "title": null,
+      "text": "Exercise 3",
+      "rawHtml": "<p><span style=\"font-family: Nunito-Bold; font-size: 16px;\">Exercise 3</span></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-90907",
+      "sourceId": 90907,
+      "challengeId": 33780,
+      "classChallengeId": "84887",
+      "type": "audio",
+      "title": null,
+      "text": "1.\n\nI went to a new steak restaurant last night that opened near my house. I love trying new places. To start the meal, I had an interesting appetizer. It was some kind of seafood with a spicy sauce on it... Mmm! The main dish, of course, was steak. It was very small and a little tough, though. However, the vegetables were great-nice and fresh, but not too oily. The final thing was the best-the dessert! It was apple pie with a lot of ice cream on it. I know that I shouldn't eat so many sweets, but it was delicious!\n\nTôi đã đến nhà hàng bít tết mới mở gần nhà tôi vào tối qua. Tôi thích thử đến những nơi mới mẻ. Để bắt đầu bữa ăn, tôi đã có một món khai vị rất thú vị. Nó là một kiểu hải sản với sốt cay phía trên... Mmm! Món chính đương nhiên là bít tết. Tuy nhiên, nó khá nhỏ và hơi cứng. Nhưng món rau thì tuyệt vời - ngon và tươi, nhưng không quá dầu mỡ. Món cuối cùng là tuyệt nhất - món tráng miệng. Nó là bánh táo với rất nhiều kem phía trên. Tôi biết tôi không nên ăn quá nhiều đồ ngọt, nhưng nó thật sự rất ngon!\n\n2.\n\nHave you ever tried that seafood restaurant on Main Street? You should-it's great! I go there often. In fact, I went there last weekend. To begin, I had a salad. It was nice and fresh with a great house dressing. My main dish was a fish that I had never tried. I really enjoyed the spices it was cooked in. The vegetables were good-very fresh and tasty. For dessert, I had chocolate cake. It's usually very delicious, but this time, it was much too sweet. I couldn't eat more than two bites! That's okay, though, because I am on a diet.\n\nBạn đã bao giờ thử ăn ở nhà hàng hải sản trên phố Main chưa? Bạn nên thử - nó rất tuyệt. Tôi thường xuyên đến đó. Thực ra, tôi đến đó cuối tuần trước. Để bắt đầu, tôi đã ăn salad. Nó rất ngon và tươi với nước sốt tuyệt vời. Món chính là món cá mà tôi chưa từng thử bao giờ. Tôi rất thích gia vị nêm nếm của món đó. Món rau ngon - rất tươi và ngon. Cho món tráng miệng, tôi đã ăn bánh kem socola. Thường thì nó rất ngon, nhưng lần này, nó quá ngọt. Tôi không thể ăn quá 2 miếng. Nhưng dù sao cũng ổn, bởi tôi đang ăn kiêng.\n\n3.\n\nMy new girlfriend took me to a Chinese restaurant in her neighborhood the other night. It was pretty good. First, we had some egg rolls. They were the best I had ever tasted. Then we ordered the beef and pepper stir-fry. It came in a very interesting sauce-spicy, but not too spicy. We also ordered the steamed vegetables, but they were awful. They were really too soft. The dessert was a big bowl of fresh fruit. Some of the fruit I had never seen. It was fantastic-and so was my date!\n\nBạn gái mới của tôi dẫn tôi đến một nhà hàng Trung Hoa ở khu của cô ấy vào tối nó. Nó khá là ngon. Đầu tiên, chúng tôi ăn một ít trứng cuộn. Nó là món ngon nhất mà tôi từng ăn. Sau đó, chúng tôi gọi thịt bò và ớt chuông xào. Nó ăn kèm với nước sốt khá thú vị - cay, nhưng không cay quá. Chúng tôi cũng gọi rau hấp, nhưng nó rất tệ. Nó quá mềm. Món tráng miệng là một bát lớn hoa quả tươi. Một vài loại quả tôi chưa thấy bao giờ. Nó rất tuyệt - và buổi hẹn của tôi cũng thế!\n\n4.\n\nFor lunch, my co-worker and I went to a nice little French restaurant near our office. He didn't feel like eating much, so he just had a small salad. I had a large meal, though. First, I had the onion soup, but it was much too salty. For my main dish, I had a piece of pork. It was too dry and had no taste. The vegetables were perfect, though-broccoli and peas. Those are my favorites. Finally, I had a large bowl of chocolate mousse. It was just like the chocolate mousse I had in France during my last vacation-very creamy and delicious. I think I'll have it next time, too.\n\nCho bữa trưa, đồng nghiệp của tôi và tôi đã đến một nhà hàng Pháp nhỏ, xinh gần văn phòng. Anh ấy không thèm ăn lắm, nên anh ấy chỉ ăn một chút salad. Tôi đã có một bữa ăn khá lớn. Đầu tiên, tôi ăn súp hành, nhưng nó quá mặn. Với món chính, tôi ăn thịt lợn. Nó quá khô và không có vị gì cả. Tuy nhiên, món rau thì hoàn thảo - súp lơ xanh và đậu. Đó là những món ưa thích của tôi. Cuối cùng, tôi ăn một bát lớn mousse socola. Nó giống như món mousse socola mà tôi đã ăn ở Pháp vào kì nghỉ trước - rất ngậy và ngon. Tôi nghĩ lần sau tôi cũng sẽ ăn món đó.",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715677825.mp3",
+          "localFile": "audio/daily/lesson-misc/33780-3-1715677825.mp3",
+          "script": "1. I went to a new steak restaurant last night that opened near my house. I love trying new places. To start the meal, I had an interesting appetizer. It was some kind of seafood with a spicy sauce on it... Mmm! The main dish, of course, was steak. It was very small and a little tough, though. However, the vegetables were great-nice and fresh, but not too oily. The final thing was the best-the dessert! It was apple pie with a lot of ice cream on it. I know that I shouldn't eat so many sweets, but it was delicious! Tôi đã đến nhà hàng bít tết mới mở gần nhà tôi vào tối qua. Tôi thích thử đến những nơi mới mẻ. Để bắt đầu bữa ăn, tôi đã có một món khai vị rất thú vị. Nó là một kiểu hải sản với sốt cay phía trên... Mmm! Món chính đương nhiên là bít tết. Tuy nhiên, nó khá nhỏ và hơi cứng. Nhưng món rau thì tuyệt vời - ngon và tươi, nhưng không quá dầu mỡ. Món cuối cùng là tuyệt nhất - món tráng miệng. Nó là bánh táo với rất nhiều kem phía trên. Tôi biết tôi không nên ăn quá nhiều đồ ngọt, nhưng nó thật sự rất ngon! 2. Have you ever tried that seafood restaurant on Main Street? You should-it's great! I go there often. In fact, I went there last weekend. To begin, I had a salad. It was nice and fresh with a great house dressing. My main dish was a fish that I had never tried. I really enjoyed the spices it was cooked in. The vegetables were good-very fresh and tasty. For dessert, I had chocolate cake. It's usually very delicious, but this time, it was much too sweet. I couldn't eat more than two bites! That's okay, though, because I am on a diet. Bạn đã bao giờ thử ăn ở nhà hàng hải sản trên phố Main chưa? Bạn nên thử - nó rất tuyệt. Tôi thường xuyên đến đó. Thực ra, tôi đến đó cuối tuần trước. Để bắt đầu, tôi đã ăn salad. Nó rất ngon và tươi với nước sốt tuyệt vời. Món chính là món cá mà tôi chưa từng thử bao giờ. Tôi rất thích gia vị nêm nếm của món đó. Món rau ngon - rất tươi và ngon. Cho món tráng miệng, tôi đã ăn bánh kem socola. Thường thì nó rất ngon, nhưng lần này, nó quá ngọt. Tôi không thể ăn quá 2 miếng. Nhưng dù sao cũng ổn, bởi tôi đang ăn kiêng. 3. My new girlfriend took me to a Chinese restaurant in her neighborhood the other night. It was pretty good. First, we had some egg rolls. They were the best I had ever tasted. Then we ordered the beef and pepper stir-fry. It came in a very interesting sauce-spicy, but not too spicy. We also ordered the steamed vegetables, but they were awful. They were really too soft. The dessert was a big bowl of fresh fruit. Some of the fruit I had never seen. It was fantastic-and so was my date! Bạn gái mới của tôi dẫn tôi đến một nhà hàng Trung Hoa ở khu của cô ấy vào tối nó. Nó khá là ngon. Đầu tiên, chúng tôi ăn một ít trứng cuộn. Nó là món ngon nhất mà tôi từng ăn. Sau đó, chúng tôi gọi thịt bò và ớt chuông xào. Nó ăn kèm với nước sốt khá thú vị - cay, nhưng không cay quá. Chúng tôi cũng gọi rau hấp, nhưng nó rất tệ. Nó quá mềm. Món tráng miệng là một bát lớn hoa quả tươi. Một vài loại quả tôi chưa thấy bao giờ. Nó rất tuyệt - và buổi hẹn của tôi cũng thế! 4. For lunch, my co-worker and I went to a nice little French restaurant near our office. He didn't feel like eating much, so he just had a small salad. I had a large meal, though. First, I had the onion soup, but it was much too salty. For my main dish, I had a piece of pork. It was too dry and had no taste. The vegetables were perfect, though-broccoli and peas. Those are my favorites. Finally, I had a large bowl of chocolate mousse. It was just like the chocolate mousse I had in France during my last vacation-very creamy and delicious. I think I'll have it next time, too. Cho bữa trưa, đồng nghiệp của tôi và tôi đã đến một nhà hàng Pháp nhỏ, xinh gần văn phòng. Anh ấy không thèm ăn lắm, nên anh ấy chỉ ăn một chút salad. Tôi đã có một bữa ăn khá lớn. Đầu tiên, tôi ăn súp hành, nhưng nó quá mặn. Với món chính, tôi ăn thịt lợn. Nó quá khô và không có vị gì cả. Tuy nhiên, món rau thì hoàn thảo - súp lơ xanh và đậu. Đó là những món ưa thích của tôi. Cuối cùng, tôi ăn một bát lớn mousse socola. Nó giống như món mousse socola mà tôi đã ăn ở Pháp vào kì nghỉ trước - rất ngậy và ngon. Tôi nghĩ lần sau tôi cũng sẽ ăn món đó",
+          "source": "audio_url"
+        }
+      ],
+      "fallbackForMissingAudio": false,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-90908",
+      "sourceId": 90908,
+      "challengeId": 33780,
+      "classChallengeId": "84887",
+      "type": "paragraph",
+      "title": null,
+      "text": "Exercise 4",
+      "rawHtml": "<p><span style=\"font-family: Nunito-Bold; font-size: 16px;\">Exercise 4</span></p>",
+      "audioRefs": [],
+      "fallbackForMissingAudio": true,
+      "imageRefs": []
+    },
+    {
+      "id": "assignment-90909",
+      "sourceId": 90909,
+      "challengeId": 33780,
+      "classChallengeId": "84887",
+      "type": "audio",
+      "title": null,
+      "text": "1.\n\nA: There you are, sir. Two slices of pizza and a large cola.\n\nB: Thank you. Hmm.\n\nC: How does it look?\n\nB: Okay, I guess, but I think I should have ordered three or four slices. These slices are much smaller than I expected.\n\n |\n\n1.\n\nA: Của ngài đây. 2 miếng pizza và 1 cola cỡ lớn.\n\nB: Cảm ơn. Hmm.\n\nC: Nó trông thế nào?\n\nB: Ổn, tôi nghĩ vậy, nhưng tôi nghĩ tôi đáng lẽ nên gọi 3 hoặc 4 miếng. Những miếng này bé hơn tôi kỳ vọng.\n\n |\n\n2.\n\nA: And here's your order. Steak with French fries and coffee.\n\nB: Thanks. I can't wait to eat. I'm starving.\n\nC: It looks okay. How is it?\n\nB: Let me try. Oh, just perfect.\n\n |\n\n2.\n\nA: Đây là món mà bạn đã order. Bít tết với khoai tây chiên và cà phê.\n\nB: Cảm ơn. Tôi không thể chờ được nữa. Tôi đói lắm rồi.\n\nC: Nó trông có vẻ ổn. Nó thế nào?\n\nB: Để tôi thử. Oh, hoàn hảo.\n\n |\n\n3.\n\nA: Sorry to keep you waiting. One order of fried chicken with broccoli.\n\nB: Thanks. Oh my! This chicken looks pretty dry.\n\nC: Really. How does it taste?\n\nB: I'm afraid it's not very fresh. I think it must have been frozen.\n\nC: Let's send it back.\n\n |\n\n3.\n\nA: Xin lỗi vì đã để bạn phải chờ. Một phần gà rán và súp lơ xanh.\n\nB: Cảm ơn. Ôi trời! Món gà này trông có vẻ khá khô.\n\nC: Thật sao? Vị của nó như thế nào?\n\nB: Tôi e rằng nó không được tươi. Tôi nghĩ nó đã được đông lạnh.\n\nC: Hãy trả lại món thôi.\n\n |\n\n4.\n\nA: There's your order, ma'am. Fish, salad, and peas.\n\nB: Oh. But you told me today's vegetable was broccoli.\n\nC: You don't like peas, do you?\n\nB: No, I don't. I hate peas!\n\n |\n\n4.\n\nA: Đây là những món mà bà đã order, thưa bà. Cá, salad và đậu.\n\nB: Oh, nhưng bạn bảo với tôi rằng rau củ ngày hôm nay là súp lơ xanh mà.\n\nC: Bạn không thích đậu đúng không?\n\nB: Không hề, tôi ghét đậu.\n\n |\n\n5.\n\nA: And here's your dessert. Chocolate cake, with two scoops of ice cream and a large cola.\n\nB: Great.\n\nC: Wow. That cake looks good. I wish I had ordered it.\n\nB: Do you want to try it? It's delicious.\n\nC: Just a taste. Mmm. Fabulous.\n\n |\n\n5.\n\nA: Và đây là món tráng miệng của bạn. Bánh kem socola, với 2 viên kem và 1 cola cỡ lớn.\n\nB: Tuyệt.\n\nC: Wow, bánh trông ngon quá. Ước gì tôi đã gọi nó.\n\nB: Bạn có muốn thử không? Nó ngon lắm.\n\nC: Chỉ một miếng thôi. Mmm. Tuyệt vời.\n\n |\n\n6.\n\nA: Did you order the spaghetti?\n\nB: That's right.\n\nA: Good. Here you are. And here's your cola.\n\nB: Thanks. I don't think I made a very good choice.\n\nC: Really?\n\nB: Yeah. I think I can make better spaghetti than this.\n\n |\n\n6.\n\nA: Bạn đã gọi spaghetti đúng không?\n\nB: Đúng vậy.\n\nA: Tốt, của bạn đây. Và đây là cola của bạn.\n\nB: Cảm ơn. Tôi không nghĩ tôi đã có sự lựa chọn đúng đắn.\n\nC: Thật sao?\n\nB: Yeah, tôi nghĩ tôi làm spaghetti còn ngon hơn như thế này.\n\n |",
+      "rawHtml": null,
+      "audioRefs": [
+        {
+          "url": "https://api-quiz-maker.langgo.vn/storage/audio/1715677904.mp3",
+          "localFile": "audio/daily/lesson-misc/33780-4-1715677904.mp3",
+          "script": "1. A: There you are, sir. Two slices of pizza and a large cola. B: Thank you. Hmm. C: How does it look? B: Okay, I guess, but I think I should have ordered three or four slices. These slices are much smaller than I expected. | 1. A: Của ngài đây. 2 miếng pizza và 1 cola cỡ lớn. B: Cảm ơn. Hmm. C: Nó trông thế nào? B: Ổn, tôi nghĩ vậy, nhưng tôi nghĩ tôi đáng lẽ nên gọi 3 hoặc 4 miếng. Những miếng này bé hơn tôi kỳ vọng. | 2. A: And here's your order. Steak with French fries and coffee. B: Thanks. I can't wait to eat. I'm starving. C: It looks okay. How is it? B: Let me try. Oh, just perfect. | 2. A: Đây là món mà bạn đã order. Bít tết với khoai tây chiên và cà phê. B: Cảm ơn. Tôi không thể chờ được nữa. Tôi đói lắm rồi. C: Nó trông có vẻ ổn. Nó thế nào? B: Để tôi thử. Oh, hoàn hảo. | 3. A: Sorry to keep you waiting. One order of fried chicken with broccoli. B: Thanks. Oh my! This chicken looks pretty dry. C: Really. How does it taste? B: I'm afraid it's not very fresh. I think it must have been frozen. C: Let's send it back. | 3. A: Xin lỗi vì đã để bạn phải chờ. Một phần gà rán và súp lơ xanh. B: Cảm ơn. Ôi trời! Món gà này trông có vẻ khá khô. C: Thật sao? Vị của nó như thế nào? B: Tôi e rằng nó không được tươi. Tôi nghĩ nó đã được đông lạnh. C: Hãy trả lại món thôi. | 4. A: There's your order, ma'am. Fish, salad, and peas. B: Oh. But you told me today's vegetable was broccoli. C: You don't like peas, do you? B: No, I don't. I hate peas! | 4. A: Đây là những món mà bà đã order, thưa bà. Cá, salad và đậu. B: Oh, nhưng bạn bảo với tôi rằng rau củ ngày hôm nay là súp lơ xanh mà. C: Bạn không thích đậu đúng không? B: Không hề, tôi ghét đậu. | 5. A: And here's your dessert. Chocolate cake, with two scoops of ice cream and a large cola. B: Great. C: Wow. That cake looks good. I wish I had ordered it. B: Do you want to try it? It's delicious. C: Just a taste. Mmm. Fabulous. | 5. A: Và đây là món tráng miệng của bạn. Bánh kem socola, với 2 viên kem và 1 cola cỡ lớn. B: Tuyệt. C: Wow, bánh trông ngon quá. Ước gì tôi đã gọi nó. B: Bạn có muốn thử không? Nó ngon lắm. C: Chỉ một miếng thôi. Mmm. Tuyệt vời. | 6. A: Did you order the spaghetti? B: That's right. A: Good. Here you are. And here's your cola. B: Thanks. I don't think I made a very good choice. C: Really? B: Yeah. I think I can make better spaghetti than this. | 6. A: Bạn đã gọi spaghetti đúng không? B: Đúng vậy. A: Tốt, của bạn đây. Và đây là cola của bạn. B: Cảm ơn. Tôi không nghĩ tôi đã có sự lựa chọn đúng đắn. C: Thật sao? B: Yeah, tôi nghĩ tôi làm spaghetti còn ngon hơn như thế này",
           "source": "audio_url"
         }
       ],

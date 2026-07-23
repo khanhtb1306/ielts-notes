@@ -11,18 +11,25 @@ function attr(s: string): string {
   return esc(String(s == null ? "" : s))
 }
 
+const APP_BASE = (import.meta.env.BASE_URL || "/").replace(/\/?$/, "/")
+
+function assetHref(path: string): string {
+  if (!path.startsWith("/final/")) return path
+  return `${APP_BASE}${path.replace(/^\//, "").split("/").map(encodeURIComponent).join("/")}`
+}
+
 function inline(s: string): string {
   return esc(s)
     .replace(/`([^`]+)`/g, "<code>$1</code>")
     .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
     .replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (_m, alt, src) => {
-      const safeSrc = attr(src)
+      const safeSrc = attr(assetHref(src))
       return `<img src="${safeSrc}" alt="${attr(alt)}" loading="lazy" />`
     })
     .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_m, label, href) => {
       const isExternal = /^https?:/i.test(href)
       const target = isExternal ? ' target="_blank" rel="noopener"' : ""
-      return `<a href="${attr(href)}"${target}>${label}</a>`
+      return `<a href="${attr(assetHref(href))}"${target}>${label}</a>`
     })
 }
 
@@ -91,6 +98,11 @@ export function mdToHtml(md: string): string {
       i++
       continue
     }
+    if (/^---+\s*$/.test(line)) {
+      out.push("<hr />")
+      i++
+      continue
+    }
     const au = line.match(/^\[\[audio:(\d+)\]\]\s*$/)
     if (au) {
       out.push(`<div class="ielts-audio-slot" data-audio-num="${au[1]}"></div>`)
@@ -129,6 +141,7 @@ export function mdToHtml(md: string): string {
       !/^[-*]\s+/.test(lines[i]) &&
       !/^\d+\.\s+/.test(lines[i]) &&
       !/^>\s?/.test(lines[i]) &&
+      !/^---+\s*$/.test(lines[i]) &&
       !/^\[\[audio:\d+\]\]/.test(lines[i])
     ) {
       paras.push(lines[i++])

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T16:33:10.652Z",
+  "generatedAt": "2026-07-18T15:43:53.637Z",
   "lessons": [
     {
       "lessonKey": "lesson-01",
@@ -167,13 +167,24 @@
       "images": 0
     },
     {
+      "lessonKey": "lesson-16",
+      "challenges": 2,
+      "contentBlocks": 7,
+      "questionBlocks": 10,
+      "scriptBlocks": 17,
+      "audioFiles": 12,
+      "audioWithScript": 12,
+      "audioWithoutScript": 0,
+      "images": 3
+    },
+    {
       "lessonKey": "lesson-misc",
-      "challenges": 4,
-      "contentBlocks": 39,
-      "questionBlocks": 77,
-      "scriptBlocks": 118,
-      "audioFiles": 19,
-      "audioWithScript": 19,
+      "challenges": 6,
+      "contentBlocks": 53,
+      "questionBlocks": 100,
+      "scriptBlocks": 155,
+      "audioFiles": 26,
+      "audioWithScript": 26,
       "audioWithoutScript": 0,
       "images": 0
     }
