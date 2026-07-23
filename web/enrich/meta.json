@@ -3,14 +3,14 @@
   "courseSub": "Bản đồ nguồn kiến thức Lesson 1–15, dùng để tra kiến thức đến từ đâu.",
   "pronSub": "IPA cơ bản, trọng âm, âm cuối, các âm dễ nhầm và collocation theo âm (Lesson 1–5).",
   "grammarSub": "Khái niệm → công thức → cách dùng → dấu hiệu → ví dụ → bẫy lỗi.",
-  "speakingSub": "Giữ nguyên ví dụ thật, thêm cách ngắt hơi và audio để luyện nói đúng, dễ thuộc.",
-  "reviewSub": "Ôn cho kỳ thi cuối: Phần 1 Speaking tất cả chủ đề, Phần 2 kiến thức đã học. Tích vào ô để lưu tiến độ.",
+  "speakingSub": "Giữ nguyên ví dụ thật, thêm answer frame, speaking sheets giáo viên gửi và audio drill để luyện nói đúng, dễ thuộc.",
+  "reviewSub": "Ôn cho kỳ thi cuối: câu hỏi Speaking giáo viên random hỏi, audio phản xạ, Grammar Atlas theo ảnh tổng hợp và checklist tiến độ.",
 
   "stageTitle": "Giai đoạn hiện tại, chưa phải toàn bộ khóa",
   "stageIntro": "Tài liệu này tổng hợp kiến thức đã học đến Lesson 15. Các lesson sau sẽ được bổ sung theo tiến độ học.",
   "courseIntro": "Dùng để biết kiến thức đến từ lesson nào. Khi ôn, ưu tiên ôn theo topic trong Pronunciation/Grammar/Speaking.",
   "reviewTitle": "Ôn tập cho kỳ thi cuối giai đoạn",
-  "reviewIntro": "Kỳ thi cuối gồm 2 phần: Speaking theo tất cả chủ đề đã học và kiến thức Grammar/Pronunciation. Tích ô đã ôn để theo dõi tiến độ.",
+  "reviewIntro": "Kỳ thi cuối tập trung vào Speaking theo các câu hỏi giáo viên random hỏi, kèm kiểm tra nền Grammar/Pronunciation. Ôn theo audio drill, speaking sheets và Grammar Atlas; tích ô đã ôn để theo dõi tiến độ.",
 
   "goals": [
     "Hoàn thành tốt giai đoạn Pre-IELTS hiện tại.",
@@ -79,6 +79,7 @@
       "Weekend / Free time / Sở thích.",
       "Trip (quá khứ và tương lai).",
       "Food & Restaurant.",
+      "Shopping.",
       "Sức khoẻ & Bệnh nhẹ (Health & Illness)."
     ] },
     { "title": "Common Mistake Review", "ordered": false, "items": [
@@ -107,6 +108,9 @@
     "House": ["living room", "kitchen", "bathroom", "bedroom", "wardrobe", "next to", "in the middle of"],
     "Weekend": ["go shopping", "go to the cinema", "work out", "take walks", "go jogging", "hang out with friends"],
     "Trip": ["travel", "trip", "sightseeing", "local food", "beautiful scenery", "wonderful", "crowded"],
-    "Restaurant": ["seafood restaurant", "main dish", "for dessert", "tasty", "book a table", "the service"]
+    "Restaurant": ["seafood restaurant", "main dish", "for dessert", "tasty", "book a table", "the service"],
+    "Hometown": ["born and raised", "in the north", "peaceful", "crowded", "fresh air", "safe place to live"],
+    "Health": ["healthy lifestyle", "eat fruit and vegetables", "do exercise", "drink enough water", "have a headache", "have got a cold"],
+    "Shopping": ["go shopping", "clothes shop", "bookshop", "shopping mall", "reasonable price", "tiring"]
   }
 }

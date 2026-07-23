@@ -7,11 +7,23 @@ function esc(s: string): string {
   )
 }
 
+function attr(s: string): string {
+  return esc(String(s == null ? "" : s))
+}
+
 function inline(s: string): string {
   return esc(s)
     .replace(/`([^`]+)`/g, "<code>$1</code>")
     .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
-    .replace(/\[([^\]]+)\]\((https?:[^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
+    .replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (_m, alt, src) => {
+      const safeSrc = attr(src)
+      return `<img src="${safeSrc}" alt="${attr(alt)}" loading="lazy" />`
+    })
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_m, label, href) => {
+      const isExternal = /^https?:/i.test(href)
+      const target = isExternal ? ' target="_blank" rel="noopener"' : ""
+      return `<a href="${attr(href)}"${target}>${label}</a>`
+    })
 }
 
 export function slug(s: string): string {

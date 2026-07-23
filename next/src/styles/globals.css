@@ -106,6 +106,9 @@
   .markdown-note strong {
     @apply font-semibold text-foreground;
   }
+  .markdown-note img {
+    @apply my-4 max-w-full rounded-lg border border-border bg-white object-contain shadow-sm;
+  }
   .markdown-note .table-wrap {
     @apply my-4 overflow-x-auto rounded-lg border border-border;
   }
