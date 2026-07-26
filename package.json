@@ -4,15 +4,9 @@
   "private": true,
   "description": "Pre-IELTS foundation notes React app.",
   "scripts": {
-    "build": "npm --prefix next run build",
-    "dev": "npm --prefix next run dev",
-    "start": "npm --prefix next run dev",
-    "preview": "npm --prefix next run preview",
-    "legacy:build": "node build.mjs",
-    "legacy:start": "node build.mjs && npx http-server . -p 5173 -c-1",
-    "legacy:serve": "npx http-server . -p 5173 -c-1"
-  },
-  "devDependencies": {
-    "http-server": "^14.1.1"
+    "build": "npm --prefix 1-code/next run build",
+    "dev": "npm --prefix 1-code/next run dev",
+    "start": "npm --prefix 1-code/next run dev",
+    "preview": "npm --prefix 1-code/next run preview"
   }
 }

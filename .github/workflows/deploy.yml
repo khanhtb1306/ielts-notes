@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: next
+        working-directory: 1-code/next
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -29,7 +29,7 @@ jobs:
         with:
           node-version: 20
           cache: npm
-          cache-dependency-path: next/package-lock.json
+          cache-dependency-path: 1-code/next/package-lock.json
 
       - name: Install
         run: npm ci
@@ -42,7 +42,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: next/dist
+          path: 1-code/next/dist
 
   deploy:
     needs: build
