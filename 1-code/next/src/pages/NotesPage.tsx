@@ -61,13 +61,15 @@ export function NotesPage({ type }: Props) {
 
   return (
     <div className="space-y-6">
-      <div className="rounded-2xl border border-border bg-gradient-to-br from-primary/10 via-card to-card p-6">
-        <div className="text-[11px] font-bold uppercase tracking-widest text-primary">
-          {type === "pronunciation" ? "Lesson 1–5" : type === "grammar" ? "Up to Final" : "A1–A2 first"}
+      {type !== "grammar" && (
+        <div className="rounded-2xl border border-border bg-gradient-to-br from-primary/10 via-card to-card p-6">
+          <div className="text-[11px] font-bold uppercase tracking-widest text-primary">
+            {type === "pronunciation" ? "Lesson 1–5" : "A1–A2 first"}
+          </div>
+          <h2 className="mt-1 text-2xl font-bold">{LABEL[type]}</h2>
+          {sub && <p className="text-muted-foreground mt-1">{sub}</p>}
         </div>
-        <h2 className="mt-1 text-2xl font-bold">{LABEL[type]}</h2>
-        {sub && <p className="text-muted-foreground mt-1">{sub}</p>}
-      </div>
+      )}
 
       {type === "pronunciation" && <PronTool />}
       {type === "pronunciation" && ipa && (
@@ -76,20 +78,8 @@ export function NotesPage({ type }: Props) {
 
       {type === "grammar" && <GrammarSummary />}
 
-      {type === "grammar" && filtered.length > 0 && (
-        <div className="rounded-2xl border border-dashed border-border bg-muted/25 p-5">
-          <div className="text-[11px] font-bold uppercase tracking-widest text-muted-foreground">
-            Tài liệu tham khảo
-          </div>
-          <h3 className="mt-1 text-lg font-semibold">Giải thích thêm theo từng mảng nhỏ</h3>
-          <p className="mt-1 text-sm text-muted-foreground">
-            Phần chính để ôn là tài liệu tổng hợp ở trên. Các note dưới đây chỉ dùng khi cần đọc lại một điểm ngữ pháp cụ thể.
-          </p>
-        </div>
-      )}
-
       {/* Quick chips */}
-      {visibleList.length > 0 && (
+      {type !== "grammar" && visibleList.length > 0 && (
         <div className="flex flex-wrap gap-2">
           {visibleList.map((d) => (
             <a
@@ -108,7 +98,7 @@ export function NotesPage({ type }: Props) {
         </div>
       )}
 
-      {filtered.length === 0 && (
+      {type !== "grammar" && filtered.length === 0 && (
         <Card>
           <CardContent className="py-12 text-center text-muted-foreground">
             Không có note nào match "{search}".
@@ -116,11 +106,13 @@ export function NotesPage({ type }: Props) {
         </Card>
       )}
 
-      <div className="space-y-4">
-        {filtered.map((doc: NoteDoc) => (
-          <DocSection key={doc.id} doc={doc} audioBank={notesAudio} />
-        ))}
-      </div>
+      {type !== "grammar" && (
+        <div className="space-y-4">
+          {filtered.map((doc: NoteDoc) => (
+            <DocSection key={doc.id} doc={doc} audioBank={notesAudio} />
+          ))}
+        </div>
+      )}
 
       {type === "speaking" && meta.readGuide && meta.readGuide.length > 0 && (
         <ReadGuide guide={meta.readGuide} />

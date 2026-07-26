@@ -1,6 +1,57 @@
 {
   "_note": "Ngân hàng câu AI-sinh + cấu hình đề Final Test. Câu trong `generated` được đánh dấu generated=true và tô màu khác trong app để người học biết đây là câu bổ sung cho đủ số lượng, không phải câu gốc từ giáo trình.",
   "poolKey": "final-grammar-pool",
+  "blueprint": {
+    "total": 50,
+    "timeMinutes": 45,
+    "sections": [
+      {
+        "id": "word-classes",
+        "label": "I - Define word classes",
+        "instruction": "Xác định từ loại của từ được gạch chân. Mỗi câu chọn 1 đáp án: Noun / Verb / Adjective / Adverb.",
+        "total": 10,
+        "questionTypes": ["single_choice", "matching"],
+        "mix": [{ "topic": "word-classes", "percent": 100 }]
+      },
+      {
+        "id": "choose-correct",
+        "label": "II - Choose the correct answer",
+        "instruction": "Chọn đáp án đúng. Phần này phủ đều các điểm ngữ pháp trong khóa.",
+        "total": 17,
+        "questionTypes": ["single_choice"],
+        "mix": [
+          { "topic": "nouns-quantifiers", "percent": 18 },
+          { "topic": "articles-determiners", "percent": 18 },
+          { "topic": "pronouns", "percent": 12 },
+          { "topic": "prepositions", "percent": 12 },
+          { "topic": "present-tenses", "percent": 12 },
+          { "topic": "past-tenses", "percent": 12 },
+          { "topic": "future-tenses", "percent": 10 },
+          { "topic": "modal-verbs", "percent": 6 }
+        ]
+      },
+      {
+        "id": "articles",
+        "label": "III - Complete with A / AN / THE / NONE",
+        "instruction": "Điền mạo từ đúng hoặc NONE cho chỗ trống.",
+        "total": 10,
+        "questionTypes": ["fill_blank"],
+        "mix": [{ "topic": "articles-determiners", "percent": 100 }]
+      },
+      {
+        "id": "verb-tenses",
+        "label": "IV - Change the verb to the correct tense",
+        "instruction": "Chia động từ trong ngoặc đúng thì/cấu trúc đã học.",
+        "total": 13,
+        "questionTypes": ["fill_blank"],
+        "mix": [
+          { "topic": "present-tenses", "percent": 38 },
+          { "topic": "past-tenses", "percent": 31 },
+          { "topic": "future-tenses", "percent": 31 }
+        ]
+      }
+    ]
+  },
   "sets": { "count": 10, "total": 50, "seedBase": 73101 },
   "generated": [
     { "id": "gen-01", "kind": "single_choice", "topic": "articles-determiners", "prompt": "I saw ___ elephant at the zoo.", "options": ["a", "an", "the", "(no article)"], "answer": 1 },

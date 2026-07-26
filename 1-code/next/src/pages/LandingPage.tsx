@@ -65,7 +65,7 @@ export function LandingPage() {
           to="/final"
           icon={GraduationCap}
           title="Final Test"
-          description={`Đề thi thật + ${finalTests.sets.length} bộ đề luyện (${finalTests.poolTotal} câu, có câu AI-sinh)`}
+          description={`${finalTests.sets.length} đề thi thử chuẩn · 50 câu/đề · 45 phút`}
           accent="text-emerald-500 bg-emerald-500/10"
         />
       </section>

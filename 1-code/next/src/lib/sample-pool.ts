@@ -1,4 +1,4 @@
-import type { QuestionKind, TopicRef, TopicRole, TopicsIndex } from "@/types/content"
+import type { FinalTestBlueprint, QuestionKind, TopicRef, TopicRole, TopicsIndex } from "@/types/content"
 
 export interface SamplePoolConfig {
   mix: { topic: string; percent: number }[]
@@ -118,4 +118,36 @@ export function samplePool(topicsIndex: TopicsIndex, config: SamplePoolConfig): 
   }
 
   return { questions: shuffle(picked, rnd), shortages, skipped, seed }
+}
+
+export function sampleBlueprint(topicsIndex: TopicsIndex, blueprint: FinalTestBlueprint, seed: number): SampleResult {
+  const picked: SampledQuestion[] = []
+  const shortages: { topic: string; wanted: number; got: number }[] = []
+  const skipped: { topic: string; percent: number; reason: string }[] = []
+  const used = new Set<string>()
+
+  for (let i = 0; i < (blueprint.sections || []).length; i++) {
+    const section = blueprint.sections[i]
+    const result = samplePool(topicsIndex, {
+      mix: section.mix,
+      total: section.total,
+      seed: seed + i * 997,
+      questionTypes: section.questionTypes,
+    })
+    skipped.push(...result.skipped)
+
+    const unique = []
+    for (const q of result.questions) {
+      const key = `${q.lessonKey}::${q.itemId}`
+      if (used.has(key)) continue
+      used.add(key)
+      unique.push(q)
+    }
+    if (unique.length < section.total) {
+      shortages.push({ topic: section.id, wanted: section.total, got: unique.length })
+    }
+    picked.push(...unique)
+  }
+
+  return { questions: picked, shortages, skipped, seed }
 }

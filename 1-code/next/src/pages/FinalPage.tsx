@@ -1,9 +1,8 @@
 import { useNavigate, Link } from "react-router-dom"
-import { GraduationCap, FileCheck2, ArrowRight, Sparkles, Wand2 } from "lucide-react"
+import { GraduationCap, ArrowRight, Sparkles } from "lucide-react"
 import { useData } from "@/stores/data"
 import { useHistory } from "@/stores/history"
 import { usePractice, uid } from "@/stores/practice"
-import { samplePool } from "@/lib/sample-pool"
 import type { SamplePoolConfig, SampledQuestion } from "@/lib/sample-pool"
 import type { QuestionKind } from "@/types/content"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
@@ -14,9 +13,11 @@ const GRADABLE: QuestionKind[] = ["single_choice", "multi_select", "fill_blank",
 
 export function FinalPage() {
   const navigate = useNavigate()
-  const { finalTests, topicsIndex } = useData()
+  const { finalTests } = useData()
   const save = usePractice((s) => s.save)
   const history = useHistory((s) => s.entries).slice(0, 5)
+  const realSets = finalTests.sets.filter((s) => s.source === "real")
+  const generatedSets = finalTests.sets.filter((s) => s.source !== "real")
 
   function startSession(id: string, label: string, questions: SampledQuestion[], config: SamplePoolConfig) {
     if (!questions.length) return
@@ -33,26 +34,14 @@ export function FinalPage() {
     setTimeout(() => navigate(`/practice/runner/${sessionId}`), 80)
   }
 
-  function startRealMock() {
-    const rm = finalTests.realMock
-    if (!rm) return
-    startSession(rm.id, rm.label, rm.questions as unknown as SampledQuestion[], {
-      mix: [],
-      total: rm.total,
-      seed: 0,
-      questionTypes: GRADABLE,
-    })
-  }
-
-  function startSet(setId: string, label: string, seed: number, total: number) {
+  function startSet(setId: string, label: string, seed: number, total: number, questions: SampledQuestion[]) {
     const config: SamplePoolConfig = {
       mix: [{ topic: finalTests.poolKey, percent: 100 }],
       total,
       seed,
       questionTypes: GRADABLE,
     }
-    const sampled = samplePool(topicsIndex, config)
-    startSession(setId, label, sampled.questions, config)
+    startSession(setId, label, questions, config)
   }
 
   return (
@@ -61,56 +50,56 @@ export function FinalPage() {
         <Badge variant="success" className="mb-2">Kỳ thi cuối · Grammar</Badge>
         <h2 className="text-2xl font-bold">Final Test — Ngữ pháp</h2>
         <p className="mt-1 max-w-3xl text-muted-foreground">
-          Làm bài theo đúng cấu trúc mock test: mỗi đề chia <b>Phần 1 · Trắc nghiệm</b> và <b>Phần 2 · Điền chỗ trống</b>,
+          Làm bài theo đúng cấu trúc mock test: <b>{finalTests.blueprint.total} câu</b> trong <b>{finalTests.blueprint.timeMinutes} phút</b>,
+          chia thành 4 phần Grammar giống đề Lesson 19,
           chấm điểm ngay và lưu lịch sử. Luyện Speaking nằm ở mục <Link to="/speaking" className="text-primary underline underline-offset-2">Speaking</Link>.
         </p>
-        <p className="mt-2 inline-flex items-center gap-2 rounded-md bg-amber-500/10 px-3 py-1 text-sm text-amber-700 dark:text-amber-300">
-          <Wand2 className="h-4 w-4" />
-          Câu có nền vàng là câu AI sinh thêm để đủ số lượng — không phải câu gốc giáo trình.
-        </p>
       </section>
-
-      {finalTests.realMock && (
-        <Card className="border-emerald-500/40">
-          <CardHeader>
-            <div className="flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
-              <div className="flex items-start gap-3">
-                <div className="rounded-xl bg-emerald-500/10 p-3 text-emerald-600">
-                  <FileCheck2 className="h-6 w-6" />
-                </div>
-                <div>
-                  <CardTitle>{finalTests.realMock.label}</CardTitle>
-                  <p className="mt-1 text-sm text-muted-foreground">{finalTests.realMock.note}</p>
-                  <p className="mt-1 text-xs text-muted-foreground">{finalTests.realMock.total} câu chấm được (trích từ Lesson 19).</p>
-                </div>
-              </div>
-              <Button onClick={startRealMock} className="shrink-0">
-                Làm đề thật <ArrowRight className="h-4 w-4" />
-              </Button>
-            </div>
-          </CardHeader>
-        </Card>
-      )}
 
       <Card>
         <CardHeader>
           <CardTitle className="flex items-center gap-2">
-            <GraduationCap className="h-5 w-5 text-primary" /> 10 bộ đề luyện
+            <GraduationCap className="h-5 w-5 text-primary" /> Đề thật · Mã đề 00
           </CardTitle>
           <p className="text-sm text-muted-foreground">
-            {finalTests.sets.length} bộ đề cố định, mỗi bộ {finalTests.sets[0]?.total || 50} câu rút từ {finalTests.poolTotal} câu grammar
-            (gồm {finalTests.generatedCount} câu AI-sinh). Mỗi bộ mở lại luôn giống nhau để bạn ôn có hệ thống.
+            Đề gốc từ mock test/ảnh giáo viên gửi. Dùng để kiểm tra sát đề thật trước khi luyện thêm.
           </p>
         </CardHeader>
         <CardContent>
           <div className="grid gap-3 sm:grid-cols-2">
-            {finalTests.sets.map((s) => (
+            {realSets.map((s) => (
               <div key={s.id} className="flex items-center justify-between rounded-lg border border-border bg-muted/20 px-4 py-3">
                 <div>
                   <div className="font-semibold">{s.label}</div>
-                  <div className="text-xs text-muted-foreground">{s.total} câu · 2 phần</div>
+                  <div className="text-xs text-muted-foreground">{s.total} câu · 4 phần · {s.note}</div>
                 </div>
-                <Button variant="outline" size="sm" onClick={() => startSet(s.id, s.label, s.seed, s.total)}>
+                <Button variant="outline" size="sm" onClick={() => startSet(s.id, s.label, s.seed, s.total, (s.questions || []) as unknown as SampledQuestion[])}>
+                  Làm bài <ArrowRight className="h-3 w-3" />
+                </Button>
+              </div>
+            ))}
+          </div>
+        </CardContent>
+      </Card>
+
+      <Card>
+        <CardHeader>
+          <CardTitle className="flex items-center gap-2">
+            <Sparkles className="h-5 w-5 text-primary" /> 10 đề luyện thêm
+          </CardTitle>
+          <p className="text-sm text-muted-foreground">
+            Mã đề 01-10, mỗi đề 50 câu, 45 phút, sinh theo rule bám cấu trúc đề thật và vocab đã học.
+          </p>
+        </CardHeader>
+        <CardContent>
+          <div className="grid gap-3 sm:grid-cols-2">
+            {generatedSets.map((s) => (
+              <div key={s.id} className="flex items-center justify-between rounded-lg border border-border bg-muted/20 px-4 py-3">
+                <div>
+                  <div className="font-semibold">{s.label}</div>
+                  <div className="text-xs text-muted-foreground">{s.total} câu · 4 phần · {s.note}</div>
+                </div>
+                <Button variant="outline" size="sm" onClick={() => startSet(s.id, s.label, s.seed, s.total, (s.questions || []) as unknown as SampledQuestion[])}>
                   Làm bài <ArrowRight className="h-3 w-3" />
                 </Button>
               </div>

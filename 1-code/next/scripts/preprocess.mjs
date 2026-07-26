@@ -651,7 +651,8 @@ function buildFinalTests({ perLesson, topicsIndex, ctx }) {
   void topicsIndex
   const cfgPath = join(ENRICH, "final-tests.json")
   const cfg = existsSync(cfgPath) ? JSON.parse(readFileSync(cfgPath, "utf8")) : null
-  const empty = { generatedLesson: null, poolEntry: null, publicData: { poolKey: "final-grammar-pool", poolTotal: 0, generatedCount: 0, realMock: null, sets: [] } }
+  const defaultBlueprint = { total: 50, timeMinutes: 45, sections: [] }
+  const empty = { generatedLesson: null, poolEntry: null, publicData: { poolKey: "final-grammar-pool", poolTotal: 0, generatedCount: 0, blueprint: defaultBlueprint, realMock: null, sets: [] } }
   if (!cfg) return empty
 
   const genQs = (cfg.generated || []).map(normalizeGeneratedQuestion)
@@ -692,40 +693,478 @@ function buildFinalTests({ perLesson, topicsIndex, ctx }) {
   }
   const poolEntry = { key: "final-grammar-pool", entry: { label: "Final Grammar Pool", skill: "grammar", refs: poolRefs, needsNotes: false } }
 
-  let realMock = null
-  const mock = perLesson["lesson-19"]
-  if (mock) {
+  const fixedLessons = [buildFinalRealMockLesson(), buildFinalRealMockLesson2(), ...buildGeneratedFinalMockLessons()]
+  const fixedSets = []
+  for (let i = 0; i < fixedLessons.length; i++) {
+    const mock = fixedLessons[i]
     const refs = []
     for (const grp of mock.exerciseGroups || []) {
       for (const q of grp.questions || []) {
         if (!GRADABLE_KINDS.has(q.kind)) continue
         const gt = (q.topics || []).find((t) => isGrammarTopic(t.key, ctx)) || (q.topics || [])[0]
-        refs.push({ lessonKey: "lesson-19", kind: "question", itemId: q.id, role: (gt && gt.role) || "review", qkind: q.kind, topic: (gt && gt.key) || "word-classes" })
+        refs.push({ lessonKey: mock.key, kind: "question", itemId: q.id, role: (gt && gt.role) || "review", qkind: q.kind, topic: (gt && gt.key) || "word-classes" })
       }
     }
-    if (refs.length) {
-      realMock = {
-        id: "real-mock",
-        label: "Đề thi thật · Lesson 19 Mock Test",
-        note: "Nguyên đề grammar giáo viên dùng cuối khóa (mock test, 45 phút).",
-        total: refs.length,
-        questions: refs,
-      }
-    }
-  }
-
-  const setCfg = cfg.sets || { count: 10, total: 50, seedBase: 73101 }
-  const sets = []
-  for (let i = 1; i <= (setCfg.count || 10); i++) {
-    const nn = String(i).padStart(2, "0")
-    sets.push({ id: `de-${nn}`, label: `Bộ đề ${nn}`, seed: (setCfg.seedBase || 73101) + i, total: setCfg.total || 50 })
+    const isReal = i < 2
+    const nn = String(isReal ? i + 1 : i - 1).padStart(2, "0")
+    const total = refs.reduce((sum, ref) => {
+      const q = (mock.exerciseGroups || []).flatMap((g) => g.questions || []).find((x) => x.id === ref.itemId)
+      return sum + questionPointCount(q)
+    }, 0)
+    fixedSets.push({
+      id: isReal ? `de-that-00-${nn}` : `de-luyen-${nn}`,
+      label: isReal ? `Mã đề 00 · Đề thật ${nn}` : `Mã đề ${nn}`,
+      seed: i + 1,
+      total,
+      note: mock.title,
+      source: isReal ? "real" : "generated",
+      questions: refs,
+    })
   }
 
   return {
     generatedLesson,
+    realMockLessons: fixedLessons,
     poolEntry,
-    publicData: { poolKey: "final-grammar-pool", poolTotal: poolRefs.length, generatedCount: genQs.length, realMock, sets },
+    publicData: { poolKey: "final-grammar-pool", poolTotal: poolRefs.length, generatedCount: genQs.length, blueprint: cfg.blueprint || defaultBlueprint, realMock: null, sets: fixedSets },
   }
+}
+
+function questionPointCount(q) {
+  if (!q) return 1
+  return q.kind === "fill_blank" && q.blanks && q.blanks.length ? q.blanks.length : 1
+}
+
+function finalMockQuestion({ id, section, topic, kind = "single_choice", prompt, options = [], answer, body, answers = [] }) {
+  const q = {
+    id,
+    sourceQuestionId: null,
+    challengeNumber: null,
+    challengeId: 35058,
+    title: section,
+    kind,
+    prompt: prompt || "",
+    promptHtml: `<p>${prompt || ""}</p>`,
+    bodyHtml: "",
+    explanationHtml: "",
+    options: [],
+    correctAnswer: [],
+    userAnswer: null,
+    blanks: null,
+    pairs: null,
+    correct: null,
+    audioRefs: [],
+    imageRefs: [],
+    topics: [{ key: topic, role: "review" }],
+  }
+  if (kind === "single_choice") {
+    q.options = options.map((text) => ({ id: text, text, html: `<p>${text}</p>` }))
+    q.correctAnswer = [answer]
+  } else if (kind === "fill_blank") {
+    q.bodyHtml = injectBlankSlots(`<p>${body}</p>`)
+    const answerGroups = Array.isArray(answers[0]) ? answers : [answers]
+    q.blanks = answerGroups.map((group, i) => ({ key: `input_${i}`, answers: group, userAnswer: null, explanationHtml: "" }))
+  }
+  return q
+}
+
+function buildFinalRealMockLesson() {
+  const wcOpts = ["Noun", "Verb", "Adjective", "Adverb"]
+  const wordClass = [
+    ["1. She gave me a questioning <u>look</u>.", "Noun"],
+    ["2. The city is a <u>safe</u> place to live.", "Adjective"],
+    ["3. I usually <u>stream</u> movies.", "Verb"],
+    ["4. She has to work <u>late</u> tomorrow.", "Adverb"],
+    ["5. He found it <u>extremely</u> difficult to get a job.", "Adverb"],
+    ["6. My friend will <u>pay</u> for the tickets.", "Verb"],
+    ["7. I go to <u>work</u> at 8 o'clock.", "Noun"],
+    ["8. I do the same thing every day. I'm <u>sick</u> of it.", "Adjective"],
+    ["9. An accident can happen <u>anywhere</u>.", "Adverb"],
+    ["10. They <u>decided</u> to travel by train.", "Verb"],
+  ].map((x, i) => finalMockQuestion({ id: `final-real-wc-${i + 1}`, section: "I - Define the word classes", topic: "word-classes", prompt: x[0], options: wcOpts, answer: x[1] }))
+
+  const mcq = [
+    ["1. I don't have __________ money, so I'll have to wait to get a new coat.", ["A. a piece of", "B. a few", "C. much", "D. many"], "C. much", "nouns-quantifiers"],
+    ["2. Right now, Margaret __________ a shower. Do you want to ring later?", ["A. has", "B. have", "C. is having", "D. are having"], "C. is having", "present-tenses"],
+    ["3. There are __________ people in the park today. They're holding a very big flower festival here.", ["A. much", "B. many", "C. a lot", "D. few"], "B. many", "nouns-quantifiers"],
+    ["4. Let's meet __________ five o'clock, shall we?", ["A. in", "B. on", "C. at", "D. of"], "C. at", "prepositions"],
+    ["5. Ly: Have you made plans for the summer?<br><br>Hai: Yes. __________ Malaysia.", ["A. We're going to", "B. We go", "C. We'll go", "D. We were going to"], "A. We're going to", "future-tenses"],
+    ["6. We __________ to the cinema last night.", ["A. go", "B. going", "C. went", "D. goes"], "C. went", "past-tenses"],
+    ["7. We've walked miles! My __________ are hurting!", ["A. foots", "B. feet", "C. foot", "D. feets"], "B. feet", "nouns-quantifiers"],
+    ["8. I love your hair. __________ really soft.", ["A. It's", "B. They're", "C. Which is", "D. It'll"], "A. It's", "pronouns"],
+    ["9. I heard there's __________ new sports shop in town. Let's see what they have.", ["A. a", "B. the", "C. an", "D. some"], "A. a", "articles-determiners"],
+    ["10. Scientists are working hard to find cures for lots of diseases, but __________ haven't found a cure for the common cold yet.", ["A. you", "B. it", "C. we", "D. they"], "D. they", "pronouns"],
+    ["11. Jane: That's great, Cathy. Did you make that __________?<br><br>Cathy: Yeah, isn't it beautiful?", ["A. herself", "B. myself", "C. yourself", "D. themselves"], "C. yourself", "pronouns"],
+    ["12. Thanh: John is a better player than Martin, isn't he?<br><br>Tuan: Oh, yes. __________ the match tomorrow, I expect.", ["A. He'll win", "B. He wins", "C. He's winning", "D. He won"], "A. He'll win", "future-tenses"],
+    ["13. __________ the piano for two hours every day?", ["A. Do you practise", "B. Are you practising", "C. Were you practising", "D. Did you practised"], "A. Do you practise", "present-tenses"],
+    ["14. When you rang, I __________ my bike.", ["A. cleaned", "B. was cleaning", "C. used to clean", "D. clean"], "B. was cleaning", "past-tenses"],
+    ["15. I wanted to go for a walk, __________ it was raining heavily.", ["A. or", "B. nor", "C. and", "D. but"], "D. but", "sentences-conjunctions"],
+    ["16. Leon never __________ about it, but he was once a world-champion skier.", ["A. talks", "B. is talking", "C. was talking", "D. talk"], "A. talks", "present-tenses"],
+    ["17. She was very hungry, __________ she made herself a sandwich.", ["A. but", "B. so", "C. and", "D. nor"], "B. so", "sentences-conjunctions"],
+  ].map((x, i) => finalMockQuestion({ id: `final-real-mcq-${i + 1}`, section: "II - Choose the correct answer", topic: x[3], prompt: x[0], options: x[1], answer: x[2] }))
+
+  const articles = [
+    ["Last weekend, we went to [input_0] beach.", ["the"]],
+    ["We went for [input_0] picnic.", ["a"]],
+    ["[input_0] weather was perfect.", ["the"]],
+    ["We had [input_0] great time swimming.", ["a"]],
+    ["We had a great time swimming in [input_0] sea.", ["the"]],
+    ["Alice is [input_0] talented musician.", ["a"]],
+    ["She plays [input_0] piano beautifully.", ["the"]],
+    ["She has performed in [input_0] many concerts.", ["none", "NONE", ""]],
+    ["She dreams of becoming [input_0] professional artist.", ["a"]],
+    ["She dreams of traveling around [input_0] world.", ["the"]],
+  ]
+  const articleItems = combineFillItems(articles, [5, 5]).map((x, i) => finalMockQuestion({ id: `final-real-art-${i + 1}`, section: "III - Complete with A / AN / THE / NONE", topic: "articles-determiners", kind: "fill_blank", body: x[0], answers: x[1] }))
+
+  const verbs = [
+    ["Hoa: The storm has been terrible, hasn't it?<br>Phuong: Yes, it [input_0] (rain) again later.", ["is going to rain", "'s going to rain"]],
+    ["Last summer, we [input_0] (travel) to Italy.", ["traveled", "travelled"]],
+    ["Last summer, we traveled to Italy and [input_0] (visit) many beautiful cities.", ["visited"]],
+    ["While I [input_0] (read) a book, my friend called me to chat.", ["was reading"]],
+    ["While I was reading a book, my friend [input_0] (call) me to chat.", ["called"]],
+    ["Be quiet! The baby [input_0] (sleep) in the next room.", ["is sleeping", "'s sleeping"]],
+    ["I [input_0] (not / know) what to do this weekend.", ["don't know", "do not know"]],
+    ["Maybe I [input_0] (go) to the beach.", ["will go"]],
+    ["Maybe I will go to the beach, or I [input_0] (stay) at home and relax.", ["will stay"]],
+    ["When I was a child, I [input_0] (want) to be an astronaut.", ["wanted"]],
+    ["Now, I [input_0] (study) engineering.", ["am studying", "'m studying"]],
+    ["Every morning, Jason [input_0] (walk) to work.", ["walks"]],
+    ["Today he [input_0] (take) the bus because it's raining.", ["is taking", "'s taking"]],
+  ]
+  const verbItems = combineFillItems(verbs, [1, 2, 2, 1, 3, 2, 2]).map((x, i) => finalMockQuestion({ id: `final-real-verb-${i + 1}`, section: "IV - Change the verb in the brackets to the correct tense", topic: i < 4 ? "past-tenses" : i < 6 ? "future-tenses" : "present-tenses", kind: "fill_blank", body: x[0], answers: x[1] }))
+
+  const questions = [...wordClass, ...mcq, ...articleItems, ...verbItems]
+  return {
+    key: "final-real-mock",
+    number: null,
+    title: "Lesson 19 Mock Test · 50 câu",
+    challenges: [],
+    contentBlocks: [],
+    exerciseGroups: [{ id: "final-real-mock-group", challengeId: 35058, challengeNumber: 19, title: "GRAMMAR TEST", note: "MOCK TEST · Total: 50 questions · Time allowed: 45 minutes", introHtml: "", questions }],
+    scriptsRaw: null,
+    audio: [],
+    vocabPairs: [],
+    submissionSummary: { totalQuestion: 50, totalCorrect: 0, correctRate: null, commentText: null },
+  }
+}
+
+function buildFinalRealMockLesson2() {
+  const wcOpts = ["Noun", "Verb", "Adjective", "Adverb"]
+  const wordClass = [
+    ["I live in a quiet and peaceful <u>neighborhood</u>.", "Noun"],
+    ["I am <u>unable</u> to call her; she must be busy.", "Adjective"],
+    ["He completed the task <u>quickly</u>.", "Adverb"],
+    ["The hilarious movie makes them <u>laugh</u> loudly.", "Verb"],
+    ["The chef prepared a special <u>meal</u> for the guests.", "Noun"],
+    ["They will <u>visit</u> their grandparents this weekend.", "Verb"],
+    ["She is a patient woman, so she doesn't get angry <u>easily</u>.", "Adverb"],
+    ["I am <u>interested</u> in trying new things.", "Adjective"],
+    ["He <u>guided</u> us through the forest safely.", "Verb"],
+    ["Did you do <u>well</u> on your test?", "Adverb"],
+  ].map((x, i) => finalMockQuestion({ id: `final-real-2-wc-${i + 1}`, section: "I - Define the word classes", topic: "word-classes", prompt: x[0], options: wcOpts, answer: x[1] }))
+
+  const mcq = [
+    ["1. There are not _____ chairs in the room.", ["A. much", "B. any", "C. some", "D. a few"], "B. any", "nouns-quantifiers"],
+    ["2. I like this jacket. I think I might buy _____.", ["A. it", "B. them", "C. its", "D. they"], "A. it", "pronouns"],
+    ["3. This orange juice tastes _____.", ["A. well", "B. nicely", "C. fresh", "D. freshly"], "C. fresh", "adjectives"],
+    ["4. Ouch! I hurt my_____. It is red and bleeding now.", ["A. foot", "B. feet", "C. foots", "D. feets"], "A. foot", "nouns-quantifiers"],
+    ["5. My parents _____ dinner in the kitchen right now.", ["A. make", "B. are making", "C. made", "D. were making"], "B. are making", "present-tenses"],
+    ["6. There are too many _______ in the shop today.", ["A. peoples", "B. persons", "C. person", "D. people"], "D. people", "nouns-quantifiers"],
+    ["7. Sarah is very kind. Everybody likes _____.", ["A. hers", "B. she", "C. her", "D. herself"], "C. her", "pronouns"],
+    ["8. I can decorate the room by______", ["A. myself", "B. me", "C. my", "D. mine"], "A. myself", "pronouns"],
+    ["9. This soup tastes _____.", ["A. well", "B. good", "C. nicely", "D. badly"], "B. good", "adjectives"],
+    ["10. When I _____ (do) my homework, my sister _____ (call) me to tell me she'd get home late.", ["A. did/ called", "B. was did/ was calling", "C. was doing/ was called", "D. was doing/ called"], "D. was doing/ called", "past-tenses"],
+    ["11. The lesson today was very _____.", ["A. interest", "B. interesting", "C. interested", "D. interestingly"], "B. interesting", "adjectives"],
+    ["12. While the athletes _____(play) football, the cheerleaders _____(dance) to cheer them up.", ["A. played/ danced", "B. was playing/ were dancing", "C. were playing/ were dancing", "D. were played/ were danced"], "C. were playing/ were dancing", "past-tenses"],
+  ].map((x, i) => finalMockQuestion({ id: `final-real-2-mcq-${i + 1}`, section: "II - Choose the correct answer", topic: x[3], prompt: x[0], options: x[1], answer: x[2] }))
+
+  const articles = [
+    ["Last Saturday, we visited [input_0] only zoo in our town. First, we saw some animals; there were many", ["the"]],
+    ["[input_0] lions, so it was great. And then, we watched", ["none", "NONE", ""]],
+    ["[input_0] elephant show. This was a new show; I've never seen it before. I saw some giraffes there, too. My little sister wanted to take", ["an"]],
+    ["[input_0] picture with", ["a"]],
+    ["[input_0] giraffes, but they were too tall!", ["the"]],
+    ["After that, we bought [input_0] ice cream and sat under", ["an"]],
+    ["[input_0] big tree to rest. While we were eating,", ["a"]],
+    ["[input_0] squirrel climbed onto", ["a"]],
+    ["[input_0] bench next to us. It wasn't scared at all.", ["the"]],
+    ["Before going home, we stopped at [input_0] only gift shop in the zoo. I bought", ["the"]],
+    ["[input_0] small toy tiger, and my sister chose", ["a"]],
+    ["[input_0] colourful postcard. It was", ["a"]],
+    ["[input_0] really fun day, and we all enjoyed", ["a"]],
+    ["[input_0] trip. My dad said we might come again next", ["the"]],
+    ["[input_0] weekend.", ["none", "NONE", ""]],
+  ]
+  const articleItems = combineFillItems(articles, [5, 4, 6]).map((x, i) => finalMockQuestion({ id: `final-real-2-art-${i + 1}`, section: "III - Complete with A / AN / THE / NONE", topic: "articles-determiners", kind: "fill_blank", body: x[0], answers: x[1] }))
+
+  const verbs = [
+    ["I [input_0] (not / remember) his phone number. Can you give it to me again?", ["don't remember", "do not remember"]],
+    ["My little sister [input_0] (always / lose) her keys. It drives me crazy!", ["is always losing", "'s always losing"]],
+    ["A: Do you want to go to the movies?<br>B: I can't. I [input_0] (clean) the garage right now.", ["am cleaning", "'m cleaning"]],
+    ["Hurry! The bus [input_0] (leave). We need to run!", ["is leaving", "'s leaving"]],
+    ["A: What time [input_0] (the movie / begin)?<br>B: At 6:30 PM.", ["does the movie begin"]],
+    ["When I [input_0] (get) home last night, my mom was cooking dinner in the kitchen.", ["got"]],
+    ["When I got home last night, my mom [input_0] (cook) dinner in the kitchen.", ["was cooking"]],
+    ["I just have a fever, so I [input_0] (stay) at home and rest.", ["am going to stay", "'m going to stay", "will stay"]],
+    ["A: Where [input_0] (you/go) now?", ["are you going"]],
+    ["B: I [input_0] (go) to the supermarket.", ["am going", "'m going"]],
+    ["[input_0] (you/need) anything?<br>A: Yes!", ["do you need"]],
+    ["We [input_0] (not/have) any milk left.", ["don't have", "do not have"]],
+    ["[input_0] (you/can/buy) a bottle?<br>B: Sure!", ["can you buy"]],
+  ]
+  const verbItems = combineFillItems(verbs, [1, 1, 1, 1, 1, 2, 1, 5]).map((x, i) => finalMockQuestion({ id: `final-real-2-verb-${i + 1}`, section: "IV - Change the verb in the brackets to the correct tense", topic: i === 5 ? "past-tenses" : i === 6 ? "future-tenses" : "present-tenses", kind: "fill_blank", body: x[0], answers: x[1] }))
+
+  const questions = [...wordClass, ...mcq, ...articleItems, ...verbItems]
+  return {
+    key: "final-real-mock-2",
+    number: null,
+    title: "Final Mock Test 02 · 50 câu",
+    challenges: [],
+    contentBlocks: [],
+    exerciseGroups: [{ id: "final-real-mock-2-group", challengeId: null, challengeNumber: null, title: "GRAMMAR TEST", note: "MOCK TEST · Total: 50 questions · Time allowed: 45 minutes", introHtml: "", questions }],
+    scriptsRaw: null,
+    audio: [],
+    vocabPairs: [],
+    submissionSummary: { totalQuestion: 50, totalCorrect: 0, correctRate: null, commentText: null },
+  }
+}
+
+function buildGeneratedFinalMockLessons() {
+  const lessons = []
+  for (let n = 3; n <= 12; n++) {
+    const template = n % 2 === 1 ? "A" : "B"
+    lessons.push(buildGeneratedFinalMockLesson(n, template))
+  }
+  return lessons
+}
+
+function buildGeneratedFinalMockLesson(n, template) {
+  const wcOpts = ["Noun", "Verb", "Adjective", "Adverb"]
+  const suffix = String(n).padStart(2, "0")
+  const wordClass = makeWordClassSet(n).map((x, i) => finalMockQuestion({ id: `final-gen-${suffix}-wc-${i + 1}`, section: "I - Define the word classes", topic: "word-classes", prompt: `${i + 1}. ${x[0]}`, options: wcOpts, answer: x[1] }))
+  const mcqPlan = template === "A"
+    ? [["nouns-quantifiers", 3], ["pronouns", 3], ["present-tenses", 3], ["past-tenses", 2], ["future-tenses", 2], ["articles-determiners", 1], ["prepositions", 1], ["sentences-conjunctions", 2]]
+    : [["nouns-quantifiers", 3], ["pronouns", 3], ["adjectives", 3], ["present-tenses", 1], ["past-tenses", 2]]
+  const mcq = []
+  for (const [topic, count] of mcqPlan) {
+    for (let i = 0; i < count; i++) mcq.push(makeGeneratedMcq(topic, n * 7 + mcq.length + i))
+  }
+  const mcqQuestions = mcq.map((x, i) => finalMockQuestion({ id: `final-gen-${suffix}-mcq-${i + 1}`, section: "II - Choose the correct answer", topic: x.topic, prompt: `${i + 1}. ${x.prompt}`, options: x.options, answer: x.answer }))
+  const articles = combineFillItems(makeArticleSet(n, template), template === "A" ? [5, 5] : [5, 5, 5]).map((x, i) => finalMockQuestion({ id: `final-gen-${suffix}-art-${i + 1}`, section: "III - Complete with A / AN / THE / NONE", topic: "articles-determiners", kind: "fill_blank", body: x[0], answers: x[1] }))
+  const verbs = makeVerbSet(n).map((x, i) => finalMockQuestion({ id: `final-gen-${suffix}-verb-${i + 1}`, section: "IV - Change the verb in the brackets to the correct tense", topic: x[2], kind: "fill_blank", body: x[0], answers: x[1] }))
+  const questions = [...wordClass, ...mcqQuestions, ...articles, ...verbs]
+  return {
+    key: `final-generated-mock-${suffix}`,
+    number: null,
+    title: `Generated Final Mock Test ${suffix} · 50 câu`,
+    challenges: [],
+    contentBlocks: [],
+    exerciseGroups: [{ id: `final-generated-mock-${suffix}-group`, challengeId: null, challengeNumber: null, title: "GRAMMAR TEST", note: "MOCK TEST · Total: 50 questions · Time allowed: 45 minutes", introHtml: "", questions }],
+    scriptsRaw: null,
+    audio: [],
+    vocabPairs: [],
+    submissionSummary: { totalQuestion: 50, totalCorrect: 0, correctRate: null, commentText: null },
+  }
+}
+
+function combineFillItems(items, chunks) {
+  const out = []
+  let cursor = 0
+  for (const chunk of chunks) {
+    let blankIndex = 0
+    const bodies = []
+    const answers = []
+    for (const item of items.slice(cursor, cursor + chunk)) {
+      bodies.push(item[0].replace(/\[input_\d+\]/g, () => `[input_${blankIndex++}]`))
+      answers.push(item[1])
+    }
+    out.push([bodies.join(" "), answers])
+    cursor += chunk
+  }
+  return out
+}
+
+function makeWordClassSet(n) {
+  const sets = [
+    [["My mother cooked a delicious <u>meal</u> last night.", "Noun"], ["This room looks very <u>tidy</u> today.", "Adjective"], ["I often <u>phone</u> my friend after school.", "Verb"], ["He speaks English <u>clearly</u>.", "Adverb"], ["We had a <u>wonderful</u> trip to Da Nang.", "Adjective"], ["She can <u>cook</u> seafood very well.", "Verb"], ["My favourite room is the <u>kitchen</u>.", "Noun"], ["I usually go to bed <u>early</u>.", "Adverb"], ["They <u>visited</u> a museum yesterday.", "Verb"], ["The restaurant was quite <u>crowded</u>.", "Adjective"]],
+    [["I bought a new <u>book</u> at the weekend.", "Noun"], ["My brother is very <u>friendly</u>.", "Adjective"], ["We often <u>travel</u> by car.", "Verb"], ["She answered the question <u>quickly</u>.", "Adverb"], ["There is a <u>wardrobe</u> next to my bed.", "Noun"], ["The soup tastes <u>fresh</u>.", "Adjective"], ["I <u>exercise</u> every morning.", "Verb"], ["He usually arrives <u>late</u> for class.", "Adverb"], ["My sister <u>likes</u> romantic films.", "Verb"], ["The beach was really <u>beautiful</u>.", "Adjective"]],
+    [["She has long straight black <u>hair</u>.", "Noun"], ["My hometown is quite <u>peaceful</u>.", "Adjective"], ["I <u>study</u> English every evening.", "Verb"], ["He drives very <u>carefully</u>.", "Adverb"], ["We stayed in a small <u>hotel</u>.", "Noun"], ["The service was <u>excellent</u>.", "Adjective"], ["They <u>play</u> badminton twice a week.", "Verb"], ["She is <u>always</u> kind to children.", "Adverb"], ["My father <u>works</u> long hours.", "Verb"], ["This bag is too <u>heavy</u>.", "Adjective"]],
+    [["The <u>cinema</u> is opposite the bookshop.", "Noun"], ["He is an <u>easy-going</u> person.", "Adjective"], ["I usually <u>hang</u> out with my friends.", "Verb"], ["The baby is sleeping <u>quietly</u>.", "Adverb"], ["My birthday is in <u>July</u>.", "Noun"], ["This exercise is quite <u>simple</u>.", "Adjective"], ["She <u>wears</u> casual clothes.", "Verb"], ["I sometimes eat out <u>alone</u>.", "Adverb"], ["We <u>ordered</u> seafood for dinner.", "Verb"], ["The price was <u>reasonable</u>.", "Adjective"]],
+    [["There is a big <u>table</u> in the kitchen.", "Noun"], ["My uncle is very <u>generous</u>.", "Adjective"], ["They <u>clean</u> the house on Sundays.", "Verb"], ["She smiled <u>happily</u>.", "Adverb"], ["I had a bad <u>headache</u> yesterday.", "Noun"], ["The film was <u>boring</u>.", "Adjective"], ["We <u>watched</u> an elephant show.", "Verb"], ["He rarely gets up <u>late</u>.", "Adverb"], ["My parents <u>make</u> dinner together.", "Verb"], ["The streets are very <u>busy</u>.", "Adjective"]],
+  ]
+  return sets[(n - 3) % sets.length]
+}
+
+function makeGeneratedMcq(topic, seed) {
+  const bank = {
+    "nouns-quantifiers": [
+      ["There isn't _____ milk in the fridge.", ["A. many", "B. much", "C. a few", "D. a"], "B. much"],
+      ["How _____ books do you read in a month?", ["A. much", "B. many", "C. a little", "D. an"], "B. many"],
+      ["I need some _____ about the course.", ["A. informations", "B. information", "C. an information", "D. inform"], "B. information"],
+      ["There are two _____ in my family.", ["A. childs", "B. child", "C. children", "D. childrens"], "C. children"],
+      ["She has _____ friends in her hometown.", ["A. a little", "B. much", "C. a few", "D. an"], "C. a few"],
+      ["I only have _____ money, so I can't eat out tonight.", ["A. a little", "B. a few", "C. many", "D. an"], "A. a little"],
+      ["My dad bought two _____ of bread.", ["A. loafs", "B. loaves", "C. loaf", "D. loafes"], "B. loaves"],
+      ["There aren't _____ chairs in the living room.", ["A. some", "B. much", "C. any", "D. a"], "C. any"],
+      ["I have got a pair of _____.", ["A. glass", "B. glasses", "C. a glass", "D. glasss"], "B. glasses"],
+      ["We saw many _____ at the zoo.", ["A. animal", "B. animals", "C. an animal", "D. much animals"], "B. animals"],
+    ],
+    pronouns: [
+      ["Sarah is very kind. Everybody likes _____.", ["A. she", "B. her", "C. hers", "D. herself"], "B. her"],
+      ["This book is _____. I bought it yesterday.", ["A. my", "B. me", "C. mine", "D. myself"], "C. mine"],
+      ["The cat is washing _____ face.", ["A. it", "B. its", "C. it's", "D. their"], "B. its"],
+      ["I cooked dinner by _____.", ["A. me", "B. my", "C. mine", "D. myself"], "D. myself"],
+      ["My parents are teachers. _____ work at a school.", ["A. They", "B. Them", "C. Their", "D. Theirs"], "A. They"],
+      ["That is Lan's bag. It is _____.", ["A. she", "B. her", "C. hers", "D. herself"], "C. hers"],
+      ["I like this jacket. I think I will buy _____.", ["A. it", "B. them", "C. its", "D. they"], "A. it"],
+      ["Tom hurt _____ while he was playing football.", ["A. him", "B. his", "C. himself", "D. he"], "C. himself"],
+      ["These are my shoes. Those are _____.", ["A. your", "B. you", "C. yours", "D. yourself"], "C. yours"],
+      ["My sister and I live with _____ parents.", ["A. we", "B. us", "C. our", "D. ours"], "C. our"],
+    ],
+    adjectives: [
+      ["This orange juice tastes _____.", ["A. well", "B. nicely", "C. fresh", "D. freshly"], "C. fresh"],
+      ["He completed the task _____.", ["A. quick", "B. quickly", "C. quicker", "D. quickness"], "B. quickly"],
+      ["The film was _____. I fell asleep.", ["A. bored", "B. boring", "C. bore", "D. boringly"], "B. boring"],
+      ["I am _____ in reading books about animals.", ["A. interesting", "B. interest", "C. interested", "D. interestingly"], "C. interested"],
+      ["She has _____ hair.", ["A. long straight black", "B. black straight long", "C. straight black long", "D. long black straight"], "A. long straight black"],
+      ["My brother speaks English _____.", ["A. good", "B. well", "C. betterly", "D. nice"], "B. well"],
+      ["The restaurant was very _____.", ["A. crowd", "B. crowded", "C. crowding", "D. crowdedly"], "B. crowded"],
+      ["She is a _____ person.", ["A. friend", "B. friendly", "C. friendship", "D. friendlyly"], "B. friendly"],
+      ["The news was really _____.", ["A. shocked", "B. shocking", "C. shock", "D. shockingly"], "B. shocking"],
+      ["He is quite _____. He always keeps his room tidy.", ["A. neat", "B. neatly", "C. neatness", "D. neaterly"], "A. neat"],
+    ],
+    "present-tenses": [
+      ["Every morning, Jason _____ to school by bus.", ["A. go", "B. goes", "C. is going", "D. went"], "B. goes"],
+      ["Listen! The baby _____.", ["A. cries", "B. cry", "C. is crying", "D. cried"], "C. is crying"],
+      ["I _____ his phone number. Can you tell me?", ["A. don't know", "B. am not knowing", "C. doesn't know", "D. not know"], "A. don't know"],
+      ["My parents _____ dinner in the kitchen right now.", ["A. make", "B. are making", "C. made", "D. were making"], "B. are making"],
+      ["What time _____ the film begin?", ["A. do", "B. does", "C. is", "D. did"], "B. does"],
+      ["She usually _____ breakfast at 7 o'clock.", ["A. have", "B. has", "C. is having", "D. had"], "B. has"],
+      ["This week, I _____ for my final test.", ["A. study", "B. studies", "C. am studying", "D. studied"], "C. am studying"],
+      ["He _____ coffee because it keeps him awake.", ["A. likes", "B. is liking", "C. like", "D. liked"], "A. likes"],
+      ["Where _____ you going now?", ["A. do", "B. are", "C. did", "D. is"], "B. are"],
+      ["My sister is always _____ her keys.", ["A. lose", "B. loses", "C. losing", "D. lost"], "C. losing"],
+    ],
+    "past-tenses": [
+      ["We _____ to the cinema last night.", ["A. go", "B. went", "C. were going", "D. goes"], "B. went"],
+      ["While I _____ TV, the phone rang.", ["A. watched", "B. watch", "C. was watching", "D. am watching"], "C. was watching"],
+      ["Did you _____ your homework yesterday?", ["A. finished", "B. finish", "C. finishes", "D. finishing"], "B. finish"],
+      ["When I got home, my mum _____ dinner.", ["A. cooked", "B. cooks", "C. was cooking", "D. is cooking"], "C. was cooking"],
+      ["They _____ local food during the trip.", ["A. enjoy", "B. enjoyed", "C. were enjoy", "D. enjoys"], "B. enjoyed"],
+      ["I didn't _____ to school by bus yesterday.", ["A. went", "B. go", "C. goes", "D. going"], "B. go"],
+      ["At 8 pm last night, she _____ English.", ["A. studied", "B. studies", "C. was studying", "D. is studying"], "C. was studying"],
+      ["My family _____ a seafood restaurant last weekend.", ["A. visited", "B. visit", "C. was visiting", "D. visits"], "A. visited"],
+    ],
+    "future-tenses": [
+      ["Look at those clouds! It _____ rain.", ["A. will", "B. is going to", "C. goes to", "D. went to"], "B. is going to"],
+      ["I think I _____ stay at home tonight.", ["A. will", "B. am going", "C. was", "D. do"], "A. will"],
+      ["We _____ visit Hue next summer. We have already made a plan.", ["A. will", "B. are going to", "C. went to", "D. go"], "B. are going to"],
+      ["Maybe I _____ phone my friend later.", ["A. will", "B. am going", "C. was", "D. did"], "A. will"],
+      ["She _____ travel by train tomorrow.", ["A. is going to", "B. go to", "C. went to", "D. goes"], "A. is going to"],
+      ["A: I'm tired. B: I _____ help you clean the room.", ["A. am going to", "B. will", "C. went", "D. was"], "B. will"],
+    ],
+    "articles-determiners": [
+      ["I saw _____ elephant at the zoo.", ["A. a", "B. an", "C. the", "D. some"], "B. an"],
+      ["Can you close _____ door, please?", ["A. a", "B. an", "C. the", "D. any"], "C. the"],
+      ["She is _____ honest person.", ["A. a", "B. an", "C. the", "D. some"], "B. an"],
+      ["I bought _____ new phone yesterday.", ["A. a", "B. an", "C. the", "D. any"], "A. a"],
+      ["I like _____ cats.", ["A. a", "B. an", "C. the", "D. no article"], "D. no article"],
+    ],
+    prepositions: [
+      ["Let's meet _____ 7 o'clock.", ["A. in", "B. on", "C. at", "D. of"], "C. at"],
+      ["My birthday is _____ July.", ["A. in", "B. on", "C. at", "D. from"], "A. in"],
+      ["I often go shopping _____ the weekend.", ["A. in", "B. at", "C. on", "D. to"], "B. at"],
+      ["The picture is _____ the wall.", ["A. in", "B. on", "C. at", "D. under"], "B. on"],
+      ["She lives _____ Hanoi.", ["A. in", "B. on", "C. at", "D. by"], "A. in"],
+    ],
+    "sentences-conjunctions": [
+      ["I wanted to go out, _____ it was raining heavily.", ["A. and", "B. but", "C. so", "D. or"], "B. but"],
+      ["She was hungry, _____ she made a sandwich.", ["A. but", "B. or", "C. so", "D. nor"], "C. so"],
+      ["Would you like tea _____ coffee?", ["A. but", "B. or", "C. so", "D. because"], "B. or"],
+      ["I like my bedroom _____ it is quiet.", ["A. because", "B. but", "C. or", "D. nor"], "A. because"],
+      ["My brother likes football _____ badminton.", ["A. and", "B. but", "C. so", "D. nor"], "A. and"],
+    ],
+  }
+  const arr = bank[topic] || bank["nouns-quantifiers"]
+  const item = arr[seed % arr.length]
+  return { topic, prompt: item[0], options: item[1], answer: item[2] }
+}
+
+function makeArticleSet(n, template) {
+  const stories = [
+    [["Last Sunday, we went to [input_0] beach.", ["the"]], ["We had [input_0] picnic with my family.", ["a"]], ["My mum brought [input_0] sandwiches and fruit.", ["none", "NONE", ""]], ["[input_0] weather was sunny.", ["the"]], ["I saw [input_0] old boat near the sea.", ["an"]], ["[input_0] boat was blue and white.", ["the"]], ["My brother took [input_0] photo of it.", ["a"]], ["We played badminton on [input_0] sand.", ["the"]], ["It was [input_0] wonderful day.", ["a"]], ["We came home in [input_0] evening.", ["the"]]],
+    [["Yesterday, I went to [input_0] park in my hometown.", ["a"]], ["[input_0] park is next to a small lake.", ["the"]], ["There were [input_0] children playing near the gate.", ["none", "NONE", ""]], ["I saw [input_0] old man feeding birds.", ["an"]], ["[input_0] lake looked peaceful in the morning.", ["the"]], ["After that, I visited [input_0] cafe near the park.", ["a"]], ["I ordered [input_0] apple juice.", ["an"]], ["My friend had [input_0] cup of tea.", ["a"]], ["We talked about [input_0] hometown for a long time.", ["the"]], ["I want to visit [input_0] park again.", ["the"]]],
+    [["Last weekend, my family ate at [input_0] seafood restaurant.", ["a"]], ["[input_0] restaurant was near my house.", ["the"]], ["We ordered [input_0] soup to start the meal.", ["a"]], ["My dad chose [input_0] main dish.", ["the"]], ["I drank [input_0] water because I was thirsty.", ["none", "NONE", ""]], ["The waiter brought [input_0] big plate of fish.", ["a"]], ["[input_0] fish was fresh and tasty.", ["the"]], ["For dessert, we had [input_0] ice cream.", ["an"]], ["It was [input_0] nice evening.", ["a"]], ["I liked [input_0] service there.", ["the"]]],
+    [["On Saturday, I went to [input_0] shopping mall.", ["a"]], ["[input_0] shopping mall was very crowded.", ["the"]], ["I wanted to buy [input_0] T-shirt.", ["a"]], ["My sister bought [input_0] umbrella.", ["an"]], ["We looked at [input_0] shoes in a small shop.", ["none", "NONE", ""]], ["[input_0] shop assistant was friendly.", ["the"]], ["After shopping, we watched [input_0] film.", ["a"]], ["[input_0] film was funny.", ["the"]], ["We had dinner at [input_0] restaurant.", ["a"]], ["Then we went home by [input_0] bus.", ["none", "NONE", ""]]],
+    [["Last month, I took [input_0] trip to Hue.", ["a"]], ["[input_0] trip was with my classmates.", ["the"]], ["We visited [input_0] old palace.", ["an"]], ["[input_0] palace was beautiful.", ["the"]], ["We ate [input_0] local food for lunch.", ["none", "NONE", ""]], ["Our teacher told us [input_0] interesting story.", ["an"]], ["[input_0] story was about the city.", ["the"]], ["I bought [input_0] small postcard.", ["a"]], ["The postcard showed [input_0] river.", ["the"]], ["I hope to visit [input_0] city again.", ["the"]]],
+    [["My favourite room is [input_0] bedroom.", ["the"]], ["There is [input_0] small desk next to my bed.", ["a"]], ["I keep [input_0] books on the desk.", ["none", "NONE", ""]], ["There is [input_0] old lamp in the corner.", ["an"]], ["[input_0] lamp is from my grandmother.", ["the"]], ["I also have [input_0] wardrobe near the door.", ["a"]], ["[input_0] wardrobe is white and simple.", ["the"]], ["I often listen to [input_0] music there.", ["none", "NONE", ""]], ["It is [input_0] comfortable place to study.", ["a"]], ["I clean [input_0] room every Sunday.", ["the"]]],
+    [["Last Friday, our class had [input_0] English event.", ["an"]], ["[input_0] event was in the school hall.", ["the"]], ["There were [input_0] students from three classes.", ["none", "NONE", ""]], ["My teacher asked [input_0] question about hobbies.", ["a"]], ["[input_0] question was easy for me.", ["the"]], ["After that, we watched [input_0] short film.", ["a"]], ["[input_0] film was about a family trip.", ["the"]], ["My friend gave [input_0] interesting answer.", ["an"]], ["It was [input_0] useful lesson.", ["a"]], ["We went home in [input_0] afternoon.", ["the"]]],
+    [["Last week, my school held [input_0] sports day.", ["a"]], ["[input_0] sports day started at eight o'clock.", ["the"]], ["Many [input_0] students joined the games.", ["none", "NONE", ""]], ["I saw [input_0] exciting badminton match.", ["an"]], ["[input_0] match was between two classes.", ["the"]], ["My friend drank [input_0] water after running.", ["none", "NONE", ""]], ["A teacher gave him [input_0] orange.", ["an"]], ["We sat under [input_0] big tree to rest.", ["a"]], ["It was [input_0] healthy and fun morning.", ["a"]], ["I enjoyed [input_0] event a lot.", ["the"]]],
+    [["Yesterday, I helped my mum cook [input_0] dinner.", ["none", "NONE", ""]], ["We made [input_0] soup first.", ["a"]], ["[input_0] soup had vegetables and chicken.", ["the"]], ["Then we prepared [input_0] main dish.", ["the"]], ["My brother cut [input_0] onion for the dish.", ["an"]], ["I washed [input_0] rice carefully.", ["the"]], ["After dinner, we had [input_0] fruit.", ["none", "NONE", ""]], ["My dad said it was [input_0] tasty meal.", ["a"]], ["I cleaned [input_0] kitchen after eating.", ["the"]], ["It was [input_0] relaxing evening at home.", ["a"]]],
+    [["This morning, I walked around [input_0] centre of my hometown.", ["the"]], ["I visited [input_0] old bookshop near the market.", ["an"]], ["[input_0] bookshop was small but peaceful.", ["the"]], ["There were [input_0] interesting books on the shelves.", ["none", "NONE", ""]], ["I bought [input_0] notebook for English class.", ["a"]], ["Then I went to [input_0] river with my friend.", ["the"]], ["[input_0] river is a famous place in my town.", ["the"]], ["We took [input_0] photo there.", ["a"]], ["It was [input_0] lovely morning.", ["a"]], ["I love [input_0] fresh air in my hometown.", ["the"]]],
+  ]
+  const base = stories[(n - 3) % stories.length]
+  if (template === "A") return base
+  const extras = [
+    [["There was [input_0] only ice cream shop near the beach.", ["the"]], ["I bought [input_0] small bottle of water.", ["a"]], ["My sister chose [input_0] orange juice.", ["an"]], ["We saw [input_0] families playing together.", ["none", "NONE", ""]], ["Everyone enjoyed [input_0] day.", ["the"]]],
+    [["There was [input_0] only flower shop near the park.", ["the"]], ["I bought [input_0] small postcard.", ["a"]], ["My friend chose [input_0] interesting book.", ["an"]], ["We saw [input_0] people taking photos.", ["none", "NONE", ""]], ["I liked [input_0] peaceful atmosphere.", ["the"]]],
+    [["There was [input_0] only free table near the window.", ["the"]], ["We ordered [input_0] apple pie for dessert.", ["an"]], ["My mum had [input_0] cup of tea.", ["a"]], ["We talked about [input_0] food and service.", ["the"]], ["I want to visit [input_0] restaurant again.", ["the"]]],
+    [["There was [input_0] only bookshop on the first floor.", ["the"]], ["I bought [input_0] colourful notebook.", ["a"]], ["My sister chose [input_0] interesting comic book.", ["an"]], ["We saw [input_0] clothes on sale.", ["none", "NONE", ""]], ["Shopping was [input_0] tiring activity for my dad.", ["a"]]],
+    [["There was [input_0] only gift shop near the gate.", ["the"]], ["I bought [input_0] small toy.", ["a"]], ["My friend chose [input_0] old-style postcard.", ["an"]], ["We saw [input_0] tourists in the street.", ["none", "NONE", ""]], ["Everyone enjoyed [input_0] trip.", ["the"]]],
+  ]
+  return [...base, ...extras[(n - 3) % extras.length]]
+}
+
+function makeVerbSet(n) {
+  const sets = [
+    [
+      [`Every morning, Mina [input_0] (walk) to school, but today she [input_1] (take) the bus because it is raining.`, [["walks"], ["is taking", "'s taking"]], "present-tenses"],
+      [`A: Do you want to go to the cinema now?<br>B: I can't. I [input_0] (help) my mum in the kitchen right now.`, [["am helping", "'m helping"]], "present-tenses"],
+      [`I [input_0] (not / know) the answer. What time [input_1] (the lesson / begin)?`, [["don't know", "do not know"], ["does the lesson begin"]], "present-tenses"],
+      [`Last summer, we [input_0] (travel) to Nha Trang and [input_1] (enjoy) the local food.`, [["travelled", "traveled"], ["enjoyed"]], "past-tenses"],
+      [`While I [input_0] (read) a book, my friend [input_1] (call) me to chat.`, [["was reading"], ["called"]], "past-tenses"],
+      [`When I [input_0] (get) home last night, my mum [input_1] (cook) dinner.`, [["got"], ["was cooking"]], "past-tenses"],
+      [`Look at those clouds! It [input_0] (rain) soon. I think I [input_1] (stay) at home tonight.`, [["is going to rain", "'s going to rain"], ["will stay"]], "future-tenses"],
+    ],
+    [
+      [`My father usually [input_0] (clean) the living room on Sundays, but today he [input_1] (repair) the kitchen door.`, [["cleans"], ["is repairing", "'s repairing"]], "present-tenses"],
+      [`A: Where [input_0] (you / go) now?<br>B: I [input_1] (go) to the supermarket.`, [["are you going"], ["am going", "'m going"]], "present-tenses"],
+      [`We [input_0] (not / have) any milk left. Can you buy a bottle?`, [["don't have", "do not have"]], "present-tenses"],
+      [`Yesterday, my sister [input_0] (buy) some vegetables and [input_1] (make) soup for dinner.`, [["bought"], ["made"]], "past-tenses"],
+      [`While we [input_0] (watch) a film, the phone [input_1] (ring).`, [["were watching"], ["rang"]], "past-tenses"],
+      [`When I [input_0] (come) home, my brother [input_1] (do) his homework.`, [["came"], ["was doing"]], "past-tenses"],
+      [`I am tired now, so I [input_0] (go) to bed early. Next weekend, we [input_1] (paint) my bedroom.`, [["will go"], ["are going to paint", "'re going to paint"]], "future-tenses"],
+    ],
+    [
+      [`My family often [input_0] (eat) out at the weekend, but tonight we [input_1] (cook) at home.`, [["eats"], ["are cooking", "'re cooking"]], "present-tenses"],
+      [`A: What [input_0] (you / order) now?<br>B: I [input_1] (choose) the main dish.`, [["are you ordering"], ["am choosing", "'m choosing"]], "present-tenses"],
+      [`This soup [input_0] (taste) fresh, so I don't want any dessert.`, [["tastes"]], "present-tenses"],
+      [`Last Friday, we [input_0] (visit) a seafood restaurant and [input_1] (try) the local fish.`, [["visited"], ["tried"]], "past-tenses"],
+      [`While the waiter [input_0] (bring) our food, my dad [input_1] (book) a table for next week.`, [["was bringing"], ["booked"]], "past-tenses"],
+      [`When we [input_0] (arrive), the restaurant [input_1] (get) very crowded.`, [["arrived"], ["was getting"]], "past-tenses"],
+      [`I think the service [input_0] (be) better next time. We [input_1] (come) back on Sunday.`, [["will be"], ["are going to come", "'re going to come", "will come"]], "future-tenses"],
+    ],
+    [
+      [`Lan usually [input_0] (go) shopping with her mum, but today she [input_1] (shop) with her friends.`, [["goes"], ["is shopping", "'s shopping"]], "present-tenses"],
+      [`A: What [input_0] (you / look) for?<br>B: I [input_1] (look) for a warm jacket.`, [["are you looking"], ["am looking", "'m looking"]], "present-tenses"],
+      [`This T-shirt [input_0] (look) nice, but it doesn't fit me.`, [["looks"]], "present-tenses"],
+      [`Last weekend, I [input_0] (buy) a book and [input_1] (watch) a film at the cinema.`, [["bought"], ["watched"]], "past-tenses"],
+      [`While I [input_0] (choose) a notebook, my sister [input_1] (find) a beautiful umbrella.`, [["was choosing"], ["found"]], "past-tenses"],
+      [`When we [input_0] (leave) the shopping mall, it [input_1] (rain) heavily.`, [["left"], ["was raining"]], "past-tenses"],
+      [`I think I [input_0] (buy) this jacket. Next month, we [input_1] (visit) the new shopping mall.`, [["will buy"], ["are going to visit", "'re going to visit"]], "future-tenses"],
+    ],
+    [
+      [`My brother usually [input_0] (drink) enough water, but this week he [input_1] (feel) tired.`, [["drinks"], ["is feeling", "'s feeling"]], "present-tenses"],
+      [`A: What [input_0] (you / do) now?<br>B: I [input_1] (take) some medicine for my headache.`, [["are you doing"], ["am taking", "'m taking"]], "present-tenses"],
+      [`He [input_0] (not / eat) many vegetables, so he often gets a cold.`, [["doesn't eat", "does not eat"]], "present-tenses"],
+      [`Yesterday, I [input_0] (have) a toothache and [input_1] (go) to the dentist.`, [["had"], ["went"]], "past-tenses"],
+      [`While I [input_0] (wait) at the clinic, my mum [input_1] (phone) me.`, [["was waiting"], ["phoned", "called"]], "past-tenses"],
+      [`When the doctor [input_0] (see) me, I [input_1] (feel) very nervous.`, [["saw"], ["was feeling", "felt"]], "past-tenses"],
+      [`I think I [input_0] (rest) tonight. Tomorrow, I [input_1] (drink) more water.`, [["will rest"], ["am going to drink", "'m going to drink", "will drink"]], "future-tenses"],
+    ],
+  ]
+  return sets[(n - 3) % sets.length]
 }
 
 /* -------------------- Main -------------------- */
@@ -830,6 +1269,9 @@ function main() {
   const finalTests = buildFinalTests({ perLesson, topicsIndex, ctx })
   if (finalTests.generatedLesson) {
     perLesson["final-generated"] = finalTests.generatedLesson
+  }
+  for (const lesson of finalTests.realMockLessons || []) {
+    perLesson[lesson.key] = lesson
   }
   if (finalTests.poolEntry) {
     topicsIndex.topics[finalTests.poolEntry.key] = finalTests.poolEntry.entry

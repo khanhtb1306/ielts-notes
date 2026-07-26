@@ -5,7 +5,7 @@ import { cn } from "@/lib/utils"
 interface TocEntry {
   id: string
   text: string
-  level: 1 | 2 | 3
+  level: 1 | 2 | 3 | 4 | 5
 }
 
 function slug(input: string): string {
@@ -19,7 +19,7 @@ function slug(input: string): string {
     .slice(0, 60)
 }
 
-const HEADING_SELECTOR = "h1, h2, h3"
+const HEADING_SELECTOR = "h1, h2, h3, h4, h5"
 // Skip headings inside interactive/decorative containers.
 const SKIP_ANCESTORS = ["[data-toc-skip]", ".sidebar-scope", "nav", "aside"]
 
@@ -39,7 +39,8 @@ export function TableOfContents({
     if (!root) return
 
     const scan = () => {
-      const headings = Array.from(root.querySelectorAll<HTMLElement>(HEADING_SELECTOR))
+      const scope = root.querySelector<HTMLElement>("[data-toc-root]") || root
+      const headings = Array.from(scope.querySelectorAll<HTMLElement>(HEADING_SELECTOR))
       const usedIds = new Set<string>()
       const list: TocEntry[] = []
 
@@ -68,7 +69,7 @@ export function TableOfContents({
         // Ensure sticky topbar doesn't cover heading on anchor jump.
         if (!h.classList.contains("scroll-mt-20")) h.classList.add("scroll-mt-20")
 
-        const level = (parseInt(h.tagName.substring(1), 10) as 1 | 2 | 3) || 2
+        const level = (parseInt(h.tagName.substring(1), 10) as 1 | 2 | 3 | 4 | 5) || 2
         list.push({ id, text, level })
       }
       setEntries(list.slice(0, 80))
@@ -139,7 +140,7 @@ export function TableOfContents({
         <div className="text-[11px] font-bold uppercase tracking-widest text-muted-foreground mb-3">
           Trong trang này
         </div>
-        <nav className="space-y-0.5">
+        <nav className="space-y-0.5 text-sm">
           {entries.map((e) => (
             <a
               key={e.id}
@@ -147,10 +148,12 @@ export function TableOfContents({
               onClick={handleJump(e.id)}
               title={e.text}
               className={cn(
-                "block text-sm leading-snug py-1 border-l-2 hover:text-primary hover:border-primary transition-colors truncate",
+                "block leading-snug py-1 border-l-2 hover:text-primary hover:border-primary transition-colors truncate",
                 e.level === 1 && "font-medium pl-3",
                 e.level === 2 && "pl-4",
                 e.level === 3 && "pl-6 text-xs",
+                e.level === 4 && "pl-8 text-xs",
+                e.level === 5 && "pl-10 text-[11px]",
                 activeId === e.id
                   ? "border-primary text-primary"
                   : "border-border text-muted-foreground"

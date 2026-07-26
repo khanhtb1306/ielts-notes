@@ -262,12 +262,31 @@ export interface FinalTestSet {
   label: string
   seed: number
   total: number
+  note?: string
+  source?: "real" | "generated"
+  questions?: FinalTestRef[]
+}
+
+export interface FinalTestBlueprintSection {
+  id: string
+  label: string
+  instruction: string
+  total: number
+  questionTypes: QuestionKind[]
+  mix: { topic: string; percent: number }[]
+}
+
+export interface FinalTestBlueprint {
+  total: number
+  timeMinutes: number
+  sections: FinalTestBlueprintSection[]
 }
 
 export interface FinalTests {
   poolKey: string
   poolTotal: number
   generatedCount: number
+  blueprint: FinalTestBlueprint
   realMock: FinalRealMock | null
   sets: FinalTestSet[]
 }

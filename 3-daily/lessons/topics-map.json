@@ -12,6 +12,7 @@
     "nouns-quantifiers":    { "label": "Nouns & Quantifiers", "viLabel": "Danh từ & Lượng từ", "skill": "grammar" },
     "modal-verbs":          { "label": "Modal Verbs", "viLabel": "Động từ khiếm khuyết (Modals)", "skill": "grammar" },
     "prepositions":         { "label": "Prepositions", "viLabel": "Giới từ", "skill": "grammar" },
+    "sentences-conjunctions": { "label": "Sentences & Conjunctions", "viLabel": "Câu & liên từ", "skill": "grammar" },
 
     "vowels":               { "label": "Vowels", "viLabel": "Nguyên âm", "skill": "pronunciation" },
     "consonants":           { "label": "Consonants", "viLabel": "Phụ âm", "skill": "pronunciation" },
