@@ -982,8 +982,7 @@
         },
         "correctAnswer": {
           "input_0": [
-            "I like going sightseeing when I'm on holiday.|I like to go sightseeing when I'm on holiday.",
-            "I like going sightseeing when I am on holiday.|I like to go sightseeing when I'm on holiday."
+            "I like going sightseeing when I'm on holiday.|I like to go sightseeing when I'm on holiday."
           ]
         },
         "resultAnswer": {
@@ -1105,8 +1104,7 @@
         "correctAnswer": {
           "input_0": [
             "7",
-            "I am well paid.",
-            "I'm well paid."
+            "I am well paid."
           ],
           "input_1": [
             "10",
@@ -1204,8 +1202,7 @@
           ],
           "input_1": [
             "8",
-            "I have to travel a lot.",
-            "I've to travel a lot."
+            "I have to travel a lot."
           ]
         },
         "resultAnswer": {
@@ -1252,8 +1249,7 @@
           ],
           "input_1": [
             "3",
-            "I'm always really tired when I get home at night.",
-            "I am always really tired when I get home at night."
+            "I'm always really tired when I get home at night."
           ]
         },
         "resultAnswer": {

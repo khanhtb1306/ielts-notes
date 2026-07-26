@@ -201,12 +201,10 @@
         },
         "correctAnswer": {
           "input_0": [
-            "I'm really sick of it.",
-            "I am really sick of it."
+            "I'm really sick of it."
           ],
           "input_1": [
-            "I'm well-paid.",
-            "I am well-paid."
+            "I'm well-paid."
           ],
           "input_2": [
             "It takes me two hours to go to school every day.",
@@ -215,8 +213,7 @@
             "It takes me 2 hours to get to school every day."
           ],
           "input_3": [
-            "The only trouble is, I have to work long hours.",
-            "The only trouble is, I've to work long hours."
+            "The only trouble is, I have to work long hours."
           ],
           "input_4": [
             "It's hard work."
@@ -405,7 +402,7 @@
           ],
           "input_2": [
             "businessmen",
-            "office workers"
+            " office workers"
           ],
           "input_3": [
             "women"
@@ -423,7 +420,7 @@
             "fish"
           ],
           "input_8": [
-            "a policeman"
+            " a policeman"
           ]
         },
         "resultAnswer": {

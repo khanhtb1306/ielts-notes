@@ -111,8 +111,7 @@
         },
         "correctAnswer": {
           "input_0": [
-            "I don't often listen to the radio.",
-            "I do not often listen to the radio."
+            "I don't often listen to the radio."
           ],
           "input_1": [
             "We need some more bookshelves in this room."
@@ -134,9 +133,7 @@
           ],
           "input_7": [
             "I don't watch TV anymore, so can you turn the TV off?",
-            "I don't watch TV anymore, so can you turn off the TV?",
-            "I do not watch TV anymore, so can you turn the TV off?",
-            "I do not watch TV anymore, so can you turn off the TV?"
+            "I don't watch TV anymore, so can you turn off the TV?"
           ],
           "input_8": [
             "She is sleepy, so she goes to bed early."
@@ -228,7 +225,7 @@
           ],
           "input_9": [
             "seven people",
-            "7 people"
+            " 7 people"
           ],
           "input_10": [
             "bedrooms"
@@ -504,8 +501,7 @@
             "What is your place like?"
           ],
           "input_3": [
-            "We don't have much furniture.",
-            "We do not have much furniture."
+            "We don't have much furniture."
           ],
           "input_4": [
             "The bathroom is very small."

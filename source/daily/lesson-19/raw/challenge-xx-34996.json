@@ -1,0 +1,135 @@
+{
+  "listItem": {
+    "id": "86065",
+    "challenge_id": 34996,
+    "class_id": "177286917873dop75b27mv",
+    "day": 19,
+    "deadline": "2026-07-28 12:30:00",
+    "challenge_title": "[PRE IELTS] LESSON 19 - SPEAKING CHALLENGE",
+    "challenge_note": "Practice Speaking (updated)",
+    "challenge_status": 1,
+    "challenge_band": "161433861829325240c1g7",
+    "total_question": null,
+    "classification": "dc"
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "86065",
+        "challenge_id": 34996,
+        "class_id": "177286917873dop75b27mv",
+        "day": 19,
+        "deadline": "2026-07-28 12:30:00",
+        "challenge": {
+          "id": 34996,
+          "title": "[PRE IELTS] LESSON 19 - SPEAKING CHALLENGE",
+          "note": "Practice Speaking (updated)",
+          "total_question": null,
+          "classification": "dc"
+        }
+      }
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 94317,
+          "content": "<p dir=\"ltr\" style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-family: Nunito-ExtraBold; font-size: 16pt; color: #ffffff;\"><span style=\"box-sizing: border-box; background-color: #ba372a;\"><span style=\"box-sizing: border-box;\"> </span><span style=\"box-sizing: border-box; font-weight: bolder;\">SPEAKING REVIEW </span></span></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt;\"><span style=\"box-sizing: border-box; font-weight: bolder;\">a. Quay video trả lời các câu hỏi có trong link video sau để luyện phản xạ:</span></span></p>\n<ul>\n<li dir=\"ltr\" style=\"box-sizing: border-box; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt;\"><span style=\"box-sizing: border-box;\">Truy cập link:<strong> <a href=\"https://youtu.be/b5d-0g_CrhI\" target=\"_blank\" rel=\"noopener\">https://youtu.be/b5d-0g_CrhI</a></strong></span></span></li>\n<li dir=\"ltr\" style=\"box-sizing: border-box; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt;\"><span style=\"box-sizing: border-box;\">Trường hợp trả lời xong trước khi kết thúc thời gian chờ hoặc câu hỏi không liên quan đến trải nghiệm đã có (ở các câu hỏi về gia đình) thì HV có thể <span style=\"background-color: #fbeeb8;\">sử dụng Timestamp ở phần mô tả hoặc phần bình luận</span> để chuyển sang câu hỏi khác. </span></span></li>\n</ul>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        },
+        {
+          "id": 94318,
+          "content": null,
+          "index": 1,
+          "type": "video",
+          "audio_url": null,
+          "video_url": "https://www.youtube.com/embed/b5d-0g_CrhI",
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 94319,
+          "content": "<p style=\"color: #242938; background-color: #ffffff;\"> </p>\n<p style=\"color: #242938; background-color: #ffffff;\"><strong>b. Tự tổng hợp và ôn tập lại cách hỏi và trả lời cho các câu hỏi từ đầu khoá đến giờ. Ấn nghe từng câu hỏi và phản xạ ngay lập tức nhé!</strong></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><strong><a href=\"https://drive.google.com/drive/folders/13q25UFvnqE95MvCdPWvqYgggnKXRA9Vs?usp=sharing\" target=\"_blank\" rel=\"noopener\" data-cke-saved-href=\"https://drive.google.com/drive/folders/13q25UFvnqE95MvCdPWvqYgggnKXRA9Vs?usp=sharing\">Tổng hợp audio câu hỏi</a></strong></p>",
+          "index": 2,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 34996,
+          "id": 339084,
+          "name": null,
+          "title": "SPEAKING",
+          "content": null,
+          "explain": null,
+          "introduction": "<p style=\"line-height: 2;\"><span style=\"color: #242938; font-family: Nunito-Regular; font-size: 16px; font-weight: bold; background-color: #fbeeb8;\">a. Quay video trả lời các câu hỏi: </span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff; line-height: 2;\"><span style=\"color: #ba372a;\"><strong>Điền link video vào ô sau: </strong></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 34996,
+          "id": 339085,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": "<p dir=\"ltr\" style=\"font-size: 16px; box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; background-color: #ffffff;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"font-size: 16px; box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt;\"><span style=\"box-sizing: border-box; font-weight: bolder;\">b. Tự tổng hợp v&agrave; &ocirc;n tập lại c&aacute;ch hỏi v&agrave; trả lời cho c&aacute;c c&acirc;u hỏi từ đầu kho&aacute; đến giờ. Ấn nghe từng c&acirc;u hỏi v&agrave; phản xạ ngay lập tức nh&eacute;!</span></span></p>\n<p style=\"font-family: sans-serif;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"font-size: 16px; box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><a style=\"box-sizing: border-box;\" href=\"https://drive.google.com/drive/folders/13q25UFvnqE95MvCdPWvqYgggnKXRA9Vs?usp=sharing\" target=\"_blank\" rel=\"noopener\" data-cke-saved-href=\"https://drive.google.com/drive/folders/13q25UFvnqE95MvCdPWvqYgggnKXRA9Vs?usp=sharing\">Tổng hợp audio c&acirc;u hỏi</a></span></span></p>\n<p dir=\"ltr\" style=\"font-size: 16px; box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; background-color: #ffffff;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"font-size: 16px; box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; background-color: #ffffff;\">&nbsp;</p>",
+          "link_image": null,
+          "url_image": null,
+          "type": null,
+          "answer": null
+        }
+      ],
+      "message": null
+    }
+  }
+}

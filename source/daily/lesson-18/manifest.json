@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "lesson": 18,
+  "lessonKey": "lesson-18",
+  "title": "Lesson 18",
+  "source": "LangGo daily challenge API",
+  "rawFolder": "raw/",
+  "files": {
+    "overview": "overview.md",
+    "content": "content.json",
+    "exercises": "exercises.json",
+    "scripts": "scripts.json",
+    "submission": "submission.json",
+    "audioManifest": "audio/manifest.json",
+    "imageManifest": "images/manifest.json"
+  },
+  "challenges": [
+    {
+      "id": 34744,
+      "challengeId": 34744,
+      "classChallengeId": "85818",
+      "number": 1,
+      "title": "[PRE IELTS] LESSON 18 - CHALLENGE 1",
+      "note": "Grammar (Sentence structures) | Listening",
+      "day": 18,
+      "deadline": "2026-07-25 12:30:00",
+      "totalQuestion": 56,
+      "classification": "dc",
+      "rawFile": "raw/challenge-01-34744.json"
+    },
+    {
+      "id": 34745,
+      "challengeId": 34745,
+      "classChallengeId": "85819",
+      "number": 2,
+      "title": "[PRE IELTS] LESSON 18 - CHALLENGE 2",
+      "note": "Vocabulary & Speaking (Health and illness)",
+      "day": 18,
+      "deadline": "2026-07-25 12:30:00",
+      "totalQuestion": 10,
+      "classification": "dc",
+      "rawFile": "raw/challenge-02-34745.json"
+    }
+  ]
+}

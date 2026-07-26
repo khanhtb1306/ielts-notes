@@ -1,0 +1,752 @@
+{
+  "listItem": {
+    "id": "86121",
+    "challenge_id": 35058,
+    "class_id": "177286917873dop75b27mv",
+    "day": 19,
+    "deadline": "2026-07-25 18:51:00",
+    "challenge_title": "[PRE IELTS ] LESSON 19 - MOCK TEST",
+    "challenge_note": "Review",
+    "challenge_status": 1,
+    "challenge_band": "161433861829325240c1g7",
+    "total_question": 50,
+    "classification": "mock-test"
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "86121",
+        "challenge_id": 35058,
+        "class_id": "177286917873dop75b27mv",
+        "day": 19,
+        "deadline": "2026-07-25 18:51:00",
+        "challenge": {
+          "id": 35058,
+          "title": "[PRE IELTS ] LESSON 19 - MOCK TEST",
+          "note": "Review",
+          "total_question": 50,
+          "classification": "mock-test"
+        }
+      }
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 94503,
+          "content": "<p><span id=\"docs-internal-guid-08f3d76e-7fff-7e55-0de8-ddea34c82248\" style=\"font-family: Nunito-Black; color: #ba372a;\"><span style=\"font-size: 20pt; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">MOCK TEST</span></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 14pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #236fa1;\">Total:</span> 50 questions (1pt/question)</span></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 14pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #236fa1;\">Time allowed: </span>45 minutes</span></span></p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 35058,
+          "id": 339741,
+          "name": null,
+          "title": "GRAMMAR TEST",
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span id=\"docs-internal-guid-82e33961-7fff-e661-71f1-044bb0de8b1d\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">I - Define the word classes of the </span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space-collapse: preserve;\">underlined</span><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> words as they are used in the sentences below. Tick &lsquo;✓&rsquo; your answers. Only ONE &lsquo;✓&rsquo; for each word. </span></span></p>\n<p><span style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">E.g: <span style=\"font-family: Nunito-ExtraLight;\"><em>That <span style=\"text-decoration: underline;\">cat</span> is so cute.</em></span> <span style=\"font-family: Nunito-ExtraLight;\">=&gt; Noun &nbsp;</span></span></span><span style=\"font-family: Nunito-ExtraLight; font-size: 16px; font-weight: bold; white-space-collapse: preserve;\">✓</span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 6,
+          "answer": {
+            "questions": [
+              {
+                "id": 26662,
+                "content": "<p><span id=\"docs-internal-guid-189c9581-7fff-5e23-a2dc-8a49183452b4\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">1. She gave me a questioning </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space-collapse: preserve;\">look</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">.</span></span></p>"
+              },
+              {
+                "id": 26663,
+                "content": "<p><span id=\"docs-internal-guid-bef91196-7fff-149c-1a06-cbd271fe753a\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">2. The city is a </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space-collapse: preserve;\">safe</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> place to live.</span></span></p>"
+              },
+              {
+                "id": 26664,
+                "content": "<p><span id=\"docs-internal-guid-cdb4e854-7fff-2024-e884-4417ef3f234d\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">3. I usually </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space-collapse: preserve;\">stream</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> movies.</span></span></p>"
+              },
+              {
+                "id": 26665,
+                "content": "<p><span id=\"docs-internal-guid-6461900c-7fff-8ce3-e7f3-d26693ff12ca\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">4. She has to work </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space-collapse: preserve;\">late</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> tomorrow. </span></span></p>"
+              },
+              {
+                "id": 26666,
+                "content": "<p><span id=\"docs-internal-guid-79d2b0d8-7fff-e901-24d9-7136c0c8a5bd\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 13pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">5. He found it </span><span style=\"font-size: 13pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space-collapse: preserve;\">extremely</span><span style=\"font-size: 13pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> difficult to get a job.</span></span></p>"
+              },
+              {
+                "id": 26667,
+                "content": "<p><span id=\"docs-internal-guid-b9885e15-7fff-bc5d-7239-0c71e82d3f81\" style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">6. My friend will </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space-collapse: preserve;\">pay</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> for the tickets.</span></span></p>"
+              },
+              {
+                "id": 26668,
+                "content": "<p><span id=\"docs-internal-guid-0b3c2f63-7fff-2424-6712-f5ecadaeb59c\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">7. I go to </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space-collapse: preserve;\">work</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> at 8 o'clock.</span></span></p>"
+              },
+              {
+                "id": 26669,
+                "content": "<p><span id=\"docs-internal-guid-762d4b3f-7fff-4aa6-b77c-e9f8e07f51b4\" style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">8. I do the same thing every day. I'm </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space-collapse: preserve;\">sick</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> of it.</span></span></p>"
+              },
+              {
+                "id": 26670,
+                "content": "<p><span id=\"docs-internal-guid-3288de2f-7fff-75a6-ceaf-f633d431a3e4\" style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">9. An accident can happen </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space-collapse: preserve;\">anywhere</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">.</span></span></p>"
+              },
+              {
+                "id": 26671,
+                "content": "<p><span id=\"docs-internal-guid-8ee7371e-7fff-9b11-b920-0a85f4b16130\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">10. They </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space-collapse: preserve;\">decided</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> to travel by train.</span></span></p>"
+              }
+            ],
+            "answers": [
+              {
+                "id": 32418,
+                "content": "Noun"
+              },
+              {
+                "id": 32419,
+                "content": "Verb"
+              },
+              {
+                "id": 32420,
+                "content": "Adjective"
+              },
+              {
+                "id": 32421,
+                "content": "Adverb"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 35058,
+          "id": 339742,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span id=\"docs-internal-guid-3e3fc927-7fff-6254-ad0c-24aa1d0909ab\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">II - Choose the correct answer.</span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": null,
+          "answer": null
+        },
+        {
+          "challenge_id": 35058,
+          "id": 339743,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-9966698f-7fff-0815-2381-46c774b600d0\" style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">1. I don&rsquo;t have __________ money, so I&rsquo;ll have to wait to get a new coat. </span></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 709557,
+                "content": "A. a piece of"
+              },
+              {
+                "id": 709558,
+                "content": "B. a few"
+              },
+              {
+                "id": 709559,
+                "content": "C. much"
+              },
+              {
+                "id": 709560,
+                "content": "D. many"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 35058,
+          "id": 339744,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">2. Right now, Margaret&nbsp; __________ a shower. Do you want to ring later? </span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 709561,
+                "content": "A. has"
+              },
+              {
+                "id": 709562,
+                "content": "B. have"
+              },
+              {
+                "id": 709563,
+                "content": "C. is having"
+              },
+              {
+                "id": 709564,
+                "content": "D. are having"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 35058,
+          "id": 339745,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-b4d0c027-7fff-f51a-c2cc-ff5c57ab9757\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">3. There are __________ people in the park today. They&rsquo;re holding a very big flower festival here. </span></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 709565,
+                "content": "A. much"
+              },
+              {
+                "id": 709566,
+                "content": "B. many"
+              },
+              {
+                "id": 709567,
+                "content": "C. a lot"
+              },
+              {
+                "id": 709568,
+                "content": "D. few"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 35058,
+          "id": 339746,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">4. Let&rsquo;s meet __________ five o&rsquo;clock, shall we? </span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 709569,
+                "content": "A. in"
+              },
+              {
+                "id": 709570,
+                "content": "B. on"
+              },
+              {
+                "id": 709571,
+                "content": "C. at"
+              },
+              {
+                "id": 709572,
+                "content": "D. of"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 35058,
+          "id": 339747,
+          "name": null,
+          "title": null,
+          "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. Ly: Have you made plans for the summer?</span></p>\n<p><span id=\"docs-internal-guid-3c837be6-7fff-71d5-fd7f-b2f6dd1a3685\" style=\"font-size: 12pt; font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Hai: Yes.&nbsp; __________&nbsp; Malaysia. </span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 709573,
+                "content": "A. We're going to"
+              },
+              {
+                "id": 709574,
+                "content": "B. We go"
+              },
+              {
+                "id": 709575,
+                "content": "C. We'll go"
+              },
+              {
+                "id": 709576,
+                "content": "D. We were going to"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 35058,
+          "id": 339748,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular; font-size: 12pt; white-space-collapse: preserve;\">6. We __________ to the cinema last night. </span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 709577,
+                "content": "A. go"
+              },
+              {
+                "id": 709578,
+                "content": "B. going"
+              },
+              {
+                "id": 709579,
+                "content": "C. went"
+              },
+              {
+                "id": 709580,
+                "content": "D. goes"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 35058,
+          "id": 339749,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">7. We&rsquo;ve walked miles! My __________ are hurting!</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 709581,
+                "content": "A. foots"
+              },
+              {
+                "id": 709582,
+                "content": "B. feet"
+              },
+              {
+                "id": 709583,
+                "content": "C. foot"
+              },
+              {
+                "id": 709584,
+                "content": "D. feets"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 35058,
+          "id": 339750,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">8. I love your hair. __________ really soft.&nbsp;</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 709585,
+                "content": "A. It's"
+              },
+              {
+                "id": 709586,
+                "content": "B. They're"
+              },
+              {
+                "id": 709587,
+                "content": "C. Which is"
+              },
+              {
+                "id": 709588,
+                "content": "D. It'll"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 35058,
+          "id": 339751,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-d4df9e3a-7fff-4bba-9484-96dc1eb5f1e1\" style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">9. I heard there&rsquo;s __________ new sports shop in town. Let&rsquo;s see what they have. </span></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 709589,
+                "content": "A. a"
+              },
+              {
+                "id": 709590,
+                "content": "B. the"
+              },
+              {
+                "id": 709591,
+                "content": "C. an"
+              },
+              {
+                "id": 709592,
+                "content": "D. some"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 35058,
+          "id": 339752,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\">10. Scientists are working hard to find cures for lots of diseases, but __________ haven&rsquo;t found a cure for the common cold yet.&nbsp;</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 709593,
+                "content": "A. you"
+              },
+              {
+                "id": 709594,
+                "content": "B. it"
+              },
+              {
+                "id": 709595,
+                "content": "C. we"
+              },
+              {
+                "id": 709596,
+                "content": "D. they"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 35058,
+          "id": 339753,
+          "name": null,
+          "title": null,
+          "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">11. Jane: That&rsquo;s great, Cathy. Did you make that&nbsp; __________?</span></p>\n<p><span id=\"docs-internal-guid-6bd7074b-7fff-b510-2616-53fa483f236e\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Cathy: Yeah, isn&rsquo;t it beautiful? </span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 709597,
+                "content": "A. herself"
+              },
+              {
+                "id": 709598,
+                "content": "B. myself"
+              },
+              {
+                "id": 709599,
+                "content": "C. yourself"
+              },
+              {
+                "id": 709600,
+                "content": "D. themselves"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 35058,
+          "id": 339754,
+          "name": null,
+          "title": null,
+          "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">12. Thanh: John is a better player than Martin, isn&rsquo;t he?&nbsp;</span></p>\n<p><span id=\"docs-internal-guid-0239ed52-7fff-5f38-6da2-530ac80aa1f2\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; text-align: justify; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Tuan: Oh, yes. __________ the match tomorrow, I expect. </span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 709601,
+                "content": "A. He'll win"
+              },
+              {
+                "id": 709602,
+                "content": "B. He wins"
+              },
+              {
+                "id": 709603,
+                "content": "C. He's winning"
+              },
+              {
+                "id": 709604,
+                "content": "D. He won"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 35058,
+          "id": 339755,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">13. __________ the piano for two hours every day?&nbsp;</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 709605,
+                "content": "A. Do you practise"
+              },
+              {
+                "id": 709606,
+                "content": "B. Are you practising"
+              },
+              {
+                "id": 709607,
+                "content": "C. Were you practising"
+              },
+              {
+                "id": 709608,
+                "content": "D. Did you practised"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 35058,
+          "id": 339756,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-8061c0f3-7fff-e26c-bb71-80fe8942ad29\" style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">14. When you rang, I __________ my bike.</span></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 709609,
+                "content": "A. cleaned"
+              },
+              {
+                "id": 709610,
+                "content": "B. was cleaning"
+              },
+              {
+                "id": 709611,
+                "content": "C. used to clean"
+              },
+              {
+                "id": 709612,
+                "content": "D. clean"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 35058,
+          "id": 339757,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-43e0cf91-7fff-80f2-e5c9-1c748f6a0f2f\" style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">15. I wanted to go for a walk, __________ it was raining heavily.</span></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 709613,
+                "content": "A. or"
+              },
+              {
+                "id": 709614,
+                "content": "B. nor"
+              },
+              {
+                "id": 709615,
+                "content": "C. and"
+              },
+              {
+                "id": 709616,
+                "content": "D. but"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 35058,
+          "id": 339758,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-7d93347e-7fff-1033-d238-93ed840bac39\" style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">16. Leon never __________ about it, but he was once a world-champion skier. </span></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 709617,
+                "content": "A. talks"
+              },
+              {
+                "id": 709618,
+                "content": "B. is talking"
+              },
+              {
+                "id": 709619,
+                "content": "C. was talking"
+              },
+              {
+                "id": 709620,
+                "content": "D. talk"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 35058,
+          "id": 339759,
+          "name": null,
+          "title": null,
+          "content": "<p><span id=\"docs-internal-guid-6d86292f-7fff-aa7c-31f4-b936b3bfa934\" style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">17. She was very hungry, __________ she made herself a sandwich.</span></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 709621,
+                "content": "A. but"
+              },
+              {
+                "id": 709622,
+                "content": "B. so"
+              },
+              {
+                "id": 709623,
+                "content": "C. and"
+              },
+              {
+                "id": 709624,
+                "content": "D. nor"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 35058,
+          "id": 339760,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span id=\"docs-internal-guid-7f511fd3-7fff-663a-0d48-93dc08698252\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">III - Complete the sentences with A / AN or THE. You can write NONE for a blank.</span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 82123,
+              "content": "<p><span id=\"docs-internal-guid-176f9c9f-7fff-bf60-e9b8-b78cc101739f\"></span></p>\n<ol>\n<li dir=\"ltr\" style=\"line-height: 2.05715; text-align: justify;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Last weekend, we went to (1) [input_0] beach for (2) [input_1] picnic. (3) [input_2] weather was perfect, and we had (4) [input_3] great time swimming in (5) [input_4] sea.</span></li>\n<li dir=\"ltr\" style=\"line-height: 2.05715; text-align: justify;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Alice is (6) [input_5] talented musician. She plays (7) [input_6] piano beautifully and has performed in (8) [input_7] many concerts. She dreams of becoming (9) [input_8] professional artist and traveling around (10) [input_9] world.</span></li>\n</ol>"
+            }
+          }
+        },
+        {
+          "challenge_id": 35058,
+          "id": 339761,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span id=\"docs-internal-guid-3f64897b-7fff-046a-da17-aaab57077b03\" style=\"font-family: Nunito-Regular; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">IV - Change the verb in the brackets to the correct tense. </span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 82124,
+              "content": "<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-right: -19.322834645669246pt; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. Hoa: The storm has been terrible, hasn't it? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-right: -19.322834645669246pt; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">    Phuong: Yes, it [input_0] </span><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(rain)</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> again later.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. Last summer, we [input_1] </span><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(travel)</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> to Italy and [input_2] </span><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(visit) </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">many beautiful cities.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. While I [input_3] </span><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(read)</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> a book, my friend [input_4] </span><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(call)</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> me to chat.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. Be quiet! The baby</span><span style=\"color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> [input_5]</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(sleep) </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">in the next room.</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. I [input_6] </span><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(not / know)</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> what to do this weekend. Maybe I [input_7]</span><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> (go) </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">to the beach, or I [input_8] </span><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(stay) </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">at home and relax.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. When I was a child, I [input_9] </span><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(want) </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">to be an astronaut. Now, I [input_10] </span><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(study)</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> engineering.</span></span></p>\n<p><span id=\"docs-internal-guid-28497d8f-7fff-4d6f-907b-d52f79560412\" style=\"font-size: 12pt; font-family: Nunito-Regular;\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.7999999999999998; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. Every morning, Jason [input_11] </span><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(walk)</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> to work, but today he [input_12] </span><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(take) </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">the bus because it's raining.</span></span></p>"
+            }
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}
