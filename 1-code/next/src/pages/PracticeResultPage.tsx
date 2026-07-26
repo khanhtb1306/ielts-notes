@@ -98,11 +98,7 @@ export function PracticeResultPage() {
 
       <section>
         <h3 className="text-lg font-semibold mb-3">Xem lại toàn bộ đề</h3>
-        <Card>
-          <CardContent className="p-6">
-            <FullPaperReview detail={entry.detail} />
-          </CardContent>
-        </Card>
+        <FullPaperReview detail={entry.detail} total={entry.total} />
       </section>
 
       {wrong.length === 0 ? (
@@ -167,7 +163,7 @@ export function PracticeResultPage() {
   )
 }
 
-function FullPaperReview({ detail }: { detail: LightGradedItem[] }) {
+function FullPaperReview({ detail, total }: { detail: LightGradedItem[]; total: number }) {
   const groups: { title: string; items: typeof detail }[] = []
   for (const item of detail) {
     const title = item.q.title || "Final Test"
@@ -177,13 +173,20 @@ function FullPaperReview({ detail }: { detail: LightGradedItem[] }) {
   }
 
   return (
-    <div className="space-y-6">
-      {groups.map((group) => (
-        <section key={group.title} className="space-y-3 border-t border-border pt-5 first:border-t-0 first:pt-0">
-          <h4 className="text-base font-extrabold">{reviewTitle(group.title)}</h4>
-          {renderReviewGroup(group)}
-        </section>
-      ))}
+    <div className="rounded-2xl border border-border bg-card p-6 shadow-sm">
+      <div className="mb-5 border-b border-border pb-4">
+        <h2 className="text-xl font-extrabold">GRAMMAR TEST</h2>
+        <p className="mt-1 text-sm text-muted-foreground">MOCK TEST · Total: {total} questions · Time allowed: 45 minutes</p>
+        <p className="mt-2 text-xs text-muted-foreground">Review mode: đáp án đúng màu xanh; đáp án sai màu đỏ và có đáp án đúng ngay bên cạnh.</p>
+      </div>
+      <div className="space-y-6">
+        {groups.map((group) => (
+          <section key={group.title} className="space-y-3 border-t border-border pt-5 first:border-t-0 first:pt-0">
+            <h3 className="text-base font-extrabold">{reviewTitle(group.title)}</h3>
+            {renderReviewGroup(group)}
+          </section>
+        ))}
+      </div>
     </div>
   )
 }
@@ -262,8 +265,12 @@ function McqReview({ items }: { items: ReviewItem[] }) {
               const isUser = user === String(opt.id)
               const isCorrect = correct === String(opt.id)
               return (
-                <div key={String(opt.id)} className={`rounded-md border px-2 py-1 ${choiceBoxClass(isUser, isCorrect)}`}>
-                  {opt.text} {isUser && isCorrect ? "✓" : isUser ? "✗" : isCorrect ? "✓" : ""}
+                <div key={String(opt.id)} className={`flex items-center gap-2 rounded-md border px-2 py-1 ${choiceBoxClass(isUser, isCorrect)}`}>
+                  <span className={`inline-flex h-4 w-4 shrink-0 items-center justify-center rounded-full border text-[10px] ${choiceCircleClass(isUser, isCorrect)}`}>
+                    {isUser || isCorrect ? "●" : ""}
+                  </span>
+                  <span>{opt.text}</span>
+                  <span className="ml-auto font-bold">{isUser && isCorrect ? "✓" : isUser ? "✗" : isCorrect ? "✓" : ""}</span>
                 </div>
               )
             })}
@@ -330,9 +337,9 @@ function renderBlankAnswer(userRaw: unknown, accepted: string[]) {
   const user = String(userRaw || "").trim()
   const ok = accepted.map(normStr).includes(normStr(user))
   const correct = displayAccepted(accepted)
-  if (ok) return <span className="font-semibold text-emerald-700 dark:text-emerald-300">{user || correct} ✓</span>
+  if (ok) return <span className="inline-flex min-w-12 justify-center border-b border-dashed border-emerald-500 px-1 font-semibold text-emerald-700 dark:text-emerald-300">{user || correct} ✓</span>
   return (
-    <span className="inline-flex items-baseline gap-1">
+    <span className={`inline-flex min-w-12 items-baseline justify-center gap-1 border-b border-dashed px-1 ${ok ? "border-emerald-500" : "border-destructive"}`}>
       <span className="font-semibold text-destructive line-through decoration-destructive">{user || "—"}</span>
       <span className="font-semibold text-emerald-700 dark:text-emerald-300">→ {correct}</span>
     </span>
@@ -356,6 +363,13 @@ function choiceBoxClass(isUser: boolean, isCorrect: boolean): string {
   if (isUser) return "border-destructive/50 bg-destructive/10 text-destructive"
   if (isCorrect) return "border-emerald-500/50 bg-emerald-500/10 text-emerald-800 dark:text-emerald-200"
   return "border-border bg-muted/20"
+}
+
+function choiceCircleClass(isUser: boolean, isCorrect: boolean): string {
+  if (isUser && isCorrect) return "border-emerald-600 text-emerald-700 dark:text-emerald-300"
+  if (isUser) return "border-destructive text-destructive"
+  if (isCorrect) return "border-emerald-600 text-emerald-700 dark:text-emerald-300"
+  return "border-muted-foreground/50 text-transparent"
 }
 
 function splitBlankHtml(body: string): (string | number)[] {
