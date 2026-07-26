@@ -1,4 +1,4 @@
-import { useMemo } from "react"
+import { Fragment, useMemo } from "react"
 import { useParams, useNavigate } from "react-router-dom"
 import { Card, CardContent } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
@@ -214,6 +214,21 @@ function renderReviewGroup(group: { title: string; items: LightGradedItem[] }) {
 
 type ReviewItem = LightGradedItem
 
+function Explain({ html }: { html?: string }) {
+  if (!html) return null
+  return (
+    <details className="mt-1.5 rounded-md border border-amber-200 bg-amber-50/70 dark:border-amber-900 dark:bg-amber-950/20">
+      <summary className="cursor-pointer px-2.5 py-1 text-xs font-semibold text-amber-800 dark:text-amber-200">
+        💡 Giải thích cách làm
+      </summary>
+      <div
+        className="markdown-note px-3 pb-2 pt-0.5 text-xs leading-5"
+        dangerouslySetInnerHTML={{ __html: html }}
+      />
+    </details>
+  )
+}
+
 function WordClassReview({ items }: { items: ReviewItem[] }) {
   const columns = items[0]?.q.options?.map((o) => o.text) || ["Noun", "Verb", "Adjective", "Adverb"]
   return (
@@ -230,20 +245,29 @@ function WordClassReview({ items }: { items: ReviewItem[] }) {
             const user = String(item.ans ?? "")
             const correct = String(item.q.correctAnswer?.[0] ?? "")
             return (
-              <tr key={item.i} className="border-b border-border/70">
-                <td className="py-3 pr-4 font-semibold text-foreground" dangerouslySetInnerHTML={{ __html: item.q.promptHtml }} />
-                {columns.map((c) => {
-                  const opt = item.q.options?.find((o) => o.text === c)
-                  const id = String(opt?.id ?? c)
-                  const isUser = user === id || user === c
-                  const isCorrect = correct === id || correct === c
-                  return (
-                    <td key={c} className="py-3 text-center">
-                      <span className={choiceMarkClass(isUser, isCorrect)}>{isUser || isCorrect ? "✓" : "○"}</span>
+              <Fragment key={item.i}>
+                <tr className={item.ok ? "" : "bg-destructive/5"}>
+                  <td className="py-3 pr-4 font-semibold text-foreground" dangerouslySetInnerHTML={{ __html: item.q.promptHtml }} />
+                  {columns.map((c) => {
+                    const opt = item.q.options?.find((o) => o.text === c)
+                    const id = String(opt?.id ?? c)
+                    const isUser = user === id || user === c
+                    const isCorrect = correct === id || correct === c
+                    return (
+                      <td key={c} className="py-3 text-center">
+                        <span className={choiceMarkClass(isUser, isCorrect)}>{isUser && isCorrect ? "✓" : isUser ? "✗" : isCorrect ? "✓" : "○"}</span>
+                      </td>
+                    )
+                  })}
+                </tr>
+                {item.q.explanationHtml && (
+                  <tr className="border-b border-border/70">
+                    <td colSpan={columns.length + 1} className="pb-3">
+                      <Explain html={item.q.explanationHtml} />
                     </td>
-                  )
-                })}
-              </tr>
+                  </tr>
+                )}
+              </Fragment>
             )
           })}
         </tbody>
@@ -275,6 +299,7 @@ function McqReview({ items }: { items: ReviewItem[] }) {
               )
             })}
           </div>
+          <Explain html={item.q.explanationHtml} />
         </div>
       ))}
     </div>
@@ -289,10 +314,13 @@ function FillReview({ items, showBlankNumbers = false, showItemNumbers = false }
         const start = blankCursor
         blankCursor += item.q.blanks?.length || 1
         return (
-          <p key={item.i} className="whitespace-pre-wrap">
-            {showItemNumbers && <span className="mr-1 tabular-nums">{itemIndex + 1}.</span>}
-            <FillInlineReview item={item} startNumber={showBlankNumbers ? start : undefined} />
-          </p>
+          <div key={item.i}>
+            <p className="whitespace-pre-wrap">
+              {showItemNumbers && <span className="mr-1 tabular-nums">{itemIndex + 1}.</span>}
+              <FillInlineReview item={item} startNumber={showBlankNumbers ? start : undefined} />
+            </p>
+            <Explain html={item.q.explanationHtml} />
+          </div>
         )
       })}
     </div>

@@ -735,6 +735,246 @@ function questionPointCount(q) {
   return q.kind === "fill_blank" && q.blanks && q.blanks.length ? q.blanks.length : 1
 }
 
+/* -------------------- Final mock explanations (Vietnamese) -------------------- */
+function explainWordClass(cls) {
+  const c = String(cls).toLowerCase()
+  if (c === "noun") return "<b>Noun (danh từ)</b>: chỉ người, vật, nơi chốn hay sự việc. Ở câu này từ đó đóng vai người/vật."
+  if (c === "verb") return "<b>Verb (động từ)</b>: chỉ hành động hoặc trạng thái mà chủ ngữ thực hiện."
+  if (c === "adjective") return "<b>Adjective (tính từ)</b>: miêu tả/bổ nghĩa cho danh từ (đứng trước danh từ hoặc sau to be, taste, feel...)."
+  if (c === "adverb") return "<b>Adverb (trạng từ)</b>: bổ nghĩa cho động từ/tính từ/trạng từ (trả lời How/When/Where), thường có đuôi -ly."
+  return "Xét chức năng của từ trong câu để chọn từ loại."
+}
+function explainArticle(a) {
+  const x = String(a).toLowerCase()
+  if (x === "the") return "<b>the</b>: vật/người xác định — đã nhắc trước đó, là duy nhất, hoặc cả người nói và người nghe đều biết."
+  if (x === "a") return "<b>a</b> + danh từ số ít đếm được bắt đầu bằng ÂM phụ âm; dùng khi nhắc lần đầu."
+  if (x === "an") return "<b>an</b> + danh từ số ít bắt đầu bằng ÂM nguyên âm (an apple, an hour, an honest man)."
+  return "<b>NONE</b> (không mạo từ): danh từ số nhiều/không đếm được mang nghĩa chung, hoặc bữa ăn/môn học/mốc thời gian như next weekend."
+}
+function explainPreposition(a) {
+  if (a === "in") return "<b>in</b>: tháng, năm, mùa, buổi trong ngày, không gian lớn (in July, in 1999, in Hanoi)."
+  if (a === "on") return "<b>on</b>: thứ/ngày cụ thể và bề mặt (on Monday, on the wall)."
+  if (a === "at") return "<b>at</b>: giờ cụ thể và cụm 'at the weekend', điểm nhỏ (at 7 o'clock)."
+  if (a === "under") return "<b>under</b>: ở phía dưới."
+  return "Chọn giới từ theo cụm cố định đã học."
+}
+function explainPronoun(a) {
+  if (a === "it") return "<b>it</b>: thay cho vật/danh từ số ít."
+  if (a === "it's") return "<b>it's</b> = it is (đừng nhầm với 'its')."
+  if (a === "its") return "<b>its</b>: sở hữu 'của nó' (không có dấu phẩy trên)."
+  if (a === "they") return "<b>they</b>: chủ ngữ số nhiều."
+  if (a === "them") return "<b>them</b>: tân ngữ số nhiều."
+  if (a === "her") return "<b>her</b>: làm tân ngữ ('likes her') hoặc tính từ sở hữu ('her bag')."
+  if (a === "hers") return "<b>hers</b>: đại từ sở hữu (của cô ấy), thay cho 'her + N'."
+  if (a === "mine") return "<b>mine</b>: đại từ sở hữu (của tôi), thay cho 'my + N'."
+  if (a === "yours") return "<b>yours</b>: đại từ sở hữu (của bạn)."
+  if (a === "our") return "<b>our</b>: tính từ sở hữu, đứng trước danh từ (our parents)."
+  if (a === "ours") return "<b>ours</b>: đại từ sở hữu (của chúng tôi)."
+  if (/(self|selves)$/.test(a)) return `<b>${a}</b>: đại từ phản thân — chủ ngữ tự làm hành động cho chính mình.`
+  return "Chọn đại từ theo vai trò: chủ ngữ / tân ngữ / sở hữu / phản thân."
+}
+function explainQuantifier(a, raw) {
+  if (a === "much") return "<b>much</b> + danh từ KHÔNG đếm được (much money, much water)."
+  if (a === "many") return "<b>many</b> + danh từ đếm được số nhiều (many books)."
+  if (a === "a few") return "<b>a few</b> + danh từ đếm được số nhiều = một vài."
+  if (a === "a little") return "<b>a little</b> + danh từ không đếm được = một chút."
+  if (a === "few") return "<b>few</b>: rất ít (đếm được), gần như không."
+  if (a === "little") return "<b>little</b>: rất ít (không đếm được)."
+  if (a === "any") return "<b>any</b>: dùng trong câu phủ định và câu hỏi."
+  if (a === "some") return "<b>some</b>: dùng trong câu khẳng định và lời mời/đề nghị."
+  if (a === "information") return "<b>information</b> là danh từ không đếm được: không thêm -s và không dùng a/an."
+  if (["children", "feet", "people", "mice", "teeth", "men", "women"].includes(a)) return `Số nhiều bất quy tắc: <b>${raw}</b> (không thêm -s).`
+  if (a === "loaves") return "Danh từ tận cùng -f/-fe đổi thành -ves: loaf → <b>loaves</b>."
+  if (/s$/.test(a)) return `Danh từ đếm được số nhiều thêm -s/-es: <b>${raw}</b>.`
+  return "Chọn dạng danh từ/lượng từ đúng theo đếm được / không đếm được."
+}
+function explainAdjective(a, raw) {
+  if (a === "friendly") return "<b>friendly</b> là TÍNH TỪ (dù có đuôi -ly): đứng trước danh từ hoặc sau to be."
+  if (a === "well") return "Sau động từ chỉ hành động dùng TRẠNG TỪ <b>well</b> (speak English well)."
+  if (a === "good") return "Sau động từ nối (taste/look/be) dùng TÍNH TỪ <b>good</b>."
+  if (/ing$/.test(a)) return "Tính từ đuôi <b>-ing</b>: miêu tả tính chất gây ra cảm xúc (boring, interesting, shocking)."
+  if (/ed$/.test(a)) return "Tính từ đuôi <b>-ed</b>: miêu tả cảm xúc của người (bored, interested, shocked)."
+  if (/ly$/.test(a)) return "Dùng TRẠNG TỪ (đuôi -ly) để bổ nghĩa cho động từ."
+  if (String(raw).trim().includes(" ")) return "Thứ tự tính từ: Opinion–Size–Age–Shape–Colour–Origin–Material (vd: long straight black hair)."
+  return "Sau động từ nối hoặc trước danh từ dùng TÍNH TỪ; bổ nghĩa động từ dùng TRẠNG TỪ."
+}
+function explainConjunction(a) {
+  if (a === "but") return "<b>but</b> = nhưng (tương phản)."
+  if (a === "so") return "<b>so</b> = vì vậy (kết quả)."
+  if (a === "or") return "<b>or</b> = hoặc (lựa chọn)."
+  if (a === "and") return "<b>and</b> = và (nối cùng loại)."
+  if (a === "nor") return "<b>nor</b> = cũng không (phủ định nối tiếp)."
+  if (a === "because") return "<b>because</b> = bởi vì (nêu lý do)."
+  return "Chọn liên từ theo quan hệ ý nghĩa giữa hai vế."
+}
+function explainModal(a) {
+  if (a === "mustn't" || a === "must not") return "<b>mustn't</b> = cấm, không được phép."
+  if (a === "could") return "<b>could</b> = khả năng trong quá khứ (When I was young, I could...)."
+  if (a === "should") return "<b>should</b> = nên (lời khuyên)."
+  if (a === "can") return "<b>can</b> = có thể; sau modal dùng V nguyên mẫu (không 'to', không thêm -s)."
+  return "Sau modal verb luôn dùng động từ nguyên mẫu."
+}
+function explainVerbForm(raw) {
+  const ans = String(raw).trim()
+  const a = " " + ans.toLowerCase() + " "
+  if (a.includes(" going to ")) return "<b>be going to + V</b>: kế hoạch đã định trước hoặc dự đoán có bằng chứng ở hiện tại."
+  if (/\bwill\b/.test(a)) return "<b>will + V</b> (nguyên mẫu): dự đoán theo ý kiến hoặc quyết định ngay lúc nói."
+  if (/\b(was|were)\s+\w+ing\b/.test(a)) return "<b>Quá khứ tiếp diễn</b> (was/were + V-ing): hành động đang xảy ra ở quá khứ, thường bị hành động khác xen vào (while/when)."
+  if (/\b(am|is|are|'m|'s|'re)\b[^.]*ing\b/.test(a)) return "<b>Hiện tại tiếp diễn</b> (am/is/are + V-ing): hành động đang diễn ra ngay bây giờ / quanh hiện tại."
+  if (/\b(don't|doesn't|do not|does not)\b/.test(a)) return "<b>Hiện tại đơn (phủ định)</b>: do/does + not + V; he/she/it dùng doesn't."
+  if (/\b(didn't|did not)\b/.test(a)) return "<b>Quá khứ đơn (phủ định)</b>: did + not + V (nguyên mẫu)."
+  if (/^(do|does|did|am|is|are|was|were|can|will)\s+\w+/.test(ans) && /\b(you|he|she|it|we|they|the)\b/.test(a)) return "<b>Thể nghi vấn</b>: đưa trợ động từ (do/does/did/am/is/are...) lên trước chủ ngữ, động từ chính về nguyên mẫu."
+  const irregular = ["got", "went", "made", "bought", "came", "rang", "found", "left", "saw", "felt", "had", "drank", "chose", "brought", "booked", "ran", "took", "gave", "said", "did", "tried"]
+  if (/\w+ed$/.test(ans) || irregular.includes(ans.toLowerCase())) return "<b>Quá khứ đơn</b> (V2 / V-ed): hành động đã xảy ra và kết thúc trong quá khứ (yesterday, last..., ago)."
+  return "<b>Hiện tại đơn</b>: thói quen/sự thật; chủ ngữ he/she/it thêm -s/-es."
+}
+function stripOptionLabel(s) {
+  return String(s).replace(/^[A-D][.)]\s*/, "").trim()
+}
+function stripTags(s) {
+  return String(s).replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/\s+/g, " ").trim()
+}
+
+// Small lexicon of uncountable nouns used in the course vocabulary.
+const UNCOUNTABLE_NOUNS = new Set([
+  "money", "water", "milk", "sugar", "information", "bread", "rice", "salt", "time",
+  "food", "homework", "advice", "news", "tea", "coffee", "juice", "music", "weather", "work", "sand",
+])
+
+function firstWordAfterBlank(prompt) {
+  const m = String(prompt).match(/_{2,}\s*([A-Za-z']+)/)
+  return m ? m[1].toLowerCase() : ""
+}
+function underlinedWord(prompt) {
+  const m = String(prompt).match(/<u>([^<]+)<\/u>/)
+  return m ? m[1].trim() : ""
+}
+/** Parse a fill body ("... [input_0] beach ... [input_1] (travel) ...") into per-blank context. */
+function blankContexts(body) {
+  const parts = String(body || "").split(/\[input_\d+\]/)
+  const out = []
+  for (let i = 1; i < parts.length; i++) {
+    const seg = stripTags(parts[i])
+    const verb = seg.match(/^\(([^)]+)\)/) || seg.match(/\(([^)]+)\)/)
+    const noun = seg.match(/^([A-Za-z']+)/)
+    out.push({ verb: verb ? verb[1].replace(/\s*\/\s*/g, " / ").trim() : "", noun: noun ? noun[1] : "" })
+  }
+  return out
+}
+
+/** Per-question detail derived from the sentence itself (keyword / signal). */
+function specificMcq(topic, prompt, ans) {
+  const a = String(ans).toLowerCase()
+  const p = stripTags(prompt).toLowerCase()
+  if (topic === "word-classes") {
+    const w = underlinedWord(prompt)
+    return w ? `Từ gạch chân “${w}” trong câu này đóng vai ${ans.toLowerCase()}.` : ""
+  }
+  if (topic === "nouns-quantifiers") {
+    const noun = firstWordAfterBlank(prompt)
+    if (["much", "many", "a little", "a few", "little", "few"].includes(a) && noun) {
+      const unc = UNCOUNTABLE_NOUNS.has(noun)
+      return `“${noun}” là danh từ ${unc ? "KHÔNG đếm được" : "đếm được số nhiều"} → chọn “${ans}”.`
+    }
+    const irr = { feet: "foot", children: "child", people: "person", mice: "mouse", teeth: "tooth", men: "man", women: "woman", loaves: "loaf" }
+    if (irr[a]) return `“${ans}” là số nhiều bất quy tắc của “${irr[a]}”.`
+    if (a === "any") return "Câu ở dạng phủ định/nghi vấn nên dùng “any”."
+    if (a === "information") return "“information” không đếm được nên không thêm -s, không dùng a/an."
+    return ""
+  }
+  if (/tenses$/.test(topic)) {
+    const markers = [["right now", "hiện tại tiếp diễn (đang xảy ra)"], ["at the moment", "hiện tại tiếp diễn"], ["listen", "hiện tại tiếp diễn"], ["look at", "tương lai gần be going to (có bằng chứng)"], ["this week", "hiện tại tiếp diễn"], [" now", "hiện tại tiếp diễn"], ["every", "hiện tại đơn (thói quen)"], ["always", "hiện tại đơn / be always V-ing"], ["usually", "hiện tại đơn"], ["often", "hiện tại đơn"], ["last night", "quá khứ đơn"], ["last ", "quá khứ đơn"], ["yesterday", "quá khứ đơn"], [" ago", "quá khứ đơn"], ["while", "quá khứ tiếp diễn (while + V-ing)"], ["when ", "quá khứ (hành động xen vào)"], ["tomorrow", "tương lai"], ["next ", "tương lai"], ["clouds", "be going to (dự đoán có bằng chứng)"]]
+    for (const [mk, tense] of markers) if (p.includes(mk)) return `Dấu hiệu “${mk.trim()}” → dùng ${tense}.`
+    return ""
+  }
+  if (topic === "articles-determiners") {
+    const noun = firstWordAfterBlank(prompt)
+    if (a === "an" && noun) return `“${noun}” bắt đầu bằng âm nguyên âm → dùng “an”.`
+    if (a === "a" && noun) return `“${noun}” bắt đầu bằng âm phụ âm → dùng “a”.`
+    if (a === "no article" || a === "none") return "Danh từ số nhiều/mang nghĩa chung nên không dùng mạo từ."
+    if (a === "the" && noun) return `Ở đây “${noun}” là vật xác định → dùng “the”.`
+    return ""
+  }
+  if (topic === "prepositions") {
+    const obj = firstWordAfterBlank(prompt)
+    return obj ? `Cụm “${a} ${obj}” là cách dùng cố định đã học.` : ""
+  }
+  if (topic === "adjectives") {
+    if (/ing$/.test(a)) return "Miêu tả tính chất của sự vật/sự việc → tính từ đuôi -ing."
+    if (/ed$/.test(a)) return "Miêu tả cảm xúc của người → tính từ đuôi -ed."
+    if (a.includes(" ")) return "Sắp theo trật tự Opinion–Size–Age–Shape–Colour."
+    return ""
+  }
+  if (topic === "sentences-conjunctions") {
+    if (a === "but") return "Hai vế trái ngược nhau → dùng “but”."
+    if (a === "so") return "Vế sau là kết quả của vế trước → dùng “so”."
+    if (a === "because") return "Vế sau nêu lý do → dùng “because”."
+    if (a === "or") return "Đưa ra lựa chọn → dùng “or”."
+    if (a === "and") return "Nối hai ý cùng loại → dùng “and”."
+    return ""
+  }
+  return ""
+}
+
+function explainMcq(topic, prompt, rawAnswer) {
+  const ans = stripOptionLabel(rawAnswer)
+  const a = ans.toLowerCase()
+  let rule
+  if (topic === "word-classes") rule = explainWordClass(ans)
+  else if (topic === "articles-determiners") rule = explainArticle(a === "no article" ? "none" : a)
+  else if (topic === "prepositions") rule = explainPreposition(a)
+  else if (topic === "pronouns") rule = explainPronoun(a)
+  else if (topic === "nouns-quantifiers") rule = explainQuantifier(a, ans)
+  else if (topic === "adjectives") rule = explainAdjective(a, ans)
+  else if (topic === "sentences-conjunctions") rule = explainConjunction(a)
+  else if (topic === "modal-verbs") rule = explainModal(a)
+  else if (/tenses$/.test(topic)) rule = explainVerbForm(ans)
+  else rule = "Chọn dạng đúng theo ngữ pháp đã học."
+  const specific = specificMcq(topic, prompt, ans)
+  const head = `Đáp án: <b>${ans}</b>.`
+  const detail = specific ? ` <b>Câu này:</b> ${specific}` : ""
+  return `${head}${detail}<br><b>Quy tắc:</b> ${rule}`
+}
+function articleAnswerOf(group) {
+  const low = (group || []).map((x) => String(x).toLowerCase())
+  if (low.includes("the")) return "the"
+  if (low.includes("an")) return "an"
+  if (low.includes("a")) return "a"
+  return "none"
+}
+function explainFill(topic, answerGroups, body) {
+  const groups = Array.isArray(answerGroups[0]) ? answerGroups : [answerGroups]
+  const ctx = blankContexts(body)
+  const lines = groups.map((g, i) => {
+    const c = ctx[i] || {}
+    if (topic === "articles-determiners") {
+      const key = articleAnswerOf(g)
+      const label = key === "none" ? "NONE" : key
+      let specific = ""
+      if (c.noun) {
+        if (key === "an") specific = `“${c.noun}” bắt đầu bằng âm nguyên âm → “an”. `
+        else if (key === "a") specific = `“${c.noun}” bắt đầu bằng âm phụ âm → “a”. `
+        else if (key === "the") specific = `“${c.noun}” là vật xác định → “the”. `
+        else specific = `“${c.noun}” mang nghĩa chung/số nhiều → không mạo từ. `
+      }
+      return `Chỗ ${i + 1} (<b>${label}</b>): ${specific}${explainArticle(key)}`
+    }
+    if (topic === "prepositions") {
+      const first = String((g || [])[0] || "")
+      return `Chỗ ${i + 1} (<b>${first}</b>): ${explainPreposition(first.toLowerCase())}`
+    }
+    const first = String((g || [])[0] || "")
+    const verb = c.verb ? `Chia động từ “${c.verb}” → “${first}”. ` : ""
+    return `Chỗ ${i + 1} (<b>${first}</b>): ${verb}${explainVerbForm(first)}`
+  })
+  return lines.join("<br>")
+}
+function buildFinalExplanation({ topic, kind, prompt, answer, answers, body }) {
+  if (kind === "single_choice") return explainMcq(topic, prompt, answer)
+  if (kind === "fill_blank") return explainFill(topic, answers, body)
+  return ""
+}
+
 function finalMockQuestion({ id, section, topic, kind = "single_choice", prompt, options = [], answer, body, answers = [] }) {
   const q = {
     id,
@@ -765,6 +1005,7 @@ function finalMockQuestion({ id, section, topic, kind = "single_choice", prompt,
     const answerGroups = Array.isArray(answers[0]) ? answers : [answers]
     q.blanks = answerGroups.map((group, i) => ({ key: `input_${i}`, answers: group, userAnswer: null, explanationHtml: "" }))
   }
+  q.explanationHtml = buildFinalExplanation({ topic, kind, prompt, answer, answers, body })
   return q
 }
 
@@ -819,7 +1060,7 @@ function buildFinalRealMockLesson() {
 
   const verbs = [
     ["Hoa: The storm has been terrible, hasn't it?<br>Phuong: Yes, it [input_0] (rain) again later.", [["is going to rain", "'s going to rain"]], "future-tenses"],
-    ["Last summer, we [input_0] (travel) to Italy and [input_1] (visit) many beautiful cities.", [["traveled", "travelled"], ["visited"]], "past-tenses"],
+    ["Last summer, we [input_0] (travel) to Italy and [input_1] (visit) many beautiful cities.", [["travelled", "traveled"], ["visited"]], "past-tenses"],
     ["While I [input_0] (read) a book, my friend [input_1] (call) me to chat.", [["was reading"], ["called"]], "past-tenses"],
     ["Be quiet! The baby [input_0] (sleep) in the next room.", [["is sleeping", "'s sleeping"]], "present-tenses"],
     ["I [input_0] (not / know) what to do this weekend. Maybe I [input_1] (go) to the beach, or I [input_2] (stay) at home and relax.", [["don't know", "do not know"], ["will go"], ["will stay"]], "future-tenses"],
@@ -1095,12 +1336,14 @@ function makeArticleSet(n, template) {
   ]
   const base = stories[(n - 3) % stories.length]
   if (template === "A") return base
+  // Extras keep a balanced mix (the×2, a×2, an×1) so Template B lands within the
+  // rule target for 'a' (5-6) while an/the/NONE stay in range.
   const extras = [
-    [["There was [input_0] only ice cream shop near the beach.", ["the"]], ["I bought [input_0] small bottle of water.", ["a"]], ["My sister chose [input_0] orange juice.", ["an"]], ["We saw [input_0] families playing together.", ["none", "NONE", ""]], ["Everyone enjoyed [input_0] day.", ["the"]]],
-    [["There was [input_0] only flower shop near the park.", ["the"]], ["I bought [input_0] small postcard.", ["a"]], ["My friend chose [input_0] interesting book.", ["an"]], ["We saw [input_0] people taking photos.", ["none", "NONE", ""]], ["I liked [input_0] peaceful atmosphere.", ["the"]]],
-    [["There was [input_0] only free table near the window.", ["the"]], ["We ordered [input_0] apple pie for dessert.", ["an"]], ["My mum had [input_0] cup of tea.", ["a"]], ["We talked about [input_0] food and service.", ["the"]], ["I want to visit [input_0] restaurant again.", ["the"]]],
-    [["There was [input_0] only bookshop on the first floor.", ["the"]], ["I bought [input_0] colourful notebook.", ["a"]], ["My sister chose [input_0] interesting comic book.", ["an"]], ["We saw [input_0] clothes on sale.", ["none", "NONE", ""]], ["Shopping was [input_0] tiring activity for my dad.", ["a"]]],
-    [["There was [input_0] only gift shop near the gate.", ["the"]], ["I bought [input_0] small toy.", ["a"]], ["My friend chose [input_0] old-style postcard.", ["an"]], ["We saw [input_0] tourists in the street.", ["none", "NONE", ""]], ["Everyone enjoyed [input_0] trip.", ["the"]]],
+    [["There was [input_0] only ice cream shop near the beach.", ["the"]], ["I bought [input_0] small bottle of water.", ["a"]], ["My sister chose [input_0] orange juice.", ["an"]], ["We walked back to [input_0] car park together.", ["the"]], ["We found [input_0] nice spot for photos.", ["a"]]],
+    [["There was [input_0] only flower shop near the park.", ["the"]], ["I bought [input_0] small postcard.", ["a"]], ["My friend chose [input_0] interesting book.", ["an"]], ["We rested on [input_0] wooden bench.", ["a"]], ["I loved [input_0] peaceful atmosphere.", ["the"]]],
+    [["There was [input_0] only free table near the window.", ["the"]], ["We ordered [input_0] apple pie for dessert.", ["an"]], ["My mum had [input_0] cup of tea.", ["a"]], ["I had [input_0] small salad, too.", ["a"]], ["We liked [input_0] friendly service.", ["the"]]],
+    [["There was [input_0] only bookshop on the first floor.", ["the"]], ["I bought [input_0] colourful notebook.", ["a"]], ["My sister chose [input_0] interesting comic book.", ["an"]], ["Dad bought [input_0] new belt.", ["a"]], ["We took [input_0] lift to the car park.", ["the"]]],
+    [["There was [input_0] only gift shop near the gate.", ["the"]], ["I bought [input_0] small toy.", ["a"]], ["My friend chose [input_0] old-style postcard.", ["an"]], ["I picked [input_0] postcard for my mum.", ["a"]], ["We took [input_0] last bus home.", ["the"]]],
   ]
   return [...base, ...extras[(n - 3) % extras.length]]
 }
@@ -1332,9 +1575,13 @@ function main() {
   console.log(
     `[preprocess] ${notesData.docs.length} notes, ${index.length} lessons, ${stats.blocks} blocks, ${stats.questions} questions, ${stats.audios} audios, ${Object.keys(topicsIndex.topics).length} topics.`
   )
-  console.log(
-    `[preprocess] Final Test: pool ${finalTests.publicData.poolTotal} grammar Q (incl ${finalTests.publicData.generatedCount} generated), realMock ${finalTests.publicData.realMock ? finalTests.publicData.realMock.total : 0} Q, ${finalTests.publicData.sets.length} sets.`
-  )
+  {
+    const realCount = finalTests.publicData.sets.filter((s) => s.source === "real").length
+    const genCount = finalTests.publicData.sets.length - realCount
+    console.log(
+      `[preprocess] Final Test: legacy pool ${finalTests.publicData.poolTotal} Q (incl ${finalTests.publicData.generatedCount} AI); fixed papers: ${realCount} real + ${genCount} generated = ${finalTests.publicData.sets.length} (each 50 Q · 4 parts).`
+    )
+  }
   console.log(
     `[preprocess] Tagged: ${stats.taggedBlocks} blocks / ${stats.taggedQuestions} questions.`
   )
