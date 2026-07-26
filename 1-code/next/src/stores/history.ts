@@ -29,9 +29,12 @@ export interface LightGradedItem {
   ans: unknown
   q: {
     id: string
+    title?: string | null
     kind: QuestionKind
     prompt: string
     promptHtml: string
+    bodyHtml?: string
+    options?: { id: string | number; text: string; html: string }[]
     correctAnswer: (string | number)[]
     blanks: { answers: string[] }[] | null
     pairs: { leftId: string; left: string; rightId: string; right: string }[] | null
@@ -72,9 +75,12 @@ export function toLightItem(item: GradedItem): LightGradedItem {
     ans: item.ans,
     q: {
       id: item.q.id,
+      title: item.q.title,
       kind: item.q.kind,
       prompt: item.q.prompt,
       promptHtml: item.q.promptHtml,
+      bodyHtml: item.q.bodyHtml,
+      options: item.q.options,
       correctAnswer: item.q.correctAnswer,
       blanks: (item.q.blanks || []).map((b) => ({ answers: b.answers })),
       pairs: item.q.pairs,

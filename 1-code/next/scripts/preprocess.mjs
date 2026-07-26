@@ -818,21 +818,15 @@ function buildFinalRealMockLesson() {
   const articleItems = combineFillItems(articles, [5, 5]).map((x, i) => finalMockQuestion({ id: `final-real-art-${i + 1}`, section: "III - Complete with A / AN / THE / NONE", topic: "articles-determiners", kind: "fill_blank", body: x[0], answers: x[1] }))
 
   const verbs = [
-    ["Hoa: The storm has been terrible, hasn't it?<br>Phuong: Yes, it [input_0] (rain) again later.", ["is going to rain", "'s going to rain"]],
-    ["Last summer, we [input_0] (travel) to Italy.", ["traveled", "travelled"]],
-    ["Last summer, we traveled to Italy and [input_0] (visit) many beautiful cities.", ["visited"]],
-    ["While I [input_0] (read) a book, my friend called me to chat.", ["was reading"]],
-    ["While I was reading a book, my friend [input_0] (call) me to chat.", ["called"]],
-    ["Be quiet! The baby [input_0] (sleep) in the next room.", ["is sleeping", "'s sleeping"]],
-    ["I [input_0] (not / know) what to do this weekend.", ["don't know", "do not know"]],
-    ["Maybe I [input_0] (go) to the beach.", ["will go"]],
-    ["Maybe I will go to the beach, or I [input_0] (stay) at home and relax.", ["will stay"]],
-    ["When I was a child, I [input_0] (want) to be an astronaut.", ["wanted"]],
-    ["Now, I [input_0] (study) engineering.", ["am studying", "'m studying"]],
-    ["Every morning, Jason [input_0] (walk) to work.", ["walks"]],
-    ["Today he [input_0] (take) the bus because it's raining.", ["is taking", "'s taking"]],
+    ["Hoa: The storm has been terrible, hasn't it?<br>Phuong: Yes, it [input_0] (rain) again later.", [["is going to rain", "'s going to rain"]], "future-tenses"],
+    ["Last summer, we [input_0] (travel) to Italy and [input_1] (visit) many beautiful cities.", [["traveled", "travelled"], ["visited"]], "past-tenses"],
+    ["While I [input_0] (read) a book, my friend [input_1] (call) me to chat.", [["was reading"], ["called"]], "past-tenses"],
+    ["Be quiet! The baby [input_0] (sleep) in the next room.", [["is sleeping", "'s sleeping"]], "present-tenses"],
+    ["I [input_0] (not / know) what to do this weekend. Maybe I [input_1] (go) to the beach, or I [input_2] (stay) at home and relax.", [["don't know", "do not know"], ["will go"], ["will stay"]], "future-tenses"],
+    ["When I was a child, I [input_0] (want) to be an astronaut. Now, I [input_1] (study) engineering.", [["wanted"], ["am studying", "'m studying"]], "present-tenses"],
+    ["Every morning, Jason [input_0] (walk) to work, but today he [input_1] (take) the bus because it's raining.", [["walks"], ["is taking", "'s taking"]], "present-tenses"],
   ]
-  const verbItems = combineFillItems(verbs, [1, 2, 2, 1, 3, 2, 2]).map((x, i) => finalMockQuestion({ id: `final-real-verb-${i + 1}`, section: "IV - Change the verb in the brackets to the correct tense", topic: i < 4 ? "past-tenses" : i < 6 ? "future-tenses" : "present-tenses", kind: "fill_blank", body: x[0], answers: x[1] }))
+  const verbItems = verbs.map((x, i) => finalMockQuestion({ id: `final-real-verb-${i + 1}`, section: "IV - Change the verb in the brackets to the correct tense", topic: x[2], kind: "fill_blank", body: x[0], answers: x[1] }))
 
   const questions = [...wordClass, ...mcq, ...articleItems, ...verbItems]
   return {
@@ -899,21 +893,16 @@ function buildFinalRealMockLesson2() {
   const articleItems = combineFillItems(articles, [5, 4, 6]).map((x, i) => finalMockQuestion({ id: `final-real-2-art-${i + 1}`, section: "III - Complete with A / AN / THE / NONE", topic: "articles-determiners", kind: "fill_blank", body: x[0], answers: x[1] }))
 
   const verbs = [
-    ["I [input_0] (not / remember) his phone number. Can you give it to me again?", ["don't remember", "do not remember"]],
-    ["My little sister [input_0] (always / lose) her keys. It drives me crazy!", ["is always losing", "'s always losing"]],
-    ["A: Do you want to go to the movies?<br>B: I can't. I [input_0] (clean) the garage right now.", ["am cleaning", "'m cleaning"]],
-    ["Hurry! The bus [input_0] (leave). We need to run!", ["is leaving", "'s leaving"]],
-    ["A: What time [input_0] (the movie / begin)?<br>B: At 6:30 PM.", ["does the movie begin"]],
-    ["When I [input_0] (get) home last night, my mom was cooking dinner in the kitchen.", ["got"]],
-    ["When I got home last night, my mom [input_0] (cook) dinner in the kitchen.", ["was cooking"]],
-    ["I just have a fever, so I [input_0] (stay) at home and rest.", ["am going to stay", "'m going to stay", "will stay"]],
-    ["A: Where [input_0] (you/go) now?", ["are you going"]],
-    ["B: I [input_0] (go) to the supermarket.", ["am going", "'m going"]],
-    ["[input_0] (you/need) anything?<br>A: Yes!", ["do you need"]],
-    ["We [input_0] (not/have) any milk left.", ["don't have", "do not have"]],
-    ["[input_0] (you/can/buy) a bottle?<br>B: Sure!", ["can you buy"]],
+    ["I [input_0] (not / remember) his phone number. Can you give it to me again?", [["don't remember", "do not remember"]], "present-tenses"],
+    ["My little sister [input_0] (always / lose) her keys. It drives me crazy!", [["is always losing", "'s always losing"]], "present-tenses"],
+    ["A: Do you want to go to the movies?<br>B: I can't. I [input_0] (clean) the garage right now.", [["am cleaning", "'m cleaning"]], "present-tenses"],
+    ["Hurry! The bus [input_0] (leave). We need to run!", [["is leaving", "'s leaving"]], "present-tenses"],
+    ["A: What time [input_0] (the movie / begin)?<br>B: At 6:30 PM.", [["does the movie begin"]], "present-tenses"],
+    ["When I [input_0] (get) home last night, my mom [input_1] (cook) dinner in the kitchen.", [["got"], ["was cooking"]], "past-tenses"],
+    ["I just have a fever, so I [input_0] (stay) at home and rest.", [["am going to stay", "'m going to stay", "will stay"]], "future-tenses"],
+    ["A: Where [input_0] (you/go) now?<br>B: I [input_1] (go) to the supermarket. [input_2] (you/need) anything?<br>A: Yes! We [input_3] (not/have) any milk left. [input_4] (you/can/buy) a bottle?<br>B: Sure!", [["are you going"], ["am going", "'m going"], ["do you need"], ["don't have", "do not have"], ["can you buy"]], "present-tenses"],
   ]
-  const verbItems = combineFillItems(verbs, [1, 1, 1, 1, 1, 2, 1, 5]).map((x, i) => finalMockQuestion({ id: `final-real-2-verb-${i + 1}`, section: "IV - Change the verb in the brackets to the correct tense", topic: i === 5 ? "past-tenses" : i === 6 ? "future-tenses" : "present-tenses", kind: "fill_blank", body: x[0], answers: x[1] }))
+  const verbItems = verbs.map((x, i) => finalMockQuestion({ id: `final-real-2-verb-${i + 1}`, section: "IV - Change the verb in the brackets to the correct tense", topic: x[2], kind: "fill_blank", body: x[0], answers: x[1] }))
 
   const questions = [...wordClass, ...mcq, ...articleItems, ...verbItems]
   return {
