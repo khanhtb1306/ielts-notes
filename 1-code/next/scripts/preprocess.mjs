@@ -883,8 +883,21 @@ function specificMcq(topic, prompt, ans) {
     return ""
   }
   if (/tenses$/.test(topic)) {
+    const isPastContinuous = /\b(was|were)\s+\w+ing\b/.test(a)
+    const isPastSimple = /\w+ed\b/.test(a) || /\b(got|went|made|bought|came|rang|found|left|saw|felt|had|drank|chose|brought|booked|ran|took|gave|said|did|tried|visited|enjoyed)\b/.test(a)
+    if (isPastContinuous) {
+      if (/\bat\s+\d/.test(p) && /\b(last night|yesterday)\b/.test(p)) return "Dấu hiệu thời điểm cụ thể trong quá khứ (“at ... last night/yesterday”) → dùng quá khứ tiếp diễn (was/were + V-ing)."
+      if (p.includes("at that moment")) return "Dấu hiệu “at that moment” → hành động đang diễn ra tại một thời điểm trong quá khứ, dùng quá khứ tiếp diễn."
+      if (p.includes("while")) return "Dấu hiệu “while” → hành động nền đang diễn ra trong quá khứ, dùng quá khứ tiếp diễn."
+      if (p.includes("when ")) return "Một hành động đang diễn ra trong quá khứ khi hành động khác xen vào → dùng quá khứ tiếp diễn."
+      return "Đáp án có dạng was/were + V-ing → dùng quá khứ tiếp diễn cho hành động đang diễn ra trong quá khứ."
+    }
     const markers = [["right now", "hiện tại tiếp diễn (đang xảy ra)"], ["at the moment", "hiện tại tiếp diễn"], ["listen", "hiện tại tiếp diễn"], ["look at", "tương lai gần be going to (có bằng chứng)"], ["this week", "hiện tại tiếp diễn"], [" now", "hiện tại tiếp diễn"], ["every", "hiện tại đơn (thói quen)"], ["always", "hiện tại đơn / be always V-ing"], ["usually", "hiện tại đơn"], ["often", "hiện tại đơn"], ["last night", "quá khứ đơn"], ["last ", "quá khứ đơn"], ["yesterday", "quá khứ đơn"], [" ago", "quá khứ đơn"], ["while", "quá khứ tiếp diễn (while + V-ing)"], ["when ", "quá khứ (hành động xen vào)"], ["tomorrow", "tương lai"], ["next ", "tương lai"], ["clouds", "be going to (dự đoán có bằng chứng)"]]
-    for (const [mk, tense] of markers) if (p.includes(mk)) return `Dấu hiệu “${mk.trim()}” → dùng ${tense}.`
+    for (const [mk, tense] of markers) {
+      if (!p.includes(mk)) continue
+      if (["last night", "last ", "yesterday", " ago"].includes(mk) && !isPastSimple) continue
+      return `Dấu hiệu “${mk.trim()}” → dùng ${tense}.`
+    }
     return ""
   }
   if (topic === "articles-determiners") {
