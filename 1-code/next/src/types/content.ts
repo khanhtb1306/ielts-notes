@@ -194,6 +194,10 @@ export interface TopicsIndex {
 export interface SpeakingQuestion {
   q: string
   subQuestions?: string[]
+  audioFile?: string
+  answerFrames?: string[]
+  tip?: string
+  sampleAnswer?: string
 }
 
 export interface PracticePreset {

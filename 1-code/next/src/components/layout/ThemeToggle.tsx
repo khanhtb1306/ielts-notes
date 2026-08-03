@@ -3,7 +3,7 @@ import { Moon, Sun, MonitorSmartphone } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { useTheme, applyThemeClass } from "@/stores/theme"
 
-export function ThemeToggle() {
+export function ThemeToggle({ collapsed = false }: { collapsed?: boolean }) {
   const theme = useTheme((s) => s.theme)
   const setTheme = useTheme((s) => s.setTheme)
 
@@ -27,9 +27,16 @@ export function ThemeToggle() {
   const label = theme === "light" ? "Light" : theme === "dark" ? "Dark" : "System"
 
   return (
-    <Button variant="ghost" size="sm" onClick={cycle} className="justify-start" aria-label={`Theme: ${label}`}>
+    <Button
+      variant="ghost"
+      size="sm"
+      onClick={cycle}
+      className={collapsed ? "w-full justify-center px-0" : "justify-start"}
+      aria-label={`Theme: ${label}`}
+      title={`Theme: ${label}`}
+    >
       <Icon className="h-4 w-4" />
-      <span>Theme: {label}</span>
+      {!collapsed && <span>Theme: {label}</span>}
     </Button>
   )
 }

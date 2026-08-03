@@ -3,15 +3,18 @@ import { Sidebar } from "./Sidebar"
 import { TopBar } from "./TopBar"
 import { MobileMenu } from "./MobileMenu"
 import { TableOfContents } from "./TableOfContents"
+import { useUi } from "@/stores/ui"
+import { cn } from "@/lib/utils"
 
 export function AppShell({ children }: { children: ReactNode }) {
   const contentRef = useRef<HTMLDivElement>(null)
+  const collapsed = useUi((s) => s.sidebarCollapsed)
 
   return (
     <div className="min-h-screen bg-background text-foreground">
-      <div className="grid min-h-screen md:grid-cols-[280px_1fr]">
+      <div className={cn("grid min-h-screen", collapsed ? "md:grid-cols-[72px_1fr]" : "md:grid-cols-[280px_1fr]")}>
         <div className="hidden md:block sticky top-0 h-screen overflow-y-auto sidebar-scope">
-          <Sidebar className="h-full" />
+          <Sidebar className="h-full" collapsible />
         </div>
         <main className="px-4 py-6 sm:px-8 lg:px-12 pb-20">
           <div className="mx-auto max-w-7xl">
