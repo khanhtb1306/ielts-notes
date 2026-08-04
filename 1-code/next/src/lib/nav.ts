@@ -13,7 +13,7 @@ export interface NavItem {
 export const NAV: NavItem[] = [
   { to: "/pronunciation", label: "Phát âm", icon: Volume2, eyebrow: "Pronunciation", title: "Phát âm", subtitle: "IPA, trọng âm, âm cuối" },
   { to: "/grammar", label: "Ngữ pháp", icon: Rows, eyebrow: "Grammar", title: "Ngữ pháp", subtitle: "Tổng hợp kiến thức + giải thích" },
-  { to: "/speaking", label: "Speaking", icon: MessageSquare, eyebrow: "Speaking", title: "Speaking", subtitle: "Câu hỏi + answer frame + audio" },
+  { to: "/speaking", label: "Speaking", icon: MessageSquare, eyebrow: "Speaking", title: "Speaking", subtitle: "Câu hỏi luyện nói + khung trả lời + audio" },
   { to: "/final", label: "Final Test", icon: GraduationCap, eyebrow: "Kỳ thi cuối", title: "Final Test", subtitle: "Đề thi thật + 10 bộ đề luyện" },
 ]
 

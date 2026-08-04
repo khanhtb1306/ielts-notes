@@ -198,6 +198,7 @@ export interface SpeakingQuestion {
   answerFrames?: string[]
   tip?: string
   sampleAnswer?: string
+  sampleAnswerIpa?: string[]
 }
 
 export interface PracticePreset {
