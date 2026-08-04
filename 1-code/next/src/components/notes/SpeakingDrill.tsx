@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react"
-import { Bot, Check, Clock3, Copy, Gamepad2, GraduationCap, HeartPulse, Home, Lightbulb, Mic, MapPinHouse, Pencil, Plane, Quote, UserRound, UsersRound, Utensils, Volume2, VolumeX } from "lucide-react"
+import { Bot, Check, Clock3, Copy, Eye, Gamepad2, GraduationCap, HeartPulse, Home, Lightbulb, Mic, MapPinHouse, Pencil, Plane, Quote, UserRound, UsersRound, Utensils, Volume2, VolumeX } from "lucide-react"
 import type { LucideIcon } from "lucide-react"
 import { getEnglishVoices, speak } from "@/lib/tts"
 import type { SpeakingQuestion, TopicLabel } from "@/types/content"
@@ -83,6 +83,7 @@ export function SpeakingDrill({ questions }: Props) {
   const audioRef = useRef<HTMLAudioElement | null>(null)
   const [voiceName, setVoiceName] = useState("")
   const [selectedBySection, setSelectedBySection] = useState<Record<string, number>>({})
+  const [revealedSections, setRevealedSections] = useState<Record<string, boolean>>({})
   const [sampleOverrides, setSampleOverrides] = useState<Record<string, string>>({})
 
   useEffect(() => {
@@ -165,28 +166,45 @@ export function SpeakingDrill({ questions }: Props) {
           const withGeneratedAudio = list.length - withAudio
           const selectedIndex = selectedBySection[section.id]
           const selected = selectedIndex === undefined ? null : questionItem(section, Math.min(selectedIndex, list.length - 1))
+          const showQuestionText = Boolean(revealedSections[section.id])
           return (
             <section key={section.id} id={`speak-${section.id}`} className="scroll-mt-28 overflow-hidden rounded-2xl border border-border bg-card shadow-sm">
-              <button
-                type="button"
-                onClick={() => setSelectedBySection((prev) => {
-                  const next = { ...prev }
-                  delete next[section.id]
-                  return next
-                })}
-                className="block w-full border-b border-border bg-muted/30 px-4 py-3 text-left transition-colors hover:bg-muted/45"
-                title="Quay về đầu topic"
-              >
+              <div className="border-b border-border bg-muted/30 px-4 py-3">
                 <div className="flex items-start justify-between gap-3">
-                  <h3 className="font-bold leading-snug text-primary">{section.title}</h3>
-                  <span className="shrink-0 rounded-full border border-border bg-background px-2 py-0.5 text-[11px] text-muted-foreground">
-                    {list.length} câu
-                  </span>
+                  <button
+                    type="button"
+                    onClick={() => setSelectedBySection((prev) => {
+                      const next = { ...prev }
+                      delete next[section.id]
+                      return next
+                    })}
+                    className="text-left font-bold leading-snug text-primary underline-offset-2 hover:underline"
+                    title="Quay về màn hình bắt đầu topic"
+                  >
+                    {section.title}
+                  </button>
+                  <div className="flex shrink-0 items-center gap-2">
+                    <button
+                      type="button"
+                      onClick={(e) => {
+                        e.stopPropagation()
+                        setRevealedSections((prev) => ({ ...prev, [section.id]: !prev[section.id] }))
+                      }}
+                      title={showQuestionText ? "Ẩn nội dung câu hỏi" : "Hiện nội dung câu hỏi"}
+                      className="inline-flex items-center gap-1 rounded-full border border-primary/25 bg-primary/10 px-2 py-0.5 text-[11px] font-semibold text-primary transition-colors hover:bg-primary hover:text-primary-foreground"
+                    >
+                      <Eye className="h-3 w-3" />
+                      {showQuestionText ? "Ẩn câu hỏi" : "View questions"}
+                    </button>
+                    <span className="rounded-full border border-border bg-background px-2 py-0.5 text-[11px] text-muted-foreground">
+                      {list.length} câu
+                    </span>
+                  </div>
                 </div>
                 <div className="mt-1 text-xs text-muted-foreground">
                   {withAudio} audio gốc · {withGeneratedAudio} giọng máy
                 </div>
-              </button>
+              </div>
 
               <div className="grid grid-cols-1 md:grid-cols-[minmax(230px,0.85fr)_minmax(0,1.15fr)]">
                 <div className="space-y-2 border-b border-border p-3 md:border-b-0 md:border-r">
@@ -197,6 +215,7 @@ export function SpeakingDrill({ questions }: Props) {
                         key={item.key}
                         item={item}
                         selected={selectedIndex === i}
+                        showQuestionText={showQuestionText}
                         onSelect={() => setSelectedBySection((prev) => ({ ...prev, [section.id]: i }))}
                         onPlay={() => playQuestion(item)}
                       />
@@ -227,7 +246,7 @@ function canPlayAudio(item: SelectedQuestion) {
   return Boolean(item.q.audioFile) || (item.allowGeneratedAudio && Boolean(item.q.q))
 }
 
-function QuestionRow({ item, selected, onSelect, onPlay }: { item: SelectedQuestion; selected: boolean; onSelect: () => void; onPlay: () => void }) {
+function QuestionRow({ item, selected, showQuestionText, onSelect, onPlay }: { item: SelectedQuestion; selected: boolean; showQuestionText: boolean; onSelect: () => void; onPlay: () => void }) {
   const canPlay = canPlayAudio(item)
   const usesGeneratedAudio = !item.q.audioFile && canPlay
 
@@ -242,7 +261,7 @@ function QuestionRow({ item, selected, onSelect, onPlay }: { item: SelectedQuest
     >
       <AudioButton canPlay={canPlay} hasAudio={Boolean(item.q.audioFile)} onPlay={onPlay} small />
       <button type="button" onClick={onSelect} className="flex min-w-0 flex-1 items-center gap-2 text-left">
-        <span className="min-w-0 flex-1 text-sm font-semibold leading-snug">Question {item.index}</span>
+        <span className="min-w-0 flex-1 text-sm font-semibold leading-snug">{showQuestionText ? item.q.q : `Question ${item.index}`}</span>
       </button>
       {usesGeneratedAudio && (
         <span title="Giọng máy" className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-violet-300/60 bg-violet-100 text-violet-700 dark:border-violet-500/40 dark:bg-violet-500/15 dark:text-violet-200">
