@@ -7,10 +7,10 @@ import { assetsPlugin } from "./scripts/vite-plugin-assets.mjs"
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
-// Configure base for GH Pages: <username>.github.io/ielts-foundation-notes/
-// Set VITE_BASE=/ielts-foundation-notes/ in CI or export before build.
+// Configure base for GH Pages: <username>.github.io/ielts-notes/
+// Accept the previous CI env value so an older workflow can still deploy after the repo rename.
 // Falls back to "./" for local dev + http-server preview.
-const BASE = process.env.VITE_BASE || "./"
+const BASE = process.env.VITE_BASE === "/ielts-foundation-notes/" ? "/ielts-notes/" : process.env.VITE_BASE || "./"
 
 // https://vite.dev/config/
 export default defineConfig({
