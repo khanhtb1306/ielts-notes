@@ -425,7 +425,8 @@ function SampleAnswer({
   const [transcript, setTranscript] = useState("")
   const [recorderError, setRecorderError] = useState("")
   const recognitionRef = useRef<SpeechRecognitionLike | null>(null)
-  const finalTranscriptRef = useRef("")
+  const isListeningRef = useRef(false)
+  const accumulatedRef = useRef("")
   const hasIpa = ipa.length > 0
 
   useEffect(() => setDraft(text), [text])
@@ -458,45 +459,68 @@ function SampleAnswer({
     }
 
     window.speechSynthesis?.cancel()
+    isListeningRef.current = false
     recognitionRef.current?.abort()
-    finalTranscriptRef.current = ""
+    recognitionRef.current = null
+    accumulatedRef.current = ""
     setTranscript("")
 
-    const recognition = new Recognition()
-    recognition.lang = "en-US"
-    recognition.continuous = true
-    recognition.interimResults = true
-    recognition.onresult = (event) => {
-      let interim = ""
-      for (let i = event.resultIndex; i < event.results.length; i += 1) {
-        const result = event.results[i]
-        const text = result?.[0]?.transcript ?? ""
-        if (result.isFinal) {
-          finalTranscriptRef.current += (finalTranscriptRef.current ? " " : "") + text.trim()
-        } else {
-          interim = text.trim()
+    function createAndStart() {
+      const Ctor = recognitionConstructor()
+      if (!Ctor) {
+        setRecorderError("Trình duyệt này chưa hỗ trợ nhận diện giọng nói. Hãy dùng Chrome/Edge.")
+        isListeningRef.current = false
+        setListening(false)
+        return
+      }
+      const r = new Ctor()
+      r.lang = "en-US"
+      r.continuous = false
+      r.interimResults = false
+
+      r.onresult = (event) => {
+        const text = event.results[0]?.[0]?.transcript ?? ""
+        if (text.trim()) {
+          accumulatedRef.current += (accumulatedRef.current ? " " : "") + text.trim()
+          setTranscript(accumulatedRef.current)
         }
       }
-      setTranscript((finalTranscriptRef.current + (interim ? " " + interim : "")).trim())
-    }
-    recognition.onerror = (event) => {
-      setListening(false)
-      setRecorderError(event.error === "not-allowed" ? "Bạn cần cho phép quyền micro để dùng ghi âm." : "Không nhận diện được giọng nói. Hãy thử lại.")
-    }
-    recognition.onend = () => setListening(false)
-    recognitionRef.current = recognition
 
-    try {
-      recognition.start()
-      setListening(true)
-    } catch {
-      setListening(false)
-      setRecorderError("Không bắt đầu ghi âm được. Hãy thử bấm lại sau vài giây.")
+      r.onerror = (event) => {
+        if (event.error === "not-allowed") {
+          isListeningRef.current = false
+          setListening(false)
+          setRecorderError("Bạn cần cho phép quyền micro để dùng ghi âm.")
+        }
+        // các lỗi khác (no-speech, aborted) bỏ qua, onend sẽ restart
+      }
+
+      r.onend = () => {
+        if (isListeningRef.current) {
+          // user chưa bấm Dừng → tự restart để ghi tiếp
+          window.setTimeout(() => {
+            if (isListeningRef.current) {
+              try { createAndStart() } catch { /* ignore */ }
+            }
+          }, 80)
+        } else {
+          setListening(false)
+        }
+      }
+
+      recognitionRef.current = r
+      r.start()
     }
+
+    isListeningRef.current = true
+    setListening(true)
+    createAndStart()
   }
 
   function stopRecording() {
+    isListeningRef.current = false
     recognitionRef.current?.stop()
+    recognitionRef.current = null
     setListening(false)
   }
 
