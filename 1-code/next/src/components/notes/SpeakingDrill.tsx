@@ -206,8 +206,8 @@ export function SpeakingDrill({ questions }: Props) {
                 </div>
               </div>
 
-              <div className="grid grid-cols-1 md:grid-cols-[minmax(230px,0.85fr)_minmax(0,1.15fr)]">
-                <div className="space-y-2 border-b border-border p-3 md:border-b-0 md:border-r">
+              <div className="grid grid-cols-1 sm:grid-cols-[minmax(200px,0.85fr)_minmax(0,1.15fr)]">
+                <div className="space-y-2 border-b border-border p-3 sm:border-b-0 sm:border-r">
                   {list.map((_, i) => {
                     const item = questionItem(section, i)
                     return (
