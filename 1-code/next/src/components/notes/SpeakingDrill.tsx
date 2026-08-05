@@ -63,8 +63,16 @@ interface SpeechRecognitionLike {
   abort: () => void
 }
 
+interface SpeechRecognitionResultLike {
+  transcript: string
+}
+
+interface SpeechRecognitionResultItemLike extends ArrayLike<SpeechRecognitionResultLike> {
+  isFinal: boolean
+}
+
 interface SpeechRecognitionEventLike {
-  results: ArrayLike<ArrayLike<{ transcript: string }>>
+  results: ArrayLike<SpeechRecognitionResultItemLike>
 }
 
 interface SpeechRecognitionErrorLike {
@@ -416,6 +424,7 @@ function SampleAnswer({
   const [transcript, setTranscript] = useState("")
   const [recorderError, setRecorderError] = useState("")
   const recognitionRef = useRef<SpeechRecognitionLike | null>(null)
+  const finalTranscriptRef = useRef("")
   const hasIpa = ipa.length > 0
 
   useEffect(() => setDraft(text), [text])
@@ -449,18 +458,25 @@ function SampleAnswer({
 
     window.speechSynthesis?.cancel()
     recognitionRef.current?.abort()
+    finalTranscriptRef.current = ""
+    setTranscript("")
 
     const recognition = new Recognition()
     recognition.lang = "en-US"
     recognition.continuous = true
     recognition.interimResults = true
     recognition.onresult = (event) => {
-      const parts: string[] = []
+      let interim = ""
       for (let i = 0; i < event.results.length; i += 1) {
-        const phrase = event.results[i]?.[0]?.transcript
-        if (phrase) parts.push(phrase.trim())
+        const result = event.results[i]
+        const text = result?.[0]?.transcript ?? ""
+        if (result.isFinal) {
+          finalTranscriptRef.current += (finalTranscriptRef.current ? " " : "") + text.trim()
+        } else {
+          interim = text.trim()
+        }
       }
-      setTranscript(parts.join(" ").trim())
+      setTranscript((finalTranscriptRef.current + (interim ? " " + interim : "")).trim())
     }
     recognition.onerror = (event) => {
       setListening(false)
