@@ -73,6 +73,7 @@ interface SpeechRecognitionResultItemLike extends ArrayLike<SpeechRecognitionRes
 
 interface SpeechRecognitionEventLike {
   results: ArrayLike<SpeechRecognitionResultItemLike>
+  resultIndex: number
 }
 
 interface SpeechRecognitionErrorLike {
@@ -467,7 +468,7 @@ function SampleAnswer({
     recognition.interimResults = true
     recognition.onresult = (event) => {
       let interim = ""
-      for (let i = 0; i < event.results.length; i += 1) {
+      for (let i = event.resultIndex; i < event.results.length; i += 1) {
         const result = event.results[i]
         const text = result?.[0]?.transcript ?? ""
         if (result.isFinal) {
