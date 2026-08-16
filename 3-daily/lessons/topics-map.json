@@ -449,7 +449,7 @@
     ],
     "hometown": [
       {
-        "q": "Where do you come from? / Where are you from?",
+        "q": "Where do you come from?",
         "answerFrames": [
           "I come from… / I'm from…",
           "I was born and raised in…",
@@ -533,7 +533,7 @@
     ],
     "job": [
       {
-        "q": "What do you do? / What is your job?",
+        "q": "What do you do?",
         "audioFile": "06 - What do you do.wav",
         "answerFrames": [
           "I'm a/an… at…",
