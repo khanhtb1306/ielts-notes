@@ -1,9 +1,9 @@
 import { useEffect, useMemo, useRef, useState } from "react"
-import { Bot, Check, Clock3, Copy, Eye, EyeOff, Gamepad2, GraduationCap, HeartPulse, Home, Lightbulb, Mic, MicOff, MapPinHouse, Pencil, Plane, Quote, RotateCcw, Square, UserRound, UsersRound, Utensils, Volume2, VolumeX } from "lucide-react"
+import { Bot, Check, ChevronDown, ChevronUp, Clock3, Copy, Eye, EyeOff, Gamepad2, GraduationCap, HeartPulse, Home, Lightbulb, Mic, MicOff, MapPinHouse, Pencil, Plane, Quote, RotateCcw, Square, UserRound, UsersRound, Utensils, Volume2, VolumeX, X } from "lucide-react"
 import type { LucideIcon } from "lucide-react"
 import { getEnglishVoices, speak } from "@/lib/tts"
 import { diffWords, tokenize } from "@/lib/speech-diff"
-import type { DiffResult } from "@/lib/speech-diff"
+
 import type { SpeakingQuestion, TopicLabel } from "@/types/content"
 
 const APP_BASE = (import.meta.env.BASE_URL || "/").replace(/\/?$/, "/")
@@ -104,6 +104,99 @@ export function SpeakingDrill({ questions }: Props) {
   const [selectedBySection, setSelectedBySection] = useState<Record<string, number>>({})
   const [sampleOverrides, setSampleOverrides] = useState<Record<string, string>>({})
   const [showQuestionText, setShowQuestionText] = useState(false)
+
+  // ── Recorder (lifted) ──────────────────────────────────────────────
+  const [recorderOpen, setRecorderOpen] = useState(false)
+  const [recorderMinimized, setRecorderMinimized] = useState(false)
+  const [activeRecorderQ, setActiveRecorderQ] = useState<SpeakingQuestion | null>(null)
+  const [listening, setListening] = useState(false)
+  const [transcript, setTranscript] = useState("")
+  const [interim, setInterim] = useState("")
+  const [recorderError, setRecorderError] = useState("")
+  const [elapsed, setElapsed] = useState(0)
+  const recognitionRef = useRef<SpeechRecognitionLike | null>(null)
+  const isListeningRef = useRef(false)
+  const accumulatedRef = useRef("")
+
+  const activeText = activeRecorderQ
+    ? (sampleOverrides[activeRecorderQ.q] || activeRecorderQ.sampleAnswer || "")
+    : ""
+  const spoken = (transcript + " " + interim).trim()
+  const recDiff = spoken && activeText ? diffWords(activeText, spoken) : null
+  const spokenWordCount = tokenize(spoken).length
+  const wpm = elapsed >= 3 ? Math.round((spokenWordCount / elapsed) * 60) : 0
+
+  useEffect(() => {
+    return () => { isListeningRef.current = false; recognitionRef.current?.abort() }
+  }, [])
+
+  useEffect(() => {
+    if (!listening) return
+    const id = window.setInterval(() => setElapsed((v) => v + 1), 1000)
+    return () => window.clearInterval(id)
+  }, [listening])
+
+  function recErrorMessage(code?: string) {
+    switch (code) {
+      case "not-allowed": case "service-not-allowed":
+        return "Cần quyền micro. Bấm ổ khoá trên thanh địa chỉ → Microphone → Allow."
+      case "audio-capture": return "Không tìm thấy micro."
+      case "network": return "Cần mạng để nhận diện giọng nói."
+      default: return ""
+    }
+  }
+
+  function recCreateAndStart() {
+    const win = window as Window & { SpeechRecognition?: SpeechRecognitionConstructor; webkitSpeechRecognition?: SpeechRecognitionConstructor }
+    const Ctor = win.SpeechRecognition || win.webkitSpeechRecognition
+    if (!Ctor) { setRecorderError("Dùng Chrome/Edge."); isListeningRef.current = false; setListening(false); return }
+    const r = new Ctor()
+    r.lang = "en-GB"; r.continuous = true; r.interimResults = true; r.maxAlternatives = 1
+    r.onresult = (event) => {
+      let pending = ""
+      for (let i = event.resultIndex; i < event.results.length; i++) {
+        const res = event.results[i]; const chunk = res[0]?.transcript ?? ""
+        if (!chunk) continue
+        if (res.isFinal) accumulatedRef.current += (accumulatedRef.current ? " " : "") + chunk.trim()
+        else pending += chunk
+      }
+      setTranscript(accumulatedRef.current); setInterim(pending.trim())
+    }
+    r.onerror = (event) => { const msg = recErrorMessage(event.error); if (msg) { isListeningRef.current = false; setListening(false); setRecorderError(msg) } }
+    r.onstart = null
+    r.onend = () => {
+      setInterim("")
+      if (isListeningRef.current) window.setTimeout(() => { if (isListeningRef.current) try { recCreateAndStart() } catch { /**/ } }, 120)
+      else setListening(false)
+    }
+    recognitionRef.current = r; r.start()
+  }
+
+  function recStart(keepText = false) {
+    setRecorderError("")
+    const win = window as Window & { SpeechRecognition?: SpeechRecognitionConstructor; webkitSpeechRecognition?: SpeechRecognitionConstructor }
+    if (!win.SpeechRecognition && !win.webkitSpeechRecognition) { setRecorderError("Dùng Chrome/Edge."); return }
+    window.speechSynthesis?.cancel()
+    isListeningRef.current = false; recognitionRef.current?.abort(); recognitionRef.current = null
+    if (!keepText) { accumulatedRef.current = ""; setTranscript(""); setElapsed(0) }
+    setInterim(""); isListeningRef.current = true; setListening(true); recCreateAndStart()
+  }
+
+  function recStop() {
+    isListeningRef.current = false; recognitionRef.current?.stop(); recognitionRef.current = null
+    setInterim(""); setListening(false)
+  }
+
+  function recReset() {
+    recStop(); accumulatedRef.current = ""; setTranscript(""); setInterim(""); setElapsed(0); setRecorderError("")
+  }
+
+  function activateRecorder(q: SpeakingQuestion) {
+    if (activeRecorderQ?.q !== q.q) { recReset() }
+    setActiveRecorderQ(q)
+    setRecorderOpen(true)
+    setRecorderMinimized(false)
+  }
 
   useEffect(() => {
     const selectVoice = () => setVoiceName(googleFemaleVoiceName(getEnglishVoices()))
@@ -220,8 +313,8 @@ export function SpeakingDrill({ questions }: Props) {
                         item={item}
                         selected={selectedIndex === i}
                         showQuestionText={showQuestionText}
-                        onSelect={() => setSelectedBySection((prev) => ({ ...prev, [section.id]: i }))}
-                        onPlay={() => playQuestion(item)}
+                        onSelect={() => { setSelectedBySection((prev) => ({ ...prev, [section.id]: i })); activateRecorder(item.q) }}
+                        onPlay={() => { playQuestion(item); activateRecorder(item.q) }}
                       />
                     )
                   })}
@@ -242,6 +335,112 @@ export function SpeakingDrill({ questions }: Props) {
           )
         })}
       </div>
+
+      {/* ── Recorder panel fixed ── */}
+      {recorderOpen && (
+        <div className="fixed bottom-24 right-6 z-40 flex w-80 flex-col rounded-2xl border border-border bg-card shadow-2xl">
+          {/* header */}
+          <div className="flex items-center gap-2 border-b border-border px-3 py-2">
+            <Mic className="h-4 w-4 shrink-0 text-primary" />
+            <span className="min-w-0 flex-1 truncate text-xs font-semibold text-foreground">
+              {activeRecorderQ ? activeRecorderQ.q : "Chọn một câu để ghi âm"}
+            </span>
+            <button type="button" onClick={() => setRecorderMinimized((v) => !v)} className="flex h-6 w-6 items-center justify-center rounded-full hover:bg-muted">
+              {recorderMinimized ? <ChevronUp className="h-3.5 w-3.5" /> : <ChevronDown className="h-3.5 w-3.5" />}
+            </button>
+            <button type="button" onClick={() => { recStop(); setRecorderOpen(false) }} className="flex h-6 w-6 items-center justify-center rounded-full hover:bg-muted">
+              <X className="h-3.5 w-3.5" />
+            </button>
+          </div>
+
+          {!recorderMinimized && (
+            <div className="space-y-2 p-3">
+              {/* controls */}
+              <div className="flex flex-wrap items-center gap-2">
+                {listening ? (
+                  <button type="button" onClick={recStop} className="inline-flex items-center gap-1.5 rounded-md bg-destructive px-2.5 py-1.5 text-xs font-semibold text-destructive-foreground">
+                    <Square className="h-3 w-3" /> Dừng
+                  </button>
+                ) : (
+                  <button type="button" onClick={() => recStart(false)} disabled={!activeRecorderQ} className="inline-flex items-center gap-1.5 rounded-md bg-primary px-2.5 py-1.5 text-xs font-semibold text-primary-foreground disabled:opacity-50">
+                    <Mic className="h-3 w-3" /> {transcript ? "Nói lại" : "Bắt đầu nói"}
+                  </button>
+                )}
+                {!listening && transcript && (
+                  <button type="button" onClick={() => recStart(true)} className="inline-flex items-center gap-1.5 rounded-md border border-border bg-background px-2.5 py-1.5 text-xs font-semibold text-foreground hover:border-primary/40">
+                    <MicOff className="h-3 w-3" /> Nói tiếp
+                  </button>
+                )}
+                <button type="button" onClick={recReset} className="inline-flex items-center gap-1 text-xs text-muted-foreground underline-offset-2 hover:text-primary hover:underline">
+                  <RotateCcw className="h-3 w-3" /> Xoá
+                </button>
+                {listening && (
+                  <span className="ml-auto inline-flex items-center gap-1 rounded-full bg-destructive/10 px-2 py-0.5 text-[11px] font-semibold text-destructive">
+                    <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-destructive" />
+                    {formatTime(elapsed)}
+                  </span>
+                )}
+                {!listening && elapsed > 0 && (
+                  <span className="ml-auto text-[11px] text-muted-foreground">{formatTime(elapsed)}{wpm > 0 ? ` · ${wpm} từ/ph` : ""}</span>
+                )}
+              </div>
+
+              {/* transcript */}
+              <div className="min-h-12 whitespace-pre-wrap rounded-lg bg-muted/30 px-2.5 py-2 text-xs leading-relaxed">
+                {transcript || interim ? (
+                  <><span>{transcript}</span>{interim && <span className="italic text-muted-foreground">{transcript ? " " : ""}{interim}</span>}</>
+                ) : (
+                  <span className="text-muted-foreground">Bấm "Bắt đầu nói" rồi đọc bài mẫu…</span>
+                )}
+              </div>
+
+              {/* diff */}
+              {recDiff && recDiff.total > 0 && (
+                <div className="rounded-lg border border-border bg-background/70 p-2">
+                  <div className="mb-1.5 flex flex-wrap items-center gap-2">
+                    <span className={"rounded-full px-2 py-0.5 text-[11px] font-bold " + (recDiff.accuracy >= 85 ? "bg-emerald-100 text-emerald-700 dark:bg-emerald-500/15 dark:text-emerald-300" : recDiff.accuracy >= 60 ? "bg-amber-100 text-amber-700 dark:bg-amber-500/15 dark:text-amber-300" : "bg-red-100 text-red-700 dark:bg-red-500/15 dark:text-red-300")}>
+                      {recDiff.accuracy}%
+                    </span>
+                    <span className="text-[11px] text-muted-foreground">
+                      {recDiff.matched}/{recDiff.total}{recDiff.missing > 0 ? ` · thiếu ${recDiff.missing}` : ""}{recDiff.extra > 0 ? ` · thêm ${recDiff.extra}` : ""}
+                    </span>
+                  </div>
+                  <p className="flex flex-wrap gap-x-1 gap-y-0.5 text-xs leading-relaxed">
+                    {recDiff.tokens.map((t, i) => (
+                      <span key={`${t.text}-${i}`} className={t.state === "match" ? "font-medium text-emerald-700 dark:text-emerald-300" : t.state === "missing" ? "font-semibold text-red-600 underline decoration-red-400 underline-offset-2 dark:text-red-400" : "text-amber-700 line-through decoration-amber-500 dark:text-amber-300"}>
+                        {t.text}
+                      </span>
+                    ))}
+                  </p>
+                  <div className="mt-1.5 flex gap-3 border-t border-border pt-1.5 text-[10px] text-muted-foreground">
+                    <span className="text-emerald-700 dark:text-emerald-300">■ đúng</span>
+                    <span className="text-red-600 dark:text-red-400">■ thiếu</span>
+                    <span className="text-amber-700 dark:text-amber-300">■ thêm</span>
+                  </div>
+                </div>
+              )}
+              {recorderError && <div className="text-[11px] font-medium text-destructive">{recorderError}</div>}
+            </div>
+          )}
+        </div>
+      )}
+
+      {/* FAB mic */}
+      <button
+        type="button"
+        onClick={() => { setRecorderOpen((v) => !v); setRecorderMinimized(false) }}
+        title={recorderOpen ? "Đóng ghi âm" : "Mở ghi âm"}
+        className={
+          "fixed bottom-24 right-6 z-40 flex h-14 w-14 items-center justify-center rounded-full shadow-lg transition-all hover:scale-105 active:scale-95 " +
+          (listening
+            ? "bg-destructive text-destructive-foreground"
+            : recorderOpen
+              ? "bg-primary text-primary-foreground"
+              : "bg-card border border-border text-primary hover:bg-primary hover:text-primary-foreground")
+        }
+      >
+        {listening ? <span className="relative flex h-6 w-6 items-center justify-center"><span className="absolute h-full w-full animate-ping rounded-full bg-destructive-foreground/40" /><Mic className="h-5 w-5" /></span> : <Mic className="h-6 w-6" />}
+      </button>
 
       {/* FAB con mắt — fixed bottom-right, toggle hiện/ẩn câu hỏi toàn trang */}
       <button
@@ -430,172 +629,13 @@ function SampleAnswer({
   const [editing, setEditing] = useState(false)
   const [draft, setDraft] = useState(text)
   const [copied, setCopied] = useState(false)
-  const [recorderOpen, setRecorderOpen] = useState(false)
-  const [listening, setListening] = useState(false)
-  const [transcript, setTranscript] = useState("")
-  const [interim, setInterim] = useState("")
-  const [recorderError, setRecorderError] = useState("")
-  const [elapsed, setElapsed] = useState(0)
-  const recognitionRef = useRef<SpeechRecognitionLike | null>(null)
-  const isListeningRef = useRef(false)
-  const accumulatedRef = useRef("")
   const hasIpa = ipa.length > 0
-
-  const spoken = (transcript + " " + interim).trim()
-  const diff: DiffResult | null = spoken ? diffWords(text, spoken) : null
-  const sampleWordCount = tokenize(text).length
-  const spokenWordCount = tokenize(spoken).length
-  const wpm = elapsed >= 3 ? Math.round((spokenWordCount / elapsed) * 60) : 0
 
   useEffect(() => setDraft(text), [text])
 
-  useEffect(() => {
-    return () => {
-      isListeningRef.current = false
-      recognitionRef.current?.abort()
-    }
-  }, [])
-
-  useEffect(() => {
-    if (!listening) return
-    const id = window.setInterval(() => setElapsed((v) => v + 1), 1000)
-    return () => window.clearInterval(id)
-  }, [listening])
-
   async function copyOverrides() {
-    await onCopySampleOverrides()
-    setCopied(true)
+    await onCopySampleOverrides(); setCopied(true)
     window.setTimeout(() => setCopied(false), 1600)
-  }
-
-  function recognitionConstructor(): SpeechRecognitionConstructor | undefined {
-    const win = window as Window & {
-      SpeechRecognition?: SpeechRecognitionConstructor
-      webkitSpeechRecognition?: SpeechRecognitionConstructor
-    }
-    return win.SpeechRecognition || win.webkitSpeechRecognition
-  }
-
-  function errorMessage(code?: string) {
-    switch (code) {
-      case "not-allowed":
-      case "service-not-allowed":
-        return "Bạn cần cho phép quyền micro. Bấm vào ổ khoá trên thanh địa chỉ → Microphone → Allow."
-      case "audio-capture":
-        return "Không tìm thấy micro. Kiểm tra lại thiết bị thu âm."
-      case "network":
-        return "Nhận diện giọng nói cần mạng. Kiểm tra lại kết nối Internet."
-      case "language-not-supported":
-        return "Trình duyệt không hỗ trợ tiếng Anh cho nhận diện giọng nói."
-      default:
-        return ""
-    }
-  }
-
-  function createAndStart() {
-    const Ctor = recognitionConstructor()
-    if (!Ctor) {
-      setRecorderError("Trình duyệt này chưa hỗ trợ nhận diện giọng nói. Hãy dùng Chrome hoặc Edge trên máy tính.")
-      isListeningRef.current = false
-      setListening(false)
-      return
-    }
-    const r = new Ctor()
-    r.lang = "en-GB"
-    r.continuous = true
-    r.interimResults = true
-    r.maxAlternatives = 1
-
-    r.onresult = (event) => {
-      let pending = ""
-      for (let i = event.resultIndex; i < event.results.length; i++) {
-        const res = event.results[i]
-        const chunk = res[0]?.transcript ?? ""
-        if (!chunk) continue
-        if (res.isFinal) {
-          accumulatedRef.current += (accumulatedRef.current ? " " : "") + chunk.trim()
-        } else {
-          pending += chunk
-        }
-      }
-      setTranscript(accumulatedRef.current)
-      setInterim(pending.trim())
-    }
-
-    r.onerror = (event) => {
-      const msg = errorMessage(event.error)
-      if (msg) {
-        isListeningRef.current = false
-        setListening(false)
-        setRecorderError(msg)
-      }
-      // no-speech / aborted: bỏ qua, onend sẽ tự restart
-    }
-
-    r.onstart = null
-
-    r.onend = () => {
-      setInterim("")
-      if (isListeningRef.current) {
-        // user chưa bấm Dừng → Chrome tự ngắt sau ~60s, restart để nói tiếp
-        window.setTimeout(() => {
-          if (isListeningRef.current) {
-            try {
-              createAndStart()
-            } catch {
-              /* ignore */
-            }
-          }
-        }, 120)
-      } else {
-        setListening(false)
-      }
-    }
-
-    recognitionRef.current = r
-    r.start()
-  }
-
-  function startRecording(keepText = false) {
-    setRecorderOpen(true)
-    setRecorderError("")
-    if (!recognitionConstructor()) {
-      setRecorderError("Trình duyệt này chưa hỗ trợ nhận diện giọng nói. Hãy dùng Chrome hoặc Edge trên máy tính.")
-      return
-    }
-
-    window.speechSynthesis?.cancel()
-    isListeningRef.current = false
-    recognitionRef.current?.abort()
-    recognitionRef.current = null
-
-    if (!keepText) {
-      accumulatedRef.current = ""
-      setTranscript("")
-      setElapsed(0)
-    }
-    setInterim("")
-
-    isListeningRef.current = true
-    setListening(true)
-    createAndStart()
-  }
-
-  function stopRecording() {
-    isListeningRef.current = false
-    recognitionRef.current?.stop()
-    recognitionRef.current = null
-    setInterim("")
-    setListening(false)
-  }
-
-  function resetRecording() {
-    stopRecording()
-    accumulatedRef.current = ""
-    setTranscript("")
-    setInterim("")
-    setElapsed(0)
-    setRecorderError("")
   }
 
   return (
@@ -605,204 +645,48 @@ function SampleAnswer({
         <div>
           <span className="font-semibold">Bài mẫu: </span>
           {editing ? (
-            <textarea
-              value={draft}
-              onChange={(e) => setDraft(e.target.value)}
-              className="mt-2 min-h-28 w-full rounded-lg border border-border bg-background px-3 py-2 text-sm leading-relaxed outline-none focus:border-primary/60"
-            />
+            <textarea value={draft} onChange={(e) => setDraft(e.target.value)}
+              className="mt-2 min-h-28 w-full rounded-lg border border-border bg-background px-3 py-2 text-sm leading-relaxed outline-none focus:border-primary/60" />
           ) : (
             <span className="italic">{text}</span>
           )}
           {isEdited && !editing && <span className="ml-2 rounded-full bg-primary/10 px-2 py-0.5 text-[11px] font-semibold text-primary">đã sửa local</span>}
         </div>
       </div>
-      <div className="mt-2 flex items-center gap-3">
+      <div className="mt-2 flex flex-wrap items-center gap-3">
         {hasIpa && <button type="button" onClick={() => setOpen((v) => !v)} className="text-xs font-semibold text-primary underline-offset-2 hover:underline">
           {open ? "Ẩn phiên âm" : "Hiện phiên âm"}
         </button>}
-        <button
-          type="button"
-          onClick={onSpeak}
-          title="Đọc bài mẫu bằng giọng máy Google nữ"
-          className="inline-flex items-center gap-1 text-xs font-semibold text-primary underline-offset-2 hover:underline"
-        >
-          <Volume2 className="h-3.5 w-3.5" />
-          Nghe bài mẫu
+        <button type="button" onClick={onSpeak} title="Đọc bài mẫu bằng giọng máy Google nữ"
+          className="inline-flex items-center gap-1 text-xs font-semibold text-primary underline-offset-2 hover:underline">
+          <Volume2 className="h-3.5 w-3.5" /> Nghe bài mẫu
         </button>
         {editing ? (
           <>
-            <button
-              type="button"
-              onClick={() => {
-                onSave(draft)
-                setEditing(false)
-              }}
-              className="inline-flex items-center gap-1 text-xs font-semibold text-primary underline-offset-2 hover:underline"
-            >
-              <Check className="h-3.5 w-3.5" />
-              Lưu bài mẫu
+            <button type="button" onClick={() => { onSave(draft); setEditing(false) }}
+              className="inline-flex items-center gap-1 text-xs font-semibold text-primary underline-offset-2 hover:underline">
+              <Check className="h-3.5 w-3.5" /> Lưu bài mẫu
             </button>
-            <button
-              type="button"
-              onClick={() => {
-                setDraft(text)
-                setEditing(false)
-              }}
-              className="text-xs font-semibold text-muted-foreground underline-offset-2 hover:text-primary hover:underline"
-            >
-              Huỷ
-            </button>
+            <button type="button" onClick={() => { setDraft(text); setEditing(false) }}
+              className="text-xs font-semibold text-muted-foreground underline-offset-2 hover:text-primary hover:underline">Huỷ</button>
           </>
         ) : (
-          <button
-            type="button"
-            onClick={() => setEditing(true)}
-            className="inline-flex items-center gap-1 text-xs font-semibold text-primary underline-offset-2 hover:underline"
-          >
-            <Pencil className="h-3.5 w-3.5" />
-            Sửa bài mẫu
+          <button type="button" onClick={() => setEditing(true)}
+            className="inline-flex items-center gap-1 text-xs font-semibold text-primary underline-offset-2 hover:underline">
+            <Pencil className="h-3.5 w-3.5" /> Sửa bài mẫu
           </button>
         )}
         {isEdited && !editing && (
-          <button type="button" onClick={() => onSave("")} className="text-xs font-semibold text-muted-foreground underline-offset-2 hover:text-primary hover:underline">
-            Về bản gốc
-          </button>
+          <button type="button" onClick={() => onSave("")}
+            className="text-xs font-semibold text-muted-foreground underline-offset-2 hover:text-primary hover:underline">Về bản gốc</button>
         )}
         {hasSampleOverrides && (
-          <button type="button" onClick={copyOverrides} className="inline-flex items-center gap-1 text-xs font-semibold text-muted-foreground underline-offset-2 hover:text-primary hover:underline">
-            <Copy className="h-3.5 w-3.5" />
-            {copied ? "Đã copy" : "Copy bản sửa"}
+          <button type="button" onClick={copyOverrides}
+            className="inline-flex items-center gap-1 text-xs font-semibold text-muted-foreground underline-offset-2 hover:text-primary hover:underline">
+            <Copy className="h-3.5 w-3.5" /> {copied ? "Đã copy" : "Copy bản sửa"}
           </button>
         )}
-        <button
-          type="button"
-          onClick={() => setRecorderOpen((v) => !v)}
-          title="Mở ghi âm để chuyển giọng nói thành text"
-          className="inline-flex items-center gap-1 text-xs font-semibold text-primary underline-offset-2 hover:underline"
-        >
-          <Mic className="h-3.5 w-3.5" />
-          Ghi âm
-        </button>
       </div>
-      {recorderOpen && (
-        <div className="mt-3 space-y-3 rounded-xl border border-border bg-muted/25 p-3">
-          <div className="flex flex-wrap items-center gap-2">
-            {listening ? (
-              <button
-                type="button"
-                onClick={stopRecording}
-                className="inline-flex items-center gap-1.5 rounded-md bg-destructive px-2.5 py-1.5 text-xs font-semibold text-destructive-foreground"
-              >
-                <Square className="h-3.5 w-3.5" />
-                Dừng
-              </button>
-            ) : (
-              <button
-                type="button"
-                onClick={() => startRecording(false)}
-                className="inline-flex items-center gap-1.5 rounded-md bg-primary px-2.5 py-1.5 text-xs font-semibold text-primary-foreground"
-              >
-                <Mic className="h-3.5 w-3.5" />
-                {transcript ? "Nói lại" : "Bắt đầu nói"}
-              </button>
-            )}
-            {!listening && transcript && (
-              <button
-                type="button"
-                onClick={() => startRecording(true)}
-                className="inline-flex items-center gap-1.5 rounded-md border border-border bg-background px-2.5 py-1.5 text-xs font-semibold text-foreground hover:border-primary/40"
-              >
-                <MicOff className="h-3.5 w-3.5" />
-                Nói tiếp
-              </button>
-            )}
-            <button
-              type="button"
-              onClick={resetRecording}
-              className="inline-flex items-center gap-1 text-xs font-semibold text-muted-foreground underline-offset-2 hover:text-primary hover:underline"
-            >
-              <RotateCcw className="h-3.5 w-3.5" />
-              Xoá
-            </button>
-
-            {listening && (
-              <span className="ml-auto inline-flex items-center gap-1.5 rounded-full bg-destructive/10 px-2 py-0.5 text-[11px] font-semibold text-destructive">
-                <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-destructive" />
-                Đang nghe · {formatTime(elapsed)}
-              </span>
-            )}
-            {!listening && elapsed > 0 && (
-              <span className="ml-auto text-[11px] font-medium text-muted-foreground">
-                {formatTime(elapsed)} · {spokenWordCount}/{sampleWordCount} từ{wpm > 0 ? ` · ${wpm} từ/phút` : ""}
-              </span>
-            )}
-          </div>
-
-          <div className="min-h-14 whitespace-pre-wrap rounded-lg bg-background/70 px-3 py-2 text-sm leading-relaxed">
-            {transcript || interim ? (
-              <>
-                <span>{transcript}</span>
-                {interim && <span className="text-muted-foreground italic">{transcript ? " " : ""}{interim}</span>}
-              </>
-            ) : (
-              <span className="text-muted-foreground">Bấm “Bắt đầu nói” rồi đọc bài mẫu. Text bạn nói sẽ hiện ở đây.</span>
-            )}
-          </div>
-
-          {diff && diff.total > 0 && (
-            <div className="rounded-lg border border-border bg-background/70 p-3">
-              <div className="mb-2 flex flex-wrap items-center gap-2">
-                <span
-                  className={
-                    "rounded-full px-2 py-0.5 text-[11px] font-bold " +
-                    (diff.accuracy >= 85
-                      ? "bg-emerald-100 text-emerald-700 dark:bg-emerald-500/15 dark:text-emerald-300"
-                      : diff.accuracy >= 60
-                        ? "bg-amber-100 text-amber-700 dark:bg-amber-500/15 dark:text-amber-300"
-                        : "bg-red-100 text-red-700 dark:bg-red-500/15 dark:text-red-300")
-                  }
-                >
-                  Khớp bài mẫu {diff.accuracy}%
-                </span>
-                <span className="text-[11px] text-muted-foreground">
-                  đúng {diff.matched}/{diff.total}
-                  {diff.missing > 0 ? ` · thiếu ${diff.missing}` : ""}
-                  {diff.extra > 0 ? ` · nói thêm ${diff.extra}` : ""}
-                </span>
-              </div>
-
-              <p className="flex flex-wrap gap-x-1.5 gap-y-1 text-sm leading-relaxed">
-                {diff.tokens.map((t, i) => (
-                  <span
-                    key={`${t.text}-${i}`}
-                    className={
-                      t.state === "match"
-                        ? "font-medium text-emerald-700 dark:text-emerald-300"
-                        : t.state === "missing"
-                          ? "font-semibold text-red-600 underline decoration-red-400 decoration-2 underline-offset-2 dark:text-red-400"
-                          : "text-amber-700 line-through decoration-amber-500 dark:text-amber-300"
-                    }
-                    title={t.state === "match" ? "Nói đúng" : t.state === "missing" ? "Chưa nói / nói sai từ này" : "Nói thêm, không có trong bài mẫu"}
-                  >
-                    {t.text}
-                  </span>
-                ))}
-              </p>
-
-              <div className="mt-2 flex flex-wrap gap-x-3 gap-y-1 border-t border-border pt-2 text-[11px] text-muted-foreground">
-                <span className="text-emerald-700 dark:text-emerald-300">■ đúng</span>
-                <span className="text-red-600 dark:text-red-400">■ thiếu / sai</span>
-                <span className="text-amber-700 dark:text-amber-300">■ nói thêm</span>
-              </div>
-            </div>
-          )}
-
-          {recorderError && <div className="text-xs font-medium text-destructive">{recorderError}</div>}
-          <div className="text-[11px] text-muted-foreground">
-            So khớp theo từ (không phân biệt hoa/thường, dấu câu; số được đọc thành chữ). Không lưu audio, chỉ chạy trên máy bạn.
-          </div>
-        </div>
-      )}
       {open && (
         <div className="mt-2 space-y-2 border-l-2 border-primary/25 pl-3">
           {ipa.map((line, i) => (
