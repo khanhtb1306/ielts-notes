@@ -533,6 +533,19 @@
     ],
     "job": [
       {
+        "q": "Are you a student or are you working?",
+        "audioFile": "07 - Are you a student or are you working.wav",
+        "answerFrames": [
+          "I'm working. I'm a/an… at…",
+          "I'm a student at…"
+        ],
+        "tip": "Chọn working / studying + and + nghề (sự thật, không cần because).",
+        "sampleAnswer": "I am working, and I am a software developer at FPT IS.",
+        "sampleAnswerIpa": [
+          "/aɪ əm ˈwɜːkɪŋ, ənd aɪ əm ə ˈsɒftweə dɪˈveləpər ət FPT IS/"
+        ]
+      },
+      {
         "q": "What do you do?",
         "audioFile": "06 - What do you do.wav",
         "answerFrames": [
@@ -544,19 +557,6 @@
         "sampleAnswer": "I am a software developer at FPT IS, and I develop web applications for businesses.",
         "sampleAnswerIpa": [
           "/aɪ əm ə ˈsɒftweə dɪˈveləpər ət FPT IS, ənd aɪ dɪˈveləp web ˌæplɪˈkeɪʃnz fə ˈbɪznəsɪz/"
-        ]
-      },
-      {
-        "q": "Are you a student or are you working?",
-        "audioFile": "07 - Are you a student or are you working.wav",
-        "answerFrames": [
-          "I'm working. I'm a/an… at…",
-          "I'm a student at…"
-        ],
-        "tip": "Chọn working / studying + and + nghề (sự thật, không cần because).",
-        "sampleAnswer": "I am working, and I am a software developer at FPT IS.",
-        "sampleAnswerIpa": [
-          "/aɪ əm ˈwɜːkɪŋ, ənd aɪ əm ə ˈsɒftweə dɪˈveləpər ət FPT IS/"
         ]
       },
       {
