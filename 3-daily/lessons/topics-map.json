@@ -411,13 +411,13 @@
         "q": "How do you spell your name?",
         "audioFile": "02 - How do you spell your name.wav",
         "answerFrames": [
-          "Sure, my name is spelt…",
-          "and that is…"
+          "K-H-A-N-H.",
+          "Sure, it is spelt K-H-A-N-H."
         ],
-        "tip": "Sure + đánh vần từng chữ + and that is + tên.",
-        "sampleAnswer": "Sure, my name is spelt K-H-A-N-H, and that is Khanh.",
+        "tip": "Đọc rõ từng chữ cái, chậm và tách nhau.",
+        "sampleAnswer": "K-H-A-N-H.",
         "sampleAnswerIpa": [
-          "/ʃʊə, maɪ ˈneɪm ɪz spelt keɪ-eɪtʃ-eɪ-en-eɪtʃ, ənd ðæt ɪz Khanh/"
+          "/keɪ - eɪtʃ - eɪ - en - eɪtʃ/"
         ]
       },
       {
@@ -466,13 +466,13 @@
         "answerFrames": [
           "What I like about my hometown is (that)…",
           "The good thing is…",
-          "The food here is very delicious.",
-          "People are very friendly and welcoming."
+          "The people are very friendly, and the food is very delicious."
         ],
-        "tip": "Frame + 1 điều thích + because + 1 lý do.",
-        "sampleAnswer": "What I like about my hometown is the food, because the food here is very delicious.",
+        "tip": "Frame + 2 điều thích → câu 2 giải thích từng điều.",
+        "sampleAnswer": "What I like about my hometown is the people and the food. The people are very friendly, and the food is very delicious.",
         "sampleAnswerIpa": [
-          "/wɒt aɪ ˈlaɪk əˈbaʊt maɪ ˈhəʊmtaʊn ɪz ðə fuːd, bɪˈkəz ðə fuːd hɪər ɪz ˈveri dɪˈlɪʃəs/"
+          "/wɒt aɪ laɪk əˈbaʊt maɪ ˈhəʊmtaʊn ɪz ðə ˈpiːpl ənd ðə fuːd/",
+          "/ðə ˈpiːpl ə ˈveri ˈfrendli, ənd ðə fuːd ɪz ˈveri dɪˈlɪʃəs/"
         ]
       },
       {
@@ -491,40 +491,43 @@
       {
         "q": "Are there any lakes or rivers in your hometown?",
         "answerFrames": [
-          "There is a big river where I live.",
-          "The most famous river is…",
+          "Yes, there is the … River in my hometown.",
+          "It is very long and beautiful.",
           "The water is crystal clear."
         ],
-        "tip": "Yes + There is/are + and + tên nổi tiếng nhất.",
-        "sampleAnswer": "Yes, there is a big river where I live, and the most famous one is the Ma River.",
+        "tip": "Yes + There is + tên sông + câu 2 tả bằng tính từ.",
+        "sampleAnswer": "Yes, there is the Ma River in my hometown. It is very long and beautiful.",
         "sampleAnswerIpa": [
-          "/jes, ðər ɪz ə bɪɡ ˈrɪvə weər aɪ lɪv, ənd ðə məʊst ˈfeɪməs wʌn ɪz ðə Ma ˈrɪvə/"
+          "/jes, ðər ɪz ðə Ma ˈrɪvər ɪn maɪ ˈhəʊmtaʊn/",
+          "/ɪt ɪz ˈveri lɒŋ ənd ˈbjuːtɪfl/"
         ]
       },
       {
         "q": "Are there any woods or forests in your hometown?",
         "answerFrames": [
-          "There aren't any forests near my house.",
-          "There are some forests in…",
-          "The air there is cool and fresh."
+          "Yes, there is … National Park near my hometown.",
+          "It is big / huge / vast and beautiful.",
+          "It has many kinds of plants, and the air there is cool and fresh."
         ],
-        "tip": "There aren't any… + but + chỗ khác có.",
-        "sampleAnswer": "There aren't any forests near my house, but there are some big forests in the west.",
+        "tip": "Yes + There is + tên rừng / công viên + câu 2 tả bằng tính từ.",
+        "sampleAnswer": "Yes, there is Cuc Phuong National Park near my hometown. It is big and beautiful.",
         "sampleAnswerIpa": [
-          "/ðər ɑːnt ˈeni ˈfɒrɪsts nɪə maɪ ˈhaʊs, bət ðər ɑː səm bɪɡ ˈfɒrɪsts ɪn ðə ˈwest/"
+          "/jes, ðər ɪz Cuc Phuong ˈnæʃnəl pɑːk nɪə maɪ ˈhəʊmtaʊn/",
+          "/ɪt ɪz bɪɡ ənd ˈbjuːtɪfl/"
         ]
       },
       {
         "q": "Are there any hills or mountains in your hometown?",
         "answerFrames": [
-          "There are some high mountains in…",
-          "My hometown also has a beautiful beach.",
-          "People go hiking there."
+          "Yes, there is … Mountain in my hometown.",
+          "It is high / enormous / rocky and beautiful.",
+          "People go hiking / go climbing there."
         ],
-        "tip": "Yes + There are + hướng + and + thêm 1 điểm nổi bật.",
-        "sampleAnswer": "Yes, there are some high mountains in the west, and there is a beautiful beach called Sam Son.",
+        "tip": "Yes + There is + tên núi + câu 2 tả bằng tính từ.",
+        "sampleAnswer": "Yes, there is Ham Rong Mountain in my hometown. It is high and beautiful.",
         "sampleAnswerIpa": [
-          "/jes, ðər ɑː səm haɪ ˈmaʊntɪnz ɪn ðə ˈwest, ənd ðər ɪz ə ˈbjuːtɪfl biːtʃ kɔːld Sam Son/"
+          "/jes, ðər ɪz Ham Rong ˈmaʊntɪn ɪn maɪ ˈhəʊmtaʊn/",
+          "/ɪt ɪz haɪ ənd ˈbjuːtɪfl/"
         ]
       }
     ],
@@ -534,12 +537,13 @@
         "audioFile": "06 - What do you do.wav",
         "answerFrames": [
           "I'm a/an… at…",
-          "I'm working as a/an… at…"
+          "I'm working as a/an… at…",
+          "I develop web applications for businesses."
         ],
         "tip": "Nghề + at + nơi làm + and + việc chính.",
-        "sampleAnswer": "I am a software developer at FPT IS, and I mainly develop web applications for businesses.",
+        "sampleAnswer": "I am a software developer at FPT IS, and I develop web applications for businesses.",
         "sampleAnswerIpa": [
-          "/aɪ əm ə ˈsɒftweə dɪˈveləpər ət FPT IS, ənd aɪ ˈmeɪnli dɪˈveləp web ˌæplɪˈkeɪʃnz fə ˈbɪznəsɪz/"
+          "/aɪ əm ə ˈsɒftweə dɪˈveləpər ət FPT IS, ənd aɪ dɪˈveləp web ˌæplɪˈkeɪʃnz fə ˈbɪznəsɪz/"
         ]
       },
       {
@@ -559,15 +563,14 @@
         "q": "What is your dream job? Why?",
         "audioFile": "08 - What is your dream job - why.wav",
         "answerFrames": [
-          "My dream is to become a/an…",
+          "My dream is to become a/an… at…",
           "It's a good job for me because…",
-          "It's a well-paid job.",
-          "I can improve my skills and create useful products."
+          "It's a well-paid job."
         ],
-        "tip": "Dream job + because + 1 lý do.",
-        "sampleAnswer": "My dream is to become a senior developer, because it is a well-paid job.",
+        "tip": "Dream job + at + nơi làm + because + 1 lý do.",
+        "sampleAnswer": "My dream is to become a senior developer at an international company, because I want to earn more money.",
         "sampleAnswerIpa": [
-          "/maɪ driːm ɪz tə bɪˈkʌm ə ˈsiːniə dɪˈveləpə, bɪˈkəz ɪt ɪz ə ˌwel ˈpeɪd dʒɒb/"
+          "/maɪ driːm ɪz tə bɪˈkʌm ə ˈsiːniə dɪˈveləpər ət ən ˌɪntəˈnæʃnəl ˈkʌmpəni, bɪˈkəz aɪ wɒnt tʊ ɜːn mɔː ˈmʌni/"
         ]
       }
     ],
@@ -578,53 +581,55 @@
         "answerFrames": [
           "I often + Verb…",
           "I'm really into / keen on…",
-          "It helps me relax and reduce stress."
+          "It helps me stay healthy and reduce stress."
         ],
-        "tip": "Hoạt động + because + 1 lợi ích.",
-        "sampleAnswer": "I often hit the gym in my free time, because it helps me stay healthy.",
+        "tip": "Hoạt động + because + lợi ích.",
+        "sampleAnswer": "I often hit the gym in my free time, because it helps me stay healthy and reduce stress.",
         "sampleAnswerIpa": [
-          "/aɪ ˈɒfn hɪt ðə dʒɪm ɪn maɪ friː ˈtaɪm, bɪˈkəz ɪt helps mi steɪ ˈhelθi/"
+          "/aɪ ˈɒfn hɪt ðə dʒɪm ɪn maɪ friː ˈtaɪm, bɪˈkəz ɪt helps mi steɪ ˈhelθi ənd rɪˈdjuːs stres/"
         ]
       },
       {
         "q": "What do you often do on the weekend?",
         "audioFile": "10 - What do you often do at the weekend.wav",
         "answerFrames": [
-          "At the weekend, I usually…",
-          "I often go out for drinks with my friends.",
-          "I like visiting new places and trying different foods."
+          "At the weekend, I often…",
+          "It helps me stay healthy and relax.",
+          "I often go out for drinks with my friends."
         ],
-        "tip": "At the weekend + hoạt động + because.",
-        "sampleAnswer": "At the weekend, I usually play badminton, because I like meeting my friends.",
+        "tip": "At the weekend + hoạt động + because + lợi ích.",
+        "sampleAnswer": "At the weekend, I often play badminton, because it helps me stay healthy and relax.",
         "sampleAnswerIpa": [
-          "/ət ðə ˌwiːkˈend, aɪ ˈjuːʒuəli pleɪ ˈbædmɪntən, bɪˈkəz aɪ laɪk ˈmiːtɪŋ maɪ frendz/"
+          "/ət ðə ˌwiːkˈend, aɪ ˈɒfn pleɪ ˈbædmɪntən, bɪˈkəz ɪt helps mi steɪ ˈhelθi ənd rɪˈlæks/"
         ]
       },
       {
         "q": "Do you like sports? How often?",
         "audioFile": "11 - Do you like sports - how often.wav",
         "answerFrames": [
-          "Yes, I do. I play … once / twice a week.",
+          "Yes, I play badminton with my friends about once a week.",
+          "It helps me stay healthy and relax.",
           "It helps me keep in shape."
         ],
-        "tip": "Yes, I do + because + môn + tần suất.",
-        "sampleAnswer": "Yes, I do, because I play badminton with my friends about once a week.",
+        "tip": "Yes + môn + tần suất + because + lợi ích.",
+        "sampleAnswer": "Yes, I play badminton with my friends about once a week, because it helps me stay healthy and relax.",
         "sampleAnswerIpa": [
-          "/jes, aɪ duː, bɪˈkəz aɪ pleɪ ˈbædmɪntən wɪð maɪ frendz əˈbaʊt wʌns ə wiːk/"
+          "/jes, aɪ pleɪ ˈbædmɪntən wɪð maɪ frendz əˈbaʊt wʌns ə wiːk, bɪˈkəz ɪt helps mi steɪ ˈhelθi ənd rɪˈlæks/"
         ]
       },
       {
         "q": "Do you like watching movies?",
         "audioFile": "12 - Do you like watching films.wav",
         "answerFrames": [
-          "No, I don't like watching films.",
-          "I often spend my free time hanging out with my friends.",
-          "Yes, watching films is a good way to relax."
+          "No, I don't, because I like hanging out with my friends.",
+          "We play sports and eat together.",
+          "I often spend my free time hanging out with my friends."
         ],
-        "tip": "No, I don't + because + việc bạn thích hơn.",
-        "sampleAnswer": "No, I don't, because I prefer going out and meeting my friends.",
+        "tip": "No, I don't + because + việc thích hơn → câu 2 nói rõ làm gì.",
+        "sampleAnswer": "No, I don't, because I like hanging out with my friends. We play sports and eat together.",
         "sampleAnswerIpa": [
-          "/nəʊ, aɪ dəʊnt, bɪˈkəz aɪ prɪˈfɜː ˈɡəʊɪŋ aʊt ənd ˈmiːtɪŋ maɪ frendz/"
+          "/nəʊ, aɪ dəʊnt, bɪˈkəz aɪ laɪk ˈhæŋɪŋ aʊt wɪð maɪ frendz/",
+          "/wi pleɪ spɔːts ənd iːt təˈɡeðə/"
         ]
       },
       {
@@ -634,10 +639,10 @@
           "I don't really watch films.",
           "I like comedy / action / romantic films because…"
         ],
-        "tip": "Không thích thì nói thẳng + because.",
-        "sampleAnswer": "I don't really watch films, because I prefer hanging out with my friends.",
+        "tip": "Đây là câu Wh-, KHÔNG trả lời \"No, I don't\". Nói \"I don't really watch films\" + because.",
+        "sampleAnswer": "I don't really watch films, because I like hanging out with my friends.",
         "sampleAnswerIpa": [
-          "/aɪ dəʊnt ˈrɪəli wɒtʃ fɪlmz, bɪˈkəz aɪ prɪˈfɜː ˈhæŋɪŋ aʊt wɪð maɪ frendz/"
+          "/aɪ dəʊnt ˈrɪəli wɒtʃ fɪlmz, bɪˈkəz aɪ laɪk ˈhæŋɪŋ aʊt wɪð maɪ frendz/"
         ]
       },
       {
@@ -647,38 +652,39 @@
           "I don't have a favourite film.",
           "My favourite film is…"
         ],
-        "tip": "Không có thì nói thẳng \"I don't have a favourite film\" + because.",
-        "sampleAnswer": "I don't have a favourite film, because I rarely watch films.",
+        "tip": "Đây là câu Wh-, KHÔNG trả lời \"No, I don't\". Nói \"I don't have a favourite film\" + because.",
+        "sampleAnswer": "I don't have a favourite film, because I prefer hanging out with my friends.",
         "sampleAnswerIpa": [
-          "/aɪ dəʊnt həv ə ˈfeɪvərɪt fɪlm, bɪˈkəz aɪ ˈreəli wɒtʃ fɪlmz/"
+          "/aɪ dəʊnt həv ə ˈfeɪvərɪt fɪlm, bɪˈkəz aɪ prɪˈfɜː ˈhæŋɪŋ aʊt wɪð maɪ frendz/"
         ]
       },
       {
         "q": "Do you like reading books?",
         "audioFile": "16 - Do you like reading books - what do you like reading most.wav",
         "answerFrames": [
-          "Yes, I do.",
-          "I'm really into reading books about technology and software development.",
-          "They help me improve my knowledge."
+          "Yes, I like reading books about technology and software development.",
+          "I'm really into / interested in reading books about…",
+          "They help me improve my knowledge and skills."
         ],
-        "tip": "Yes, I do + because + chủ đề sách + lợi ích.",
-        "sampleAnswer": "Yes, I do, because books about software development help me improve my knowledge.",
+        "tip": "Yes + chủ đề sách → câu 2 nói lợi ích.",
+        "sampleAnswer": "Yes, I like reading books about technology and software development. They help me improve my knowledge and skills.",
         "sampleAnswerIpa": [
-          "/jes, aɪ duː, bɪˈkəz bʊks əˈbaʊt ˈsɒftweə dɪˈveləpmənt help mi ɪmˈpruːv maɪ ˈnɒlɪdʒ/"
+          "/jes, aɪ laɪk ˈriːdɪŋ bʊks əˈbaʊt tekˈnɒlədʒi ənd ˈsɒftweə dɪˈveləpmənt/",
+          "/ðeɪ help mi ɪmˈpruːv maɪ ˈnɒlɪdʒ ənd skɪlz/"
         ]
       },
       {
         "q": "Do you like listening to music?",
         "audioFile": "17 - Do you like listening to music - what kind of music do you often listen to.wav",
         "answerFrames": [
-          "Yes, I do.",
-          "I often listen to pop music and Vietnamese music.",
-          "I usually listen to music when I'm coding or hitting the gym."
+          "I often listen to Vietnamese music and remix music.",
+          "I usually listen to music when I work or hit the gym.",
+          "It helps me relax."
         ],
-        "tip": "Yes, I do + because + loại nhạc + khi nào nghe.",
-        "sampleAnswer": "Yes, I do, because pop and Vietnamese music help me relax when I am coding.",
+        "tip": "Loại nhạc + khi nào nghe + because + lợi ích.",
+        "sampleAnswer": "I often listen to Vietnamese music and remix music when I work or hit the gym, because it helps me relax.",
         "sampleAnswerIpa": [
-          "/jes, aɪ duː, bɪˈkəz pɒp ənd ˌvjetnəˈmiːz ˈmjuːzɪk help mi rɪˈlæks wen aɪ əm ˈkəʊdɪŋ/"
+          "/aɪ ˈɒfn ˈlɪsn tə ˌvjetnəˈmiːz ˈmjuːzɪk ənd ˈriːmɪks ˈmjuːzɪk wen aɪ wɜːk ɔː hɪt ðə dʒɪm, bɪˈkəz ɪt helps mi rɪˈlæks/"
         ]
       },
       {
@@ -686,12 +692,15 @@
         "audioFile": "18 - Do you like playing computer games - what is your favourite computer game.wav",
         "answerFrames": [
           "Yes, but not very often.",
-          "My favourite computer game is League of Legends."
+          "My favourite computer game is League of Legends.",
+          "We are all working now, so we don't play games very often."
         ],
-        "tip": "Yes, but not very often + because + lý do.",
-        "sampleAnswer": "Yes, but not very often, because we are all working now.",
+        "tip": "Yes, but not very often → tên game → so + lý do ít chơi.",
+        "sampleAnswer": "Yes, but not very often. My favourite computer game is League of Legends. We are all working now, so we don't play games very often.",
         "sampleAnswerIpa": [
-          "/jes, bət nɒt ˈveri ˈɒfn, bɪˈkəz wi ɑːr ɔːl ˈwɜːkɪŋ naʊ/"
+          "/jes, bət nɒt ˈveri ˈɒfn/",
+          "/maɪ ˈfeɪvərɪt kəmˈpjuːtə ɡeɪm ɪz liːɡ əv ˈledʒəndz/",
+          "/wi ɑːr ɔːl ˈwɜːkɪŋ naʊ, səʊ wi dəʊnt pleɪ ɡeɪmz ˈveri ˈɒfn/"
         ]
       }
     ],
