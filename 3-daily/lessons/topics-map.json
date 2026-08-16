@@ -708,98 +708,132 @@
         "q": "What time is it in your country?",
         "audioFile": "19 - What time is it in your country.wav",
         "answerFrames": [
-          "It is … o'clock.",
-          "It is half past …",
-          "It is quarter past / quarter to …"
+          "đúng giờ      → seven o'clock / It's seven",
+          "x giờ 30      → half past seven = seven thirty am/pm",
+          "x giờ 15      → quarter past seven = seven fifteen am/pm",
+          "x giờ 45      → quarter to eight = seven forty-five am/pm",
+          "giờ lẻ khác   → eight ten am / six forty-five pm",
+          "sáng/chiều    → am / pm  hoặc  in the morning / in the afternoon / at night"
         ],
-        "tip": "Đọc giờ + so + 1 ý ngắn.",
-        "sampleAnswer": "It is half past seven in the morning, so people are going to work now.",
+        "tip": "seven thirty am — dùng số thẳng + am/pm. Hoặc: half past seven.",
+        "sampleAnswer": "It is seven thirty am.",
         "sampleAnswerIpa": [
-          "/ɪt ɪz hɑːf pɑːst ˈsevn ɪn ðə ˈmɔːnɪŋ, səʊ ˈpiːpl ə ˈɡəʊɪŋ tə wɜːk naʊ/"
+          "/ɪt ɪz ˈsevn ˈθɜːti eɪ em/"
         ]
       },
       {
         "q": "What time do you get up?",
         "audioFile": "20 - What time do you get up.wav",
         "answerFrames": [
-          "I usually get up at … in the morning."
+          "đúng giờ      → seven o'clock / It's seven",
+          "x giờ 30      → half past seven = seven thirty am/pm",
+          "x giờ 15      → quarter past seven = seven fifteen am/pm",
+          "x giờ 45      → quarter to eight = seven forty-five am/pm",
+          "giờ lẻ khác   → eight ten am / six forty-five pm",
+          "sáng/chiều    → am / pm  hoặc  in the morning / in the afternoon / at night"
         ],
-        "tip": "get up at + giờ + because.",
-        "sampleAnswer": "I usually get up at seven in the morning, because I start work at eight.",
+        "tip": "seven o'clock — đúng giờ → dùng \"o'clock\". Hoặc chỉ nói \"at seven\".",
+        "sampleAnswer": "I usually get up at seven o'clock in the morning.",
         "sampleAnswerIpa": [
-          "/aɪ ˈjuːʒuəli ɡet ʌp ət ˈsevn ɪn ðə ˈmɔːnɪŋ, bɪˈkəz aɪ stɑːt wɜːk ət eɪt/"
+          "/aɪ ˈjuːʒuəli ɡet ʌp ət ˈsevn əˈklɒk ɪn ðə ˈmɔːnɪŋ/"
         ]
       },
       {
         "q": "What time do you go to work?",
         "answerFrames": [
-          "I go to work at…",
-          "I leave home at…"
+          "đúng giờ      → seven o'clock / It's seven",
+          "x giờ 30      → half past seven = seven thirty am/pm",
+          "x giờ 15      → quarter past seven = seven fifteen am/pm",
+          "x giờ 45      → quarter to eight = seven forty-five am/pm",
+          "giờ lẻ khác   → eight ten am / six forty-five pm",
+          "sáng/chiều    → am / pm  hoặc  in the morning / in the afternoon / at night"
         ],
-        "tip": "go to work at + giờ + and + 1 chi tiết.",
-        "sampleAnswer": "I go to work at eight in the morning, and it takes me twenty minutes.",
+        "tip": "eight o'clock — đúng giờ → dùng \"o'clock\". Có thể nói \"eight am\".",
+        "sampleAnswer": "I go to work at eight o'clock in the morning.",
         "sampleAnswerIpa": [
-          "/aɪ ɡəʊ tə wɜːk ət eɪt ɪn ðə ˈmɔːnɪŋ, ənd ɪt teɪks mi ˈtwenti ˈmɪnɪts/"
+          "/aɪ ɡəʊ tə wɜːk ət eɪt əˈklɒk ɪn ðə ˈmɔːnɪŋ/"
         ]
       },
       {
         "q": "What time do you have breakfast?",
         "audioFile": "22 - What time do you have breakfast.wav",
         "answerFrames": [
-          "I have breakfast at…",
-          "I usually have breakfast at home."
+          "đúng giờ      → seven o'clock / It's seven",
+          "x giờ 30      → half past seven = seven thirty am/pm",
+          "x giờ 15      → quarter past seven = seven fifteen am/pm",
+          "x giờ 45      → quarter to eight = seven forty-five am/pm",
+          "giờ lẻ khác   → eight ten am / six forty-five pm",
+          "sáng/chiều    → am / pm  hoặc  in the morning / in the afternoon / at night"
         ],
-        "tip": "have breakfast at + giờ + ở đâu.",
-        "sampleAnswer": "I have breakfast at half past seven, usually at home before I go to work.",
+        "tip": "seven thirty am = half past seven — 2 cách đọc đều đúng.",
+        "sampleAnswer": "I have breakfast at seven thirty am.",
         "sampleAnswerIpa": [
-          "/aɪ həv ˈbrekfəst ət hɑːf pɑːst ˈsevn, ˈjuːʒuəli ət həʊm bɪˈfɔːr aɪ ɡəʊ tə wɜːk/"
+          "/aɪ həv ˈbrekfəst ət ˈsevn ˈθɜːti eɪ em/"
         ]
       },
       {
         "q": "What time do you have lunch?",
         "answerFrames": [
-          "I have lunch at…",
-          "I have lunch with my colleagues."
+          "đúng giờ      → seven o'clock / It's seven",
+          "x giờ 30      → half past seven = seven thirty am/pm",
+          "x giờ 15      → quarter past seven = seven fifteen am/pm",
+          "x giờ 45      → quarter to eight = seven forty-five am/pm",
+          "giờ lẻ khác   → eight ten am / six forty-five pm",
+          "sáng/chiều    → am / pm  hoặc  in the morning / in the afternoon / at night"
         ],
-        "tip": "have lunch at + giờ + and + với ai.",
-        "sampleAnswer": "I have lunch at half past twelve, and I usually eat with my colleagues.",
+        "tip": "twelve thirty pm = half past twelve — 2 cách đọc đều đúng.",
+        "sampleAnswer": "I have lunch at twelve thirty pm.",
         "sampleAnswerIpa": [
-          "/aɪ həv lʌntʃ ət hɑːf pɑːst twelv, ənd aɪ ˈjuːʒuəli iːt wɪð maɪ ˈkɒliːɡz/"
+          "/aɪ həv lʌntʃ ət twelv ˈθɜːti piː em/"
         ]
       },
       {
         "q": "What time do you have dinner?",
         "answerFrames": [
-          "I have dinner at…",
-          "I have dinner with my family."
+          "đúng giờ      → seven o'clock / It's seven",
+          "x giờ 30      → half past seven = seven thirty am/pm",
+          "x giờ 15      → quarter past seven = seven fifteen am/pm",
+          "x giờ 45      → quarter to eight = seven forty-five am/pm",
+          "giờ lẻ khác   → eight ten am / six forty-five pm",
+          "sáng/chiều    → am / pm  hoặc  in the morning / in the afternoon / at night"
         ],
-        "tip": "have dinner at + giờ + and + ở đâu / với ai.",
-        "sampleAnswer": "I have dinner at about seven in the evening, and I usually eat at home.",
+        "tip": "seven pm — đúng giờ chiều/tối → dùng pm. Hoặc: \"at seven in the evening\".",
+        "sampleAnswer": "I have dinner at seven pm.",
         "sampleAnswerIpa": [
-          "/aɪ həv ˈdɪnər ət əˈbaʊt ˈsevn ɪn ðə ˈiːvnɪŋ, ənd aɪ ˈjuːʒuəli iːt ət həʊm/"
+          "/aɪ həv ˈdɪnər ət ˈsevn piː em/"
         ]
       },
       {
         "q": "What time do you come home from work?",
         "answerFrames": [
-          "I come home at / around … in the evening."
+          "đúng giờ      → seven o'clock / It's seven",
+          "x giờ 30      → half past seven = seven thirty am/pm",
+          "x giờ 15      → quarter past seven = seven fifteen am/pm",
+          "x giờ 45      → quarter to eight = seven forty-five am/pm",
+          "giờ lẻ khác   → eight ten am / six forty-five pm",
+          "sáng/chiều    → am / pm  hoặc  in the morning / in the afternoon / at night"
         ],
-        "tip": "come home at + giờ + and then + việc tiếp theo.",
-        "sampleAnswer": "I usually come home at six in the evening, and then I go to the gym.",
+        "tip": "six pm — đúng giờ chiều → dùng pm. Hoặc: \"at six in the evening\".",
+        "sampleAnswer": "I usually come home at six pm.",
         "sampleAnswerIpa": [
-          "/aɪ ˈjuːʒuəli kʌm həʊm ət sɪks ɪn ðə ˈiːvnɪŋ, ənd ðen aɪ ɡəʊ tə ðə dʒɪm/"
+          "/aɪ ˈjuːʒuəli kʌm həʊm ət sɪks piː em/"
         ]
       },
       {
         "q": "What time do you go to bed?",
         "audioFile": "26 - What time do you go to bed.wav",
         "answerFrames": [
-          "I go to bed at about … at night."
+          "đúng giờ      → seven o'clock / It's seven",
+          "x giờ 30      → half past seven = seven thirty am/pm",
+          "x giờ 15      → quarter past seven = seven fifteen am/pm",
+          "x giờ 45      → quarter to eight = seven forty-five am/pm",
+          "giờ lẻ khác   → eight ten am / six forty-five pm",
+          "sáng/chiều    → am / pm  hoặc  in the morning / in the afternoon / at night"
         ],
-        "tip": "go to bed at + giờ + because.",
-        "sampleAnswer": "I go to bed at about eleven at night, because I have to get up early.",
+        "tip": "eleven pm — tối muộn → dùng pm hoặc \"at night\". Không cần \"o'clock\".",
+        "sampleAnswer": "I go to bed at eleven pm.",
         "sampleAnswerIpa": [
-          "/aɪ ɡəʊ tə bed ət əˈbaʊt ɪˈlevn ət naɪt, bɪˈkəz aɪ hæv tə ɡet ʌp ˈɜːli/"
+          "/aɪ ɡəʊ tə bed ət ɪˈlevn piː em/"
         ]
       },
       {
