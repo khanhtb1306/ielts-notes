@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react"
-import { Bot, Check, Clock3, Copy, Eye, EyeOff, Gamepad2, GraduationCap, HeartPulse, Home, Lightbulb, Mic, MapPinHouse, Pencil, Plane, Quote, RotateCcw, UserRound, UsersRound, Utensils, Volume2, VolumeX, X } from "lucide-react"
+import { Bot, Check, Clock3, Copy, Eye, EyeOff, Gamepad2, GraduationCap, HeartPulse, Home, Lightbulb, Mic, MapPinHouse, Pencil, Plane, Play, Quote, RotateCcw, Square, UserRound, UsersRound, Utensils, Volume2, VolumeX, X } from "lucide-react"
 import type { LucideIcon } from "lucide-react"
 import { getEnglishVoices, speak } from "@/lib/tts"
 import { diffWords, tokenize } from "@/lib/speech-diff"
@@ -278,7 +278,9 @@ export function SpeakingDrill({ questions }: Props) {
       return
     }
     recStop() // tháo sạch instance cũ, không còn race
+    // Tắt mọi âm thanh đang phát để mic không thu lại tiếng audio câu hỏi
     window.speechSynthesis?.cancel()
+    if (audioRef.current) { audioRef.current.pause(); audioRef.current.currentTime = 0 }
     baseTextRef.current = ""
     transcriptRef.current = ""
     setTranscript("")
@@ -307,10 +309,28 @@ export function SpeakingDrill({ questions }: Props) {
     }
   }
 
-  /** Click câu hỏi: nếu panel ghi âm đang mở → ghi âm luôn cho câu đó. */
+  /** Click vào nội dung câu hỏi: chọn câu + ghi âm luôn. */
   function activateRecorder(q: SpeakingQuestion) {
     if (!recorderOpen) return
     recStartFor(q)
+  }
+
+  /**
+   * Click icon audio: chỉ chọn câu, KHÔNG ghi âm.
+   * Nếu đang ghi thì dừng lại để mic không thu tiếng audio câu hỏi.
+   */
+  function selectForRecorderNoStart(q: SpeakingQuestion) {
+    if (!recorderOpen) return
+    recStop()
+    if (activeRecorderQ?.q !== q.q) {
+      baseTextRef.current = ""
+      transcriptRef.current = ""
+      setTranscript("")
+      setInterim("")
+      setElapsed(0)
+      setRecorderError("")
+      setActiveRecorderQ(q)
+    }
   }
 
   useEffect(() => {
@@ -346,11 +366,13 @@ export function SpeakingDrill({ questions }: Props) {
   }
 
   function playQuestion(item: SelectedQuestion) {
+    if (isListeningRef.current) recStop() // đang ghi thì dừng, tránh mic thu tiếng audio
     if (item.q.audioFile) play(item.q.audioFile)
     else playGenerated(item.q.q)
   }
 
   function playSampleAnswer(text: string) {
+    if (isListeningRef.current) recStop()
     audioRef.current?.pause()
     speak(text, voiceName, 0.9)
   }
@@ -429,7 +451,7 @@ export function SpeakingDrill({ questions }: Props) {
                         selected={selectedIndex === i}
                         showQuestionText={showQuestionText}
                         onSelect={() => { setSelectedBySection((prev) => ({ ...prev, [section.id]: i })); activateRecorder(item.q) }}
-                        onPlay={() => { playQuestion(item); activateRecorder(item.q) }}
+                        onPlay={() => { selectForRecorderNoStart(item.q); playQuestion(item) }}
                       />
                     )
                   })}
@@ -469,6 +491,17 @@ export function SpeakingDrill({ questions }: Props) {
             </span>
             {listening && <span className="shrink-0 text-[11px] font-semibold text-destructive">{formatTime(elapsed)}</span>}
             {!listening && elapsed > 0 && <span className="shrink-0 text-[11px] text-muted-foreground">{formatTime(elapsed)}{wpm > 0 ? ` · ${wpm}w/p` : ""}</span>}
+            {listening ? (
+              <button type="button" onClick={recStop} title="Dừng ghi âm"
+                className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-destructive text-destructive-foreground hover:opacity-85">
+                <Square className="h-3 w-3" />
+              </button>
+            ) : (
+              <button type="button" onClick={() => activeRecorderQ && recStartFor(activeRecorderQ)} disabled={!activeRecorderQ}
+                title="Bắt đầu ghi âm" className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-primary text-primary-foreground hover:opacity-85 disabled:opacity-40">
+                <Play className="h-3 w-3" />
+              </button>
+            )}
             <button type="button" onClick={recClear} title="Xoá text" className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-muted-foreground hover:bg-muted hover:text-primary">
               <RotateCcw className="h-3.5 w-3.5" />
             </button>
