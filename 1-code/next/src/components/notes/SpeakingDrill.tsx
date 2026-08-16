@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react"
-import { Bot, Check, Clock3, Copy, Eye, Gamepad2, GraduationCap, HeartPulse, Home, Lightbulb, Mic, MicOff, MapPinHouse, Pencil, Plane, Quote, RotateCcw, Square, UserRound, UsersRound, Utensils, Volume2, VolumeX } from "lucide-react"
+import { Bot, Check, Clock3, Copy, Eye, EyeOff, Gamepad2, GraduationCap, HeartPulse, Home, Lightbulb, Mic, MicOff, MapPinHouse, Pencil, Plane, Quote, RotateCcw, Square, UserRound, UsersRound, Utensils, Volume2, VolumeX } from "lucide-react"
 import type { LucideIcon } from "lucide-react"
 import { getEnglishVoices, speak } from "@/lib/tts"
 import { diffWords, tokenize } from "@/lib/speech-diff"
@@ -102,8 +102,8 @@ export function SpeakingDrill({ questions }: Props) {
   const audioRef = useRef<HTMLAudioElement | null>(null)
   const [voiceName, setVoiceName] = useState("")
   const [selectedBySection, setSelectedBySection] = useState<Record<string, number>>({})
-  const [revealedSections, setRevealedSections] = useState<Record<string, boolean>>({})
   const [sampleOverrides, setSampleOverrides] = useState<Record<string, string>>({})
+  const [showQuestionText, setShowQuestionText] = useState(false)
 
   useEffect(() => {
     const selectVoice = () => setVoiceName(googleFemaleVoiceName(getEnglishVoices()))
@@ -185,7 +185,6 @@ export function SpeakingDrill({ questions }: Props) {
           const withGeneratedAudio = list.length - withAudio
           const selectedIndex = selectedBySection[section.id]
           const selected = selectedIndex === undefined ? null : questionItem(section, Math.min(selectedIndex, list.length - 1))
-          const showQuestionText = Boolean(revealedSections[section.id])
           return (
             <section key={section.id} id={`speak-${section.id}`} className="scroll-mt-28 overflow-hidden rounded-2xl border border-border bg-card shadow-sm">
               <div className="border-b border-border bg-muted/30 px-4 py-3">
@@ -202,23 +201,9 @@ export function SpeakingDrill({ questions }: Props) {
                   >
                     {section.title}
                   </button>
-                  <div className="flex shrink-0 items-center gap-2">
-                    <button
-                      type="button"
-                      onClick={(e) => {
-                        e.stopPropagation()
-                        setRevealedSections((prev) => ({ ...prev, [section.id]: !prev[section.id] }))
-                      }}
-                      title={showQuestionText ? "Ẩn nội dung câu hỏi" : "Hiện nội dung câu hỏi"}
-                      className="inline-flex items-center gap-1 rounded-full border border-primary/25 bg-primary/10 px-2 py-0.5 text-[11px] font-semibold text-primary transition-colors hover:bg-primary hover:text-primary-foreground"
-                    >
-                      <Eye className="h-3 w-3" />
-                      {showQuestionText ? "Ẩn câu hỏi" : "View questions"}
-                    </button>
-                    <span className="rounded-full border border-border bg-background px-2 py-0.5 text-[11px] text-muted-foreground">
-                      {list.length} câu
-                    </span>
-                  </div>
+                  <span className="rounded-full border border-border bg-background px-2 py-0.5 text-[11px] text-muted-foreground">
+                    {list.length} câu
+                  </span>
                 </div>
                 <div className="mt-1 text-xs text-muted-foreground">
                   {withAudio} audio gốc · {withGeneratedAudio} giọng máy
@@ -257,6 +242,21 @@ export function SpeakingDrill({ questions }: Props) {
           )
         })}
       </div>
+
+      {/* FAB con mắt — fixed bottom-right, toggle hiện/ẩn câu hỏi toàn trang */}
+      <button
+        type="button"
+        onClick={() => setShowQuestionText((v) => !v)}
+        title={showQuestionText ? "Ẩn câu hỏi" : "Hiện câu hỏi"}
+        className={
+          "fixed bottom-6 right-6 z-40 flex h-14 w-14 items-center justify-center rounded-full shadow-lg transition-all hover:scale-105 active:scale-95 " +
+          (showQuestionText
+            ? "bg-primary text-primary-foreground"
+            : "bg-card border border-border text-primary hover:bg-primary hover:text-primary-foreground")
+        }
+      >
+        {showQuestionText ? <EyeOff className="h-6 w-6" /> : <Eye className="h-6 w-6" />}
+      </button>
     </div>
   )
 }
