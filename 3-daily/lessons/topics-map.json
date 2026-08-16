@@ -399,12 +399,12 @@
         "audioFile": "01 - What's your name.wav",
         "answerFrames": [
           "My name is…",
-          "My full name is…"
+          "my full name is…"
         ],
-        "tip": "Tên thường dùng + and + full name.",
-        "sampleAnswer": "My name is Khanh, and my full name is Trinh Bao Khanh.",
+        "tip": "Tên thường dùng, rồi nói full name.",
+        "sampleAnswer": "My name is Khanh, my full name is Trinh Bao Khanh.",
         "sampleAnswerIpa": [
-          "/maɪ ˈneɪm ɪz Khanh, ənd maɪ fʊl ˈneɪm ɪz Trinh Bao Khanh/"
+          "/maɪ ˈneɪm ɪz Khanh, maɪ fʊl ˈneɪm ɪz Trinh Bao Khanh/"
         ]
       },
       {
