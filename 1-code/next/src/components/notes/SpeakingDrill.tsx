@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react"
-import { Bot, Check, ChevronDown, ChevronUp, Clock3, Copy, Eye, EyeOff, Gamepad2, GraduationCap, HeartPulse, Home, Lightbulb, Mic, MicOff, MapPinHouse, Pencil, Plane, Quote, RotateCcw, Square, UserRound, UsersRound, Utensils, Volume2, VolumeX, X } from "lucide-react"
+import { Bot, Check, Clock3, Copy, Eye, EyeOff, Gamepad2, GraduationCap, HeartPulse, Home, Lightbulb, Mic, MapPinHouse, Pencil, Plane, Quote, RotateCcw, UserRound, UsersRound, Utensils, Volume2, VolumeX, X } from "lucide-react"
 import type { LucideIcon } from "lucide-react"
 import { getEnglishVoices, speak } from "@/lib/tts"
 import { diffWords, tokenize } from "@/lib/speech-diff"
@@ -21,6 +21,25 @@ const SPEAKING_SECTIONS = [
   { id: "food-restaurant", title: "Food / Drinks", keys: ["food-restaurant"], icon: Utensils },
   { id: "health-illness", title: "Health and Illness", keys: ["health-illness"], icon: HeartPulse },
 ]
+
+/**
+ * Nối 2 đoạn text, tự cắt phần chồng lấn ở mối nối.
+ * Chrome khi tự ngắt & restart đôi khi nhận lại vài từ cuối → tránh lặp.
+ */
+function joinNoOverlap(base: string, next: string) {
+  if (!base) return next
+  if (!next) return base
+  const key = (s: string) => s.toLowerCase().replace(/[^a-z0-9']+/g, "")
+  const a = base.split(/\s+/)
+  const b = next.split(/\s+/)
+  const max = Math.min(8, a.length, b.length)
+  for (let k = max; k > 0; k--) {
+    const tail = a.slice(a.length - k).map(key).join(" ")
+    const head = b.slice(0, k).map(key).join(" ")
+    if (tail && tail === head) return [...a, ...b.slice(k)].join(" ")
+  }
+  return `${base} ${next}`
+}
 
 function formatTime(total: number) {
   const m = Math.floor(total / 60)
@@ -107,7 +126,6 @@ export function SpeakingDrill({ questions }: Props) {
 
   // ── Recorder (lifted) ──────────────────────────────────────────────
   const [recorderOpen, setRecorderOpen] = useState(false)
-  const [recorderMinimized, setRecorderMinimized] = useState(false)
   const [activeRecorderQ, setActiveRecorderQ] = useState<SpeakingQuestion | null>(null)
   const [listening, setListening] = useState(false)
   const [transcript, setTranscript] = useState("")
@@ -116,7 +134,11 @@ export function SpeakingDrill({ questions }: Props) {
   const [elapsed, setElapsed] = useState(0)
   const recognitionRef = useRef<SpeechRecognitionLike | null>(null)
   const isListeningRef = useRef(false)
-  const accumulatedRef = useRef("")
+  /** Text đã chốt từ các recognition instance TRƯỚC (trước mỗi lần auto-restart). */
+  const baseTextRef = useRef("")
+  /** Mirror của transcript để đọc đồng bộ trong handler. */
+  const transcriptRef = useRef("")
+  const restartTimerRef = useRef<number | null>(null)
 
   const activeText = activeRecorderQ
     ? (sampleOverrides[activeRecorderQ.q] || activeRecorderQ.sampleAnswer || "")
@@ -127,7 +149,13 @@ export function SpeakingDrill({ questions }: Props) {
   const wpm = elapsed >= 3 ? Math.round((spokenWordCount / elapsed) * 60) : 0
 
   useEffect(() => {
-    return () => { isListeningRef.current = false; recognitionRef.current?.abort() }
+    return () => {
+      isListeningRef.current = false
+      if (restartTimerRef.current) window.clearTimeout(restartTimerRef.current)
+      destroyRecognition(recognitionRef.current)
+      recognitionRef.current = null
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
   useEffect(() => {
@@ -146,56 +174,143 @@ export function SpeakingDrill({ questions }: Props) {
     }
   }
 
+  /** Ngắt sạch 1 instance: tháo handler TRƯỚC khi abort để onend không bao giờ chạy. */
+  function destroyRecognition(r: SpeechRecognitionLike | null) {
+    if (!r) return
+    r.onresult = null
+    r.onerror = null
+    r.onend = null
+    r.onstart = null
+    try { r.abort() } catch { /* ignore */ }
+  }
+
   function recCreateAndStart() {
     const win = window as Window & { SpeechRecognition?: SpeechRecognitionConstructor; webkitSpeechRecognition?: SpeechRecognitionConstructor }
     const Ctor = win.SpeechRecognition || win.webkitSpeechRecognition
-    if (!Ctor) { setRecorderError("Dùng Chrome/Edge."); isListeningRef.current = false; setListening(false); return }
+    if (!Ctor) {
+      setRecorderError("Trình duyệt chưa hỗ trợ. Hãy dùng Chrome hoặc Edge.")
+      isListeningRef.current = false
+      setListening(false)
+      return
+    }
     const r = new Ctor()
-    r.lang = "en-GB"; r.continuous = true; r.interimResults = true; r.maxAlternatives = 1
+    r.lang = "en-GB"
+    r.continuous = true
+    r.interimResults = true
+    r.maxAlternatives = 1
+
     r.onresult = (event) => {
+      if (recognitionRef.current !== r) return // instance đã bị thay → bỏ qua
+      // Dựng lại TOÀN BỘ text final của instance này → idempotent, không thể lặp
+      let finalText = ""
       let pending = ""
-      for (let i = event.resultIndex; i < event.results.length; i++) {
-        const res = event.results[i]; const chunk = res[0]?.transcript ?? ""
+      for (let i = 0; i < event.results.length; i++) {
+        const res = event.results[i]
+        const chunk = (res[0]?.transcript ?? "").trim()
         if (!chunk) continue
-        if (res.isFinal) accumulatedRef.current += (accumulatedRef.current ? " " : "") + chunk.trim()
-        else pending += chunk
+        if (res.isFinal) finalText += (finalText ? " " : "") + chunk
+        else pending += (pending ? " " : "") + chunk
       }
-      setTranscript(accumulatedRef.current); setInterim(pending.trim())
+      const merged = joinNoOverlap(baseTextRef.current, finalText)
+      transcriptRef.current = merged
+      setTranscript(merged)
+      setInterim(pending)
     }
-    r.onerror = (event) => { const msg = recErrorMessage(event.error); if (msg) { isListeningRef.current = false; setListening(false); setRecorderError(msg) } }
+
+    r.onerror = (event) => {
+      if (recognitionRef.current !== r) return
+      const msg = recErrorMessage(event.error)
+      if (msg) {
+        isListeningRef.current = false
+        setListening(false)
+        setRecorderError(msg)
+      }
+      // no-speech / aborted: bỏ qua, onend sẽ tự restart
+    }
+
     r.onstart = null
+
     r.onend = () => {
+      if (recognitionRef.current !== r) return
       setInterim("")
-      if (isListeningRef.current) window.setTimeout(() => { if (isListeningRef.current) try { recCreateAndStart() } catch { /**/ } }, 120)
-      else setListening(false)
+      if (!isListeningRef.current) {
+        setListening(false)
+        return
+      }
+      // Chrome tự ngắt sau ~60s → chốt text hiện tại rồi tạo instance mới
+      baseTextRef.current = transcriptRef.current
+      recognitionRef.current = null
+      destroyRecognition(r)
+      if (restartTimerRef.current) window.clearTimeout(restartTimerRef.current)
+      restartTimerRef.current = window.setTimeout(() => {
+        restartTimerRef.current = null
+        if (isListeningRef.current) recCreateAndStart()
+      }, 150)
     }
-    recognitionRef.current = r; r.start()
+
+    recognitionRef.current = r
+    try {
+      r.start()
+    } catch {
+      // start() gọi khi đang chạy → bỏ qua
+    }
   }
 
-  function recStart(keepText = false) {
-    setRecorderError("")
-    const win = window as Window & { SpeechRecognition?: SpeechRecognitionConstructor; webkitSpeechRecognition?: SpeechRecognitionConstructor }
-    if (!win.SpeechRecognition && !win.webkitSpeechRecognition) { setRecorderError("Dùng Chrome/Edge."); return }
-    window.speechSynthesis?.cancel()
-    isListeningRef.current = false; recognitionRef.current?.abort(); recognitionRef.current = null
-    if (!keepText) { accumulatedRef.current = ""; setTranscript(""); setElapsed(0) }
-    setInterim(""); isListeningRef.current = true; setListening(true); recCreateAndStart()
-  }
-
+  /** Dừng hẳn, tháo sạch instance + timer. */
   function recStop() {
-    isListeningRef.current = false; recognitionRef.current?.stop(); recognitionRef.current = null
-    setInterim(""); setListening(false)
+    isListeningRef.current = false
+    if (restartTimerRef.current) {
+      window.clearTimeout(restartTimerRef.current)
+      restartTimerRef.current = null
+    }
+    const r = recognitionRef.current
+    recognitionRef.current = null
+    destroyRecognition(r)
+    setInterim("")
+    setListening(false)
   }
 
-  function recReset() {
-    recStop(); accumulatedRef.current = ""; setTranscript(""); setInterim(""); setElapsed(0); setRecorderError("")
-  }
-
-  function activateRecorder(q: SpeakingQuestion) {
-    if (activeRecorderQ?.q !== q.q) { recReset() }
+  /** Bắt đầu ghi âm mới cho 1 câu (xoá hết text cũ). */
+  function recStartFor(q: SpeakingQuestion) {
+    const win = window as Window & { SpeechRecognition?: SpeechRecognitionConstructor; webkitSpeechRecognition?: SpeechRecognitionConstructor }
+    if (!win.SpeechRecognition && !win.webkitSpeechRecognition) {
+      setRecorderError("Trình duyệt chưa hỗ trợ. Hãy dùng Chrome hoặc Edge.")
+      return
+    }
+    recStop() // tháo sạch instance cũ, không còn race
+    window.speechSynthesis?.cancel()
+    baseTextRef.current = ""
+    transcriptRef.current = ""
+    setTranscript("")
+    setInterim("")
+    setElapsed(0)
+    setRecorderError("")
     setActiveRecorderQ(q)
-    setRecorderOpen(true)
-    setRecorderMinimized(false)
+    isListeningRef.current = true
+    setListening(true)
+    recCreateAndStart()
+  }
+
+  /** Xoá text, vẫn tiếp tục nghe. */
+  function recClear() {
+    baseTextRef.current = ""
+    transcriptRef.current = ""
+    setTranscript("")
+    setInterim("")
+    setElapsed(0)
+    setRecorderError("")
+    if (isListeningRef.current) {
+      const r = recognitionRef.current
+      recognitionRef.current = null
+      destroyRecognition(r)
+      recCreateAndStart()
+    }
+  }
+
+  /** Click câu hỏi: nếu panel ghi âm đang mở → ghi âm luôn cho câu đó. */
+  function activateRecorder(q: SpeakingQuestion) {
+    if (!recorderOpen) return
+    recStartFor(q)
   }
 
   useEffect(() => {
@@ -338,97 +453,79 @@ export function SpeakingDrill({ questions }: Props) {
 
       {/* ── Recorder panel fixed ── */}
       {recorderOpen && (
-        <div className="fixed bottom-24 right-6 z-40 flex w-80 flex-col rounded-2xl border border-border bg-card shadow-2xl">
+        <div className="fixed bottom-44 right-6 z-40 flex w-80 flex-col rounded-2xl border border-border bg-card shadow-2xl">
           {/* header */}
           <div className="flex items-center gap-2 border-b border-border px-3 py-2">
-            <Mic className="h-4 w-4 shrink-0 text-primary" />
+            {listening ? (
+              <span className="relative flex h-2 w-2 shrink-0">
+                <span className="absolute h-full w-full animate-ping rounded-full bg-destructive/60" />
+                <span className="h-2 w-2 rounded-full bg-destructive" />
+              </span>
+            ) : (
+              <Mic className="h-4 w-4 shrink-0 text-primary" />
+            )}
             <span className="min-w-0 flex-1 truncate text-xs font-semibold text-foreground">
-              {activeRecorderQ ? activeRecorderQ.q : "Chọn một câu để ghi âm"}
+              {activeRecorderQ ? activeRecorderQ.q : "Click vào câu hỏi để ghi âm"}
             </span>
-            <button type="button" onClick={() => setRecorderMinimized((v) => !v)} className="flex h-6 w-6 items-center justify-center rounded-full hover:bg-muted">
-              {recorderMinimized ? <ChevronUp className="h-3.5 w-3.5" /> : <ChevronDown className="h-3.5 w-3.5" />}
+            {listening && <span className="shrink-0 text-[11px] font-semibold text-destructive">{formatTime(elapsed)}</span>}
+            {!listening && elapsed > 0 && <span className="shrink-0 text-[11px] text-muted-foreground">{formatTime(elapsed)}{wpm > 0 ? ` · ${wpm}w/p` : ""}</span>}
+            <button type="button" onClick={recClear} title="Xoá text" className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-muted-foreground hover:bg-muted hover:text-primary">
+              <RotateCcw className="h-3.5 w-3.5" />
             </button>
-            <button type="button" onClick={() => { recStop(); setRecorderOpen(false) }} className="flex h-6 w-6 items-center justify-center rounded-full hover:bg-muted">
+            <button type="button" onClick={() => { recStop(); setRecorderOpen(false) }} title="Đóng" className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-muted-foreground hover:bg-muted">
               <X className="h-3.5 w-3.5" />
             </button>
           </div>
 
-          {!recorderMinimized && (
-            <div className="space-y-2 p-3">
-              {/* controls */}
-              <div className="flex flex-wrap items-center gap-2">
-                {listening ? (
-                  <button type="button" onClick={recStop} className="inline-flex items-center gap-1.5 rounded-md bg-destructive px-2.5 py-1.5 text-xs font-semibold text-destructive-foreground">
-                    <Square className="h-3 w-3" /> Dừng
-                  </button>
-                ) : (
-                  <button type="button" onClick={() => recStart(false)} disabled={!activeRecorderQ} className="inline-flex items-center gap-1.5 rounded-md bg-primary px-2.5 py-1.5 text-xs font-semibold text-primary-foreground disabled:opacity-50">
-                    <Mic className="h-3 w-3" /> {transcript ? "Nói lại" : "Bắt đầu nói"}
-                  </button>
-                )}
-                {!listening && transcript && (
-                  <button type="button" onClick={() => recStart(true)} className="inline-flex items-center gap-1.5 rounded-md border border-border bg-background px-2.5 py-1.5 text-xs font-semibold text-foreground hover:border-primary/40">
-                    <MicOff className="h-3 w-3" /> Nói tiếp
-                  </button>
-                )}
-                <button type="button" onClick={recReset} className="inline-flex items-center gap-1 text-xs text-muted-foreground underline-offset-2 hover:text-primary hover:underline">
-                  <RotateCcw className="h-3 w-3" /> Xoá
-                </button>
-                {listening && (
-                  <span className="ml-auto inline-flex items-center gap-1 rounded-full bg-destructive/10 px-2 py-0.5 text-[11px] font-semibold text-destructive">
-                    <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-destructive" />
-                    {formatTime(elapsed)}
-                  </span>
-                )}
-                {!listening && elapsed > 0 && (
-                  <span className="ml-auto text-[11px] text-muted-foreground">{formatTime(elapsed)}{wpm > 0 ? ` · ${wpm} từ/ph` : ""}</span>
-                )}
-              </div>
-
-              {/* transcript */}
-              <div className="min-h-12 whitespace-pre-wrap rounded-lg bg-muted/30 px-2.5 py-2 text-xs leading-relaxed">
-                {transcript || interim ? (
-                  <><span>{transcript}</span>{interim && <span className="italic text-muted-foreground">{transcript ? " " : ""}{interim}</span>}</>
-                ) : (
-                  <span className="text-muted-foreground">Bấm "Bắt đầu nói" rồi đọc bài mẫu…</span>
-                )}
-              </div>
-
-              {/* diff */}
-              {recDiff && recDiff.total > 0 && (
-                <div className="rounded-lg border border-border bg-background/70 p-2">
-                  <div className="mb-1.5 flex flex-wrap items-center gap-2">
-                    <span className={"rounded-full px-2 py-0.5 text-[11px] font-bold " + (recDiff.accuracy >= 85 ? "bg-emerald-100 text-emerald-700 dark:bg-emerald-500/15 dark:text-emerald-300" : recDiff.accuracy >= 60 ? "bg-amber-100 text-amber-700 dark:bg-amber-500/15 dark:text-amber-300" : "bg-red-100 text-red-700 dark:bg-red-500/15 dark:text-red-300")}>
-                      {recDiff.accuracy}%
-                    </span>
-                    <span className="text-[11px] text-muted-foreground">
-                      {recDiff.matched}/{recDiff.total}{recDiff.missing > 0 ? ` · thiếu ${recDiff.missing}` : ""}{recDiff.extra > 0 ? ` · thêm ${recDiff.extra}` : ""}
-                    </span>
-                  </div>
-                  <p className="flex flex-wrap gap-x-1 gap-y-0.5 text-xs leading-relaxed">
-                    {recDiff.tokens.map((t, i) => (
-                      <span key={`${t.text}-${i}`} className={t.state === "match" ? "font-medium text-emerald-700 dark:text-emerald-300" : t.state === "missing" ? "font-semibold text-red-600 underline decoration-red-400 underline-offset-2 dark:text-red-400" : "text-amber-700 line-through decoration-amber-500 dark:text-amber-300"}>
-                        {t.text}
-                      </span>
-                    ))}
-                  </p>
-                  <div className="mt-1.5 flex gap-3 border-t border-border pt-1.5 text-[10px] text-muted-foreground">
-                    <span className="text-emerald-700 dark:text-emerald-300">■ đúng</span>
-                    <span className="text-red-600 dark:text-red-400">■ thiếu</span>
-                    <span className="text-amber-700 dark:text-amber-300">■ thêm</span>
-                  </div>
-                </div>
+          <div className="space-y-2 p-3">
+            {/* transcript */}
+            <div className="min-h-12 whitespace-pre-wrap rounded-lg bg-muted/30 px-2.5 py-2 text-xs leading-relaxed">
+              {transcript || interim ? (
+                <><span>{transcript}</span>{interim && <span className="italic text-muted-foreground">{transcript ? " " : ""}{interim}</span>}</>
+              ) : (
+                <span className="text-muted-foreground">
+                  {listening ? "Đang nghe… đọc bài mẫu đi." : "Click vào câu hỏi bên trái để bắt đầu ghi âm."}
+                </span>
               )}
-              {recorderError && <div className="text-[11px] font-medium text-destructive">{recorderError}</div>}
             </div>
-          )}
+
+            {/* diff */}
+            {recDiff && recDiff.total > 0 && (
+              <div className="rounded-lg border border-border bg-background/70 p-2">
+                <div className="mb-1.5 flex flex-wrap items-center gap-2">
+                  <span className={"rounded-full px-2 py-0.5 text-[11px] font-bold " + (recDiff.accuracy >= 85 ? "bg-emerald-100 text-emerald-700 dark:bg-emerald-500/15 dark:text-emerald-300" : recDiff.accuracy >= 60 ? "bg-amber-100 text-amber-700 dark:bg-amber-500/15 dark:text-amber-300" : "bg-red-100 text-red-700 dark:bg-red-500/15 dark:text-red-300")}>
+                    {recDiff.accuracy}%
+                  </span>
+                  <span className="text-[11px] text-muted-foreground">
+                    {recDiff.matched}/{recDiff.total}{recDiff.missing > 0 ? ` · thiếu ${recDiff.missing}` : ""}{recDiff.extra > 0 ? ` · thêm ${recDiff.extra}` : ""}
+                  </span>
+                </div>
+                <p className="flex flex-wrap gap-x-1 gap-y-0.5 text-xs leading-relaxed">
+                  {recDiff.tokens.map((t, i) => (
+                    <span key={`${t.text}-${i}`} className={t.state === "match" ? "font-medium text-emerald-700 dark:text-emerald-300" : t.state === "missing" ? "font-semibold text-red-600 underline decoration-red-400 underline-offset-2 dark:text-red-400" : "text-amber-700 line-through decoration-amber-500 dark:text-amber-300"}>
+                      {t.text}
+                    </span>
+                  ))}
+                </p>
+                <div className="mt-1.5 flex gap-3 border-t border-border pt-1.5 text-[10px] text-muted-foreground">
+                  <span className="text-emerald-700 dark:text-emerald-300">■ đúng</span>
+                  <span className="text-red-600 dark:text-red-400">■ thiếu</span>
+                  <span className="text-amber-700 dark:text-amber-300">■ thêm</span>
+                </div>
+              </div>
+            )}
+            {recorderError && <div className="text-[11px] font-medium text-destructive">{recorderError}</div>}
+          </div>
         </div>
       )}
 
       {/* FAB mic */}
       <button
         type="button"
-        onClick={() => { setRecorderOpen((v) => !v); setRecorderMinimized(false) }}
+        onClick={() => {
+          if (recorderOpen) { recStop(); setRecorderOpen(false) }
+          else setRecorderOpen(true)
+        }}
         title={recorderOpen ? "Đóng ghi âm" : "Mở ghi âm"}
         className={
           "fixed bottom-24 right-6 z-40 flex h-14 w-14 items-center justify-center rounded-full shadow-lg transition-all hover:scale-105 active:scale-95 " +
