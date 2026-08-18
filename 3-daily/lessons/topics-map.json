@@ -476,7 +476,7 @@
         ]
       },
       {
-        "q": "Is there anything you dislike about your hometown? / What do you dislike about your hometown?",
+        "q": "What do you dislike about your hometown?",
         "answerFrames": [
           "What I don't like about my hometown is (that)…",
           "The trouble is…",
@@ -850,7 +850,6 @@
       },
       {
         "q": "How often do you phone your friend?",
-        "audioFile": "28 - How often do you phone your friend.wav",
         "answerFrames": [
           "I call my friend once / twice a week.",
           "I often chat with my friends online.",
