@@ -6,3 +6,6 @@ dist/*
 !dist/daily/
 !dist/daily/*.js
 .cache/
+
+# Private speaking answers — không commit lên GitHub
+my-speaking-answers.json
