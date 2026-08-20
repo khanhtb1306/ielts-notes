@@ -343,7 +343,16 @@ export function SpeakingDrill({ questions }: Props) {
   useEffect(() => {
     try {
       const raw = window.localStorage.getItem(SAMPLE_OVERRIDE_KEY)
-      if (raw) setSampleOverrides(JSON.parse(raw))
+      if (raw) {
+        setSampleOverrides(JSON.parse(raw))
+      } else {
+        // Seed câu mẫu đầu tiên để người dùng biết cách dùng chức năng sửa
+        const seed: Record<string, string> = {
+          "What's your name?": "My name is Khanh, my full name is Trinh Bao Khanh.",
+        }
+        setSampleOverrides(seed)
+        window.localStorage.setItem(SAMPLE_OVERRIDE_KEY, JSON.stringify(seed, null, 2))
+      }
     } catch {
       setSampleOverrides({})
     }

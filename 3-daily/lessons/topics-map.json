@@ -401,11 +401,7 @@
           "My name is…",
           "my full name is…"
         ],
-        "tip": "Tên thường dùng, rồi nói full name.",
-        "sampleAnswer": "My name is Khanh, my full name is Trinh Bao Khanh.",
-        "sampleAnswerIpa": [
-          "/maɪ ˈneɪm ɪz Khanh, maɪ fʊl ˈneɪm ɪz Trinh Bao Khanh/"
-        ]
+        "tip": "Tên thường dùng, rồi nói full name."
       },
       {
         "q": "How do you spell your name?",
@@ -414,11 +410,7 @@
           "K-H-A-N-H.",
           "Sure, it is spelt K-H-A-N-H."
         ],
-        "tip": "Đọc rõ từng chữ cái, chậm và tách nhau.",
-        "sampleAnswer": "K-H-A-N-H.",
-        "sampleAnswerIpa": [
-          "/keɪ - eɪtʃ - eɪ - en - eɪtʃ/"
-        ]
+        "tip": "Đọc rõ từng chữ cái, chậm và tách nhau."
       },
       {
         "q": "How old are you?",
@@ -427,11 +419,7 @@
           "I am … years old.",
           "and I was born in…"
         ],
-        "tip": "Tuổi + and + năm sinh (sự thật nên dùng and, không cần because).",
-        "sampleAnswer": "I am twenty-five years old, and I was born in 2001.",
-        "sampleAnswerIpa": [
-          "/aɪ əm ˈtwenti faɪv jɪəz əʊld, ənd aɪ wəz bɔːn ɪn tuː ˈθaʊzənd ənd wʌn/"
-        ]
+        "tip": "Tuổi + and + năm sinh (sự thật nên dùng and, không cần because)."
       },
       {
         "q": "When is your birthday?",
@@ -440,11 +428,7 @@
           "My birthday is on…",
           "on the … of …"
         ],
-        "tip": "on + the + ngày thứ tự + of + tháng.",
-        "sampleAnswer": "My birthday is on the thirteenth of June, two thousand and one.",
-        "sampleAnswerIpa": [
-          "/maɪ ˈbɜːθdeɪ ɪz ɒn ðə ˌθɜːˈtiːnθ əv dʒuːn, tuː ˈθaʊzənd ənd wʌn/"
-        ]
+        "tip": "on + the + ngày thứ tự + of + tháng."
       }
     ],
     "hometown": [
@@ -455,11 +439,7 @@
           "I was born and raised in…",
           "It's in Central Vietnam."
         ],
-        "tip": "Nơi + and + vùng miền (sự thật nên dùng and).",
-        "sampleAnswer": "I come from Thanh Hoa, it is in the north-central part of Vietnam.",
-        "sampleAnswerIpa": [
-          "/aɪ kʌm frəm Thanh Hoa, ənd ɪt ɪz ɪn ðə ˌnɔːθ ˈsentrəl pɑːt əv ˌvjetˈnæm/"
-        ]
+        "tip": "Nơi + and + vùng miền (sự thật nên dùng and)."
       },
       {
         "q": "What do you like about your hometown?",
@@ -468,12 +448,7 @@
           "The good thing is…",
           "The people are very friendly, and the food is very delicious."
         ],
-        "tip": "Frame + 2 điều thích → câu 2 giải thích từng điều.",
-        "sampleAnswer": "What I like about my hometown is the people and the food. The people are very friendly, and the food is very delicious.",
-        "sampleAnswerIpa": [
-          "/wɒt aɪ laɪk əˈbaʊt maɪ ˈhəʊmtaʊn ɪz ðə ˈpiːpl ənd ðə fuːd/",
-          "/ðə ˈpiːpl ə ˈveri ˈfrendli, ənd ðə fuːd ɪz ˈveri dɪˈlɪʃəs/"
-        ]
+        "tip": "Frame + 2 điều thích → câu 2 giải thích từng điều."
       },
       {
         "q": "What do you dislike about your hometown?",
@@ -482,11 +457,7 @@
           "The trouble is…",
           "The weather isn't very great."
         ],
-        "tip": "Frame + 1 điều không thích + because.",
-        "sampleAnswer": "What I don't like about my hometown is the weather, because it is very hot in the summer.",
-        "sampleAnswerIpa": [
-          "/wɒt aɪ dəʊnt ˈlaɪk əˈbaʊt maɪ ˈhəʊmtaʊn ɪz ðə ˈweðə, bɪˈkəz ɪt ɪz ˈveri hɒt ɪn ðə ˈsʌmə/"
-        ]
+        "tip": "Frame + 1 điều không thích + because."
       },
       {
         "q": "Are there any lakes or rivers in your hometown?",
@@ -495,12 +466,7 @@
           "It is very long and beautiful.",
           "The water is crystal clear."
         ],
-        "tip": "Yes + There is + tên sông + câu 2 tả bằng tính từ.",
-        "sampleAnswer": "Yes, there is the Ma River in my hometown. It is very long and beautiful.",
-        "sampleAnswerIpa": [
-          "/jes, ðər ɪz ðə Ma ˈrɪvər ɪn maɪ ˈhəʊmtaʊn/",
-          "/ɪt ɪz ˈveri lɒŋ ənd ˈbjuːtɪfl/"
-        ]
+        "tip": "Yes + There is + tên sông + câu 2 tả bằng tính từ."
       },
       {
         "q": "Are there any woods or forests in your hometown?",
@@ -509,12 +475,7 @@
           "It is big / huge / vast and beautiful.",
           "It has many kinds of plants, and the air there is cool and fresh."
         ],
-        "tip": "Yes + There is + tên rừng / công viên + câu 2 tả bằng tính từ.",
-        "sampleAnswer": "Yes, there is Cuc Phuong National Park in my hometown. It is big and beautiful.",
-        "sampleAnswerIpa": [
-          "/jes, ðər ɪz Cuc Phuong ˈnæʃnəl pɑːk nɪə maɪ ˈhəʊmtaʊn/",
-          "/ɪt ɪz bɪɡ ənd ˈbjuːtɪfl/"
-        ]
+        "tip": "Yes + There is + tên rừng / công viên + câu 2 tả bằng tính từ."
       },
       {
         "q": "Are there any hills or mountains in your hometown?",
@@ -523,12 +484,7 @@
           "It is high / enormous / rocky and beautiful.",
           "People go hiking / go climbing there."
         ],
-        "tip": "Yes + There is + tên núi + câu 2 tả bằng tính từ.",
-        "sampleAnswer": "Yes, there is Ham Rong Mountain in my hometown. It is high and beautiful.",
-        "sampleAnswerIpa": [
-          "/jes, ðər ɪz Ham Rong ˈmaʊntɪn ɪn maɪ ˈhəʊmtaʊn/",
-          "/ɪt ɪz haɪ ənd ˈbjuːtɪfl/"
-        ]
+        "tip": "Yes + There is + tên núi + câu 2 tả bằng tính từ."
       }
     ],
     "job": [
@@ -539,11 +495,7 @@
           "I'm working. I'm a/an… at…",
           "I'm a student at…"
         ],
-        "tip": "Chọn working / studying + and + nghề (sự thật, không cần because).",
-        "sampleAnswer": "I am working, and I am a software developer at FPT IS.",
-        "sampleAnswerIpa": [
-          "/aɪ əm ˈwɜːkɪŋ, ənd aɪ əm ə ˈsɒftweə dɪˈveləpər ət FPT IS/"
-        ]
+        "tip": "Chọn working / studying + and + nghề (sự thật, không cần because)."
       },
       {
         "q": "What do you do?",
@@ -553,11 +505,7 @@
           "I'm working as a/an… at…",
           "I develop web applications for businesses."
         ],
-        "tip": "Nghề + at + nơi làm + and + việc chính.",
-        "sampleAnswer": "I am a software developer at FPT IS, and I develop web applications for businesses.",
-        "sampleAnswerIpa": [
-          "/aɪ əm ə ˈsɒftweə dɪˈveləpər ət FPT IS, ənd aɪ dɪˈveləp web ˌæplɪˈkeɪʃnz fə ˈbɪznəsɪz/"
-        ]
+        "tip": "Nghề + at + nơi làm + and + việc chính."
       },
       {
         "q": "What is your dream job? Why?",
@@ -567,11 +515,7 @@
           "It's a good job for me because…",
           "It's a well-paid job."
         ],
-        "tip": "Dream job + at + nơi làm + because + 1 lý do.",
-        "sampleAnswer": "My dream is to become a senior developer at an international company, because I want to earn more money.",
-        "sampleAnswerIpa": [
-          "/maɪ driːm ɪz tə bɪˈkʌm ə ˈsiːniə dɪˈveləpər ət ən ˌɪntəˈnæʃnəl ˈkʌmpəni, bɪˈkəz aɪ wɒnt tʊ ɜːn mɔː ˈmʌni/"
-        ]
+        "tip": "Dream job + at + nơi làm + because + 1 lý do."
       }
     ],
     "hobbies": [
@@ -583,11 +527,7 @@
           "I'm really into / keen on…",
           "It helps me stay healthy and reduce stress."
         ],
-        "tip": "Hoạt động + because + lợi ích.",
-        "sampleAnswer": "I often hit the gym in my free time, because it helps me stay healthy and reduce stress.",
-        "sampleAnswerIpa": [
-          "/aɪ ˈɒfn hɪt ðə dʒɪm ɪn maɪ friː ˈtaɪm, bɪˈkəz ɪt helps mi steɪ ˈhelθi ənd rɪˈdjuːs stres/"
-        ]
+        "tip": "Hoạt động + because + lợi ích."
       },
       {
         "q": "What do you often do on the weekend?",
@@ -597,11 +537,7 @@
           "It helps me stay healthy and relax.",
           "I often go out for drinks with my friends."
         ],
-        "tip": "At the weekend + hoạt động + because + lợi ích.",
-        "sampleAnswer": "At the weekend, I often play badminton, because it helps me stay healthy and relax.",
-        "sampleAnswerIpa": [
-          "/ət ðə ˌwiːkˈend, aɪ ˈɒfn pleɪ ˈbædmɪntən, bɪˈkəz ɪt helps mi steɪ ˈhelθi ənd rɪˈlæks/"
-        ]
+        "tip": "At the weekend + hoạt động + because + lợi ích."
       },
       {
         "q": "Do you like sports? How often?",
@@ -611,11 +547,7 @@
           "It helps me stay healthy and relax.",
           "It helps me keep in shape."
         ],
-        "tip": "Yes + môn + tần suất + because + lợi ích.",
-        "sampleAnswer": "Yes, I play badminton with my friends about once a week, because it helps me stay healthy and relax.",
-        "sampleAnswerIpa": [
-          "/jes, aɪ pleɪ ˈbædmɪntən wɪð maɪ frendz əˈbaʊt wʌns ə wiːk, bɪˈkəz ɪt helps mi steɪ ˈhelθi ənd rɪˈlæks/"
-        ]
+        "tip": "Yes + môn + tần suất + because + lợi ích."
       },
       {
         "q": "Do you like watching movies?",
@@ -625,12 +557,7 @@
           "We play sports and eat together.",
           "I often spend my free time hanging out with my friends."
         ],
-        "tip": "No, I don't + because + việc thích hơn → câu 2 nói rõ làm gì.",
-        "sampleAnswer": "No, I don't, because I like hanging out with my friends. We play sports and eat together.",
-        "sampleAnswerIpa": [
-          "/nəʊ, aɪ dəʊnt, bɪˈkəz aɪ laɪk ˈhæŋɪŋ aʊt wɪð maɪ frendz/",
-          "/wi pleɪ spɔːts ənd iːt təˈɡeðə/"
-        ]
+        "tip": "No, I don't + because + việc thích hơn → câu 2 nói rõ làm gì."
       },
       {
         "q": "What kinds of movies do you like?",
@@ -639,11 +566,7 @@
           "I don't really watch films.",
           "I like comedy / action / romantic films because…"
         ],
-        "tip": "Đây là câu Wh-, KHÔNG trả lời \"No, I don't\". Nói \"I don't really watch films\" + because.",
-        "sampleAnswer": "I don't really watch films, because I like hanging out with my friends.",
-        "sampleAnswerIpa": [
-          "/aɪ dəʊnt ˈrɪəli wɒtʃ fɪlmz, bɪˈkəz aɪ laɪk ˈhæŋɪŋ aʊt wɪð maɪ frendz/"
-        ]
+        "tip": "Đây là câu Wh-, KHÔNG trả lời \"No, I don't\". Nói \"I don't really watch films\" + because."
       },
       {
         "q": "What is your favorite movie?",
@@ -652,11 +575,7 @@
           "I don't have a favourite film.",
           "My favourite film is…"
         ],
-        "tip": "Đây là câu Wh-, KHÔNG trả lời \"No, I don't\". Nói \"I don't have a favourite film\" + because.",
-        "sampleAnswer": "I don't have a favourite film, because I prefer hanging out with my friends.",
-        "sampleAnswerIpa": [
-          "/aɪ dəʊnt həv ə ˈfeɪvərɪt fɪlm, bɪˈkəz aɪ prɪˈfɜː ˈhæŋɪŋ aʊt wɪð maɪ frendz/"
-        ]
+        "tip": "Đây là câu Wh-, KHÔNG trả lời \"No, I don't\". Nói \"I don't have a favourite film\" + because."
       },
       {
         "q": "Do you like reading books?",
@@ -666,12 +585,7 @@
           "I'm really into / interested in reading books about…",
           "They help me improve my knowledge and skills."
         ],
-        "tip": "Yes + chủ đề sách → câu 2 nói lợi ích.",
-        "sampleAnswer": "Yes, I like reading books about technology and software development. They help me improve my knowledge and skills.",
-        "sampleAnswerIpa": [
-          "/jes, aɪ laɪk ˈriːdɪŋ bʊks əˈbaʊt tekˈnɒlədʒi ənd ˈsɒftweə dɪˈveləpmənt/",
-          "/ðeɪ help mi ɪmˈpruːv maɪ ˈnɒlɪdʒ ənd skɪlz/"
-        ]
+        "tip": "Yes + chủ đề sách → câu 2 nói lợi ích."
       },
       {
         "q": "Do you like listening to music?",
@@ -681,11 +595,7 @@
           "I usually listen to music when I work or hit the gym.",
           "It helps me relax."
         ],
-        "tip": "Loại nhạc + khi nào nghe + because + lợi ích.",
-        "sampleAnswer": "I often listen to Vietnamese music and remix music when I work or hit the gym, because it helps me relax.",
-        "sampleAnswerIpa": [
-          "/aɪ ˈɒfn ˈlɪsn tə ˌvjetnəˈmiːz ˈmjuːzɪk ənd ˈriːmɪks ˈmjuːzɪk wen aɪ wɜːk ɔː hɪt ðə dʒɪm, bɪˈkəz ɪt helps mi rɪˈlæks/"
-        ]
+        "tip": "Loại nhạc + khi nào nghe + because + lợi ích."
       },
       {
         "q": "Do you like playing games?",
@@ -695,12 +605,7 @@
           "My favourite computer game is League of Legends.",
           "We are all working now, so we don't play games very often."
         ],
-        "tip": "Yes, but not very often → tên game → so + lý do ít chơi.",
-        "sampleAnswer": "Yes, but not very often, because I am busy. My favourite game is League of Legends.",
-        "sampleAnswerIpa": [
-          "/jes, bət nɒt ˈveri ˈɒfn, bɪˈkəz aɪ əm ˈbɪzi/",
-          "/maɪ ˈfeɪvərɪt ɡeɪm ɪz liːɡ əv ˈledʒəndz/"
-        ]
+        "tip": "Yes, but not very often → tên game → so + lý do ít chơi."
       }
     ],
     "daily-routine": [
@@ -715,11 +620,7 @@
           "giờ lẻ khác   → eight ten am / six forty-five pm",
           "sáng/chiều    → am / pm  hoặc  in the morning / in the afternoon / at night"
         ],
-        "tip": "seven thirty am — dùng số thẳng + am/pm. Hoặc: half past seven.",
-        "sampleAnswer": "It is seven thirty am. (7:30)",
-        "sampleAnswerIpa": [
-          "/ɪt ɪz ˈsevn ˈθɜːti eɪ em/"
-        ]
+        "tip": "seven thirty am — dùng số thẳng + am/pm. Hoặc: half past seven."
       },
       {
         "q": "What time do you get up?",
@@ -732,11 +633,7 @@
           "giờ lẻ khác   → eight ten am / six forty-five pm",
           "sáng/chiều    → am / pm  hoặc  in the morning / in the afternoon / at night"
         ],
-        "tip": "seven o'clock — đúng giờ → dùng \"o'clock\". Hoặc chỉ nói \"at seven\".",
-        "sampleAnswer": "I usually get up at seven o'clock in the morning. (7:00)",
-        "sampleAnswerIpa": [
-          "/aɪ ˈjuːʒuəli ɡet ʌp ət ˈsevn əˈklɒk ɪn ðə ˈmɔːnɪŋ/"
-        ]
+        "tip": "seven o'clock — đúng giờ → dùng \"o'clock\". Hoặc chỉ nói \"at seven\"."
       },
       {
         "q": "What time do you go to work?",
@@ -748,11 +645,7 @@
           "giờ lẻ khác   → eight ten am / six forty-five pm",
           "sáng/chiều    → am / pm  hoặc  in the morning / in the afternoon / at night"
         ],
-        "tip": "eight o'clock — đúng giờ → dùng \"o'clock\". Có thể nói \"eight am\".",
-        "sampleAnswer": "I go to work at eight o'clock in the morning. (8:00)",
-        "sampleAnswerIpa": [
-          "/aɪ ɡəʊ tə wɜːk ət eɪt əˈklɒk ɪn ðə ˈmɔːnɪŋ/"
-        ]
+        "tip": "eight o'clock — đúng giờ → dùng \"o'clock\". Có thể nói \"eight am\"."
       },
       {
         "q": "What time do you have breakfast?",
@@ -765,11 +658,7 @@
           "giờ lẻ khác   → eight ten am / six forty-five pm",
           "sáng/chiều    → am / pm  hoặc  in the morning / in the afternoon / at night"
         ],
-        "tip": "seven thirty am = half past seven — 2 cách đọc đều đúng.",
-        "sampleAnswer": "I have breakfast at seven thirty am. (7:30)",
-        "sampleAnswerIpa": [
-          "/aɪ həv ˈbrekfəst ət ˈsevn ˈθɜːti eɪ em/"
-        ]
+        "tip": "seven thirty am = half past seven — 2 cách đọc đều đúng."
       },
       {
         "q": "What time do you have lunch?",
@@ -781,11 +670,7 @@
           "giờ lẻ khác   → eight ten am / six forty-five pm",
           "sáng/chiều    → am / pm  hoặc  in the morning / in the afternoon / at night"
         ],
-        "tip": "twelve thirty pm = half past twelve — 2 cách đọc đều đúng.",
-        "sampleAnswer": "I have lunch at twelve thirty pm. (12:30)",
-        "sampleAnswerIpa": [
-          "/aɪ həv lʌntʃ ət twelv ˈθɜːti piː em/"
-        ]
+        "tip": "twelve thirty pm = half past twelve — 2 cách đọc đều đúng."
       },
       {
         "q": "What time do you have dinner?",
@@ -797,11 +682,7 @@
           "giờ lẻ khác   → eight ten am / six forty-five pm",
           "sáng/chiều    → am / pm  hoặc  in the morning / in the afternoon / at night"
         ],
-        "tip": "seven pm — đúng giờ chiều/tối → dùng pm. Hoặc: \"at seven in the evening\".",
-        "sampleAnswer": "I have dinner at seven pm. (7:00)",
-        "sampleAnswerIpa": [
-          "/aɪ həv ˈdɪnər ət ˈsevn piː em/"
-        ]
+        "tip": "seven pm — đúng giờ chiều/tối → dùng pm. Hoặc: \"at seven in the evening\"."
       },
       {
         "q": "What time do you come home from work?",
@@ -813,11 +694,7 @@
           "giờ lẻ khác   → eight ten am / six forty-five pm",
           "sáng/chiều    → am / pm  hoặc  in the morning / in the afternoon / at night"
         ],
-        "tip": "six pm — đúng giờ chiều → dùng pm. Hoặc: \"at six in the evening\".",
-        "sampleAnswer": "I usually come home at six pm. (6:00)",
-        "sampleAnswerIpa": [
-          "/aɪ ˈjuːʒuəli kʌm həʊm ət sɪks piː em/"
-        ]
+        "tip": "six pm — đúng giờ chiều → dùng pm. Hoặc: \"at six in the evening\"."
       },
       {
         "q": "What time do you go to bed?",
@@ -830,11 +707,7 @@
           "giờ lẻ khác   → eight ten am / six forty-five pm",
           "sáng/chiều    → am / pm  hoặc  in the morning / in the afternoon / at night"
         ],
-        "tip": "eleven pm — tối muộn → dùng pm hoặc \"at night\". Không cần \"o'clock\".",
-        "sampleAnswer": "I go to bed at eleven pm. (11:00)",
-        "sampleAnswerIpa": [
-          "/aɪ ɡəʊ tə bed ət ɪˈlevn piː em/"
-        ]
+        "tip": "eleven pm — tối muộn → dùng pm hoặc \"at night\". Không cần \"o'clock\"."
       },
       {
         "q": "How do you go to work?",
@@ -842,11 +715,7 @@
           "I go to work by motorbike / bus / bike.",
           "I walk because it is near my house."
         ],
-        "tip": "by + phương tiện + because.",
-        "sampleAnswer": "I usually go to work by motorbike, sometime I walk.",
-        "sampleAnswerIpa": [
-          "/aɪ ˈjuːʒuəli ɡəʊ tə wɜːk baɪ ˈməʊtəbaɪk, bɪˈkəz ɪt ɪz ˈfɑːstə ðən ðə bʌs/"
-        ]
+        "tip": "by + phương tiện + because."
       },
       {
         "q": "How often do you phone your friend?",
@@ -855,11 +724,7 @@
           "I often chat with my friends online.",
           "We usually make plans to go out for drinks or play badminton."
         ],
-        "tip": "Tần suất + because + lý do gọi / chat.",
-        "sampleAnswer": "I often chat with my friends online, because we make plans to go out for drinks.",
-        "sampleAnswerIpa": [
-          "/aɪ ˈɒfn tʃæt wɪð maɪ frendz ˈɒnlaɪn, bɪˈkəz wi meɪk plænz tə ɡəʊ aʊt fə drɪŋks/"
-        ]
+        "tip": "Tần suất + because + lý do gọi / chat."
       },
       {
         "q": "How often do you clean the house?",
@@ -867,11 +732,7 @@
           "I clean the house every day / once a week.",
           "I always keep things tidy."
         ],
-        "tip": "Tần suất + because.",
-        "sampleAnswer": "I clean the house almost every day, because I like a clean and tidy home.",
-        "sampleAnswerIpa": [
-          "/aɪ kliːn ðə haʊs ˈɔːlməʊst ˈevri deɪ, bɪˈkəz aɪ laɪk ə kliːn ənd ˈtaɪdi həʊm/"
-        ]
+        "tip": "Tần suất + because."
       },
       {
         "q": "How often do you read the newspaper?",
@@ -879,11 +740,7 @@
           "I never read newspapers.",
           "I rarely read newspapers."
         ],
-        "tip": "never / rarely + because.",
-        "sampleAnswer": "I never read newspapers, because I usually get the news on my phone.",
-        "sampleAnswerIpa": [
-          "/aɪ ˈnevə riːd ˈnjuːzpeɪpəz, bɪˈkəz aɪ ˈjuːʒuəli ɡet ðə njuːz ɒn maɪ fəʊn/"
-        ]
+        "tip": "never / rarely + because."
       },
       {
         "q": "How often do you have friends round? (When you have friends round, what do you like to do?)",
@@ -892,11 +749,7 @@
           "When I have friends round, we usually…",
           "We usually play games, drink beer and talk together."
         ],
-        "tip": "When I have friends round + hoạt động + because.",
-        "sampleAnswer": "When I have friends round, we usually play games and drink together or talk together.",
-        "sampleAnswerIpa": [
-          "/wen aɪ həv frendz ˈraʊnd, wi ˈjuːʒuəli pleɪ ɡeɪmz ənd drɪŋk bɪə, bɪˈkəz ɪt ɪz rɪˈlæksɪŋ/"
-        ]
+        "tip": "When I have friends round + hoạt động + because."
       }
     ],
     "family": [
@@ -907,11 +760,7 @@
           "No, I live in a small family with my parents and my younger sister.",
           "Yes, I come from quite a big family."
         ],
-        "tip": "Big / small + with + các thành viên.",
-        "sampleAnswer": "No, I live in a small family. There are four people in my family: my father, my mother, my younger sister and me.",
-        "sampleAnswerIpa": [
-          "/nəʊ, aɪ lɪv ɪn ə smɔːl ˈfæməli wɪð maɪ ˈpeərənts, maɪ ˈjʌŋɡə ˈsɪstər ənd miː/"
-        ]
+        "tip": "Big / small + with + các thành viên."
       },
       {
         "q": "What does your father do?",
@@ -920,11 +769,7 @@
           "He works as a/an…",
           "He runs a…"
         ],
-        "tip": "Nghề + and + chi tiết (sự thật nên dùng and).",
-        "sampleAnswer": "My father is a tailor, and he runs a tailor shop with my mother.",
-        "sampleAnswerIpa": [
-          "/maɪ ˈfɑːðər ɪz ə ˈteɪlə, ənd hi rʌnz ə ˈteɪlə ʃɒp wɪð maɪ ˈmʌðə/"
-        ]
+        "tip": "Nghề + and + chi tiết (sự thật nên dùng and)."
       },
       {
         "q": "What does your mother do?",
@@ -933,11 +778,7 @@
           "She works as a/an…",
           "She works with my father at…"
         ],
-        "tip": "Nghề + and + làm cùng ai.",
-        "sampleAnswer": "My mother is a tailor, and she runs a tailor shop with my father.",
-        "sampleAnswerIpa": [
-          "/maɪ ˈmʌðər ɪz ə ˈteɪlə tuː, ənd ʃi wɜːks wɪð maɪ ˈfɑːðər ət ðeə ʃɒp/"
-        ]
+        "tip": "Nghề + and + làm cùng ai."
       },
       {
         "q": "What does your father like?",
@@ -946,11 +787,7 @@
           "He likes…",
           "It helps him relax."
         ],
-        "tip": "He likes + V-ing + because.",
-        "sampleAnswer": "My father likes gardening in his free time, because it helps him relax.",
-        "sampleAnswerIpa": [
-          "/maɪ ˈfɑːðə laɪks ˈɡɑːdnɪŋ ɪn hɪz friː ˈtaɪm, bɪˈkəz ɪt helps hɪm rɪˈlæks/"
-        ]
+        "tip": "He likes + V-ing + because."
       },
       {
         "q": "What does your mother like?",
@@ -959,11 +796,7 @@
           "She likes…",
           "It helps her keep in shape."
         ],
-        "tip": "Nhớ thêm 's': she likes. Rồi + because.",
-        "sampleAnswer": "My mother likes walking for exercise, because it helps her stay healthy.",
-        "sampleAnswerIpa": [
-          "/maɪ ˈmʌðə laɪks ˈwɔːkɪŋ fər ˈeksəsaɪz, bɪˈkəz ɪt helps hə kiːp ɪn ʃeɪp/"
-        ]
+        "tip": "Nhớ thêm 's': she likes. Rồi + because."
       }
     ],
     "appearance": [
@@ -974,11 +807,7 @@
           "He is about 169 centimetres tall.",
           "He has got short black hair with some grey hair."
         ],
-        "tip": "Age + height + hair, nối bằng and.",
-        "sampleAnswer": "My father is about fifty years old, and he is about 169 centimetres tall. He has short black hair with some grey hair. He often wears shirts or office clothes.",
-        "sampleAnswerIpa": [
-          "/maɪ ˈfɑːðər ɪz əˈbaʊt ˈfɪfti, ənd hi ɪz əˈbaʊt wʌn ˈsɪksti naɪn ˈsentɪmiːtəz tɔːl wɪð ʃɔːt blæk heə/"
-        ]
+        "tip": "Age + height + hair, nối bằng and."
       },
       {
         "q": "What does your mother look like?",
@@ -987,11 +816,7 @@
           "She is about 162 centimetres tall.",
           "She is quite slim."
         ],
-        "tip": "Age + height + build. Nữ dùng pretty / good-looking, không dùng handsome.",
-        "sampleAnswer": "My mother is forty-six, and she is about 162 centimetres tall and quite slim. She has long brown hair. She often wears dresses and office clothes.",
-        "sampleAnswerIpa": [
-          "/maɪ ˈmʌðər ɪz ˈfɔːti sɪks, ənd ʃi ɪz əˈbaʊt wʌn ˈsɪksti tuː ˈsentɪmiːtəz tɔːl ənd kwaɪt slɪm/"
-        ]
+        "tip": "Age + height + build. Nữ dùng pretty / good-looking, không dùng handsome."
       },
       {
         "q": "What kind of hair does your father have?",
@@ -999,11 +824,7 @@
           "He has got short black hair.",
           "He has got short black hair with some grey hair."
         ],
-        "tip": "Độ dài + màu tóc, dùng \"has got\".",
-        "sampleAnswer": "He has short black hair, and some grey hair.",
-        "sampleAnswerIpa": [
-          "/hi həz ɡɒt ʃɔːt blæk heə, ənd ðər ɪz səm ɡreɪ heə naʊ/"
-        ]
+        "tip": "Độ dài + màu tóc, dùng \"has got\"."
       },
       {
         "q": "What kind of hair does your mother have?",
@@ -1012,11 +833,7 @@
           "long / short / shoulder-length",
           "straight / wavy / curly"
         ],
-        "tip": "Độ dài + màu + kiểu tóc.",
-        "sampleAnswer": "She has got long dark brown hair, and it is straight.",
-        "sampleAnswerIpa": [
-          "/ʃi həz ɡɒt lɒŋ dɑːk braʊn heə, ənd ɪt ɪz streɪt/"
-        ]
+        "tip": "Độ dài + màu + kiểu tóc."
       },
       {
         "q": "What kinds of clothes does your father often wear?",
@@ -1024,11 +841,7 @@
           "He often wears…",
           "shirts, T-shirts, a pair of jeans, casual clothes"
         ],
-        "tip": "He often wears + quần áo + because.",
-        "sampleAnswer": "He often wears shirts or office clothes, because he meets a lot of customers.",
-        "sampleAnswerIpa": [
-          "/hi ˈɒfn weəz ʃɜːts ɔːr ˈɒfɪs kləʊðz, bɪˈkəz hi miːts ə lɒt əv ˈkʌstəməz/"
-        ]
+        "tip": "He often wears + quần áo + because."
       },
       {
         "q": "What kinds of clothes does your mother often wear?",
@@ -1036,11 +849,7 @@
           "She often wears…",
           "a dress, office clothes, casual clothes"
         ],
-        "tip": "She often wears + quần áo + because.",
-        "sampleAnswer": "She often wears a dress or office clothes, because she works at the shop.",
-        "sampleAnswerIpa": [
-          "/ʃi ˈɒfn weəz ə dres ɔːr ˈɒfɪs kləʊðz, bɪˈkəz ʃi wɜːks ət ðə ʃɒp/"
-        ]
+        "tip": "She often wears + quần áo + because."
       },
       {
         "q": "What kinds of clothes are you wearing?",
@@ -1048,11 +857,7 @@
           "I am wearing…",
           "a shirt, a T-shirt, a pair of jeans, casual clothes"
         ],
-        "tip": "Câu này dùng Present Continuous: I am wearing… + because.",
-        "sampleAnswer": "I am wearing a white shirt and a pair of jeans, because they are comfortable.",
-        "sampleAnswerIpa": [
-          "/aɪ əm ˈweərɪŋ ə waɪt ʃɜːt ənd ə peər əv dʒiːnz, bɪˈkəz ðeɪ ɑː ˈkʌmftəbl/"
-        ]
+        "tip": "Câu này dùng Present Continuous: I am wearing… + because."
       }
     ],
     "personality": [
@@ -1063,11 +868,7 @@
           "He is kind and responsible.",
           "He is great to be with."
         ],
-        "tip": "Tính từ + because + 1 ví dụ ngắn.",
-        "sampleAnswer": "My father is kind and responsible, because he always takes care of our family.",
-        "sampleAnswerIpa": [
-          "/maɪ ˈfɑːðər ɪz kaɪnd ənd rɪˈspɒnsəbl, bɪˈkəz hi ˈɔːlweɪz teɪks keər əv aʊə ˈfæməli/"
-        ]
+        "tip": "Tính từ + because + 1 ví dụ ngắn."
       },
       {
         "q": "What is your mother like?",
@@ -1075,11 +876,7 @@
           "She is + adjective.",
           "She is patient and caring."
         ],
-        "tip": "Đừng lẫn với \"What does she look like?\" (ngoại hình).",
-        "sampleAnswer": "My mother is patient and caring, because she always looks after our family.",
-        "sampleAnswerIpa": [
-          "/maɪ ˈmʌðər ɪz ˈpeɪʃnt ənd ˈkeərɪŋ, bɪˈkəz ʃi ˈɔːlweɪz lʊks ˈɑːftər aʊə ˈfæməli/"
-        ]
+        "tip": "Đừng lẫn với \"What does she look like?\" (ngoại hình)."
       },
       {
         "q": "Is your father friendly, talkative, humorous or generous?",
@@ -1088,11 +885,7 @@
           "He is friendly and easy to talk to.",
           "He loves giving things and doesn't expect anything in return."
         ],
-        "tip": "Chọn 1–2 tính từ + because.",
-        "sampleAnswer": "Yes, he is really friendly and generous, because he loves giving things to people.",
-        "sampleAnswerIpa": [
-          "/jes, hi ɪz ˈrɪəli ˈfrendli ənd ˈdʒenərəs, bɪˈkəz hi lʌvz ˈɡɪvɪŋ θɪŋz tə ˈpiːpl/"
-        ]
+        "tip": "Chọn 1–2 tính từ + because."
       },
       {
         "q": "Is your mother friendly, talkative, humorous or generous?",
@@ -1100,11 +893,7 @@
           "She is really / very + adjective.",
           "She is friendly and easy to talk to."
         ],
-        "tip": "Không cần trả lời hết 4 tính từ, chọn 1–2 + because.",
-        "sampleAnswer": "Yes, she is very friendly and talkative, because she can talk with anyone.",
-        "sampleAnswerIpa": [
-          "/jes, ʃi ɪz ˈveri ˈfrendli ənd ˈtɔːkətɪv, bɪˈkəz ʃi kən tɔːk wɪð ˈeniwʌn/"
-        ]
+        "tip": "Không cần trả lời hết 4 tính từ, chọn 1–2 + because."
       }
     ],
     "house": [
@@ -1115,11 +904,7 @@
           "My favourite room is my bedroom because…",
           "My favourite room is the living room / kitchen."
         ],
-        "tip": "Phòng + because.",
-        "sampleAnswer": "My favourite room is my bedroom because it is quiet and comfortable. I can relax there after work.",
-        "sampleAnswerIpa": [
-          "/maɪ ˈfeɪvərɪt ruːm ɪz maɪ ˈbedruːm, bɪˈkəz ɪt ɪz ˈkwaɪət ənd aɪ kən rest ðeə/"
-        ]
+        "tip": "Phòng + because."
       },
       {
         "q": "Can you describe your bedroom?",
@@ -1128,11 +913,7 @@
           "The desk is between my bed and the wardrobe.",
           "The window is opposite the bed."
         ],
-        "tip": "Phòng thế nào + and + There is / vị trí 1 đồ vật.",
-        "sampleAnswer": "My bedroom is quite tidy. There is a bed in the middle of the room. The window is opposite the bed, and the wardrobe is in the corner of the room. I usually study and relax here.",
-        "sampleAnswerIpa": [
-          "/maɪ ˈbedruːm ɪz ˈsɪmpl, ənd ðə desk ɪz bɪˈtwiːn maɪ bed ənd ðə ˈwɔːdrəʊb/"
-        ]
+        "tip": "Phòng thế nào + and + There is / vị trí 1 đồ vật."
       },
       {
         "q": "Can you describe your living room?",
@@ -1141,11 +922,7 @@
           "The sofa is opposite the television.",
           "The table is in the middle of the room."
         ],
-        "tip": "Phòng thế nào + and + vị trí (opposite / in the middle).",
-        "sampleAnswer": "My living room is simple and tidy. There is a tea table in the middle of the room, and the sofa is opposite the TV. My family usually watches TV and talks together here.",
-        "sampleAnswerIpa": [
-          "/maɪ ˈlɪvɪŋ ruːm ɪz ˈsɪmpl, ənd ðə ˈsəʊfə ɪz ˈɒpəzɪt ðə ˈtelɪvɪʒn/"
-        ]
+        "tip": "Phòng thế nào + and + vị trí (opposite / in the middle)."
       },
       {
         "q": "Can you describe your kitchen?",
@@ -1153,11 +930,7 @@
           "There is a fridge, a gas cooker and a sink.",
           "The fridge is next to the door."
         ],
-        "tip": "Phòng thế nào + and + There is / are + đồ đạc.",
-        "sampleAnswer": "My kitchen is small but clean and tidy. The fridge is next to the cooker, and the sink is opposite the fridge. There is a small table between the fridge and the door. My family usually cooks and has meals together here.",
-        "sampleAnswerIpa": [
-          "/maɪ ˈkɪtʃɪn ɪz smɔːl bət ˈtaɪdi, ənd ðər ɪz ə frɪdʒ, ə ˈkʊkər ənd ə sɪŋk/"
-        ]
+        "tip": "Phòng thế nào + and + There is / are + đồ đạc."
       }
     ],
     "trip": [
@@ -1169,11 +942,7 @@
           "No, I don't, because…",
           "relax / learn new things / gain new experience"
         ],
-        "tip": "Yes, definitely + because + 2–3 lý do ngắn.",
-        "sampleAnswer": "Yes, I love travelling, because I can relax, see new places and gain new experience.",
-        "sampleAnswerIpa": [
-          "/jes, ˈdefɪnətli, bɪˈkəz aɪ kən rɪˈlæks, siː njuː ˈpleɪsɪz ənd ɡeɪn njuː ɪkˈspɪəriəns/"
-        ]
+        "tip": "Yes, definitely + because + 2–3 lý do ngắn."
       },
       {
         "q": "Tell me about one trip you remember the most.",
@@ -1186,16 +955,7 @@
           "5. Làm gì: We did a lot of things there: we went sightseeing, we enjoyed the local food, we went swimming…",
           "6. Cảm nhận: It was great / wonderful / fantastic. I had a terrific time."
         ],
-        "tip": "Dạng kể — 6 câu ngắn theo đúng thứ tự: nơi → khi nào → với ai → bằng gì → làm gì → cảm nhận.",
-        "sampleAnswer": "The trip I remember the most is my trip to Nha Trang. I went there six months ago with my girlfriend. We went by plane and stayed at a hotel in the city centre. We saw many beautiful places, took a lot of photos, and tried fresh seafood. It was very delicious. I had a great time, and I hope to go back there one day.",
-        "sampleAnswerIpa": [
-          "/ðə trɪp aɪ rɪˈmembə ðə məʊst ɪz ðə trɪp tə Nha Trang/",
-          "/aɪ went ðeər əˈbaʊt sɪks mʌnθs əˈɡəʊ/",
-          "/aɪ went wɪð maɪ ˈɡɜːlfrend/",
-          "/wi went ðeə baɪ pleɪn, ənd ɪt tʊk əs əˈbaʊt tuː ˈaʊəz/",
-          "/wi dɪd ə lɒt əv θɪŋz ðeə: wi went ˈsaɪtsiːɪŋ, wi went ˈswɪmɪŋ, ənd wi ɪnˈdʒɔɪd ðə freʃ ˈsiːfuːd/",
-          "/ɪt wəz ˈwʌndəfl, ənd aɪ həd ə təˈrɪfɪk ˈtaɪm/"
-        ]
+        "tip": "Dạng kể — 6 câu ngắn theo đúng thứ tự: nơi → khi nào → với ai → bằng gì → làm gì → cảm nhận."
       },
       {
         "q": "Tell me about one trip you want to take in the future.",
@@ -1209,17 +969,7 @@
           "6. Làm gì: We are going to walk around the towns, take a lot of photos and try local food.",
           "7. Cảm nhận: I think it will be an amazing experience."
         ],
-        "tip": "Dạng kể tương lai — dùng \"be going to\": nơi → vì sao → với ai → bằng gì → ở đâu → làm gì → cảm nhận.",
-        "sampleAnswer": "I am going to visit Switzerland. I want to go there because I like its high mountains, clear lakes and peaceful small towns. I am going to go with my girlfriend. We are going to travel from Germany to Switzerland by train. We are going to stay at a small cosy hotel near a lake. We are going to walk around the towns, take a lot of photos and try local food. I think it will be an amazing experience.",
-        "sampleAnswerIpa": [
-          "/aɪ əm ˈɡəʊɪŋ tə ˈvɪzɪt ˈswɪtsələnd/",
-          "/aɪ wɒnt tə ɡəʊ ðeə bɪˈkəz aɪ laɪk ɪts haɪ ˈmaʊntɪnz, klɪə leɪks ənd ˈpiːsfl smɔːl taʊnz/",
-          "/aɪ əm ˈɡəʊɪŋ tə ɡəʊ wɪð maɪ ˈɡɜːlfrend/",
-          "/wi ɑː ˈɡəʊɪŋ tə ˈtrævl frəm ˈdʒɜːməni tə ˈswɪtsələnd baɪ treɪn/",
-          "/wi ɑː ˈɡəʊɪŋ tə steɪ ət ə smɔːl ˈkəʊzi həʊˈtel nɪər ə leɪk/",
-          "/wi ɑː ˈɡəʊɪŋ tə wɔːk əˈraʊnd ðə taʊnz, teɪk ə lɒt əv ˈfəʊtəʊz ənd traɪ ˈləʊkl fuːd/",
-          "/aɪ ˈθɪŋk ɪt wɪl bi ən əˈmeɪzɪŋ ɪkˈspɪəriəns/"
-        ]
+        "tip": "Dạng kể tương lai — dùng \"be going to\": nơi → vì sao → với ai → bằng gì → ở đâu → làm gì → cảm nhận."
       }
     ],
     "food-restaurant": [
@@ -1230,11 +980,7 @@
           "It is healthy because…",
           "I eat a lot of chicken, eggs and vegetables."
         ],
-        "tip": "Món + because + tốt / không tốt.",
-        "sampleAnswer": "My favourite food is chicken with vegetables, because it is healthy and good for me.",
-        "sampleAnswerIpa": [
-          "/maɪ ˈfeɪvərɪt fuːd ɪz ˈtʃɪkɪn wɪð ˈvedʒtəblz, bɪˈkəz ɪt ɪz ˈhelθi ənd ɡʊd fə miː/"
-        ]
+        "tip": "Món + because + tốt / không tốt."
       },
       {
         "q": "What is your favourite drink? Is it good for you?",
@@ -1243,11 +989,7 @@
           "It is good for me because…",
           "It helps me stay awake."
         ],
-        "tip": "Đồ uống + because + tốt / không tốt.",
-        "sampleAnswer": "My favourite drink is tea, because it helps me stay awake when I am working.",
-        "sampleAnswerIpa": [
-          "/maɪ ˈfeɪvərɪt drɪŋk ɪz tiː, bɪˈkəz ɪt helps mi steɪ əˈweɪk wen aɪ əm ˈwɜːkɪŋ/"
-        ]
+        "tip": "Đồ uống + because + tốt / không tốt."
       },
       {
         "q": "Do you like eating out? How often do you go to a restaurant?",
@@ -1259,20 +1001,7 @@
           "Nhận xét: The food was very good and delicious. The staff were friendly, and the service was fast.",
           "Giá + kết: It was very cheap. I would definitely go there again."
         ],
-        "tip": "Theo bài mẫu của bạn: Yes + tần suất → nhà hàng nào & ở đâu → order gì → nhận xét → giá & kết.",
-        "sampleAnswer": "Yes, I do, and I usually eat out about once a week. The restaurant I remember the most is a seafood restaurant in Nha Trang. I went there on my recent trip, and it was a famous restaurant near my hotel. To start the meal, we had crab soup. For the main dishes, we had steamed lobster, grilled oysters and steamed squid. I also chose the seafood myself, so it was very fresh. For dessert, we had ice cream. The food was very good and delicious, the staff were friendly, and the service was fast. The seafood was also very cheap, and the meal for two people was only about one million VND. I would definitely go there again.",
-        "sampleAnswerIpa": [
-          "/jes, aɪ duː, ənd aɪ ˈjuːʒuəli iːt aʊt əˈbaʊt wʌns ə wiːk/",
-          "/ðə ˈrestrɒnt aɪ rɪˈmembə ðə məʊst ɪz ə ˈsiːfuːd ˈrestrɒnt ɪn Nha Trang/",
-          "/aɪ went ðeər ɒn maɪ ˈriːsnt trɪp, ənd ɪt wəz ə ˈfeɪməs ˈrestrɒnt nɪə maɪ həʊˈtel/",
-          "/tə stɑːt ðə miːl, wi həd kræb suːp/",
-          "/fə ðə meɪn ˈdɪʃɪz, wi həd stiːmd ˈlɒbstə, ɡrɪld ˈɔɪstəz ənd stiːmd skwɪd/",
-          "/aɪ ˈɔːlsəʊ tʃəʊz ðə ˈsiːfuːd maɪˈself, səʊ ɪt wəz ˈveri freʃ/",
-          "/ðə fuːd wəz ˈveri ɡʊd ənd dɪˈlɪʃəs, ðə stɑːf wə ˈfrendli, ənd ðə ˈsɜːvɪs wəz fɑːst/",
-          "/fə dɪˈzɜːt, wi həd aɪs kriːm/",
-          "/ðə ˈsiːfuːd wəz ˈɔːlsəʊ ˈveri tʃiːp, ənd ðə miːl fə tuː ˈpiːpl wəz ˈəʊnli əˈbaʊt wʌn ˈmɪljən VND/",
-          "/aɪ wʊd ˈdefɪnətli ɡəʊ ðeər əˈɡen/"
-        ]
+        "tip": "Theo bài mẫu của bạn: Yes + tần suất → nhà hàng nào & ở đâu → order gì → nhận xét → giá & kết."
       }
     ],
     "health-illness": [
@@ -1283,11 +1012,7 @@
           "I eat a lot of fruits and vegetables.",
           "I drink enough water."
         ],
-        "tip": "Yes, definitely + because + món ăn.",
-        "sampleAnswer": "Yes. I often hit the gym, so I eat a lot of chicken, eggs and vegetables. They help me stay healthy and build muscle.",
-        "sampleAnswerIpa": [
-          "/jes, ˈdefɪnətli, bɪˈkəz aɪ iːt ə lɒt əv ˈtʃɪkɪn, eɡz ənd ˈvedʒtəblz ˈevri deɪ/"
-        ]
+        "tip": "Yes, definitely + because + món ăn."
       },
       {
         "q": "Do you exercise? What exercise do you do?",
@@ -1296,11 +1021,7 @@
           "It helps me keep in shape.",
           "four or five times a week"
         ],
-        "tip": "Yes, I do + because + bài tập + tần suất.",
-        "sampleAnswer": "Yes, I usually hit the gym about four or five times a week.",
-        "sampleAnswerIpa": [
-          "/jes, aɪ duː, bɪˈkəz aɪ ɡəʊ tə ðə dʒɪm fɔːr ɔː faɪv ˈtaɪmz ə wiːk/"
-        ]
+        "tip": "Yes, I do + because + bài tập + tần suất."
       },
       {
         "q": "Do you often feel stressed?",
@@ -1309,11 +1030,7 @@
           "When I feel stressed, I go to the gym.",
           "It helps me relax."
         ],
-        "tip": "Yes, sometimes + because + khi nào.",
-        "sampleAnswer": "Yes, sometimes. I have a lot of work, and I often sit for many hours, so I feel tired and stressed.",
-        "sampleAnswerIpa": [
-          "/jes, ˈsʌmtaɪmz, bɪˈkəz aɪ həv ə lɒt əv wɜːk ənd aɪ sɪt fə ˈmeni ˈaʊəz/"
-        ]
+        "tip": "Yes, sometimes + because + khi nào."
       },
       {
         "q": "What should you do if you have a headache?",
@@ -1322,11 +1039,7 @@
           "I often see the doctor.",
           "I stop using the computer."
         ],
-        "tip": "If + triệu chứng, I often + 2 hành động (nối bằng and).",
-        "sampleAnswer": "If I have a headache, I usually rest and take some aspirin.",
-        "sampleAnswerIpa": [
-          "/ɪf aɪ həv ə ˈhedeɪk, aɪ ˈɒfn rest ənd teɪk səm ˈæsprɪn, ənd aɪ stɒp ˈjuːzɪŋ ðə kəmˈpjuːtə/"
-        ]
+        "tip": "If + triệu chứng, I often + 2 hành động (nối bằng and)."
       },
       {
         "q": "What should you do if you have a toothache?",
@@ -1334,11 +1047,7 @@
           "I often go to the dentist.",
           "You shouldn't eat sweets."
         ],
-        "tip": "If + toothache, I often go to the dentist + and + 1 ý thêm.",
-        "sampleAnswer": "If I have a toothache, I go to the dentist and avoid sweets.",
-        "sampleAnswerIpa": [
-          "/ɪf aɪ həv ə ˈtuːθeɪk, aɪ ˈɒfn ɡəʊ tə ðə ˈdentɪst, ənd aɪ dəʊnt iːt swiːts/"
-        ]
+        "tip": "If + toothache, I often go to the dentist + and + 1 ý thêm."
       },
       {
         "q": "What should you do if you have got a cold?",
@@ -1346,11 +1055,7 @@
           "I often rest.",
           "I often go to bed with a hot drink."
         ],
-        "tip": "If + have got a cold, I often rest and go to bed with a hot drink.",
-        "sampleAnswer": "If I have got a cold, I often rest and go to bed with a hot drink.",
-        "sampleAnswerIpa": [
-          "/ɪf aɪ həv ɡɒt ə kəʊld, aɪ ˈɒfn rest ənd ɡəʊ tə bed wɪð ə hɒt drɪŋk/"
-        ]
+        "tip": "If + have got a cold, I often rest and go to bed with a hot drink."
       }
     ]
   },
