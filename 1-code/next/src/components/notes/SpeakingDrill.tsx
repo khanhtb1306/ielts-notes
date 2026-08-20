@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react"
-import { Bot, Check, Clock3, Copy, Eye, EyeOff, Gamepad2, GraduationCap, HeartPulse, Home, Lightbulb, Mic, MapPinHouse, Pencil, Plane, Play, Quote, RotateCcw, Square, UserRound, UsersRound, Utensils, Volume2, VolumeX, X } from "lucide-react"
+import { Bot, Check, Clock3, Copy, Eye, EyeOff, Gamepad2, GraduationCap, HeartPulse, Home, Lightbulb, Mic, MapPinHouse, Pencil, Plane, Play, Quote, RotateCcw, Square, Upload, UserRound, UsersRound, Utensils, Volume2, VolumeX, X } from "lucide-react"
 import type { LucideIcon } from "lucide-react"
 import { getEnglishVoices, speak } from "@/lib/tts"
 import { diffWords, tokenize } from "@/lib/speech-diff"
@@ -123,6 +123,9 @@ export function SpeakingDrill({ questions }: Props) {
   const [selectedBySection, setSelectedBySection] = useState<Record<string, number>>({})
   const [sampleOverrides, setSampleOverrides] = useState<Record<string, string>>({})
   const [showQuestionText, setShowQuestionText] = useState(false)
+  const [showImport, setShowImport] = useState(false)
+  const [importDraft, setImportDraft] = useState("")
+  const [importMsg, setImportMsg] = useState("")
 
   // ── Recorder (lifted) ──────────────────────────────────────────────
   const [recorderOpen, setRecorderOpen] = useState(false)
@@ -360,6 +363,21 @@ export function SpeakingDrill({ questions }: Props) {
 
   if (sections.length === 0) return null
 
+  function handleImport() {
+    try {
+      const parsed = JSON.parse(importDraft)
+      if (typeof parsed !== "object" || Array.isArray(parsed)) throw new Error("Sai format")
+      const merged = { ...sampleOverrides, ...parsed }
+      setSampleOverrides(merged)
+      window.localStorage.setItem(SAMPLE_OVERRIDE_KEY, JSON.stringify(merged, null, 2))
+      setImportMsg(`✓ Đã nạp ${Object.keys(parsed).length} câu trả lời.`)
+      setImportDraft("")
+      window.setTimeout(() => { setImportMsg(""); setShowImport(false) }, 2000)
+    } catch {
+      setImportMsg("✗ JSON không hợp lệ. Kiểm tra lại.")
+    }
+  }
+
   function play(file: string) {
     const el = audioRef.current
     if (!el) return
@@ -579,6 +597,45 @@ export function SpeakingDrill({ questions }: Props) {
         }
       >
         {listening ? <span className="relative flex h-6 w-6 items-center justify-center"><span className="absolute h-full w-full animate-ping rounded-full bg-destructive-foreground/40" /><Mic className="h-5 w-5" /></span> : <Mic className="h-6 w-6" />}
+      </button>
+
+      {/* Import panel */}
+      {showImport && (
+        <div className="fixed bottom-44 left-1/2 z-50 w-[min(92vw,480px)] -translate-x-1/2 rounded-2xl border border-border bg-card p-4 shadow-2xl">
+          <div className="mb-2 flex items-center justify-between">
+            <span className="font-bold text-primary text-sm">Import câu trả lời</span>
+            <button type="button" onClick={() => setShowImport(false)} className="flex h-7 w-7 items-center justify-center rounded-full hover:bg-muted"><X className="h-4 w-4" /></button>
+          </div>
+          <p className="mb-2 text-xs text-muted-foreground">Paste nội dung file <code>my-speaking-answers.json</code> vào đây rồi bấm Nạp.</p>
+          <textarea
+            value={importDraft}
+            onChange={(e) => setImportDraft(e.target.value)}
+            placeholder={'{\n  "What\'s your name?": "My name is…",\n  …\n}'}
+            className="min-h-36 w-full rounded-lg border border-border bg-background px-3 py-2 font-mono text-xs leading-relaxed outline-none focus:border-primary/60"
+          />
+          {importMsg && <p className={"mt-1.5 text-xs font-semibold " + (importMsg.startsWith("✓") ? "text-emerald-600" : "text-destructive")}>{importMsg}</p>}
+          <button
+            type="button"
+            onClick={handleImport}
+            disabled={!importDraft.trim()}
+            className="mt-2 w-full rounded-lg bg-primary py-2 text-sm font-semibold text-primary-foreground disabled:opacity-40"
+          >
+            Nạp vào localStorage
+          </button>
+        </div>
+      )}
+
+      {/* FAB import */}
+      <button
+        type="button"
+        onClick={() => setShowImport((v) => !v)}
+        title="Import câu trả lời"
+        className={
+          "fixed bottom-44 right-6 z-40 flex h-14 w-14 items-center justify-center rounded-full shadow-lg transition-all hover:scale-105 active:scale-95 " +
+          (showImport ? "bg-primary text-primary-foreground" : "bg-card border border-border text-primary hover:bg-primary hover:text-primary-foreground")
+        }
+      >
+        <Upload className="h-6 w-6" />
       </button>
 
       {/* FAB con mắt — fixed bottom-right, toggle hiện/ẩn câu hỏi toàn trang */}
