@@ -731,17 +731,15 @@ function QuestionDetail({
           </div>
         )}
 
-        {q.sampleAnswer && (
-          <SampleAnswer
-            text={sampleText}
-            ipa={q.sampleAnswerIpa}
-            isEdited={Boolean(sampleOverride)}
-            hasSampleOverrides={hasSampleOverrides}
-            onSave={(value) => onSaveSample(q.q, value)}
-            onCopySampleOverrides={onCopySampleOverrides}
-            onSpeak={() => onSpeakSample(sampleText)}
-          />
-        )}
+        <SampleAnswer
+          text={sampleText}
+          ipa={q.sampleAnswerIpa}
+          isEdited={Boolean(sampleOverride)}
+          hasSampleOverrides={hasSampleOverrides}
+          onSave={(value) => onSaveSample(q.q, value)}
+          onCopySampleOverrides={onCopySampleOverrides}
+          onSpeak={() => onSpeakSample(sampleText)}
+        />
       </div>
     </section>
   )
