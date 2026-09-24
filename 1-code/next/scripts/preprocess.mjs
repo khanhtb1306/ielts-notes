@@ -19,11 +19,15 @@ const HERE = dirname(fileURLToPath(import.meta.url))
 const NEXT_ROOT = dirname(HERE)
 // NEXT_ROOT is 1-code/next; repo root is two levels up.
 const REPO_ROOT = dirname(dirname(NEXT_ROOT))
-const SRC = join(REPO_ROOT, "2-notes")
+// Content is organised per course under courses/<course-id>/{notes,daily,final}.
+// Currently only the Pre-IELTS course exists; multi-course app wiring is a later phase.
+const COURSE_ID = "pre-ielts"
+const COURSE_ROOT = join(REPO_ROOT, "courses", COURSE_ID)
+const SRC = join(COURSE_ROOT, "notes")
 const ENRICH = join(SRC, "enrich")
-const DAILY_DIR = join(REPO_ROOT, "3-daily", "lessons")
+const DAILY_DIR = join(COURSE_ROOT, "daily", "lessons")
 const OUT = join(NEXT_ROOT, "src", "data")
-const FINAL_PACKET_ROOT = join(REPO_ROOT, "4-final", "google-doc-pre-course")
+const FINAL_PACKET_ROOT = join(COURSE_ROOT, "final", "google-doc-pre-course")
 
 const FINAL_SHEET_META = {
   "Lesson 7 - Job.docx": { topic: "Work and study", focus: "dream job, job likes/dislikes, family job" },
@@ -68,7 +72,7 @@ function loadDir(type) {
         vi: data.vi || "",
         lesson: data.lesson || data.lessons || "",
         priority: data.priority || "",
-        file: `2-notes/${type}/${f}`,
+        file: `courses/${COURSE_ID}/notes/${type}/${f}`,
         markdown: body.trim(),
       }
     })
@@ -1437,7 +1441,9 @@ function main() {
   )
 
   // 2. Topics + daily
-  const topicsMapPath = join(DAILY_DIR, "topics-map.json")
+  // App-wide content config (taxonomy + speaking bank + presets) lives in the course's
+  // notes/enrich, alongside meta.json/audio.json/ipa.json — not under daily/lessons.
+  const topicsMapPath = join(ENRICH, "topics-map.json")
   const topicsMap = existsSync(topicsMapPath)
     ? JSON.parse(readFileSync(topicsMapPath, "utf8"))
     : { topicLabels: {}, noteKeywords: {}, lessonTopicHints: {}, questionOverrides: {}, blockOverrides: {}, speakingQuestions: {}, practicePresets: [] }

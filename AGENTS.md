@@ -2,33 +2,57 @@
 
 ## Project Shape
 
-Repo chia làm **4 nhóm thư mục**:
+Repo tổ chức theo **khóa học**. Mỗi khóa là một thư mục `courses/<course-id>/` chứa 3 khối nội dung (`notes/`, `daily/`, `final/`). App (`1-code/`) dùng chung cho mọi khóa.
 
 - **`1-code/`** — code. Chỉ có `1-code/next/` (Vite + React 19 + TypeScript + Tailwind + shadcn/ui + Zustand + React Router (HashRouter)). Deploy = GitHub Pages qua `.github/workflows/deploy.yml`. Legacy vanilla đã bị xoá.
-- **`2-notes/`** — nội dung ôn tập nguồn: `grammar/`, `pronunciation/`, `speaking/` (markdown), `enrich/` (json), `audio/` (wav phản xạ Notes).
-- **`3-daily/`** — học hàng ngày: `lessons/` (LangGo normalized), `audio/` (mp3), `slides/` (pptx).
-- **`4-final/`** — ôn cuối khóa: `google-doc-pre-course/` (tài liệu giáo viên).
+- **`courses/<course-id>/`** — nội dung một khóa. Hiện có `courses/pre-ielts/`:
+  - **`notes/`** — nội dung ôn tập nguồn: `grammar/`, `pronunciation/`, `speaking/` (markdown), `enrich/` (json), `audio/` (wav phản xạ Notes).
+  - **`daily/`** — học hàng ngày: `lessons/` (LangGo normalized), `audio/` (mp3).
+  - **`final/`** — ôn cuối khóa: `google-doc-pre-course/` (tài liệu giáo viên).
 
 Ngoài ra: `scripts/` (audit/import/download).
 
-**Scope hiện tại**: Notes + 20 daily sets (L1-19 + `lesson-misc`) + Final Practice generator + Final packet giáo viên.
+**Scope hiện tại**: 1 khóa `pre-ielts` — Notes + 20 daily sets (L1-19 + `lesson-misc`) + Final Practice generator + Final packet giáo viên.
+
+> **Multi-course (Giai đoạn 2, chưa làm)**: App hiện đọc cố định `courses/pre-ielts` (hằng `COURSE_ID` trong `preprocess.mjs` + `vite-plugin-assets.mjs`). Thêm khóa mới (vd `ifa`) về mặt tổ chức = tạo `courses/ifa/{notes,daily,final}`. Để app chạy được nhiều khóa cùng lúc cần wiring thêm: course switcher, URL segment theo khóa, namespace localStorage — làm sau.
+
+## Web-consumed (RANH GIỚI QUAN TRỌNG)
+
+Repo chỉ giữ **nội dung được đưa lên web**. Tài liệu nguồn không lên web (overview.md ghi chú, `*.network-response` dump HTTP, `*.pptx` slide, ảnh grammar-final rời) đã bị **xoá** vì đã được số hóa thành json/nội dung chuẩn. Ranh giới web xác định bằng: `1-code/next/scripts/preprocess.mjs` (build-time đọc content), `1-code/next/scripts/vite-plugin-assets.mjs` (serve/copy assets), `.github/workflows/deploy.yml` (chỉ build `1-code/next` → `dist/`).
+
+### Web-consumed — KHÔNG được di chuyển/xoá (preprocess đọc hoặc assets serve)
+- `1-code/next/**` (trừ `src/data/` generated + gitignored).
+- `courses/<id>/notes/{grammar,pronunciation,speaking}/*.md`, `courses/<id>/notes/enrich/*.json` (gồm `topics-map.json` — config toàn app), `courses/<id>/notes/audio/**`.
+- Mỗi lesson (`courses/<id>/daily/lessons/lesson-XX/`): `manifest.json`, `content.json`, `exercises.json`, `scripts.json`, `submission.json`, `audio/manifest.json`, `images/**`, **`raw/*.json`**.
+- `courses/<id>/daily/audio/**`.
+- `courses/<id>/final/google-doc-pre-course/**`.
+
+> ⚠️ **`raw/*.json` trông giống dữ liệu thô nhưng preprocess ĐỌC nó** (`collectRawQuestions(join(dir,"raw"))`) để lấy options + đáp án. `content.json`/`exercises.json` KHÔNG chứa options — phải ghép với `raw/` lúc build. **TUYỆT ĐỐI KHÔNG xoá/di chuyển `raw/`.**
+
+> ⚠️ `scripts/normalize-daily-lessons.mjs` (import one-off, KHÔNG chạy trong dev/build/CI) **GHI `overview.md` vào `courses/<id>/daily/lessons/lesson-XX/`** khi regenerate. Nếu chạy lại script này, xoá lại `overview.md` mới sinh (không lên web).
+
+### Quy ước cho content mới
+Khi thêm file, tự hỏi: **preprocess/assets-plugin có đọc nó để lên web không?** Có → đặt ở vị trí web-consumed đúng chuẩn. Không (tài liệu nguồn thuần) → không commit vào repo web (lưu ngoài).
 
 ## Content sources
 
+> Đường dẫn dưới đây dùng `courses/<id>/` (hiện `<id>` = `pre-ielts`).
+
 ### Notes (markdown)
-- `2-notes/pronunciation/*.md`
-- `2-notes/grammar/*.md`
-- `2-notes/speaking/*.md`
+- `courses/<id>/notes/pronunciation/*.md`
+- `courses/<id>/notes/grammar/*.md`
+- `courses/<id>/notes/speaking/*.md`
 - Frontmatter: `title`, `lesson`, `priority` (high|normal), `vi`.
 - File name prefix `NN-` giữ thứ tự (`orderOf()`).
 
 ### Notes enrich (json)
-- `2-notes/enrich/meta.json` — goals, principles, course map, final review, vocab bank, read guide.
-- `2-notes/enrich/audio.json` — audio bank cho Speaking (`[[audio:N]]` marker trong markdown).
-- `2-notes/enrich/ipa.json` — IPA chart data.
+- `courses/<id>/notes/enrich/meta.json` — goals, principles, course map, final review, vocab bank, read guide.
+- `courses/<id>/notes/enrich/audio.json` — audio bank cho Speaking (`[[audio:N]]` marker trong markdown).
+- `courses/<id>/notes/enrich/ipa.json` — IPA chart data.
+- `courses/<id>/notes/enrich/topics-map.json` — config toàn app (taxonomy + Speaking bank + Final Practice presets). Xem "App content config" bên dưới.
 
 ### Daily (json) — Nguồn: LangGo Challenge API đã normalize
-Mỗi lesson một folder `3-daily/lessons/lesson-XX/`:
+Mỗi lesson một folder `courses/<id>/daily/lessons/lesson-XX/`:
 - `manifest.json` — challenges của lesson (id, title, note, deadline, totalQuestion, rawFile).
 - `content.json` — content blocks với `rawHtml`, `audioRefs`, `imageRefs`.
 - `exercises.json` — questions kèm submission đã có (userAnswer/correctAnswer/resultAnswer).
@@ -38,8 +62,8 @@ Mỗi lesson một folder `3-daily/lessons/lesson-XX/`:
 - `images/manifest.json` — mỗi image `url` + `localFile`.
 - `raw/challenge-NN-XXXXX.json` — bản gốc để build trích `answer.answers[]` (options + đáp án).
 
-### Daily taxonomy
-- `3-daily/lessons/topics-map.json` — sửa tay:
+### App content config (taxonomy + Speaking + Final Practice)
+- `courses/<id>/notes/enrich/topics-map.json` — config toàn app, sửa tay (KHÔNG phải dữ liệu daily; đặt cùng `enrich/` với meta/audio/ipa):
   - `topicLabels`: `{ key: { label, skill, needsNotes? } }`
   - `noteKeywords`: `{ "chuỗi lowercase trong note": ["topic-key", ...] }`
   - `lessonTopicHints`: `{ "lesson-XX": ["topic-key", ...] }`  (topic đầu = core, các topic sau = review)
@@ -49,13 +73,13 @@ Mỗi lesson một folder `3-daily/lessons/lesson-XX/`:
 
 ## React pipeline (`1-code/next/`)
 
-- **Preprocess**: [1-code/next/scripts/preprocess.mjs](1-code/next/scripts/preprocess.mjs). Đọc `2-notes/`, `3-daily/lessons/`, `4-final/` → sinh typed TS modules vào `1-code/next/src/data/`:
+- **Preprocess**: [1-code/next/scripts/preprocess.mjs](1-code/next/scripts/preprocess.mjs). Đọc `courses/<id>/{notes,daily/lessons,final}` (đường dẫn qua hằng `COURSE_ID`) → sinh typed TS modules vào `1-code/next/src/data/`:
   - `notes.ts` — docs + meta + audio bank + IPA + finalPacket.
   - `topics.ts` — topicsIndex + topicLabels + speakingQuestions + presets.
   - `daily-index.ts` — LessonSummary[].
   - `daily/lesson-XX.ts` — Lesson chunks (lazy import).
   - `daily-loader.ts` — key → () => Promise<Lesson>.
-- **Asset serving**: [1-code/next/scripts/vite-plugin-assets.mjs](1-code/next/scripts/vite-plugin-assets.mjs). URL trình duyệt giữ ổn định (`/audio/*` ← `2-notes/audio`, `/audio/daily/*` ← `3-daily/audio`, `/source/daily/*/images/*` ← `3-daily/lessons`, `/final/google-doc-pre-course/*` ← `4-final`). Build copy sang `1-code/next/dist/`.
+- **Asset serving**: [1-code/next/scripts/vite-plugin-assets.mjs](1-code/next/scripts/vite-plugin-assets.mjs). URL trình duyệt giữ ổn định (`/audio/*` ← `courses/<id>/notes/audio`, `/audio/daily/*` ← `courses/<id>/daily/audio`, `/source/daily/*/images/*` ← `courses/<id>/daily/lessons`, `/final/google-doc-pre-course/*` ← `courses/<id>/final`). Build copy sang `1-code/next/dist/`.
 - **Types**: [1-code/next/src/types/content.ts](1-code/next/src/types/content.ts) — Question, Block, Lesson, TopicRef, Preset, FinalPacket...
 - **Router**: HashRouter → `/#/daily/lesson-01`.
 - **State (Zustand)**: `data.ts` (selector), `practice.ts` (session), `history.ts` (`ielts-practice-history`), `flashcard.ts` (`ielts-flashcard-progress`), `progress.ts` (`ielts-final-progress`), `theme.ts` (`ielts-theme`), `ui.ts` (search + menu).
@@ -87,22 +111,22 @@ Không có test / lint / CI ngoài GH Pages deploy (`.github/workflows/deploy.ym
 ## Editing Guidance (React chuẩn)
 
 - Giữ tiếng Việt learner-facing.
-- **English variant = British English (BrE)** cho Notes + `2-notes/enrich/meta.json`. Áp dụng khi thêm/sửa ví dụ:
+- **English variant = British English (BrE)** cho Notes + `courses/<id>/notes/enrich/meta.json`. Áp dụng khi thêm/sửa ví dụ:
   - Từ vựng: `mum` (not `mom`), `maths` (not `math`), `film` (not `movie` for cinema context), `at the weekend` (not `on the weekend`), `flat` (not `apartment`), `lift` (not `elevator`), `go clubbing` / `go into town` (not `disco` / `downtown`), `build muscle` (not `get big muscles`).
   - IPA: non-rhotic (`fɔː` not `fɔːr`), `/əʊ/` not `/oʊ/` cho `home/go/no/hope`.
-  - **Ngoại lệ**: `3-daily/lessons/lesson-XX/**` là raw từ LangGo, không sửa dialect ở đây (lệch nguồn). Chỉ áp dụng cho Notes tự viết.
+  - **Ngoại lệ**: `courses/<id>/daily/lessons/lesson-XX/**` là raw từ LangGo, không sửa dialect ở đây (lệch nguồn). Chỉ áp dụng cho Notes tự viết.
 - Notes-first UI: reveal câu đúng chỉ ở Practice runner + result. Study/Exercises tabs của Daily luôn hiển thị đáp án (đây là chế độ ôn).
-- Khi thêm lesson daily: thả folder chuẩn vào `3-daily/lessons/lesson-XX/` (manifest + 5 json + audio + images + raw) rồi restart `npm run dev` để `predev` sinh lại `src/data/`.
-- Sửa taxonomy → `3-daily/lessons/topics-map.json` → restart dev.
+- Khi thêm lesson daily: thả folder chuẩn vào `courses/<id>/daily/lessons/lesson-XX/` (manifest + 5 json + audio + images + raw) rồi restart `npm run dev` để `predev` sinh lại `src/data/`.
+- Sửa taxonomy → `courses/<id>/notes/enrich/topics-map.json` → restart dev.
 - Thêm route mới: (1) thêm entry vào [1-code/next/src/lib/nav.ts](1-code/next/src/lib/nav.ts) NAV array, (2) tạo page component trong `1-code/next/src/pages/`, (3) add `<Route>` trong [1-code/next/src/App.tsx](1-code/next/src/App.tsx).
-- Thêm Notes audio: file vào `2-notes/audio/`, entry vào `2-notes/enrich/audio.json`. Map theo số `num` khớp với `[[audio:N]]` marker trong markdown.
+- Thêm Notes audio: file vào `courses/<id>/notes/audio/`, entry vào `courses/<id>/notes/enrich/audio.json`. Map theo số `num` khớp với `[[audio:N]]` marker trong markdown.
 - Thêm shadcn/ui component mới: handcraft vào `1-code/next/src/components/ui/` (không dùng `npx shadcn add` vì network flaky).
 
 ## Common Pitfalls
 
 - **HashRouter đường dẫn**: URL luôn có `#/`. `<Link to="/daily">` → `#/daily`. Đừng dùng `BrowserRouter` vì GH Pages sẽ 404 trên deep links.
-- **File path assets**: URL trình duyệt (`/audio/daily/...`, `/source/daily/.../images`, `/final/...`) giữ ổn định; nguồn đĩa đã regroup sang `2-notes`/`3-daily`/`4-final` và được map trong `vite-plugin-assets.mjs`. Đừng đổi URL convention.
-- **Preprocess không watch**: sửa file trong `2-notes/` hoặc `3-daily/` thì phải restart `npm run dev` để chạy lại `predev` hook. Không tự động hot-reload data.
+- **File path assets**: URL trình duyệt (`/audio/daily/...`, `/source/daily/.../images`, `/final/...`) giữ ổn định; nguồn đĩa nằm ở `courses/<id>/{notes,daily,final}` và được map trong `vite-plugin-assets.mjs`. Đừng đổi URL convention.
+- **Preprocess không watch**: sửa file trong `courses/<id>/notes/` hoặc `courses/<id>/daily/` thì phải restart `npm run dev` để chạy lại `predev` hook. Không tự động hot-reload data.
 - **`src/data/` là generated**: đã gitignore, không commit.
 - **TypeScript 6+ deprecates `baseUrl`**: chỉ dùng `paths` alone trong tsconfig.
 
@@ -122,4 +146,3 @@ Không có test / lint / CI ngoài GH Pages deploy (`.github/workflows/deploy.ym
 - [x] Xoá vanilla legacy (`web/` + `build.mjs` + `index.html` + `dist/` cũ) — đã gỡ.
 - [ ] Fuse.js fuzzy search cross-page (M9 skip).
 - [ ] Prereq badge trên Daily card + "Giáo viên nói gì" section trong Topic detail (cần schema migration).
-- [ ] Extract text từ `slides/*.pptx` để cross-check curriculum (optional, cần dev-dep).

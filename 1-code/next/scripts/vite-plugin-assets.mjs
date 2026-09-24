@@ -4,11 +4,11 @@
 // development, and copies them into `dist/` at build time.
 //
 // Browser URLs are kept stable (so generated data needs no change), but the
-// on-disk source folders were regrouped:
-//   /audio/daily/lesson-XX/*.mp3          ← 3-daily/audio/lesson-XX/*.mp3
-//   /audio/*.{mp3,wav,m4a,ogg}            ← 2-notes/audio/*
-//   /source/daily/lesson-XX/images/*      ← 3-daily/lessons/lesson-XX/images/*
-//   /final/google-doc-pre-course/*        ← 4-final/google-doc-pre-course/*
+// on-disk source folders live per course under courses/<course-id>/{notes,daily,final}:
+//   /audio/daily/lesson-XX/*.mp3          ← courses/<id>/daily/audio/lesson-XX/*.mp3
+//   /audio/*.{mp3,wav,m4a,ogg}            ← courses/<id>/notes/audio/*
+//   /source/daily/lesson-XX/images/*      ← courses/<id>/daily/lessons/lesson-XX/images/*
+//   /final/google-doc-pre-course/*        ← courses/<id>/final/google-doc-pre-course/*
 
 import { createReadStream, existsSync, statSync, cpSync, readdirSync } from "node:fs"
 import { join, dirname, extname, normalize, sep } from "node:path"
@@ -18,14 +18,17 @@ const HERE = dirname(fileURLToPath(import.meta.url))
 const NEXT_ROOT = dirname(HERE)
 // NEXT_ROOT is 1-code/next; repo root is two levels up.
 const REPO_ROOT = dirname(dirname(NEXT_ROOT))
+// Currently only the Pre-IELTS course exists; multi-course app wiring is a later phase.
+const COURSE_ID = "pre-ielts"
+const COURSE_ROOT = join(REPO_ROOT, "courses", COURSE_ID)
 
-// Map stable browser URL prefixes → regrouped on-disk base folders.
+// Map stable browser URL prefixes → on-disk base folders (per course).
 // Order matters: more specific prefixes (e.g. /audio/daily/) come first.
 const URL_MAP = [
-  { prefix: "/audio/daily/", base: join(REPO_ROOT, "3-daily", "audio") },
-  { prefix: "/audio/", base: join(REPO_ROOT, "2-notes", "audio") },
-  { prefix: "/source/daily/", base: join(REPO_ROOT, "3-daily", "lessons") },
-  { prefix: "/final/google-doc-pre-course/", base: join(REPO_ROOT, "4-final", "google-doc-pre-course") },
+  { prefix: "/audio/daily/", base: join(COURSE_ROOT, "daily", "audio") },
+  { prefix: "/audio/", base: join(COURSE_ROOT, "notes", "audio") },
+  { prefix: "/source/daily/", base: join(COURSE_ROOT, "daily", "lessons") },
+  { prefix: "/final/google-doc-pre-course/", base: join(COURSE_ROOT, "final", "google-doc-pre-course") },
 ]
 
 const MIME = {
@@ -102,18 +105,18 @@ export function assetsPlugin() {
     },
     writeBundle(options) {
       const distDir = options.dir || join(NEXT_ROOT, "dist")
-      // Notes reflex audio (2-notes/audio) → dist/audio/*
-      const notesAudioSrc = join(REPO_ROOT, "2-notes", "audio")
+      // Notes reflex audio (courses/<id>/notes/audio) → dist/audio/*
+      const notesAudioSrc = join(COURSE_ROOT, "notes", "audio")
       if (existsSync(notesAudioSrc)) {
         cpSync(notesAudioSrc, join(distDir, "audio"), { recursive: true })
       }
-      // Daily lesson audio (3-daily/audio) → dist/audio/daily/*
-      const dailyAudioSrc = join(REPO_ROOT, "3-daily", "audio")
+      // Daily lesson audio (courses/<id>/daily/audio) → dist/audio/daily/*
+      const dailyAudioSrc = join(COURSE_ROOT, "daily", "audio")
       if (existsSync(dailyAudioSrc)) {
         cpSync(dailyAudioSrc, join(distDir, "audio", "daily"), { recursive: true })
       }
-      // Daily lesson images (3-daily/lessons/*/images) → dist/source/daily/*/images
-      const dailyRoot = join(REPO_ROOT, "3-daily", "lessons")
+      // Daily lesson images (courses/<id>/daily/lessons/*/images) → dist/source/daily/*/images
+      const dailyRoot = join(COURSE_ROOT, "daily", "lessons")
       if (existsSync(dailyRoot)) {
         for (const lesson of readdirSync(dailyRoot)) {
           const imagesSrc = join(dailyRoot, lesson, "images")
@@ -122,8 +125,8 @@ export function assetsPlugin() {
           cpSync(imagesSrc, imagesDest, { recursive: true })
         }
       }
-      // Final teacher packet (4-final) → dist/final/google-doc-pre-course/*
-      const finalSrc = join(REPO_ROOT, "4-final")
+      // Final teacher packet (courses/<id>/final) → dist/final/google-doc-pre-course/*
+      const finalSrc = join(COURSE_ROOT, "final")
       const finalDest = join(distDir, "final")
       if (existsSync(finalSrc)) {
         cpSync(finalSrc, finalDest, { recursive: true })
