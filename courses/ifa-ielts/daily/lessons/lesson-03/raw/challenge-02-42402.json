@@ -1,0 +1,396 @@
+{
+  "listItem": {
+    "id": "93088",
+    "challenge_id": 42402,
+    "class_id": "17854888961d6295u45597",
+    "day": 5,
+    "deadline": "2026-09-18 22:01:00",
+    "challenge_title": "[IELTS FOUNDATION A] - Lesson 3 - Challenge 2",
+    "challenge_note": "Listening - Speaking: Sports - Cập nhật 07/2026",
+    "challenge_status": 1,
+    "challenge_band": "1614338637844l3v19753u",
+    "total_question": 27,
+    "classification": "dc"
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "93088",
+        "challenge_id": 42402,
+        "class_id": "17854888961d6295u45597",
+        "day": 5,
+        "deadline": "2026-09-18 22:01:00",
+        "flag_status_mark": 1,
+        "flag_not_submit": 0,
+        "created": "2026-09-16 22:01:34",
+        "created_by": null,
+        "challenge": {
+          "id": "42402",
+          "title": "[IELTS FOUNDATION A] - Lesson 3 - Challenge 2",
+          "note": "Listening - Speaking: Sports - Cập nhật 07/2026",
+          "day": "5",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "1614338637844l3v19753u",
+          "created": "2026-09-16 22:01:33",
+          "updated": null,
+          "created_by": "932ca35d-1c19-425e-a76f-90a036b47691",
+          "updated_by": null,
+          "total_question": 27,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 16310
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 644335,
+        "class_challenge_id": 93088,
+        "class_id": "17854888961d6295u45597",
+        "challenge_id": 42402,
+        "cts_id": "1787535458idhr0hjlmnp5",
+        "rate": 0,
+        "comment": null,
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": null,
+        "status_mark_date": null,
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": "1779875378vawpfok6ii4u",
+        "updated": "2026-09-18 16:18:44",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-09-18 16:17:09",
+        "correct_answer": 27,
+        "marked_by": null,
+        "submitted_at": "2026-09-18 16:17:09",
+        "re_submitted_at": null,
+        "answers": {
+          "421802": {
+            "total_question": 11,
+            "total_correct_result_answer": 11,
+            "user_answer": {
+              "input_0": "swimming",
+              "input_1": "body",
+              "input_2": "mind",
+              "input_3": "jogging",
+              "input_4": "workouts",
+              "input_5": "individual",
+              "input_6": "focus",
+              "input_7": "social",
+              "input_8": "active",
+              "input_10": "benefits",
+              "input_9": "participating"
+            },
+            "correct_answer": {
+              "input_0": [
+                "swimming"
+              ],
+              "input_1": [
+                "body"
+              ],
+              "input_2": [
+                "mind"
+              ],
+              "input_3": [
+                "jogging"
+              ],
+              "input_4": [
+                "workouts"
+              ],
+              "input_5": [
+                "individual"
+              ],
+              "input_6": [
+                "focus"
+              ],
+              "input_7": [
+                "social"
+              ],
+              "input_8": [
+                "active"
+              ],
+              "input_9": [
+                "participating"
+              ],
+              "input_10": [
+                "benefits"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true,
+              "input_10": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 421802,
+            "challenge_id": 42402
+          },
+          "421803": {
+            "total_question": 5,
+            "total_correct_result_answer": 5,
+            "user_answer": {
+              "input_0": "bank",
+              "input_1": "gym",
+              "input_2": "hot",
+              "input_3": "skating",
+              "input_4": "volleyball"
+            },
+            "correct_answer": {
+              "input_0": [
+                "Bank"
+              ],
+              "input_1": [
+                "gym"
+              ],
+              "input_2": [
+                "hot"
+              ],
+              "input_3": [
+                "skating"
+              ],
+              "input_4": [
+                "volleyball"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 421803,
+            "challenge_id": 42402
+          },
+          "421804": {
+            "total_question": 10,
+            "total_correct_result_answer": 10,
+            "user_answer": {
+              "input_0": "đăng ký tham gia",
+              "input_1": "có xu hướng làm gì",
+              "input_2": "cảm giác có động lực",
+              "input_3": "duy trì vận động",
+              "input_4": "tập trung vào",
+              "input_5": "các môn thể thao có tổ chức",
+              "input_6": "tích cực tham gia",
+              "input_7": "sự linh hoạt",
+              "input_8": "đánh giá cao",
+              "input_9": "trải nghiệm"
+            },
+            "correct_answer": {
+              "input_0": [
+                ""
+              ],
+              "input_1": [
+                ""
+              ],
+              "input_2": [
+                ""
+              ],
+              "input_3": [
+                ""
+              ],
+              "input_4": [
+                ""
+              ],
+              "input_5": [
+                ""
+              ],
+              "input_6": [
+                ""
+              ],
+              "input_7": [
+                ""
+              ],
+              "input_8": [
+                ""
+              ],
+              "input_9": [
+                ""
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 421804,
+            "challenge_id": 42402
+          },
+          "421805": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "https://drive.google.com/file/d/1BfP8zbkoqj6ASgFDZxohkhBU67YdVVxV/view?usp=sharing",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 421805,
+            "challenge_id": 42402
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 113762,
+          "content": "<p style=\"font-size: 16px; box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; background-color: #ffffff; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 18pt; background-color: #ba372a; color: #ffffff;\"><strong> LISTENING </strong></span></p>\n<p style=\"font-size: 16px; box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; background-color: #ffffff; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-weight: bolder; font-family: arial, helvetica, sans-serif; color: #ba372a;\">Exercise 1</span></p>\n<p style=\"font-size: 16px; box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; background-color: #ffffff; line-height: 1.5;\"><span style=\"box-sizing: border-box; font-weight: bolder; font-family: arial, helvetica, sans-serif; color: #000000;\">Listen and fill in the gaps with ONE WORDS. <em>(Nghe và điền vào chỗ trống với 1 TỪ.)</em></span></p>\n<p style=\"font-size: 16px; box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; background-color: #ffffff; line-height: 1.5;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\">1</span></strong></p>\n<p style=\"font-size: 16px; box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; background-color: #ffffff; line-height: 1.5;\"><audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1775701449.mp3\" controls=\"controls\"> Your browser does not support the audio element. </audio></p>\n<p style=\"font-size: 16px; box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; background-color: #ffffff; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>2</strong></span></p>\n<p style=\"font-size: 16px; box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; background-color: #ffffff; line-height: 1.5;\"><audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1775701459.mp3\" controls=\"controls\"> Your browser does not support the audio element. </audio></p>\n<p style=\"font-size: 16px; box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; background-color: #ffffff; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>3</strong></span></p>\n<p style=\"font-size: 16px; box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; background-color: #ffffff; line-height: 1.5;\"><audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1775701475.mp3\" controls=\"controls\"> Your browser does not support the audio element. </audio></p>\n<p style=\"font-size: 16px; box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; background-color: #ffffff; line-height: 1.5;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\">4</span></strong></p>\n<p style=\"font-size: 16px; box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; background-color: #ffffff; line-height: 1.5;\"><audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1775701494.mp3\" controls=\"controls\"> Your browser does not support the audio element. </audio></p>\n<p><span style=\"color: #ba372a; font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Exercise 2</strong></span></p>\n<p><span style=\"color: #ba372a;\"><audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1772803653.mp3\" controls=\"controls\"> Your browser does not support the audio element. </audio></span></p>\n<p> </p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        },
+        {
+          "id": 113763,
+          "content": "<p style=\"font-size: 16px; box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; background-color: #ffffff; text-align: justify; line-height: 2;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 18pt; background-color: #ba372a; color: #ffffff;\"><strong> SPEAKING </strong></span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Chuẩn bị câu trả lời cho các câu hỏi sau</strong>.</span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span><span style=\"color: #c0392b;\"><strong>YÊU CẦU: <span style=\"color: #000000;\">áp</span></strong><span style=\"color: #000000;\"><strong> dụng các từ vựng chủ đề Sports trong file gợi ý sau: </strong></span></span><span style=\"color: #c0392b;\"> <a href=\"https://claude.ai/public/artifacts/a751213f-0957-42a3-978c-bba2007e2bc5\">GỢI Ý</a></span></span></span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">- Do you like sports? Why / Why not?</span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">- How often do you play sports?</span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">- Do you prefer playing sports or watching sports?</span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">- Why do people play sports?</span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">- Do you prefer individual sports or team sports?</span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">- What sports are popular in your country?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Sau khi chuẩn bị câu trả lời, luyện nói và QUAY VIDEO trả lời câu hỏi.</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background: white;\">Bước 1:</span></strong><span style=\"color: #242938; background: white;\"> Chọn <strong>Lesson 3</strong> trong link luyện tập sau:<strong> <a href=\"https://claude.ai/public/artifacts/62192f45-bd29-4ce1-9a79-35f4f0dc4755\">Link</a> </strong> </span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background: white;\">Bước 2:</span></strong><span style=\"color: #242938; background: white;\"> Quay video bằng điện thoại hoặc record màn hình Zoom, <strong>nhìn thẳng vào cam khi nói, tuyệt đối không đọc script </strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background: white;\">Bước 3:</span></strong><span style=\"color: #242938; background: white;\"> Bấm \"Câu tiếp theo\" để nghe câu hỏi và trả lời ngay </span></span></p>\n<p style=\"background: white;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938;\">Bước 4:</span></strong><span style=\"color: #242938;\"> Up recording từ Zoom/ Video quay từ điện thoại lên Drive/ Youtube</span></span></p>\n<p style=\"background: white;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938;\">Bước 5:</span></strong><span style=\"color: #242938;\"> Dán link video vào ô nộp bài, mở quyền truy cập để GV xem và đánh giá</span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Sau khi GV feedback thì luyện nói lại để thực hành thêm vào đầu giờ buổi tiếp theo và trong các buổi phụ đạo.</strong></span></p>\n<p style=\"font-size: 16px; box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; background-color: #ffffff; text-align: justify; line-height: 2;\"> </p>",
+          "index": 1,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 42402,
+          "id": 421802,
+          "name": null,
+          "title": "LISTENING",
+          "content": null,
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>1. </strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>What kind of sports do you like?</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I prefer sports that involve <span style=\"color: #000000;\">movement</span> and strategy such as <span style=\"color: #ba372a;\"><strong>swimming</strong></span> or team sports. These activities challenge both the<span style=\"color: #ba372a;\"><strong> body </strong></span>and the <span style=\"color: #ba372a;\"><strong>mind</strong></span> which makes them more engaging for me.</span></p>\n<p data-start=\"69\" data-end=\"139\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>(<strong>Bạn thích loại thể thao nào?</strong></em></span></p>\n<p data-start=\"141\" data-end=\"354\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Tôi thích những môn thể thao có sự vận động và chiến thuật như bơi lội hoặc các môn thể thao đồng đội. Những hoạt động này thử thách cả cơ thể lẫn trí óc, khiến chúng trở nên hấp dẫn hơn đối với tôi.)</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>2. </strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Do you still play sports now?</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Not as <span style=\"color: #ba372a;\"><span style=\"color: #000000;\">regularly</span><strong> </strong></span>as before, but I still try to stay<span style=\"color: #000000;\"> active.</span> Due to a busy <strong><span style=\"color: #ba372a;\">schedule</span></strong>, I focus more on individual activities like<span style=\"color: #ba372a;\"><strong> jogging</strong></span> or home <span style=\"color: #ba372a;\"><strong>workouts </strong></span>rather than organized sports.</span></p>\n<p data-start=\"361\" data-end=\"437\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><em>(Hiện tại bạn còn chơi thể thao không?</em></strong></span></p>\n<p data-start=\"439\" data-end=\"674\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Không thường xuyên như trước, nhưng tôi vẫn cố gắng duy trì vận động. Do lịch trình bận rộn, tôi tập trung nhiều hơn vào các hoạt động cá nhân như chạy bộ hoặc các bài tập tại nhà thay vì chơi các môn thể thao có tổ chức.)</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>3. </strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Do you prefer team sports or individual sports?</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I prefer <span style=\"color: #ba372a;\"><strong>individual</strong></span> sports because they allow me to <span style=\"color: #ba372a;\"><strong>focus</strong></span> on personal improvement and flexibility. However, I also appreciate team sports for their <span style=\"color: #ba372a;\"><strong>social </strong></span>and cooperative aspects.</span></p>\n<p data-start=\"681\" data-end=\"778\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>(<em>Bạn thích thể thao đồng đội hay cá nhân?</em></strong></span></p>\n<p data-start=\"780\" data-end=\"1004\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Tôi thích các môn thể thao cá nhân vì chúng cho phép tôi tập trung vào việc cải thiện bản thân và linh hoạt hơn. Tuy nhiên, tôi cũng đánh giá cao thể thao đồng đội vì tính xã hội và tinh thần hợp tác của chúng</em>.)</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">4. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Do you prefer watching sports or playing sports?</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I prefer playing sports because it allows me to be <span style=\"color: #ba372a;\"><strong>active</strong></span> and involved. Watching sports is entertaining, but <span style=\"color: #ba372a;\"><strong>participating</strong></span> provides greater physical and mental<span style=\"color: #ba372a;\"><strong> benefits</strong></span>.</span></p>\n<p data-start=\"1011\" data-end=\"1110\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em><strong>(Bạn thích xem thể thao hay chơi thể thao?</strong></em></span></p>\n<p data-start=\"1112\" data-end=\"1299\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Tôi thích chơi thể thao hơn vì nó giúp tôi năng động và tham gia trực tiếp. Xem thể thao thì thú vị, nhưng việc tham gia mang lại nhiều lợi ích về thể chất và tinh thần hơn.)</em></span></p>",
+          "introduction": "<p style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-weight: bolder; color: #ba372a; font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box;\">Exercise 1</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif;\"><strong>Listen and fill in the gaps with ONE WORDS. </strong><em>(Nghe và điền vào chỗ trống với 1 TỪ.)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 102487,
+              "content": "<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>1. </strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>What kind of sports do you like?</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I prefer sports that involve <span style=\"color: #000000;\">movement</span> and strategy such as <span style=\"color: #ba372a;\"><strong>[input_0]</strong></span> or team sports. These activities challenge both the<span style=\"color: #ba372a;\"><strong> [input_1] </strong></span>and the <span style=\"color: #ba372a;\"><strong>[input_2]</strong></span> which makes them more engaging for me.</span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>2. </strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Do you still play sports now?</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Not as <span style=\"color: #ba372a;\"><span style=\"color: #000000;\">regularly</span><strong> </strong></span>as before, but I still try to stay<span style=\"color: #000000;\"> active.</span> Due to a busy <span style=\"color: #000000;\">schedule</span>, I focus more on individual activities like <span style=\"color: #ba372a;\"><strong>[input_3]</strong></span> or home <span style=\"color: #ba372a;\"><strong>[input_4]</strong></span> rather than organized sports.</span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>3. </strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Do you prefer team sports or individual sports?</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I prefer <span style=\"color: #ba372a;\"><strong>[input_5]</strong></span> sports because they allow me to <span style=\"color: #ba372a;\"><strong>[input_6]</strong></span> on personal improvement and flexibility. However, I also appreciate team sports for their <span style=\"color: #ba372a;\"><strong>[input_7] </strong></span>and cooperative aspects.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">4. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Do you prefer watching sports or playing sports?</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I prefer playing sports because it allows me to be <span style=\"color: #ba372a;\"><strong>[input_8]</strong></span> and involved. Watching sports is entertaining, but <span style=\"color: #ba372a;\"><strong><strong>[input_9]</strong></strong></span> provides greater physical and mental<span style=\"color: #ba372a;\"><strong> [input_10]</strong></span>.</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42402,
+          "id": 421803,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Interviewer:</strong>   Hello, and welcome to the show. Today we have Hank Rogers from the new sports centre in the studio. Welcome, Hank.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Hank:</strong>   Thank you for having me!</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Interviewer:</strong>   Hank, tell us a bit about the sports centre. How is the <strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">Bank Sports Centre</span> </strong>different from others?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Hank:</strong>   Well, it’s different and it’s the same! Let me explain. So many favourite sports are there, <span style=\"color: #ba372a; background-color: #fbeeb8;\"><strong>for example, the gym, the swimming pool, classes</strong></span> – but we also want to introduce people to other sports activities.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Interviewer:</strong>   Tell me more!</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Hank:</strong>   Imagine doing yoga in a room where the temperature is a hot 40 degrees. <span style=\"color: #ba372a; background-color: #fbeeb8;\"><strong>That’s called hot yoga</strong></span>! We also have aerial yoga – that is yoga that you do in the air! It’s a lot of fun!</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Interviewer:</strong>   OK, well, that’s good. Now what about team sports – are there any new sports for me?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Hank:</strong>   Well, we’re also able to have an indoor ice rink in winter. <span style=\"color: #ba372a; background-color: #fbeeb8;\"><strong>That’s just great so we can have ice skating or ice hockey for instance.</strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Interviewer:</strong>   Now that sounds great! And in summer?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Hank:</strong>   In the summer we move the roof back so that you can see the sky, and we put sand down!</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Interviewer:</strong>   Oh, wow! That’s amazing!</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Hank:</strong>  <span style=\"background-color: #fbeeb8;\"> <span style=\"color: #ba372a;\"><strong>I know, and we can do beach volleyball!</strong></span></span> We’re really excited about that.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Interviewer:</strong>   And you have an open day soon?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Hank:</strong>   Yes, on Saturday. It’s a day for all the family and it’s free. So everyone will have the opportunity to try out all these new sports and activities. We open at 9 in the morning and will be there until the evening. And we have some free prizes!</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Interviewer:</strong>   That sounds great! So it sounds like a good place …</span></p>\n<p data-start=\"0\" data-end=\"165\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"0\" data-end=\"20\">(Người phỏng vấn:</strong> Xin chào và chào mừng đến với chương trình. Hôm nay chúng tôi có Hank Rogers từ trung tâm thể thao mới trong phòng thu. Chào mừng anh, Hank.</span></em></p>\n<p data-start=\"167\" data-end=\"198\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"167\" data-end=\"176\">Hank:</strong> Cảm ơn vì đã mời tôi!</span></em></p>\n<p data-start=\"200\" data-end=\"342\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"200\" data-end=\"220\">Người phỏng vấn:</strong> Hank, hãy kể cho chúng tôi một chút về trung tâm thể thao này. <span style=\"background-color: #fbeeb8; color: #e03e2d;\"><strong>Trung tâm Thể thao Bank</strong></span> khác gì so với những nơi khác?</span></em></p>\n<p data-start=\"344\" data-end=\"588\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"344\" data-end=\"353\">Hank:</strong> Ừm, nó vừa khác mà cũng vừa giống! Để tôi giải thích nhé. Ở đây có rất nhiều<strong> </strong>môn thể thao quen thuộc, <span style=\"background-color: #fbeeb8; color: #e03e2d;\"><strong>ví dụ như phòng gym, bể bơi, các lớp học </strong></span>– nhưng chúng tôi cũng muốn giới thiệu cho mọi người những hoạt động thể thao khác.</span></em></p>\n<p data-start=\"590\" data-end=\"627\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"590\" data-end=\"610\">Người phỏng vấn:</strong> Hãy nói thêm đi!</span></em></p>\n<p data-start=\"629\" data-end=\"840\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"629\" data-end=\"638\">Hank:</strong> Hãy tưởng tượng bạn tập yoga trong một căn phòng mà nhiệt độ lên tới 40 độ C. <span style=\"background-color: #fbeeb8; color: #e03e2d;\"><strong>Đó gọi là hot yoga!</strong></span> Chúng tôi cũng có aerial yoga – tức là yoga mà bạn tập trên không trung! Nó rất thú vị!</span></em></p>\n<p data-start=\"842\" data-end=\"950\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"842\" data-end=\"862\">Người phỏng vấn:</strong> Được đấy. Thế còn các môn thể thao đồng đội thì sao – có môn mới nào cho tôi không?</span></em></p>\n<p data-start=\"952\" data-end=\"1120\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"952\" data-end=\"961\">Hank:</strong> À, vào mùa đông chúng tôi còn có<strong> </strong>sân băng trong nhà. <span style=\"background-color: #fbeeb8; color: #e03e2d;\"><strong>Điều đó rất tuyệt vì chúng tôi có thể trượt băng hoặc chơi khúc côn cầu trên băng, chẳng hạn</strong></span>.</span></em></p>\n<p data-start=\"1122\" data-end=\"1187\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1122\" data-end=\"1142\">Người phỏng vấn:</strong> Nghe tuyệt thật! Thế còn mùa hè thì sao?</span></em></p>\n<p data-start=\"1189\" data-end=\"1304\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1189\" data-end=\"1198\">Hank:</strong> Vào mùa hè, chúng tôi mở mái nhà ra để bạn có thể nhìn thấy bầu trời, và chúng tôi rải cát xuống!</span></em></p>\n<p data-start=\"1306\" data-end=\"1345\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1306\" data-end=\"1326\">Người phỏng vấn:</strong> Ồ, thật tuyệt vời!</span></em></p>\n<p data-start=\"1347\" data-end=\"1467\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1347\" data-end=\"1356\">Hank:</strong> <span style=\"background-color: #fbeeb8; color: #e03e2d;\"><strong>Tôi biết mà, và chúng tôi có thể chơi bóng chuyền bãi biển! </strong></span>Chúng tôi thực sự rất hào hứng về điều đó.</span></em></p>\n<p data-start=\"1469\" data-end=\"1563\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1469\" data-end=\"1489\">Người phỏng vấn:</strong> Và sắp tới các bạn có ngày mở cửa cho mọi người tham quan đúng không?</span></em></p>\n<p data-start=\"1565\" data-end=\"1881\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1565\" data-end=\"1574\">Hank:</strong> Đúng vậy, vào thứ Bảy. Đó là một ngày dành cho cả gia đình và hoàn toàn miễn phí. Vì vậy mọi người sẽ có cơ hội thử tất cả những môn thể thao và hoạt động mới này. Chúng tôi mở cửa lúc 9 giờ sáng và sẽ hoạt động đến buổi tối. Và chúng tôi còn có một số phần thưởng miễn phí nữa!</span></em></p>\n<p data-start=\"1883\" data-end=\"1981\" data-is-last-node=\"\" data-is-only-node=\"\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1883\" data-end=\"1903\">Người phỏng vấn:</strong> Nghe thật tuyệt! Có vẻ như đây là một nơi rất đáng để…)</span></em></p>",
+          "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #ba372a;\"><strong>Exercise 2<br /></strong></span><span style=\"font-size: 12pt;\"><strong>Listen to the radio podcast and complete the information with ONE WORD. </strong><em>(Hãy nghe podcast trên radio và hoàn thành thông tin với 1 từ.) </em></span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 102488,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">1. Name of sports centre: [input_0] Sports Centre</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">2. Popular activities: swimming, classes and [input_1]</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">3. Two types of yoga: [input_2] yoga and yoga in the air</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">4. New winter sports: ice [input_3] and ice hockey</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">5. New summer sport: beach [input_4]</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42402,
+          "id": 421804,
+          "name": null,
+          "title": "NEW WORDS/ PHRASES + GOOD STRUCTURES/ SENTENCES",
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Complete the following vocabulary table. </strong><em>(Hoàn thiện bảng từ vựng sau.)</em></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 102489,
+              "content": "<table style=\"border-collapse: collapse; width: 100%; height: 297.526px;\" cellspacing=\"2\" cellpadding=\"5\">\n<thead>\n<tr style=\"height: 25.6641px;\">\n<th style=\"text-align: center; width: 42.411%; height: 25.6641px; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Sentences</span></th>\n<th style=\"text-align: center; width: 30.9589%; height: 25.6641px; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Useful words/ phrases</span></th>\n<th style=\"text-align: center; width: 26.6301%; height: 25.6641px; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Meaning (in English/ Vietnamese)</span></th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"height: 46.4974px;\">\n<td style=\"height: 46.4974px; width: 42.411%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">\"<span style=\"color: #242938; background-color: #ffffff;\">I have just <span style=\"color: #ba372a; background-color: #fbeeb8;\"><strong>signed up for</strong></span> the gym and I'm going to exercise every day.\"</span></span></td>\n<td style=\"width: 30.9589%; height: 46.4974px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">sign up for </span></td>\n<td style=\"width: 26.6301%; height: 46.4974px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[input_0]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 42.411%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">\"Some people <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>tend to</strong></span> be too lazy to do exercise in their daily lives …\"</span></td>\n<td style=\"width: 30.9589%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">tend to V </span></td>\n<td style=\"width: 26.6301%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[input_1]</span></td>\n</tr>\n<tr style=\"height: 32.8646px;\">\n<td style=\"width: 42.411%; height: 32.8646px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">\"It creates <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>a sense of motivation</strong></span> and makes people feel less bored.\"</span></td>\n<td style=\"width: 30.9589%; height: 32.8646px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">a sense of motivation </span></td>\n<td style=\"width: 26.6301%; height: 32.8646px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[input_2]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 42.411%; height: 24.0625px;\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif;\">\"I still try to <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>stay activ</strong><strong>e.</strong></span>\"</span></td>\n<td style=\"width: 30.9589%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">stay active </span></td>\n<td style=\"width: 26.6301%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[input_3]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"height: 48.125px; width: 42.411%;\" rowspan=\"2\"><span style=\"font-family: arial, helvetica, sans-serif;\">\"I <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>focus more on</strong></span> individual activities like jogging or home workouts rather than <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>organized sports</strong></span>.\"</span></td>\n<td style=\"width: 30.9589%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">focus on </span></td>\n<td style=\"width: 26.6301%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[input_4]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 30.9589%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">organized sports</span></td>\n<td style=\"width: 26.6301%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[input_5]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 42.411%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">\"I prefer playing sports because it allows me to be<span style=\"color: #000000;\"> active</span> and<span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong> involved.</strong></span>\"</span></td>\n<td style=\"width: 30.9589%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">involved (adj)</span></td>\n<td style=\"width: 26.6301%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[input_6]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 42.411%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">\"They allow me to focus on personal improvement and <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>flexibility.</strong></span>\"</span></td>\n<td style=\"width: 30.9589%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">flexibility (n)</span></td>\n<td style=\"width: 26.6301%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[input_7]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 42.411%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">\"I also <strong><span style=\"background-color: #fbeeb8; color: #ba372a;\">appreciate</span></strong> team sports for their <span style=\"color: #000000; background-color: #ffffff;\">cooperative </span>aspects\"</span></td>\n<td style=\"width: 30.9589%; height: 24.0625px;\"><span style=\"color: #000000;\">appreciate (v)</span></td>\n<td style=\"width: 26.6301%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[input_8]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 42.411%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">\"So everyone will have the opportunity to <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>try out</strong></span> all these new sports and activities.\"</span></td>\n<td style=\"width: 30.9589%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">try out</span></td>\n<td style=\"width: 26.6301%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[input_9]</span></td>\n</tr>\n</tbody>\n</table>\n<p style=\"line-height: 1.5;\"> </p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42402,
+          "id": 421805,
+          "name": null,
+          "title": "SPEAKING",
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Nộp link video trả lời các câu hỏi speaking (có mở quyền truy cập)</strong></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

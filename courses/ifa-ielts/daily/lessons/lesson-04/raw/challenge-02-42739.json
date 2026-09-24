@@ -1,0 +1,958 @@
+{
+  "listItem": {
+    "id": "93410",
+    "challenge_id": 42739,
+    "class_id": "17854888961d6295u45597",
+    "day": 7,
+    "deadline": "2026-09-20 22:02:00",
+    "challenge_title": "[IELTS FOUNDATION A] - Lesson 4 - Challenge 2",
+    "challenge_note": "Grammar (Past simple + Present Perfect) - Vocabulary: Education - Speaking: Learning - Cập nhật  07/2026",
+    "challenge_status": 1,
+    "challenge_band": "1614338637844l3v19753u",
+    "total_question": 46,
+    "classification": "dc"
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "93410",
+        "challenge_id": 42739,
+        "class_id": "17854888961d6295u45597",
+        "day": 7,
+        "deadline": "2026-09-20 22:02:00",
+        "flag_status_mark": 0,
+        "flag_not_submit": 1,
+        "created": "2026-09-18 22:02:36",
+        "created_by": null,
+        "challenge": {
+          "id": "42739",
+          "title": "[IELTS FOUNDATION A] - Lesson 4 - Challenge 2",
+          "note": "Grammar (Past simple + Present Perfect) - Vocabulary: Education - Speaking: Learning - Cập nhật  07/2026",
+          "day": "7",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "1614338637844l3v19753u",
+          "created": "2026-09-18 22:02:35",
+          "updated": null,
+          "created_by": "932ca35d-1c19-425e-a76f-90a036b47691",
+          "updated_by": null,
+          "total_question": 46,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 16762
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 646603,
+        "class_challenge_id": 93410,
+        "class_id": "17854888961d6295u45597",
+        "challenge_id": 42739,
+        "cts_id": "1787535458idhr0hjlmnp5",
+        "rate": 0,
+        "comment": null,
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": null,
+        "status_mark_date": null,
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": "1779875378vawpfok6ii4u",
+        "updated": "2026-09-20 17:05:57",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-09-20 17:00:38",
+        "correct_answer": 46,
+        "marked_by": null,
+        "submitted_at": "2026-09-20 17:00:38",
+        "re_submitted_at": null,
+        "answers": {
+          "426029": {
+            "total_question": 5,
+            "total_correct_result_answer": 5,
+            "user_answer": {
+              "input_0": "have studied",
+              "input_1": "showed",
+              "input_2": "hasn't finished",
+              "input_3": "has improved",
+              "input_4": "joined"
+            },
+            "correct_answer": {
+              "input_0": [
+                "have studied",
+                "'ve studied"
+              ],
+              "input_1": [
+                "showed"
+              ],
+              "input_2": [
+                "has not finished",
+                "hasn't finished"
+              ],
+              "input_3": [
+                "has improved",
+                "'s improved"
+              ],
+              "input_4": [
+                "joined"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 426029,
+            "challenge_id": 42739
+          },
+          "426030": {
+            "total_question": 7,
+            "total_correct_result_answer": 7,
+            "user_answer": {
+              "input_0": "yet",
+              "input_1": "for",
+              "input_2": "ever",
+              "input_3": "already",
+              "input_4": "since",
+              "input_5": "just",
+              "input_6": "never"
+            },
+            "correct_answer": {
+              "input_0": [
+                "yet"
+              ],
+              "input_1": [
+                "for"
+              ],
+              "input_2": [
+                "ever"
+              ],
+              "input_3": [
+                "already"
+              ],
+              "input_4": [
+                "since"
+              ],
+              "input_5": [
+                "just"
+              ],
+              "input_6": [
+                "never"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 426030,
+            "challenge_id": 42739
+          },
+          "426031": {
+            "total_question": 10,
+            "total_correct_result_answer": 10,
+            "user_answer": {
+              "input_0": "enjoy",
+              "input_1": "plays",
+              "input_2": "didn't like",
+              "input_3": "were",
+              "input_4": "have changed",
+              "input_5": "have become",
+              "input_6": "have tried",
+              "input_7": "am preparing",
+              "input_8": "spend",
+              "input_9": "is"
+            },
+            "correct_answer": {
+              "input_0": [
+                "enjoy"
+              ],
+              "input_1": [
+                "plays"
+              ],
+              "input_2": [
+                "didn't like"
+              ],
+              "input_3": [
+                "were"
+              ],
+              "input_4": [
+                "have changed"
+              ],
+              "input_5": [
+                "have become"
+              ],
+              "input_6": [
+                "have tried"
+              ],
+              "input_7": [
+                "am preparing"
+              ],
+              "input_8": [
+                "spend"
+              ],
+              "input_9": [
+                "is"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 426031,
+            "challenge_id": 42739
+          },
+          "426032": {
+            "total_question": 10,
+            "total_correct_result_answer": 10,
+            "user_answer": {
+              "input_0": "listen",
+              "input_1": "take",
+              "input_2": "work",
+              "input_3": "didn't participate",
+              "input_4": "has improved",
+              "input_5": "have become",
+              "input_6": "has given",
+              "input_7": "spend",
+              "input_8": "are preparing",
+              "input_9": "have learnt"
+            },
+            "correct_answer": {
+              "input_0": [
+                "listen"
+              ],
+              "input_1": [
+                "take"
+              ],
+              "input_2": [
+                "work"
+              ],
+              "input_3": [
+                "didn't participate"
+              ],
+              "input_4": [
+                "has improved"
+              ],
+              "input_5": [
+                "have become"
+              ],
+              "input_6": [
+                "has given"
+              ],
+              "input_7": [
+                "spend"
+              ],
+              "input_8": [
+                "are preparing"
+              ],
+              "input_9": [
+                "have learned",
+                "have learnt"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 426032,
+            "challenge_id": 42739
+          },
+          "426034": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 900604,
+            "correct_answer": 900604,
+            "result_answer": {
+              "900604": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 426034,
+            "challenge_id": 42739
+          },
+          "426036": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 900611,
+            "correct_answer": 900611,
+            "result_answer": {
+              "900611": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 426036,
+            "challenge_id": 42739
+          },
+          "426038": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 900619,
+            "correct_answer": 900619,
+            "result_answer": {
+              "900619": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 426038,
+            "challenge_id": 42739
+          },
+          "426039": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 900621,
+            "correct_answer": 900621,
+            "result_answer": {
+              "900621": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 426039,
+            "challenge_id": 42739
+          },
+          "426040": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 900622,
+            "correct_answer": 900622,
+            "result_answer": {
+              "900622": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 426040,
+            "challenge_id": 42739
+          },
+          "426042": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 900628,
+            "correct_answer": 900628,
+            "result_answer": {
+              "900628": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 426042,
+            "challenge_id": 42739
+          },
+          "426044": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 900635,
+            "correct_answer": 900635,
+            "result_answer": {
+              "900635": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 426044,
+            "challenge_id": 42739
+          },
+          "426046": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 900640,
+            "correct_answer": 900640,
+            "result_answer": {
+              "900640": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 426046,
+            "challenge_id": 42739
+          },
+          "426049": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": {
+              "input_0": "concentrate more on practical skills"
+            },
+            "correct_answer": {
+              "input_0": [
+                "concentrate more on practical skills"
+              ]
+            },
+            "result_answer": {
+              "input_0": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 426049,
+            "challenge_id": 42739
+          },
+          "426050": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": {
+              "input_0": "participate in"
+            },
+            "correct_answer": {
+              "input_0": [
+                "participate in"
+              ]
+            },
+            "result_answer": {
+              "input_0": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 426050,
+            "challenge_id": 42739
+          },
+          "426051": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": {
+              "input_0": "enable students to improve"
+            },
+            "correct_answer": {
+              "input_0": [
+                "enable students to improve"
+              ]
+            },
+            "result_answer": {
+              "input_0": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 426051,
+            "challenge_id": 42739
+          },
+          "426052": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": {
+              "input_0": "allows students to develop"
+            },
+            "correct_answer": {
+              "input_0": [
+                "allows students to develop"
+              ]
+            },
+            "result_answer": {
+              "input_0": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 426052,
+            "challenge_id": 42739
+          },
+          "426054": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": {
+              "input_0": "rely too much on learning"
+            },
+            "correct_answer": {
+              "input_0": [
+                "rely too much on learning"
+              ]
+            },
+            "result_answer": {
+              "input_0": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 426054,
+            "challenge_id": 42739
+          },
+          "426055": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "https://drive.google.com/file/d/1KL5Wg8nIoPcR_2oc3I-p5CZcsS8j-y_3/view?usp=drive_link",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 426055,
+            "challenge_id": 42739
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 114538,
+          "content": "<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff; text-align: justify; line-height: 2;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 18pt;\"><strong><span style=\"box-sizing: border-box; color: #ffffff; background-color: #ba372a;\"> GRAMMAR </span></strong><span style=\"box-sizing: border-box; color: #e03e2d;\"> </span></span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff; text-align: justify; line-height: 2;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"box-sizing: border-box; color: #000000;\">PRACTICE</span></strong></span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff; text-align: justify; line-height: 2;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 18pt;\"><strong><span style=\"box-sizing: border-box; color: #000000;\"><span style=\"color: #ffffff; background-color: #ba372a;\"> VOCABULARY </span><span style=\"color: #e03e2d;\"> </span></span></strong></span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff; text-align: justify; line-height: 2;\"><span style=\"font-size: 18pt; font-family: arial, helvetica, sans-serif;\"><strong><span style=\"box-sizing: border-box; color: #000000;\"><span style=\"color: #ffffff; background-color: #ba372a;\"> SPEAKING </span></span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Chuẩn bị câu trả lời cho các câu hỏi sau.</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #ba372a;\">YÊU CẦU:</span> áp dụng các từ vựng chủ đề Learning, cấu trúc ngữ pháp đã học từ Lesson 1 đến Lesson 4 trong file gợi ý sau: <a href=\"https://claude.ai/public/artifacts/e95b26ac-01a4-4c0f-89d9-f4c8eed4cc01\">GỢI Ý</a></strong></span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"color: #c0392b; font-family: arial, helvetica, sans-serif;\"><strong><em>If you are a high school student:</em></strong></span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">1. What is your favourite subject at school? Is it difficult to study?</span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">2. Will you continue studying after finishing high school? </span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">     If yes, what university do you want to go to?</span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">     If no, what will you do after leaving your school?</span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">3. Do you think that you're a good student?</span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">4. Do you like studying/ your school? Why / why not?</span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">5. Do you prefer to study alone or with others? Why?</span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">6. What do you usually do in a class at high school?</span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #c0392b;\"><em>If you are a university student:</em></span></strong></span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">1. What are you studying at university? Why did you choose that major?</span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">2. What part of university life do you like best?</span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">3. What do you usually do in a class at university?</span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">4. Do you like studying? Why / why not?</span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"color: #c0392b; font-family: arial, helvetica, sans-serif;\"><strong><em>If you are working:</em></strong></span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">1. Why do you want to study English? </span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">2. Were you a good student in high school?</span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">3. What was your major at university? </span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">4. Which do you prefer, studying or working?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Sau khi chuẩn bị câu trả lời, luyện nói và QUAY VIDEO trả lời câu hỏi.</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background: white;\">Bước 1:</span></strong><span style=\"color: #242938; background: white;\"> Chọn <strong>Lesson 4</strong> trong link luyện tập sau:<strong> <a href=\"https://claude.ai/public/artifacts/62192f45-bd29-4ce1-9a79-35f4f0dc4755\">Link</a> </strong> </span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background: white;\">Bước 2:</span></strong><span style=\"color: #242938; background: white;\"> Quay video bằng điện thoại hoặc record màn hình Zoom, <strong>nhìn thẳng vào cam khi nói, tuyệt đối không đọc script </strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background: white;\">Bước 3:</span></strong><span style=\"color: #242938; background: white;\"> Bấm \"Câu tiếp theo\" để nghe câu hỏi và trả lời ngay </span></span></p>\n<p style=\"background: white;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938;\">Bước 4:</span></strong><span style=\"color: #242938;\"> Up recording từ Zoom/ Video quay từ điện thoại lên Drive/ Youtube</span></span></p>\n<p style=\"background: white;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938;\">Bước 5:</span></strong><span style=\"color: #242938;\"> Dán link video vào ô nộp bài, mở quyền truy cập để GV xem và đánh giá</span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Sau khi GV feedback thì luyện nói lại để thực hành thêm vào đầu giờ buổi tiếp theo và trong các buổi phụ đạo.</strong></span></p>\n<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important; text-align: justify; line-height: 2;\"> </p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 42739,
+          "id": 426029,
+          "name": null,
+          "title": "GRAMMAR",
+          "content": null,
+          "explain": "<div>\n<article tabindex=\"-1\" data-turn-id=\"request-WEB:d13f6128-eb0f-41e1-ad24-daad57809b73-63\" data-testid=\"conversation-turn-40\" data-scroll-anchor=\"true\" data-turn=\"assistant\">\n<div>\n<div tabindex=\"-1\">\n<div>\n<div data-message-author-role=\"assistant\" data-message-id=\"a18abf16-627c-46fd-bfc8-c1898c388e9b\" data-message-model-slug=\"gpt-5-3\">\n<div>\n<div>\n<p data-start=\"24\" data-end=\"431\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"24\" data-end=\"57\">1. <span style=\"color: #ba372a;\">have studied / ’ve studied</span></strong></span><br data-start=\"57\" data-end=\"60\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu này nói về một việc bắt đầu trong quá khứ và vẫn liên quan đến hiện tại (now - tính đến bây giờ). Vì vậy dùng <strong data-start=\"185\" data-end=\"204\">present perfect</strong>.</span><br data-start=\"205\" data-end=\"208\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"218\" data-end=\"235\">have/has + V3</strong>. Chủ ngữ <strong data-start=\"245\" data-end=\"250\">I</strong> → dùng <strong data-start=\"258\" data-end=\"272\">have / ’ve</strong>.</span><br data-start=\"273\" data-end=\"276\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"284\" data-end=\"293\">study</strong> là <strong data-start=\"297\" data-end=\"319\" data-is-only-node=\"\">động từ có quy tắc</strong> → thêm <strong data-start=\"327\" data-end=\"334\">-ed</strong> → <strong data-start=\"337\" data-end=\"353\">studied (V3)</strong>.</span><br data-start=\"354\" data-end=\"357\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→<span style=\"color: #ba372a;\"> I <strong data-start=\"361\" data-end=\"391\">have studied / ’ve studied</strong> Biology for three years now. <em><span style=\"color: #000000;\">(Tính đến nay, tôi đã học Sinh học được ba năm.)</span></em></span></span></p>\n<p data-start=\"433\" data-end=\"847\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"433\" data-end=\"460\">2. <span style=\"color: #ba372a;\">showed</span></strong></span><br data-start=\"460\" data-end=\"463\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu nói về những điều giáo viên đã cho học sinh xem các tài liệu thú vị trong tiết học trước (<strong>last lesson</strong>), nên dùng <strong data-start=\"542\" data-end=\"561\">past simple</strong>.</span><br data-start=\"562\" data-end=\"565\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"575\" data-end=\"592\">S + V2/Ved</strong>. </span><br data-start=\"665\" data-end=\"668\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"676\" data-end=\"684\">show</strong> là <strong data-start=\"688\" data-end=\"711\" data-is-only-node=\"\">động từ bất quy tắc</strong>: show – showed – shown (V3).</span><br data-start=\"744\" data-end=\"747\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">My history teacher <strong data-start=\"768\" data-end=\"792\">showed</strong> us many interesting documentaries about world history last lesson. <span style=\"color: #000000;\"><em>(Giáo viên Lịch sử của tôi đã cho chúng tôi xem nhiều phim tài liệu thú vị về lịch sử thế giới trong tiết học trước.)</em></span></span></span></p>\n<p data-start=\"849\" data-end=\"1214\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"849\" data-end=\"890\">3. <span style=\"color: #ba372a;\">has not finished / hasn’t finished</span></strong></span><br data-start=\"890\" data-end=\"893\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu có <strong data-start=\"900\" data-end=\"907\">yet</strong>, thường dùng với <strong data-start=\"925\" data-end=\"953\">present perfect phủ định</strong> để nói một việc <strong data-start=\"970\" data-end=\"1001\">chưa xảy ra cho đến bây giờ</strong>.</span><br data-start=\"1002\" data-end=\"1005\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"1015\" data-end=\"1042\">have/has not + V3 + yet</strong>. Chủ ngữ <strong data-start=\"1052\" data-end=\"1061\">Emily</strong> → dùng <strong data-start=\"1069\" data-end=\"1089\">has not / hasn’t</strong>.</span><br data-start=\"1090\" data-end=\"1093\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"1101\" data-end=\"1111\">finish</strong> là <strong data-start=\"1115\" data-end=\"1137\">động từ có quy tắc</strong> → <strong data-start=\"1140\" data-end=\"1157\">finished (V3)</strong>.</span><br data-start=\"1158\" data-end=\"1161\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">Emily <strong data-start=\"1169\" data-end=\"1188\">hasn’t finished</strong> her Maths assignment yet. <em><span style=\"color: #000000;\">(Emily vẫn chưa làm xong bài tập Toán.)</span></em></span></span></p>\n<p data-start=\"1216\" data-end=\"1565\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1216\" data-end=\"1249\">4. <span style=\"color: #ba372a;\">has improved / ’s improved</span></strong></span><br data-start=\"1249\" data-end=\"1252\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu nói về <strong data-start=\"1263\" data-end=\"1292\">sự tiến bộ theo thời gian</strong>, nên dùng <strong data-start=\"1303\" data-end=\"1322\">present perfect</strong>.</span><br data-start=\"1323\" data-end=\"1326\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"1336\" data-end=\"1353\">have/has + V3</strong>. Chủ ngữ <strong data-start=\"1363\" data-end=\"1373\">Daniel</strong> → ngôi thứ ba số ít → dùng <strong data-start=\"1401\" data-end=\"1413\">has / ’s</strong>.</span><br data-start=\"1414\" data-end=\"1417\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"1425\" data-end=\"1436\" data-is-only-node=\"\">improve</strong> là <strong data-start=\"1440\" data-end=\"1462\">động từ có quy tắc</strong> → <strong data-start=\"1465\" data-end=\"1482\">improved (V3)</strong>.</span><br data-start=\"1483\" data-end=\"1486\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">Daniel <strong data-start=\"1495\" data-end=\"1525\">has improved / ’s improved</strong> his Physics grades a lot this semester.<span style=\"color: #000000;\"> <em data-start=\"1507\" data-end=\"1574\">(Điểm Vật lý của Daniel đã cải thiện rất nhiều trong học kỳ này.)</em></span></span></span></p>\n<p data-start=\"1567\" data-end=\"1916\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1567\" data-end=\"1596\">5. <span style=\"color: #ba372a;\">joined</span></strong></span><br data-start=\"1596\" data-end=\"1599\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu nói về một việc đã xảy ra trong quá khứ - 2 năm trước <strong>(2 years ago)</strong>. Vì vậy dùng <strong data-start=\"1689\" data-end=\"1708\">past simple</strong>.</span><br data-start=\"1709\" data-end=\"1712\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"575\" data-end=\"592\">S + V2/Ved</strong>. </span><br data-start=\"1780\" data-end=\"1783\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"1791\" data-end=\"1799\">join</strong> là <strong data-start=\"1803\" data-end=\"1825\" data-is-only-node=\"\">động từ có quy tắc</strong> → <strong data-start=\"1828\" data-end=\"1843\">joined</strong>.</span><br data-start=\"1844\" data-end=\"1847\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">Olivia <strong data-start=\"1856\" data-end=\"1882\">joined</strong> the school debate club 2 years ago. <span style=\"color: #000000;\"><em>(Olivia đã tham gia câu lạc bộ tranh biện của trường 2 năm trước.)</em></span></span></span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</article>\n</div>",
+          "introduction": "<p style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff; line-height: 2;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box;\">A. Complete the sentences with the correct Past Simple or Present Perfect Simple form of the verbs in brackets.</span> </span><span style=\"box-sizing: border-box;\"><em style=\"box-sizing: border-box;\">(Hoàn thành các câu với dạng đúng của động từ trong ngoặc ở thì Quá khứ đơn hoặc Hiện tại hoàn thành.) </em></span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 103527,
+              "content": "<ol>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">I [input_0] Biology for three years now. (study)</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">My history teacher [input_1] us many interesting documentaries about world history last lesson. (show)</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Emily [input_2] her Maths assignment yet. (not / finish)</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Daniel [input_3] his Physics grades a lot this semester. (improve)</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Olivia [input_4] the school club 2 years ago. (join)</span></li>\n</ol>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42739,
+          "id": 426030,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": "<p data-start=\"24\" data-end=\"362\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"24\" data-end=\"34\">1. <span style=\"color: #ba372a;\">yet</span></strong></span><br data-start=\"34\" data-end=\"37\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Từ <strong data-start=\"40\" data-end=\"47\">yet</strong> thường dùng trong <strong data-start=\"66\" data-end=\"94\">present perfect phủ định</strong> để nói rằng một việc <strong data-start=\"116\" data-end=\"147\">chưa xảy ra cho đến bây giờ</strong>.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc thường gặp: <strong data-start=\"170\" data-end=\"197\">have/has not + V3 + yet</strong>.</span><br data-start=\"198\" data-end=\"201\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">Selena <strong data-start=\"210\" data-end=\"228\">hasn’t decided</strong> her major <strong data-start=\"239\" data-end=\"246\">yet</strong>. She’s still thinking about what she wants to study at university.<em> </em></span><em>(Selena vẫn chưa quyết định ngành học của mình. Cô ấy vẫn đang suy nghĩ về việc mình muốn học ngành gì ở đại học.)</em></span></p>\n<p data-start=\"364\" data-end=\"632\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"364\" data-end=\"374\">2.<span style=\"color: #ba372a;\"> for</span></strong></span><br data-start=\"374\" data-end=\"377\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"377\" data-end=\"384\">For</strong> dùng để nói về <strong data-start=\"400\" data-end=\"420\">khoảng thời gian</strong> một hành động đã kéo dài.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"457\" data-end=\"499\">have/has + V3 + for + khoảng thời gian</strong>.</span><br data-start=\"500\" data-end=\"503\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→<span style=\"color: #ba372a;\"> I’ve studied Korean <strong data-start=\"525\" data-end=\"532\">for</strong> many years, but I still want to improve my speaking skills.</span> <em>(Tôi đã học tiếng Hàn trong nhiều năm.)</em></span></p>\n<p data-start=\"634\" data-end=\"901\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"634\" data-end=\"645\">3. <span style=\"color: #ba372a;\">ever</span></strong></span><br data-start=\"645\" data-end=\"648\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"648\" data-end=\"656\">Ever</strong> dùng trong câu hỏi <strong data-start=\"676\" data-end=\"695\">present perfect</strong> để hỏi về <strong data-start=\"706\" data-end=\"736\">trải nghiệm trong cuộc đời</strong>.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"748\" data-end=\"783\">Have/Has + subject + ever + V3?</strong></span><br data-start=\"783\" data-end=\"786\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→<span style=\"color: #ba372a;\"> <strong data-start=\"788\" data-end=\"805\">Have you ever</strong> studied with a teacher from another country?</span> <em>(Bạn đã từng học với giáo viên từ nước khác chưa?)</em></span></p>\n<p data-start=\"903\" data-end=\"1178\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"903\" data-end=\"917\">4. <span style=\"color: #ba372a;\">already</span></strong></span><br data-start=\"917\" data-end=\"920\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"920\" data-end=\"931\">Already</strong> dùng trong <strong data-start=\"943\" data-end=\"962\">present perfect</strong> để nói rằng một việc <strong data-start=\"984\" data-end=\"1014\">đã xảy ra sớm hơn mong đợi</strong>.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"1026\" data-end=\"1053\">have/has + already + V3</strong>.</span><br data-start=\"1054\" data-end=\"1057\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">Charlie <strong data-start=\"1067\" data-end=\"1091\" data-is-only-node=\"\">has already finished</strong> his homework for tomorrow’s class. </span><em>(Charlie đã làm xong bài tập cho lớp ngày mai rồi.)</em></span></p>\n<p data-start=\"1180\" data-end=\"1442\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1180\" data-end=\"1192\">5. <span style=\"color: #ba372a;\">since</span></strong></span><br data-start=\"1192\" data-end=\"1195\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1195\" data-end=\"1204\">Since</strong> dùng để chỉ <strong data-start=\"1217\" data-end=\"1248\">mốc thời gian trong quá khứ</strong> khi hành động bắt đầu.<br />Cấu trúc: <strong data-start=\"1282\" data-end=\"1323\">have/has + V3 + since + mốc thời gian</strong>.</span><br data-start=\"1324\" data-end=\"1327\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">I’ve been interested in English <strong data-start=\"1361\" data-end=\"1370\">since</strong> I was in secondary school. </span><em>(Tôi đã thích tiếng Anh từ khi học cấp hai.)</em></span></p>\n<p data-start=\"1444\" data-end=\"1676\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1444\" data-end=\"1455\">6. <span style=\"color: #ba372a;\">just</span></strong></span><br data-start=\"1455\" data-end=\"1458\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1458\" data-end=\"1466\">Just</strong> dùng trong <strong data-start=\"1478\" data-end=\"1497\">present perfect</strong> để nói một việc <strong data-start=\"1514\" data-end=\"1532\">vừa mới xảy ra</strong>.<br />Cấu trúc: <strong data-start=\"1544\" data-end=\"1568\">have/has + just + V3</strong>.</span><br data-start=\"1569\" data-end=\"1572\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→<span style=\"color: #ba372a;\"> I’ve <strong data-start=\"1579\" data-end=\"1587\" data-is-only-node=\"\">just</strong> finished a group project for one of my classes.</span> <em>(Tôi vừa mới hoàn thành một dự án nhóm.)</em></span></p>\n<p data-start=\"1678\" data-end=\"1991\" data-is-last-node=\"\" data-is-only-node=\"\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1678\" data-end=\"1690\">7. <span style=\"color: #ba372a;\">never</span></strong></span><br data-start=\"1690\" data-end=\"1693\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1693\" data-end=\"1702\">Never</strong> dùng trong <strong data-start=\"1714\" data-end=\"1733\">present perfect</strong> để nói rằng một việc <strong data-start=\"1755\" data-end=\"1790\">chưa từng xảy ra trong cuộc đời</strong>.<br />Cấu trúc: <strong data-start=\"1802\" data-end=\"1827\">have/has + never + V3</strong>.</span><br data-start=\"1828\" data-end=\"1831\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">Pedro <strong data-start=\"1839\" data-end=\"1860\" data-is-only-node=\"\">has never skipped</strong> a History class because he really enjoys learning the subject.</span><em><span style=\"color: #ba372a;\"> </span>(Pedro chưa từng trốn học môn Lịch sử vì cậu ấy rất thích môn này.)</em></span></p>",
+          "introduction": "<p dir=\"ltr\" style=\"box-sizing: border-box; margin: 0px 0px 8.5px; font-family: Arial, sans-serif; font-size: 12px; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">B. Complete using the words in the box. </strong><em style=\"box-sizing: border-box;\">(Hoàn thành câu sử dụng các từ trong hộp.)</em></span></span></span></p>\n<table style=\"border-spacing: 0px; background-color: #ffffff; font-family: Arial, sans-serif; font-size: 12px; width: 500px; border-radius: 0px !important;\" border=\"1\" cellspacing=\"2\" cellpadding=\"2\">\n<tbody style=\"box-sizing: border-box;\">\n<tr style=\"box-sizing: border-box;\">\n<td style=\"box-sizing: border-box; padding: 0px; text-align: center; border-radius: 0px !important; width: 87.0417px;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">already</strong></span></span></td>\n<td style=\"box-sizing: border-box; padding: 0px; text-align: center; border-radius: 0px !important; width: 67.5556px;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">ever</strong></span></span></td>\n<td style=\"box-sizing: border-box; padding: 0px; text-align: center; border-radius: 0px !important; width: 48.4306px;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">for</strong></span></span></td>\n<td style=\"box-sizing: border-box; padding: 0px; text-align: center; border-radius: 0px !important; width: 59.0139px;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">just</strong></span></span></td>\n<td style=\"box-sizing: border-box; padding: 0px; text-align: center; border-radius: 0px !important; width: 81.2778px;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">never</strong></span></span></td>\n<td style=\"box-sizing: border-box; padding: 0px; text-align: center; border-radius: 0px !important; width: 85.4306px;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">since</strong></span></span></td>\n<td style=\"box-sizing: border-box; padding: 0px; text-align: center; border-radius: 0px !important; width: 70.3611px;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><strong style=\"box-sizing: border-box;\">yet</strong></span></span></td>\n</tr>\n</tbody>\n</table>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 103528,
+              "content": "<ol>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Selena hasn't decided her major [input_0]. She's still thinking about what she wants to study at university.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">I've studied Korean [input_1] many years, but I still want to improve my speaking skills.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Have you [input_2] studied with a teacher from another country?</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Charlie has [input_3] finished his homework for tomorrow's class.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">I've been interested in Geography [input_4] I was in secondary school.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">I've [input_5] finished a group project for one of my classes.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Pedro has [input_6] skipped a History class because he really enjoys learning the subject.</span></li>\n</ol>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42739,
+          "id": 426031,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": "<div>\n<article tabindex=\"-1\" data-turn-id=\"request-WEB:d13f6128-eb0f-41e1-ad24-daad57809b73-98\" data-testid=\"conversation-turn-64\" data-scroll-anchor=\"true\" data-turn=\"assistant\">\n<div>\n<div tabindex=\"-1\">\n<div>\n<div data-message-author-role=\"assistant\" data-message-id=\"de9bf77b-829b-433d-a9d7-d8796e65cc22\" data-message-model-slug=\"gpt-5-3\">\n<div>\n<div>\n<p data-start=\"23\" data-end=\"478\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"23\" data-end=\"35\">1. <span style=\"color: #ba372a;\">enjoy</span></strong></span><br data-start=\"35\" data-end=\"38\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu nói về <strong data-start=\"49\" data-end=\"94\">thói quen hoặc quan điểm chung ở hiện tại</strong>, nên dùng <strong data-start=\"105\" data-end=\"123\">present simple</strong>.</span><br data-start=\"124\" data-end=\"127\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"137\" data-end=\"158\">Subject + V(s/es)</strong></span><br data-start=\"158\" data-end=\"161\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"169\" data-end=\"178\">enjoy</strong> ở hiện tại với chủ ngữ <strong data-start=\"256\" data-end=\"261\">I</strong> giữ nguyên.</span><br data-start=\"273\" data-end=\"276\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">I <strong data-start=\"280\" data-end=\"289\">enjoy</strong> studying because I believe education plays an important role in my future career.</span> <em data-start=\"372\" data-end=\"478\">(Tôi thích việc học vì tôi tin rằng giáo dục đóng vai trò quan trọng trong sự nghiệp tương lai của tôi.)</em></span></p>\n<p data-start=\"480\" data-end=\"871\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"480\" data-end=\"492\">2. <span style=\"color: #ba372a;\">plays</span></strong></span><br data-start=\"492\" data-end=\"495\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu diễn tả <strong data-start=\"507\" data-end=\"543\">một sự thật hoặc quan điểm chung</strong>, nên dùng <strong data-start=\"554\" data-end=\"572\">present simple</strong>.</span><br data-start=\"573\" data-end=\"576\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"586\" data-end=\"607\">Subject + V(s/es)</strong></span><br data-start=\"607\" data-end=\"610\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"618\" data-end=\"626\">play</strong> thêm <strong data-start=\"660\" data-end=\"666\">-s</strong> vì chủ ngữ <strong data-start=\"678\" data-end=\"691\">education</strong> là số ít → <strong data-start=\"703\" data-end=\"712\">plays</strong>.</span><br data-start=\"713\" data-end=\"716\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→<span style=\"color: #ba372a;\"> I believe education <strong data-start=\"738\" data-end=\"747\">plays</strong> an important role in my future career. </span><em data-start=\"787\" data-end=\"871\">(Tôi tin rằng giáo dục đóng vai trò quan trọng trong sự nghiệp tương lai của tôi.)</em></span></p>\n<p data-start=\"873\" data-end=\"1279\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"873\" data-end=\"891\">3. <span style=\"color: #ba372a;\">didn’t like</span></strong></span><br data-start=\"891\" data-end=\"894\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu có cụm <strong data-start=\"905\" data-end=\"939\">when I was in secondary school</strong>, chỉ <strong data-start=\"945\" data-end=\"976\">một thời điểm trong quá khứ</strong>, nên dùng <strong data-start=\"987\" data-end=\"1002\">past simple</strong>.</span><br data-start=\"1003\" data-end=\"1006\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"1016\" data-end=\"1054\">Subject + did not + V (nguyên thể)</strong></span><br data-start=\"1152\" data-end=\"1155\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→<span style=\"color: #ba372a;\"> I <strong data-start=\"1159\" data-end=\"1174\">didn’t like</strong> studying very much when I was in secondary school. </span><em data-start=\"1226\" data-end=\"1279\">(Tôi không thích việc học lắm khi còn học cấp hai.)</em></span></p>\n<p data-start=\"1281\" data-end=\"1605\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1281\" data-end=\"1292\">4. <span style=\"color: #ba372a;\">were</span></strong></span><br data-start=\"1292\" data-end=\"1295\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu vẫn nói về <strong data-start=\"1310\" data-end=\"1321\">quá khứ</strong>, nên dùng <strong data-start=\"1332\" data-end=\"1347\">past simple</strong>.</span><br data-start=\"1348\" data-end=\"1351\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"1361\" data-end=\"1383\">Subject + was/were</strong></span><br data-start=\"1383\" data-end=\"1386\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"1394\" data-end=\"1400\">be</strong> là <strong data-start=\"1404\" data-end=\"1427\">động từ bất quy tắc</strong> → <strong data-start=\"1430\" data-end=\"1461\">am/is/are – was/were – been</strong>; chủ ngữ <strong data-start=\"1471\" data-end=\"1483\">subjects</strong> là số nhiều nên dùng <strong data-start=\"1505\" data-end=\"1513\">were</strong>.</span><br data-start=\"1514\" data-end=\"1517\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">Some subjects <strong data-start=\"1533\" data-end=\"1541\">were</strong> quite difficult for me.</span> <em data-start=\"1566\" data-end=\"1605\">(Một số môn học khá khó đối với tôi.)</em></span></p>\n<p data-start=\"1607\" data-end=\"1955\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1607\" data-end=\"1626\">5. <span style=\"color: #ba372a;\">have changed</span></strong></span><br data-start=\"1626\" data-end=\"1629\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu có cụm <strong data-start=\"1640\" data-end=\"1659\">in recent years</strong>, chỉ <strong data-start=\"1665\" data-end=\"1717\">khoảng thời gian kéo dài từ quá khứ đến hiện tại</strong>, nên dùng <strong data-start=\"1728\" data-end=\"1747\">present perfect</strong>.</span><br data-start=\"1748\" data-end=\"1751\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"1761\" data-end=\"1778\">have/has + V3</strong></span><br data-start=\"1778\" data-end=\"1781\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"1789\" data-end=\"1799\">change</strong> là <strong data-start=\"1803\" data-end=\"1825\">động từ có quy tắc</strong> → <strong data-start=\"1828\" data-end=\"1844\">changed (V3)</strong>.</span><br data-start=\"1845\" data-end=\"1848\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">Things <strong data-start=\"1857\" data-end=\"1873\">have changed</strong> a lot in recent years. </span><em data-start=\"1897\" data-end=\"1955\">(Mọi thứ đã thay đổi rất nhiều trong những năm gần đây.)</em></span></p>\n<p data-start=\"1957\" data-end=\"2306\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1957\" data-end=\"1975\">6. <span style=\"color: #ba372a;\">have become</span></strong></span><br data-start=\"1975\" data-end=\"1978\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu diễn tả <strong data-start=\"1990\" data-end=\"2026\">sự thay đổi kéo dài đến hiện tại</strong>, nên dùng <strong data-start=\"2037\" data-end=\"2056\">present perfect</strong>.</span><br data-start=\"2057\" data-end=\"2060\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"2070\" data-end=\"2087\">have/has + V3</strong></span><br data-start=\"2087\" data-end=\"2090\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"2098\" data-end=\"2108\">become</strong> là <strong data-start=\"2112\" data-end=\"2135\">động từ bất quy tắc</strong> → <strong data-start=\"2138\" data-end=\"2166\">become – became – become</strong>, <strong data-start=\"2168\" data-end=\"2182\">V3: become</strong>.</span><br data-start=\"2183\" data-end=\"2186\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→<span style=\"color: #ba372a;\"> I <strong data-start=\"2190\" data-end=\"2205\">have become</strong> more interested in learning new things.</span> <em data-start=\"2246\" data-end=\"2306\">(Tôi đã trở nên hứng thú hơn với việc học những điều mới.)</em></span></p>\n<p data-start=\"2308\" data-end=\"2636\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"2308\" data-end=\"2325\">7. <span style=\"color: #ba372a;\">have tried</span></strong></span><br data-start=\"2325\" data-end=\"2328\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu có từ <strong data-start=\"2338\" data-end=\"2350\">recently</strong>, thường dùng với <strong data-start=\"2368\" data-end=\"2387\">present perfect</strong> để nói về hành động <strong data-start=\"2408\" data-end=\"2419\">gần đây</strong>.</span><br data-start=\"2420\" data-end=\"2423\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"2433\" data-end=\"2450\">have/has + V3</strong></span><br data-start=\"2450\" data-end=\"2453\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"2461\" data-end=\"2468\">try</strong> là <strong data-start=\"2472\" data-end=\"2494\">động từ có quy tắc</strong> → <strong data-start=\"2497\" data-end=\"2511\">tried (V3)</strong>.</span><br data-start=\"2512\" data-end=\"2515\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">Recently, I <strong data-start=\"2529\" data-end=\"2543\">have tried</strong> to improve my study habits. </span><em data-start=\"2572\" data-end=\"2636\">(Gần đây tôi đã cố gắng cải thiện thói quen học tập của mình.)</em></span></p>\n<p data-start=\"2638\" data-end=\"3000\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"2638\" data-end=\"2657\">8. <span style=\"color: #ba372a;\">am preparing</span></strong></span><br data-start=\"2657\" data-end=\"2660\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu có cụm <strong data-start=\"2671\" data-end=\"2688\">at the moment</strong>, diễn tả hành động <strong data-start=\"2708\" data-end=\"2733\">đang diễn ra hiện tại</strong>, nên dùng <strong data-start=\"2744\" data-end=\"2766\">present continuous</strong>.</span><br data-start=\"2767\" data-end=\"2770\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"2780\" data-end=\"2801\">am/is/are + V-ing</strong></span><br data-start=\"2801\" data-end=\"2804\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"2812\" data-end=\"2823\">prepare</strong> → <strong data-start=\"2852\" data-end=\"2873\">preparing (V-ing)</strong>.</span><br data-start=\"2874\" data-end=\"2877\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">At the moment, I <strong data-start=\"2896\" data-end=\"2912\">am preparing</strong> for several exams at school. </span><em data-start=\"2942\" data-end=\"3000\">(Hiện tại tôi đang chuẩn bị cho một số kỳ thi ở trường.)</em></span></p>\n<p data-start=\"3002\" data-end=\"3341\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"3002\" data-end=\"3014\">9. <span style=\"color: #ba372a;\">spend</span></strong></span><br data-start=\"3014\" data-end=\"3017\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu nói về <strong data-start=\"3028\" data-end=\"3050\">thói quen hiện tại</strong>, nên dùng <strong data-start=\"3061\" data-end=\"3079\">present simple</strong>.</span><br data-start=\"3080\" data-end=\"3083\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"3093\" data-end=\"3114\">Subject + V(s/es)</strong></span><br data-start=\"3114\" data-end=\"3117\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"3125\" data-end=\"3134\">spend, </strong>ở hiện tại với chủ ngữ <strong data-start=\"3220\" data-end=\"3225\">I</strong> vẫn giữ nguyên là <strong data-start=\"3231\" data-end=\"3240\">spend</strong>.</span><br data-start=\"3241\" data-end=\"3244\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">I <strong data-start=\"3248\" data-end=\"3257\">spend</strong> a lot of time reviewing my lessons. </span><em data-start=\"3294\" data-end=\"3341\">(Tôi dành nhiều thời gian để ôn lại bài học.)</em></span></p>\n<p data-start=\"3343\" data-end=\"3804\" data-is-last-node=\"\" data-is-only-node=\"\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"3343\" data-end=\"3377\">10. <span style=\"color: #ba372a;\">is</span></strong></span><br data-start=\"3377\" data-end=\"3380\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu nói về <strong data-start=\"49\" data-end=\"94\">thói quen hoặc quan điểm chung ở hiện tại</strong>, nên dùng <strong data-start=\"105\" data-end=\"123\">present simple</strong>.</span><br data-start=\"3494\" data-end=\"3497\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"3093\" data-end=\"3114\">Subject + V(s/es)</strong></span><br data-start=\"3114\" data-end=\"3117\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"1394\" data-end=\"1400\">be</strong> là <strong data-start=\"1404\" data-end=\"1427\">động từ bất quy tắc</strong> → <strong data-start=\"1430\" data-end=\"1461\">am/is/are – was/were – been</strong>; chủ ngữ <strong>studying </strong>là số ít nên dùng <strong>is</strong>.</span><br data-start=\"3607\" data-end=\"3610\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">Overall, I think studying <strong>is </strong>essential because it helps me achieve my long-term goals. </span><em data-start=\"2942\" data-end=\"3000\">(Nhìn chung, tôi nghĩ việc học là rất cần thiết vì nó giúp tôi đạt được những mục tiêu dài hạn trong tương lai.)</em></span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</article>\n</div>",
+          "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong style=\"box-sizing: border-box; background-color: #ffffff;\">C. Fill in the blanks with the correct form of the verbs given in the brackets. Use present simple, present continuous, past simple and present perfect.</strong><span style=\"background-color: #ffffff;\"> </span><em style=\"box-sizing: border-box; background-color: #ffffff;\">(Điền dạng đúng của động từ vào chỗ trống. Sử dụng hiện tại đơn, hiện tại tiếp diễn, quá khứ đơn, hiện tại hoàn thành và quá khứ hoàn thành.)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 103529,
+              "content": "<p data-start=\"280\" data-end=\"336\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"280\" data-end=\"336\">Question 1: Do you like studying? Why / why not?</strong></span></p>\n<p data-start=\"338\" data-end=\"1095\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">I generally <strong>(1) </strong>[input_0] (enjoy) studying because I believe education <strong>(2)</strong> [input_1] (play) an important role in my future career. When I was in secondary school, I<strong> (3) </strong>[input_2]<strong> </strong>(not like) studying very much because some subjects<strong> (4)</strong> [input_3] (be) quite difficult for me. However, things <strong>(5)</strong> [input_4] (change) a lot in recent years. I<strong> (6) </strong>[input_5] (become) more interested in learning new things, especially subjects related to business and technology. Recently, I <strong>(7)</strong> [input_6] (try) to improve my study habits by managing my time better. At the moment, I <strong>(8)</strong> [input_7] (prepare) for several exams at school, so I <strong>(9)</strong> [input_8] (spend) a lot of time reviewing my lessons. Overall, I think studying<strong> (10) </strong>[input_9] (be) important because it helps me achieve my long-term goals.</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42739,
+          "id": 426032,
+          "name": null,
+          "title": null,
+          "content": "<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Question 2: What do you usually do in a class at school/university?</span></strong></p>",
+          "explain": "<p data-start=\"23\" data-end=\"356\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"23\" data-end=\"36\">1. <span style=\"color: #ba372a;\">listen</span></strong></span><br data-start=\"36\" data-end=\"39\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu nói về <strong data-start=\"50\" data-end=\"77\">thói quen trong lớp học</strong>, nên dùng <strong data-start=\"88\" data-end=\"106\">present simple</strong>.</span><br data-start=\"107\" data-end=\"110\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"120\" data-end=\"141\">Subject + V(s/es)</strong></span><br data-start=\"141\" data-end=\"144\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"152\" data-end=\"162\">listen ở thì </strong>hiện tại giữ nguyên là <strong data-start=\"204\" data-end=\"214\">listen</strong> với chủ ngữ <strong data-start=\"227\" data-end=\"232\">I</strong>.</span><br data-start=\"233\" data-end=\"236\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">I usually <strong data-start=\"248\" data-end=\"258\">listen</strong> to the teacher and take notes carefully. </span><em data-start=\"300\" data-end=\"356\">(Tôi thường lắng nghe giáo viên và ghi chép cẩn thận.)</em></span></p>\n<p data-start=\"358\" data-end=\"709\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"358\" data-end=\"369\">2. <span style=\"color: #ba372a;\">take</span></strong></span><br data-start=\"369\" data-end=\"372\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu tiếp tục mô tả <strong data-start=\"391\" data-end=\"412\">thói quen học tập</strong>, nên dùng <strong data-start=\"423\" data-end=\"441\">present simple</strong>.</span><br data-start=\"442\" data-end=\"445\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"455\" data-end=\"476\">Subject + V(s/es)</strong></span><br data-start=\"476\" data-end=\"479\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"487\" data-end=\"495\">take </strong>ở hiện tại đơn với chủ ngữ <strong data-start=\"579\" data-end=\"584\">I</strong> giữ nguyên.</span><br data-start=\"599\" data-end=\"602\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">I usually listen to the teacher and <strong data-start=\"640\" data-end=\"648\">take</strong> notes carefully. </span><em data-start=\"666\" data-end=\"709\">(Tôi thường ghi chép cẩn thận trong lớp.)</em></span></p>\n<p data-start=\"711\" data-end=\"1067\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"711\" data-end=\"722\">3. <span style=\"color: #ba372a;\">work</span></strong></span><br data-start=\"722\" data-end=\"725\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu nói về <strong data-start=\"736\" data-end=\"773\">hoạt động thường xảy ra trong lớp</strong>, nên dùng <strong data-start=\"784\" data-end=\"802\">present simple</strong>.</span><br data-start=\"803\" data-end=\"806\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"816\" data-end=\"837\">Subject + V(s/es)</strong></span><br data-start=\"837\" data-end=\"840\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"848\" data-end=\"856\">work</strong> ở thì hiện tại với chủ ngữ <strong data-start=\"919\" data-end=\"925\">we</strong> số nhiều vẫn giữ nguyên là <strong>work</strong>.</span><br data-start=\"926\" data-end=\"929\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→<span style=\"color: #ba372a;\"> Sometimes we <strong data-start=\"944\" data-end=\"952\">work</strong> in groups to discuss different ideas.</span> <em data-start=\"991\" data-end=\"1067\">(Đôi khi chúng tôi làm việc theo nhóm để thảo luận các ý tưởng khác nhau.)</em></span></p>\n<p data-start=\"1069\" data-end=\"1515\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1069\" data-end=\"1094\">4. <span style=\"color: #ba372a;\">didn’t participate</span></strong></span><br data-start=\"1094\" data-end=\"1097\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu có cụm <strong data-start=\"1108\" data-end=\"1137\">when I was in high school</strong>, chỉ <strong data-start=\"1143\" data-end=\"1170\">thời điểm trong quá khứ</strong>, nên dùng <strong data-start=\"1181\" data-end=\"1196\">past simple</strong>.</span><br data-start=\"1197\" data-end=\"1200\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"1210\" data-end=\"1248\">Subject + did not + V (nguyên thể)</strong></span><br data-start=\"1248\" data-end=\"1251\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"1259\" data-end=\"1274\">participate</strong> sau <strong data-start=\"1312\" data-end=\"1322\">didn’t</strong> dùng dạng nguyên thể <strong data-start=\"1344\" data-end=\"1359\">participate</strong>.</span><br data-start=\"1360\" data-end=\"1363\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→<span style=\"color: #ba372a;\"> I <strong data-start=\"1367\" data-end=\"1389\">didn’t participate</strong> in class discussions very often because I was quite shy. </span><em data-start=\"1447\" data-end=\"1515\">(Tôi không tham gia thảo luận trong lớp nhiều khi còn học cấp ba.)</em></span></p>\n<p data-start=\"1517\" data-end=\"1885\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1517\" data-end=\"1536\">5. <span style=\"color: #ba372a;\">has improved</span></strong></span><br data-start=\"1536\" data-end=\"1539\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu có cụm <strong data-start=\"1550\" data-end=\"1569\">in recent years</strong>, chỉ <strong data-start=\"1575\" data-end=\"1627\">khoảng thời gian kéo dài từ quá khứ đến hiện tại</strong>, nên dùng <strong data-start=\"1638\" data-end=\"1657\">present perfect</strong>.</span><br data-start=\"1658\" data-end=\"1661\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"1671\" data-end=\"1688\">have/has + V3</strong></span><br data-start=\"1688\" data-end=\"1691\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"1699\" data-end=\"1710\">improve</strong> là <strong data-start=\"1714\" data-end=\"1736\">động từ có quy tắc</strong> → <strong data-start=\"1739\" data-end=\"1756\">improved (V3)</strong>.</span><br data-start=\"1757\" data-end=\"1760\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">My confidence <strong data-start=\"1776\" data-end=\"1792\">has improved</strong> a lot in recent years.</span> <em data-start=\"1816\" data-end=\"1885\">(Sự tự tin của tôi đã cải thiện rất nhiều trong những năm gần đây.)</em></span></p>\n<p data-start=\"1887\" data-end=\"2204\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1887\" data-end=\"1905\">6.<span style=\"color: #ba372a;\"> have become</span></strong></span><br data-start=\"1905\" data-end=\"1908\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu diễn tả <strong data-start=\"1920\" data-end=\"1956\">sự thay đổi kéo dài đến hiện tại</strong>, nên dùng <strong data-start=\"1967\" data-end=\"1986\">present perfect</strong>.</span><br data-start=\"1987\" data-end=\"1990\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"2000\" data-end=\"2017\">have/has + V3</strong></span><br data-start=\"2017\" data-end=\"2020\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"2028\" data-end=\"2038\">become</strong> là <strong data-start=\"2042\" data-end=\"2065\">động từ bất quy tắc</strong> → <strong data-start=\"2068\" data-end=\"2096\">become – became – become</strong>, <strong data-start=\"2098\" data-end=\"2112\">V3: become</strong>.</span><br data-start=\"2113\" data-end=\"2116\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→<span style=\"color: #ba372a;\"> I <strong data-start=\"2120\" data-end=\"2135\">have become</strong> more active in class.</span> <em data-start=\"2158\" data-end=\"2204\">(Tôi đã trở nên tích cực hơn trong lớp học.)</em></span></p>\n<p data-start=\"2206\" data-end=\"2572\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"2206\" data-end=\"2222\">7. <span style=\"color: #ba372a;\">has given</span></strong></span><br data-start=\"2222\" data-end=\"2225\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu có từ <strong data-start=\"2235\" data-end=\"2247\">recently</strong>, thường dùng với <strong data-start=\"2265\" data-end=\"2284\">present perfect</strong> để nói về hành động <strong data-start=\"2305\" data-end=\"2323\">xảy ra gần đây</strong>.</span><br data-start=\"2324\" data-end=\"2327\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"2337\" data-end=\"2354\">have/has + V3</strong></span><br data-start=\"2354\" data-end=\"2357\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"2365\" data-end=\"2373\">give</strong> là <strong data-start=\"2377\" data-end=\"2400\">động từ bất quy tắc</strong> → <strong data-start=\"2403\" data-end=\"2426\">give – gave – given</strong>, <strong data-start=\"2428\" data-end=\"2441\">V3: given</strong>.</span><br data-start=\"2442\" data-end=\"2445\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">Recently, our teacher <strong data-start=\"2469\" data-end=\"2482\">has given</strong> us several group projects.</span> <em data-start=\"2510\" data-end=\"2572\">(Gần đây giáo viên đã giao cho chúng tôi một số dự án nhóm.)</em></span></p>\n<p data-start=\"2574\" data-end=\"2954\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"2574\" data-end=\"2586\">8. <span style=\"color: #ba372a;\">spend</span></strong></span><br data-start=\"2586\" data-end=\"2589\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu nói về <strong data-start=\"2600\" data-end=\"2622\">thói quen hiện tại</strong>, nên dùng <strong data-start=\"2633\" data-end=\"2651\">present simple</strong>.</span><br data-start=\"2652\" data-end=\"2655\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"2665\" data-end=\"2686\">Subject + V(s/es)</strong></span><br data-start=\"2686\" data-end=\"2689\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"2697\" data-end=\"2706\">spend</strong> ở thì hiện tại đơn với chủ ngữ <strong data-start=\"2792\" data-end=\"2798\">we</strong> số nhiều dùng <strong data-start=\"2804\" data-end=\"2813\">spend</strong>.</span><br data-start=\"2814\" data-end=\"2817\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">We <strong data-start=\"2822\" data-end=\"2831\">spend</strong> more time discussing topics with our classmates.</span> <em data-start=\"2881\" data-end=\"2954\">(Chúng tôi dành nhiều thời gian hơn để thảo luận với các bạn cùng lớp.)</em></span></p>\n<p data-start=\"2956\" data-end=\"3351\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"2956\" data-end=\"2976\">9. <span style=\"color: #ba372a;\">are preparing</span></strong></span><br data-start=\"2976\" data-end=\"2979\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu có cụm <strong data-start=\"2990\" data-end=\"3007\">at the moment</strong>, diễn tả hành động <strong data-start=\"3027\" data-end=\"3052\">đang diễn ra hiện tại</strong>, nên dùng <strong data-start=\"3063\" data-end=\"3085\">present continuous</strong>.</span><br data-start=\"3086\" data-end=\"3089\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"3099\" data-end=\"3120\">am/is/are + V-ing</strong></span><br data-start=\"3120\" data-end=\"3123\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"3131\" data-end=\"3142\">prepare</strong> → <strong data-start=\"3171\" data-end=\"3192\">preparing (V-ing)</strong>.</span><br data-start=\"3193\" data-end=\"3196\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ <span style=\"color: #ba372a;\">At the moment, we <strong data-start=\"3216\" data-end=\"3233\">are preparing</strong> a presentation for our next lesson.</span> <em data-start=\"3270\" data-end=\"3351\">(Hiện tại chúng tôi đang chuẩn bị một bài thuyết trình cho buổi học tiếp theo.)</em></span></p>\n<p data-start=\"3353\" data-end=\"3814\" data-is-last-node=\"\" data-is-only-node=\"\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"3353\" data-end=\"3387\">10. <span style=\"color: #ba372a;\">have learned / have learnt</span></strong></span><br data-start=\"3387\" data-end=\"3390\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu có cụm <strong data-start=\"3401\" data-end=\"3411\">so far</strong>, cho thấy hành động <strong data-start=\"3432\" data-end=\"3481\">bắt đầu trong quá khứ và kéo dài đến hiện tại</strong>, nên dùng <strong data-start=\"3492\" data-end=\"3511\">present perfect</strong>.</span><br data-start=\"3512\" data-end=\"3515\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cấu trúc: <strong data-start=\"3525\" data-end=\"3542\">have/has + V3</strong></span><br data-start=\"3542\" data-end=\"3545\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Động từ <strong data-start=\"3553\" data-end=\"3562\">learn</strong> là <strong data-start=\"3566\" data-end=\"3588\">động từ có quy tắc</strong>, <strong data-start=\"3590\" data-end=\"3615\">learned / learnt (V3)</strong> đều đúng.</span><br data-start=\"3625\" data-end=\"3628\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→<span style=\"color: #ba372a;\"> So far, I <strong data-start=\"3640\" data-end=\"3670\">have learned / have learnt</strong> many useful communication skills from these activities. </span><em data-start=\"3727\" data-end=\"3814\" data-is-last-node=\"\">(Cho đến nay tôi đã học được nhiều kỹ năng giao tiếp hữu ích từ những hoạt động này.)</em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 103530,
+              "content": "<div>\n<article tabindex=\"-1\" data-turn-id=\"request-WEB:d13f6128-eb0f-41e1-ad24-daad57809b73-104\" data-testid=\"conversation-turn-70\" data-scroll-anchor=\"true\" data-turn=\"assistant\">\n<div>\n<div tabindex=\"-1\">\n<div>\n<div data-message-author-role=\"assistant\" data-message-id=\"7a323ca7-4dc5-4400-a15f-119e06d00348\" data-message-model-slug=\"gpt-5-3\">\n<div>\n<div>\n<p data-start=\"61\" data-end=\"924\" data-is-last-node=\"\" data-is-only-node=\"\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">In my classes, I usually <strong data-start=\"86\" data-end=\"93\">(1)</strong> [input_0] (listen) to the teacher and <strong data-start=\"131\" data-end=\"138\">(2)</strong> [input_1] (take) notes carefully. Sometimes we <strong data-start=\"183\" data-end=\"190\">(3)</strong> [input_2] (work) in groups to discuss different ideas. When I was in high school, I <strong data-start=\"272\" data-end=\"279\">(4)</strong> [input_3] (not participate) in class discussions very often because I was quite shy. However, my confidence <strong data-start=\"399\" data-end=\"406\">(5)</strong> [input_4] (improve) a lot in recent years. I <strong data-start=\"457\" data-end=\"464\">(6)</strong> [input_5] (become) more active in class and I often ask questions when I don't understand something. Recently, our teacher <strong data-start=\"592\" data-end=\"599\">(7)</strong> [input_6] (give) us several group projects, so we <strong data-start=\"652\" data-end=\"659\">(8)</strong> [input_7] (spend) more time discussing topics with our classmates. At the moment, we <strong data-start=\"743\" data-end=\"750\">(9)</strong> [input_8] (prepare) a presentation for our next lesson. So far, I <strong data-start=\"823\" data-end=\"831\">(10)</strong> [input_9] (learn) many useful communication skills from these activities.</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</article>\n</div>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42739,
+          "id": 426033,
+          "name": null,
+          "title": "VOCABULARY",
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong style=\"box-sizing: border-box; background-color: #ffffff;\">A. Choose the sentence (A or B) which means the same as the first sentence. </strong><em style=\"box-sizing: border-box; background-color: #ffffff;\">(Chọn câu A hoặc B sao cho đồng nghĩa với câu đầu tiên) </em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": null,
+          "answer": null
+        },
+        {
+          "challenge_id": 42739,
+          "id": 426034,
+          "name": null,
+          "title": null,
+          "content": "<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; background-color: #ffffff;\">1. Schools should focus more on practical skills instead of only memorising theories.</span></strong></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>1.</strong><span style=\"color: #ba372a;\"> <strong data-start=\"3\" data-end=\"8\" data-is-only-node=\"\">A</strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu gốc: <em data-start=\"20\" data-end=\"113\">Trường học nên tập trung nhiều hơn vào các kỹ năng thực tế thay vì chỉ học thuộc lý thuyết.</em></span><br data-start=\"113\" data-end=\"116\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">“focus on practical skills” ≈ “concentrate on practical skills”; “memorising theories” ≈ “learning theories by heart”. Câu A giữ nguyên ý nghĩa của câu gốc, còn câu B nói ngược lại.</span><br data-start=\"297\" data-end=\"300\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án đúng: <span style=\"color: #ba372a;\"><strong data-start=\"315\" data-end=\"413\">A. Schools should concentrate on practical skills rather than only learning theories by heart.</strong> </span><em data-start=\"414\" data-end=\"495\">(Trường học nên tập trung vào kỹ năng thực tế thay vì chỉ học thuộc lý thuyết.)</em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 900604,
+                "content": "A. Schools should concentrate on practical skills rather than only learning theories by heart."
+              },
+              {
+                "id": 900605,
+                "content": "B. Schools should ignore practical skills and focus only on theories."
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 42739,
+          "id": 426036,
+          "name": null,
+          "title": null,
+          "content": "<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; background-color: #ffffff;\">2. Many students join extracurricular activities to develop important life skills.</span></strong></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>2. <span style=\"color: #ba372a;\">A</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu gốc:<em> Nhiều học sinh tham gia hoạt động ngoại khóa để phát triển các kỹ năng sống quan trọng.</em></span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">“join extracurricular activities” ≈ “take part in extracurricular activities”; “develop life skills” ≈ “improve useful life skills”. Câu A diễn đạt lại cùng ý nghĩa, còn câu B nói học sinh tham gia chỉ để thư giãn nên sai.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án đúng:<span style=\"color: #ba372a;\"><strong> A. Extracurricular activities help students improve useful life skills.</strong></span> <em>(Hoạt động ngoại khóa giúp học sinh phát triển các kỹ năng sống hữu ích.)</em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 900611,
+                "content": "A. Extracurricular activities help students improve useful life skills."
+              },
+              {
+                "id": 900612,
+                "content": "B. Students join extracurricular activities only to relax after school."
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 42739,
+          "id": 426038,
+          "name": null,
+          "title": null,
+          "content": "<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; background-color: #ffffff;\">3. Some students achieve excellent academic results because they are quick learners.</span></strong></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>3. <span style=\"color: #ba372a;\">B</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu gốc: <em>Một số học sinh đạt kết quả học tập xuất sắc vì họ tiếp thu nhanh.</em></span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">“quick learners” ≈ “learn new things quickly”. Câu B giữ đúng ý này, còn câu A nói học chậm nên sai nghĩa.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án đúng: <span style=\"color: #ba372a;\"><strong>B. Some students get very good results because they learn new things quickly. </strong></span><em>(Một số học sinh đạt kết quả rất tốt vì họ học rất nhanh.)</em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 900618,
+                "content": "A. Some students succeed because they study very slowly."
+              },
+              {
+                "id": 900619,
+                "content": "B. Some students get very good results because they learn new things quickly."
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 42739,
+          "id": 426039,
+          "name": null,
+          "title": null,
+          "content": "<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; background-color: #ffffff;\">4. Many universities provide scholarships to talented students.</span></strong></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>4. <span style=\"color: #ba372a;\">B</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu gốc: <em>Nhiều trường đại học cung cấp học bổng cho sinh viên tài năng.</em></span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">“provide scholarships” ≈ “receive financial support”. Câu B giữ nguyên ý nghĩa. Câu A nói về học phí nên không liên quan.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án đúng: <strong><span style=\"color: #ba372a;\">B. Talented students can receive financial support from universities.</span></strong><em> (Sinh viên tài năng có thể nhận hỗ trợ tài chính từ các trường đại học.)</em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 900620,
+                "content": "A. Universities only accept students who pay full tuition fees."
+              },
+              {
+                "id": 900621,
+                "content": "B. Talented students can receive financial support from universities."
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 42739,
+          "id": 426040,
+          "name": null,
+          "title": null,
+          "content": "<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; background-color: #ffffff;\">5. Group projects help students learn how to cooperate with others.</span></strong></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1833\" data-end=\"1838\" data-is-only-node=\"\">5. <span style=\"color: #ba372a;\">A</span></strong></span><br data-start=\"1838\" data-end=\"1841\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu gốc: <em data-start=\"1850\" data-end=\"1909\">Dự án nhóm giúp học sinh học cách hợp tác với người khác.</em></span><br data-start=\"1909\" data-end=\"1912\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">“cooperate with others” ≈ “teamwork skills”. Câu A diễn đạt lại đúng ý nghĩa, còn câu B nói ngược lại.</span><br data-start=\"2014\" data-end=\"2017\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án đúng: <span style=\"color: #ba372a;\"><strong data-start=\"2032\" data-end=\"2098\">A. Working on group projects teaches students teamwork skills.</strong></span> <em data-start=\"2099\" data-end=\"2162\">(Làm dự án nhóm giúp học sinh học các kỹ năng làm việc nhóm.)</em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 900622,
+                "content": "A. Working on group projects teaches students teamwork skills."
+              },
+              {
+                "id": 900623,
+                "content": "B. Group projects prevent students from communicating with others."
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 42739,
+          "id": 426042,
+          "name": null,
+          "title": null,
+          "content": "<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">6. Students must meet deadlines when submitting assignments.</span></strong></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>6. <span style=\"color: #ba372a;\">A</span></strong></span><br data-start=\"2172\" data-end=\"2175\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu gốc: <em data-start=\"2184\" data-end=\"2221\">Học sinh phải nộp bài tập đúng hạn.</em></span><br data-start=\"2221\" data-end=\"2224\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">“meet deadlines” ≈ “submit assignments on time”. Câu A giữ đúng ý nghĩa, còn câu B nói học sinh có thể nộp bất cứ lúc nào nên sai.</span><br data-start=\"2354\" data-end=\"2357\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án đúng: <span style=\"color: #ba372a;\"><strong data-start=\"2372\" data-end=\"2429\">A. Students need to submit their assignments on time.</strong></span> <em data-start=\"2430\" data-end=\"2473\">(Học sinh cần nộp bài tập đúng thời hạn.)</em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 900628,
+                "content": "A. Students need to submit their assignments on time."
+              },
+              {
+                "id": 900629,
+                "content": "B. Students can submit their assignments whenever they want."
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 42739,
+          "id": 426044,
+          "name": null,
+          "title": null,
+          "content": "<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">7. Some students play truant because they feel under pressure at school.</span></strong></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>7. <span style=\"color: #ba372a;\">B</span></strong></span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu gốc: Một số học sinh trốn học vì cảm thấy áp lực ở trường.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">“play truant” ≈ “skip classes”; “feel under pressure” ≈ “feel stressed”. Câu B giữ nguyên nghĩa của câu gốc, còn câu A không liên quan.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án đúng: <span style=\"color: #ba372a;\"><strong>B. Some students skip classes because they feel stressed at school.</strong></span> <em>(Một số học sinh trốn học vì cảm thấy căng thẳng ở trường.)</em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 900634,
+                "content": "A. Some students attend every class because they enjoy school."
+              },
+              {
+                "id": 900635,
+                "content": "B. Some students skip classes because they feel stressed at school."
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 42739,
+          "id": 426046,
+          "name": null,
+          "title": null,
+          "content": "<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">8. Top-notch educational facilities can improve the quality of learning.</span></strong></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"2842\" data-end=\"2847\" data-is-only-node=\"\">8. <span style=\"color: #ba372a;\">A</span></strong></span><br data-start=\"2847\" data-end=\"2850\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu gốc: <em data-start=\"2859\" data-end=\"2936\">Cơ sở vật chất giáo dục chất lượng cao có thể cải thiện chất lượng học tập.</em></span><br data-start=\"2936\" data-end=\"2939\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">“top-notch facilities” ≈ “high-quality facilities”; “improve learning quality” ≈ “make the learning environment better”. Câu A giữ nguyên ý nghĩa, còn câu B phủ định hoàn toàn nên sai.</span><br data-start=\"3123\" data-end=\"3126\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án đúng:<span style=\"color: #ba372a;\"> <strong data-start=\"3141\" data-end=\"3213\">A. High-quality facilities can make the learning environment better.</strong></span> <em data-start=\"3214\" data-end=\"3284\">(Cơ sở vật chất chất lượng cao có thể cải thiện môi trường học tập.)</em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 900640,
+                "content": "A. High-quality facilities can make the learning environment better."
+              },
+              {
+                "id": 900641,
+                "content": "B. Educational facilities have no effect on learning quality."
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 42739,
+          "id": 426048,
+          "name": null,
+          "title": null,
+          "content": "<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B. Rewrite the sentences using the word in brackets. Use NO MORE THAN FIVE WORDS and pay attention to verb forms. </span></strong><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">(Viết lại các câu sử dụng từ trong ngoặc. Dùng KHÔNG QUÁ NĂM TỪ và chú ý chia động từ.)</span></em></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": null,
+          "answer": null
+        },
+        {
+          "challenge_id": 42739,
+          "id": 426049,
+          "name": null,
+          "title": null,
+          "content": "<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">1. Schools should focus more on practical skills instead of only memorising theories.</span></strong></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 103531,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span>→ </span>Schools should [input_0] rather than only memorising theories. (concentrate)</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42739,
+          "id": 426050,
+          "name": null,
+          "title": null,
+          "content": "<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">2. Many students take part in extracurricular activities to develop soft skills.</span></strong></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 103532,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Many students [input_0] extracurricular activities to develop soft skills. (participate)</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42739,
+          "id": 426051,
+          "name": null,
+          "title": null,
+          "content": "<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">3. Effective study methods help students improve their academic performance.</span></strong></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 103533,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Effective study methods [input_0] their academic performance. (enable)</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42739,
+          "id": 426052,
+          "name": null,
+          "title": null,
+          "content": "<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">4. Many students develop communication skills by working on group projects.</span></strong></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 103534,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Working on group projects [input_0] communication skills. (allow)</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42739,
+          "id": 426054,
+          "name": null,
+          "title": null,
+          "content": "<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">5. Some students depend too much on memorisation when studying.</span></strong></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 103535,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Some students [input_0] things by heart when studying. (rely)</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42739,
+          "id": 426055,
+          "name": null,
+          "title": "SPEAKING",
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Nộp link video trả lời các câu hỏi speaking (có mở quyền truy cập)</strong></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

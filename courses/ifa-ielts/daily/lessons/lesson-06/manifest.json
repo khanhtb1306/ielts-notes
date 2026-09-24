@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "lesson": 6,
+  "lessonKey": "lesson-06",
+  "title": "Lesson 6",
+  "source": "LangGo daily challenge API",
+  "rawFolder": "raw/",
+  "files": {
+    "content": "content.json",
+    "exercises": "exercises.json",
+    "scripts": "scripts.json",
+    "submission": "submission.json",
+    "audioManifest": "audio/manifest.json",
+    "imageManifest": "images/manifest.json"
+  },
+  "challenges": [
+    {
+      "id": 43469,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "number": 1,
+      "title": "[IELTS FOUNDATION A] - Lesson 6 - Challenge 1",
+      "note": "Grammar (Conditional sentences) + Vocabulary (Health) - Cập nhật  07/2026",
+      "day": 10,
+      "deadline": "2026-09-27 22:01:00",
+      "totalQuestion": 54,
+      "classification": "dc",
+      "rawFile": "raw/challenge-01-43469.json"
+    },
+    {
+      "id": 43470,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "number": 2,
+      "title": "[IELTS FOUNDATION A] - Lesson 6 - Challenge 2",
+      "note": "Listening + Speaking: Healthy lifestyle - Cập nhật  07/2026",
+      "day": 11,
+      "deadline": "2026-09-27 22:01:00",
+      "totalQuestion": null,
+      "classification": "dc",
+      "rawFile": "raw/challenge-02-43470.json"
+    }
+  ]
+}

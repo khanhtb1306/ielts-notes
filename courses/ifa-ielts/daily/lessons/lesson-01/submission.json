@@ -1,0 +1,268 @@
+{
+  "lesson": 1,
+  "lessonKey": "lesson-01",
+  "items": [
+    {
+      "challengeId": 41697,
+      "classChallengeId": "92400",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 30,
+      "submittedAt": "2026-09-13 21:01:57",
+      "markedAt": "2026-09-17 13:01:00",
+      "commentText": "Hi Khánh,\n\r\nGood effort! Challenge này mình làm khá tốt.\n\r\nEm nghe, xem lại cách phát âm và tiếp tục shadow lại những cụm cần chú ý, hoặc cần nối âm trong bài nha:\n\r\nGreat bargains - /ɡreɪt ˈbɑːɡənz/\n\r\nCrowds - /kraʊdz/\n\r\nFed up - /ˈfɛdʌp/\n\r\nComes in - /ˈkʌmzɪn/\n\r\nThis is - /ˈðɪsɪz/\n\r\nMình nhớ ôn tập những cụm từ vựng trong challenge này liên tục để áp dụng vào speaking, diễn đạt cho trôi chảy hơn nha.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "414336": {
+          "total_question": 10,
+          "total_correct_result_answer": 10,
+          "user_answer": {
+            "input_0": "display",
+            "input_1": "bargain",
+            "input_2": "shrank",
+            "input_3": "faded",
+            "input_4": "guarantee",
+            "input_5": "waterproof",
+            "input_6": "reasonable",
+            "input_7": "receipt",
+            "input_8": "special feature",
+            "input_9": "crowds"
+          },
+          "correct_answer": {
+            "input_0": [
+              "display"
+            ],
+            "input_1": [
+              "bargain"
+            ],
+            "input_2": [
+              "shrank"
+            ],
+            "input_3": [
+              "faded"
+            ],
+            "input_4": [
+              "guarantee"
+            ],
+            "input_5": [
+              "waterproof"
+            ],
+            "input_6": [
+              "reasonable"
+            ],
+            "input_7": [
+              "receipt"
+            ],
+            "input_8": [
+              "special feature"
+            ],
+            "input_9": [
+              "crowds"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 414336,
+          "challenge_id": 41697
+        },
+        "414337": {
+          "total_question": 10,
+          "total_correct_result_answer": 10,
+          "user_answer": {
+            "input_0": "hundreds",
+            "input_1": "in front of",
+            "input_2": "opened",
+            "input_3": "anything",
+            "input_4": "clothes",
+            "input_5": "vacation",
+            "input_6": "problems",
+            "input_7": "washed",
+            "input_8": "strong",
+            "input_9": "take care"
+          },
+          "correct_answer": {
+            "input_0": [
+              "hundreds"
+            ],
+            "input_1": [
+              "in front of"
+            ],
+            "input_2": [
+              "opened"
+            ],
+            "input_3": [
+              "anything"
+            ],
+            "input_4": [
+              "clothes"
+            ],
+            "input_5": [
+              "vacation"
+            ],
+            "input_6": [
+              "problems"
+            ],
+            "input_7": [
+              "washed"
+            ],
+            "input_8": [
+              "strong"
+            ],
+            "input_9": [
+              "take care"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 414337,
+          "challenge_id": 41697
+        },
+        "414339": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 874666,
+          "correct_answer": 874666,
+          "result_answer": {
+            "874666": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 414339,
+          "challenge_id": 41697
+        },
+        "414340": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 874670,
+          "correct_answer": 874670,
+          "result_answer": {
+            "874670": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 414340,
+          "challenge_id": 41697
+        },
+        "414341": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 874672,
+          "correct_answer": 874672,
+          "result_answer": {
+            "874672": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 414341,
+          "challenge_id": 41697
+        },
+        "414342": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 874676,
+          "correct_answer": 874676,
+          "result_answer": {
+            "874676": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 414342,
+          "challenge_id": 41697
+        },
+        "414343": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 874677,
+          "correct_answer": 874677,
+          "result_answer": {
+            "874677": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 414343,
+          "challenge_id": 41697
+        },
+        "414344": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 874680,
+          "correct_answer": 874680,
+          "result_answer": {
+            "874680": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 414344,
+          "challenge_id": 41697
+        },
+        "414345": {
+          "total_question": 3,
+          "total_correct_result_answer": 3,
+          "user_answer": {
+            "input_0": "close friends",
+            "input_1": "quality",
+            "input_2": "customer reviews"
+          },
+          "correct_answer": {
+            "input_0": [
+              "close friends"
+            ],
+            "input_1": [
+              "quality",
+              "the quality"
+            ],
+            "input_2": [
+              "reviews",
+              "customer reviews"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 414345,
+          "challenge_id": 41697
+        },
+        "414346": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://drive.google.com/file/d/1e2o5Tm4OBftAHjhFjjzLdJh0TDLpa01Q/view?usp=sharing",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 414346,
+          "challenge_id": 41697
+        }
+      }
+    }
+  ]
+}

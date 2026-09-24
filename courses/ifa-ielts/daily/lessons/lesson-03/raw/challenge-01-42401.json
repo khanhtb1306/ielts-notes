@@ -1,0 +1,825 @@
+{
+  "listItem": {
+    "id": "93087",
+    "challenge_id": 42401,
+    "class_id": "17854888961d6295u45597",
+    "day": 4,
+    "deadline": "2026-09-18 22:01:00",
+    "challenge_title": "[IELTS FOUNDATION A] - Lesson 3 - Challenge 1",
+    "challenge_note": "Vocabulary: Sports + Grammar (Present Simple, Present Continuous) - Cập nhật 07/2026",
+    "challenge_status": 1,
+    "challenge_band": "1614338637844l3v19753u",
+    "total_question": 38,
+    "classification": "dc"
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "93087",
+        "challenge_id": 42401,
+        "class_id": "17854888961d6295u45597",
+        "day": 4,
+        "deadline": "2026-09-18 22:01:00",
+        "flag_status_mark": 1,
+        "flag_not_submit": 0,
+        "created": "2026-09-16 22:01:34",
+        "created_by": null,
+        "challenge": {
+          "id": "42401",
+          "title": "[IELTS FOUNDATION A] - Lesson 3 - Challenge 1",
+          "note": "Vocabulary: Sports + Grammar (Present Simple, Present Continuous) - Cập nhật 07/2026",
+          "day": "4",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "1614338637844l3v19753u",
+          "created": "2026-09-16 22:01:32",
+          "updated": null,
+          "created_by": "932ca35d-1c19-425e-a76f-90a036b47691",
+          "updated_by": null,
+          "total_question": 38,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 16758
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 644302,
+        "class_challenge_id": 93087,
+        "class_id": "17854888961d6295u45597",
+        "challenge_id": 42401,
+        "cts_id": "1787535458idhr0hjlmnp5",
+        "rate": 1,
+        "comment": "<p>Hi Khánh,</p>\r\n<p>Bài này em làm khá tốt rồi! </p>\r\n<p>Với phần shadowing, em xem lại cách phát âm, trọng âm từ và luyện tập một số từ sau:</p>\r\n<ul>\r\n<li aria-level=\"1\">Used to → /ˈjuːst tu/ (nói nhanh nối thành /ˈjuːstə/)</li>\r\n<li>Rollerblading → /ˈrəʊləbleɪdɪŋ/</li>\r\n<li>Think → /θɪŋk/</li>\r\n<li aria-level=\"1\">Places → /ˈpleɪsɪz/</li>\r\n</ul>\r\n<p> Good effort!! Mình cố gắng tiếp tục phát huy trong các DC sau nha!</p>",
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": "graded",
+        "status_mark_date": "2026-09-23 16:39:44",
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": "1779875378vawpfok6ii4u",
+        "updated": "2026-09-23 16:39:44",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-09-18 15:25:35",
+        "correct_answer": 36,
+        "marked_by": "932ca35d-1c19-425e-a76f-90a036b47691",
+        "submitted_at": "2026-09-18 15:25:35",
+        "re_submitted_at": null,
+        "answers": {
+          "421785": {
+            "total_question": 8,
+            "total_correct_result_answer": 8,
+            "user_answer": {
+              "input_0": "keep fit",
+              "input_1": "lose weight",
+              "input_2": "team spirit",
+              "input_3": "communication skills",
+              "input_4": "participating in",
+              "input_5": "lively atmosphere",
+              "input_6": "a sense of enjoyment",
+              "input_7": "physical health"
+            },
+            "correct_answer": {
+              "input_0": [
+                "keep fit"
+              ],
+              "input_1": [
+                "lose weight"
+              ],
+              "input_2": [
+                "team spirit"
+              ],
+              "input_3": [
+                "communication skills"
+              ],
+              "input_4": [
+                "participating in"
+              ],
+              "input_5": [
+                "lively atmosphere"
+              ],
+              "input_6": [
+                "a sense of enjoyment"
+              ],
+              "input_7": [
+                "physical health"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 421785,
+            "challenge_id": 42401
+          },
+          "421786": {
+            "total_question": 6,
+            "total_correct_result_answer": 4,
+            "user_answer": {
+              "input_0": "I can't stand jogging",
+              "input_1": "This year I'm going to get in shape.",
+              "input_2": "You should join a gym and lift weights.",
+              "input_3": "I'm going to change my diet and start eating healthier food.",
+              "input_4": "tomorrow I will hit the gym.",
+              "input_5": "I prefer watching sports on TV because it helps me wind down after school."
+            },
+            "correct_answer": {
+              "input_0": [
+                "I can't stand jogging."
+              ],
+              "input_1": [
+                "I'm going to get in shape this year."
+              ],
+              "input_2": [
+                "You should join a gym and lift weights."
+              ],
+              "input_3": [
+                "I'm going to change my diet and start eating healthier food."
+              ],
+              "input_4": [
+                "I will hit the gym tomorrow."
+              ],
+              "input_5": [
+                "I prefer watching sports on TV because it helps me wind down after school.",
+                "I prefer watching sports on TV after school because it helps me wind down."
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": false,
+              "input_2": true,
+              "input_3": true,
+              "input_4": false,
+              "input_5": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 421786,
+            "challenge_id": 42401
+          },
+          "421787": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "I am a big fan of football, and I watch football matches every week.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 421787,
+            "challenge_id": 42401
+          },
+          "421788": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "My brother prefers solo sports because he can exercise at his own pace.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 421788,
+            "challenge_id": 42401
+          },
+          "421789": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "My father usually takes long walks in the morning to maintain good health.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 421789,
+            "challenge_id": 42401
+          },
+          "421790": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "Currently, many students join sports clubs to make new friends.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 421790,
+            "challenge_id": 42401
+          },
+          "421791": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "Many people exercise on a daily basis to improve their general health.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 421791,
+            "challenge_id": 42401
+          },
+          "421793": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 890684,
+            "correct_answer": 890684,
+            "result_answer": {
+              "890684": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 421793,
+            "challenge_id": 42401
+          },
+          "421794": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 890686,
+            "correct_answer": 890686,
+            "result_answer": {
+              "890686": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 421794,
+            "challenge_id": 42401
+          },
+          "421795": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 890691,
+            "correct_answer": 890691,
+            "result_answer": {
+              "890691": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 421795,
+            "challenge_id": 42401
+          },
+          "421796": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 890692,
+            "correct_answer": 890692,
+            "result_answer": {
+              "890692": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 421796,
+            "challenge_id": 42401
+          },
+          "421797": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 890696,
+            "correct_answer": 890696,
+            "result_answer": {
+              "890696": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 421797,
+            "challenge_id": 42401
+          },
+          "421798": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 890698,
+            "correct_answer": 890698,
+            "result_answer": {
+              "890698": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 421798,
+            "challenge_id": 42401
+          },
+          "421799": {
+            "total_question": 6,
+            "total_correct_result_answer": 6,
+            "user_answer": {
+              "input_0": "Today, Helen is not playing football because she feels tired.",
+              "input_1": "When the weather is nice, she goes to school by bike instead of taking the bus.",
+              "input_2": "Next weekend, she is going hiking in the mountains with her friends and taking many photos.",
+              "input_3": "In the evening, she sometimes goes jogging with her mom or takes long walks with her dad.",
+              "input_4": "Helen usually plays volleyball on weekends, but today she is swimming with her friends.",
+              "input_5": "Every once in a while, she goes to the beach in the morning and does yoga because she loves listening to the ocean while doing it."
+            },
+            "correct_answer": {
+              "input_0": [
+                "Today, Helen is not playing football because she feels tired.",
+                "Today, she is not playing football because she feels tired."
+              ],
+              "input_1": [
+                "When the weather is nice, she goes to school by bike instead of taking the bus.",
+                "When the weather is nice, Helen goes to school by bike instead of taking the bus."
+              ],
+              "input_2": [
+                "Next weekend, she is going hiking in the mountains with her friends and taking many photos."
+              ],
+              "input_3": [
+                "In the evening, she sometimes goes jogging with her mom or takes long walks with her dad.",
+                "In the evening, Helen sometimes goes jogging with her mom or takes long walks with her dad."
+              ],
+              "input_4": [
+                "Helen usually plays volleyball on weekends, but today she is swimming with her friends."
+              ],
+              "input_5": [
+                "Every once in a while, she goes to the beach in the morning and does yoga because she loves listening to the ocean while doing it.",
+                "Every once in a while, Helen goes to the beach in the morning and does yoga because she loves listening to the ocean while doing it."
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 421799,
+            "challenge_id": 42401
+          },
+          "421800": {
+            "total_question": 6,
+            "total_correct_result_answer": 6,
+            "user_answer": {
+              "input_0": "F",
+              "input_1": "B",
+              "input_2": "E",
+              "input_3": "D",
+              "input_4": "C",
+              "input_5": "A"
+            },
+            "correct_answer": {
+              "input_0": [
+                "F ",
+                " f"
+              ],
+              "input_1": [
+                "B ",
+                " b"
+              ],
+              "input_2": [
+                "E ",
+                " e"
+              ],
+              "input_3": [
+                "D ",
+                " d"
+              ],
+              "input_4": [
+                "C ",
+                " c"
+              ],
+              "input_5": [
+                "A ",
+                " a"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 421800,
+            "challenge_id": 42401
+          },
+          "421801": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "https://drive.google.com/file/d/1azFMRkvFx-tO73SGDZLFLE5OHVfXmzOp/view?usp=sharing",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 421801,
+            "challenge_id": 42401
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "1789653312xc62qrikp8n5",
+        "class_challenge_id": 93087,
+        "contact_id": "1779875378vawpfok6ii4u",
+        "highlight": "[{\"id\": \"1789653311kkto6zswukg6\", \"text\": \"courts \", \"endOffset\": 3901, \"startOffset\": 3894, \"endContainer\": \"div.assignment-item.assignment-113761\", \"startContainer\": \"div.assignment-item.assignment-113761\"}]",
+        "note": null,
+        "created_at": "2026-09-17T13:55:12.000000Z",
+        "updated_at": null
+      },
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 113761,
+          "content": "<p><span id=\"docs-internal-guid-08c21538-7fff-5645-e0a4-9da1b16986f4\"></span></p>\n<div dir=\"ltr\" style=\"margin-left: 0pt; line-height: 1.5;\" align=\"center\">\n<p style=\"text-align: left; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 18pt; background-color: #ba372a; color: #ffffff;\"> VOCABULARY </span><span style=\"font-size: 16pt; color: #ffffff;\"><span style=\"color: #000000; font-size: 12pt;\"> <span style=\"color: #ba372a;\">SPORTS</span></span></span></strong></span></p>\n<p style=\"text-align: left; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>*HV ôn tập lại từ vựng trước khi làm các bài tập phía sau</em></span></p>\n<table style=\"border-collapse: collapse; width: 100.026%; height: 923.908px; border-color: #f8cac6;\" border=\"1\">\n<tbody>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. Take up jogging /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">teɪk</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ʌp</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈʤɒɡɪŋ</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/: </span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px; white-space-collapse: preserve;\">Bắt đầu chạy bộ </span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. Get our health better /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ɡɛt</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈaʊə</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">hɛlθ</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈbɛtə</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px; white-space-collapse: preserve;\">khiến sức khỏe tốt hơn</span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. Hit the gym /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">hɪt</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ðə</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ʤɪm</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px; white-space-collapse: preserve;\">đi tập ở phòng tập</span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. Do sit-ups /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\"><a id=\"do2_val\" style=\"box-sizing: border-box; color: #000000; background-color: transparent; text-decoration: underline;\" title=\"\" href=\"https://tophonetics.com/\" data-toggle=\"tooltip\" data-html=\"true\" data-original-title=\"1. [duː]: <i>verb, noun</i><br />2. [dəʊ]: <i>noun</i>\">duː</a></span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">sɪt</span><span style=\"font-size: 15px; background-color: #ffffff;\">-</span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ʌps</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/: </span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px; white-space-collapse: preserve;\">gập bụng</span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. Lift weights /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">lɪft</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">weɪts</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/: </span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px; white-space-collapse: preserve;\">nâng tạ</span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. stay / get in shape /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">steɪ / </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ɡɛt</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ɪn</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ʃeɪp</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px; white-space-collapse: preserve;\">giữ dáng</span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. Keep fit /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">kiːp</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">fɪt</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px; white-space-collapse: preserve;\">giữ thân hình cân đối</span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. A big fan of sth /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ə</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">bɪɡ</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">fæn</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ɒv</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px; white-space-collapse: preserve;\">người hâm mộ lớn của...</span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">9. On a daily basis /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ɒn</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ə</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈdeɪli</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈbeɪsɪs</span><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">/:</span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px; white-space-collapse: preserve;\">hàng ngày</span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">10. Wind down /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\"><a id=\"wind2_val\" style=\"box-sizing: border-box; color: #000000; background-color: transparent;\" title=\"\" href=\"https://tophonetics.com/\" data-toggle=\"tooltip\" data-html=\"true\" data-original-title=\"1. [wɪnd]: <i>noun, verb</i><br />2. [waɪnd]: <i>participle, noun, verb</i>\">waɪnd</a></span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">daʊn</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px; white-space-collapse: preserve;\">thư giãn </span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">11. Lose weight /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">luːz</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">weɪt</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">giảm cân</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">12. Gain weight /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ɡeɪn</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">weɪt</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/ </span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px; white-space-collapse: preserve;\">tăng cân</span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">13. Put on a couple of kilos /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">pʊt</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ɒn</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ə</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈkʌpᵊl</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ɒv</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈkiːləʊz</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">tăng thêm một vài cân (kilo)</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">14. Improve general health /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ɪmˈpruːv</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈʤɛnᵊrᵊl</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">hɛlθ</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/: </span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">cải thiện sức khỏe tổng quát</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">15. Stadium /</span></strong><span style=\"background-color: #ffffff; font-size: 15px; text-wrap: nowrap;\">ˈsteɪdiəm</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/: </span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">sân vận động</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">16. Sports events /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">spɔːts</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ɪˈvɛnts</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/: </span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">các sự kiện thể thao</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">17. Lively atmosphere /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈlaɪvli</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈætməsfɪə</span><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">/: </span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">Không khí sôi động, sống động</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">18. Solo sport /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈsəʊləʊ</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">spɔːt</span><span class=\"nontranscriptable\" style=\"box-sizing: border-box; font-weight: bold; font-size: 15px; background-color: #ffffff;\"> </span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">môn thể thao chơi cá nhân </span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">19. Team sport /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">tiːm</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">spɔːt</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">môn thể thao đồng đội</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">20. At my own pace /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">æt</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">maɪ</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">əʊn</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\"><a id=\"pace2_val\" style=\"box-sizing: border-box; color: #000000; background-color: transparent;\" title=\"\" href=\"https://tophonetics.com/\" data-toggle=\"tooltip\" data-html=\"true\" data-original-title=\"1. [peɪs]: <i>noun, verb</i><br />2. [ˈpeɪsi]: <i>preposition</i>\">peɪs</a></span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">(làm việc gì đó) theo nhịp độ của riêng mình</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">21. Fall behind /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈfɔːl</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">bɪˈhaɪnd</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">bị tụt lại/bỏ lại phía sau</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">22. Team spirit /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">tiːm</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈspɪrɪt</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">tinh thần đội nhóm</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">23. Promote cooperation /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">prəˈməʊt</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">kəʊˌɒpᵊrˈeɪʃᵊn</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">thúc đẩy sự hợp tác</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">24. Give up smoking /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ɡɪv</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ʌp</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈsməʊkɪŋ</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">từ bỏ việc hút thuốc</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">25. Enroll in a program /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ɪnˈrəʊl</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ɪn</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ə</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈprəʊɡræm</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/: </span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">đăng kí tham gia một chương trình</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">26. Get more exercise /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ɡɛt</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">mɔːr</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈɛksəsaɪz</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">tập thể dục nhiều hơn</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">27. Join a gym /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ʤɔɪn</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ə</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ʤɪm</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">đăng kí tham gia đi tập</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">28. Change my diet /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ʧeɪnʤ</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">maɪ</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈdaɪət</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">thay đổi chế độ ăn uống</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">29. Start eating healthier food /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">stɑːt</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈiːtɪŋ</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈhɛlθiə</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">fuːd</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">bắt đầu ăn đồ ăn lành mạnh hơn</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">30. Get a little fat in the stomach /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ɡɛt</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ə</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈlɪtᵊl</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">fæt</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ɪn</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ðə</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈstʌmək</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">hơi bị béo bụng/có chút mỡ thừa ở bụng </span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">31. Take long walks /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">teɪk</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">lɒŋ</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">wɔːks</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">đi bộ dài</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">32. Rollerblading /</span></strong><span style=\"background-color: #ffffff; font-size: 15px; text-wrap: nowrap;\">ˈrəʊləˌbleɪdɪŋ</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">trượt patin</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">33. Take time to do sth /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">teɪk</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">taɪm</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">tuː</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\"><a id=\"do2_val\" style=\"box-sizing: border-box; color: #000000; background-color: transparent;\" title=\"\" href=\"https://tophonetics.com/\" data-toggle=\"tooltip\" data-html=\"true\" data-original-title=\"1. [duː]: <i>verb, noun</i><br />2. [dəʊ]: <i>noun</i>\">duː</a></span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/: </span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">mất thời gian làm việc gì</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">34. Go to aerobics class /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ɡəʊ</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">tuː</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">eəˈrəʊbɪks klɑːs</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/: </span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">đi tới lớp thể dục nhịp điệu</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">35. Take golf lessons /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">teɪk</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ɡɒlf</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">ˈlɛsᵊnz</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/: </span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">học đánh golf</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr style=\"height: 25.6641px;\">\n<td style=\"width: 55.08%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">36. Club fees /</span></strong><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">klʌb</span><span style=\"font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; font-size: 15px; background-color: #ffffff;\">fiːz</span><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">/:</span></strong><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></strong></span></td>\n<td style=\"width: 44.9114%; height: 25.6641px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">các loại phí của câu lạc bộ</span><span style=\"font-size: 16px; white-space-collapse: preserve;\"><br /></span></span></td>\n</tr>\n<tr>\n<td style=\"width: 55.08%;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">37. Get in shape </span></strong></span><span style=\"font-size: 12pt; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">/ɡet ɪn ʃeɪp/:</span></td>\n<td style=\"width: 44.9114%;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">có vóc dáng đẹp, khỏe mạnh hơn</span></span></td>\n</tr>\n</tbody>\n</table>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 12pt; margin-bottom: 12pt; text-align: left;\"> </p>\n<p style=\"text-align: left; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #ba372a; font-size: 12pt;\"><span style=\"background-color: transparent;\">Exercise 1</span></span></strong></span></p>\n<p style=\"text-align: left; line-height: 1.5;\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt;\"><span style=\"background-color: transparent;\">Choose the correct words to complete the following sentences.</span></span></strong><span style=\"font-size: 12pt;\"><span style=\"background-color: transparent;\"> </span></span><span style=\"font-size: 12pt;\"><span style=\"background-color: transparent;\"><em>(Chọn các từ thích hợp để hoàn thiện các câu sau.)</em></span></span></span></p>\n<table style=\"border-collapse: collapse; width: 99.9841%; height: 50px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 25px;\">\n<td style=\"width: 24.9925%; height: 25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">team spirit</span></td>\n<td style=\"width: 24.9925%; height: 25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">communication skills</span></td>\n<td style=\"width: 24.9925%; height: 25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">a sense of enjoyment</span></td>\n<td style=\"width: 24.9925%; height: 25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">participating in</span></td>\n</tr>\n<tr style=\"height: 25px;\">\n<td style=\"width: 24.9925%; height: 25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">lively atmosphere</span></td>\n<td style=\"width: 24.9925%; height: 25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">lose weight</span></td>\n<td style=\"width: 24.9925%; height: 25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">keep fit</span></td>\n<td style=\"width: 24.9925%; height: 25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">physical health </span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<div dir=\"ltr\" style=\"margin-left: 0pt; line-height: 1.5;\" align=\"center\">\n<p style=\"text-align: justify; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #ba372a; font-size: 12pt;\"><span style=\"background-color: transparent;\">Exercise 2</span></span></strong></span></p>\n<p style=\"text-align: justify; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Rearrange the following words to complete the sentences </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Sắp xếp các từ sau để tạo thành câu hoàn chỉnh)</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ba372a; font-family: arial, helvetica, sans-serif;\"><strong>Exercise 3</strong></span></p>\n<p style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Translate these sentences into English using the suggested words. You can change the form if necessary. </strong><em>(Dịch các câu sau sang tiếng Anh sử dụng từ gợi ý. Có thể thay đổi dạng từ nếu cần.)</em></span></p>\n<p style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #ffffff; background-color: #ba372a; font-size: 18pt;\"> GRAMMAR </span></strong></span></p>\n<p style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background-color: #ffffff;\"><span style=\"color: #ba372a;\"><span style=\"background-color: transparent;\">Exercise 1</span></span></span></strong></span></p>\n<p style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background-color: #ffffff;\">Choose the correct answer</span></strong><span style=\"color: #242938; background-color: #ffffff;\">. </span><em style=\"color: #242938; background-color: #ffffff;\">(Chọn đáp án đúng.)</em></span></p>\n<p style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #242938; background-color: #ffffff;\"><strong><span style=\"color: #242938; background-color: #ffffff;\"><span style=\"color: #ba372a;\"><span style=\"background-color: transparent;\">Exercise 2</span></span></span></strong></span></span></p>\n<p style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #242938; background-color: #ffffff;\"><strong>Use the prompts to write sentences about Helen's routine. Use the correct form of the present simple. </strong></span><em style=\"color: #242938; background-color: #ffffff;\"><em>(Sử dụng các gợi ý để viết câu về thói quen của Helen. Sử dụng dạng đúng của thì hiện tại đơn.)</em></em></span></p>\n<p style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #242938; background-color: #ffffff;\"><span style=\"color: #242938; background-color: #ffffff;\"><strong><span style=\"color: #242938; background-color: #ffffff;\"><span style=\"color: #ba372a;\"><span style=\"background-color: transparent;\">Exercise 3</span></span></span></strong></span></span></span></p>\n<p style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #242938; background-color: #ffffff;\"><strong>Match the beginning of each sentence from 1 to 10 with its suitable ending from A to J to finish the sentences.</strong> </span><em style=\"color: #242938; background-color: #ffffff;\">(Nối nửa đầu câu 1-10 với nửa câu sau A-J tương ứng.)</em></span></p>\n<p style=\"text-align: justify; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 18pt; color: #ffffff; background-color: #ba372a;\"> SHADOWING </span></strong></span></p>\n<p style=\"text-align: justify; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Bật audio, nghe và bắt chước các câu sau đúng ngữ âm, tốc độ và ngữ điệu.</strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt; text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1714103911.mp3\" /> 1) There are friendly people who go there, so it's a good place to meet people.</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong id=\"docs-internal-guid-6f3e987b-7fff-b82a-6b59-0057d0b3ef90\" style=\"font-weight: normal;\"></strong></span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt; text-align: left;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1714103954.mp3\" /> 2) It's more interesting than exercising at home like I used to.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt; text-align: left;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1714103964.mp3\" /> 3) There's hardly anyone there and you can listen to the ocean as you do it. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt; text-align: left;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1714103973.mp3\" /> 4) I used to play both tennis and volleyball. But I play mainly volleyball now. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt; text-align: left;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1714103981.mp3\" /> 5) It was also difficult to find a partner, and the courts were always crowded, too.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt; text-align: left;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1714103989.mp3\" /> 6) I wanted something more exciting, so that's when I took up rollerblading.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt; text-align: left;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1714103996.mp3\" /> 7) My friends think I'm kind of strange because none of them do it, but I love it. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt; text-align: left;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1714104004.mp3\" /> 8) I don't often go on busy streets because that can be dangerous, but there are plenty of places where I can ride near where I live. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt; text-align: left;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1714104012.mp3\" /> 9) It can be pretty expensive because you have to buy all your equipment and club fees are high. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt; text-align: left;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1714104020.mp3\" /> 10) It's also good exercise because you have to walk a lot</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n</div>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 42401,
+          "id": 421785,
+          "name": null,
+          "title": "VOCABULARY",
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span id=\"docs-internal-guid-add692df-7fff-514c-d136-c4741ddfafd2\" style=\"font-family: arial, helvetica, sans-serif; color: #ba372a; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 1</span></span></p>\n<p><span id=\"docs-internal-guid-add692df-7fff-514c-d136-c4741ddfafd2\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Choose the correct words to complete the following sentences. </span><span style=\"font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Chọn các từ thích hợp để hoàn thiện các câu sau.)</span></span></p>\n<table style=\"border-collapse: collapse; width: 100.01%; height: 46.7812px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 23.3906px;\">\n<td style=\"width: 24.9827%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">team spirit</span></td>\n<td style=\"width: 24.9827%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">communication skills</span></td>\n<td style=\"width: 24.9827%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">a sense of enjoyment</span></td>\n<td style=\"width: 24.9827%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">participating in</span></td>\n</tr>\n<tr style=\"height: 23.3906px;\">\n<td style=\"width: 24.9827%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">lively atmosphere</span></td>\n<td style=\"width: 24.9827%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">lose weight </span></td>\n<td style=\"width: 24.9827%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">keep fit</span></td>\n<td style=\"width: 24.9827%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">physical health</span></td>\n</tr>\n</tbody>\n</table>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 102483,
+              "content": "<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span id=\"50une_ml2q_b4hup\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\">Team sports bring several benefits to people's lives. Firstly, playing a team sport can help people <span style=\"color: #ba372a;\"><span id=\"50une_ml2q_96kai\" style=\"color: #ba372a;\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\">[input_0]</span></span></span><span id=\"50une_ml2q_7etjm\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\"> and improve their general health. For example, many people join football or basketball clubs to get more exercise and </span><span id=\"50une_ml2q_7ct65\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\">stay in shape</span><span id=\"50une_ml2q_6d72g\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\">. As a result, they may <span style=\"color: #ba372a;\">[input_1] </span>and become healthier. Secondly, team sports can </span><span id=\"50une_ml2q_1bga6\" style=\"color: #000000;\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\">promote cooperation</span><span id=\"50une_ml2q_5skd4\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\"> and <span style=\"color: #ba372a;\">[input_2]</span> because players need to work together to win matches. This helps people improve their <span style=\"color: #ba372a;\">[input_3]</span> and build good relationships with others. In addition, <span style=\"color: #ba372a;\">[input_4]</span> sports events in a stadium often creates a <span style=\"color: #ba372a;\"><span id=\"50une_ml2q_645g0\" style=\"color: #ba372a;\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\">[input_5]</span></span></span><span id=\"50une_ml2q_1rgbq\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\">, so people can feel <span style=\"color: #ba372a;\"><span id=\"50une_ml2q_6i8si\" style=\"color: #ba372a;\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\">[input_6]</span></span></span><span id=\"50une_ml2q_3omnm\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\"> and belonging. Therefore, team sports are beneficial for both<span style=\"color: #ba372a;\"> [input_7]</span> and social life.</span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42401,
+          "id": 421786,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": "<p><strong><span style=\"color: #ba372a; font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"background-color: transparent;\">Exercise 2</span></span></strong></p>\n<p><span id=\"docs-internal-guid-21aada61-7fff-2a30-a938-d5eaafb89ee4\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Rearrange the following words to complete the sentences </span><span style=\"font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Sắp xếp các từ sau để tạo thành câu hoàn chỉnh)</span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 102484,
+              "content": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>1.</strong> </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: I need to get more exercise. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: How about going jogging with me in the park near our house? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Probably not. jogging / can't / I / stand / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">→</span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 16px; white-space-collapse: preserve;\">A: Probably not. </span><span style=\"color: #cc0000; font-size: 12pt; white-space-collapse: preserve;\">[input_0] </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>2.</strong> </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: What's your New Year's resolution, Lee? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: this year / I'm / to / get / going / shape / in / . </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I'm going to exercise every day and lose five kilos. You watch. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">→ </span><span style=\"font-size: 16px; white-space-collapse: preserve;\">B: </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1] </span><span style=\"font-size: 16px; white-space-collapse: preserve;\">I'm going to exercise every day and lose five kilos. You watch.</span><span style=\"color: #cc0000; font-size: 12pt; white-space-collapse: preserve;\"> </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>3. </strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Due to stress at work, I can't eat properly. I have lost 5 kilos already. How can I gain weight again? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Let me see. should / join / lift / a gym / and / weights / You / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: No time. I think I'll go back and live with my mom. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">→ </span><span style=\"font-size: 16px; white-space-collapse: preserve;\">B: Let me see.</span><span style=\"color: #cc0000; font-size: 12pt; white-space-collapse: preserve;\"> [input_2] </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>4.</strong> </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: So, what are your New Year's resolutions? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Well, going / change / to / diet / my / eating / and / food / start / healthier / I'm / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">→ </span><span style=\"font-size: 16px; white-space-collapse: preserve;\">B: Well, </span><span style=\"color: #cc0000; font-size: 12pt; white-space-collapse: preserve;\">[input_3]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>5.</strong> </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: I'm getting a little fat in the stomach.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Yeah, I noticed. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Oh my, tomorrow / the / will / I / hit / gym / . </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">→ </span><span style=\"font-size: 16px; white-space-collapse: preserve;\">A: Oh my, </span><span style=\"color: #cc0000; font-size: 12pt; white-space-collapse: preserve;\">[input_4] </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>6.</strong> </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Do you like playing sports?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Not really. sports / on / I / watching / prefer / after school / me / because / it / wind down / helps / TV / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">→ </span><span style=\"font-size: 16px; white-space-collapse: preserve;\">B: </span><span style=\"font-size: 16px; white-space-collapse: preserve;\">Not really. </span><span style=\"color: #cc0000; font-size: 12pt; white-space-collapse: preserve;\"><span style=\"color: #cc0000; font-size: 12pt; white-space-collapse: preserve;\"><span style=\"color: #cc0000; font-size: 16px; white-space-collapse: preserve;\">[input_5]</span></span></span></span></p>\n<p><span id=\"docs-internal-guid-96fbdf18-7fff-545c-ae4f-3d8f2e23a137\" style=\"font-family: Nunito-Regular;\"></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42401,
+          "id": 421787,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">1. Tôi là một người rất hâm mộ bóng đá và tôi xem các trận đấu bóng đá mỗi tuần. (a big fan of / football match) </span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">1. I am a big fan of football and I watch football matches every week. </span></p>",
+          "introduction": "<p><span style=\"color: #ba372a; font-family: arial, helvetica, sans-serif;\"><strong>Exercise 3</strong></span></p>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Translate these sentences into English using the suggested words. You can change the form if necessary. </strong><em>(Dịch các câu sau sang tiếng Anh sử dụng từ gợi ý. Có thể thay đổi dạng từ nếu cần.)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 42401,
+          "id": 421788,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">2. Anh trai của tôi thích các môn thể thao cá nhân vì anh ấy có thể luyện tập theo tốc độ của riêng mình. (solo sports / own pace) </span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">2. My brother likes solo sports because he can practice at his own pace.</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 42401,
+          "id": 421789,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">3. Bố tôi thường đi bộ đường dài vào buổi sáng để duy trì sức khỏe tốt. (take long walks / maintain good health) </span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">3. My father often takes long walks in the morning to maintain good health.</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 42401,
+          "id": 421790,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">4. Hiện nay, nhiều học sinh đang tham gia các câu lạc bộ thể thao để kết bạn mới.(make new friends)</span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">4. Many students are joining/ participating in/ taking part in sports clubs to make new friends these days.</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 42401,
+          "id": 421791,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">5. Nhiều người tập thể dục hằng ngày để cải thiện sức khỏe tổng thể của họ. (on a daily basis / general health) </span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">5. Many people exercise on a daily basis to improve their general health.</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 42401,
+          "id": 421792,
+          "name": null,
+          "title": "GRAMMAR",
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif; color: #ba372a;\"><strong><span style=\"background-color: #ffffff;\">Exercise 1</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background-color: #ffffff;\">Choose the correct answer</span><span style=\"color: #242938; background-color: #ffffff;\">. </span></strong><em style=\"color: #242938; background-color: #ffffff;\">(Chọn đáp án đúng)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": null,
+          "answer": null
+        },
+        {
+          "challenge_id": 42401,
+          "id": 421793,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>1.</strong> I ....................... in shape this year. I have just signed up for the gym and I’m going to exercise every day.</span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #ba372a;\"><strong><span style=\"color: #000000;\">1. </span>B. am getting</strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Câu đưa ra một dự định trong tương lai (this year). Dự định này đã có kế hoạch rõ ràng ở câu 2 -&gt; chọn thì hiện tại tiếp diễn. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">-&gt; I <strong><span style=\"color: #ba372a;\">am getting</span> </strong>in shape this year. I have just signed up for the gym and I’m going to exercise every day. <em>(Tôi sẽ trở nên khỏe mạnh trong năm nay. Tôi vừa mới đăng ký đi tập gym và tôi sẽ đi tập thể dục mỗi ngày.)</em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 890683,
+                "content": "A. get"
+              },
+              {
+                "id": 890684,
+                "content": "B. am getting"
+              },
+              {
+                "id": 890685,
+                "content": "C. got"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 42401,
+          "id": 421794,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>2. </strong>Jasmine ....................... to the subway every day instead of taking the train because she wants to do more walking. </span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>2. <span style=\"color: #ba372a;\">A. walks</span></strong></span></p>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Câu có cụm every day (mỗi ngày) -&gt; kể về một thói quen hiện tại -&gt; thì hiện tại đơn. </span></p>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">-&gt; Jasmine <strong><span style=\"color: #ba372a;\">walks</span> </strong>to the subway every day instead of taking the train because she wants to do more walking. <em>(Jasmine đi bộ tới tàu điện ngầm mỗi ngày thay vì đi tàu hỏa vì cô muốn đi bộ hơn.)</em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 890686,
+                "content": "A. walks"
+              },
+              {
+                "id": 890687,
+                "content": "B. is walking"
+              },
+              {
+                "id": 890688,
+                "content": "C. walked"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 42401,
+          "id": 421795,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>3. </strong>I want to lose some weight, so I usually .......................... sit-ups at home after dinner.</span></p>",
+          "explain": "<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">5. <strong><span style=\"color: #cc0000;\">C. do</span></strong></span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu có từ \"usually\" (thường xuyên) -&gt; kể về một thói quen hoặc hoạt động lặp lại thường xuyên ở hiện tại.-&gt; thì hiện tại đơn </span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">-&gt; <span style=\"color: #242938;\">I want to lose some weight, so I usually do sit-ups at home after dinner.</span> <em>(Tôi muốn giảm cân nên tôi thường tập gập bụng ở nhà sau bữa tối.) </em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 890689,
+                "content": "A. does"
+              },
+              {
+                "id": 890690,
+                "content": "B. am doing"
+              },
+              {
+                "id": 890691,
+                "content": "C. do"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 42401,
+          "id": 421796,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>4.</strong> I ....................... long walks every morning with my close friend because it’s a great way to start the day.</span></p>",
+          "explain": "<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">4. <strong><span style=\"color: #cc0000;\">A. take</span></strong></span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu nói về một thói quen, tần suất 'every morning' (mỗi sáng) -&gt; thì hiện tại đơn </span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">-&gt; I <span style=\"color: #cc0000;\"><strong>take</strong> </span>long walks every morning with my close friend because it’s a great way to start the day. <em>(Tôi đi bộ với bạn thân vào mỗi buổi sáng vì đây là cách tuyệt vời để bắt đầu ngày mới.) </em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 890692,
+                "content": "A. take"
+              },
+              {
+                "id": 890693,
+                "content": "B. am taking"
+              },
+              {
+                "id": 890694,
+                "content": "C. took"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 42401,
+          "id": 421797,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>5.</strong> Nancy <span style=\"color: #242938; background-color: #ffffff;\">.......................</span> an aerobics class this month because she wants to keep fit.</span></p>",
+          "explain": "<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">5. <strong><span style=\"color: #cc0000;\">C. is joining</span></strong></span></p>\n<p data-start=\"0\" data-end=\"139\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu có cụm thời gian “this month” và diễn tả một hoạt động đang diễn ra trong khoảng thời gian hiện tại, nên dùng thì hiện tại tiếp diễn.</span></p>\n<p data-start=\"141\" data-end=\"178\"><span style=\"font-family: arial, helvetica, sans-serif;\">Cấu trúc: <strong data-start=\"151\" data-end=\"176\">S + am/is/are + V-ing</strong></span></p>\n<p data-start=\"180\" data-end=\"248\"><span style=\"font-family: arial, helvetica, sans-serif;\">Động từ “join” được chia thành “is joining” vì chủ ngữ là “Nancy”.</span></p>\n<p data-start=\"180\" data-end=\"248\"><span style=\"font-family: arial, helvetica, sans-serif;\">→<em> </em>Nancy<span style=\"color: #ba372a;\"><strong> is joining</strong></span> an aerobics class this month because she wants to keep fit.<em> (Nancy đang tham gia một lớp thể dục nhịp điệu trong tháng này vì cô ấy muốn giữ dáng.)</em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 890695,
+                "content": "A. joins"
+              },
+              {
+                "id": 890696,
+                "content": "B. is joining"
+              },
+              {
+                "id": 890697,
+                "content": "C. join"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 42401,
+          "id": 421798,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>6.</strong> I usually ride my bike every evening but I  ....................... on busy streets because that can be dangerous.</span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">6. <strong><span style=\"color: #ba372a;\">A. don’t often go</span></strong></span></p>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Câu nói về thói quen do có trạng từ chỉ tần suất (usually) -&gt; nói về thói quen -&gt; thì hiện tại đơn. </span></p>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">-&gt; I usually ride my bike every evening but I <strong><span style=\"color: #ba372a;\">don’t often go</span> </strong>on busy streets because that can be dangerous. <em>(Tôi thường đi xe đạp mỗi tối nhưng tôi không thường đi trên các con phố đông người vì nguy hiểm.) </em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 890698,
+                "content": "A. don't often go"
+              },
+              {
+                "id": 890699,
+                "content": "B. am not going"
+              },
+              {
+                "id": 890700,
+                "content": "C. didn't go"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 42401,
+          "id": 421799,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": "<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Chú ý:</strong> Do chủ ngữ là ‘Helen’ = she -&gt; Khi sử dụng thì hiện tại đơn cần chia động từ (thêm s/es sau động từ). Khi trình bày sau khi hết câu đơn cần có dấu chấm câu. </span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">1. today / Helen / not play football / because she / feel tired.</span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">“today” là dấu hiệu của hiện tại tiếp diễn, nên dùng “is not playing” để diễn tả hành động không xảy ra tại thời điểm nói. Ở mệnh đề sau, “feel” là động từ chỉ trạng thái nên dùng hiện tại đơn “feels”, thêm “-s” vì chủ ngữ “she”.</span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">→ <span style=\"color: #ba372a;\"><strong>Today, Helen is not playing football because she feels tired.</strong></span> <em>(Hôm nay, Helen không chơi bóng đá vì cô ấy cảm thấy mệt.)</em></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">2. When the weather / nice, / go to school / by bike / instead of taking the bus.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Mệnh đề “when” cần có động từ “to be” → “is nice”, đây là thói quen nên dùng hiện tại đơn “goes”, thêm “-es” vì chủ ngữ “she”</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">→ <span style=\"color: #ba372a;\"><strong>When the weather is nice, she goes to school by bike instead of taking the bus.</strong></span> <em>(Khi thời tiết đẹp, cô ấy đi học bằng xe đạp thay vì đi xe buýt.)</em></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">3. Next weekend / go hiking in the mountains / with her friends / and take many photos.</span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">“Next weekend” là dấu hiệu của tương lai, diễn tả hành động xảy ra trong tương lai gần, có kế hoạch và dự định từ trước → dùng thì hiện tại tiếp diễn </span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">→<span style=\"color: #ba372a;\"><strong> Next weekend, she is going hiking in the mountains with her friends and taking many photos.</strong></span> <em>(Cuối tuần này, Helen sẽ đi leo núi với bạn bè và chụp nhiều ảnh)</em></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">4. In the evening / sometimes / go jogging with her mom / or take long walks with her dad.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">“In the evening” đặt đầu câu, “sometimes” đứng trước động từ chính, đây là thói quen nên chia hiện tại đơn “goes / takes”, cần chia cả hai động từ song song</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">→<span style=\"color: #ba372a;\"><strong> In the evening, she sometimes goes jogging with her mom or takes long walks with her dad. </strong></span><em>(Vào buổi tối, cô ấy thỉnh thoảng đi chạy bộ với mẹ hoặc đi dạo dài với bố.)</em></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">5. Helen / usually / play volleyball / weekends/ , / but today / she / swim / her friends. </span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">“Usually” và “on weekends” là dấu hiệu của hiện tại đơn nên dùng “plays” để diễn tả thói quen. “Today” là dấu hiệu của hiện tại tiếp diễn nên dùng “is swimming” để diễn tả hành động đang diễn ra tạm thời ở ở hiện tại.</span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">→ <span style=\"color: #ba372a;\"><strong>Helen usually plays volleyball on weekends, but today she is swimming with her friends.</strong></span> <em>(Helen thường chơi bóng chuyền vào cuối tuần, nhưng hôm nay cô ấy đang đi bơi cùng bạn bè.)</em></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">6. Every once in a while / go to the beach / in the morning / and do yoga / because / love listening to the ocean while doing it.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">“Every once in a while” → hiện tại đơn “goes / does / loves”, cần chia đồng đều các động từ, thêm “she” sau “because” để đủ chủ ngữ.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">→ <span style=\"color: #ba372a;\"><strong>Every once in a while, she goes to the beach in the morning and does yoga because she loves listening to the ocean while doing it.</strong></span> <em>(Thỉnh thoảng, cô ấy đi biển vào buổi sáng và tập yoga vì cô ấy thích nghe tiếng sóng khi tập.)</em></span></p>",
+          "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif; color: #ba372a;\"><strong><span style=\"background-color: #ffffff;\">Exercise 2</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background-color: #ffffff;\">Use the prompts to write sentences about Helen. You don't need to change the order of the words. Use the correct form of the present simple, present continuous.</span></strong><span style=\"color: #242938; background-color: #ffffff;\"> </span><em style=\"color: #242938; background-color: #ffffff;\">(Sử dụng các gợi ý để viết câu về Helen. Không cần đổi thứ tự các cụm từ. Dùng đúng dạng của thì hiện tại đơn, hiện tại tiếp diễn.)</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em style=\"color: #242938; background-color: #ffffff;\">Example: </em></span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>This is Helen. </em></span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Every day / get up / at half past seven.</em></span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span style=\"color: #2980b9;\">→ Every day, she gets up at half past seven. </span></em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 102485,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>1.</strong> Today / Helen / not play football / because she / feel tired.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">→ [input_0]</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>2. </strong>When the weather / nice, / go to school / by bike / instead of taking the bus.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">→ [input_1]</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>3.</strong> Next weekend / go hiking in the mountains / with her friends / and take many photos.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">→ [input_2]</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>4.</strong> In the evening / sometimes / go jogging with her mom / or take long walks with her dad.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">→ [input_3]</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>5.</strong>  <span>Helen / usually / play volleyball / weekends/ , / but today / she / swim / her friends. </span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">→ [input_4]</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>6.</strong> Every once in a while / go to the beach / in the morning / and do yoga / because / love listening to the ocean while doing it.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">→ [input_5]</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42401,
+          "id": 421800,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Chú ý: các câu được chọn dựa trên nghĩa của câu, đồng thời ta xem xét câu sử dụng thì gì dựa trên ngữ cảnh để chọn được đáp án đúng </strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>1. <span style=\"color: #ba372a;\">F. because it helps them improve both physical and mental health.</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Many people choose to do regular exercise in their free time <span style=\"color: #ba372a;\"><em>because it helps them improve both physical and mental health. <span style=\"color: #000000;\">(Nhiều người chọn tập thể dục thường xuyên vào thời gian rảnh vì nó giúp họ cải thiện cả sức khỏe thể chất lẫn tinh thần.)</span></em></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>2. <span style=\"color: #ba372a;\">B. plays an important role in leading a balanced lifestyle.</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">In modern society, playing sports regularly <span style=\"color: #ba372a;\"><em>plays an important role in leading a balanced lifestyle. <span style=\"color: #000000;\">(Trong xã hội hiện đại, việc chơi thể thao thường xuyên đóng vai trò quan trọng trong việc duy trì một lối sống cân bằng.)</span></em></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>3. <span style=\"color: #ba372a;\">E. if they want to achieve success in competitions.</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Professional athletes often have to train for many hours every day<span style=\"color: #ba372a;\"><em> if they want to achieve success in competitions. <span style=\"color: #000000;\">(Các vận động viên chuyên nghiệp thường phải luyện tập nhiều giờ mỗi ngày nếu họ muốn đạt được thành công trong các cuộc thi.)</span></em></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>4. <span style=\"color: #ba372a;\">D. helps people develop teamwork and communication skills.</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Playing team sports such as football or basketball <span style=\"color: #ba372a;\"><em>helps people develop teamwork and communication skills. <span style=\"color: #000000;\">(Việc chơi các môn thể thao đồng đội như bóng đá hoặc bóng rổ giúp mọi người phát triển kỹ năng làm việc nhóm và giao tiếp.)</span></em></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>5. <span style=\"color: #ba372a;\">C. while others enjoy going to the stadium to experience the live atmosphere.</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #000000;\">Some people prefer watching sports on TV at home <span style=\"color: #ba372a;\"><em>while others enjoy going to the stadium to experience the live atmosphere. <span style=\"color: #000000;\">(</span></em></span></span><span style=\"color: #000000;\"><em>Một số người thích xem thể thao trên TV ở nhà, trong khi những người khác lại thích đến sân vận động để trải nghiệm không khí trực tiếp.)</em></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>6. <span style=\"color: #ba372a;\">A. as it creates a sense of motivation and makes people feel less bored. </span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Doing exercise with friends can be more enjoyable <span style=\"color: #ba372a;\"><em>as it creates a sense of motivation and makes people feel less bored. <span style=\"color: #000000;\">(Tập thể dục cùng bạn bè có thể thú vị hơn vì điều đó tạo động lực và khiến mọi người cảm thấy ít nhàm chán hơn.)</span></em></span></span></p>",
+          "introduction": "<p><span style=\"color: #ba372a; font-family: arial, helvetica, sans-serif;\"><strong><span style=\"background-color: #ffffff;\">Exercise 3</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background-color: #ffffff;\">Match the beginning of each sentence from 1 to 10 with its suitable ending from A to J to finish the sentences. </span></strong><em style=\"color: #242938; background-color: #ffffff;\">(Nối nửa đầu câu 1-10 với nửa câu sau A-J tương ứng.)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 102486,
+              "content": "<table style=\"border-collapse: collapse; width: 100%;\" border=\"0\">\n<tbody>\n<tr>\n<td>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background-color: #ffffff;\">1</span></strong><span style=\"color: #242938; background-color: #ffffff;\"><strong>.</strong> Many people choose to do regular exercise in their free time<span style=\"color: #242938; background-color: #ffffff;\"> …</span></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>2.</strong> In modern society, playing sports regularly<span style=\"color: #242938; background-color: #ffffff;\"> …</span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>3. </strong>Professional athletes often have to train for many hours every day<span style=\"color: #242938; background-color: #ffffff;\"> …</span></span></p>\n<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>4. </strong>Playing team sports such as football or basketball<span style=\"color: #242938; background-color: #ffffff;\"> …</span></span></p>\n<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>5.</strong> Some people prefer watching sports on TV at home<span style=\"color: #242938; background-color: #ffffff;\"> …</span></span></p>\n<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>6.</strong> Doing exercise with friends can be more enjoyable <span style=\"color: #242938; background-color: #ffffff;\"> …</span></span></p>\n</td>\n<td>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>A.</strong> as it creates a sense of motivation and makes people feel less bored.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>B.</strong> plays an important role in leading a balanced lifestyle.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>C.</strong> while others enjoy going to the stadium to experience the live atmosphere.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>D. </strong>helps people develop teamwork and communication skills.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>E.</strong> if they want to achieve success in competitions.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>F.</strong> because it helps them improve both physical and mental health.</span></p>\n</td>\n<td>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>1. [input_0]</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>2. [input_1]</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>3. [input_2]</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>4. [input_3]</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>5. [input_4]</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>6. [input_5]</strong></span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42401,
+          "id": 421801,
+          "name": "SHADOWING",
+          "title": "SHADOWING",
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span style=\"font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"box-sizing: border-box; font-style: normal; white-space-collapse: collapse; background-color: #ffffff;\">Nghe và bắt chước lại các câu sau trong bài nghe, bắt chước yêu cầu đúng ngữ âm, ngữ điệu và tốc độ. </span></span></span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span style=\"font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"box-sizing: border-box; font-style: normal; white-space-collapse: collapse; background-color: #ffffff;\">Nộp link dưới đây: </span></span></span></em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

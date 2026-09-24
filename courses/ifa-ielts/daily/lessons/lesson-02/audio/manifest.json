@@ -1,0 +1,96 @@
+{
+  "lesson": 2,
+  "lessonKey": "lesson-02",
+  "items": [
+    {
+      "id": "lesson-02-audio-001",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1773810517.mp3",
+      "localFile": "courses/ifa-ielts/daily/audio/lesson-02/001-1773810517.mp3",
+      "script": null,
+      "status": "downloaded",
+      "bytes": 212367,
+      "contentType": "audio/mpeg"
+    },
+    {
+      "id": "lesson-02-audio-002",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1773810527.mp3",
+      "localFile": "courses/ifa-ielts/daily/audio/lesson-02/002-1773810527.mp3",
+      "script": null,
+      "status": "downloaded",
+      "bytes": 243714,
+      "contentType": "audio/mpeg"
+    },
+    {
+      "id": "lesson-02-audio-003",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1773810539.mp3",
+      "localFile": "courses/ifa-ielts/daily/audio/lesson-02/003-1773810539.mp3",
+      "script": null,
+      "status": "downloaded",
+      "bytes": 203172,
+      "contentType": "audio/mpeg"
+    },
+    {
+      "id": "lesson-02-audio-004",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1774862315.mp3",
+      "localFile": "courses/ifa-ielts/daily/audio/lesson-02/004-1774862315.mp3",
+      "script": null,
+      "status": "downloaded",
+      "bytes": 561887,
+      "contentType": "audio/mpeg"
+    },
+    {
+      "id": "lesson-02-audio-005",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1774862323.mp3",
+      "localFile": "courses/ifa-ielts/daily/audio/lesson-02/005-1774862323.mp3",
+      "script": null,
+      "status": "downloaded",
+      "bytes": 380492,
+      "contentType": "audio/mpeg"
+    },
+    {
+      "id": "lesson-02-audio-006",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1774862331.mp3",
+      "localFile": "courses/ifa-ielts/daily/audio/lesson-02/006-1774862331.mp3",
+      "script": null,
+      "status": "downloaded",
+      "bytes": 506298,
+      "contentType": "audio/mpeg"
+    },
+    {
+      "id": "lesson-02-audio-007",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1774862339.mp3",
+      "localFile": "courses/ifa-ielts/daily/audio/lesson-02/007-1774862339.mp3",
+      "script": null,
+      "status": "downloaded",
+      "bytes": 492505,
+      "contentType": "audio/mpeg"
+    },
+    {
+      "id": "lesson-02-audio-008",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1774862077.mp3",
+      "localFile": "courses/ifa-ielts/daily/audio/lesson-02/008-1774862077.mp3",
+      "script": null,
+      "status": "downloaded",
+      "bytes": 648822,
+      "contentType": "audio/mpeg"
+    },
+    {
+      "id": "lesson-02-audio-009",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1774862089.mp3",
+      "localFile": "courses/ifa-ielts/daily/audio/lesson-02/009-1774862089.mp3",
+      "script": null,
+      "status": "downloaded",
+      "bytes": 525524,
+      "contentType": "audio/mpeg"
+    },
+    {
+      "id": "lesson-02-audio-010",
+      "sourceUrl": "https://api-quiz-maker.langgo.vn/storage/audio/1774862098.mp3",
+      "localFile": "courses/ifa-ielts/daily/audio/lesson-02/010-1774862098.mp3",
+      "script": null,
+      "status": "downloaded",
+      "bytes": 535137,
+      "contentType": "audio/mpeg"
+    }
+  ]
+}

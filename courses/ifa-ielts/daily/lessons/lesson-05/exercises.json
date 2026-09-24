@@ -1,0 +1,2037 @@
+{
+  "lesson": 5,
+  "lessonKey": "lesson-05",
+  "questions": [
+    {
+      "id": "question-430843",
+      "sourceQuestionId": 430843,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "title": "VOCABULARY",
+      "type": 3,
+      "prompt": "VOCABULARY",
+      "introductionText": "Exercise 1\nChoose the correct words or phrases. (Chọn từ/cụm từ phù hợp.)",
+      "contentText": "1.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "VOCABULARY",
+        "introduction": "<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #ba372a;\"><strong>Exercise 1<br /></strong></span><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Choose the correct words or phrases. </strong><em>(Chọn từ/cụm từ phù hợp.)</em></span></p>",
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>1.    </strong><img style=\"margin-left: 0px; margin-top: 0px;\" src=\"https://lh7-us.googleusercontent.com/wJ9fi-drNK6CA0cbv5ZujwjHoVB7ELO5fi703Svz5Gl19dfHKRpS-hJL5ejMg1nP6s9KNZbLUaajoMKzrjGg2qRbOLllcLCG6OvMUuSPwBWDvm9vqMo9zuBwxc2FMSADB8uihd5CW27EczpTccKc1uU\" width=\"201\" height=\"133\" /></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 911139,
+          "content": "Public transport"
+        },
+        {
+          "id": 911140,
+          "content": "Private transport"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [
+        {
+          "url": "https://lh7-us.googleusercontent.com/wJ9fi-drNK6CA0cbv5ZujwjHoVB7ELO5fi703Svz5Gl19dfHKRpS-hJL5ejMg1nP6s9KNZbLUaajoMKzrjGg2qRbOLllcLCG6OvMUuSPwBWDvm9vqMo9zuBwxc2FMSADB8uihd5CW27EczpTccKc1uU",
+          "localFile": "courses/ifa-ielts/daily/lessons/lesson-05/images/001-wJ9fi-drNK6CA0cbv5ZujwjHoVB7ELO5fi703Svz5Gl19dfHKRpS-hJL5ejMg1nP6s9KNZbLUaajoMKzrjGg2qRbOLllcLCG6OvM.jpg"
+        }
+      ],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911140,
+        "correctAnswer": 911140,
+        "resultAnswer": {
+          "911140": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430844",
+      "sourceQuestionId": 430844,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "title": null,
+      "type": 3,
+      "prompt": "2.",
+      "introductionText": "",
+      "contentText": "2.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt;\">2.    </span></strong><img style=\"font-size: 12pt; white-space-collapse: preserve; margin-left: 0px; margin-top: 0px;\" src=\"https://lh7-us.googleusercontent.com/V0ivr34KtEHy6EAwPfuRtkeQG8BTgRAc0YyzrK2VGhb_3bpf5iY0hLX6IBelM-sudOpYxZLnn-iBXN8EFUp862BJxc1n_Zql2h3HPtpwbL778kq60X_mh2oXqWeKTYSt0Fqxw9wKp4faK7L6dXrck5E\" width=\"200\" height=\"133\" /></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 911141,
+          "content": "Take the bus"
+        },
+        {
+          "id": 911142,
+          "content": "Take the subway"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [
+        {
+          "url": "https://lh7-us.googleusercontent.com/V0ivr34KtEHy6EAwPfuRtkeQG8BTgRAc0YyzrK2VGhb_3bpf5iY0hLX6IBelM-sudOpYxZLnn-iBXN8EFUp862BJxc1n_Zql2h3HPtpwbL778kq60X_mh2oXqWeKTYSt0Fqxw9wKp4faK7L6dXrck5E",
+          "localFile": "courses/ifa-ielts/daily/lessons/lesson-05/images/002-V0ivr34KtEHy6EAwPfuRtkeQG8BTgRAc0YyzrK2VGhb_3bpf5iY0hLX6IBelM-sudOpYxZLnn-iBXN8EFUp862BJxc1n_Zql2h3H.jpg"
+        }
+      ],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911141,
+        "correctAnswer": 911141,
+        "resultAnswer": {
+          "911141": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430845",
+      "sourceQuestionId": 430845,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "title": null,
+      "type": 3,
+      "prompt": "3.",
+      "introductionText": "",
+      "contentText": "3.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>3.    </strong><img style=\"white-space-collapse: preserve; margin-left: 0px; margin-top: 0px;\" src=\"https://lh7-us.googleusercontent.com/RAVNtWCoTs1d7QvQMTRhYqSWWaG6vHYkLryqGhFNEAE_Ymq6n0NeSdqkrWhdfVjgDaERrKbxBQyMIArJM54aXqdphRxQN7jNys-ZiGaRX1XSjwLJS0AGzEkJtPGQi1mtEHgqgNFDrKerwAA9nY_6H3w\" width=\"175\" height=\"207\" /></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 911143,
+          "content": "Back up"
+        },
+        {
+          "id": 911144,
+          "content": "Set off"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [
+        {
+          "url": "https://lh7-us.googleusercontent.com/RAVNtWCoTs1d7QvQMTRhYqSWWaG6vHYkLryqGhFNEAE_Ymq6n0NeSdqkrWhdfVjgDaERrKbxBQyMIArJM54aXqdphRxQN7jNys-ZiGaRX1XSjwLJS0AGzEkJtPGQi1mtEHgqgNFDrKerwAA9nY_6H3w",
+          "localFile": "courses/ifa-ielts/daily/lessons/lesson-05/images/003-RAVNtWCoTs1d7QvQMTRhYqSWWaG6vHYkLryqGhFNEAE_Ymq6n0NeSdqkrWhdfVjgDaERrKbxBQyMIArJM54aXqdphRxQN7jNys-Z.jpg"
+        }
+      ],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 0,
+        "userAnswer": 911144,
+        "correctAnswer": 911143,
+        "resultAnswer": {
+          "911144": false
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430846",
+      "sourceQuestionId": 430846,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "title": null,
+      "type": 3,
+      "prompt": "4.",
+      "introductionText": "",
+      "contentText": "4.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt;\">4. </span></strong><img style=\"font-size: 12pt; white-space-collapse: preserve; margin-left: 0px; margin-top: 0px;\" src=\"https://lh7-us.googleusercontent.com/YbZyLFDXl0p1tnU7HxkcmZ5h5CGgZA5VENEJZMKg9UHqaYwwuxItlmZCAwxPnU6P5D4IHbGHJgsvY2ZFeJfwUsWDCSIxJpK-Hq0IL9migInxFbM40yhVuUZECosPFDpxPdDuunfQWWj5NcLmThYToaA\" width=\"200\" height=\"200\" /><strong><span style=\"font-size: 12pt;\"> </span></strong></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 911145,
+          "content": "Pull over"
+        },
+        {
+          "id": 911146,
+          "content": "Take shortcuts"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [
+        {
+          "url": "https://lh7-us.googleusercontent.com/YbZyLFDXl0p1tnU7HxkcmZ5h5CGgZA5VENEJZMKg9UHqaYwwuxItlmZCAwxPnU6P5D4IHbGHJgsvY2ZFeJfwUsWDCSIxJpK-Hq0IL9migInxFbM40yhVuUZECosPFDpxPdDuunfQWWj5NcLmThYToaA",
+          "localFile": "courses/ifa-ielts/daily/lessons/lesson-05/images/004-YbZyLFDXl0p1tnU7HxkcmZ5h5CGgZA5VENEJZMKg9UHqaYwwuxItlmZCAwxPnU6P5D4IHbGHJgsvY2ZFeJfwUsWDCSIxJpK-Hq0I.jpg"
+        }
+      ],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911145,
+        "correctAnswer": 911145,
+        "resultAnswer": {
+          "911145": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430847",
+      "sourceQuestionId": 430847,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "title": null,
+      "type": 3,
+      "prompt": "5.",
+      "introductionText": "",
+      "contentText": "5.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt;\">5.    </span></strong><img style=\"font-size: 12pt; white-space-collapse: preserve; margin-left: 0px; margin-top: 0px;\" src=\"https://lh7-us.googleusercontent.com/Z2MadTddKAXXRW_tlDdZzMMMAHlWM_ougxWFKzvUWHVl7OS80WLyVkMP4qDw5Y7vwBZ7qSgN8CJd2sylv5nF3Anw7T9DsvVQYUK7jAP7AqxM8G1rT1NdY0IkfvQmtD_Pd1jQnbk-pf6TGvHzdU_YvOs\" width=\"177\" height=\"155\" /></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 911147,
+          "content": "Exhaust fumes"
+        },
+        {
+          "id": 911148,
+          "content": "Rush hour"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [
+        {
+          "url": "https://lh7-us.googleusercontent.com/Z2MadTddKAXXRW_tlDdZzMMMAHlWM_ougxWFKzvUWHVl7OS80WLyVkMP4qDw5Y7vwBZ7qSgN8CJd2sylv5nF3Anw7T9DsvVQYUK7jAP7AqxM8G1rT1NdY0IkfvQmtD_Pd1jQnbk-pf6TGvHzdU_YvOs",
+          "localFile": "courses/ifa-ielts/daily/lessons/lesson-05/images/005-Z2MadTddKAXXRW_tlDdZzMMMAHlWM_ougxWFKzvUWHVl7OS80WLyVkMP4qDw5Y7vwBZ7qSgN8CJd2sylv5nF3Anw7T9DsvVQYUK7.jpg"
+        }
+      ],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911147,
+        "correctAnswer": 911147,
+        "resultAnswer": {
+          "911147": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430848",
+      "sourceQuestionId": 430848,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "title": null,
+      "type": 3,
+      "prompt": "6.",
+      "introductionText": "",
+      "contentText": "6.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt;\">6.    </span></strong><img style=\"font-size: 12pt; white-space-collapse: preserve; margin-left: 0px; margin-top: 0px;\" src=\"https://lh7-us.googleusercontent.com/kbUYqAWdrot1SodNz7mrhascihwPuSskLqTQ9F-lzj9kBT7mTx6SkQ3e7kTStKMSOL1GBpB1BhBzvL5zcs36sHyUlF-AtpbasYvgz7vdnlfip4LtASv7Kx0iYb6_O-IKzSE9CKNhG4_oANz1WJ8Q4EE\" width=\"193\" height=\"193\" /></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 911149,
+          "content": "Urban dwellers"
+        },
+        {
+          "id": 911150,
+          "content": "Road construction"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [
+        {
+          "url": "https://lh7-us.googleusercontent.com/kbUYqAWdrot1SodNz7mrhascihwPuSskLqTQ9F-lzj9kBT7mTx6SkQ3e7kTStKMSOL1GBpB1BhBzvL5zcs36sHyUlF-AtpbasYvgz7vdnlfip4LtASv7Kx0iYb6_O-IKzSE9CKNhG4_oANz1WJ8Q4EE",
+          "localFile": "courses/ifa-ielts/daily/lessons/lesson-05/images/006-kbUYqAWdrot1SodNz7mrhascihwPuSskLqTQ9F-lzj9kBT7mTx6SkQ3e7kTStKMSOL1GBpB1BhBzvL5zcs36sHyUlF-AtpbasYvg.jpg"
+        }
+      ],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911150,
+        "correctAnswer": 911150,
+        "resultAnswer": {
+          "911150": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430849",
+      "sourceQuestionId": 430849,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2\n\nChoose the correct words to complete the following sentences. (Chọn các từ phù hợp để hoàn thiện các câu sau)\n\nurban dwellers |\ntraffic congestion |\npassengers |\nget stuck |\n\nmove more smoothly |\nrush hour |\nmeans of transport |\nprivate cars |",
+      "introductionText": "Exercise 2\n\nChoose the correct words to complete the following sentences. (Chọn các từ phù hợp để hoàn thiện các câu sau)\n\nurban dwellers |\ntraffic congestion |\npassengers |\nget stuck |\n\nmove more smoothly |\nrush hour |\nmeans of transport |\nprivate cars |",
+      "contentText": "",
+      "answerTemplateText": "Advantages of public transport\n\nThere are several advantages of using public transport. One major advantage is that it helps reduce [input_0]. This is because when more people use buses or subways as their main [input_1], there are fewer [input_2] on the road. As a result, traffic can [input_3], and people are less likely to [input_4] in traffic jams during [input_5]. Secondly, public transport can provide comfortable travel for a large number of [input_6]. Modern systems such as buses and trains are designed to carry many people at the same time, which makes commuting more convenient for [input_7].",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-ea2da5c0-7fff-500d-5f26-0abd9de0630d\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #ba372a; font-size: 12pt;\"><span style=\"background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 2</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Choose the correct words to complete the following sentences. </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Chọn các từ phù hợp để hoàn thiện các câu sau)</span></span></p>\n<table style=\"border-collapse: collapse; width: 100.01%; height: 94.5833px; border-color: #000000;\" border=\"2\">\n<tbody>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 28.5262%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">urban dwellers</span></td>\n<td style=\"width: 23.9756%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">traffic congestion</span></td>\n<td style=\"width: 24.9944%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">passengers</span></td>\n<td style=\"width: 22.4814%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">get stuck</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 28.5262%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">move more smoothly</span></td>\n<td style=\"width: 23.9756%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">rush hour</span></td>\n<td style=\"width: 24.9944%; height: 24.0625px;\"><span>means of transport</span></td>\n<td style=\"width: 22.4814%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">private cars</span></td>\n</tr>\n</tbody>\n</table>",
+        "content": null,
+        "answerTemplate": "<p style=\"text-align: center;\"><strong>Advantages of public transport</strong></p>\n<p>There are several advantages of using public transport. One major advantage is that it helps reduce <span style=\"color: #ba372a;\"><strong>[input_0]</strong></span>. This is because when more people use buses or subways as their main <span style=\"color: #ba372a;\"><strong>[input_1]</strong></span>, there are fewer <span style=\"color: #ba372a;\"><strong>[input_2]</strong></span> on the road. As a result, traffic can <span style=\"color: #ba372a;\"><strong>[input_3]</strong></span>, and people are less likely to <span style=\"color: #ba372a;\"><strong>[input_4] </strong></span>in traffic jams during <span style=\"color: #ba372a;\"><strong>[input_5]</strong>.</span> Secondly, public transport can <span style=\"color: #000000;\">provide comfortable travel</span> for a large number of<span style=\"color: #ba372a;\"><strong> [input_6]</strong></span>. Modern systems such as buses and trains are designed to <span style=\"color: #ba372a;\"><span style=\"color: #000000;\">carry</span><strong> </strong></span>many people at the same time, which makes commuting more convenient for <span style=\"color: #ba372a;\"><strong>[input_7]</strong></span>.</p>",
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 8,
+        "totalCorrect": 8,
+        "userAnswer": {
+          "input_0": "traffic congestion",
+          "input_1": "means of transport",
+          "input_2": "private cars",
+          "input_3": "move more smoothly",
+          "input_6": "passengers",
+          "input_7": "urban dwellers",
+          "input_4": "get stuck",
+          "input_5": "rush hour"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "traffic congestion"
+          ],
+          "input_1": [
+            "means of transport"
+          ],
+          "input_2": [
+            "private cars"
+          ],
+          "input_3": [
+            "move more smoothly"
+          ],
+          "input_4": [
+            "get stuck"
+          ],
+          "input_5": [
+            "rush hour"
+          ],
+          "input_6": [
+            "passengers"
+          ],
+          "input_7": [
+            "urban dwellers"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true
+        },
+        "hasAnswerEmpty": []
+      }
+    },
+    {
+      "id": "question-430850",
+      "sourceQuestionId": 430850,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 3\nChoose the correct word to complete the paragraph. (Chọn từ để hoàn thiện đoạn)",
+      "introductionText": "Exercise 3\nChoose the correct word to complete the paragraph. (Chọn từ để hoàn thiện đoạn)",
+      "contentText": "",
+      "answerTemplateText": "Traveling around Vietnam's busy streets, especially in cities like Hanoi and Ho Chi Minh City, can be quite a challenge due to [input_0] (HEAVY / LIGHT) traffic. Traffic jams often occur during rush hour, which causes frustration for [input_1] (USERS / COMMUTERS). To solve these problems, it is essential to [input_2] (INVESTMENT / INVEST) in infrastructure including road construction and public transportation networks. An approach that uses technological advancements can also be taken. For instance, an advanced GPS system enables travellers to take shortcuts and move [input_3] (SMOOTH / SMOOTHLY) through the city, or [input_4] (ELECTRICITY / ELECTRIC) drones offer a fast and efficient solution for short-distance [input_5] (TRAVELS / TRAVELING). Moreover, implementing regulations to encourage the use of pollution-free [input_6] (VEHICULAR / VEHICLES) can help reduce the environmental impact of urban transportation.",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p style=\"line-height: 1.5;\"><span id=\"docs-internal-guid-d49e33f6-7fff-d272-2fb0-db1456997723\" style=\"font-family: arial, helvetica, sans-serif; color: #ba372a; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 3<br /></span></span><span id=\"docs-internal-guid-d49e33f6-7fff-d272-2fb0-db1456997723\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Choose the correct word to complete the paragraph. </span><span style=\"font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Chọn từ để hoàn thiện đoạn) </span></span></p>",
+        "content": null,
+        "answerTemplate": "<p><span id=\"docs-internal-guid-d08b6935-7fff-74b0-2e4e-4236c9b246d0\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Traveling around Vietnam's busy streets, especially in cities like Hanoi and Ho Chi Minh City, can be quite a challenge due to [input_0]</span><span style=\"color: #cc0000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #236fa1;\">(HEAVY / LIGHT)</span> traffic. Traffic jams often occur during rush hour, which causes frustration for [input_1]</span><span style=\"color: #cc0000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #236fa1;\">(USERS / COMMUTERS)</span>. To solve these problems, it is essential to [input_2]</span><span style=\"color: #cc0000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #236fa1;\">(INVESTMENT / INVEST)</span> in infrastructure including road construction and public transportation networks. An approach that uses </span><span style=\"color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">technological </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">advancements can also be taken. For instance, an advanced GPS system enables travellers to take shortcuts and move [input_3]</span><span style=\"color: #cc0000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #236fa1;\">(SMOOTH / SMOOTHLY)</span> through the city, or [input_4]</span><span style=\"color: #cc0000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #236fa1;\">(ELECTRICITY / ELECTRIC)</span> drones offer a fast and efficient solution for short-distance [input_5]</span><span style=\"color: #cc0000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #236fa1;\">(TRAVELS / TRAVELING)</span>. Moreover, implementing </span><span style=\"color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">regulations</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #000000;\"> </span>to encourage the use of pollution-free [input_6]</span><span style=\"color: #cc0000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #236fa1;\">(VEHICULAR / VEHICLES)</span> can help reduce the environmental impact of urban transportation. </span></span></p>",
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 7,
+        "totalCorrect": 7,
+        "userAnswer": {
+          "input_0": "HEAVY",
+          "input_1": "COMMUTERS",
+          "input_2": "INVEST",
+          "input_3": "SMOOTHLY",
+          "input_4": "ELECTRIC",
+          "input_5": "TRAVELS",
+          "input_6": "VEHICLES"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "heavy"
+          ],
+          "input_1": [
+            "commuters"
+          ],
+          "input_2": [
+            "invest"
+          ],
+          "input_3": [
+            "smoothly"
+          ],
+          "input_4": [
+            "electric"
+          ],
+          "input_5": [
+            "travels"
+          ],
+          "input_6": [
+            "vehicles"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true
+        },
+        "hasAnswerEmpty": []
+      }
+    },
+    {
+      "id": "question-430851",
+      "sourceQuestionId": 430851,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "title": null,
+      "type": 2,
+      "prompt": "Exercise 4\n\r\nTranslate these sentences into English using the suggested words. You can change the form if necessary. (Dịch các câu sau sang tiếng Anh sử dụng từ gợi ý. Có thể thay đổi dạng từ nếu cần.)",
+      "introductionText": "Exercise 4\n\r\nTranslate these sentences into English using the suggested words. You can change the form if necessary. (Dịch các câu sau sang tiếng Anh sử dụng từ gợi ý. Có thể thay đổi dạng từ nếu cần.)",
+      "contentText": "1. Trong giờ cao điểm, mọi người thường bị kẹt xe. (rush hour / get stuck in)",
+      "answerTemplateText": "",
+      "explanationText": "1. During rush hour, people often get stuck in traffic jams.",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"color: #ba372a; font-family: arial, helvetica, sans-serif;\"><strong>Exercise 4</strong></span></p>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Translate these sentences into English using the suggested words. You can change the form if necessary. </strong><em>(Dịch các câu sau sang tiếng Anh sử dụng từ gợi ý. Có thể thay đổi dạng từ nếu cần.)</em></span></p>",
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">1. Trong giờ cao điểm, mọi người thường bị kẹt xe. <em><strong>(rush hour / get stuck in)</strong></em> </span></p>",
+        "answerTemplate": null,
+        "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">1. During rush hour, people often get stuck in traffic jams. </span></p>"
+      },
+      "options": [],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "During rush hour, people usually get stuck in traffic jams.",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430852",
+      "sourceQuestionId": 430852,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "title": null,
+      "type": 2,
+      "prompt": "2. Người đi làm có thể đi đường tắt khi giao thông đông để đến đích nhanh hơn. (Commuters / take shortcuts / reach their destinations)",
+      "introductionText": "",
+      "contentText": "2. Người đi làm có thể đi đường tắt khi giao thông đông để đến đích nhanh hơn. (Commuters / take shortcuts / reach their destinations)",
+      "answerTemplateText": "",
+      "explanationText": "2. Commuters may take shortcuts when traffic is heavy to reach their destinations faster.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">2. Người đi làm có thể đi đường tắt khi giao thông đông để đến đích nhanh hơn. <em><strong>(Commuters / take shortcuts / reach their destinations) </strong></em></span></p>",
+        "answerTemplate": null,
+        "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">2. Commuters may take shortcuts when traffic is heavy to reach their destinations faster.</span></p>"
+      },
+      "options": [],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "Commuters can take shortcuts to reach their destinations.",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430853",
+      "sourceQuestionId": 430853,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "title": null,
+      "type": 2,
+      "prompt": "3. Hệ thống GPS tiên tiến có thể giúp người lái xe tìm đường dễ dàng, vì vậy việc lái xe trở nên thuận tiện hơn. (Advanced GPS systems / find routes / more convenient)",
+      "introductionText": "",
+      "contentText": "3. Hệ thống GPS tiên tiến có thể giúp người lái xe tìm đường dễ dàng, vì vậy việc lái xe trở nên thuận tiện hơn. (Advanced GPS systems / find routes / more convenient)",
+      "answerTemplateText": "",
+      "explanationText": "3. Advanced GPS systems can help drivers find routes easily, so driving becomes more convenient.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\">3. Hệ thống GPS tiên tiến có thể giúp người lái xe tìm đường dễ dàng, vì vậy việc lái xe trở nên thuận tiện hơn. (<em><strong>Advanced GPS systems / find routes / more convenient)</strong></em></span></p>",
+        "answerTemplate": null,
+        "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">3. Advanced GPS systems can help drivers find routes easily, so driving becomes more convenient.</span></p>"
+      },
+      "options": [],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "Advanced GPS systems can help drivers find routes easily, so driving becomes more convenient.",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430854",
+      "sourceQuestionId": 430854,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "title": null,
+      "type": 2,
+      "prompt": "4. Để giảm ô nhiễm, các thành phố nên khuyến khích người dân sử dụng các phương tiện không gây ô nhiễm vì điều này có thể cải thiện môi trường. (reduce pollution/ encourage/ pollution-free vehicles/ improve the environment)",
+      "introductionText": "",
+      "contentText": "4. Để giảm ô nhiễm, các thành phố nên khuyến khích người dân sử dụng các phương tiện không gây ô nhiễm vì điều này có thể cải thiện môi trường. (reduce pollution/ encourage/ pollution-free vehicles/ improve the environment)",
+      "answerTemplateText": "",
+      "explanationText": "4. To reduce pollution, cities should encourage people to use pollution-free vehicles because this can improve the environment.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">4. Để giảm ô nhiễm, các thành phố nên khuyến khích người dân sử dụng các phương tiện không gây ô nhiễm vì điều này có thể cải thiện môi trường. <em><strong>(reduce pollution/ encourage/ pollution-free vehicles/ improve the environment) </strong></em></span></p>",
+        "answerTemplate": null,
+        "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">4. To reduce pollution, cities should encourage people to use pollution-free vehicles because this can improve the environment.</span></p>"
+      },
+      "options": [],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "To reduce pollution, cities should encourage people to use pollution-free vehicles because this can improve the environment.",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430855",
+      "sourceQuestionId": 430855,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "title": null,
+      "type": 2,
+      "prompt": "5. Chính phủ đang đầu tư vào việc xây dựng những con đường tốt hơn, và điều này có thể giúp giảm các vấn đề giao thông trong thành phố. (government/ invest / better roads / reduce traffic problems)",
+      "introductionText": "",
+      "contentText": "5. Chính phủ đang đầu tư vào việc xây dựng những con đường tốt hơn, và điều này có thể giúp giảm các vấn đề giao thông trong thành phố. (government/ invest / better roads / reduce traffic problems)",
+      "answerTemplateText": "",
+      "explanationText": "5. The government is investing in building better roads, and this can help reduce traffic problems in cities.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">5. Chính phủ đang đầu tư vào việc xây dựng những con đường tốt hơn, và điều này có thể giúp giảm các vấn đề giao thông trong thành phố. <em><strong>(government/ invest / better roads / reduce traffic problems)</strong></em></span></p>",
+        "answerTemplate": null,
+        "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">5. The government is investing in building better roads, and this can help reduce traffic problems in cities.</span></p>"
+      },
+      "options": [],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "The government is investing in building better roads, and this can help reduce traffic problems in the city.",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430856",
+      "sourceQuestionId": 430856,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "title": "GRAMMAR",
+      "type": null,
+      "prompt": "GRAMMAR",
+      "introductionText": "Choose the correct answer. (Chọn đáp án đúng)",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "GRAMMAR",
+        "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background-color: #ffffff;\">Choose the correct answer. </span></strong><em style=\"color: #242938; background-color: #ffffff;\">(Chọn đáp án đúng)</em></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-430857",
+      "sourceQuestionId": 430857,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "title": null,
+      "type": 4,
+      "prompt": "1. Sam: ‘Hi Julie, the traffic is very congested, I’m afraid of being late for the class and missing the beginning of the lesson.’     Julie: ‘Don’t worry, I ...................... note of important information that you’ll probably miss out on if you’re late. And I...................... you my notebook, Sam!’",
+      "introductionText": "",
+      "contentText": "1. Sam: ‘Hi Julie, the traffic is very congested, I’m afraid of being late for the class and missing the beginning of the lesson.’     Julie: ‘Don’t worry, I ...................... note of important information that you’ll probably miss out on if you’re late. And I...................... you my notebook, Sam!’",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "1. A. will take; will lend\n\r\nCâu đưa ra một tình huống đột ngột -> các quyết định của Julie được đưa ra ngay lúc nói, không có kết hoạch trước -> sử dụng thì tương lai đơn",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>1.</strong> <strong>Sam:</strong> ‘Hi Julie, the traffic is very congested, I’m afraid of being late for the class and missing the beginning of the lesson.’ </span><br style=\"color: #242938; background-color: #ffffff;\" /><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\">    <strong>Julie: </strong>‘Don’t worry, I ...................... note of important information that you’ll probably miss out on if you’re late. And I...................... you my notebook, Sam!’</span></p>",
+        "answerTemplate": null,
+        "explain": "<p style=\"background-color: #ffffff;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"background-color: transparent;\">1. </span><span style=\"color: #cc0000; background-color: transparent;\">A. will take; will lend</span></span></strong></p>\r\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu đưa ra một tình huống đột ngột -&gt; các quyết định của Julie được đưa ra ngay lúc nói, không có kết hoạch trước -&gt; sử dụng thì tương lai đơn </span></p>"
+      },
+      "options": [
+        {
+          "id": 911151,
+          "content": "A. will take; will lend"
+        },
+        {
+          "id": 911152,
+          "content": "B. am going to take; am going to lend"
+        },
+        {
+          "id": 911153,
+          "content": "C. will take; am going to lend"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911151,
+        "correctAnswer": 911151,
+        "resultAnswer": {
+          "911151": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430858",
+      "sourceQuestionId": 430858,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "title": null,
+      "type": 4,
+      "prompt": "2. We’ve booked the hotel in Vung Tau. We ...................... there for 3 days. I’ve just heard on the news that the traffic in the city is moving smoothly today, I think we ...................... stuck in traffic congestion.",
+      "introductionText": "",
+      "contentText": "2. We’ve booked the hotel in Vung Tau. We ...................... there for 3 days. I’ve just heard on the news that the traffic in the city is moving smoothly today, I think we ...................... stuck in traffic congestion.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "2. B. are staying; are not going to get\n\r\nCâu 1 nói về một kế hoạch cụ thể cho tương lai gần, vì đã đặt phòng khách sạn nên dự định ở 3 ngày khá chắc chắn -> hiện tại tiếp diễn\n\r\nCâu 2 nói về một dự đoán trong tương lai, dự đoán này có cơ sở (do người nói nghe trên bản tin) -> cấu trúc be going to",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>2</strong>. We’ve booked the hotel in Vung Tau. We ...................... there for 3 days. I’ve just heard on the news that the traffic in the city is moving smoothly today, I think we ...................... stuck in traffic congestion. </span></p>",
+        "answerTemplate": null,
+        "explain": "<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"background-color: transparent;\">2. </span><span style=\"color: #cc0000; background-color: transparent;\">B. are staying; are not going to get</span></strong></span></p>\r\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu 1 nói về một kế hoạch cụ thể cho tương lai gần, vì đã đặt phòng khách sạn nên dự định ở 3 ngày khá chắc chắn -&gt; hiện tại tiếp diễn</span></p>\r\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu 2 nói về một dự đoán trong tương lai, dự đoán này có cơ sở (do người nói nghe trên bản tin) -&gt; cấu trúc be going to </span></p>"
+      },
+      "options": [
+        {
+          "id": 911154,
+          "content": "A. will stay; will not get"
+        },
+        {
+          "id": 911155,
+          "content": "B. are staying; are not going to get"
+        },
+        {
+          "id": 911156,
+          "content": "C. are going to stay; will not get"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911155,
+        "correctAnswer": 911155,
+        "resultAnswer": {
+          "911155": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430859",
+      "sourceQuestionId": 430859,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "title": null,
+      "type": 4,
+      "prompt": "3. There was an accident on the My Thuan bridge around 7 a.m, the news reporter has just predicted that traffic ...................... very slowly across the bridge till 11 a.m. I think we probably ...................... the bridge. We haven’t planned our journey yet but we ...................... another route to the city center.",
+      "introductionText": "",
+      "contentText": "3. There was an accident on the My Thuan bridge around 7 a.m, the news reporter has just predicted that traffic ...................... very slowly across the bridge till 11 a.m. I think we probably ...................... the bridge. We haven’t planned our journey yet but we ...................... another route to the city center.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "3. B. is going to move; will avoid; will take\n\r\nCâu 1 nói về một dự đoán trong tương lai, dự đoán này có cơ sở (có một tai nạn trên cầu) -> cấu trúc be going to\n\r\nCâu 2, 3 nói về quyết định được đưa ngay lúc đó sau khi nghe được thông tin dự đoán ở trên -> sử dụng thì tương lai đơn",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>3. </strong>There was an accident on the My Thuan bridge around 7 a.m, the news reporter has just predicted that traffic ...................... very slowly across the bridge till 11 a.m. I think we probably ...................... the bridge. We haven’t planned our journey yet but we ...................... another route to the city center.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"background-color: transparent;\">3. </span><span style=\"color: #cc0000;\"><strong>B. is going to move; will avoid; will take</strong></span></span></p>\r\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu 1 nói về một dự đoán trong tương lai, dự đoán này có cơ sở (có một tai nạn trên cầu) -&gt; cấu trúc be going to </span></p>\r\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu 2, 3 nói về quyết định được đưa ngay lúc đó sau khi nghe được thông tin dự đoán ở trên -&gt; sử dụng thì tương lai đơn </span></p>"
+      },
+      "options": [
+        {
+          "id": 911157,
+          "content": "A. will move; will avoid; will take"
+        },
+        {
+          "id": 911158,
+          "content": "B. is going to move; will avoid; will take"
+        },
+        {
+          "id": 911159,
+          "content": "C. is moving; are going to avoid; are going to take"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911158,
+        "correctAnswer": 911158,
+        "resultAnswer": {
+          "911158": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430860",
+      "sourceQuestionId": 430860,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "title": null,
+      "type": 4,
+      "prompt": "4. My friend who lives in Ho Chi Minh city told me that there are usually plenty of taxis around that area at night so I ...................... a taxi to go around during nighttime. However, in the early morning, when the weather is nice and pleasant, I ......................  the bike around the city. I have already rented a bike there.",
+      "introductionText": "",
+      "contentText": "4. My friend who lives in Ho Chi Minh city told me that there are usually plenty of taxis around that area at night so I ...................... a taxi to go around during nighttime. However, in the early morning, when the weather is nice and pleasant, I ......................  the bike around the city. I have already rented a bike there.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "3. C. am going to take; am riding\n\r\nCâu 1 nói về dự định trong tương lai -> cấu trúc be going to \n\r\nCâu 2 cũng đưa ra 1 dự định, tuy nhiên dự định này đã được chuẩn bị rõ ràng hơn, do người nói đã thuê xe (rented a bike) -> hiện tại tiếp diễn",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>4. </strong>My friend who lives in Ho Chi Minh city told me that there are usually plenty of taxis around that area at night so I ...................... a taxi to go around during nighttime. However, in the early morning, when the weather is nice and pleasant, I ......................  the bike around the city. I have already rented a bike there. </span></p>",
+        "answerTemplate": null,
+        "explain": "<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"background-color: transparent;\">3. </span><span style=\"color: #cc0000;\"><strong>C. am going to take; am riding</strong></span></span></p>\r\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu 1 nói về dự định trong tương lai -&gt; cấu trúc be going to </span></p>\r\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu 2 cũng đưa ra 1 dự định, tuy nhiên dự định này đã được chuẩn bị rõ ràng hơn, do người nói đã thuê xe (rented a bike) -&gt; hiện tại tiếp diễn </span></p>"
+      },
+      "options": [
+        {
+          "id": 911160,
+          "content": "A. will take; will ride"
+        },
+        {
+          "id": 911161,
+          "content": "B. am going to take; am going to ride"
+        },
+        {
+          "id": 911162,
+          "content": "C. am going to take; am riding"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911162,
+        "correctAnswer": 911162,
+        "resultAnswer": {
+          "911162": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430861",
+      "sourceQuestionId": 430861,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "title": null,
+      "type": 4,
+      "prompt": "5. Candace: Hi Stacy, my car broke down in the middle of the city center. I don’t know what to do, I guess I ...................... for a bus, but that always takes ages. I’m very afraid of missing my important appointment with my customer.    Stacy: Don’t worry Candace, I ......................  you a ride! I have a plan to meet my cousin around that area, I’m already in my car now and I ...................... downtown as well.",
+      "introductionText": "",
+      "contentText": "5. Candace: Hi Stacy, my car broke down in the middle of the city center. I don’t know what to do, I guess I ...................... for a bus, but that always takes ages. I’m very afraid of missing my important appointment with my customer.    Stacy: Don’t worry Candace, I ......................  you a ride! I have a plan to meet my cousin around that area, I’m already in my car now and I ...................... downtown as well.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "5. C. will wait; will give; am driving\n\r\nTrong câu 1 Candance đưa ra một dự định chưa được sắp xếp: \"I guess\" (tôi đoán) -> tương lai đơn. \n\r\nStacy khi nghe thế liền đưa ra quyết định cho Candance đi nhờ  -> tương lai đơn. \n\r\nCâu 3 Stacy nói về việc mình đang đi xuống phố \"now\" (hiện tại) -> hiện tại tiếp diễn",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>5. Candace</strong>: Hi Stacy, my car broke down in the middle of the city center. I don’t know what to do, I guess I ...................... for a bus, but that always takes ages. I’m very afraid of missing my important appointment with my customer.</span><br style=\"color: #242938; background-color: #ffffff;\" /><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\">    <strong>Stacy</strong>: Don’t worry Candace, I ......................  you a ride! I have a plan to meet my cousin around that area, I’m already in my car now and I ...................... downtown as well. </span></p>",
+        "answerTemplate": null,
+        "explain": "<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"background-color: transparent;\">5. </span><span style=\"color: #cc0000;\"><strong>C. will wait; will give; am driving</strong></span></span></p>\r\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Trong câu 1 Candance đưa ra một dự định chưa được sắp xếp: \"I guess\" (tôi đoán) -&gt; tương lai đơn. </span></p>\r\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Stacy khi nghe thế liền đưa ra quyết định cho Candance đi nhờ  -&gt; tương lai đơn. </span></p>\r\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu 3 Stacy nói về việc mình đang đi xuống phố \"now\" (hiện tại) -&gt; hiện tại tiếp diễn </span></p>\r\n<p style=\"background-color: #ffffff;\"> </p>"
+      },
+      "options": [
+        {
+          "id": 911163,
+          "content": "A. will wait; will give; will drive"
+        },
+        {
+          "id": 911164,
+          "content": "B. am waiting; am going to give; am going to drive"
+        },
+        {
+          "id": 911165,
+          "content": "C. will wait; will give; am driving"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911165,
+        "correctAnswer": 911165,
+        "resultAnswer": {
+          "911165": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430862",
+      "sourceQuestionId": 430862,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "title": "SHADOWING",
+      "type": 2,
+      "prompt": "SHADOWING",
+      "introductionText": "Shadowing (Nghe và bắt chước)\n\r\nNghe và bắt chước lại các câu sau trong bài nghe, bắt chước yêu cầu đúng ngữ âm, ngữ điệu và tốc độ. \n\r\nNộp link dưới đây:",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "SHADOWING",
+        "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Shadowing </strong><em>(Nghe và bắt chước)</em></span></p>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Nghe và bắt chước lại các câu sau trong bài nghe, bắt chước yêu cầu đúng ngữ âm, ngữ điệu và tốc độ. </em></span></p>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif; color: #ba372a;\"><strong>Nộp link dưới đây: </strong></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "https://drive.google.com/file/d/1BjvD9nh5aSTLkDyYLUHJ4R9f73oApA30/view?usp=drive_link",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430863",
+      "sourceQuestionId": 430863,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": "LISTENING: TRAFFIC",
+      "type": null,
+      "prompt": "LISTENING: TRAFFIC",
+      "introductionText": "Exercise 1\n\nMatch the pictures with the descriptions. Choose the correct letter next to each description. (Nối bức tranh với miêu tả. Chọn chữ cái chính xác bên cạnh mỗi miêu tả)",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "LISTENING: TRAFFIC",
+        "introduction": "<p style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt; color: #ba372a; font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box;\">Exercise 1</span></span></span></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Match the pictures with the descriptions. Choose the correct letter next to each description. </span></span></span><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><em style=\"box-sizing: border-box;\">(Nối bức tranh với miêu tả. Chọn chữ cái chính xác bên cạnh mỗi miêu tả)</em></span></span></span></p>",
+        "content": "<p> </p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"> </span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-430864",
+      "sourceQuestionId": 430864,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": 3,
+      "prompt": "1. road repair",
+      "introductionText": "",
+      "contentText": "1. road repair",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; background-color: #ffffff;\">1. road repair</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 911166,
+          "content": "A"
+        },
+        {
+          "id": 911167,
+          "content": "B"
+        },
+        {
+          "id": 911168,
+          "content": "C"
+        },
+        {
+          "id": 911169,
+          "content": "D"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911168,
+        "correctAnswer": 911168,
+        "resultAnswer": {
+          "911168": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430865",
+      "sourceQuestionId": 430865,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": 3,
+      "prompt": "2. Two cars in a collision",
+      "introductionText": "",
+      "contentText": "2. Two cars in a collision",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #242938; font-family: arial, helvetica, sans-serif; font-size: 12pt; background-color: #ffffff;\">2. Two cars in a collision</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 911170,
+          "content": "A"
+        },
+        {
+          "id": 911171,
+          "content": "B"
+        },
+        {
+          "id": 911172,
+          "content": "C"
+        },
+        {
+          "id": 911173,
+          "content": "D"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911173,
+        "correctAnswer": 911173,
+        "resultAnswer": {
+          "911173": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430866",
+      "sourceQuestionId": 430866,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": 3,
+      "prompt": "3. Traffic congestion on a freeway",
+      "introductionText": "",
+      "contentText": "3. Traffic congestion on a freeway",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #242938; font-family: arial, helvetica, sans-serif; font-size: 16px; background-color: #ffffff;\">3. Traffic congestion on a freeway</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 911174,
+          "content": "A"
+        },
+        {
+          "id": 911175,
+          "content": "B"
+        },
+        {
+          "id": 911176,
+          "content": "C"
+        },
+        {
+          "id": 911177,
+          "content": "D"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911174,
+        "correctAnswer": 911174,
+        "resultAnswer": {
+          "911174": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430867",
+      "sourceQuestionId": 430867,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": 3,
+      "prompt": "4. Traffic moving smoothly",
+      "introductionText": "",
+      "contentText": "4. Traffic moving smoothly",
+      "answerTemplateText": "[object Object],[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #242938; font-family: arial, helvetica, sans-serif; font-size: 12pt; background-color: #ffffff;\">4. Traffic moving smoothly</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 911178,
+          "content": "A"
+        },
+        {
+          "id": 911179,
+          "content": "B"
+        },
+        {
+          "id": 911180,
+          "content": "C"
+        },
+        {
+          "id": 911181,
+          "content": "D"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911179,
+        "correctAnswer": 911179,
+        "resultAnswer": {
+          "911179": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430868",
+      "sourceQuestionId": 430868,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": null,
+      "prompt": "Exercise 2",
+      "introductionText": "Exercise 2",
+      "contentText": "Task 1: These people have to go somewhere. How will each person get there? Listen and choose the correct answer. (Những người này đang cần đi tới đâu đó. Mỗi người sẽ đi tới đó bằng phương tiện nào? Nghe và chọn đáp án đúng)",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"box-sizing: border-box; font-weight: bolder; color: #ba372a; font-family: arial, helvetica, sans-serif; font-size: 12pt; background-color: #ffffff;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Exercise 2</span></span></p>",
+        "content": "<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; color: #242938; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-weight: bolder;\">Task 1: These people have to go somewhere. How will each person get there? Listen and choose the correct answer.</span></span><em style=\"box-sizing: border-box; color: #242938; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"> </span></em><span style=\"box-sizing: border-box; color: #242938; background-color: #ffffff; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><em style=\"box-sizing: border-box;\">(Những người này đang cần đi tới đâu đó. Mỗi người sẽ đi tới đó bằng phương tiện nào? Nghe và chọn đáp án đúng)</em></span></span></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-430869",
+      "sourceQuestionId": 430869,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": 4,
+      "prompt": "1.",
+      "introductionText": "",
+      "contentText": "1.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "EXPLANATION |\n\nTrong đoạn hội thoại, người B nói “there's too much traffic on the road today to go by bike. It's not safe to ride in traffic.” nghĩa là hôm nay giao thông quá đông nên đi xe đạp không an toàn.Sau đó người A nói “I'm driving downtown. Can I give you a ride?” tức là tôi đang lái xe xuống trung tâm, tôi chở bạn nhé.Người B đồng ý “Hey, thanks.”, nghĩa là B sẽ đi cùng xe của A.\n\n→ Đáp án: b. by car\n\n |\n\nTRANSCRIPT |\nMEANING |\n\n1.\nA: Are you going to take the bus downtown or are you going to take\nyour bike?\nB: I think there's too much traffic on the road today to go by bike. It's not safe to ride in traffic.\nA: I guess there's so much traffic because of the big football game. Well, look, I'm driving downtown. Can I give you a ride?\nB: Hey, thanks.\nA: So do you use your bike very often?\nB: Not during the week, but I ride it pretty often on the weekend.\n\n |\n\n1. \nA: Bạn có định bắt xe buýt xuống phố không hay bạn định đi bằng xe đạp?\nB: Tôi nghĩ hôm nay quá tắc đường để đi bằng xe đạp. Lái xe khi tắc đường không an toàn chút nào. \nA: Tôi đoán hôm nay đường tắc vì có một trận bóng đá lớn. Ừm, vậy nhé, tôi sẽ lái xe xuống phố. Tôi chở bạn được chứ?\nB: Hey, cảm ơn nhé.\nA: Vậy bạn có sử dụng xe đạp thường xuyên không?\nB: Trong tuần thì không, nhưng tôi đạp xe khá nhiều vào cuối tuần. \n\n |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">1.</span></p>",
+        "answerTemplate": null,
+        "explain": "<table style=\"border-collapse: collapse; width: 99.9643%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 100.036%; text-align: center; line-height: 1.5;\" colspan=\"2\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>EXPLANATION</strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 100.036%;\" colspan=\"2\">\n<p data-start=\"141\" data-end=\"538\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Trong đoạn hội thoại, người B nói <strong data-start=\"175\" data-end=\"272\">“there's too much traffic on the road today to go by bike. It's not safe to ride in traffic.”</strong> nghĩa là hôm nay giao thông quá đông nên đi xe đạp không an toàn.</span><br data-start=\"338\" data-end=\"341\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Sau đó người A nói <strong data-start=\"360\" data-end=\"410\">“I'm driving downtown. Can I give you a ride?”</strong> tức là tôi đang lái xe xuống trung tâm, tôi chở bạn nhé.</span><br data-start=\"467\" data-end=\"470\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Người B đồng ý <strong data-start=\"485\" data-end=\"503\">“Hey, thanks.”</strong>, nghĩa là B sẽ đi cùng xe của A.</span></p>\n<p data-start=\"540\" data-end=\"563\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án:<span style=\"color: #ba372a;\"> <strong data-start=\"550\" data-end=\"563\">b. by car</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 47.4026%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>TRANSCRIPT</strong></span></td>\n<td style=\"width: 52.6337%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>MEANING</strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 47.4026%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">1.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Are you going to take the bus downtown or are you going to take</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">your bike?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: I think there's too much traffic on the road today to go by bike. It's not safe to ride in traffic.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: I guess there's so much traffic because of the big football game. Well, look, I'm driving downtown. Can I give you a ride?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Hey, thanks.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: So do you use your bike very often?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Not during the week, but I ride it pretty often on the weekend.</span></p>\n</td>\n<td style=\"width: 52.6337%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">1. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Bạn có định bắt xe buýt xuống phố không hay bạn định đi bằng xe đạp?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Tôi nghĩ hôm nay quá tắc đường để đi bằng xe đạp. Lái xe khi tắc đường không an toàn chút nào. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Tôi đoán hôm nay đường tắc vì có một trận bóng đá lớn. Ừm, vậy nhé, tôi sẽ lái xe xuống phố. Tôi chở bạn được chứ?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Hey, cảm ơn nhé.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Vậy bạn có sử dụng xe đạp thường xuyên không?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Trong tuần thì không, nhưng tôi đạp xe khá nhiều vào cuối tuần. </span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": [
+        {
+          "id": 911182,
+          "content": "a. by bus"
+        },
+        {
+          "id": 911183,
+          "content": "b. by car"
+        },
+        {
+          "id": 911184,
+          "content": "c. by bicycle"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911183,
+        "correctAnswer": 911183,
+        "resultAnswer": {
+          "911183": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430870",
+      "sourceQuestionId": 430870,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": 4,
+      "prompt": "2.",
+      "introductionText": "",
+      "contentText": "2.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "EXPLANATION |\n\nNgười B nói vừa nghe traffic report trên radio và biết rằng “there is a traffic jam on the freeway” (cao tốc đang bị tắc đường) vì “a couple of buses have broken down” (một vài xe buýt bị hỏng).Sau đó người A nói “I guess it will be quicker to take the subway.” và người B đồng ý “Absolutely!”.\n\nĐiều này cho thấy họ quyết định đi tàu điện ngầm vì nhanh hơn trong tình trạng tắc đường.\n\n→ Đáp án: c. by subway\n\n |\n\nTRANSCRIPT |\nMEANING |\n\n2. \nA: How are you going to get downtown? Are you going to drive?\nB: I don't think so. I just heard the traffic report on the radio. It seems there is a traffic jam on the freeway. They said a couple of buses have broken down.\nA: I guess it will be quicker to take the subway.\nB: Absolutely!\n\n |\n\n2. \nA: Bạn định xuống phố bằng cách nào? Bạn có định lái xe không?\nB: Tôi không nghĩ vậy. Tôi vừa nghe thông báo về giao thông trên đài. Có vẻ như đang tắc đường ở trên cao tốc. Họ nói là một vài chiếc xe buýt đã bị hỏng. \nA: Tôi đoán sẽ nhanh hơn nếu đi bằng tàu điện ngầm.\nB: Đương nhiên rồi!\n\n |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">2.</span></p>",
+        "answerTemplate": null,
+        "explain": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center;\" colspan=\"2\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>EXPLANATION</strong></span></td>\n</tr>\n<tr>\n<td colspan=\"2\">\n<p data-start=\"709\" data-end=\"1028\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Người B nói vừa nghe <strong data-start=\"730\" data-end=\"748\">traffic report</strong> trên radio và biết rằng <strong data-start=\"773\" data-end=\"816\">“there is a traffic jam on the freeway”</strong> (cao tốc đang bị tắc đường) vì <strong data-start=\"848\" data-end=\"888\">“a couple of buses have broken down”</strong> (một vài xe buýt bị hỏng).</span><br data-start=\"915\" data-end=\"918\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Sau đó người A nói <strong data-start=\"937\" data-end=\"989\">“I guess it will be quicker to take the subway.”</strong> và người B đồng ý <strong data-start=\"1008\" data-end=\"1025\">“Absolutely!”</strong>.</span></p>\n<p data-start=\"1030\" data-end=\"1125\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Điều này cho thấy họ quyết định đi <strong data-start=\"1065\" data-end=\"1082\">tàu điện ngầm</strong> vì nhanh hơn trong tình trạng tắc đường.</span></p>\n<p data-start=\"1127\" data-end=\"1153\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án:<span style=\"color: #ba372a;\"> <strong data-start=\"1137\" data-end=\"1153\">c. by subway</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>TRANSCRIPT</strong></span></td>\n<td style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>MEANING</strong></span></td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">2. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: How are you going to get downtown? Are you going to drive?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: I don't think so. I just heard the traffic report on the radio. It seems there is a traffic jam on the freeway. They said a couple of buses have broken down.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: I guess it will be quicker to take the subway.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Absolutely!</span></p>\n</td>\n<td>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">2. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Bạn định xuống phố bằng cách nào? Bạn có định lái xe không?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Tôi không nghĩ vậy. Tôi vừa nghe thông báo về giao thông trên đài. Có vẻ như đang tắc đường ở trên cao tốc. Họ nói là một vài chiếc xe buýt đã bị hỏng. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Tôi đoán sẽ nhanh hơn nếu đi bằng tàu điện ngầm.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Đương nhiên rồi!</span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": [
+        {
+          "id": 911185,
+          "content": "a. by car"
+        },
+        {
+          "id": 911186,
+          "content": "b. by bus"
+        },
+        {
+          "id": 911187,
+          "content": "c. by subway"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911187,
+        "correctAnswer": 911187,
+        "resultAnswer": {
+          "911187": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430871",
+      "sourceQuestionId": 430871,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": 4,
+      "prompt": "3.",
+      "introductionText": "",
+      "contentText": "3.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "EXPLANATION |\n\nHai người đang chờ xe buýt đã nửa tiếng, nhưng xe vẫn chưa đến.Người A đề nghị quay lại lấy ô tô nhưng người B nói “I hate driving at night.” (tôi ghét lái xe vào ban đêm).Sau đó họ quyết định “Let's take a taxi.” và người B nói sẽ gọi taxi.\n\n→ Đáp án: a. by taxi\n\n |\n\nTRANSCRIPT |\nMEANING |\n\n3.\nA: Gosh. I wonder how much longer we'll have to wait for a bus? We've waited half an hour already! Do you think we should go back and get the car?\nB: Oh, no. I hate driving at night.\nA: Let's take a taxi. I don't want to be late for the movie.\nB: Good idea. I'll call for one on my cell phone. They usually come pretty quickly.\n\n |\n\n3.\nA: Trời ạ. Tôi không biết chúng ta phải chờ xe buýt bao lâu nữa. Chúng ta đã chờ được nửa tiếng rồi! Bạn có nghĩ chúng mình nên quay lại và lấy xe ô tô không?\nB: Ôi không. Tôi ghét lái xe vào buổi tối. \nA: Vậy mình bắt taxi đi. Tôi không muốn đến trễ cho bộ phim. \nB: Ý tưởng hay đấy. Tôi sẽ gọi taxi bằng điện thoại của tôi. Họ thường đến khá nhanh. \n\n |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">3.</span></p>",
+        "answerTemplate": null,
+        "explain": "<table style=\"width: 100.009%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center; width: 99.9909%;\" colspan=\"2\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>EXPLANATION</strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 99.9909%;\" colspan=\"2\">\n<p data-start=\"1300\" data-end=\"1561\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Hai người đang <strong data-start=\"1315\" data-end=\"1343\">chờ xe buýt đã nửa tiếng</strong>, nhưng xe vẫn chưa đến.</span><br data-start=\"1367\" data-end=\"1370\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Người A đề nghị quay lại lấy ô tô nhưng người B nói <strong data-start=\"1422\" data-end=\"1452\">“I hate driving at night.”</strong> (tôi ghét lái xe vào ban đêm).</span><br data-start=\"1483\" data-end=\"1486\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Sau đó họ quyết định <strong data-start=\"1507\" data-end=\"1531\">“Let's take a taxi.”</strong> và người B nói sẽ gọi taxi.</span></p>\n<p data-start=\"1563\" data-end=\"1587\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án: <span style=\"color: #ba372a;\"><strong data-start=\"1573\" data-end=\"1587\">a. by taxi</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center; width: 48.6067%;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>TRANSCRIPT</strong></span></td>\n<td style=\"text-align: center; width: 51.3842%;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>MEANING</strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 48.6067%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">3.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Gosh. I wonder how much longer we'll have to wait for a bus? We've waited half an hour already! Do you think we should go back and get the car?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Oh, no. I hate driving at night.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Let's take a taxi. I don't want to be late for the movie.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Good idea. I'll call for one on my cell phone. They usually come pretty quickly.</span></p>\n</td>\n<td style=\"width: 51.3842%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">3.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Trời ạ. Tôi không biết chúng ta phải chờ xe buýt bao lâu nữa. Chúng ta đã chờ được nửa tiếng rồi! Bạn có nghĩ chúng mình nên quay lại và lấy xe ô tô không?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Ôi không. Tôi ghét lái xe vào buổi tối. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Vậy mình bắt taxi đi. Tôi không muốn đến trễ cho bộ phim. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Ý tưởng hay đấy. Tôi sẽ gọi taxi bằng điện thoại của tôi. Họ thường đến khá nhanh. </span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": [
+        {
+          "id": 911188,
+          "content": "a. by taxi"
+        },
+        {
+          "id": 911189,
+          "content": "b. by car"
+        },
+        {
+          "id": 911190,
+          "content": "a. by bus"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911188,
+        "correctAnswer": 911188,
+        "resultAnswer": {
+          "911188": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430872",
+      "sourceQuestionId": 430872,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": 4,
+      "prompt": "4.",
+      "introductionText": "",
+      "contentText": "4.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "EXPLANATION |\n\nBan đầu Harry nói có thể take a bus or a taxi.Tuy nhiên người kia nói Sunday night taxis are hard to find nên có thể phải đợi lâu.Sau đó họ gợi ý Kevin drive you home vì Kevin sống gần Harry.Harry đồng ý “I'll ask him.”\n\nĐiều này có nghĩa là Harry sẽ đi nhờ xe của Kevin, tức là đi bằng ô tô.\n\n→ Đáp án: a. by car\n\n |\n\nTRANSCRIPT |\nMEANING |\n\n4.\nA: How are you going to get home from the restaurant on Sunday, Harry?\nB: Oh, I can just take a bus or a taxi. There are usually plenty of taxis around that area at night.\nA: Yes, but not on a Sunday night. You might wait for a long time. Why don't you ask Kevin to drive you home? He's having dinner with us and he lives near you.\nB: That's right. I'll ask him.\n\n |\n\n4. \nA: Bạn định về nhà từ nhà hàng bằng cách nào hôm Chủ nhật hả Harry?\nB: Ồ, tôi có thể chỉ cần bắt xe buýt hoặc taxi. Thường có khá nhiều taxi ở quanh khu vực đó vào buổi tối. \nA: Đúng vậy, nhưng không phải tối Chủ nhật. Bạn có thể sẽ phải đợi lâu. Tại sao bạn không nhờ Kevin đèo bạn về? Anh ấy ăn tối cùng chúng ta và anh ấy sống gần chỗ bạn. \nB: Phải ha. Tôi sẽ hỏi anh ấy.\n\n |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">4.</span></p>",
+        "answerTemplate": null,
+        "explain": "<table style=\"width: 100.009%; height: 421.445px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 23.2778px;\">\n<td style=\"text-align: center; width: 97.6871%; height: 23.2778px;\" colspan=\"2\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>EXPLANATION</strong></span></td>\n</tr>\n<tr style=\"height: 203.667px;\">\n<td style=\"width: 97.6871%; height: 203.667px;\" colspan=\"2\">\n<p data-start=\"1739\" data-end=\"1985\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Ban đầu Harry nói có thể <strong data-start=\"1764\" data-end=\"1788\">take a bus or a taxi</strong>.</span><br data-start=\"1789\" data-end=\"1792\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Tuy nhiên người kia nói <strong data-start=\"1816\" data-end=\"1855\">Sunday night taxis are hard to find</strong> nên có thể phải đợi lâu.</span><br data-start=\"1880\" data-end=\"1883\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Sau đó họ gợi ý <strong data-start=\"1899\" data-end=\"1923\">Kevin drive you home</strong> vì Kevin sống gần Harry.</span><br data-start=\"1948\" data-end=\"1951\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Harry đồng ý <strong data-start=\"1964\" data-end=\"1983\">“I'll ask him.”</strong></span></p>\n<p data-start=\"1987\" data-end=\"2068\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Điều này có nghĩa là Harry sẽ <strong data-start=\"2017\" data-end=\"2040\">đi nhờ xe của Kevin</strong>, tức là <strong data-start=\"2049\" data-end=\"2065\">đi bằng ô tô</strong>.</span></p>\n<p data-start=\"2070\" data-end=\"2093\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án:<span style=\"color: #ba372a;\"> <strong data-start=\"2080\" data-end=\"2093\">a. by car</strong></span></span></p>\n</td>\n</tr>\n<tr style=\"height: 23.2778px;\">\n<td style=\"text-align: center; width: 47.3606%; height: 23.2778px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>TRANSCRIPT</strong></span></td>\n<td style=\"text-align: center; width: 50.3265%; height: 23.2778px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>MEANING</strong></span></td>\n</tr>\n<tr style=\"height: 171.222px;\">\n<td style=\"width: 47.3606%; height: 171.222px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">4.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: How are you going to get home from the restaurant on Sunday, Harry?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Oh, I can just take a bus or a taxi. There are usually plenty of taxis around that area at night.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Yes, but not on a Sunday night. You might wait for a long time. Why don't you ask Kevin to drive you home? He's having dinner with us and he lives near you.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: That's right. I'll ask him.</span></p>\n</td>\n<td style=\"width: 50.3265%; height: 171.222px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">4. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Bạn định về nhà từ nhà hàng bằng cách nào hôm Chủ nhật hả Harry?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Ồ, tôi có thể chỉ cần bắt xe buýt hoặc taxi. Thường có khá nhiều taxi ở quanh khu vực đó vào buổi tối. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Đúng vậy, nhưng không phải tối Chủ nhật. Bạn có thể sẽ phải đợi lâu. Tại sao bạn không nhờ Kevin đèo bạn về? Anh ấy ăn tối cùng chúng ta và anh ấy sống gần chỗ bạn. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Phải ha. Tôi sẽ hỏi anh ấy. </span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": [
+        {
+          "id": 911191,
+          "content": "a. by car"
+        },
+        {
+          "id": 911192,
+          "content": "b. by bus"
+        },
+        {
+          "id": 911193,
+          "content": "c. by taxi"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911191,
+        "correctAnswer": 911191,
+        "resultAnswer": {
+          "911191": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430873",
+      "sourceQuestionId": 430873,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": 4,
+      "prompt": "5.",
+      "introductionText": "",
+      "contentText": "5.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "EXPLANATION |\n\nNgười B nói “One of the traffic lights is broken, so all the traffic is backing up.” nghĩa là một đèn giao thông bị hỏng khiến xe cộ ùn lại.Người A hỏi nên drive hay take a taxi, nhưng người B nói taxi cũng không nhanh hơn.Sau đó người A quyết định “I'll probably take the subway to the station and then walk from there.”\n\nVì vậy người này sẽ đi tàu điện ngầm rồi đi bộ.\n\n→ Đáp án: c. by subway and on foot\n\n |\n\nTRANSCRIPT |\nMEANING |\n\n5.\nA: What's the traffic like downtown today?\n8: It's pretty bad. One of the traffic lights is broken, so all the traffic is backing up.\nA: Oh. How should I get to my doctor's appointment? Drive? Take a taxi?\nB: A taxi won't be any faster than driving.\nA: Well then, I'll probably take the subway to the station and then walk from there.\nB: Yeah, today I think that's the fastest way.\n\n |\n\n5. \nA: Giao thông ở trung tâm thành phố ngày hôm nay thế nào? \nB: Nó khá tệ. Một trong số những đèn giao thông bị hỏng, nên giao thông đang bị tắc nghẽn. \nA: Ồ. Tôi nên đến buổi hẹn với bác sĩ bằng cách nào? Lái xe? Đi taxi?\nB: Đi taxi cũng sẽ không nhanh hơn lái xe là mấy đâu. \nA: Vậy thì có thể tôi sẽ đi tàu điện ngầm đến trạm rồi đi bộ từ đó. \nB: Yeah, hôm nay tôi nghĩ đó là cách nhanh nhất. \n\n |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">5.</span></p>",
+        "answerTemplate": null,
+        "explain": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center;\" colspan=\"2\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>EXPLANATION</strong></span></td>\n</tr>\n<tr>\n<td colspan=\"2\">\n<p data-start=\"2196\" data-end=\"2537\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Người B nói <strong data-start=\"2208\" data-end=\"2284\">“One of the traffic lights is broken, so all the traffic is backing up.”</strong> nghĩa là một đèn giao thông bị hỏng khiến xe cộ ùn lại.</span><br data-start=\"2340\" data-end=\"2343\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Người A hỏi nên <strong data-start=\"2359\" data-end=\"2384\">drive hay take a taxi</strong>, nhưng người B nói taxi cũng không nhanh hơn.</span><br data-start=\"2430\" data-end=\"2433\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Sau đó người A quyết định <strong data-start=\"2459\" data-end=\"2535\">“I'll probably take the subway to the station and then walk from there.”</strong></span></p>\n<p data-start=\"2539\" data-end=\"2592\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Vì vậy người này sẽ <strong data-start=\"2559\" data-end=\"2589\">đi tàu điện ngầm rồi đi bộ</strong>.</span></p>\n<p data-start=\"2594\" data-end=\"2632\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án: <span style=\"color: #ba372a;\"><strong data-start=\"2604\" data-end=\"2632\">c. by subway and on foot</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>TRANSCRIPT</strong></span></td>\n<td style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>MEANING</strong></span></td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">5.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: What's the traffic like downtown today?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">8: It's pretty bad. One of the traffic lights is broken, so all the traffic is backing up.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Oh. How should I get to my doctor's appointment? Drive? Take a taxi?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: A taxi won't be any faster than driving.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Well then, I'll probably take the subway to the station and then walk from there.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Yeah, today I think that's the fastest way.</span></p>\n</td>\n<td>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">5. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Giao thông ở trung tâm thành phố ngày hôm nay thế nào? </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Nó khá tệ. Một trong số những đèn giao thông bị hỏng, nên giao thông đang bị tắc nghẽn. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Ồ. Tôi nên đến buổi hẹn với bác sĩ bằng cách nào? Lái xe? Đi taxi?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Đi taxi cũng sẽ không nhanh hơn lái xe là mấy đâu. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Vậy thì có thể tôi sẽ đi tàu điện ngầm đến trạm rồi đi bộ từ đó. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Yeah, hôm nay tôi nghĩ đó là cách nhanh nhất. </span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": [
+        {
+          "id": 911194,
+          "content": "a. by car"
+        },
+        {
+          "id": 911195,
+          "content": "b. by taxi and subway"
+        },
+        {
+          "id": 911196,
+          "content": "c. by subway and on foot"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911196,
+        "correctAnswer": 911196,
+        "resultAnswer": {
+          "911196": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430874",
+      "sourceQuestionId": 430874,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": 4,
+      "prompt": "6.",
+      "introductionText": "",
+      "contentText": "6.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "EXPLANATION |\n\nNgười A hỏi người B có cần đi nhờ xe không.Người B hỏi lại “How's the weather?” và người A trả lời “It's really nice out.” nghĩa là thời tiết rất đẹp.Sau đó người B nói “I'll ride my bike. I was going to take the bus, but I need to get some exercise.”\n\nĐiều này cho thấy ban đầu B định đi xe buýt, nhưng cuối cùng quyết định đi xe đạp để tập thể dục.\n\n→ Đáp án: b. by bike\n\n |\n\nTRANSCRIPT |\nMEANING |\n\n6.\nA: How do you plan to get to your friend's house? Do you need a ride?\nB: How's the weather?\nA: It's really nice out.\nB: Oh, thanks anyway, but I'll ride my bike. I was going to take the bus, but I need to get some exercise.\nA: All right. But be careful of the traffic.\n\n |\n\n6. \nA: Bạn dự định đến nhà bạn của bạn như thế nào? Bạn có cần tôi đón không? \nB: Thời tiết hôm nay như thế nào?\nA: Ngoài trời rất đẹp. \nB: Ồ, dù sao thì cũng cảm ơn bạn, nhưng tôi sẽ đi xe đạp. Tôi đã định sẽ bắt xe buýt, nhưng tôi cần luyện tập một chút. \nA: Được thôi, nhưng cẩn thận giao thông nhé.\n\n |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">6.</span></p>",
+        "answerTemplate": null,
+        "explain": "<table style=\"width: 100.009%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center; width: 99.9909%;\" colspan=\"2\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>EXPLANATION</strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 99.9909%;\" colspan=\"2\">\n<p data-start=\"150\" data-end=\"421\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Người A hỏi người B có cần đi nhờ xe không.</span><br data-start=\"193\" data-end=\"196\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Người B hỏi lại <strong data-start=\"212\" data-end=\"236\">“How's the weather?”</strong> và người A trả lời <strong data-start=\"256\" data-end=\"283\">“It's really nice out.”</strong> nghĩa là thời tiết rất đẹp.</span><br data-start=\"311\" data-end=\"314\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Sau đó người B nói <strong data-start=\"333\" data-end=\"419\">“I'll ride my bike. I was going to take the bus, but I need to get some exercise.”</strong></span></p>\n<p data-start=\"423\" data-end=\"530\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Điều này cho thấy ban đầu B định <strong data-start=\"456\" data-end=\"470\">đi xe buýt</strong>, nhưng cuối cùng quyết định <strong data-start=\"499\" data-end=\"527\">đi xe đạp để tập thể dục</strong>.</span></p>\n<p data-start=\"532\" data-end=\"556\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án: <span style=\"color: #ba372a;\"><strong data-start=\"542\" data-end=\"556\">b. by bike</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center; width: 46.8909%;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>TRANSCRIPT</strong></span></td>\n<td style=\"text-align: center; width: 53.1%;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>MEANING</strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 46.8909%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">6.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: How do you plan to get to your friend's house? Do you need a ride?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: How's the weather?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: It's really nice out.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Oh, thanks anyway, but I'll ride my bike. I was going to take the bus, but I need to get some exercise.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: All right. But be careful of the traffic.</span></p>\n</td>\n<td style=\"width: 53.1%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">6. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Bạn dự định đến nhà bạn của bạn như thế nào? Bạn có cần tôi đón không? </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Thời tiết hôm nay như thế nào?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Ngoài trời rất đẹp. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Ồ, dù sao thì cũng cảm ơn bạn, nhưng tôi sẽ đi xe đạp. Tôi đã định sẽ bắt xe buýt, nhưng tôi cần luyện tập một chút. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Được thôi, nhưng cẩn thận giao thông nhé.</span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": [
+        {
+          "id": 911197,
+          "content": "a. by car"
+        },
+        {
+          "id": 911198,
+          "content": "b. by bike"
+        },
+        {
+          "id": 911199,
+          "content": "c. by bus"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911198,
+        "correctAnswer": 911198,
+        "resultAnswer": {
+          "911198": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430875",
+      "sourceQuestionId": 430875,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": null,
+      "prompt": "Task 2: Listen again. Are these statements true or false? (Nghe lại. Những ý kiến sau đúng hay sai?)",
+      "introductionText": "Task 2: Listen again. Are these statements true or false? (Nghe lại. Những ý kiến sau đúng hay sai?)",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p> </p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"box-sizing: border-box; color: #242938; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box;\">Task 2: Listen again. Are these statements true or false?</span> </span></span><em style=\"box-sizing: border-box; color: #242938; background-color: #ffffff;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">(Nghe lại. Những ý kiến sau đúng hay sai?)</span></em></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-430876",
+      "sourceQuestionId": 430876,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": 3,
+      "prompt": "1. There is a big baseball game today.",
+      "introductionText": "",
+      "contentText": "1. There is a big baseball game today.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "EXPLANATION |\n\n1. There is a big baseball game today.(Hôm nay có một trận bóng chày lớn.)\n\nTrong bài nghe, người nói nhắc đến “the big football game” (một trận bóng đá lớn) chứ không phải baseball.Vì vậy thông tin trong câu hỏi không đúng với nội dung bài nghe.\n\n→ Đáp án: FALSE\n\n |\n\nTRANSCRIPT |\nMEANING |\n\n1.\nA: Are you going to take the bus downtown or are you going to take\nyour bike?\nB: I think there's too much traffic on the road today to go by bike. It's not safe to ride in traffic.\nA: I guess there's so much traffic because of the big football game. Well, look, I'm driving downtown. Can I give you a ride?\nB: Hey, thanks.\nA: So do you use your bike very often?\nB: Not during the week, but I ride it pretty often on the weekend.\n\n |\n\n1. \nA: Bạn có định bắt xe buýt xuống phố không hay bạn định đi bằng xe đạp?\nB: Tôi nghĩ hôm nay quá tắc đường để đi bằng xe đạp. Đi xe đạp khi tắc đường không an toàn chút nào. \nA: Tôi đoán hôm nay đường tắc vì có một trận bóng đá lớn. Ừm, vậy nhé, tôi sẽ lái xe xuống phố. Tôi chở bạn được chứ?\nB: Hey, cảm ơn nhé.\nA: Vậy bạn có sử dụng xe đạp thường xuyên không?\nB: Trong tuần thì không, nhưng tôi đạp xe khá nhiều vào cuối tuần. \n\n |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #242938; font-family: arial, helvetica, sans-serif; font-size: 12pt; background-color: #ffffff;\">1. There is a big baseball game today. </span></p>",
+        "answerTemplate": null,
+        "explain": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center;\" colspan=\"2\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>EXPLANATION</strong></span></td>\n</tr>\n<tr>\n<td colspan=\"2\">\n<p data-start=\"636\" data-end=\"721\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"636\" data-end=\"678\">1. There is a big baseball game today.</strong></span><br data-start=\"678\" data-end=\"681\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><em data-start=\"681\" data-end=\"719\">(Hôm nay có một trận bóng chày lớn.)</em></span></p>\n<p data-start=\"723\" data-end=\"912\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Trong bài nghe, người nói nhắc đến <strong data-start=\"758\" data-end=\"785\">“the big football game”</strong> <em data-start=\"786\" data-end=\"810\">(một trận bóng đá lớn)</em> chứ <strong data-start=\"815\" data-end=\"838\">không phải baseball</strong>.</span><br data-start=\"839\" data-end=\"842\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Vì vậy thông tin trong câu hỏi <strong data-start=\"873\" data-end=\"909\">không đúng với nội dung bài nghe</strong>.</span></p>\n<p data-start=\"914\" data-end=\"933\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án: <span style=\"color: #ba372a;\"><strong data-start=\"924\" data-end=\"933\">FALSE</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>TRANSCRIPT</strong></span></td>\n<td style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>MEANING</strong></span></td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">1.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Are you going to take the bus downtown or are you going to take</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">your bike?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: I think there's too much traffic on the road today to go by bike. It's not safe to ride in traffic.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: I guess there's so much traffic because of the big football game. Well, look, I'm driving downtown. Can I give you a ride?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Hey, thanks.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: So do you use your bike very often?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Not during the week, but I ride it pretty often on the weekend.</span></p>\n</td>\n<td>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">1. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Bạn có định bắt xe buýt xuống phố không hay bạn định đi bằng xe đạp?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Tôi nghĩ hôm nay quá tắc đường để đi bằng xe đạp. Đi xe đạp khi tắc đường không an toàn chút nào. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Tôi đoán hôm nay đường tắc vì có một trận bóng đá lớn. Ừm, vậy nhé, tôi sẽ lái xe xuống phố. Tôi chở bạn được chứ?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Hey, cảm ơn nhé.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Vậy bạn có sử dụng xe đạp thường xuyên không?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Trong tuần thì không, nhưng tôi đạp xe khá nhiều vào cuối tuần. </span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": [
+        {
+          "id": 911200,
+          "content": "TRUE"
+        },
+        {
+          "id": 911201,
+          "content": "FALSE"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911201,
+        "correctAnswer": 911201,
+        "resultAnswer": {
+          "911201": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430877",
+      "sourceQuestionId": 430877,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": 3,
+      "prompt": "2. There is a traffic jam on the freeway.",
+      "introductionText": "",
+      "contentText": "2. There is a traffic jam on the freeway.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "EXPLANATION |\n\n2. There is a traffic jam on the freeway.(Có một vụ tắc đường trên đường cao tốc.)\n\nTrong đoạn hội thoại thứ 2, người B nói “there is a traffic jam on the freeway.” (có một vụ tắc đường trên cao tốc) do một vài xe buýt bị hỏng.Câu này trùng khớp hoàn toàn với thông tin trong bài nghe.\n\n→ Đáp án: TRUE\n\n |\n\nTRANSCRIPT |\nMEANING |\n\n2. \nA: How are you going to get downtown? Are you going to drive?\nB: I don't think so. I just heard the traffic report on the radio. It seems there is a traffic jam on the freeway. They said a couple of buses have broken down.\nA: I guess it will be quicker to take the subway.\nB: Absolutely!\n\n |\n\n2. \nA: Bạn định xuống phố bằng cách nào? Bạn có định lái xe không?\nB: Tôi không nghĩ vậy. Tôi vừa nghe thông báo về giao thông trên đài. Có vẻ như đang tắc đường ở trên cao tốc. Họ nói là một vài chiếc xe buýt đã bị hỏng. \nA: Tôi đoán sẽ nhanh hơn nếu đi bằng tàu điện ngầm.\nB: Đương nhiên rồi!\n\n |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #242938; font-family: arial, helvetica, sans-serif; font-size: 12pt; background-color: #ffffff;\">2. There is a traffic jam on the freeway.</span></p>",
+        "answerTemplate": null,
+        "explain": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center;\" colspan=\"2\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>EXPLANATION</strong></span></td>\n</tr>\n<tr>\n<td colspan=\"2\">\n<p data-start=\"940\" data-end=\"1033\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"940\" data-end=\"985\">2. There is a traffic jam on the freeway.</strong></span><br data-start=\"985\" data-end=\"988\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><em data-start=\"988\" data-end=\"1031\">(Có một vụ tắc đường trên đường cao tốc.)</em></span></p>\n<p data-start=\"1035\" data-end=\"1255\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Trong đoạn hội thoại thứ 2, người B nói <strong data-start=\"1075\" data-end=\"1119\">“there is a traffic jam on the freeway.”</strong> <em data-start=\"1120\" data-end=\"1156\">(có một vụ tắc đường trên cao tốc)</em> do <strong data-start=\"1160\" data-end=\"1187\">một vài xe buýt bị hỏng</strong>.</span><br data-start=\"1188\" data-end=\"1191\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Câu này <strong data-start=\"1199\" data-end=\"1252\">trùng khớp hoàn toàn với thông tin trong bài nghe</strong>.</span></p>\n<p data-start=\"1257\" data-end=\"1275\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án: <span style=\"color: #ba372a;\"><strong data-start=\"1267\" data-end=\"1275\">TRUE</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>TRANSCRIPT</strong></span></td>\n<td style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>MEANING</strong></span></td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">2. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: How are you going to get downtown? Are you going to drive?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: I don't think so. I just heard the traffic report on the radio. It seems there is a traffic jam on the freeway. They said a couple of buses have broken down.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: I guess it will be quicker to take the subway.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Absolutely!</span></p>\n</td>\n<td>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">2. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Bạn định xuống phố bằng cách nào? Bạn có định lái xe không?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Tôi không nghĩ vậy. Tôi vừa nghe thông báo về giao thông trên đài. Có vẻ như đang tắc đường ở trên cao tốc. Họ nói là một vài chiếc xe buýt đã bị hỏng. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Tôi đoán sẽ nhanh hơn nếu đi bằng tàu điện ngầm.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Đương nhiên rồi!</span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": [
+        {
+          "id": 911202,
+          "content": "TRUE"
+        },
+        {
+          "id": 911203,
+          "content": "FALSE"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911202,
+        "correctAnswer": 911202,
+        "resultAnswer": {
+          "911202": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430878",
+      "sourceQuestionId": 430878,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": 3,
+      "prompt": "3. Taxis usually don't come very quickly.",
+      "introductionText": "",
+      "contentText": "3. Taxis usually don't come very quickly.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "EXPLANATION |\n\n3. Taxis usually don't come very quickly.(Taxi thường không đến nhanh.)\n\nTrong đoạn hội thoại thứ 3, người B nói “They usually come pretty quickly.” (Taxi thường đến khá nhanh.)Như vậy nội dung của câu hỏi trái ngược với bài nghe.\n\n→ Đáp án: FALSE\n\n |\n\nTRANSCRIPT |\nMEANING |\n\n3.\nA: Gosh. I wonder how much longer we'll have to wait for a bus? We've waited half an hour already! Do you think we should go back and get the car?\nB: Oh, no. I hate driving at night.\nA: Let's take a taxi. I don't want to be late for the movie.\nB: Good idea. I'll call for one on my cell phone. They usually come pretty quickly.\n\n |\n\n3.\nA: Trời ạ. Tôi không biết chúng ta phải chờ xe buýt bao lâu nữa. Chúng ta đã chờ được nửa tiếng rồi! Bạn có nghĩ chúng mình nên quay lại và lấy xe ô tô không?\nB: Ôi không. Tôi ghét lái xe vào buổi tối. \nA: Vậy mình bắt taxi đi. Tôi không muốn đến trễ cho bộ phim. \nB: Ý tưởng hay đấy. Tôi sẽ gọi taxi bằng điện thoại của tôi. Họ thường đến khá nhanh. \n\n |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #242938; font-family: arial, helvetica, sans-serif; font-size: 12pt; background-color: #ffffff;\">3. Taxis usually don't come very quickly.</span></p>",
+        "answerTemplate": null,
+        "explain": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center;\" colspan=\"2\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>EXPLANATION</strong></span></td>\n</tr>\n<tr>\n<td colspan=\"2\">\n<p data-start=\"1282\" data-end=\"1364\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1282\" data-end=\"1327\">3. Taxis usually don't come very quickly.</strong></span><br data-start=\"1327\" data-end=\"1330\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><em data-start=\"1330\" data-end=\"1362\">(Taxi thường không đến nhanh.)</em></span></p>\n<p data-start=\"1366\" data-end=\"1538\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Trong đoạn hội thoại thứ 3, người B nói <strong data-start=\"1406\" data-end=\"1445\">“They usually come pretty quickly.”</strong> <em data-start=\"1446\" data-end=\"1476\">(Taxi thường đến khá nhanh.)</em></span><br data-start=\"1476\" data-end=\"1479\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Như vậy nội dung của câu hỏi <strong data-start=\"1508\" data-end=\"1535\">trái ngược với bài nghe</strong>.</span></p>\n<p data-start=\"1540\" data-end=\"1559\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án: <span style=\"color: #ba372a;\"><strong data-start=\"1550\" data-end=\"1559\">FALSE</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>TRANSCRIPT</strong></span></td>\n<td style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>MEANING</strong></span></td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">3.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Gosh. I wonder how much longer we'll have to wait for a bus? We've waited half an hour already! Do you think we should go back and get the car?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Oh, no. I hate driving at night.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Let's take a taxi. I don't want to be late for the movie.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Good idea. I'll call for one on my cell phone. They usually come pretty quickly.</span></p>\n</td>\n<td>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">3.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Trời ạ. Tôi không biết chúng ta phải chờ xe buýt bao lâu nữa. Chúng ta đã chờ được nửa tiếng rồi! Bạn có nghĩ chúng mình nên quay lại và lấy xe ô tô không?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Ôi không. Tôi ghét lái xe vào buổi tối. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Vậy mình bắt taxi đi. Tôi không muốn đến trễ cho bộ phim. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Ý tưởng hay đấy. Tôi sẽ gọi taxi bằng điện thoại của tôi. Họ thường đến khá nhanh. </span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": [
+        {
+          "id": 911204,
+          "content": "TRUE"
+        },
+        {
+          "id": 911205,
+          "content": "FALSE"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911205,
+        "correctAnswer": 911205,
+        "resultAnswer": {
+          "911205": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430879",
+      "sourceQuestionId": 430879,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": 3,
+      "prompt": "4. Kevin lives close to Harry.",
+      "introductionText": "",
+      "contentText": "4. Kevin lives close to Harry.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "EXPLANATION |\n\n4. Kevin lives close to Harry.(Kevin sống gần Harry.)\n\nTrong đoạn hội thoại thứ 4, người A nói “He lives near you.” (Anh ấy sống gần chỗ bạn.) khi nói về Kevin.Thông tin này đúng với nội dung câu hỏi.\n\n→ Đáp án: TRUE\n\n |\n\nTRANSCRIPT |\nMEANING |\n\n4.\nA: How are you going to get home from the restaurant on Sunday, Harry?\nB: Oh, I can just take a bus or a taxi. There are usually plenty of taxis around that area at night.\nA: Yes, but not on a Sunday night. You might wait for a long time. Why don't you ask Kevin to drive you home? He's having dinner with us and he lives near you.\nB: That's right. I'll ask him.\n\n |\n\n4. \nA: Bạn định về nhà từ nhà hàng bằng cách nào hôm Chủ nhật hả Harry?\nB: Ồ, tôi có thể chỉ cần bắt xe buýt hoặc taxi. Thường có khá nhiều taxi ở quanh khu vực đó vào buổi tối. \nA: Đúng vậy, nhưng không phải tối Chủ nhật. Bạn có thể sẽ phải đợi lâu. Tại sao bạn không nhờ Kevin đèo bạn về? Anh ấy ăn tối cùng chúng ta và anh ấy sống gần chỗ bạn. \nB: Phải ha. Tôi sẽ hỏi anh ấy.\n\n |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #242938; font-family: arial, helvetica, sans-serif; font-size: 12pt; background-color: #ffffff;\">4. Kevin lives close to Harry.</span></p>",
+        "answerTemplate": null,
+        "explain": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center;\" colspan=\"2\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>EXPLANATION</strong></span></td>\n</tr>\n<tr>\n<td colspan=\"2\">\n<p data-start=\"1566\" data-end=\"1630\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1566\" data-end=\"1600\">4. Kevin lives close to Harry.</strong></span><br data-start=\"1600\" data-end=\"1603\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><em data-start=\"1603\" data-end=\"1628\">(Kevin sống gần Harry.)</em></span></p>\n<p data-start=\"1632\" data-end=\"1792\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Trong đoạn hội thoại thứ 4, người A nói <strong data-start=\"1672\" data-end=\"1696\">“He lives near you.”</strong> <em data-start=\"1697\" data-end=\"1725\">(Anh ấy sống gần chỗ bạn.)</em> khi nói về Kevin.</span><br data-start=\"1743\" data-end=\"1746\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Thông tin này <strong data-start=\"1760\" data-end=\"1789\">đúng với nội dung câu hỏi</strong>.</span></p>\n<p data-start=\"1794\" data-end=\"1812\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án: <span style=\"color: #ba372a;\"><strong data-start=\"1804\" data-end=\"1812\">TRUE</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>TRANSCRIPT</strong></span></td>\n<td style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>MEANING</strong></span></td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">4.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: How are you going to get home from the restaurant on Sunday, Harry?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Oh, I can just take a bus or a taxi. There are usually plenty of taxis around that area at night.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Yes, but not on a Sunday night. You might wait for a long time. Why don't you ask Kevin to drive you home? He's having dinner with us and he lives near you.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: That's right. I'll ask him.</span></p>\n</td>\n<td>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">4. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Bạn định về nhà từ nhà hàng bằng cách nào hôm Chủ nhật hả Harry?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Ồ, tôi có thể chỉ cần bắt xe buýt hoặc taxi. Thường có khá nhiều taxi ở quanh khu vực đó vào buổi tối. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Đúng vậy, nhưng không phải tối Chủ nhật. Bạn có thể sẽ phải đợi lâu. Tại sao bạn không nhờ Kevin đèo bạn về? Anh ấy ăn tối cùng chúng ta và anh ấy sống gần chỗ bạn. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Phải ha. Tôi sẽ hỏi anh ấy.</span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": [
+        {
+          "id": 911206,
+          "content": "TRUE"
+        },
+        {
+          "id": 911207,
+          "content": "FALSE"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911206,
+        "correctAnswer": 911206,
+        "resultAnswer": {
+          "911206": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430880",
+      "sourceQuestionId": 430880,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": 3,
+      "prompt": "5. The traffic is backing up because a traffic light is broken.",
+      "introductionText": "",
+      "contentText": "5. The traffic is backing up because a traffic light is broken.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "EXPLANATION |\n\n5. The traffic is backing up because a traffic light is broken.(Giao thông đang bị ùn tắc vì một đèn giao thông bị hỏng.)\n\nTrong đoạn hội thoại thứ 5, người B nói “One of the traffic lights is broken, so all the traffic is backing up.” (Một đèn giao thông bị hỏng nên xe cộ đang ùn lại.)Thông tin trong câu hỏi hoàn toàn giống với nội dung bài nghe.\n\n→ Đáp án: TRUE\n\n |\n\nTRANSCRIPT |\nMEANING |\n\n5.\nA: What's the traffic like downtown today?\n8: It's pretty bad. One of the traffic lights is broken, so all the traffic is backing up.\nA: Oh. How should I get to my doctor's appointment? Drive? Take a taxi?\nB: A taxi won't be any faster than driving.\nA: Well then, I'll probably take the subway to the station and then walk from there.\nB: Yeah, today I think that's the fastest way.\n\n |\n\n5. \nA: Giao thông ở trung tâm thành phố ngày hôm nay thế nào? \nB: Nó khá tệ. Một trong số những đèn giao thông bị hỏng, nên giao thông đang bị tắc nghẽn. \nA: Ồ. Tôi nên đến buổi hẹn với bác sĩ bằng cách nào? Lái xe? Đi taxi?\nB: Đi taxi cũng sẽ không nhanh hơn lái xe là mấy đâu. \nA: Vậy thì có thể tôi sẽ đi tàu điện ngầm đến trạm rồi đi bộ từ đó. \nB: Yeah, hôm nay tôi nghĩ đó là cách nhanh nhất. \n\n |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #242938; font-family: arial, helvetica, sans-serif; font-size: 12pt; background-color: #ffffff;\">5. The traffic is backing up because a traffic light is broken.</span></p>",
+        "answerTemplate": null,
+        "explain": "<table style=\"width: 100.009%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center; width: 99.9909%;\" colspan=\"2\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>EXPLANATION</strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 99.9909%;\" colspan=\"2\">\n<p data-start=\"1819\" data-end=\"1951\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1819\" data-end=\"1886\">5. The traffic is backing up because a traffic light is broken.</strong></span><br data-start=\"1886\" data-end=\"1889\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><em data-start=\"1889\" data-end=\"1949\">(Giao thông đang bị ùn tắc vì một đèn giao thông bị hỏng.)</em></span></p>\n<p data-start=\"1953\" data-end=\"2194\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Trong đoạn hội thoại thứ 5, người B nói <strong data-start=\"1993\" data-end=\"2069\">“One of the traffic lights is broken, so all the traffic is backing up.”</strong> <em data-start=\"2070\" data-end=\"2123\">(Một đèn giao thông bị hỏng nên xe cộ đang ùn lại.)</em></span><br data-start=\"2123\" data-end=\"2126\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Thông tin trong câu hỏi <strong data-start=\"2150\" data-end=\"2191\">hoàn toàn giống với nội dung bài nghe</strong>.</span></p>\n<p data-start=\"2196\" data-end=\"2214\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án: <span style=\"color: #ba372a;\"><strong data-start=\"2206\" data-end=\"2214\">TRUE</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 46.401%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>TRANSCRIPT</strong></span></td>\n<td style=\"width: 53.5899%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>MEANING</strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 46.401%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">5.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: What's the traffic like downtown today?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">8: It's pretty bad. One of the traffic lights is broken, so all the traffic is backing up.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Oh. How should I get to my doctor's appointment? Drive? Take a taxi?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: A taxi won't be any faster than driving.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Well then, I'll probably take the subway to the station and then walk from there.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Yeah, today I think that's the fastest way.</span></p>\n</td>\n<td style=\"width: 53.5899%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">5. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Giao thông ở trung tâm thành phố ngày hôm nay thế nào? </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Nó khá tệ. Một trong số những đèn giao thông bị hỏng, nên giao thông đang bị tắc nghẽn. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Ồ. Tôi nên đến buổi hẹn với bác sĩ bằng cách nào? Lái xe? Đi taxi?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Đi taxi cũng sẽ không nhanh hơn lái xe là mấy đâu. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Vậy thì có thể tôi sẽ đi tàu điện ngầm đến trạm rồi đi bộ từ đó. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Yeah, hôm nay tôi nghĩ đó là cách nhanh nhất. </span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": [
+        {
+          "id": 911208,
+          "content": "TRUE"
+        },
+        {
+          "id": 911209,
+          "content": "FALSE"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911208,
+        "correctAnswer": 911208,
+        "resultAnswer": {
+          "911208": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430881",
+      "sourceQuestionId": 430881,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": 3,
+      "prompt": "6. The weather is not so good.",
+      "introductionText": "",
+      "contentText": "6. The weather is not so good.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "EXPLANATION |\n\n6. The weather is not so good.(Thời tiết không được tốt.)\n\nTrong đoạn hội thoại thứ 6, người A nói “It's really nice out.” (Thời tiết ngoài trời rất đẹp.)Điều này trái ngược với câu hỏi.\n\n→ Đáp án: FALSE\n\n |\n\nTRANSCRIPT |\nMEANING |\n\n6.\nA: How do you plan to get to your friend's house? Do you need a ride?\nB: How's the weather?\nA: It's really nice out.\nB: Oh, thanks anyway, but I'll ride my bike. I was going to take the bus, but I need to get some exercise.\nA: All right. But be careful of the traffic.\n\n |\n\n6. \nA: Bạn dự định đến nhà bạn của bạn như thế nào? Bạn có cần tôi đón không? \nB: Thời tiết hôm nay như thế nào?\nA: Ngoài trời rất đẹp. \nB: Ồ, dù sao thì cũng cảm ơn bạn, nhưng tôi sẽ đi xe đạp. Tôi đã định sẽ bắt xe buýt, nhưng tôi cần luyện tập một chút. \nA: Được thôi, nhưng cẩn thận giao thông nhé.\n\n |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #242938; font-family: arial, helvetica, sans-serif; font-size: 12pt; background-color: #ffffff;\">6. The weather is not so good. </span></p>",
+        "answerTemplate": null,
+        "explain": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center;\" colspan=\"2\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>EXPLANATION</strong></span></td>\n</tr>\n<tr>\n<td colspan=\"2\">\n<p data-start=\"2221\" data-end=\"2289\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"2221\" data-end=\"2255\">6. The weather is not so good.</strong></span><br data-start=\"2255\" data-end=\"2258\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><em data-start=\"2258\" data-end=\"2287\">(Thời tiết không được tốt.)</em></span></p>\n<p data-start=\"2291\" data-end=\"2433\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Trong đoạn hội thoại thứ 6, người A nói <strong data-start=\"2331\" data-end=\"2358\">“It's really nice out.”</strong> <em data-start=\"2359\" data-end=\"2392\">(Thời tiết ngoài trời rất đẹp.)</em></span><br data-start=\"2392\" data-end=\"2395\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Điều này <strong data-start=\"2404\" data-end=\"2430\">trái ngược với câu hỏi</strong>.</span></p>\n<p data-start=\"2435\" data-end=\"2454\" data-is-last-node=\"\" data-is-only-node=\"\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án: <span style=\"color: #ba372a;\"><strong data-start=\"2445\" data-end=\"2454\" data-is-last-node=\"\">FALSE</strong></span></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>TRANSCRIPT</strong></span></td>\n<td style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>MEANING</strong></span></td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">6.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: How do you plan to get to your friend's house? Do you need a ride?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: How's the weather?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: It's really nice out.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Oh, thanks anyway, but I'll ride my bike. I was going to take the bus, but I need to get some exercise.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: All right. But be careful of the traffic.</span></p>\n</td>\n<td>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">6. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Bạn dự định đến nhà bạn của bạn như thế nào? Bạn có cần tôi đón không? </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Thời tiết hôm nay như thế nào?</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Ngoài trời rất đẹp. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">B: Ồ, dù sao thì cũng cảm ơn bạn, nhưng tôi sẽ đi xe đạp. Tôi đã định sẽ bắt xe buýt, nhưng tôi cần luyện tập một chút. </span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A: Được thôi, nhưng cẩn thận giao thông nhé.</span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": [
+        {
+          "id": 911210,
+          "content": "TRUE"
+        },
+        {
+          "id": 911211,
+          "content": "FALSE"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 911211,
+        "correctAnswer": 911211,
+        "resultAnswer": {
+          "911211": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-430882",
+      "sourceQuestionId": 430882,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": null,
+      "prompt": "Exercise 3\n\nTask 1: People are describing solutions to traffic problems in their cities. Listen and fill in the blank. (Mọi người đang miêu tả cách giải quyết vấn đề giao thông ở thành phố của họ. Nghe và điền vào chỗ trống.)",
+      "introductionText": "Exercise 3\n\nTask 1: People are describing solutions to traffic problems in their cities. Listen and fill in the blank. (Mọi người đang miêu tả cách giải quyết vấn đề giao thông ở thành phố của họ. Nghe và điền vào chỗ trống.)",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"> </p>\n<p style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #ba372a;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box;\">Exercise 3</span></span></span></span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\">Task 1: People are describing solutions to traffic problems in their cities. Listen and fill in the blank. </span></span></span><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><span style=\"box-sizing: border-box; border-radius: 0px !important;\"><em style=\"box-sizing: border-box;\">(Mọi người đang miêu tả cách giải quyết vấn đề giao thông ở thành phố của họ. Nghe và điền vào chỗ trống.)</em></span></span></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-430883",
+      "sourceQuestionId": 430883,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": 1,
+      "prompt": "1.",
+      "introductionText": "",
+      "contentText": "1.",
+      "answerTemplateText": "In my town, public transportation was never very good. You had to [input_0] everywhere so there was always [input_1]. The government wanted to make public transportation [input_2] than driving cars. They bought some nice new buses, for example, and they added air conditioning to the ones we already had. They also began offering lower bus fares on the weekends, so more people would be encouraged to try the new buses. They raised taxi [input_3], too. I guess they figure that if taxis cost more, people might think about using buses more.",
+      "explanationText": "Transcript |\nDịch  |\n\nIn my town, public transportation was never very good. You had to [drive] everywhere so there was always [traffic]. The government wanted to make public transportation [easier] than driving cars. They bought some nice new buses, for example, and they added air conditioning to the ones we already had. They also began offering lower bus fares on the weekends, so more people would be encouraged to try the new buses. They raised taxi [fares], too. I guess they figure that if taxis cost more, people might think about using buses more. |\nỞ thị trấn của tôi, giao thông công cộng không bao giờ tốt. Bạn phải lái xe đi khắp mọi nơi nên lúc nào cũng có tắc đường. Chính phủ muốn làm cho việc sử dụng phương tiện giao thông công cộng dễ dàng hơn lái xe. Ví dụ, họ đã mua một vài chiếc xe buýt mới và họ thêm hệ thống điều hoà vào những chiếc xe hiện có. Họ cũng bắt đầu giảm giá vé xe buýt vào cuối tuần, vì thế ngày càng nhiều người sẽ thử đi xe buýt mới. Họ cũng tăng giá xe taxi. Tôi đoán họ nhận ra rằng nếu giá xe taxi đắt hơn, mọi người sẽ nghĩ đến việc sử dụng xe buýt nhiều hơn. |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">1.</span></p>",
+        "answerTemplate": "<p>In my town, public transportation was never very good. You had to <span style=\"color: #ba372a;\">[input_0]</span> everywhere so there was always <span style=\"color: #ba372a;\">[input_1]</span>. The government wanted to make public transportation <span style=\"color: #ba372a;\">[input_2]</span> than driving cars. They bought some nice new buses, for example, and they added air conditioning to the ones we already had. They also began offering lower bus fares on the weekends, so more people would be encouraged to try the new buses. They raised taxi <span style=\"color: #ba372a;\">[input_3]</span>, too. I guess they figure that if taxis cost more, people might think about using buses more.</p>",
+        "explain": "<table style=\"width: 100.014%; height: 44.7686px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 22.3843px;\">\n<td style=\"width: 49.9901%; height: 22.3843px; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Transcript</strong></span></td>\n<td style=\"width: 49.9901%; height: 22.3843px; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Dịch </strong></span></td>\n</tr>\n<tr style=\"height: 22.3843px;\">\n<td style=\"width: 49.9901%; height: 22.3843px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">In my town, public transportation was never very good. You had to [<span style=\"color: #ba372a;\">drive</span>] everywhere so there was always [<span style=\"color: #ba372a;\">traffic</span>]. The government wanted to make public transportation [<span style=\"color: #ba372a;\">easier</span>] than driving cars. They bought some nice new buses, for example, and they added air conditioning to the ones we already had. They also began offering lower bus fares on the weekends, so more people would be encouraged to try the new buses. They raised taxi [<span style=\"color: #ba372a;\">fares</span>], too. I guess they figure that if taxis cost more, people might think about using buses more.</span></td>\n<td style=\"width: 49.9901%; height: 22.3843px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Ở thị trấn của tôi, giao thông công cộng không bao giờ tốt. Bạn phải lái xe đi khắp mọi nơi nên lúc nào cũng có tắc đường. Chính phủ muốn làm cho việc sử dụng phương tiện giao thông công cộng dễ dàng hơn lái xe. Ví dụ, họ đã mua một vài chiếc xe buýt mới và họ thêm hệ thống điều hoà vào những chiếc xe hiện có. Họ cũng bắt đầu giảm giá vé xe buýt vào cuối tuần, vì thế ngày càng nhiều người sẽ thử đi xe buýt mới. Họ cũng tăng giá xe taxi. Tôi đoán họ nhận ra rằng nếu giá xe taxi đắt hơn, mọi người sẽ nghĩ đến việc sử dụng xe buýt nhiều hơn.</em></span></td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 4,
+        "totalCorrect": 4,
+        "userAnswer": {
+          "input_0": "drive",
+          "input_1": "traffic",
+          "input_2": "easier",
+          "input_3": "fares"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "drive"
+          ],
+          "input_1": [
+            "traffic"
+          ],
+          "input_2": [
+            "easier"
+          ],
+          "input_3": [
+            "fares"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true
+        },
+        "hasAnswerEmpty": []
+      }
+    },
+    {
+      "id": "question-430884",
+      "sourceQuestionId": 430884,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": 1,
+      "prompt": "2.",
+      "introductionText": "",
+      "contentText": "2.",
+      "answerTemplateText": "Well, the [input_0] was that thousands of people drove into the city center [input_1], and there weren't enough parking spaces. So the [input_2] wanted to make parking easier. But they didn't build more parking garages. Instead, they tried to keep cars out of the city [input_3]. Recently, they started making people who drive their cars downtown pay a daily fee. You have to pay $10 if you want to drive your car into the center between 8 a.m. and 6 p.m. At the same time, they have raised the parking lot rates, so people think [input_4] before they drive their car downtown",
+      "explanationText": "Transcript |\nDịch  |\n\nWell, the [problem] was that thousands of people drove into the city center [every day], and there weren't enough parking spaces. So the [government] wanted to make parking easier. But they didn't build more parking garages. Instead, they tried to keep cars out of the city [center/centre]. Recently, they started making people who drive their cars downtown pay a daily fee. You have to pay $10 if you want to drive your car into the center between 8 a.m. and 6 p.m. At the same time, they have raised the parking lot rates, so people think [twice] before they drive their car downtown |\nỪm, vấn đề là hàng nghìn người lái xe vào trung tâm thành phố mỗi ngày, và không có đủ bãi đỗ xe. Vì vậy, chính phủ muốn giúp cho việc đỗ xe trở nên dễ dàng hơn. Nhưng họ không xây thêm gara đỗ xe. Thay vì đó, họ cố gắng hạn chế ô tô khỏi trung tâm thành phố. Gần đây, họ bắt đầu bắt những người lái xe vào trung tâm thành phố phải trả phí mỗi ngày. Bạn phải trả $10 nếu bạn muốn lái xe vào trung tâm thành phố từ 8h sáng và 6h chiều. Cùng lúc đó, họ cũng đã tăng phí đỗ xe, nên mọi người sẽ phải suy nghĩ lại nếu như họ muốn lái xe vào trung tâm thành phố.  |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">2.</span></p>",
+        "answerTemplate": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">Well, the <span style=\"color: #ba372a;\">[input_0]</span> was that thousands of people drove into the city center <span style=\"color: #ba372a;\">[input_1]</span>, and there weren't enough parking spaces. So the <span style=\"color: #ba372a;\">[input_2]</span> wanted to make parking easier. But they didn't build more parking garages. Instead, they tried to keep cars out of the city <span style=\"color: #ba372a;\">[input_3]</span>. Recently, they started making people who drive their cars downtown pay a daily fee. You have to pay $10 if you want to drive your car into the center between 8 a.m. and 6 p.m. At the same time, they have raised the parking lot rates, so people think <span style=\"color: #ba372a;\">[input_4]</span> before they drive their car downtown</span></p>",
+        "explain": "<table style=\"border-collapse: collapse; width: 100.014%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Transcript</strong></span></td>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Dịch </strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 48.9273%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Well, the [<span style=\"color: #ba372a;\">problem</span>] was that thousands of people drove into the city center [<span style=\"color: #ba372a;\">every day</span>], and there weren't enough parking spaces. So the [<span style=\"color: #ba372a;\">government</span>] wanted to make parking easier. But they didn't build more parking garages. Instead, they tried to keep cars out of the city [<span style=\"color: #ba372a;\">center/centre</span>]. Recently, they started making people who drive their cars downtown pay a daily fee. You have to pay $10 if you want to drive your car into the center between 8 a.m. and 6 p.m. At the same time, they have raised the parking lot rates, so people think [<span style=\"color: #ba372a;\">twice</span>] before they drive their car downtown</span></td>\n<td style=\"width: 48.9273%;\"><em><span style=\"font-family: arial, helvetica, sans-serif;\">Ừm, vấn đề là hàng nghìn người lái xe vào trung tâm thành phố mỗi ngày, và không có đủ bãi đỗ xe. Vì vậy, chính phủ muốn giúp cho việc đỗ xe trở nên dễ dàng hơn. Nhưng họ không xây thêm gara đỗ xe. Thay vì đó, họ cố gắng hạn chế ô tô khỏi trung tâm thành phố. Gần đây, họ bắt đầu bắt những người lái xe vào trung tâm thành phố phải trả phí mỗi ngày. Bạn phải trả $10 nếu bạn muốn lái xe vào trung tâm thành phố từ 8h sáng và 6h chiều. Cùng lúc đó, họ cũng đã tăng phí đỗ xe, nên mọi người sẽ phải suy nghĩ lại nếu như họ muốn lái xe vào trung tâm thành phố. </span></em></td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 5,
+        "totalCorrect": 5,
+        "userAnswer": {
+          "input_0": "problem",
+          "input_1": "every day",
+          "input_2": "government",
+          "input_3": "center",
+          "input_4": "twice"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "problem"
+          ],
+          "input_1": [
+            "every day"
+          ],
+          "input_2": [
+            "government"
+          ],
+          "input_3": [
+            "center",
+            "centre"
+          ],
+          "input_4": [
+            "twice"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true
+        },
+        "hasAnswerEmpty": []
+      }
+    },
+    {
+      "id": "question-430885",
+      "sourceQuestionId": 430885,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": 1,
+      "prompt": "3.",
+      "introductionText": "",
+      "contentText": "3.",
+      "answerTemplateText": "[input_0] was a real problem around here. It moved so [input_1]. Last year the government turned a bunch of streets downtown into one-way streets. This helped the traffic move more quickly. Special lanes on roads just for buses were built at the same time. If you're caught [input_2] your car in a bus lane, you have to pay a fine-and it's a really high fine! Also, they passed a law last year that says you can only drive your car [input_3] three days a week. You have to display a special pass in your car that says which days you're allowed to drive downtown.",
+      "explanationText": "Transcript |\nDịch |\n\n[Traffic] was a real problem around here. It moved so [slowly]. Last year the government turned a bunch of streets downtown into one-way streets. This helped the traffic move more quickly. Special lanes on roads just for buses were built at the same time. If you're caught [driving] your car in a bus lane, you have to pay a fine-and it's a really high fine! Also, they passed a law last year that says you can only drive your car [downtown] three days a week. You have to display a special pass in your car that says which days you're allowed to drive downtown. |\nGiao thông là thực sự là một vấn đề ở đây. Nó di chuyển rất chậm. Năm ngoái, chính phủ biến một loạt các tuyến phố trung tâm thành đường một chiều. Điều này giúp cho giao thông di chuyển nhanh hơn. Cùng lúc đó, những làn xe đặc biệt dành cho xe buýt cũng được xây dựng. Nếu như bạn bị bắt khi lái xe vào làn cho xe buýt, bạn sẽ phải nộp phạt, và tiền phạt thì rất cao. Họ cũng đã ban hành luật năm ngoái, nói rằng bạn chỉ được lái xe vào trung tâm thành phố 3 ngày một tuần. Bạn sẽ phải để một vé thông hành đặc biệt ở trong xe nói rằng bạn sẽ được lái xe vào trung tâm thành phố vào những ngày nào.  |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">3.</span></p>",
+        "answerTemplate": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #ba372a;\">[input_0]</span> was a real problem around here. It moved so <span style=\"color: #ba372a;\">[input_1]</span>. Last year the government turned a bunch of streets downtown into one-way streets. This helped the traffic move more quickly. Special lanes on roads just for buses were built at the same time. If you're caught <span style=\"color: #ba372a;\">[input_2]</span> your car in a bus lane, you have to pay a fine-and it's a really high fine! Also, they passed a law last year that says you can only drive your car <span style=\"color: #ba372a;\">[input_3]</span> three days a week. You have to display a special pass in your car that says which days you're allowed to drive downtown.</span></p>",
+        "explain": "<table style=\"border-collapse: collapse; width: 100.014%; height: 44.7686px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 22.3843px;\">\n<td style=\"width: 49.9134%; height: 22.3843px; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Transcript</strong></span></td>\n<td style=\"width: 50.0669%; height: 22.3843px; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Dịch</strong></span></td>\n</tr>\n<tr style=\"height: 22.3843px;\">\n<td style=\"width: 49.9134%; height: 22.3843px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[<span style=\"color: #ba372a;\">Traffic</span>] was a real problem around here. It moved so [<span style=\"color: #ba372a;\">slowly</span>]. Last year the government turned a bunch of streets downtown into one-way streets. This helped the traffic move more quickly. Special lanes on roads just for buses were built at the same time. If you're caught [<span style=\"color: #ba372a;\">driving</span>] your car in a bus lane, you have to pay a fine-and it's a really high fine! Also, they passed a law last year that says you can only drive your car [<span style=\"color: #ba372a;\">downtown</span>] three days a week. You have to display a special pass in your car that says which days you're allowed to drive downtown.</span></td>\n<td style=\"width: 50.0669%; height: 22.3843px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Giao thông là thực sự là một vấn đề ở đây. Nó di chuyển rất chậm. Năm ngoái, chính phủ biến một loạt các tuyến phố trung tâm thành đường một chiều. Điều này giúp cho giao thông di chuyển nhanh hơn. Cùng lúc đó, những làn xe đặc biệt dành cho xe buýt cũng được xây dựng. Nếu như bạn bị bắt khi lái xe vào làn cho xe buýt, bạn sẽ phải nộp phạt, và tiền phạt thì rất cao. Họ cũng đã ban hành luật năm ngoái, nói rằng bạn chỉ được lái xe vào trung tâm thành phố 3 ngày một tuần. Bạn sẽ phải để một vé thông hành đặc biệt ở trong xe nói rằng bạn sẽ được lái xe vào trung tâm thành phố vào những ngày nào. </em></span></td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 4,
+        "totalCorrect": 4,
+        "userAnswer": {
+          "input_0": "Traffic",
+          "input_1": "slowly",
+          "input_2": "driving",
+          "input_3": "downtown"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "Traffic"
+          ],
+          "input_1": [
+            "slowly"
+          ],
+          "input_2": [
+            "driving"
+          ],
+          "input_3": [
+            "downtown"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true
+        },
+        "hasAnswerEmpty": []
+      }
+    },
+    {
+      "id": "question-430886",
+      "sourceQuestionId": 430886,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": null,
+      "type": 1,
+      "prompt": "4.",
+      "introductionText": "",
+      "contentText": "4.",
+      "answerTemplateText": "[input_0] in our city was a huge problem and we really need to lower the pollution in our city. I guess that's why the [input_1] started putting special bicycle lanes on the [input_2] downtown. That way, people can ride their bikes to work instead of using their stinky cars! They also made a rule that says there must be at least two people in your car if you want to drive downtown during the week. They also ordered these amazing new pollution-free buses. They use [input_3], so they don't put anything bad into the air.",
+      "explanationText": "Transcript |\nDịch |\n\n[Air pollution] in our city was a huge problem and we really need to lower the pollution in our city. I guess that's why the [government] started putting special bicycle lanes on the [streets] downtown. That way, people can ride their bikes to work instead of using their stinky cars! They also made a rule that says there must be at least two people in your car if you want to drive downtown during the week. They also ordered these amazing new pollution-free buses. They use [electricity], so they don't put anything bad into the air. |\nÔ nhiễm không khí là một vấn đề cực lớn ở thành phố chúng ta và chúng ta thực sự cần giảm lượng ô nhiễm trong thành phố. Tôi đoán rằng đó là lý do tại sao chính phủ đã bắt đầu xây dựng làn xe đạp đặc biệt trên các tuyến đường trong trung tâm thành phố. Bằng cách đó, mọi người có thể đạp xe đến chỗ làm thay vì sử dụng chiếc xe ô tô của họ. Họ cũng ra một luật rằng phải có ít nhất 2 người ở trong xe nếu như bạn muốn lái xe vào trung tâm thành phố trong tuần. Họ cũng đã mua một vài chiếc xe buýt không gây ô nhiễm môi trường tuyệt vời. Những chiếc xe này chạy bằng điện, nên nó sẽ không thải khí thải vào không khí.  |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">4.</span></p>",
+        "answerTemplate": "<p><span style=\"color: #ba372a;\">[input_0]</span> in our city was a huge problem and we really need to lower the pollution in our city. I guess that's why the <span style=\"color: #ba372a;\">[input_1]</span> started putting special bicycle lanes on the <span style=\"color: #ba372a;\">[input_2]</span> downtown. That way, people can ride their bikes to work instead of using their stinky cars! They also made a rule that says there must be at least two people in your car if you want to drive downtown during the week. They also ordered these amazing new pollution-free buses. They use <span style=\"color: #ba372a;\">[input_3]</span>, so they don't put anything bad into the air.</p>",
+        "explain": "<table style=\"border-collapse: collapse; width: 100.014%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 48.9273%; text-align: center;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Transcript</span></strong></td>\n<td style=\"width: 48.9273%; text-align: center;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Dịch</span></strong></td>\n</tr>\n<tr>\n<td style=\"width: 48.9273%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[<span style=\"color: #ba372a;\">Air pollution</span>] in our city was a huge problem and we really need to lower the pollution in our city. I guess that's why the [<span style=\"color: #ba372a;\">government</span>] started putting special bicycle lanes on the [<span style=\"color: #ba372a;\">streets</span>] downtown. That way, people can ride their bikes to work instead of using their stinky cars! They also made a rule that says there must be at least two people in your car if you want to drive downtown during the week. They also ordered these amazing new pollution-free buses. They use [<span style=\"color: #ba372a;\">electricity</span>], so they don't put anything bad into the air.</span></td>\n<td style=\"width: 48.9273%;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Ô nhiễm không khí là một vấn đề cực lớn ở thành phố chúng ta và chúng ta thực sự cần giảm lượng ô nhiễm trong thành phố. Tôi đoán rằng đó là lý do tại sao chính phủ đã bắt đầu xây dựng làn xe đạp đặc biệt trên các tuyến đường trong trung tâm thành phố. Bằng cách đó, mọi người có thể đạp xe đến chỗ làm thay vì sử dụng chiếc xe ô tô của họ. Họ cũng ra một luật rằng phải có ít nhất 2 người ở trong xe nếu như bạn muốn lái xe vào trung tâm thành phố trong tuần. Họ cũng đã mua một vài chiếc xe buýt không gây ô nhiễm môi trường tuyệt vời. Những chiếc xe này chạy bằng điện, nên nó sẽ không thải khí thải vào không khí. </em></span></td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 4,
+        "totalCorrect": 4,
+        "userAnswer": {
+          "input_0": "Air pollution",
+          "input_1": "government",
+          "input_2": "streets",
+          "input_3": "electricity"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "Air pollution"
+          ],
+          "input_1": [
+            "government"
+          ],
+          "input_2": [
+            "streets"
+          ],
+          "input_3": [
+            "electricity"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true
+        },
+        "hasAnswerEmpty": []
+      }
+    },
+    {
+      "id": "question-430887",
+      "sourceQuestionId": 430887,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": "NEW WORDS/ PHRASES + GOOD STRUCTURES/ SENTENCES",
+      "type": 1,
+      "prompt": "NEW WORDS/ PHRASES + GOOD STRUCTURES/ SENTENCES",
+      "introductionText": "",
+      "contentText": "Complete the following vocabulary table. (Hoàn thiện bảng từ vựng sau.)",
+      "answerTemplateText": "Sentences |\nUseful words/ phrases |\nMeaning (in English/ Vietnamese) |\n\n\"the traffic is very congested, I'm afraid of being late for the class and missing the beginning of the lesson\" |\ntraffic is congested |\n[input_0] |\n\n''One of the traffic lights is broken, so all the traffic is backing up.'' |\nback up |\n[input_1] |\n\n\"We haven't planned our journey yet but we will take another route to the city center.\" |\njourney (n) |\n[input_2] |\n\n\"A couple of buses have broken down.\" |\nbreak down (vehicle) |\n[input_3] |\n\n\"There are plenty of taxis around that area.\" |\nplenty of  |\n[input_4] |\n\n\"The government turned many streets into one-way streets.\" |\none-way streets |\n[input_5] |\n\n\"They built special lanes just for buses.\" |\nbus lanes |\n[input_6] |\n\n\"You have to pay a fine if you're caught driving there.\" |\npay a fine |\n[input_7] |\n\n\"Air pollution was a huge problem in the city.\" |\na huge problem |\n[input_8] |\n\n''They also began offering lower bus fares on the weekends, so more people would be encouraged to try the new buses.'' |\nencourage (v) |\n[input_9] |\n\n\"The city bought pollution-free buses.\" |\npollution-free buses |\n[input_10] |",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "NEW WORDS/ PHRASES + GOOD STRUCTURES/ SENTENCES",
+        "introduction": null,
+        "content": "<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Complete the following vocabulary table. </strong><em>(Hoàn thiện bảng từ vựng sau.)</em></span></p>",
+        "answerTemplate": "<table style=\"border-collapse: collapse; width: 100%; height: 335.972px;\" border=\"1\" cellspacing=\"2\" cellpadding=\"5\">\n<thead>\n<tr style=\"height: 24.0509px;\">\n<th style=\"width: 49.2873%; height: 24.0509px; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Sentences</span></th>\n<th style=\"width: 20.6337%; height: 24.0509px; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Useful words/ phrases</span></th>\n<th style=\"width: 30.133%; height: 24.0509px; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Meaning (in English/ Vietnamese)</span></th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"height: 47.7315px;\">\n<td style=\"width: 49.2873%; height: 47.7315px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">\"<span style=\"color: #242938; background-color: #ffffff;\">the <strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">traffic is very congested</span></strong>, I'm afraid of being late for the class and missing the beginning of the lesson</span>\"</span></td>\n<td style=\"width: 20.6337%; height: 47.7315px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">traffic is congested</span></td>\n<td style=\"width: 30.133%; height: 47.7315px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_0]</span></td>\n</tr>\n<tr style=\"height: 47.7315px;\">\n<td style=\"width: 49.2873%; height: 47.7315px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-family: arial, helvetica, sans-serif;\">''One of the traffic lights is broken, so all the traffic is <span style=\"color: #ba372a; background-color: #fbeeb8;\"><strong>backing up</strong></span>.''</span></span></td>\n<td style=\"width: 20.6337%; height: 47.7315px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">back up</span></td>\n<td style=\"width: 30.133%; height: 47.7315px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_1]</span></td>\n</tr>\n<tr style=\"height: 24.0509px;\">\n<td style=\"width: 49.2873%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">\"We haven't planned our <strong><span style=\"background-color: #fbeeb8; color: #ba372a;\">journey</span></strong> yet but we will take another route to the city center.\"</span></td>\n<td style=\"width: 20.6337%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">journey (n)</span></td>\n<td style=\"width: 30.133%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_2]</span></td>\n</tr>\n<tr style=\"height: 24.0509px;\">\n<td style=\"width: 49.2873%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">\"A couple of buses have<strong><span style=\"color: #ba372a; background-color: #fbeeb8;\"> broken down</span></strong>.\"</span></td>\n<td style=\"width: 20.6337%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">break down (vehicle)</span></td>\n<td style=\"width: 30.133%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_3]</span></td>\n</tr>\n<tr style=\"height: 24.0509px;\">\n<td style=\"width: 49.2873%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">\"There are<strong><span style=\"color: #ba372a; background-color: #fbeeb8;\"> plenty of</span></strong> taxis around that area.\"</span></td>\n<td style=\"width: 20.6337%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">plenty of </span></td>\n<td style=\"width: 30.133%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_4]</span></td>\n</tr>\n<tr style=\"height: 24.0509px;\">\n<td style=\"width: 49.2873%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">\"The government turned many streets into <strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">one-way streets</span></strong>.\"</span></td>\n<td style=\"width: 20.6337%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">one-way streets</span></td>\n<td style=\"width: 30.133%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_5]</span></td>\n</tr>\n<tr style=\"height: 24.0509px;\">\n<td style=\"width: 49.2873%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">\"They built special <strong><span style=\"background-color: #fbeeb8; color: #ba372a;\">lanes just for buses</span></strong>.\"</span></td>\n<td style=\"width: 20.6337%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">bus lanes</span></td>\n<td style=\"width: 30.133%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_6]</span></td>\n</tr>\n<tr style=\"height: 24.0509px;\">\n<td style=\"width: 49.2873%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">\"You have to<strong><span style=\"background-color: #fbeeb8; color: #ba372a;\"> pay a fine</span></strong> if you're caught driving there.\"</span></td>\n<td style=\"width: 20.6337%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">pay a fine</span></td>\n<td style=\"width: 30.133%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_7]</span></td>\n</tr>\n<tr style=\"height: 24.0509px;\">\n<td style=\"width: 49.2873%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">\"Air pollution was <strong><span style=\"background-color: #fbeeb8; color: #ba372a;\">a huge problem</span></strong> in the city.\"</span></td>\n<td style=\"width: 20.6337%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">a huge problem</span></td>\n<td style=\"width: 30.133%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_8]</span></td>\n</tr>\n<tr style=\"height: 24.0509px;\">\n<td style=\"width: 49.2873%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-family: arial, helvetica, sans-serif;\">''They also began offering lower bus fares on the weekends, so more people would be <strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">encouraged </span></strong>to try the new buses.''</span></span></td>\n<td style=\"width: 20.6337%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">encourage (v)</span></td>\n<td style=\"width: 30.133%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_9]</span></td>\n</tr>\n<tr style=\"height: 24.0509px;\">\n<td style=\"width: 49.2873%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">\"The city bought <strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">pollution-free buses</span></strong>.\"</span></td>\n<td style=\"width: 20.6337%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">pollution-free buses</span></td>\n<td style=\"width: 30.133%; height: 24.0509px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_10]</span></td>\n</tr>\n</tbody>\n</table>",
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 11,
+        "totalCorrect": 11,
+        "userAnswer": {
+          "input_0": "ùn tắc giao thông",
+          "input_1": "ùn lại / tắc lại",
+          "input_2": "hành trình / chuyến đi",
+          "input_3": "bị hỏng, chết máy",
+          "input_4": "rất nhiều",
+          "input_5": "đường một chiều",
+          "input_6": "làn đường dành cho xe buýt",
+          "input_7": "nộp tiền phạt",
+          "input_8": "một vấn đề lớn / nghiêm trọng",
+          "input_9": "khuyến khích",
+          "input_10": "xe buýt không gây ô nhiễm"
+        },
+        "correctAnswer": {
+          "input_0": [
+            ""
+          ],
+          "input_1": [
+            ""
+          ],
+          "input_2": [
+            ""
+          ],
+          "input_3": [
+            ""
+          ],
+          "input_4": [
+            ""
+          ],
+          "input_5": [
+            ""
+          ],
+          "input_6": [
+            ""
+          ],
+          "input_7": [
+            ""
+          ],
+          "input_8": [
+            ""
+          ],
+          "input_9": [
+            ""
+          ],
+          "input_10": [
+            ""
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": true,
+          "input_9": true,
+          "input_10": true
+        },
+        "hasAnswerEmpty": []
+      }
+    },
+    {
+      "id": "question-430888",
+      "sourceQuestionId": 430888,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "title": "SPEAKING",
+      "type": 2,
+      "prompt": "SPEAKING",
+      "introductionText": "Nộp link video trả lời các câu hỏi speaking (có mở quyền truy cập)",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "SPEAKING",
+        "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Nộp link video trả lời các câu hỏi speaking (có mở quyền truy cập)</strong></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "https://drive.google.com/file/d/1W86dA84mnF0YtDOe9_lL7HfHtXWgEXFl/view?usp=drive_link",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      }
+    }
+  ]
+}

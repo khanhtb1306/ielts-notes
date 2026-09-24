@@ -1,0 +1,1338 @@
+{
+  "lesson": 6,
+  "lessonKey": "lesson-06",
+  "questions": [
+    {
+      "id": "question-434063",
+      "sourceQuestionId": 434063,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": "GRAMMAR",
+      "type": null,
+      "prompt": "GRAMMAR",
+      "introductionText": "Exercise 1\n\n Each sentence has one mistake. Find and correct the mistake. (Mỗi câu có một lỗi sai. Tìm và sửa lại lỗi sai.)",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "GRAMMAR",
+        "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #ba372a;\"><span style=\"box-sizing: border-box; font-weight: bolder; background-color: #ffffff;\">Exercise 1</span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"box-sizing: border-box; font-weight: bolder; color: #242938; background-color: #ffffff;\"> Each sentence has one mistake. Find and correct the mistake. </span><em style=\"box-sizing: border-box; color: #242938; background-color: #ffffff;\">(Mỗi câu có một lỗi sai. Tìm và sửa lại lỗi sai.)</em></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434064",
+      "sourceQuestionId": 434064,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 4,
+      "prompt": "1. If you eat too much at night, your stomach would feel bad. You should avoid having a large meal before bedtime.",
+      "introductionText": "",
+      "contentText": "1. If you eat too much at night, your stomach would feel bad. You should avoid having a large meal before bedtime.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "1. B\n\nCâu phía sau là “Bạn nên tránh ăn nhiều trước khi ngủ\" => Một lời khuyên về hành động có thể xảy ra ở hiện tại\n=> Câu điều kiện loại 1",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #242938; background-color: #ffffff;\">1. If you </span><u style=\"box-sizing: border-box; color: #242938; background-color: #ffffff;\">eat</u><span style=\"color: #242938; background-color: #ffffff;\"> too much at night, your stomach </span><u style=\"box-sizing: border-box; color: #242938; background-color: #ffffff;\">would feel</u><span style=\"color: #242938; background-color: #ffffff;\"> bad. You should avoid having a large meal before bedtime.</span></span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. </span><span style=\"color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Câu phía sau là “Bạn nên tránh ăn nhiều trước khi ngủ\" =&gt; Một lời khuyên về hành động có thể xảy ra ở hiện tại<br /></span><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=&gt; Câu điều kiện loại 1</span></p>\n<p><span id=\"docs-internal-guid-233ae2f2-7fff-03e5-5a6b-ed654f115495\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"></span></p>"
+      },
+      "options": [
+        {
+          "id": 918443,
+          "content": "A. eat"
+        },
+        {
+          "id": 918444,
+          "content": "B. would feel"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434065",
+      "sourceQuestionId": 434065,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 1,
+      "prompt": "",
+      "introductionText": "",
+      "contentText": "",
+      "answerTemplateText": "→ Correct the mistake: [input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": null,
+        "answerTemplate": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\">→ Correct the mistake: [input_0]</span></p>",
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434066",
+      "sourceQuestionId": 434066,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 4,
+      "prompt": "2. Hazel: “I’m having a terrible headache right now. This pain in my head is terrible.”    John: “If I am you, I would take some aspirin.”",
+      "introductionText": "2. Hazel: “I’m having a terrible headache right now. This pain in my head is terrible.”    John: “If I am you, I would take some aspirin.”",
+      "contentText": "",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "2. A\n\nCâu nói về “Nếu tôi là bạn” => Một lời khuyên về hành động không có thật ở hiện tại\n=> Câu điều kiện loại 2",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"color: #242938; font-family: arial, helvetica, sans-serif; font-size: 16px; background-color: #ffffff;\">2. Hazel: “I’m having a terrible headache right now. This pain in my head is terrible.”</span><br style=\"box-sizing: border-box; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\" /><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #242938; font-size: 16px; background-color: #ffffff;\">    John: “If I </span><u style=\"box-sizing: border-box; color: #242938; font-size: 16px; background-color: #ffffff;\">am</u><span style=\"color: #242938; font-size: 16px; background-color: #ffffff;\"> you, I </span><u style=\"box-sizing: border-box; color: #242938; font-size: 16px; background-color: #ffffff;\">would take</u><span style=\"color: #242938; font-size: 16px; background-color: #ffffff;\"> some aspirin.”</span></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. </span><span style=\"color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Câu nói về “Nếu tôi là bạn” =&gt;<span style=\"color: #000000; background-color: transparent;\"> Một</span> lời khuyên về hành động không có thật ở hiện tại<br /></span><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=&gt; Câu điều kiện loại 2</span></p>\n<p><span id=\"docs-internal-guid-d5e84d3c-7fff-361e-ee70-3d3d52357f8c\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"></span></p>"
+      },
+      "options": [
+        {
+          "id": 918445,
+          "content": "A. am"
+        },
+        {
+          "id": 918446,
+          "content": "B. would take"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434067",
+      "sourceQuestionId": 434067,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 1,
+      "prompt": "",
+      "introductionText": "",
+      "contentText": "",
+      "answerTemplateText": "→ Correct the mistake: [input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": null,
+        "answerTemplate": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Correct the mistake: [input_0]</span></p>",
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434068",
+      "sourceQuestionId": 434068,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 4,
+      "prompt": "3. If children ate too many sugary snacks, they will develop serious dental problems. Therefore, parents should limit the amount of sugar children consume every day.",
+      "introductionText": "",
+      "contentText": "3. If children ate too many sugary snacks, they will develop serious dental problems. Therefore, parents should limit the amount of sugar children consume every day.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "3. A\nMột kết quả có thể xảy ra trong tương lai nếu điều kiện xảy ra\n=> Câu điều kiện loại 1",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">3. If children <span style=\"text-decoration: underline;\">ate</span> too many sugary snacks, they <span style=\"text-decoration: underline;\">will develop</span> serious dental problems. Therefore, parents should limit the amount of sugar children consume every day.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. </span><span style=\"color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A<br /></span></span><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Một kết quả có thể xảy ra trong tương lai nếu điều kiện xảy ra<br /></span><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">=&gt; Câu điều kiện loại 1</span></p>\n<p><span id=\"docs-internal-guid-11862391-7fff-7ab3-47c0-d557db7b8ffe\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"></span></p>"
+      },
+      "options": [
+        {
+          "id": 918447,
+          "content": "A. ate"
+        },
+        {
+          "id": 918448,
+          "content": "B. will develop"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434069",
+      "sourceQuestionId": 434069,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 1,
+      "prompt": "",
+      "introductionText": "",
+      "contentText": "",
+      "answerTemplateText": "→ Correct the mistake: [input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": null,
+        "answerTemplate": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000;\">→ Correct the mistake: [input_0]</span></p>",
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434070",
+      "sourceQuestionId": 434070,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 4,
+      "prompt": "4. If you stay in bed, your back wouldn’t hurt as much. You are always going outside and doing the gardening when you’re not supposed to!",
+      "introductionText": "",
+      "contentText": "4. If you stay in bed, your back wouldn’t hurt as much. You are always going outside and doing the gardening when you’re not supposed to!",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "4. A\n\nCâu phía sau nói về 1 thói quen xấu là “Bạn luôn đi ra ngoài làm vườn khi không cần thiết\" => 1 lời khuyên về hành động không có thật ở hiện tại\n=> Câu điều kiện loại 2",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">4. If you <span style=\"text-decoration: underline;\">stay</span> in bed, your back <span style=\"text-decoration: underline;\">wouldn’t hurt</span> as much. You are always going outside and doing the gardening when you’re not supposed to!</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. </span><span style=\"color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Câu phía sau nói về 1 thói quen xấu là “Bạn luôn đi ra ngoài làm vườn khi không cần thiết\" =&gt; 1 lời khuyên về hành động không có thật ở hiện tại<br /></span><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=&gt; Câu điều kiện loại 2</span></p>\n<p><span id=\"docs-internal-guid-854bd845-7fff-aa9d-44fe-f8e93011748d\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"></span></p>"
+      },
+      "options": [
+        {
+          "id": 918449,
+          "content": "A. stay"
+        },
+        {
+          "id": 918450,
+          "content": "B. wouldn't hurt"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434071",
+      "sourceQuestionId": 434071,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 1,
+      "prompt": "",
+      "introductionText": "",
+      "contentText": "",
+      "answerTemplateText": "→ Correct the mistake: [input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": null,
+        "answerTemplate": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Correct the mistake: [input_0]</span></p>",
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434072",
+      "sourceQuestionId": 434072,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 4,
+      "prompt": "5. If I didn’t have a sore throat, I will speak louder and you would hear me clearly through the phone. Now I can barely talk and it is bothering me so much. I think I need some hot lemon tea.",
+      "introductionText": "",
+      "contentText": "5. If I didn’t have a sore throat, I will speak louder and you would hear me clearly through the phone. Now I can barely talk and it is bothering me so much. I think I need some hot lemon tea.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "5. B\n\nCâu nói về việc nhân vật tôi “không thể nói\" => 1 hành động không có thật ở hiện tại (nếu không bị đau họng)\n=> Câu điều kiện loại 2",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">5. If I <span style=\"text-decoration: underline;\">didn’t have</span> a sore throat, I <span style=\"text-decoration: underline;\">will speak</span> louder and you would hear me clearly through the phone. Now I can barely talk and it is bothering me so much. I think I need some hot lemon tea.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Câu nói về việc nhân vật tôi “không thể nói\" =&gt; 1 hành động không có thật ở hiện tại (nếu không bị đau họng)<br /></span><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=&gt; Câu điều kiện loại 2</span></p>\n<p><span id=\"docs-internal-guid-e40c948a-7fff-cf64-6df1-aa56eefaf228\" style=\"font-family: arial, helvetica, sans-serif;\"></span></p>"
+      },
+      "options": [
+        {
+          "id": 918451,
+          "content": "A. didn't have"
+        },
+        {
+          "id": 918452,
+          "content": "B. will speak"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434073",
+      "sourceQuestionId": 434073,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 1,
+      "prompt": "",
+      "introductionText": "",
+      "contentText": "",
+      "answerTemplateText": "→ Correct the mistake: [input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": null,
+        "answerTemplate": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\">→ Correct the mistake: [input_0]</span></p>",
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434074",
+      "sourceQuestionId": 434074,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 4,
+      "prompt": "6. I saw a commercial that advertised this type of medicine and it worked so well for me the last time I caught a cold. If you took that cold medicine I bought, you will get over the cold soon.",
+      "introductionText": "",
+      "contentText": "6. I saw a commercial that advertised this type of medicine and it worked so well for me the last time I caught a cold. If you took that cold medicine I bought, you will get over the cold soon.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "6. A\nCâu nói về 1 hành động sẽ có thể xảy ra (khoẻ hơn khi uống thuốc) trong tương lai\n=> Câu điều kiện loại 1",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">6. I saw a commercial that advertised this type of medicine and it worked so well for me the last time I caught a cold. If you <span style=\"text-decoration: underline;\">took</span> that cold medicine I bought, you <span style=\"text-decoration: underline;\">will get</span> over the cold soon.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A<br /></span></span><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Câu nói về 1 hành động sẽ có thể xảy ra (khoẻ hơn khi uống thuốc) trong tương lai<br />=&gt; Câu điều kiện loại 1</span></p>\n<p><span id=\"docs-internal-guid-620058da-7fff-f49b-59b5-5926d923076c\" style=\"font-family: arial, helvetica, sans-serif;\"></span></p>"
+      },
+      "options": [
+        {
+          "id": 918453,
+          "content": "A. took"
+        },
+        {
+          "id": 918454,
+          "content": "B. will get"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434075",
+      "sourceQuestionId": 434075,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 1,
+      "prompt": "",
+      "introductionText": "",
+      "contentText": "",
+      "answerTemplateText": "→ Correct the mistake: [input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": null,
+        "answerTemplate": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Correct the mistake: [input_0]</span></p>",
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434076",
+      "sourceQuestionId": 434076,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 4,
+      "prompt": "7. If I were to invent a good cold remedy, it will be from nature such as garlic, lemon, ginger and honey. I think it would be effective and would help people get rid of a cold as soon as possible.",
+      "introductionText": "",
+      "contentText": "7. If I were to invent a good cold remedy, it will be from nature such as garlic, lemon, ginger and honey. I think it would be effective and would help people get rid of a cold as soon as possible.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "7. B\n\nNhân vật tôi không thực sự phát minh ra 1 loại thuốc cảm => Một hành động không có thật ở hiện tại\n=> Câu điều kiện loại 2",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">7. If I <span style=\"text-decoration: underline;\">were to invent</span> a good cold remedy, it <span style=\"text-decoration: underline;\">will be</span> from nature such as garlic, lemon, ginger and honey. I think it would be effective and would help people get rid of a cold as soon as possible.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. </span><span style=\"color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Nhân vật tôi không thực sự phát minh ra 1 loại thuốc cảm =&gt; Một hành động không có thật ở hiện tại<br /></span><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=&gt; Câu điều kiện loại 2</span></p>\n<p><span id=\"docs-internal-guid-0950a396-7fff-1c5a-f754-bda68bdd4ec3\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"></span></p>"
+      },
+      "options": [
+        {
+          "id": 918455,
+          "content": "A. were to invent"
+        },
+        {
+          "id": 918456,
+          "content": "B. will be"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434077",
+      "sourceQuestionId": 434077,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 1,
+      "prompt": "",
+      "introductionText": "",
+      "contentText": "",
+      "answerTemplateText": "→ Correct the mistake: [input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": null,
+        "answerTemplate": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Correct the mistake: [input_0]</span></p>",
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434078",
+      "sourceQuestionId": 434078,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 4,
+      "prompt": "8. If I knew how to make hot chicken soup, I will make it for my mom every time she gets sick. I guess I will learn how to make the soup in tutorial videos on Youtube.",
+      "introductionText": "",
+      "contentText": "8. If I knew how to make hot chicken soup, I will make it for my mom every time she gets sick. I guess I will learn how to make the soup in tutorial videos on Youtube.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "8. B\n\nNhân vật tôi không thực sự biết làm súp gà => Một hành động không có thật ở hiện tại\n=> Câu điều kiện loại 2",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">8. If I <span style=\"text-decoration: underline;\">knew</span> how to make hot chicken soup, I <span style=\"text-decoration: underline;\">will make</span> it for my mom every time she gets sick. I guess I will learn how to make the soup in tutorial videos on Youtube.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. </span><span style=\"color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Nhân vật tôi không thực sự biết làm súp gà =&gt; Một hành động không có thật ở hiện tại<br /></span><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=&gt; Câu điều kiện loại 2</span></p>\n<p><span id=\"docs-internal-guid-0aa9b0d2-7fff-52eb-a329-9f1d9e5f4a4d\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"></span></p>"
+      },
+      "options": [
+        {
+          "id": 918457,
+          "content": "A. knew"
+        },
+        {
+          "id": 918458,
+          "content": "B. will make"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434079",
+      "sourceQuestionId": 434079,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 1,
+      "prompt": "",
+      "introductionText": "",
+      "contentText": "",
+      "answerTemplateText": "→ Correct the mistake: [input_0]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": null,
+        "answerTemplate": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Correct the mistake: [input_0]</span></p>",
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434080",
+      "sourceQuestionId": 434080,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2\n\nComplete each sentence so that it has a similar meaning to the first sentence. (Hoàn thiện mỗi câu sao cho ý nghĩa tương đương với câu gốc)",
+      "introductionText": "Exercise 2\n\nComplete each sentence so that it has a similar meaning to the first sentence. (Hoàn thiện mỗi câu sao cho ý nghĩa tương đương với câu gốc)",
+      "contentText": "",
+      "answerTemplateText": "1. I am always busy with my studies and part-time job at the moment, so I don't have enough time to exercise regularly and stay healthy.\n→ If I [input_0] enough time at the moment, I [input_1] regularly and stay healthy.\n\n2. You don't drink enough water during the day, and you will feel tired and unable to concentrate on your work.→ If you [input_2] enough water during the day, you [input_3] tired and unable to concentrate on your work.\n\n3. Because there aren't any possible cures for this disease, a lot of people from this region still have to suffer from it. \n\n→ If there [input_4] some possible cures for this disease, a lot of people from this region [input_5] to suffer from it. \n\n4. I don't know how to manage stress effectively, so I often feel overwhelmed.→ If I [input_6] how to manage stress effectively, I [input_7] less overwhelmed.\n\n5. Do some light exercise every day, and you will improve not only your physical health but also your mental well-being.\n\n→ If you [input_8] some light exercise every day, you [input_9] both your physical health and mental well-being.\n\n6. I am always under a lot of pressure from my studies, so I cannot maintain a healthy lifestyle.→ If I [input_10] under less pressure from my studies, I [input_11] a healthier lifestyle.\n\n7. Many people continue to work under too much pressure, so they will suffer from serious stress-related problems in the long run.→ If people [input_12] under too much pressure, they [input_13] serious stress-related problems in the long run.\n\n8. You should cut down on smoking. You have been coughing uncontrollably.\n\n→ You have been coughing uncontrollably. If I [input_14] you, I [input_15] down on smoking.",
+      "explanationText": "Đối với bài này, HV cần cân nhắc đến cách dùng của câu điều kiện loại 1 + loại 2 để áp dụng chính xác.",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #ba372a;\"><strong>Exercise 2</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Complete each sentence so that it has a similar meaning to the first sentence.</strong><em> (Hoàn thiện mỗi câu sao cho ý nghĩa tương đương với câu gốc)</em></span></p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">1. I am always busy with my studies and part-time job at the moment, so I don't have enough time to exercise regularly and stay healthy.<br />→ If I [input_0] enough time at the moment, I [input_1] regularly and stay healthy.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">2. You don't drink enough water during the day, and you will feel tired and unable to concentrate on your work.<br data-start=\"580\" data-end=\"583\" />→ If you [input_2] enough water during the day, you [input_3] tired and unable to concentrate on your work.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">3. Because there aren't any possible cures for this disease, a lot of people from this region still have to suffer from it. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"background-color: #ffffff;\">→</span><span style=\"background-color: #ffffff;\"> </span>If there [input_4] some possible cures for this disease, a lot of people from this region [input_5] to suffer from it. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">4. I don't know how to manage stress effectively, so I often feel overwhelmed.<br data-start=\"3920\" data-end=\"3923\" />→ If I [input_6] how to manage stress effectively, I [input_7] less overwhelmed.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">5. Do some light exercise every day, and you will improve not only your physical health but also your mental well-being.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">→ If you [input_8] some light exercise every day, you [input_9] both your physical health and mental well-being.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">6. I am always under a lot of pressure from my studies, so I cannot maintain a healthy lifestyle.<br data-start=\"2065\" data-end=\"2068\" />→ If I [input_10] under less pressure from my studies, I [input_11] a healthier lifestyle.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">7. Many people continue to work under too much pressure, so they will suffer from serious stress-related problems in the long run.<br data-start=\"969\" data-end=\"972\" />→ If people [input_12] under too much pressure, they [input_13] serious stress-related problems in the long run.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">8. You should cut down on smoking. You have been coughing uncontrollably.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"background-color: #ffffff;\">→</span><span style=\"background-color: #ffffff;\"> </span>You have been coughing uncontrollably. If I [input_14] you, I [input_15] down on smoking.</span></p>",
+        "explain": "<h3 dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Đối với bài này, HV cần cân nhắc đến cách dùng của câu điều kiện loại 1 + loại 2 để áp dụng chính xác. </span></h3>\n<p><span id=\"docs-internal-guid-4f1a8c51-7fff-8608-6607-21276419c5f7\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"></span></p>"
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434081",
+      "sourceQuestionId": 434081,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": "VOCABULARY - SCRIPT",
+      "type": 1,
+      "prompt": "VOCABULARY - SCRIPT",
+      "introductionText": "Exercise 1\n\nRearrange the following words to complete the sentences. (Sắp xếp các từ sau để tạo thành câu hoàn chỉnh)",
+      "contentText": "",
+      "answerTemplateText": "1. A: I have a bad ear infection. It's really painful. \n\n    B: I think you should see a doctor. antibiotics /some / ear drops / He / give / will / and / you / some / .\n\n→ B: I think you should see a doctor. [input_0]\n\n \n\n2. I came down with food poisoning two days ago. I got really sick in the middle of the night, but I didn't go to the doctor. \n\njust / the / I / I / and / medicine / took / better / today / feel / .\n\n→ [input_1]\n\n \n\n3. An: Ben, I don't think I can come to your party tonight. \n\n    Ben: Oh no, why? \n\n    An: ate /last night / well / I / too / and / stomach / doesn't / my / much / feel / at all / .\n\n→ An: [input_2]\n\n \n\n4. A: I need to go to the drugstore. my head / have / I / and / a / cold / bad / is / all / stuffed up / .\n\n    B: Oh, that's too bad. I hope you feel better soon. \n\n→ A: I need to go to the drugstore. [input_3]\n\n \n\n5. I had an upset stomach last night. I tried taking the new medicine that they advertised on TV.\n\nit / worked / well / so / me / for / , / Luckily / .\n\n→ [input_4]\n\n \n\n6. A: This pain in my head is terrible. \n\n    B: aspirin / some / you / get / me / Let / .\n\n→ B: [input_5] \n\n \n\n7. A: this / I / have / cold / great / remedy /. It always works. \n\n    B: Oh, what's it like? \n\n    A: I chop up a bunch of garlic, put it in hot water, then drink it. \n\n→ A: [input_6]\n\n \n\n8. A: I usually have orange juice when I have a cold. It's supposed to be good for you because it has a lot of Vitamin C in it.\n\n      B: Interesting. Maybe I should try it. \n\n      A: a lot of / can / anything / orange juice / Drinking / cure / !\n\n      B: Err…I'm not sure about that. \n\n→ A: [input_7]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "VOCABULARY - SCRIPT",
+        "introduction": "<p><span id=\"docs-internal-guid-e7a87aed-7fff-d602-2025-56e71d895cd0\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #ba372a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 1</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Rearrange the following words to complete the sentences. </span><span style=\"color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><em>(Sắp xếp các từ sau để tạo thành câu hoàn chỉnh)</em></span></span></p>",
+        "content": null,
+        "answerTemplate": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>1.</strong> A: I have a bad ear infection. It's really painful. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">    B: I think you should see a doctor. <em><strong><span style=\"color: #34495e;\">antibiotics /some / ear drops / He / give / will / and / you / some / .</span></strong></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ B: I think you should see a doctor. [input_0]</span></p>\n<p> </p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>2.</strong> I came down with food poisoning two days ago. I got really sick in the middle of the night, but I didn't go to the doctor. <span style=\"color: #34495e;\"> </span></span></p>\n<p><em><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #34495e;\">just / the / I / I / and / medicine / took / better / today / feel / .</span></span></strong></em></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ [input_1]</span></p>\n<p> </p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>3.</strong> An: Ben, I don't think I can come to your party tonight. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">    Ben: Oh no, why? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">    An: <em><strong><span style=\"color: #34495e;\">ate /last night / well / I / too / and / stomach / doesn't / my / much / feel / at all / .</span></strong></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ An: [input_2]</span></p>\n<p> </p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>4.</strong> A: I need to go to the drugstore. <em><strong><span style=\"color: #34495e;\">my head / have / I / and / a / cold / bad / is / all / stuffed up / .</span></strong></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">    B: Oh, that's too bad. I hope you feel better soon. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ A: I need to go to the drugstore. [input_3]</span></p>\n<p> </p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>5.</strong> I had an upset stomach last night. I tried taking the new medicine that they advertised on TV.<span style=\"color: #34495e;\"> </span></span></p>\n<p><em><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #34495e;\">it / worked / well / so / me / for / , / Luckily / .</span></span></strong></em></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ [input_4]</span></p>\n<p> </p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>6.</strong> A: This pain in my head is terrible. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">    B:<strong> <em><span style=\"color: #34495e;\">aspirin / some / you / get / me / Let / .</span></em></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ B: [input_5] </span></p>\n<p> </p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>7.</strong> A: <span style=\"color: #34495e;\"><em><strong>this / I / have / cold / great / remedy /.</strong></em> It always works. </span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">    B: Oh, what's it like? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">    A: I chop up a bunch of garlic, put it in hot water, then drink it. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ A: [input_6]</span></p>\n<p> </p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>8.</strong> A: I usually have orange juice when I have a cold. It's supposed to be good for you because it has a lot of Vitamin C in it.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">      B: Interesting. Maybe I should try it. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">      A:<span style=\"color: #34495e;\"> <em><strong>a lot of / can / anything / orange juice / Drinking / cure / !</strong></em></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">      B: Err…I'm not sure about that. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ A: [input_7] </span></p>",
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434082",
+      "sourceQuestionId": 434082,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2\nChoose the suitable phrases to complete the following sentences (Đoán từ cần điền để hoàn thiện các câu sau. Sử dụng từ vựng đã học bên cột trái.)\n\nsoft drinks |\nsuffer from illnesses |\nbreak |\nwork out  |\n\nmental health |\nhealth benefits |\nallergy  |\nmaintain a balanced diet |",
+      "introductionText": "Exercise 2\nChoose the suitable phrases to complete the following sentences (Đoán từ cần điền để hoàn thiện các câu sau. Sử dụng từ vựng đã học bên cột trái.)\n\nsoft drinks |\nsuffer from illnesses |\nbreak |\nwork out  |\n\nmental health |\nhealth benefits |\nallergy  |\nmaintain a balanced diet |",
+      "contentText": "",
+      "answerTemplateText": "Eating healthy food has many [input_0]. It helps people [input_1] and stay healthy. For example, people who [input_2] regularly need healthy food to build endurance. Healthy eating is also good for [input_3] because it can make people feel happier and less stressed. In addition, it can help people [input_4] bad habits such as eating too much fast food or drinking [input_5] every day. People who eat healthy food are less likely to [input_6] or come down with diseases. However, they should avoid foods that can cause an [input_7]. Therefore, healthy eating is important for everyone.",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><span id=\"docs-internal-guid-7a74e82c-7fff-e73d-ad02-c1f07256bc48\" style=\"font-size: 12pt; color: #ba372a;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 2<br /></span></span><span id=\"docs-internal-guid-7a74e82c-7fff-e73d-ad02-c1f07256bc48\" style=\"font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Choose the suitable phrases to complete the following sentences </span><span style=\"font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Đoán từ cần điền để hoàn thiện các câu sau. Sử dụng từ vựng đã học bên cột trái.)</span></span></span></p>\n<table style=\"border-collapse: collapse; width: 100.01%; height: 48.125px; border-color: #000000;\" border=\"1\">\n<tbody>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 24.9827%; height: 24.0625px;\"><span>soft drinks</span></td>\n<td style=\"width: 24.9827%; height: 24.0625px;\">suffer from illnesses</td>\n<td style=\"width: 24.9827%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">break</span></td>\n<td style=\"width: 24.9827%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">work out </span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 24.9827%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">mental health</span></td>\n<td style=\"width: 24.9827%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">health benefits</span></td>\n<td style=\"width: 24.9827%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">allergy </span></td>\n<td style=\"width: 24.9827%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">maintain a balanced diet</span></td>\n</tr>\n</tbody>\n</table>",
+        "content": null,
+        "answerTemplate": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">Eating healthy food has many <strong>[input_0]</strong>. It helps people <strong>[input_1]</strong> and stay healthy. For example, people who <strong>[input_2]</strong> regularly need healthy food to build endurance. Healthy eating is also good for <strong>[input_3]</strong> because it can make people feel happier and less stressed. In addition, it can help people <strong>[input_4]</strong> bad habits such as eating too much fast food or drinking <strong>[input_5]</strong> every day. People who eat healthy food are less likely to <strong><strong>[input_6]</strong></strong> or come down with diseases. However, they should avoid foods that can cause an <strong>[input_7]</strong>. Therefore, healthy eating is important for everyone.</span></p>",
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434083",
+      "sourceQuestionId": 434083,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 2,
+      "prompt": "Exercise 3\nTranslate these sentences into English using the suggested words. You can change the form if necessary. (Dịch các câu sau sang tiếng Anh sử dụng từ gợi ý. Có thể thay đổi dạng từ nếu cần.)",
+      "introductionText": "Exercise 3\nTranslate these sentences into English using the suggested words. You can change the form if necessary. (Dịch các câu sau sang tiếng Anh sử dụng từ gợi ý. Có thể thay đổi dạng từ nếu cần.)",
+      "contentText": "1, Nếu mọi người ăn đồ ăn nhanh thường xuyên, họ có thể tăng cân và gặp các vấn đề về sức khỏe. (regularly/ gain weight/ suffer from)",
+      "answerTemplateText": "1. In order to avoid health problems, she must stick to a balanced diet.\n\nSentence using \"maintain\" → She needs to [maintain a balanced diet] to prevent health problems.\n\n2. Engaging in regular exercise can boost health and foster overall well-being.\n\nSentence using \"promote\" → Regular exercise can enhance one's health and [promote overall well-being].\n\n3. In order to get over food poisoning, he had to stay in bed for a few days.\n\nSentence using \"recover\" → To [recover from food poisoning], he had to stay in bed for a few days.\n\n4. He caught the flu after staying out in the rain for too long.\n\nSentence using \"come down\" → He [came down with the flu] after staying out in the rain for too long.\n\n5. Tom decided to quit smoking to improve his overall health.\n\nSentence using ‘break’ → Tom decided to [break the habit of smoking] to improve his overall health.",
+      "explanationText": "1, If people eat fast food regularly, they may gain weight and suffer from health problems.",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span id=\"docs-internal-guid-dcd930e5-7fff-a177-b0ba-82d0b464ac77\" style=\"color: #ba372a;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 3<br /></span></span><strong>Translate these sentences into English using the suggested words. You can change the form if necessary. </strong><em>(Dịch các câu sau sang tiếng Anh sử dụng từ gợi ý. Có thể thay đổi dạng từ nếu cần.)</em><br /></span></p>",
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">1, Nếu mọi người ăn đồ ăn nhanh thường xuyên, họ có thể tăng cân và gặp các vấn đề về sức khỏe. <em><strong>(regularly/ gain weight/ suffer from)</strong></em></span></p>",
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 2; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>1. </strong>In order to avoid health problems, she must stick to a balanced diet.</span></p>\n<p dir=\"ltr\" style=\"line-height: 2; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sentence using \"maintain\" → She needs to [</span><span style=\"color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">maintain a balanced diet]</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> to prevent health problems.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 2; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>2.</strong> Engaging in regular exercise can boost health and foster overall well-being.</span></p>\n<p dir=\"ltr\" style=\"line-height: 2; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sentence using \"promote\" → Regular exercise can enhance one's health and [</span><span style=\"color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">promote overall well-being]</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 2; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>3.</strong> In order to get over food poisoning, he had to stay in bed for a few days.</span></p>\n<p dir=\"ltr\" style=\"line-height: 2; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sentence using \"recover\" → To [</span><span style=\"color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">recover from food poisoning]</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, he had to stay in bed for a few days.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 2; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>4. </strong>He caught the flu after staying out in the rain for too long.</span></p>\n<p dir=\"ltr\" style=\"line-height: 2; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sentence using \"come down\" → He [<span style=\"color: #ba372a;\">came down with the flu</span>] after staying out in the rain for too long. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>5.</strong> Tom decided to quit smoking to improve his overall health.</span></p>\n<p dir=\"ltr\" style=\"line-height: 2; margin-top: 0pt; margin-bottom: 0pt;\"><span id=\"docs-internal-guid-fa4c1298-7fff-ffa1-7435-c2ba63ec132d\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Sentence using ‘break’ → Tom decided to</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> [<span style=\"color: #ba372a;\">break the habit of smoking</span>]</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> to improve his overall health.</span></span></p>",
+        "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">1, If people eat fast food regularly, they may gain weight and suffer from health problems.</span></p>"
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434084",
+      "sourceQuestionId": 434084,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 2,
+      "prompt": "2, Ăn quá nhiều đồ ăn nhanh có thể ảnh hưởng tiêu cực đến sức khỏe tinh thần vì mọi người có thể cảm thấy mệt mỏi. (have a negative effect on/ mental health)",
+      "introductionText": "",
+      "contentText": "2, Ăn quá nhiều đồ ăn nhanh có thể ảnh hưởng tiêu cực đến sức khỏe tinh thần vì mọi người có thể cảm thấy mệt mỏi. (have a negative effect on/ mental health)",
+      "answerTemplateText": "",
+      "explanationText": "2, Eating too much fast food can have a negative effect on mental health because people can feel tired.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p>2, Ăn quá nhiều đồ ăn nhanh có thể ảnh hưởng tiêu cực đến sức khỏe tinh thần vì mọi người có thể cảm thấy mệt mỏi. <em><strong>(have a negative effect on/ mental health)</strong></em></p>",
+        "answerTemplate": null,
+        "explain": "<p>2, Eating too much fast food can have a negative effect on mental health because people can feel tired.</p>"
+      },
+      "options": [],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434085",
+      "sourceQuestionId": 434085,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 2,
+      "prompt": "3, Nếu chính phủ tăng giá đồ ăn nhanh, sẽ có ít người tiêu thụ nó hơn. (government/ increase/ consume)",
+      "introductionText": "",
+      "contentText": "3, Nếu chính phủ tăng giá đồ ăn nhanh, sẽ có ít người tiêu thụ nó hơn. (government/ increase/ consume)",
+      "answerTemplateText": "",
+      "explanationText": "3, If the government increases the price of fast food, fewer people will consume it.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p>3, Nếu chính phủ tăng giá đồ ăn nhanh, sẽ có ít người tiêu thụ nó hơn. <em><strong>(government/ increase/ consume)</strong></em></p>",
+        "answerTemplate": null,
+        "explain": "<p>3, If the government increases the price of fast food, fewer people will consume it.</p>"
+      },
+      "options": [],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434086",
+      "sourceQuestionId": 434086,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 2,
+      "prompt": "4, Nếu mọi người từ bỏ thói quen hút thuốc, họ sẽ cải thiện sức khỏe tổng thể của mình. (break the habit of/ improve)",
+      "introductionText": "",
+      "contentText": "4, Nếu mọi người từ bỏ thói quen hút thuốc, họ sẽ cải thiện sức khỏe tổng thể của mình. (break the habit of/ improve)",
+      "answerTemplateText": "",
+      "explanationText": "4, If people break the habit of smoking, they will improve their overall health.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p>4, Nếu mọi người từ bỏ thói quen hút thuốc, họ sẽ cải thiện sức khỏe tổng thể của mình. <em><strong>(break the habit of/ improve) </strong></em></p>",
+        "answerTemplate": null,
+        "explain": "<p>4, If people break the habit of smoking, they will improve their overall health.</p>"
+      },
+      "options": [],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434087",
+      "sourceQuestionId": 434087,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": null,
+      "type": 2,
+      "prompt": "5, Đồ ăn nhanh không lành mạnh, vì vậy mọi người không nên ăn nó quá thường xuyên. (unhealthy/ too often)",
+      "introductionText": "",
+      "contentText": "5, Đồ ăn nhanh không lành mạnh, vì vậy mọi người không nên ăn nó quá thường xuyên. (unhealthy/ too often)",
+      "answerTemplateText": "",
+      "explanationText": "5, Fast food is unhealthy, so people should not eat it too often.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p>5, Đồ ăn nhanh không lành mạnh, vì vậy mọi người không nên ăn nó quá thường xuyên. <em><strong>(unhealthy/ too often)</strong></em></p>",
+        "answerTemplate": null,
+        "explain": "<p>5, Fast food is unhealthy, so people should not eat it too often.</p>"
+      },
+      "options": [],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434088",
+      "sourceQuestionId": 434088,
+      "challengeId": 43469,
+      "classChallengeId": "94106",
+      "title": "SHADOWING",
+      "type": 2,
+      "prompt": "SHADOWING",
+      "introductionText": "Exercise 4\n\nShadowing (Nghe và bắt chước)\nNghe và bắt chước lại các câu sau trong bài nghe, bắt chước yêu cầu đúng ngữ âm, ngữ điệu và tốc độ. \n\nNộp link dưới đây:",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "SHADOWING",
+        "introduction": "<p style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span id=\"docs-internal-guid-235408a6-7fff-a57c-0b5a-90fe496d3e5c\" style=\"box-sizing: border-box; font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #ba372a;\"><span style=\"box-sizing: border-box; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 4</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span id=\"docs-internal-guid-235408a6-7fff-a57c-0b5a-90fe496d3e5c\" style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Shadowing </span><span style=\"box-sizing: border-box; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Nghe và bắt chước)<br /></span></span><em style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"box-sizing: border-box; font-style: normal; white-space-collapse: collapse;\">Nghe và bắt chước lại các câu sau trong bài nghe, bắt chước yêu cầu đúng ngữ âm, ngữ điệu và tốc độ. </span></span></span></em></span></p>\n<p style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"color: #e03e2d; font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong><span style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"box-sizing: border-box; white-space-collapse: collapse;\">Nộp link dưới đây: </span></span></span></span></strong></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434089",
+      "sourceQuestionId": 434089,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": "LISTENING",
+      "type": null,
+      "prompt": "LISTENING",
+      "introductionText": "Exercise 1\n\nPeople are describing how they feel. Listen and choose the problem. (Mọi người đang miêu tả cảm nhận của họ. Nghe và chọn vấn đề)",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "LISTENING",
+        "introduction": "<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #ba372a;\"><strong>Exercise 1</strong></span></p>\n<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>People are describing how they feel. Listen and choose the problem. </strong><em>(Mọi người đang miêu tả cảm nhận của họ. Nghe và chọn vấn đề)</em></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434090",
+      "sourceQuestionId": 434090,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": null,
+      "type": 4,
+      "prompt": "1.",
+      "introductionText": "",
+      "contentText": "1.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "Transcript  |\nDịch |\n\n1. \n\nA: I feel terrible today. I ate too much last night and my stomach doesn't feel well at all. \n\nB: You should take something for it. \n\n |\n\n1. \n\nA: Hôm nay tôi cảm thấy thật tệ. Tối qua tôi đã ăn quá nhiều nên giờ bụng tôi không ổn tí nào.\n\nB: Bạn nên uống thuốc gì đó vào.\n\n |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">1.</span></p>",
+        "answerTemplate": null,
+        "explain": "<table style=\"border-collapse: collapse; width: 100.014%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Transcript </strong></span></td>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Dịch</strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 48.9273%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">1. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: I feel terrible today. I ate too much last night and <span style=\"color: #ba372a; background-color: #fbeeb8;\"><strong>my stomach doesn't feel well at all. </strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: You should take something for it. </span></p>\n</td>\n<td style=\"width: 48.9273%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>1. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Hôm nay tôi cảm thấy thật tệ. Tối qua tôi đã ăn quá nhiều nên <span style=\"color: #ba372a;\"><strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">giờ bụng tôi không ổn tí nào</span>.</strong></span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Bạn nên uống thuốc gì đó vào.</em></span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": [
+        {
+          "id": 918459,
+          "content": "a. an upset stomach"
+        },
+        {
+          "id": 918460,
+          "content": "b. the flu"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434091",
+      "sourceQuestionId": 434091,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": null,
+      "type": 4,
+      "prompt": "2.",
+      "introductionText": "",
+      "contentText": "2.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "Transcript  |\nDịch |\n\n2. \n\nA: This pain in my head is terrible. \n\nB: Let me get you some aspirin. \n\nA: Thanks. That's just what I need. \n\n |\n\n2. \n\nA: Đầu tôi đau kinh khủng ý. \n\nB: Để tôi lấy thuốc giảm đau cho bạn nhé.\n\nA: Cảm ơn nhé. Đúng cái tôi cần rồi.\n\n |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">2.</span></p>",
+        "answerTemplate": null,
+        "explain": "<table style=\"border-collapse: collapse; width: 100.014%; height: 44.7686px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 22.3843px;\">\n<td style=\"width: 48.9273%; height: 22.3843px; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Transcript </strong></span></td>\n<td style=\"width: 48.9273%; height: 22.3843px; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Dịch</strong></span></td>\n</tr>\n<tr style=\"height: 22.3843px;\">\n<td style=\"width: 48.9273%; height: 22.3843px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">2. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: <span style=\"color: #ba372a; background-color: #fbeeb8;\"><strong>This pain in my head is terrible. </strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Let me get you some aspirin. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Thanks. That's just what I need. </span></p>\n</td>\n<td style=\"width: 48.9273%; height: 22.3843px;\">\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">2. </span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">A: <span style=\"color: #ba372a;\"><strong><span style=\"background-color: #fbeeb8;\">Đầu tôi đau kinh khủng ý. </span></strong></span></span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">B: Để tôi lấy thuốc giảm đau cho bạn nhé.</span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">A: Cảm ơn nhé. Đúng cái tôi cần rồi.</span></em></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": [
+        {
+          "id": 918461,
+          "content": "a. a sore throat"
+        },
+        {
+          "id": 918462,
+          "content": "b. a headache"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434092",
+      "sourceQuestionId": 434092,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": null,
+      "type": 4,
+      "prompt": "3.",
+      "introductionText": "",
+      "contentText": "3.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "Transcript  |\nDịch |\n\n3. \n\nA: I'm not going to school today. I've got to see the dentist. My tooth is really bothering me. \n\nB: Oh, that's too bad. \n\n |\n\n3. \n\nA: Tôi sẽ không đi học hôm nay đâu. Tôi phải đến gặp nha sĩ. Cái răng đau làm tôi khó chịu.\n\nB: Ôi, thật là không may.\n\n |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">3.</span></p>",
+        "answerTemplate": null,
+        "explain": "<table style=\"border-collapse: collapse; width: 100.014%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Transcript </strong></span></td>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Dịch</strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 48.9273%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">3. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: I'm not going to school today. I've got to see the dentist. <span style=\"color: #ba372a; background-color: #fbeeb8;\"><strong>My tooth is really bothering me. </strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Oh, that's too bad. </span></p>\n</td>\n<td style=\"width: 48.9273%;\">\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">3. </span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">A: Tôi sẽ không đi học hôm nay đâu. Tôi phải đến gặp nha sĩ. <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">Cái răng đau làm tôi khó chịu.</span></strong></span></span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">B: Ôi, thật là không may.</span></em></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": [
+        {
+          "id": 918463,
+          "content": "a. a toothache"
+        },
+        {
+          "id": 918464,
+          "content": "b. a cold"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434093",
+      "sourceQuestionId": 434093,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": null,
+      "type": 4,
+      "prompt": "4.",
+      "introductionText": "",
+      "contentText": "4.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "Transcript |\nDịch |\n\n4. \n\nA: I think I'll stay in bed today. I think I hurt myself carrying those bags on the weekend. \n\nMy back is killing me. \n\nB: Can I give you a massage? Maybe that will help. \n\nA: Oh, yeah. Thanks. I'll try anything. \n\n |\n\n4. \n\nA: Tôi nghĩ tôi sẽ nằm yên trên giường nghỉ ngơi hôm nay. Tôi nghĩ do đợt cuối tuần vừa rồi mang vác một đống túi nên giờ đau người ghê. Lưng đau muốn chết đi được. \n\nB: Để tôi mát xa cho bạn nhé? Có thể sẽ đỡ hơn đấy. \n\nA: Ôi, được đó. Cảm ơn bạn.Tôi sẽ thử mọi thứ.\n\n |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">4.</span></p>",
+        "answerTemplate": null,
+        "explain": "<table style=\"border-collapse: collapse; width: 100.014%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Transcript</strong></span></td>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Dịch</strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 48.9273%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">4. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: I think I'll stay in bed today. I think I hurt myself carrying those bags on the weekend. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">My back is killing me. </span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Can I give you a massage? Maybe that will help. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Oh, yeah. Thanks. I'll try anything. </span></p>\n</td>\n<td style=\"width: 48.9273%;\">\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">4. </span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">A: Tôi nghĩ tôi sẽ nằm yên trên giường nghỉ ngơi hôm nay. Tôi nghĩ do đợt cuối tuần vừa rồi mang vác một đống túi nên giờ đau người ghê. <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">Lưng đau muốn chết đi được. </span></strong></span></span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">B: Để tôi mát xa cho bạn nhé? Có thể sẽ đỡ hơn đấy. </span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">A: Ôi, được đó. Cảm ơn bạn.Tôi sẽ thử mọi thứ</span>.</em></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": [
+        {
+          "id": 918465,
+          "content": "a. a backache"
+        },
+        {
+          "id": 918466,
+          "content": "b. a headache"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434094",
+      "sourceQuestionId": 434094,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": null,
+      "type": 4,
+      "prompt": "5.",
+      "introductionText": "",
+      "contentText": "5.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "Transcript |\nDịch |\n\n5. \n\nA: How do you feel? \n\nB: Sorry. I can't talk. \n\nA: Let me get you some hot lemon tea. That should help. \n\nB: Thanks. \n\n |\n\n5. \n\nA: Bạn cảm thấy sao rồi?\n\nB: Xin lỗi nha, tôi không nói nổi.\n\nA: Để tôi lấy ít trà chanh nóng cho bạn nhé. Uống xong chắc sẽ đỡ hơn. \n\nB: Cảm ơn bạn.\n\n |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">5.</span></p>",
+        "answerTemplate": null,
+        "explain": "<table style=\"border-collapse: collapse; width: 100.014%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Transcript</strong></span></td>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Dịch</strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 48.9273%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">5. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: How do you feel? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Sorry.<strong><span style=\"color: #ba372a;\"> <span style=\"background-color: #fbeeb8;\">I can't talk. </span></span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Let me get you some hot lemon tea. That should help. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Thanks. </span></p>\n</td>\n<td style=\"width: 48.9273%;\">\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">5. </span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">A: Bạn cảm thấy sao rồi?</span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">B: Xin lỗi nha, <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">tôi không nói nổi.</span></strong></span></span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">A: Để tôi lấy ít trà chanh nóng cho bạn nhé. Uống xong chắc sẽ đỡ hơn. </span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">B: Cảm ơn bạn.</span></em></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": [
+        {
+          "id": 918467,
+          "content": "a. an upset stomach"
+        },
+        {
+          "id": 918468,
+          "content": "b. a sore throat"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434095",
+      "sourceQuestionId": 434095,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": null,
+      "type": 4,
+      "prompt": "6.",
+      "introductionText": "",
+      "contentText": "6.",
+      "answerTemplateText": "[object Object],[object Object]",
+      "explanationText": "Transcript |\nDịch |\n\n6. \n\nA: I need to go to the drugstore. I have a bad cold and my head is all stuffed up. \n\nB: Oh, that's too bad. I hope you feel better soon. \n\n |\n\n6. \n\nA: Tôi cần phải đến tiệm thuốc. Tôi bị cảm nặng rồi, tôi thấy nặng đầu quá.  \n\nB: Ôi, khổ thân bạn. Tôi mong là bạn sẽ chóng khỏi bệnh. \n\n |",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">6.</span></p>",
+        "answerTemplate": null,
+        "explain": "<table style=\"border-collapse: collapse; width: 100.014%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Transcript</strong></span></td>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Dịch</strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 48.9273%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">6. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: I need to go to the drugstore. <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">I have a bad cold</span></strong></span> and my head is all stuffed up. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Oh, that's too bad. I hope you feel better soon. </span></p>\n</td>\n<td style=\"width: 48.9273%;\">\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">6. </span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">A: Tôi cần phải đến tiệm thuốc. <strong><span style=\"color: #ba372a;\"><span style=\"background-color: #fbeeb8;\">Tôi bị cảm nặng rồi</span>,</span></strong> tôi thấy nặng đầu quá.  </span></em></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Ôi, khổ thân bạn. Tôi mong là bạn sẽ chóng khỏi bệnh.</em> </span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": [
+        {
+          "id": 918469,
+          "content": "a. a cold"
+        },
+        {
+          "id": 918470,
+          "content": "b. a backache"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434096",
+      "sourceQuestionId": 434096,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2\n\nPeople are asking friends what they take for a cold. (Mọi người đang hỏi bạn bè uống gì nếu bị cảm)",
+      "introductionText": "Exercise 2\n\nPeople are asking friends what they take for a cold. (Mọi người đang hỏi bạn bè uống gì nếu bị cảm)",
+      "contentText": "Task 1: Listen and match each person with what he/ she takes for a cold (Nghe và nối từng người với thứ họ dùng để trị cảm lạnh.)\n\n \n\nhot tea |\ngarlic |\norange juice  |\n\nchicken soup  |\nginseng |\nnew cold medicine  |\n\n​​",
+      "answerTemplateText": "1, [input_0]\n\n2, [input_1]\n\n3, [input_2]\n\n4, [input_3]\n\n5, [input_4]\n\n6, [input_5]",
+      "explanationText": "Transcript |\nDịch  |\n\n1. \n\nA: What do you take for a bad cold, Ted? \n\nB: Oh, I have this great cold remedy. It always works. I chop up a bunch of garlic, put it in hot water, then drink it. \n\nA: Gross! That sounds awful. \n\nB: It is awful. I hated it when I was a kid. But my grandmother made me drink it every time I got a cold, and I always felt better a few hours later. It works for her, too. She's going to be ninety-four years old this summer! \n\nA: Hmm. Maybe I should try it.\n\n |\n\n1. \n\nA: Bạn uống gì để chữa cảm hả Ted?\n\nB: À, tôi có cách chữa cảm hay lắm. Lần nào cũng hiệu quả luôn. Tôi băm một ít tỏi, bỏ vào pha với nước nóng rồi uống thôi.\n\nA: Eo! Nghe kinh thế.\n\nB: Ừ thì nó ghê mà. Tôi đã rất ghét uống cái đấy khi tôi còn bé. Nhưng bà tôi bắt tôi uống mỗi khi bị cảm và tôi luôn cảm thấy khỏe hơn sau một vài giờ. Cách này cũng hiệu quả với bà nữa. Hè này bà tôi lên 94 tuổi rồi đấy.\n\nA: Hmm, có lẽ tôi nên thử xem.\n\n |\n\n2. \n\nA: What do you think is the best thing to take for a cold? \n\nB: I take that new cold medicine. You know, the one they advertise on TV. \n\nA: I've seen that commercial. The one with the dancing pink pills, right? \n\nB: That's the one. Well, anyway, I had this really bad cold a few months ago and I was watching TV when the commercial came on. So I thought, you know, why not try it? It worked so well for me. Now it's the only thing I take.  \n\nA: It sounds pretty effective. \n\n |\n\n2. \n\nA: Bạn nghĩ cách nào chữa cảm tốt nhất?\n\nB: Tôi uống loại thuốc chữa cảm mới, cái loại họ quảng cáo trên TV ý.\n\nA: Tôi từng xem cái quảng cáo đó rồi. Cái mà có mấy viên thuốc hồng nhảy nhảy đó hả?\n\nB: Chính là nó. Ờm, dù sao thì mấy tháng trước tôi đã bị cảm rất nặng và khi tôi đang xem TV thì cái quảng cáo đó xuất hiện. Tôi đã nghĩ sao mình lại không thử nhỉ? Thuốc đấy có hiệu quả với tôi thật. Đến giờ, đó vẫn là loại thuốc duy nhất tôi dùng.\n\nA: Nghe có vẻ hiệu nghiệm thật.\n\n |\n\n3. \n\nA: Do you have a good cold remedy? \n\nB: Oh, sure. Chicken soup. \n\nA: No way! Does that really work? \n\nB: Have some. I promise you'll feel better. \n\nA: Who makes the soup? Your mom? \n\nB: Actually, my mom's a doctor, so she doesn't believe that chicken soup really works. So I make it myself. I just go down to the supermarket and pick up a can. I got the idea from a story I read in the newspaper. It was all about this guy who ate chicken soup for every meal, and now he's over a hundred years old. \n\nA: I don't know. I never believe that stuff. \n\n |\n\n3. \n\nA: Bạn có cách chữa cảm nào hay hay không?\n\nB: À, có chứ. Súp gà nhé.\n\nA: Không phải chứ. Món đó thực sự có tác dụng ý hả?\n\nB: Bạn thử mà xem. Tôi cam đoan là bạn sẽ thấy khỏe hơn đấy. \n\nA: Ai nấu súp cho bạn? Mẹ à? \n\nB: Thực ra mẹ tôi là bác sĩ nên bà ấy không tin súp gà thực sự hiệu quả. Thế nên tôi phải tự mình làm. Tôi xuống siêu thị và mua một hộp súp. Tôi có ý tưởng này từ một câu chuyện tôi đọc được trên báo. Nó kể về một người đàn ông bữa nào cũng ăn súp gà và giờ ông ý đã hơn một trăm tuổi. \n\nA: Tôi không biết nữa. Tôi chả bao giờ tin mấy thứ đó cả.\n\n |\n\n4. \n\nA: What do you take for a bad cold, Jill? \n\nB: Well, I don't like to take those cold medicines. They put me to sleep. I bought this last time I had a cold. \n\nA: Whoa, what is that? It looks like the root of a plant. \n\nB: It's called ginseng. \n\nA: It looks kind of weird. \n\nB: Yeah, but it really works. I live across the street from this woman from Korea, and she told me to try it. You should try it, too! \n\nA: Well, I'll think about it. \n\n |\n\n4. \n\nA: Bạn uống gì để chữa cảm hả Jill?\n\nB: Để xem nào, tôi không thích uống thuốc cảm lắm. Toàn thuốc gây buồn ngủ. Lần trước, khi bị cảm tôi đã mua cái này.  \n\nA: Oa, cái gì thế? Trông giống rễ của một loại cây nào đó.\n\nB: Cái này gọi là nhân sâm\n\nA: Nhìn nó kỳ ghê.\n\nB: Ừ, nhưng nó tác dụng tốt lắm. Tôi sống đối diện nhà một cô người Hàn và cô ấy bảo tôi thử dùng cái này. Bạn cũng nên thử xem sao.\n\nA: Ừm, tôi sẽ cân nhắc.\n\n |\n\n5. \n\nA: What do you take for a cold, Helen? \n\nB: Oh, orange juice. It's supposed to be good for you because it has a lot of Vitamin C in it. I make a big pitcher of it and drink it all the time. \n\nA: Interesting. Maybe I should try it. \n\nB: You really should. I read about it on this website for health problems, you know, on the Internet? It says that drinking a lot of orange juice can cure just about anything-even stuff like toothaches and sore muscles! \n\nA: Well, I'm not sure about that. But I'll try it next time I have a cold. \n\n |\n\n5. \n\nA: Bạn uống gì để chữa cảm hả Helen?\n\nB: À, nước cam. Nó vốn rất tốt cho sức khỏe của bạn nha vì có nhiều vitamin C trong đó. Tôi toàn pha cả một bình nước cam để lúc nào cũng uống.\n\nA: Hay nhỉ. Có lẽ tôi cũng nên thử.\n\nB: Bạn rất nên thử nha. Bạn biết đấy, tôi đã đọc được tin này trên một trang web trên mạng về các vấn đề sức khỏe. Bài báo viết rằng uống nhiều nước cam có thể chữa bách bệnh, kể cả những bệnh như đau răng với đau cơ.\n\nA: Ờm, tôi không chắc về điều đó lắm. Nhưng lần tới mà bị cảm thì tôi sẽ thử.\n\n |\n\n6. \n\nA: Do you have a good cold remedy? \n\nB: Oh, sure. I usually make some hot tea-with a little honey and lemon juice in it. I feel much better after that. \n\nA: Yeah, but you probably take cold medicine, too. \n\nB: No, not at all. Those cold medicines make me feel really strange. I was complaining about it one day to this friend of mine who is an opera singer. She told me to try that tea. She said it's what all the famous singers drink when they have a cold. \n\nA: Oh, yeah? Has your singing improved, too? \n\nB: Actually, I think it has. Listen!\n\n |\n\n6. \n\nA: Bạn có cách chữa cảm nào hay không?\n\nB: Ồ, có chứ. Tôi thường pha ít trà nóng, thêm một chút mật ong với nước cốt chanh. Tôi thường cảm thẩy khỏe lên nhiều sau khi uống.\n\nA: Ừ, nhưng bạn chắc vẫn phải uống thuốc nữa nhỉ\n\nB: Không, không hề nha. Mấy loại thuốc cảm đó làm cho người mình cảm thấy rất khó chịu. Có một ngày tôi than phiền về điều này với một người bạn của tôi, người đang làm ca sĩ opera. Cô ấy bảo tôi thử uống trà mật ong chanh. Cô ấy nói rằng đó là thứ mà ca sĩ nào cũng uống khi bị cảm.\n\nA: Ôi thế á? Và giọng của bạn cũng hay hơn chứ?\n\nB: Thực ra tôi nghĩ cũng hay hơn đấy. Nghe nhé! \n\n |",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p> </p>\n<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #ba372a;\"><strong>Exercise 2</strong></span></p>\n<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>People are asking friends what they take for a cold. </strong><em>(Mọi người đang hỏi bạn bè uống gì nếu bị cảm)</em></span></p>",
+        "content": "<p><strong><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Task 1: Listen and match each person with what he/ she takes for a cold </span></strong><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><em>(Nghe và nối từng người với thứ họ dùng để trị cảm lạnh.)</em></span></p>\n<p> </p>\n<table style=\"border-collapse: collapse; width: 100.014%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 32.2724%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\">hot tea</span></td>\n<td style=\"width: 32.2724%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\">garlic</span></td>\n<td style=\"width: 32.2724%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\">orange juice </span></td>\n</tr>\n<tr>\n<td style=\"width: 32.2724%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\">chicken soup </span></td>\n<td style=\"width: 32.2724%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\">ginseng</span></td>\n<td style=\"width: 32.2724%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\">new cold medicine </span></td>\n</tr>\n</tbody>\n</table>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span data-cke-copybin-start=\"1\">​</span><span data-cke-copybin-end=\"1\">​</span></span></p>",
+        "answerTemplate": "<p>1, [input_0]</p>\n<p>2, [input_1]</p>\n<p>3, [input_2]</p>\n<p>4, [input_3]</p>\n<p>5, [input_4]</p>\n<p>6, [input_5]</p>",
+        "explain": "<table style=\"border-collapse: collapse; width: 99.9964%; height: 1429.61px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 22.3843px;\">\n<td style=\"width: 48.9209%; text-align: center; height: 22.3843px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Transcript</strong></span></td>\n<td style=\"width: 48.9209%; text-align: center; height: 22.3843px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Dịch </strong></span></td>\n</tr>\n<tr style=\"height: 313.426px;\">\n<td style=\"width: 48.9209%; height: 313.426px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">1. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: What do you take for a bad cold, Ted? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Oh, I have this great cold remedy. It always works. <span style=\"color: #ba372a; background-color: #fbeeb8;\"><strong>I chop up a bunch of garlic, put it in hot water, then drink it. </strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Gross! That sounds awful. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: It is awful. I hated it when I was a kid. But my grandmother made me drink it every time I got a cold, and I always felt better a few hours later. It works for her, too. She's going to be ninety-four years old this summer! </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Hmm. Maybe I should try it.</span></p>\n</td>\n<td style=\"width: 48.9209%; height: 313.426px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>1. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Bạn uống gì để chữa cảm hả Ted?</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: À, tôi có cách chữa cảm hay lắm. Lần nào cũng hiệu quả luôn. <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">Tôi băm một ít tỏi, bỏ vào pha với nước nóng rồi uống thôi.</span></strong></span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Eo! Nghe kinh thế.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Ừ thì nó ghê mà. Tôi đã rất ghét uống cái đấy khi tôi còn bé. Nhưng bà tôi bắt tôi uống mỗi khi bị cảm và tôi luôn cảm thấy khỏe hơn sau một vài giờ. Cách này cũng hiệu quả với bà nữa. Hè này bà tôi lên 94 tuổi rồi đấy.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Hmm, có lẽ tôi nên thử xem.</em></span></p>\n</td>\n</tr>\n<tr style=\"height: 291.042px;\">\n<td style=\"width: 48.9209%; height: 291.042px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">2. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: What do you think is the best thing to take for a cold? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">I take that new cold medicine</span></strong></span>. You know, the one they advertise on TV. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: I've seen that commercial. The one with the dancing pink pills, right? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: That's the one. Well, anyway, I had this really bad cold a few months ago and I was watching TV when the commercial came on. So I thought, you know, why not try it? It worked so well for me. Now it's the only thing I take.  </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: It sounds pretty effective. </span></p>\n</td>\n<td style=\"width: 48.9209%; height: 291.042px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span style=\"color: #000000; background-color: transparent;\">2. </span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span style=\"color: #000000; background-color: transparent;\">A: Bạn nghĩ cách nào chữa cảm tốt nhất?</span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span style=\"background-color: transparent;\">B: <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">Tôi uống loại thuốc chữa cảm mới,</span></strong></span> cái loại họ quảng cáo trên TV ý.</span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span style=\"color: #000000; background-color: transparent;\">A: Tôi từng xem cái quảng cáo đó rồi. Cái mà có mấy viên thuốc hồng nhảy nhảy đó hả?</span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span style=\"color: #000000; background-color: transparent;\">B: Chính là nó. Ờm, dù sao thì mấy tháng trước tôi đã bị cảm rất nặng và khi tôi đang xem TV thì cái quảng cáo đó xuất hiện. Tôi đã nghĩ sao mình lại không thử nhỉ? Thuốc đấy có hiệu quả với tôi thật. Đến giờ, đó vẫn là loại thuốc duy nhất tôi dùng.</span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span style=\"color: #000000; background-color: transparent;\">A: Nghe có vẻ hiệu nghiệm thật.</span></em></span></p>\n</td>\n</tr>\n<tr style=\"height: 390.185px;\">\n<td style=\"width: 48.9209%; height: 390.185px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">3. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Do you have a good cold remedy? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Oh, sure. <span style=\"color: #ba372a;\"><strong><span style=\"background-color: #fbeeb8;\">Chicken soup.</span> </strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: No way! Does that really work? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Have some. I promise you'll feel better. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Who makes the soup? Your mom? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Actually, my mom's a doctor, so she doesn't believe that chicken soup really works. So I make it myself. I just go down to the supermarket and pick up a can. I got the idea from a story I read in the newspaper. It was all about this guy who ate chicken soup for every meal, and now he's over a hundred years old. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: I don't know. I never believe that stuff. </span></p>\n</td>\n<td style=\"width: 48.9209%; height: 390.185px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>3. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Bạn có cách chữa cảm nào hay hay không?</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: À, có chứ. <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">Súp gà nhé.</span></strong></span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Không phải chứ. Món đó thực sự có tác dụng ý hả?</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Bạn thử mà xem. Tôi cam đoan là bạn sẽ thấy khỏe hơn đấy. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Ai nấu súp cho bạn? Mẹ à? </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Thực ra mẹ tôi là bác sĩ nên bà ấy không tin súp gà thực sự hiệu quả. Thế nên tôi phải tự mình làm. Tôi xuống siêu thị và mua một hộp súp. Tôi có ý tưởng này từ một câu chuyện tôi đọc được trên báo. Nó kể về một người đàn ông bữa nào cũng ăn súp gà và giờ ông ý đã hơn một trăm tuổi. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Tôi không biết nữa. Tôi chả bao giờ tin mấy thứ đó cả.</em></span></p>\n</td>\n</tr>\n<tr style=\"height: 367.801px;\">\n<td style=\"width: 48.9209%; height: 367.801px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">4. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: What do you take for a bad cold, Jill? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Well, I don't like to take those cold medicines. They put me to sleep. I bought this last time I had a cold. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Whoa, what is that? It looks like the root of a plant. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B:<span style=\"color: #ba372a;\"><strong> <span style=\"background-color: #fbeeb8;\">It's called ginseng. </span></strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: It looks kind of weird. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Yeah, but it really works. I live across the street from this woman from Korea, and she told me to try it. You should try it, too! </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Well, I'll think about it. </span></p>\n</td>\n<td style=\"width: 48.9209%; height: 367.801px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>4. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Bạn uống gì để chữa cảm hả Jill?</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Để xem nào, tôi không thích uống thuốc cảm lắm. Toàn thuốc gây buồn ngủ. Lần trước, khi bị cảm tôi đã mua cái này.  </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Oa, cái gì thế? Trông giống rễ của một loại cây nào đó.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">Cái này gọi là nhân sâm</span></strong></span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Nhìn nó kỳ ghê.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Ừ, nhưng nó tác dụng tốt lắm. Tôi sống đối diện nhà một cô người Hàn và cô ấy bảo tôi thử dùng cái này. Bạn cũng nên thử xem sao.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Ừm, tôi sẽ cân nhắc.</em></span></p>\n</td>\n</tr>\n<tr style=\"height: 22.3843px;\">\n<td style=\"width: 48.9209%; height: 22.3843px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">5. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: What do you take for a cold, Helen? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Oh,<strong><span style=\"color: #ba372a;\"> <span style=\"background-color: #fbeeb8;\">orange juice</span></span></strong>. It's supposed to be good for you because it has a lot of Vitamin C in it. I make a big pitcher of it and drink it all the time. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Interesting. Maybe I should try it. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: You really should. I read about it on this website for health problems, you know, on the Internet? It says that drinking a lot of orange juice can cure just about anything-even stuff like toothaches and sore muscles! </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Well, I'm not sure about that. But I'll try it next time I have a cold. </span></p>\n</td>\n<td style=\"width: 48.9209%; height: 22.3843px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>5. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Bạn uống gì để chữa cảm hả Helen?</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: À, <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">nước cam</span></strong></span>. Nó vốn rất tốt cho sức khỏe của bạn nha vì có nhiều vitamin C trong đó. Tôi toàn pha cả một bình nước cam để lúc nào cũng uống.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Hay nhỉ. Có lẽ tôi cũng nên thử.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Bạn rất nên thử nha. Bạn biết đấy, tôi đã đọc được tin này trên một trang web trên mạng về các vấn đề sức khỏe. Bài báo viết rằng uống nhiều nước cam có thể chữa bách bệnh, kể cả những bệnh như đau răng với đau cơ.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Ờm, tôi không chắc về điều đó lắm. Nhưng lần tới mà bị cảm thì tôi sẽ thử.</em></span></p>\n</td>\n</tr>\n<tr style=\"height: 22.3843px;\">\n<td style=\"width: 48.9209%; height: 22.3843px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">6. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Do you have a good cold remedy? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Oh, sure. <span style=\"color: #ba372a; background-color: #fbeeb8;\"><strong>I usually make some hot tea-with a little honey and lemon juice in it. I feel much better after that. </strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Yeah, but you probably take cold medicine, too. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: No, not at all. Those cold medicines make me feel really strange. I was complaining about it one day to this friend of mine who is an opera singer. She told me to try that tea. She said it's what all the famous singers drink when they have a cold. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Oh, yeah? Has your singing improved, too? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Actually, I think it has. Listen!</span></p>\n</td>\n<td style=\"width: 48.9209%; height: 22.3843px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>6. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Bạn có cách chữa cảm nào hay không?</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Ồ, có chứ. <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">Tôi thường pha ít trà nóng, thêm một chút mật ong với nước cốt chanh. Tôi thường cảm thẩy khỏe lên nhiều sau khi uống.</span></strong></span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Ừ, nhưng bạn chắc vẫn phải uống thuốc nữa nhỉ</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Không, không hề nha. Mấy loại thuốc cảm đó làm cho người mình cảm thấy rất khó chịu. Có một ngày tôi than phiền về điều này với một người bạn của tôi, người đang làm ca sĩ opera. Cô ấy bảo tôi thử uống trà mật ong chanh. Cô ấy nói rằng đó là thứ mà ca sĩ nào cũng uống khi bị cảm.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Ôi thế á? Và giọng của bạn cũng hay hơn chứ?</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Thực ra tôi nghĩ cũng hay hơn đấy. Nghe nhé! </em></span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434097",
+      "sourceQuestionId": 434097,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": null,
+      "type": null,
+      "prompt": "Task 2: Listen again. Where did each person learn the cold remedy? Choose the correct answer. (Nghe lại. Mỗi người học phương thức chữa cảm ở đâu? Chọn đáp án đúng)",
+      "introductionText": "",
+      "contentText": "Task 2: Listen again. Where did each person learn the cold remedy? Choose the correct answer. (Nghe lại. Mỗi người học phương thức chữa cảm ở đâu? Chọn đáp án đúng)",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p> </p>\n<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Task 2: Listen again. Where did each person learn the cold remedy? Choose the correct answer. </strong><em>(Nghe lại. Mỗi người học phương thức chữa cảm ở đâu? Chọn đáp án đúng)</em></span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434098",
+      "sourceQuestionId": 434098,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": null,
+      "type": 4,
+      "prompt": "1.",
+      "introductionText": "",
+      "contentText": "1.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">1.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918471,
+          "content": "a. his grandmother"
+        },
+        {
+          "id": 918472,
+          "content": "b. his mother"
+        },
+        {
+          "id": 918473,
+          "content": "c. his grandparents"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434099",
+      "sourceQuestionId": 434099,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": null,
+      "type": 4,
+      "prompt": "2.",
+      "introductionText": "",
+      "contentText": "2.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">2.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918474,
+          "content": "a. a radio commercial"
+        },
+        {
+          "id": 918475,
+          "content": "b. a TV commercial"
+        },
+        {
+          "id": 918476,
+          "content": "c. a TV show"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434100",
+      "sourceQuestionId": 434100,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": null,
+      "type": 4,
+      "prompt": "3.",
+      "introductionText": "",
+      "contentText": "3.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">3.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918477,
+          "content": "a. the newspaper"
+        },
+        {
+          "id": 918478,
+          "content": "b. her mother"
+        },
+        {
+          "id": 918479,
+          "content": "c. her doctor"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434101",
+      "sourceQuestionId": 434101,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": null,
+      "type": 4,
+      "prompt": "4.",
+      "introductionText": "",
+      "contentText": "4.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">4.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918480,
+          "content": "a. a co-worker"
+        },
+        {
+          "id": 918481,
+          "content": "b. a roommate"
+        },
+        {
+          "id": 918482,
+          "content": "c. a Korean woman"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434102",
+      "sourceQuestionId": 434102,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": null,
+      "type": 4,
+      "prompt": "5.",
+      "introductionText": "",
+      "contentText": "5.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">5.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918483,
+          "content": "a. in an e-mail"
+        },
+        {
+          "id": 918484,
+          "content": "b. on the TV"
+        },
+        {
+          "id": 918485,
+          "content": "c. on the Internet"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434103",
+      "sourceQuestionId": 434103,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": null,
+      "type": 4,
+      "prompt": "6.",
+      "introductionText": "",
+      "contentText": "6.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: Nunito-Regular;\">6.</span></p>",
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918486,
+          "content": "a. a pianist"
+        },
+        {
+          "id": 918487,
+          "content": "b. an opera singer"
+        },
+        {
+          "id": 918488,
+          "content": "c. a stranger"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434104",
+      "sourceQuestionId": 434104,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 3\n\nFour people are talking about health problems. Listen and fill NO MORE THAN TWO WORDS in the blank. (Bốn người đang nói về các vấn đề sức khỏe. Nghe và điền không quá 2 từ vào chỗ trống)",
+      "introductionText": "Exercise 3\n\nFour people are talking about health problems. Listen and fill NO MORE THAN TWO WORDS in the blank. (Bốn người đang nói về các vấn đề sức khỏe. Nghe và điền không quá 2 từ vào chỗ trống)",
+      "contentText": "1. Patrick",
+      "answerTemplateText": "I woke up [input_0] with a really bad stomachache. At first I thought it was because I ate a really big [input_1] last night. I often have a [input_2] if I eat too much. Anyway, I took some [input_3], but I don't think it's working because my stomach still feels funny. So I'm going to see the [input_4] tomorrow. Maybe she can give me something stronger. It's awful because if I'm [input_5], I can't go to my friend's concert tomorrow night.",
+      "explanationText": "I woke up [this morning] with a really bad stomachache. At first I thought it was because I ate a really big [dinner] last night. I often have a [stomachache] if I eat too much. Anyway, I took some [medicine], but I don't think it's working because my stomach still feels funny. So I'm going to see the [doctor] tomorrow. Maybe she can give me something stronger. It's awful because if I'm [sick], I can't go to my friend's concert tomorrow night. \n\nDịch:\n\nSáng nay thức dậy tôi bị đau bụng khủng khiếp. Lập tức, tôi nghĩ do tối qua tôi đã ăn một bữa quá hoành tráng. Tôi thường bị đau bụng nếu tôi ăn quá nhiều. Dù sao thì tôi cũng uống thuốc rồi, nhưng tôi không nghĩ nó có tác dụng gì vì bụng vẫn nhộn nhạo. Vậy nên tôi sẽ đi khám bác sĩ vào ngày mai. Có lẽ bác sĩ có thể kê cho tôi loại thuốc mạnh hơn. Cảm giác thật tệ vì nếu tôi bị ốm, tôi không thể đến buổi biểu diễn ca nhạc của bạn tôi vào tối mai.",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p dir=\"ltr\" style=\"line-height: 1.3;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #ba372a;\"><strong>Exercise 3</strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Four people are talking about health problems. Listen and fill NO MORE THAN TWO WORDS in the blank. </strong><em>(Bốn người đang nói về các vấn đề sức khỏe. Nghe và điền không quá 2 từ vào chỗ trống)</em></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"> </p>",
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>1. Patrick </strong></span></p>",
+        "answerTemplate": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">I woke up <span style=\"color: #ba372a;\">[input_0]</span> with a really bad stomachache. At first I thought it was because I ate a really big <span style=\"color: #ba372a;\">[input_1]</span> last night. I often have a <span style=\"color: #ba372a;\">[input_2]</span> if I eat too much. Anyway, I took some <span style=\"color: #ba372a;\">[input_3]</span>, but I don't think it's working because my stomach still feels funny. So I'm going to see the <span style=\"color: #ba372a;\">[input_4]</span> tomorrow. Maybe she can give me something stronger. It's awful because if I'm <span style=\"color: #ba372a;\">[input_5]</span>, I can't go to my friend's concert tomorrow night. </span></p>",
+        "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>I woke up [<span style=\"color: #ba372a;\">this morning</span>] with a really bad stomachache. At first I thought it was because I ate a really big [<span style=\"color: #ba372a;\">dinner</span>] last night. I often have a [<span style=\"color: #ba372a;\">stomachache</span>] if I eat too much. Anyway, I took some [<span style=\"color: #ba372a;\">medicine</span>], but I don't think it's working because my stomach still feels funny. So I'm going to see the [<span style=\"color: #ba372a;\">doctor</span>] tomorrow. Maybe she can give me something stronger. It's awful because if I'm [<span style=\"color: #ba372a;\">sick</span>], I can't go to my friend's concert tomorrow night. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><em>Dịch:</em></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Sáng nay thức dậy tôi bị đau bụng khủng khiếp. Lập tức, tôi nghĩ do tối qua tôi đã ăn một bữa quá hoành tráng. Tôi thường bị đau bụng nếu tôi ăn quá nhiều. Dù sao thì tôi cũng uống thuốc rồi, nhưng tôi không nghĩ nó có tác dụng gì vì bụng vẫn nhộn nhạo. Vậy nên tôi sẽ đi khám bác sĩ vào ngày mai. Có lẽ bác sĩ có thể kê cho tôi loại thuốc mạnh hơn. Cảm giác thật tệ vì nếu tôi bị ốm, tôi không thể đến buổi biểu diễn ca nhạc của bạn tôi vào tối mai.</em></span></p>"
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434105",
+      "sourceQuestionId": 434105,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": null,
+      "type": 1,
+      "prompt": "2. Jenna",
+      "introductionText": "",
+      "contentText": "2. Jenna",
+      "answerTemplateText": "I really hurt my [input_0] playing tennis on Saturday. It's strange because I've been playing tennis for a long time, and I've never had this [input_1] before. I can hardly lift my arm at all. It's really sore. I've been taking aspirin for the [input_2] and that helps a little, but if it isn't any better tomorrow, I'll go and see the sports doctor. It's annoying because we have the tennis championships this weekend. If it isn't better, I won't be able to [input_3].",
+      "explanationText": "I really hurt my [arm] playing tennis on Saturday. It's strange because I've been playing tennis for a long time, and I've never had this [problem] before. I can hardly lift my arm at all. It's really sore. I've been taking aspirin for the [pain] and that helps a little, but if it isn't any better tomorrow, I'll go and see the sports doctor. It's annoying because we have the tennis championships this weekend. If it isn't better, I won't be able to [play]. \n\nDịch:\n\nTôi bị đau tay từ hôm thứ Bảy chơi tennis. Lạ thật vì tôi chơi tennis đã lâu và tôi chưa bao giờ gặp vấn đề như này. Tôi còn không nhấc nổi tay. Thật sự rất nhức. Tôi đã uống thuốc giảm đau rồi và nó cũng đỡ hơn một chút, nhưng nếu mai lại như cũ thì tôi sẽ đi gặp bác sĩ chuyên khoa thể thao. Khó chịu ghê vì chúng tôi có giải đấu tennis vào cuối tuần này. Nếu tình trạng chấn thương này không cải thiện được thì tôi sẽ không thể tham gia giải đấu.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>2. Jenna</strong></span></p>\n<p dir=\"ltr\"> </p>",
+        "answerTemplate": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">I really hurt my <span style=\"color: #ba372a;\">[input_0]</span> playing tennis on Saturday. It's strange because I've been playing tennis for a long time, and I've never had this <span style=\"color: #ba372a;\">[input_1]</span> before. I can hardly lift my arm at all. It's really sore. I've been taking aspirin for the <span style=\"color: #ba372a;\">[input_2]</span> and that helps a little, but if it isn't any better tomorrow, I'll go and see the sports doctor. It's annoying because we have the tennis championships this weekend. If it isn't better, I won't be able to <span style=\"color: #ba372a;\">[input_3]</span>. </span></p>",
+        "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>I really hurt my [<span style=\"color: #ba372a;\">arm</span>] playing tennis on Saturday. It's strange because I've been playing tennis for a long time, and I've never had this [<span style=\"color: #ba372a;\">problem</span>] before. I can hardly lift my arm at all. It's really sore. I've been taking aspirin for the [<span style=\"color: #ba372a;\">pain</span>] and that helps a little, but if it isn't any better tomorrow, I'll go and see the sports doctor. It's annoying because we have the tennis championships this weekend. If it isn't better, I won't be able to [<span style=\"color: #ba372a;\">play</span>]. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><em>Dịch: </em></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Tôi bị đau tay từ hôm thứ Bảy chơi tennis. Lạ thật vì tôi chơi tennis đã lâu và tôi chưa bao giờ gặp vấn đề như này. Tôi còn không nhấc nổi tay. Thật sự rất nhức. Tôi đã uống thuốc giảm đau rồi và nó cũng đỡ hơn một chút, nhưng nếu mai lại như cũ thì tôi sẽ đi gặp bác sĩ chuyên khoa thể thao. Khó chịu ghê vì chúng tôi có giải đấu tennis vào cuối tuần này. Nếu tình trạng chấn thương này không cải thiện được thì tôi sẽ không thể tham gia giải đấu.</em></span></p>"
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434106",
+      "sourceQuestionId": 434106,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": null,
+      "type": 1,
+      "prompt": "3. Kenneth",
+      "introductionText": "",
+      "contentText": "3. Kenneth",
+      "answerTemplateText": "I have a [input_0] ear infection. It started after I went swimming [input_1]. It's really painful and I can hardly [input_2] at night. I often get ear infections in the summer. The doctor gave me some ear drops and some antibiotics, so it should [input_3] in a few days. I hope my ears get better because I have to play in a band at a party [input_4].",
+      "explanationText": "I have a [bad] ear infection. It started after I went swimming [last weekend]. It's really painful and I can hardly [sleep] at night. I often get ear infections in the summer. The doctor gave me some ear drops and some antibiotics, so it should [get better] in a few days. I hope my ears get better because I have to play in a band at a party [next Saturday]. \n\nDịch: \n\nTôi bị nhiễm trùng tai nặng. Tôi bắt đầu bị như vậy sau khi đi bơi vào cuối tuần trước. Thật sự rất đau đến nỗi tối tôi ngủ không nổi. Tôi thường bị nhiễm trùng tai vào mùa hè. Bác sĩ đã kê cho tôi một số thuốc nhỏ tai và kháng sinh, vậy nên chắc mấy ngày nữa sẽ đỡ hơn thôi. Hi vọng là tai tôi sẽ sớm khỏi vì tôi phải chơi cho một ban nhạc vào buổi tiệc thứ Bảy tuần tới.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>3. Kenneth</strong></span></p>\n<p dir=\"ltr\"> </p>",
+        "answerTemplate": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">I have a <span style=\"color: #ba372a;\">[input_0]</span> ear infection. It started after I went swimming <span style=\"color: #ba372a;\">[input_1]</span>. It's really painful and I can hardly <span style=\"color: #ba372a;\">[input_2]</span> at night. I often get ear infections in the summer. The doctor gave me some ear drops and some antibiotics, so it should <span style=\"color: #ba372a;\">[input_3]</span> in a few days. I hope my ears get better because I have to play in a band at a party <span style=\"color: #ba372a;\">[input_4]</span>. </span></p>",
+        "explain": "<p><em><span style=\"font-family: arial, helvetica, sans-serif;\"><span>I have a [<span style=\"color: #ba372a;\">bad</span>] ear infection. It started after I went swimming [<span style=\"color: #ba372a;\">last weekend</span>]. It's really painful and I can hardly [<span style=\"color: #ba372a;\">sleep</span>] at night. I often get ear infections in the summer. The doctor gave me some ear drops and some antibiotics, so it should [<span style=\"color: #ba372a;\">get better</span>] in a few days. I hope my ears get better because I have to play in a band at a party [<span style=\"color: #ba372a;\">next Saturday</span>]. </span></span></em></p>\n<p><strong><em><span style=\"font-family: arial, helvetica, sans-serif;\">Dịch: </span></em></strong></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">Tôi bị nhiễm trùng tai nặng. Tôi bắt đầu bị như vậy sau khi đi bơi vào cuối tuần trước. Thật sự rất đau đến nỗi tối tôi ngủ không nổi. Tôi thường bị nhiễm trùng tai vào mùa hè. Bác sĩ đã kê cho tôi một số thuốc nhỏ tai và kháng sinh, vậy nên chắc mấy ngày nữa sẽ đỡ hơn thôi. Hi vọng là tai tôi sẽ sớm khỏi vì tôi phải chơi cho một ban nhạc vào buổi tiệc thứ Bảy tuần tới.</span></em></p>"
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434107",
+      "sourceQuestionId": 434107,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": null,
+      "type": 1,
+      "prompt": "4. Alexis",
+      "introductionText": "",
+      "contentText": "4. Alexis",
+      "answerTemplateText": "I came down with [input_0] poisoning two days ago. It was awful. I went out for dinner and ate [input_1]. I don't think the fish was [input_2] because I got really sick in the middle of the night. Luckily, I had some [input_3] in the house because I had the same problem once before. I didn't go to the doctor. I just took the medicine and I feel better today. Unfortunately, I probably won't go to my best friend's [input_4] party tonight. I still don't feel 100 percent well. That's life, I guess!",
+      "explanationText": "I came down with [food] poisoning two days ago. It was awful. I went out for dinner and ate [fish]. I don't think the fish was [fresh] because I got really sick in the middle of the night. Luckily, I had some [medicine] in the house because I had the same problem once before. I didn't go to the doctor. I just took the medicine and I feel better today. Unfortunately, I probably won't go to my best friend's [birthday] party tonight. I still don't feel 100 percent well. That's life, I guess!\n\nDịch:\n\nTôi bị ngộ độc thực phẩm 2 ngày trước. Tình hình rất tệ. Tôi đã ra ngoài ăn tối và ăn món cá. I không nghĩ là cá tươi đâu vì nửa đêm tôi đã bị ốm nặng. May là tôi có sẵn một ít thuốc trong nhà vì tôi từng bị một lần giống như vậy trước đây rồi. Tôi đã không đến khám bác sĩ. Tôi chỉ uống thuốc và hôm nay tôi đã khá hơn. Tiếc rằng tối chắc tôi sẽ không thể đến sinh nhật bạn thân của tôi. Tôi vẫn chưa khỏe hoàn toàn. Đúng là đời!",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>4. Alexis</strong></span></p>\n<p dir=\"ltr\"> </p>",
+        "answerTemplate": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">I came down with <span style=\"color: #ba372a;\">[input_0]</span> poisoning two days ago. It was <span style=\"color: #000000;\">awful</span>. I went out for dinner and ate <span style=\"color: #ba372a;\">[input_1]</span>. I don't think the fish was <span style=\"color: #ba372a;\">[input_2]</span> because I got really sick in the middle of the night. Luckily, I had some <span style=\"color: #ba372a;\">[input_3]</span> in the house because I had the same problem once before. I didn't go to the doctor. I just took the medicine and I feel better today. Unfortunately, I probably won't go to my best friend's <span style=\"color: #ba372a;\">[input_4]</span> party tonight. I still don't feel 100 percent well. That's life, I guess!</span></p>",
+        "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span>I came down with [<span style=\"color: #ba372a;\">food</span>] poisoning two days ago. It was <span style=\"color: #000000;\">awful</span>. I went out for dinner and ate [<span style=\"color: #ba372a;\">fish</span>]. I don't think the fish was [<span style=\"color: #ba372a;\">fresh</span>] because I got really sick in the middle of the night. Luckily, I had some [<span style=\"color: #ba372a;\">medicine</span>] in the house because I had the same problem once before. I didn't go to the doctor. I just took the medicine and I feel better today. Unfortunately, I probably won't go to my best friend's [<span style=\"color: #ba372a;\">birthday</span>] party tonight. I still don't feel 100 percent well. That's life, I guess!</span></em></span></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Dịch:</em></span></strong></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Tôi bị ngộ độc thực phẩm 2 ngày trước. Tình hình rất tệ. Tôi đã ra ngoài ăn tối và ăn món cá. I không nghĩ là cá tươi đâu vì nửa đêm tôi đã bị ốm nặng. May là tôi có sẵn một ít thuốc trong nhà vì tôi từng bị một lần giống như vậy trước đây rồi. Tôi đã không đến khám bác sĩ. Tôi chỉ uống thuốc và hôm nay tôi đã khá hơn. Tiếc rằng tối chắc tôi sẽ không thể đến sinh nhật bạn thân của tôi. Tôi vẫn chưa khỏe hoàn toàn. Đúng là đời!  </em></span></p>"
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434108",
+      "sourceQuestionId": 434108,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": "New words/ Phrases/ Good structures/ Sentences",
+      "type": 1,
+      "prompt": "New words/ Phrases/ Good structures/ Sentences",
+      "introductionText": "",
+      "contentText": "Complete the following vocabulary table. (Hoàn thiện bảng từ vựng sau.)",
+      "answerTemplateText": "New vocabulary |\n\nSentences |\nUseful words/ phrases |\n\nMeaning \n\n(in English/ in Vietnamese)\n\n |\n\n''This pain in my head is terrible.'' |\nterrible (a) |\n[input_0] |\n\n'' I need to go to the drugstore. I have a bad cold and my head is all stuffed up. '' |\ndrugstore (n) |\n[input_1] |\n\n''Oh, I have this great cold remedy. It always works'' |\nremedy (n) |\n[input_2] |\n\n''It sounds pretty effective. '' |\neffective (a) |\n[input_3] |\n\n''It's annoying because we have the tennis championships this weekend.'' |\n annoying (a) |\n[input_4] |\n\n''The doctor gave me some ear drops and some antibiotics, so it should get better in a few days'' |\nantibiotics (n) |\n[input_5] |\n\n''I came down with food poisoning two days ago'' |\nfood poisoning |\n[input_6] |\n\n''Unfortunately, I probably won't go to my best friend's birthday party tonight.'' |\nUnfortunately (adv) |\n[input_7] |\n\n''Luckily, I had some medicine in the house because I had the same problem once before''\n\n |\nLuckily (adv) |\n[input_8] |",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "New words/ Phrases/ Good structures/ Sentences",
+        "introduction": null,
+        "content": "<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Complete <span style=\"color: #242938; background-color: #ffffff;\">the following vocabulary table. </span></strong><em><span style=\"color: #242938; background-color: #ffffff;\">(Hoàn thiện bảng từ vựng sau.)</span></em></span></p>",
+        "answerTemplate": "<table style=\"width: 100.152%; height: 348.619px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 22.3875px;\">\n<td style=\"background-color: #c00000; text-align: center; width: 99.9806%; height: 22.3875px;\" colspan=\"3\"><span style=\"color: #000000;\"><strong><span style=\"background-color: transparent;\">New vocabulary</span></strong></span></td>\n</tr>\n<tr style=\"height: 92.7562px;\">\n<td style=\"text-align: center; width: 59.4752%; height: 92.7562px;\"><strong>Sentences</strong></td>\n<td style=\"text-align: center; width: 20.2915%; height: 92.7562px;\"><strong>Useful words/ phrases</strong></td>\n<td style=\"width: 20.2138%; height: 92.7562px;\">\n<p style=\"text-align: center;\"><strong><span style=\"color: #000000; background-color: transparent;\">Meaning </span></strong></p>\n<p style=\"text-align: center;\"><strong><span style=\"color: #000000; background-color: transparent;\">(in English/ in Vietnamese)</span></strong></p>\n</td>\n</tr>\n<tr style=\"height: 22.3875px;\">\n<td style=\"width: 59.4752%; height: 22.3875px;\">''This pain in my head is <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">terrible</span></strong></span>.''</td>\n<td style=\"width: 20.2915%; height: 22.3875px;\">terrible (a)</td>\n<td style=\"width: 20.2138%; height: 22.3875px;\">[input_0]</td>\n</tr>\n<tr style=\"height: 22.3875px;\">\n<td style=\"width: 59.4752%; height: 22.3875px;\">'' I need to go to the <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>drugstore</strong></span>. I have a bad cold and my head is all stuffed up. ''</td>\n<td style=\"width: 20.2915%; height: 22.3875px;\">drugstore (n)</td>\n<td style=\"width: 20.2138%; height: 22.3875px;\">[input_1]</td>\n</tr>\n<tr style=\"height: 22.3875px;\">\n<td style=\"width: 59.4752%; height: 22.3875px;\">''Oh, I have this great cold <strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">remedy</span></strong>. It always works''</td>\n<td style=\"width: 20.2915%; height: 22.3875px;\">remedy (n)</td>\n<td style=\"width: 20.2138%; height: 22.3875px;\">[input_2]</td>\n</tr>\n<tr style=\"height: 22.3875px;\">\n<td style=\"width: 59.4752%; height: 22.3875px;\">''It sounds pretty <strong><span style=\"background-color: #fbeeb8; color: #ba372a;\">effective</span></strong>. ''</td>\n<td style=\"width: 20.2915%; height: 22.3875px;\">effective (a)</td>\n<td style=\"width: 20.2138%; height: 22.3875px;\">[input_3]</td>\n</tr>\n<tr style=\"height: 22.3875px;\">\n<td style=\"width: 59.4752%; height: 22.3875px;\">''It's <strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">annoying </span></strong>because we have the tennis championships this weekend.''</td>\n<td style=\"width: 20.2915%; height: 22.3875px;\"> annoying (a)</td>\n<td style=\"width: 20.2138%; height: 22.3875px;\">[input_4]</td>\n</tr>\n<tr style=\"height: 22.3875px;\">\n<td style=\"width: 59.4752%; height: 22.3875px;\">''The doctor gave me some ear drops and some <strong><span style=\"background-color: #fbeeb8; color: #ba372a;\">antibiotics</span></strong>, so it should get better in a few days''</td>\n<td style=\"width: 20.2915%; height: 22.3875px;\">antibiotics (n)</td>\n<td style=\"width: 20.2138%; height: 22.3875px;\">[input_5]</td>\n</tr>\n<tr style=\"height: 22.3875px;\">\n<td style=\"width: 59.4752%; height: 22.3875px;\">''I came down with <strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">food poisoning</span></strong> two days ago''</td>\n<td style=\"width: 20.2915%; height: 22.3875px;\">food poisoning</td>\n<td style=\"width: 20.2138%; height: 22.3875px;\">[input_6]</td>\n</tr>\n<tr style=\"height: 22.3875px;\">\n<td style=\"width: 59.4752%; height: 22.3875px;\">''<span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>Unfortunately</strong></span>, I probably won't go to my best friend's birthday party tonight.''</td>\n<td style=\"width: 20.2915%; height: 22.3875px;\">Unfortunately (adv)</td>\n<td style=\"width: 20.2138%; height: 22.3875px;\">[input_7]</td>\n</tr>\n<tr style=\"height: 54.375px;\">\n<td style=\"width: 59.4752%; height: 54.375px;\">\n<p>''<strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">Luckily</span></strong>, I had some medicine in the house because I had the same problem once before''</p>\n</td>\n<td style=\"width: 20.2915%; height: 54.375px;\">Luckily (adv)</td>\n<td style=\"width: 20.2138%; height: 54.375px;\">[input_8]</td>\n</tr>\n</tbody>\n</table>",
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434109",
+      "sourceQuestionId": 434109,
+      "challengeId": 43470,
+      "classChallengeId": "94107",
+      "title": "SPEAKING",
+      "type": 2,
+      "prompt": "SPEAKING",
+      "introductionText": "Nộp link video trả lời các câu hỏi speaking (có mở quyền truy cập)",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "SPEAKING",
+        "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Nộp link video trả lời các câu hỏi speaking (có mở quyền truy cập)</strong></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    }
+  ]
+}

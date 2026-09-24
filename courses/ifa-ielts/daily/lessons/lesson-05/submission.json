@@ -1,0 +1,776 @@
+{
+  "lesson": 5,
+  "lessonKey": "lesson-05",
+  "items": [
+    {
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "statusMark": null,
+      "rate": 0,
+      "correctAnswer": 31,
+      "submittedAt": "2026-09-22 21:55:38",
+      "markedAt": null,
+      "commentText": "",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "430843": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911140,
+          "correct_answer": 911140,
+          "result_answer": {
+            "911140": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 430843,
+          "challenge_id": 43160
+        },
+        "430844": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911141,
+          "correct_answer": 911141,
+          "result_answer": {
+            "911141": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 430844,
+          "challenge_id": 43160
+        },
+        "430845": {
+          "total_question": 1,
+          "total_correct_result_answer": 0,
+          "user_answer": 911144,
+          "correct_answer": 911143,
+          "result_answer": {
+            "911144": false
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 430845,
+          "challenge_id": 43160
+        },
+        "430846": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911145,
+          "correct_answer": 911145,
+          "result_answer": {
+            "911145": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 430846,
+          "challenge_id": 43160
+        },
+        "430847": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911147,
+          "correct_answer": 911147,
+          "result_answer": {
+            "911147": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 430847,
+          "challenge_id": 43160
+        },
+        "430848": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911150,
+          "correct_answer": 911150,
+          "result_answer": {
+            "911150": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 430848,
+          "challenge_id": 43160
+        },
+        "430849": {
+          "total_question": 8,
+          "total_correct_result_answer": 8,
+          "user_answer": {
+            "input_0": "traffic congestion",
+            "input_1": "means of transport",
+            "input_2": "private cars",
+            "input_3": "move more smoothly",
+            "input_6": "passengers",
+            "input_7": "urban dwellers",
+            "input_4": "get stuck",
+            "input_5": "rush hour"
+          },
+          "correct_answer": {
+            "input_0": [
+              "traffic congestion"
+            ],
+            "input_1": [
+              "means of transport"
+            ],
+            "input_2": [
+              "private cars"
+            ],
+            "input_3": [
+              "move more smoothly"
+            ],
+            "input_4": [
+              "get stuck"
+            ],
+            "input_5": [
+              "rush hour"
+            ],
+            "input_6": [
+              "passengers"
+            ],
+            "input_7": [
+              "urban dwellers"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 430849,
+          "challenge_id": 43160
+        },
+        "430850": {
+          "total_question": 7,
+          "total_correct_result_answer": 7,
+          "user_answer": {
+            "input_0": "HEAVY",
+            "input_1": "COMMUTERS",
+            "input_2": "INVEST",
+            "input_3": "SMOOTHLY",
+            "input_4": "ELECTRIC",
+            "input_5": "TRAVELS",
+            "input_6": "VEHICLES"
+          },
+          "correct_answer": {
+            "input_0": [
+              "heavy"
+            ],
+            "input_1": [
+              "commuters"
+            ],
+            "input_2": [
+              "invest"
+            ],
+            "input_3": [
+              "smoothly"
+            ],
+            "input_4": [
+              "electric"
+            ],
+            "input_5": [
+              "travels"
+            ],
+            "input_6": [
+              "vehicles"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 430850,
+          "challenge_id": 43160
+        },
+        "430851": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "During rush hour, people usually get stuck in traffic jams.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 430851,
+          "challenge_id": 43160
+        },
+        "430852": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "Commuters can take shortcuts to reach their destinations.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 430852,
+          "challenge_id": 43160
+        },
+        "430853": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "Advanced GPS systems can help drivers find routes easily, so driving becomes more convenient.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 430853,
+          "challenge_id": 43160
+        },
+        "430854": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "To reduce pollution, cities should encourage people to use pollution-free vehicles because this can improve the environment.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 430854,
+          "challenge_id": 43160
+        },
+        "430855": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "The government is investing in building better roads, and this can help reduce traffic problems in the city.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 430855,
+          "challenge_id": 43160
+        },
+        "430857": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911151,
+          "correct_answer": 911151,
+          "result_answer": {
+            "911151": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 430857,
+          "challenge_id": 43160
+        },
+        "430858": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911155,
+          "correct_answer": 911155,
+          "result_answer": {
+            "911155": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 430858,
+          "challenge_id": 43160
+        },
+        "430859": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911158,
+          "correct_answer": 911158,
+          "result_answer": {
+            "911158": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 430859,
+          "challenge_id": 43160
+        },
+        "430860": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911162,
+          "correct_answer": 911162,
+          "result_answer": {
+            "911162": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 430860,
+          "challenge_id": 43160
+        },
+        "430861": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911165,
+          "correct_answer": 911165,
+          "result_answer": {
+            "911165": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 430861,
+          "challenge_id": 43160
+        },
+        "430862": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://drive.google.com/file/d/1BjvD9nh5aSTLkDyYLUHJ4R9f73oApA30/view?usp=drive_link",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 430862,
+          "challenge_id": 43160
+        }
+      }
+    },
+    {
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "statusMark": null,
+      "rate": 0,
+      "correctAnswer": 45,
+      "submittedAt": "2026-09-22 22:17:07",
+      "markedAt": null,
+      "commentText": "",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "430864": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911168,
+          "correct_answer": 911168,
+          "result_answer": {
+            "911168": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 430864,
+          "challenge_id": 43161
+        },
+        "430865": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911173,
+          "correct_answer": 911173,
+          "result_answer": {
+            "911173": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 430865,
+          "challenge_id": 43161
+        },
+        "430866": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911174,
+          "correct_answer": 911174,
+          "result_answer": {
+            "911174": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 430866,
+          "challenge_id": 43161
+        },
+        "430867": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911179,
+          "correct_answer": 911179,
+          "result_answer": {
+            "911179": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 430867,
+          "challenge_id": 43161
+        },
+        "430869": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911183,
+          "correct_answer": 911183,
+          "result_answer": {
+            "911183": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 430869,
+          "challenge_id": 43161
+        },
+        "430870": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911187,
+          "correct_answer": 911187,
+          "result_answer": {
+            "911187": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 430870,
+          "challenge_id": 43161
+        },
+        "430871": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911188,
+          "correct_answer": 911188,
+          "result_answer": {
+            "911188": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 430871,
+          "challenge_id": 43161
+        },
+        "430872": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911191,
+          "correct_answer": 911191,
+          "result_answer": {
+            "911191": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 430872,
+          "challenge_id": 43161
+        },
+        "430873": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911196,
+          "correct_answer": 911196,
+          "result_answer": {
+            "911196": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 430873,
+          "challenge_id": 43161
+        },
+        "430874": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911198,
+          "correct_answer": 911198,
+          "result_answer": {
+            "911198": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 430874,
+          "challenge_id": 43161
+        },
+        "430876": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911201,
+          "correct_answer": 911201,
+          "result_answer": {
+            "911201": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 430876,
+          "challenge_id": 43161
+        },
+        "430877": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911202,
+          "correct_answer": 911202,
+          "result_answer": {
+            "911202": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 430877,
+          "challenge_id": 43161
+        },
+        "430878": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911205,
+          "correct_answer": 911205,
+          "result_answer": {
+            "911205": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 430878,
+          "challenge_id": 43161
+        },
+        "430879": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911206,
+          "correct_answer": 911206,
+          "result_answer": {
+            "911206": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 430879,
+          "challenge_id": 43161
+        },
+        "430880": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911208,
+          "correct_answer": 911208,
+          "result_answer": {
+            "911208": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 430880,
+          "challenge_id": 43161
+        },
+        "430881": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 911211,
+          "correct_answer": 911211,
+          "result_answer": {
+            "911211": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 430881,
+          "challenge_id": 43161
+        },
+        "430883": {
+          "total_question": 4,
+          "total_correct_result_answer": 4,
+          "user_answer": {
+            "input_0": "drive",
+            "input_1": "traffic",
+            "input_2": "easier",
+            "input_3": "fares"
+          },
+          "correct_answer": {
+            "input_0": [
+              "drive"
+            ],
+            "input_1": [
+              "traffic"
+            ],
+            "input_2": [
+              "easier"
+            ],
+            "input_3": [
+              "fares"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 430883,
+          "challenge_id": 43161
+        },
+        "430884": {
+          "total_question": 5,
+          "total_correct_result_answer": 5,
+          "user_answer": {
+            "input_0": "problem",
+            "input_1": "every day",
+            "input_2": "government",
+            "input_3": "center",
+            "input_4": "twice"
+          },
+          "correct_answer": {
+            "input_0": [
+              "problem"
+            ],
+            "input_1": [
+              "every day"
+            ],
+            "input_2": [
+              "government"
+            ],
+            "input_3": [
+              "center",
+              "centre"
+            ],
+            "input_4": [
+              "twice"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 430884,
+          "challenge_id": 43161
+        },
+        "430885": {
+          "total_question": 4,
+          "total_correct_result_answer": 4,
+          "user_answer": {
+            "input_0": "Traffic",
+            "input_1": "slowly",
+            "input_2": "driving",
+            "input_3": "downtown"
+          },
+          "correct_answer": {
+            "input_0": [
+              "Traffic"
+            ],
+            "input_1": [
+              "slowly"
+            ],
+            "input_2": [
+              "driving"
+            ],
+            "input_3": [
+              "downtown"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 430885,
+          "challenge_id": 43161
+        },
+        "430886": {
+          "total_question": 4,
+          "total_correct_result_answer": 4,
+          "user_answer": {
+            "input_0": "Air pollution",
+            "input_1": "government",
+            "input_2": "streets",
+            "input_3": "electricity"
+          },
+          "correct_answer": {
+            "input_0": [
+              "Air pollution"
+            ],
+            "input_1": [
+              "government"
+            ],
+            "input_2": [
+              "streets"
+            ],
+            "input_3": [
+              "electricity"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 430886,
+          "challenge_id": 43161
+        },
+        "430887": {
+          "total_question": 11,
+          "total_correct_result_answer": 11,
+          "user_answer": {
+            "input_0": "ùn tắc giao thông",
+            "input_1": "ùn lại / tắc lại",
+            "input_2": "hành trình / chuyến đi",
+            "input_3": "bị hỏng, chết máy",
+            "input_4": "rất nhiều",
+            "input_5": "đường một chiều",
+            "input_6": "làn đường dành cho xe buýt",
+            "input_7": "nộp tiền phạt",
+            "input_8": "một vấn đề lớn / nghiêm trọng",
+            "input_9": "khuyến khích",
+            "input_10": "xe buýt không gây ô nhiễm"
+          },
+          "correct_answer": {
+            "input_0": [
+              ""
+            ],
+            "input_1": [
+              ""
+            ],
+            "input_2": [
+              ""
+            ],
+            "input_3": [
+              ""
+            ],
+            "input_4": [
+              ""
+            ],
+            "input_5": [
+              ""
+            ],
+            "input_6": [
+              ""
+            ],
+            "input_7": [
+              ""
+            ],
+            "input_8": [
+              ""
+            ],
+            "input_9": [
+              ""
+            ],
+            "input_10": [
+              ""
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true,
+            "input_10": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 430887,
+          "challenge_id": 43161
+        },
+        "430888": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://drive.google.com/file/d/1W86dA84mnF0YtDOe9_lL7HfHtXWgEXFl/view?usp=drive_link",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 430888,
+          "challenge_id": 43161
+        }
+      }
+    }
+  ]
+}

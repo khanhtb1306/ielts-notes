@@ -1,0 +1,611 @@
+{
+  "listItem": {
+    "id": "92767",
+    "challenge_id": 42073,
+    "class_id": "17854888961d6295u45597",
+    "day": 2,
+    "deadline": "2026-09-16 22:02:00",
+    "challenge_title": "[IELTS FOUNDATION A] - Lesson 2 - Challenge 1",
+    "challenge_note": "Vocabulary: Shopping - Cập nhật 07/2026",
+    "challenge_status": 1,
+    "challenge_band": "1614338637844l3v19753u",
+    "total_question": 33,
+    "classification": "dc"
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "92767",
+        "challenge_id": 42073,
+        "class_id": "17854888961d6295u45597",
+        "day": 2,
+        "deadline": "2026-09-16 22:02:00",
+        "flag_status_mark": 1,
+        "flag_not_submit": 1,
+        "created": "2026-09-14 22:03:11",
+        "created_by": null,
+        "challenge": {
+          "id": "42073",
+          "title": "[IELTS FOUNDATION A] - Lesson 2 - Challenge 1",
+          "note": "Vocabulary: Shopping - Cập nhật 07/2026",
+          "day": "2",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "1614338637844l3v19753u",
+          "created": "2026-09-14 22:03:05",
+          "updated": null,
+          "created_by": "932ca35d-1c19-425e-a76f-90a036b47691",
+          "updated_by": null,
+          "total_question": 33,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 15970
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 641473,
+        "class_challenge_id": 92767,
+        "class_id": "17854888961d6295u45597",
+        "challenge_id": 42073,
+        "cts_id": "1787535458idhr0hjlmnp5",
+        "rate": 1,
+        "comment": "<p>Hi Khánh, bài này mình làm tốt rồi nha. Em nhớ check lại đáp àn bài viết câu nhé.</p>",
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": "graded",
+        "status_mark_date": "2026-09-17 15:37:16",
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": "1779875378vawpfok6ii4u",
+        "updated": "2026-09-17 15:37:16",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-09-15 22:21:58",
+        "correct_answer": 33,
+        "marked_by": "8aa9d6fa-1c74-4ed2-8564-f7ef6db8694d",
+        "submitted_at": "2026-09-15 22:21:58",
+        "re_submitted_at": null,
+        "answers": {
+          "418379": {
+            "total_question": 10,
+            "total_correct_result_answer": 10,
+            "user_answer": {
+              "input_0": "making a purchase",
+              "input_1": "material and quality",
+              "input_2": "sizes and colors",
+              "input_3": "try clothes on",
+              "input_4": "physical stores",
+              "input_5": "window-shop",
+              "input_6": "catch up",
+              "input_7": "shopping malls",
+              "input_8": "social activity",
+              "input_9": "quality time"
+            },
+            "correct_answer": {
+              "input_0": [
+                "making a purchase"
+              ],
+              "input_1": [
+                "material and quality"
+              ],
+              "input_2": [
+                "sizes and colors"
+              ],
+              "input_3": [
+                "try clothes on"
+              ],
+              "input_4": [
+                "physical stores"
+              ],
+              "input_5": [
+                "window-shop"
+              ],
+              "input_6": [
+                "catch up"
+              ],
+              "input_7": [
+                "shopping malls"
+              ],
+              "input_8": [
+                "social activity"
+              ],
+              "input_9": [
+                "quality time"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 418379,
+            "challenge_id": 42073
+          },
+          "418380": {
+            "total_question": 7,
+            "total_correct_result_answer": 7,
+            "user_answer": {
+              "11911": [
+                {
+                  "id": 11873,
+                  "content": "especially after a long day of studying or working."
+                }
+              ],
+              "11912": [
+                {
+                  "id": 11874,
+                  "content": "because it helps me avoid spending too much money on unnecessary things."
+                }
+              ],
+              "11913": [
+                {
+                  "id": 11875,
+                  "content": "as I can check other people’s opinions and make a better decision."
+                }
+              ],
+              "11914": [
+                {
+                  "id": 11876,
+                  "content": "have spent a lot of money on the newest models of all smartphone brands."
+                }
+              ],
+              "11915": [
+                {
+                  "id": 11877,
+                  "content": "because they offer lower prices and attractive promotions."
+                }
+              ],
+              "11916": [
+                {
+                  "id": 11878,
+                  "content": "since it’s a great way to catch up with them and have fun at the same time."
+                }
+              ],
+              "11917": [
+                {
+                  "id": 11879,
+                  "content": "because people can see and try the products before buying."
+                }
+              ]
+            },
+            "correct_answer": {
+              "11911": [
+                11873
+              ],
+              "11912": [
+                11874
+              ],
+              "11913": [
+                11875
+              ],
+              "11914": [
+                11876
+              ],
+              "11915": [
+                11877
+              ],
+              "11916": [
+                11878
+              ],
+              "11917": [
+                11879
+              ]
+            },
+            "result_answer": {
+              "11911": true,
+              "11912": true,
+              "11913": true,
+              "11914": true,
+              "11915": true,
+              "11916": true,
+              "11917": true
+            },
+            "has_answer_empty": [],
+            "type": 7,
+            "question_id": 418380,
+            "challenge_id": 42073
+          },
+          "418381": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "I often shop on online shopping sites because they help me save time.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 418381,
+            "challenge_id": 42073
+          },
+          "418382": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "When I buy something, I usually compare prices on different websites, so I can save money.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 418382,
+            "challenge_id": 42073
+          },
+          "418383": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "I often read customer reviews before I decide to make a purchase.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 418383,
+            "challenge_id": 42073
+          },
+          "418384": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "As a shopping lover, I often go window-shopping at shopping malls on weekends.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 418384,
+            "challenge_id": 42073
+          },
+          "418385": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "I love shopping because it makes me feel relaxed and happy. Besides, it is also a chance for me to catch up with my friends.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 418385,
+            "challenge_id": 42073
+          },
+          "418386": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "I don't like online shopping because the shipping fee is sometimes too high, especially when the delivery distance is long.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 418386,
+            "challenge_id": 42073
+          },
+          "418387": {
+            "total_question": 10,
+            "total_correct_result_answer": 10,
+            "user_answer": {
+              "input_0": "relaxing",
+              "input_1": "compare",
+              "input_2": "stress",
+              "input_3": "books",
+              "input_4": "quiet",
+              "input_5": "coffee",
+              "input_6": "experience",
+              "input_7": "alone",
+              "input_8": "quickly",
+              "input_9": "mall"
+            },
+            "correct_answer": {
+              "input_0": [
+                "relaxing"
+              ],
+              "input_1": [
+                "compare"
+              ],
+              "input_2": [
+                "stress"
+              ],
+              "input_3": [
+                "books"
+              ],
+              "input_4": [
+                "quiet"
+              ],
+              "input_5": [
+                "coffee"
+              ],
+              "input_6": [
+                "experience"
+              ],
+              "input_7": [
+                "alone"
+              ],
+              "input_8": [
+                "quickly"
+              ],
+              "input_9": [
+                "mall"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 418387,
+            "challenge_id": 42073
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 113002,
+          "content": "<p style=\"line-height: 1.5;\"><span style=\"font-size: 18pt; font-family: arial, helvetica, sans-serif;\"><strong><span style=\"background-color: #ba372a; color: #ffffff;\"> I. VOCABULARY </span></strong></span></p>\n<p style=\"line-height: 1.5;\"><span id=\"docs-internal-guid-4aa08501-7fff-54d5-31f8-09efa956281d\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #ba372a;\">Exercise 1</span></span></span></p>\n<p style=\"line-height: 1.5;\"><span id=\"docs-internal-guid-4aa08501-7fff-54d5-31f8-09efa956281d\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Choose the suitable words/phrases in the box to complete this short blog. </span><em><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Chọn từ/cụm từ phù hợp trong hộp để hoàn thành đoạn blog sau.)</span></em></span></p>\n<table style=\"border-collapse: collapse; width: 99.9668%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 20.0133%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">physical stores</span></td>\n<td style=\"width: 20.0133%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">social activity</span></td>\n<td style=\"width: 20.0133%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">making a purchase</span></td>\n<td style=\"width: 20.0133%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">catch up </span></td>\n<td style=\"width: 19.9386%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">sizes and colors</span></td>\n</tr>\n<tr>\n<td style=\"width: 20.0133%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">material and quality</span></td>\n<td style=\"width: 20.0133%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">try clothes on</span></td>\n<td style=\"width: 20.0133%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">quality time </span></td>\n<td style=\"width: 20.0133%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">shopping malls </span></td>\n<td style=\"width: 19.9386%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">window-shop</span></td>\n</tr>\n</tbody>\n</table>\n<p style=\"line-height: 1.5;\"><span style=\"color: #ba372a; font-family: arial, helvetica, sans-serif;\"><strong><span id=\"docs-internal-guid-2f085a40-7fff-79cf-b723-a0dd647120dd\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 2</span></span></strong></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span id=\"docs-internal-guid-2f085a40-7fff-79cf-b723-a0dd647120dd\"><span style=\"font-size: 12pt; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Complete each sentence with the correct ending. </span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><em>(Nối vế câu phù hợp để hoàn thiện câu.)</em></span></span></span></p>\n<p><span style=\"color: #ba372a; font-family: arial, helvetica, sans-serif;\"><strong>Exercise 3</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Translate these sentences into English using the suggested words. You can change the form if necessary. </strong><em>(Dịch các câu sau sang tiếng Anh sử dụng từ gợi ý. Có thể thay đổi dạng từ nếu cần.)</em></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"color: #ba372a; font-family: arial, helvetica, sans-serif;\"><strong>Exercise 4</strong></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Listen and fill in the gaps with ONE WORD.</strong> <em>(Nghe và điền vào chỗ trống với 1 TỪ.)</em></span></p>\n<p style=\"line-height: 1.5;\">1. <audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1773810517.mp3\" controls=\"controls\"> Your browser does not support the audio element. </audio> </p>\n<p style=\"line-height: 1.5;\">2. <audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1773810527.mp3\" controls=\"controls\"> Your browser does not support the audio element. </audio> </p>\n<p style=\"line-height: 1.5;\">3. <audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1773810539.mp3\" controls=\"controls\"> Your browser does not support the audio element. </audio></p>\n<p style=\"line-height: 1.5;\"> </p>\n<p style=\"padding-left: 40px; line-height: 1.5;\"> </p>\n<p style=\"padding-left: 40px; line-height: 1.5;\"> </p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 42073,
+          "id": 418379,
+          "name": null,
+          "title": "I. VOCABULARY",
+          "content": "<table style=\"border-collapse: collapse; width: 100%; height: 57.625px; background-color: #fbeeb8; border-color: #f1c40f;\" border=\"1\" cellspacing=\"2\" cellpadding=\"5\">\n<tbody>\n<tr style=\"height: 30.3056px;\">\n<td style=\"width: 19.5045%; height: 30.3056px; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">physical stores</span></td>\n<td style=\"width: 19.5045%; height: 30.3056px; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">social activity</span></td>\n<td style=\"width: 19.5045%; height: 30.3056px; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">making a purchase</span></td>\n<td style=\"width: 19.5045%; height: 30.3056px; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">catch up</span></td>\n<td style=\"width: 19.511%; height: 30.3056px; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">sizes and colors</span></td>\n</tr>\n<tr style=\"height: 27.3194px;\">\n<td style=\"width: 19.5045%; height: 27.3194px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">material and quality</span></td>\n<td style=\"width: 19.5045%; height: 27.3194px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">try clothes on</span></td>\n<td style=\"width: 19.5045%; height: 27.3194px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">quality time</span></td>\n<td style=\"width: 19.5045%; height: 27.3194px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">shopping malls</span></td>\n<td style=\"width: 19.511%; height: 27.3194px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">window-shop</span></td>\n</tr>\n</tbody>\n</table>",
+          "explain": "<p><span style=\"color: #000000; font-family: arial, helvetica, sans-serif;\">In-store shopping has several benefits for customers. Firstly, it allows people to check products carefully before making a purchase. Customers can touch the products and feel their material and quality in real life. They can also check the true sizes and colors of the items they want to buy. For example, shoppers can try clothes on to make sure they fit well and look good on them. Secondly, shopping in physical stores gives people a chance to window-shop and catch up with friends. Many people enjoy walking around shopping malls and looking at different products even when they do not plan to buy anything. As a result, shopping can become an enjoyable social activity that helps people relax and spend quality time with friends.</span></p>\n<p data-start=\"0\" data-end=\"434\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>(Mua sắm tại cửa hàng mang lại nhiều lợi ích cho khách hàng. Đầu tiên, nó cho phép mọi người kiểm tra sản phẩm một cách cẩn thận trước khi đưa ra quyết định mua hàng. Khách hàng có thể chạm vào sản phẩm và cảm nhận chất liệu và chất lượng của chúng trong thực tế. Họ cũng có thể kiểm tra kích cỡ và màu sắc thực tế của những món đồ mà họ muốn mua. Ví dụ, người mua sắm có thể thử quần áo để đảm bảo chúng vừa vặn và trông đẹp khi mặc. Thứ hai, mua sắm tại các cửa hàng truyền thống mang đến cho mọi người cơ hội xem hàng hóa mà không nhất thiết phải mua và gặp gỡ, trò chuyện với bạn bè. Nhiều người thích đi dạo quanh các trung tâm mua sắm và xem các sản phẩm khác nhau ngay cả khi họ không có ý định mua bất cứ thứ gì. Nhờ đó, mua sắm có thể trở thành một hoạt động xã hội thú vị, giúp mọi người thư giãn và dành thời gian chất lượng bên bạn bè.)</em></span></p>",
+          "introduction": "<p><span id=\"docs-internal-guid-cc8ad731-7fff-1547-ce50-0a7e0a3d4bf2\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #ba372a;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 1</span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span id=\"docs-internal-guid-cc8ad731-7fff-1547-ce50-0a7e0a3d4bf2\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Choose the suitable words/phrases in the box to complete this short blog.</span><em><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> (Chọn từ/cụm từ phù hợp trong hộp để hoàn thành đoạn blog ngắn sau.)</span></em></span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 101547,
+              "content": "<p style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Benefits of In-store Shopping</strong></span></p>\n<p data-start=\"205\" data-end=\"597\"><span style=\"font-family: arial, helvetica, sans-serif;\">In-store shopping has several benefits for customers. Firstly, it allows people to check products carefully before<span style=\"color: #ba372a;\"><strong> [input_0]</strong></span>. Customers can touch the products and feel their <span style=\"color: #ba372a;\"><strong>[input_1]</strong></span> in real life. They can also check the true <span style=\"color: #ba372a;\"><strong>[input_2]</strong></span> of the items they want to buy. For example, shoppers can <span style=\"color: #ba372a;\"><strong>[input_3] </strong></span>to make sure they fit well and look good on them. Secondly, shopping in <span style=\"color: #ba372a;\"><strong>[input_4]</strong></span> gives people a chance to <span style=\"color: #ba372a;\"><strong>[input_5]</strong></span> and <span style=\"color: #ba372a;\"><strong>[input_6] </strong></span>with friends. Many people enjoy walking around <span style=\"color: #ba372a;\"><strong>[input_7] </strong></span>and looking at different products even when they do not plan to buy anything. As a result, shopping can become an enjoyable<span style=\"color: #ba372a;\"> <strong>[input_8]</strong></span> that helps people relax an<span style=\"color: #000000;\">d </span><span style=\"color: #ba372a;\"><span style=\"color: #000000;\">spend <span style=\"color: #ba372a;\"><strong><strong>[input_9]</strong></span></span> </strong></span>with friends.</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42073,
+          "id": 418380,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": "<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #ba372a; font-size: 12pt;\"><span id=\"docs-internal-guid-fb4c3c9a-7fff-7fb0-a823-9ac7c29acf47\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 2</span></span></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span id=\"docs-internal-guid-fb4c3c9a-7fff-7fb0-a823-9ac7c29acf47\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Complete each sentence with the correct ending. </span></span><em>(Nối vế câu phù hợp để hoàn thiện câu.)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 7,
+          "answer": {
+            "questions": [
+              {
+                "id": 11911,
+                "content": "1. For me, shopping is a good way to relax, …"
+              },
+              {
+                "id": 11912,
+                "content": "2. I always try to set a budget before shopping …"
+              },
+              {
+                "id": 11913,
+                "content": "3. Before buying something expensive, I often read customer reviews..."
+              },
+              {
+                "id": 11914,
+                "content": "4. I am a tech lover, so I…"
+              },
+              {
+                "id": 11915,
+                "content": "5. Discount seasons attract a lot of buyers…"
+              },
+              {
+                "id": 11916,
+                "content": "6. Many people enjoy shopping with friends"
+              },
+              {
+                "id": 11917,
+                "content": "7. Traditional stores are still popular…"
+              }
+            ],
+            "answers": [
+              {
+                "id": 11873,
+                "content": "especially after a long day of studying or working."
+              },
+              {
+                "id": 11874,
+                "content": "because it helps me avoid spending too much money on unnecessary things."
+              },
+              {
+                "id": 11875,
+                "content": "as I can check other people's opinions and make a better decision."
+              },
+              {
+                "id": 11876,
+                "content": "have spent a lot of money on the newest models of all smartphone brands."
+              },
+              {
+                "id": 11877,
+                "content": "because they offer lower prices and attractive promotions."
+              },
+              {
+                "id": 11878,
+                "content": "since it's a great way to catch up with them and have fun at the same time."
+              },
+              {
+                "id": 11879,
+                "content": "because people can see and try the products before buying."
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 42073,
+          "id": 418381,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">1. Tôi thường xuyên mua sắm trên các trang mua sắm online, bởi vì nó giúp tôi tiết kiệm thời gian. (online shopping sites / save time)</span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">1. I often shop on online shopping sites because it helps me save time.</span></p>",
+          "introduction": "<p><span style=\"color: #ba372a; font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Exercise 3</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Translate these sentences into English using the suggested words. You can change the form if necessary. </strong><em>(Dịch các câu sau sang tiếng Anh sử dụng từ gợi ý. Có thể thay đổi dạng từ nếu cần.)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 42073,
+          "id": 418382,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">2. Khi mua đồ, tôi thường so sánh giá trên nhiều trang web khác nhau, vì vậy tôi có thể tiết kiệm được tiền. (compare prices)</span></p>",
+          "explain": "<p data-start=\"68\" data-end=\"155\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">2. When shopping, I usually compare prices on different websites, so I can save money.</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 42073,
+          "id": 418383,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">3. Tôi thường đọc đánh giá của khách hàng trước khi quyết định mua hàng. (<span>read customer reviews / make a purchase)</span></span></p>",
+          "explain": "<p data-start=\"68\" data-end=\"155\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">3. I usually read customer reviews before making a purchase./ I usually read customer reviews before I make a purchase.</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 42073,
+          "id": 418384,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">4. Là một người thích mua sắm, tôi thường đi dạo xem đồ trong trung tâm thương mại vào cuối tuần. (<span>shopping lover / window-shop) </span></span></p>",
+          "explain": "<p data-start=\"68\" data-end=\"155\"><span style=\"font-family: arial, helvetica, sans-serif;\">4. As a shopping lover, I often window-shop at the shopping mall on weekends.</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 42073,
+          "id": 418385,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">5. Tôi yêu thích việc mua sắm vì nó giúp tôi thư giãn và làm tôi vui. Bên cạnh đó, đây cũng là cơ hội để tôi gặp gỡ, trò chuyện với bạn bè của tôi. (happy / catch up with)</span></p>",
+          "explain": "<p data-start=\"68\" data-end=\"155\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">5. I enjoy shopping because it helps me relax and makes me happy. Besides, it is also a good way for me to catch up with my friends.</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 42073,
+          "id": 418386,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">6. Tôi không thích mua sắm trực tuyến bởi vì đôi khi phí vận chuyển quá cao, đặc biệt là khi quãng đường giao hàng xa. (<span>shipping fee / delivery distance)</span></span></p>",
+          "explain": "<p data-start=\"68\" data-end=\"155\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">6. I do not like online shopping because the shipping fee is sometimes too high, especially when the delivery distance is long.</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 42073,
+          "id": 418387,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": "<p style=\"line-height: 1.5;\" data-start=\"69\" data-end=\"77\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong data-start=\"69\" data-end=\"75\">1.</strong></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Do you enjoy shopping?</strong></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">I do actually, but it's not just about buying things for me. I find it <span style=\"color: #ba372a;\"><strong>[relaxing]</strong></span> to walk around, look at displays, and <span style=\"color: #ba372a;\"><strong>[compare] </strong><span style=\"color: #000000;\">products</span></span>. It's like a mini escape from <span style=\"color: #ba372a;\"><span style=\"color: #000000;\">daily</span><strong> [stress]</strong></span>, you know.</span></p>\n<p style=\"line-height: 1.5;\" data-start=\"79\" data-end=\"112\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>(</em><strong><em>Bạn có thích mua sắm không?</em></strong></span></p>\n<p style=\"line-height: 1.5;\" data-start=\"114\" data-end=\"334\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Có, nhưng với tôi thì nó không chỉ là việc mua đồ. Tôi thấy việc đi dạo xung quanh, ngắm các gian hàng và so sánh sản phẩm khá thư giãn. Bạn biết đấy, nó giống như một cách để thoát khỏi căng thẳng hàng ngày.)</em></span></p>\n<p style=\"line-height: 1.5;\" data-start=\"341\" data-end=\"349\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong data-start=\"341\" data-end=\"347\">2.</strong></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>What kind of shopping do you like most? </strong></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Hmm. I'd say I love <span style=\"color: #ba372a;\"><span style=\"color: #000000;\">shopping for</span><strong><span style=\"color: #000000;\"> </span>[books]</strong></span>. There's something about browsing in a <span style=\"color: #ba372a;\"><strong>[quiet] </strong><span style=\"color: #000000;\">bookshop</span></span>, maybe with a <span style=\"color: #ba372a;\"><strong>[coffee]</strong></span> in hand, that just feels right. Even if I don't buy anything, I <span style=\"color: #ba372a;\"><span style=\"color: #000000;\">enjoy the <span style=\"color: #ba372a;\"><strong>[</strong></span></span><strong>experience]</strong></span>. </span></p>\n<p style=\"line-height: 1.5;\" data-start=\"351\" data-end=\"389\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>(<strong data-start=\"351\" data-end=\"387\">Bạn thích kiểu mua sắm nào nhất?</strong></em></span></p>\n<p style=\"line-height: 1.5;\" data-start=\"391\" data-end=\"614\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Hmm, tôi nghĩ là tôi thích mua sách. Có điều gì đó rất thú vị khi dạo quanh trong một hiệu sách yên tĩnh, có thể cầm một ly cà phê trên tay, cảm giác rất tuyệt. Ngay cả khi tôi không mua gì, tôi vẫn tận hưởng trải nghiệm đó.)</em></span></p>\n<p style=\"line-height: 1.5;\" data-start=\"621\" data-end=\"629\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong data-start=\"621\" data-end=\"627\">3.</strong></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Do you prefer shopping alone or with others?</strong></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">I usually <span style=\"color: #ba372a;\"><span style=\"color: #000000;\">shop</span><strong> [alone]</strong></span> because I can move at my own pace and decide <span style=\"color: #ba372a;\"><strong>[quickly]</strong></span>, but sometimes I enjoy going with friends, especially when <span style=\"color: #000000;\">looking for</span> <span><span style=\"color: #000000;\">gifts </span></span>or trying new restaurants in a <span style=\"color: #ba372a;\"><strong>[mall]</strong></span>.</span></p>\n<p style=\"line-height: 1.5;\" data-start=\"631\" data-end=\"683\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>(<strong data-start=\"631\" data-end=\"681\">Bạn thích mua sắm một mình hay với người khác?</strong></em></span></p>\n<p style=\"line-height: 1.5;\" data-start=\"685\" data-end=\"899\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Tôi thường mua sắm một mình vì tôi có thể di chuyển theo tốc độ của mình và quyết định nhanh chóng, nhưng đôi khi tôi cũng thích đi với bạn bè, đặc biệt là khi tìm quà hoặc thử các nhà hàng mới trong trung tâm thương mại.)</em></span></p>",
+          "introduction": "<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #ba372a;\"><span style=\"font-size: 12pt; font-weight: bold; white-space-collapse: preserve;\">Exercise 4</span></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-weight: bold; white-space-collapse: preserve;\">Listen and fill in the gaps with ONE WORDS. </span><span style=\"font-size: 12pt;\"><em>(Nghe và điền vào chỗ trống với 1 TỪ.)</em></span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 101548,
+              "content": "<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">1. </span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Do you enjoy shopping?</strong></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">I do actually, but it's not just about buying things for me. I find it <span style=\"color: #ba372a;\"><strong>[input_0]</strong></span> to walk around, look at displays, and <span style=\"color: #ba372a;\"><strong>[input_1] </strong><span style=\"color: #000000;\">products</span></span>. It's like a mini escape from <span style=\"color: #ba372a;\"><span style=\"color: #000000;\">daily</span><strong> [input_2]</strong></span>, you know.</span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">2. </span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>What kind of shopping do you like most? </strong></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Hmm. I'd say I love <span style=\"color: #ba372a;\"><span style=\"color: #000000;\">shopping for</span><strong> [input_3]</strong></span>. There's something about browsing in a <span style=\"color: #ba372a;\"><strong>[input_4] </strong><span style=\"color: #000000;\">bookshop</span></span>, maybe with a <span style=\"color: #ba372a;\"><strong>[input_5]</strong></span> in hand, that just feels right. Even if I don't buy anything, I <span style=\"color: #ba372a;\"><span style=\"color: #000000;\">enjoy the</span><strong> [input_6]</strong></span>. </span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">3. </span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Do you prefer shopping alone or with others?</strong></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">I usually <span style=\"color: #ba372a;\"><span style=\"color: #000000;\">shop</span><strong> [input_7]</strong></span> because I can move at my own pace and decide <span style=\"color: #ba372a;\"><strong>[input_8]</strong></span>, but sometimes I enjoy going with friends, especially when <span style=\"color: #000000;\">looking for gifts </span>or trying new restaurants in a <span style=\"color: #ba372a;\"><strong>[input_9]</strong></span>.</span></p>"
+            }
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

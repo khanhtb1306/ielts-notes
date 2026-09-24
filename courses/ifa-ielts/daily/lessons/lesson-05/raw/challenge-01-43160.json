@@ -1,0 +1,868 @@
+{
+  "listItem": {
+    "id": "93811",
+    "challenge_id": 43160,
+    "class_id": "17854888961d6295u45597",
+    "day": 8,
+    "deadline": "2026-09-23 22:33:00",
+    "challenge_title": "[IELTS FOUNDATION A] - Lesson 5 - Challenge 1",
+    "challenge_note": "Vocabulary - Grammar (Future tense) - Cập nhật  07/2026",
+    "challenge_status": 1,
+    "challenge_band": "1614338637844l3v19753u",
+    "total_question": 32,
+    "classification": "dc"
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "93811",
+        "challenge_id": 43160,
+        "class_id": "17854888961d6295u45597",
+        "day": 8,
+        "deadline": "2026-09-23 22:33:00",
+        "flag_status_mark": 0,
+        "flag_not_submit": 0,
+        "created": "2026-09-21 22:34:30",
+        "created_by": null,
+        "challenge": {
+          "id": "43160",
+          "title": "[IELTS FOUNDATION A] - Lesson 5 - Challenge 1",
+          "note": "Vocabulary - Grammar (Future tense) - Cập nhật  07/2026",
+          "day": "8",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "1614338637844l3v19753u",
+          "created": "2026-09-21 22:34:19",
+          "updated": null,
+          "created_by": "932ca35d-1c19-425e-a76f-90a036b47691",
+          "updated_by": null,
+          "total_question": 32,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 16943
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 649286,
+        "class_challenge_id": 93811,
+        "class_id": "17854888961d6295u45597",
+        "challenge_id": 43160,
+        "cts_id": "1787535458idhr0hjlmnp5",
+        "rate": 0,
+        "comment": null,
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": null,
+        "status_mark_date": null,
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": "1779875378vawpfok6ii4u",
+        "updated": "2026-09-22 21:56:28",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-09-22 21:55:38",
+        "correct_answer": 31,
+        "marked_by": null,
+        "submitted_at": "2026-09-22 21:55:38",
+        "re_submitted_at": null,
+        "answers": {
+          "430843": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 911140,
+            "correct_answer": 911140,
+            "result_answer": {
+              "911140": true
+            },
+            "has_answer_empty": false,
+            "type": 3,
+            "question_id": 430843,
+            "challenge_id": 43160
+          },
+          "430844": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 911141,
+            "correct_answer": 911141,
+            "result_answer": {
+              "911141": true
+            },
+            "has_answer_empty": false,
+            "type": 3,
+            "question_id": 430844,
+            "challenge_id": 43160
+          },
+          "430845": {
+            "total_question": 1,
+            "total_correct_result_answer": 0,
+            "user_answer": 911144,
+            "correct_answer": 911143,
+            "result_answer": {
+              "911144": false
+            },
+            "has_answer_empty": false,
+            "type": 3,
+            "question_id": 430845,
+            "challenge_id": 43160
+          },
+          "430846": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 911145,
+            "correct_answer": 911145,
+            "result_answer": {
+              "911145": true
+            },
+            "has_answer_empty": false,
+            "type": 3,
+            "question_id": 430846,
+            "challenge_id": 43160
+          },
+          "430847": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 911147,
+            "correct_answer": 911147,
+            "result_answer": {
+              "911147": true
+            },
+            "has_answer_empty": false,
+            "type": 3,
+            "question_id": 430847,
+            "challenge_id": 43160
+          },
+          "430848": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 911150,
+            "correct_answer": 911150,
+            "result_answer": {
+              "911150": true
+            },
+            "has_answer_empty": false,
+            "type": 3,
+            "question_id": 430848,
+            "challenge_id": 43160
+          },
+          "430849": {
+            "total_question": 8,
+            "total_correct_result_answer": 8,
+            "user_answer": {
+              "input_0": "traffic congestion",
+              "input_1": "means of transport",
+              "input_2": "private cars",
+              "input_3": "move more smoothly",
+              "input_6": "passengers",
+              "input_7": "urban dwellers",
+              "input_4": "get stuck",
+              "input_5": "rush hour"
+            },
+            "correct_answer": {
+              "input_0": [
+                "traffic congestion"
+              ],
+              "input_1": [
+                "means of transport"
+              ],
+              "input_2": [
+                "private cars"
+              ],
+              "input_3": [
+                "move more smoothly"
+              ],
+              "input_4": [
+                "get stuck"
+              ],
+              "input_5": [
+                "rush hour"
+              ],
+              "input_6": [
+                "passengers"
+              ],
+              "input_7": [
+                "urban dwellers"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 430849,
+            "challenge_id": 43160
+          },
+          "430850": {
+            "total_question": 7,
+            "total_correct_result_answer": 7,
+            "user_answer": {
+              "input_0": "HEAVY",
+              "input_1": "COMMUTERS",
+              "input_2": "INVEST",
+              "input_3": "SMOOTHLY",
+              "input_4": "ELECTRIC",
+              "input_5": "TRAVELS",
+              "input_6": "VEHICLES"
+            },
+            "correct_answer": {
+              "input_0": [
+                "heavy"
+              ],
+              "input_1": [
+                "commuters"
+              ],
+              "input_2": [
+                "invest"
+              ],
+              "input_3": [
+                "smoothly"
+              ],
+              "input_4": [
+                "electric"
+              ],
+              "input_5": [
+                "travels"
+              ],
+              "input_6": [
+                "vehicles"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 430850,
+            "challenge_id": 43160
+          },
+          "430851": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "During rush hour, people usually get stuck in traffic jams.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 430851,
+            "challenge_id": 43160
+          },
+          "430852": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "Commuters can take shortcuts to reach their destinations.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 430852,
+            "challenge_id": 43160
+          },
+          "430853": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "Advanced GPS systems can help drivers find routes easily, so driving becomes more convenient.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 430853,
+            "challenge_id": 43160
+          },
+          "430854": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "To reduce pollution, cities should encourage people to use pollution-free vehicles because this can improve the environment.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 430854,
+            "challenge_id": 43160
+          },
+          "430855": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "The government is investing in building better roads, and this can help reduce traffic problems in the city.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 430855,
+            "challenge_id": 43160
+          },
+          "430857": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 911151,
+            "correct_answer": 911151,
+            "result_answer": {
+              "911151": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 430857,
+            "challenge_id": 43160
+          },
+          "430858": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 911155,
+            "correct_answer": 911155,
+            "result_answer": {
+              "911155": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 430858,
+            "challenge_id": 43160
+          },
+          "430859": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 911158,
+            "correct_answer": 911158,
+            "result_answer": {
+              "911158": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 430859,
+            "challenge_id": 43160
+          },
+          "430860": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 911162,
+            "correct_answer": 911162,
+            "result_answer": {
+              "911162": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 430860,
+            "challenge_id": 43160
+          },
+          "430861": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 911165,
+            "correct_answer": 911165,
+            "result_answer": {
+              "911165": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 430861,
+            "challenge_id": 43160
+          },
+          "430862": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "https://drive.google.com/file/d/1BjvD9nh5aSTLkDyYLUHJ4R9f73oApA30/view?usp=drive_link",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 430862,
+            "challenge_id": 43160
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 115695,
+          "content": "<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff; text-align: justify; line-height: 2;\"><span style=\"font-size: 18pt;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #ffffff; box-sizing: border-box; background-color: #ba372a;\"> VOCABULARY </span><span style=\"box-sizing: border-box;\"><span style=\"color: #000000; box-sizing: border-box;\"> </span></span></span></strong></span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff; text-align: justify; line-height: 2;\"><span style=\"font-size: 18pt;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box;\"><span style=\"color: #ba372a;\">TRANSPORT</span></span></span></span></strong></span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff; text-align: justify; line-height: 2;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em style=\"box-sizing: border-box;\">*HV ôn tập lại từ vựng trước khi làm các bài tập phía sau</em></span></p>\n<table style=\"border-collapse: collapse; width: 99.9696%; height: 1466.59px; background-color: #ffffff; border-color: #f8cac6;\" border=\"1\">\n<tbody style=\"box-sizing: border-box; border-style: solid; border-width: inherit;\">\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 50.5339px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 50.5339px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">1. </span></span><span style=\"white-space-collapse: preserve;\"><strong>Means of transport </strong>/miːnz əv ˈtræn.spɔːt/</span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 50.5339px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">phương tiện giao thông</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 50.5339px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 50.5339px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">2. </span></span><span style=\"white-space-collapse: preserve;\"><strong>Public transport </strong>/ˈpʌb.lɪk ˈtræn.spɔːt/</span> </span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 50.5339px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">phương tiện công cộng </span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 41.25px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">3. </span></span><span style=\"white-space-collapse: preserve;\"><strong>Private transport </strong>/ˈpraɪ.vət ˈtræn.spɔːt/</span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">phương tiện cá nhân</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 54.9219px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 54.9219px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">4. </span></span><span style=\"white-space-collapse: preserve;\"><strong>Take the bus</strong> /teɪk ðə bʌs/ - <strong>Take the subway</strong> /teɪk ðə ˈsʌb.weɪ/</span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 54.9219px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">đi xe buýt/tàu điện ngầm</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 41.25px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">5. </span></span><span style=\"white-space-collapse: preserve;\"><strong>Commute </strong>/kəˈmjuːt/</span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">di chuyển tới đâu</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 54.9219px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 54.9219px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">6.</span></span><span style=\"white-space-collapse: preserve;\"><strong>Rush hour </strong>/rʌʃ aʊər/ = <strong>Peak hour</strong> /piːk aʊər/</span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 54.9219px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">giờ cao điểm</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 67.6172px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 67.6172px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">7. </span></span><span style=\"white-space-collapse: preserve;\"><strong>Traffic jam = Traffic congestion<br /></strong>/ˈtræf.ɪk dʒæm/ = /ˈtræf.ɪk kənˈdʒes.tʃən/</span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 67.6172px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">tắc đường</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 41.25px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">8. </span></span><span style=\"white-space-collapse: preserve;\"><strong>Exhaust fumes </strong>/ɪɡˈzɔːst fjuːmz/</span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">khí thải </span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 41.25px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">9. </span></span><span style=\"white-space-collapse: preserve;\"><strong>Move smoothly </strong>/muːv ˈsmuːð.li/</span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">di chuyển thông suốt</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 41.25px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">10. </span></span><span style=\"white-space-collapse: preserve;\"><strong>Move slowly</strong> /muːv ˈsləʊ.li/</span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">di chuyển chậm</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 41.25px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">11. </span></span><span style=\"white-space-collapse: preserve;\"><strong>Accommodate </strong>/əˈkɒm.ə.deɪt/ </span><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br style=\"box-sizing: border-box;\" /></span></span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">chứa (đồ/người)</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 41.25px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">12.</span></span><span style=\"white-space-collapse: preserve;\"><strong> Carry </strong>/ˈkær.i/</span><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br style=\"box-sizing: border-box;\" /></span></span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">chở, mang</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 54.9219px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 54.9219px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">13. </span></span><span style=\"white-space-collapse: preserve;\"><strong>Take shortcuts </strong>/teɪk ˈʃɔːt.kʌts/</span><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br style=\"box-sizing: border-box;\" /></span></span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 54.9219px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">đi lối tắt</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 54.9219px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 54.9219px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">14. </span></span><span style=\"white-space-collapse: preserve;\"><strong>Keep something out of something </strong>/kiːp aʊt əv/</span><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br style=\"box-sizing: border-box;\" /></span></span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 54.9219px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">giữ cái gì bên ngoài cái gì</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 54.9219px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 54.9219px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">15. </span></span><span style=\"white-space-collapse: preserve;\"><strong>Provide comfortable travel</strong> /prəˈvaɪd ˈkʌm.fə.tə.bəl ˈtræv.əl/</span><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br style=\"box-sizing: border-box;\" /></span></span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 54.9219px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">đem lại chuyến đi thoải mái</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 80.7422px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 80.7422px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">16. </span></span><span style=\"white-space-collapse: preserve;\"><strong>Pollution-free vehicles </strong>/pəˈluː.ʃən friː ˈvɪə.kəlz/</span><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><br style=\"box-sizing: border-box;\" /></span></span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 80.7422px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">phương tiện không gây ô nhiễm </span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 41.25px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">17. U</span></span><span style=\"white-space-collapse: preserve;\"><strong>rban dwellers /</strong></span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ˈɜːbᵊn</span><span style=\"color: #373737; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ˈdwɛləz</span><strong style=\"white-space-collapse: preserve;\">/</strong><span style=\"white-space-collapse: preserve;\"><strong> </strong></span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">người dân thành phố</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 41.25px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">18. E</span></span><span style=\"white-space-collapse: preserve;\"><strong>xpress train /</strong></span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ɪkˈsprɛs</span><span style=\"color: #373737; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">treɪn</span><strong style=\"white-space-collapse: preserve;\">/</strong><span style=\"white-space-collapse: preserve;\"><strong> </strong></span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">tàu siêu tốc</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 41.25px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">19. P</span></span><span style=\"white-space-collapse: preserve;\"><strong>lan for /</strong></span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">plæn</span><span style=\"color: #373737; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">fɔː</span><strong style=\"white-space-collapse: preserve;\">/</strong></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">lên kế hoạch cho cái gì</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 41.25px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">20. R</span></span><span style=\"white-space-collapse: preserve;\"><strong>oad construction /</strong></span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">rəʊd</span><span style=\"color: #373737; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">kənˈstrʌkʃᵊn</span><strong style=\"white-space-collapse: preserve;\">/ </strong><span style=\"white-space-collapse: preserve;\"><strong> </strong></span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">công trình đường bộ</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 54.9219px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 54.9219px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">21. S</span></span><span style=\"white-space-collapse: preserve;\"><strong>erious accident /</strong></span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ˈsɪəriəs</span><span style=\"color: #373737; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ˈæksɪdᵊnt</span><strong style=\"white-space-collapse: preserve;\">/</strong><span style=\"white-space-collapse: preserve;\"><strong> </strong></span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 54.9219px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">tai nạn nghiêm trọng</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 50.5339px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 50.5339px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">22. A</span></span><span style=\"white-space-collapse: preserve;\"><strong>dvanced GPS system /</strong></span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ədˈvɑːnst</span><span style=\"color: #373737; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ʤiː-piː-ɛs</span><span style=\"color: #373737; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ˈsɪstəm</span><strong style=\"white-space-collapse: preserve;\">/</strong><span style=\"white-space-collapse: preserve;\"><strong> </strong></span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 50.5339px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">hệ thống định vị nâng cao</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 54.9219px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 54.9219px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">23. E</span></span><span style=\"white-space-collapse: preserve;\"><strong>nable somebody to do something /</strong></span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ɪˈneɪbᵊl</span><span style=\"color: #373737; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ˈsʌmbədi</span><span style=\"color: #373737; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">tuː</span><span style=\"color: #373737; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\"><a id=\"do2_val\" style=\"box-sizing: border-box; color: #2083df; text-decoration-line: none; background-color: transparent;\" title=\"\" href=\"https://tophonetics.com/\" data-toggle=\"tooltip\" data-html=\"true\" data-original-title=\"1. [duː]: <i>verb, noun</i><br />2. [dəʊ]: <i>noun</i>\">duː</a></span><span style=\"color: #373737; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ˈsʌmθɪŋ</span><strong style=\"white-space-collapse: preserve;\">/ </strong><span style=\"white-space-collapse: preserve;\"><strong> </strong></span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 54.9219px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">cho phép ai đó làm gì</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 50.5339px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 50.5339px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">24. I</span></span><span style=\"white-space-collapse: preserve;\"><strong>mplement regulations /</strong></span><span class=\"nontranscriptable\" style=\"box-sizing: border-box; font-weight: bold; color: gray; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\"><a id=\"implement2_val\" style=\"box-sizing: border-box; color: #2083df; text-decoration-line: none; background-color: transparent;\" title=\"\" href=\"https://tophonetics.com/\" data-toggle=\"tooltip\" data-html=\"true\" data-original-title=\"1. [ˈɪmplɪmənt]: <i>noun</i><br />2. [ˈɪmplɪmɛnt]: <i>verb</i>\">ˈɪmplɪmɛnt</a></span><span style=\"color: #373737; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ˌrɛɡjəˈleɪʃᵊnz</span><strong style=\"white-space-collapse: preserve;\">/</strong><span style=\"white-space-collapse: preserve;\"><strong> </strong></span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 50.5339px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">thực thi các quy định</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 41.25px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">25. I</span></span><span style=\"white-space-collapse: preserve;\"><strong>nvest in /</strong></span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ɪnˈvɛst</span><span style=\"color: #373737; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ɪn</span><strong style=\"white-space-collapse: preserve;\">/</strong><span style=\"white-space-collapse: preserve;\"><strong> </strong></span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">đầu tư vào cái gì</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 41.25px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">26. E</span></span><span style=\"white-space-collapse: preserve;\"><strong>nsure /</strong></span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ɪnˈʃɔː</span><span class=\"nontranscriptable\" style=\"box-sizing: border-box; font-weight: bold; color: gray; font-size: 15px;\">:</span><strong style=\"white-space-collapse: preserve;\">/</strong><span style=\"white-space-collapse: preserve;\"><strong> </strong></span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 41.25px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">đảm bảo</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 50.5339px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 50.5339px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">27. </span></span><span style=\"white-space-collapse: preserve;\"><strong>Pull over /</strong></span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">pʊl</span><span style=\"color: #373737; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ˈəʊvə</span><strong style=\"white-space-collapse: preserve;\">/</strong><span style=\"white-space-collapse: preserve;\"><strong> </strong></span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 50.5339px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">tạt vào tạm dừng bên đường</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 54.9219px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 54.9219px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">28. </span></span><span style=\"white-space-collapse: preserve;\"><strong>Get stuck in traffic jams /</strong></span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ɡɛt</span><span style=\"color: #373737; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">stʌk</span><span style=\"color: #373737; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ɪn</span><span style=\"color: #373737; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ˈtræfɪk</span><span style=\"color: #373737; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ʤæmz</span><strong style=\"white-space-collapse: preserve;\">/</strong><span style=\"white-space-collapse: preserve;\"><strong> </strong></span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 54.9219px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">bị kẹt xe</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; border-style: solid; border-width: inherit; height: 41.7969px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 41.7969px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">29. B</span></span><span style=\"white-space-collapse: preserve;\"><strong>umper to bumper /</strong></span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ˈbʌmpə</span><span style=\"color: #373737; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">tuː</span><span style=\"color: #373737; font-size: 15px;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px;\">ˈbʌmpə</span><strong style=\"white-space-collapse: preserve;\">/</strong><span style=\"white-space-collapse: preserve;\"><strong> </strong></span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 41.7969px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">kẹt xe thành một hàng dài xe nối đuôi nhau</span></td>\n</tr>\n<tr style=\"height: 48.138px;\">\n<td style=\"box-sizing: border-box; width: 67.4595%; height: 48.138px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span style=\"box-sizing: border-box; font-size: 12pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-weight: bolder;\">30. Commuter</span>/kəˈmjuː.tər/</span></span></span></td>\n<td style=\"box-sizing: border-box; width: 32.632%; height: 48.138px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Người đi làm/đi học hằng ngày</span></td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p><strong><span style=\"color: #ba372a; font-family: arial, helvetica, sans-serif;\"><span style=\"background-color: transparent;\">Exercise 2</span></span></strong></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #000000; background-color: transparent;\"><strong>Choose the correct words to complete the following sentences.</strong> </span><em><span style=\"color: #000000; background-color: transparent;\">(Chọn các từ phù hợp để hoàn thiện các câu sau)</span></em></span></p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 20.0129%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">means of transport</span></td>\n<td style=\"width: 20.0129%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">urban dwellers</span></td>\n<td style=\"width: 20.0129%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">traffic congestion</span></td>\n<td style=\"width: 20.0129%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">passengers</span></td>\n<td style=\"width: 19.9484%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">get stuck</span></td>\n</tr>\n<tr>\n<td style=\"width: 20.0129%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">provide comfortable travel</span></td>\n<td style=\"width: 20.0129%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">move more smoothly</span></td>\n<td style=\"width: 20.0129%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">rush hour</span></td>\n<td style=\"width: 20.0129%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">accommodate</span></td>\n<td style=\"width: 19.9484%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">private cars</span></td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ffffff; background-color: #ba372a; font-family: arial, helvetica, sans-serif;\"> GRAMMAR </span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #242938; background-color: #ffffff;\"><strong>Choose the correct answer.</strong> </span><em style=\"color: #242938; background-color: #ffffff;\">(Chọn đáp án đúng)</em></span></p>\n<p> </p>\n<div style=\"color: #242938; background-color: #ffffff;\" data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\">\n<p><span style=\"font-size: 18pt; font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #ffffff;\"><span style=\"background-color: #ba372a;\"> SHADOWING </span></span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Nghe và bắt chước lại các câu sau, bắt chước yêu cầu đúng ngữ âm, ngữ điệu và tốc độ.</span></p>\n</div>\n</div>\n<div data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\"> </div>\n</div>\n</div>\n<div style=\"color: #242938; background-color: #ffffff;\" data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">1) <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708663399.mp3\" /> A truck has overturned, and traffic is very congested.</span></p>\n</div>\n</div>\n<div data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\"> </div>\n</div>\n</div>\n<div style=\"color: #242938; background-color: #ffffff;\" data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">2) <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708663427.mp3\" /> It's bumper to bumper so avoid the bridge if you can</span></p>\n</div>\n</div>\n<div data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\"> </div>\n</div>\n</div>\n<div style=\"color: #242938; background-color: #ffffff;\" data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">3) <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708663451.mp3\" /> I guess there's so much traffic because of the big football game.</span></p>\n</div>\n</div>\n<div data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\"> </div>\n</div>\n</div>\n<div style=\"color: #242938; background-color: #ffffff;\" data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">4) <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708663484.mp3\" /> In my town, public transportation was never very good.</span></p>\n</div>\n</div>\n<div data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\"> </div>\n</div>\n</div>\n<div style=\"color: #242938; background-color: #ffffff;\" data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">5) <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708663506.mp3\" /> Well, the problem was that thousands of people drove into the city center every day, and there weren't enough parking spaces.</span></p>\n</div>\n</div>\n<div data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\"> </div>\n</div>\n</div>\n<div style=\"color: #242938; background-color: #ffffff;\" data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">6) <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708663527.mp3\" /> What's the traffic like downtown today?</span></p>\n</div>\n</div>\n<div data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\"> </div>\n</div>\n</div>\n<div style=\"color: #242938; background-color: #ffffff;\" data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">7) <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708663551.mp3\" /> Traffic was a real problem around here. It moved so slowly.</span></p>\n</div>\n</div>\n<div data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\"> </div>\n</div>\n</div>\n<div style=\"color: #242938; background-color: #ffffff;\" data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\">\n<div data-v-8899ee50=\"\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">8) <img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708663574.mp3\" /> Air pollution in our city was a huge problem and we really need to lower the pollution in our city.</span></p>\n</div>\n</div>\n</div>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 43160,
+          "id": 430843,
+          "name": null,
+          "title": "VOCABULARY",
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>1.    </strong><img style=\"margin-left: 0px; margin-top: 0px;\" src=\"https://lh7-us.googleusercontent.com/wJ9fi-drNK6CA0cbv5ZujwjHoVB7ELO5fi703Svz5Gl19dfHKRpS-hJL5ejMg1nP6s9KNZbLUaajoMKzrjGg2qRbOLllcLCG6OvMUuSPwBWDvm9vqMo9zuBwxc2FMSADB8uihd5CW27EczpTccKc1uU\" width=\"201\" height=\"133\" /></span></p>",
+          "explain": null,
+          "introduction": "<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #ba372a;\"><strong>Exercise 1<br /></strong></span><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Choose the correct words or phrases. </strong><em>(Chọn từ/cụm từ phù hợp.)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 3,
+          "answer": {
+            "answers": [
+              {
+                "id": 911139,
+                "content": "Public transport"
+              },
+              {
+                "id": 911140,
+                "content": "Private transport"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43160,
+          "id": 430844,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt;\">2.    </span></strong><img style=\"font-size: 12pt; white-space-collapse: preserve; margin-left: 0px; margin-top: 0px;\" src=\"https://lh7-us.googleusercontent.com/V0ivr34KtEHy6EAwPfuRtkeQG8BTgRAc0YyzrK2VGhb_3bpf5iY0hLX6IBelM-sudOpYxZLnn-iBXN8EFUp862BJxc1n_Zql2h3HPtpwbL778kq60X_mh2oXqWeKTYSt0Fqxw9wKp4faK7L6dXrck5E\" width=\"200\" height=\"133\" /></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 3,
+          "answer": {
+            "answers": [
+              {
+                "id": 911141,
+                "content": "Take the bus"
+              },
+              {
+                "id": 911142,
+                "content": "Take the subway"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43160,
+          "id": 430845,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>3.    </strong><img style=\"white-space-collapse: preserve; margin-left: 0px; margin-top: 0px;\" src=\"https://lh7-us.googleusercontent.com/RAVNtWCoTs1d7QvQMTRhYqSWWaG6vHYkLryqGhFNEAE_Ymq6n0NeSdqkrWhdfVjgDaERrKbxBQyMIArJM54aXqdphRxQN7jNys-ZiGaRX1XSjwLJS0AGzEkJtPGQi1mtEHgqgNFDrKerwAA9nY_6H3w\" width=\"175\" height=\"207\" /></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 3,
+          "answer": {
+            "answers": [
+              {
+                "id": 911143,
+                "content": "Back up"
+              },
+              {
+                "id": 911144,
+                "content": "Set off"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43160,
+          "id": 430846,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt;\">4. </span></strong><img style=\"font-size: 12pt; white-space-collapse: preserve; margin-left: 0px; margin-top: 0px;\" src=\"https://lh7-us.googleusercontent.com/YbZyLFDXl0p1tnU7HxkcmZ5h5CGgZA5VENEJZMKg9UHqaYwwuxItlmZCAwxPnU6P5D4IHbGHJgsvY2ZFeJfwUsWDCSIxJpK-Hq0IL9migInxFbM40yhVuUZECosPFDpxPdDuunfQWWj5NcLmThYToaA\" width=\"200\" height=\"200\" /><strong><span style=\"font-size: 12pt;\"> </span></strong></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 3,
+          "answer": {
+            "answers": [
+              {
+                "id": 911145,
+                "content": "Pull over"
+              },
+              {
+                "id": 911146,
+                "content": "Take shortcuts"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43160,
+          "id": 430847,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt;\">5.    </span></strong><img style=\"font-size: 12pt; white-space-collapse: preserve; margin-left: 0px; margin-top: 0px;\" src=\"https://lh7-us.googleusercontent.com/Z2MadTddKAXXRW_tlDdZzMMMAHlWM_ougxWFKzvUWHVl7OS80WLyVkMP4qDw5Y7vwBZ7qSgN8CJd2sylv5nF3Anw7T9DsvVQYUK7jAP7AqxM8G1rT1NdY0IkfvQmtD_Pd1jQnbk-pf6TGvHzdU_YvOs\" width=\"177\" height=\"155\" /></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 3,
+          "answer": {
+            "answers": [
+              {
+                "id": 911147,
+                "content": "Exhaust fumes"
+              },
+              {
+                "id": 911148,
+                "content": "Rush hour"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43160,
+          "id": 430848,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt;\">6.    </span></strong><img style=\"font-size: 12pt; white-space-collapse: preserve; margin-left: 0px; margin-top: 0px;\" src=\"https://lh7-us.googleusercontent.com/kbUYqAWdrot1SodNz7mrhascihwPuSskLqTQ9F-lzj9kBT7mTx6SkQ3e7kTStKMSOL1GBpB1BhBzvL5zcs36sHyUlF-AtpbasYvgz7vdnlfip4LtASv7Kx0iYb6_O-IKzSE9CKNhG4_oANz1WJ8Q4EE\" width=\"193\" height=\"193\" /></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 3,
+          "answer": {
+            "answers": [
+              {
+                "id": 911149,
+                "content": "Urban dwellers"
+              },
+              {
+                "id": 911150,
+                "content": "Road construction"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43160,
+          "id": 430849,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span id=\"docs-internal-guid-ea2da5c0-7fff-500d-5f26-0abd9de0630d\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #ba372a; font-size: 12pt;\"><span style=\"background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 2</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Choose the correct words to complete the following sentences. </span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Chọn các từ phù hợp để hoàn thiện các câu sau)</span></span></p>\n<table style=\"border-collapse: collapse; width: 100.01%; height: 94.5833px; border-color: #000000;\" border=\"2\">\n<tbody>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 28.5262%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">urban dwellers</span></td>\n<td style=\"width: 23.9756%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">traffic congestion</span></td>\n<td style=\"width: 24.9944%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">passengers</span></td>\n<td style=\"width: 22.4814%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">get stuck</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 28.5262%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">move more smoothly</span></td>\n<td style=\"width: 23.9756%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">rush hour</span></td>\n<td style=\"width: 24.9944%; height: 24.0625px;\"><span>means of transport</span></td>\n<td style=\"width: 22.4814%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">private cars</span></td>\n</tr>\n</tbody>\n</table>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 104644,
+              "content": "<p style=\"text-align: center;\"><strong>Advantages of public transport</strong></p>\n<p>There are several advantages of using public transport. One major advantage is that it helps reduce <span style=\"color: #ba372a;\"><strong>[input_0]</strong></span>. This is because when more people use buses or subways as their main <span style=\"color: #ba372a;\"><strong>[input_1]</strong></span>, there are fewer <span style=\"color: #ba372a;\"><strong>[input_2]</strong></span> on the road. As a result, traffic can <span style=\"color: #ba372a;\"><strong>[input_3]</strong></span>, and people are less likely to <span style=\"color: #ba372a;\"><strong>[input_4] </strong></span>in traffic jams during <span style=\"color: #ba372a;\"><strong>[input_5]</strong>.</span> Secondly, public transport can <span style=\"color: #000000;\">provide comfortable travel</span> for a large number of<span style=\"color: #ba372a;\"><strong> [input_6]</strong></span>. Modern systems such as buses and trains are designed to <span style=\"color: #ba372a;\"><span style=\"color: #000000;\">carry</span><strong> </strong></span>many people at the same time, which makes commuting more convenient for <span style=\"color: #ba372a;\"><strong>[input_7]</strong></span>.</p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 43160,
+          "id": 430850,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": "<p style=\"line-height: 1.5;\"><span id=\"docs-internal-guid-d49e33f6-7fff-d272-2fb0-db1456997723\" style=\"font-family: arial, helvetica, sans-serif; color: #ba372a; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 3<br /></span></span><span id=\"docs-internal-guid-d49e33f6-7fff-d272-2fb0-db1456997723\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Choose the correct word to complete the paragraph. </span><span style=\"font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Chọn từ để hoàn thiện đoạn) </span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 104645,
+              "content": "<p><span id=\"docs-internal-guid-d08b6935-7fff-74b0-2e4e-4236c9b246d0\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Traveling around Vietnam's busy streets, especially in cities like Hanoi and Ho Chi Minh City, can be quite a challenge due to [input_0]</span><span style=\"color: #cc0000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #236fa1;\">(HEAVY / LIGHT)</span> traffic. Traffic jams often occur during rush hour, which causes frustration for [input_1]</span><span style=\"color: #cc0000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #236fa1;\">(USERS / COMMUTERS)</span>. To solve these problems, it is essential to [input_2]</span><span style=\"color: #cc0000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #236fa1;\">(INVESTMENT / INVEST)</span> in infrastructure including road construction and public transportation networks. An approach that uses </span><span style=\"color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">technological </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">advancements can also be taken. For instance, an advanced GPS system enables travellers to take shortcuts and move [input_3]</span><span style=\"color: #cc0000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #236fa1;\">(SMOOTH / SMOOTHLY)</span> through the city, or [input_4]</span><span style=\"color: #cc0000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #236fa1;\">(ELECTRICITY / ELECTRIC)</span> drones offer a fast and efficient solution for short-distance [input_5]</span><span style=\"color: #cc0000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #236fa1;\">(TRAVELS / TRAVELING)</span>. Moreover, implementing </span><span style=\"color: #000000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">regulations</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #000000;\"> </span>to encourage the use of pollution-free [input_6]</span><span style=\"color: #cc0000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #236fa1;\">(VEHICULAR / VEHICLES)</span> can help reduce the environmental impact of urban transportation. </span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 43160,
+          "id": 430851,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">1. Trong giờ cao điểm, mọi người thường bị kẹt xe. <em><strong>(rush hour / get stuck in)</strong></em> </span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">1. During rush hour, people often get stuck in traffic jams. </span></p>",
+          "introduction": "<p><span style=\"color: #ba372a; font-family: arial, helvetica, sans-serif;\"><strong>Exercise 4</strong></span></p>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Translate these sentences into English using the suggested words. You can change the form if necessary. </strong><em>(Dịch các câu sau sang tiếng Anh sử dụng từ gợi ý. Có thể thay đổi dạng từ nếu cần.)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 43160,
+          "id": 430852,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">2. Người đi làm có thể đi đường tắt khi giao thông đông để đến đích nhanh hơn. <em><strong>(Commuters / take shortcuts / reach their destinations) </strong></em></span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">2. Commuters may take shortcuts when traffic is heavy to reach their destinations faster.</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 43160,
+          "id": 430853,
+          "name": null,
+          "title": null,
+          "content": "<p style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\">3. Hệ thống GPS tiên tiến có thể giúp người lái xe tìm đường dễ dàng, vì vậy việc lái xe trở nên thuận tiện hơn. (<em><strong>Advanced GPS systems / find routes / more convenient)</strong></em></span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">3. Advanced GPS systems can help drivers find routes easily, so driving becomes more convenient.</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 43160,
+          "id": 430854,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">4. Để giảm ô nhiễm, các thành phố nên khuyến khích người dân sử dụng các phương tiện không gây ô nhiễm vì điều này có thể cải thiện môi trường. <em><strong>(reduce pollution/ encourage/ pollution-free vehicles/ improve the environment) </strong></em></span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">4. To reduce pollution, cities should encourage people to use pollution-free vehicles because this can improve the environment.</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 43160,
+          "id": 430855,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">5. Chính phủ đang đầu tư vào việc xây dựng những con đường tốt hơn, và điều này có thể giúp giảm các vấn đề giao thông trong thành phố. <em><strong>(government/ invest / better roads / reduce traffic problems)</strong></em></span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">5. The government is investing in building better roads, and this can help reduce traffic problems in cities.</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 43160,
+          "id": 430856,
+          "name": null,
+          "title": "GRAMMAR",
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background-color: #ffffff;\">Choose the correct answer. </span></strong><em style=\"color: #242938; background-color: #ffffff;\">(Chọn đáp án đúng)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": null,
+          "answer": null
+        },
+        {
+          "challenge_id": 43160,
+          "id": 430857,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>1.</strong> <strong>Sam:</strong> ‘Hi Julie, the traffic is very congested, I’m afraid of being late for the class and missing the beginning of the lesson.’ </span><br style=\"color: #242938; background-color: #ffffff;\" /><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\">    <strong>Julie: </strong>‘Don’t worry, I ...................... note of important information that you’ll probably miss out on if you’re late. And I...................... you my notebook, Sam!’</span></p>",
+          "explain": "<p style=\"background-color: #ffffff;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"background-color: transparent;\">1. </span><span style=\"color: #cc0000; background-color: transparent;\">A. will take; will lend</span></span></strong></p>\r\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu đưa ra một tình huống đột ngột -&gt; các quyết định của Julie được đưa ra ngay lúc nói, không có kết hoạch trước -&gt; sử dụng thì tương lai đơn </span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 911151,
+                "content": "A. will take; will lend"
+              },
+              {
+                "id": 911152,
+                "content": "B. am going to take; am going to lend"
+              },
+              {
+                "id": 911153,
+                "content": "C. will take; am going to lend"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43160,
+          "id": 430858,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>2</strong>. We’ve booked the hotel in Vung Tau. We ...................... there for 3 days. I’ve just heard on the news that the traffic in the city is moving smoothly today, I think we ...................... stuck in traffic congestion. </span></p>",
+          "explain": "<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"background-color: transparent;\">2. </span><span style=\"color: #cc0000; background-color: transparent;\">B. are staying; are not going to get</span></strong></span></p>\r\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu 1 nói về một kế hoạch cụ thể cho tương lai gần, vì đã đặt phòng khách sạn nên dự định ở 3 ngày khá chắc chắn -&gt; hiện tại tiếp diễn</span></p>\r\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu 2 nói về một dự đoán trong tương lai, dự đoán này có cơ sở (do người nói nghe trên bản tin) -&gt; cấu trúc be going to </span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 911154,
+                "content": "A. will stay; will not get"
+              },
+              {
+                "id": 911155,
+                "content": "B. are staying; are not going to get"
+              },
+              {
+                "id": 911156,
+                "content": "C. are going to stay; will not get"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43160,
+          "id": 430859,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>3. </strong>There was an accident on the My Thuan bridge around 7 a.m, the news reporter has just predicted that traffic ...................... very slowly across the bridge till 11 a.m. I think we probably ...................... the bridge. We haven’t planned our journey yet but we ...................... another route to the city center.</span></p>",
+          "explain": "<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"background-color: transparent;\">3. </span><span style=\"color: #cc0000;\"><strong>B. is going to move; will avoid; will take</strong></span></span></p>\r\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu 1 nói về một dự đoán trong tương lai, dự đoán này có cơ sở (có một tai nạn trên cầu) -&gt; cấu trúc be going to </span></p>\r\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu 2, 3 nói về quyết định được đưa ngay lúc đó sau khi nghe được thông tin dự đoán ở trên -&gt; sử dụng thì tương lai đơn </span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 911157,
+                "content": "A. will move; will avoid; will take"
+              },
+              {
+                "id": 911158,
+                "content": "B. is going to move; will avoid; will take"
+              },
+              {
+                "id": 911159,
+                "content": "C. is moving; are going to avoid; are going to take"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43160,
+          "id": 430860,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>4. </strong>My friend who lives in Ho Chi Minh city told me that there are usually plenty of taxis around that area at night so I ...................... a taxi to go around during nighttime. However, in the early morning, when the weather is nice and pleasant, I ......................  the bike around the city. I have already rented a bike there. </span></p>",
+          "explain": "<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"background-color: transparent;\">3. </span><span style=\"color: #cc0000;\"><strong>C. am going to take; am riding</strong></span></span></p>\r\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu 1 nói về dự định trong tương lai -&gt; cấu trúc be going to </span></p>\r\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu 2 cũng đưa ra 1 dự định, tuy nhiên dự định này đã được chuẩn bị rõ ràng hơn, do người nói đã thuê xe (rented a bike) -&gt; hiện tại tiếp diễn </span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 911160,
+                "content": "A. will take; will ride"
+              },
+              {
+                "id": 911161,
+                "content": "B. am going to take; am going to ride"
+              },
+              {
+                "id": 911162,
+                "content": "C. am going to take; am riding"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43160,
+          "id": 430861,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>5. Candace</strong>: Hi Stacy, my car broke down in the middle of the city center. I don’t know what to do, I guess I ...................... for a bus, but that always takes ages. I’m very afraid of missing my important appointment with my customer.</span><br style=\"color: #242938; background-color: #ffffff;\" /><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\">    <strong>Stacy</strong>: Don’t worry Candace, I ......................  you a ride! I have a plan to meet my cousin around that area, I’m already in my car now and I ...................... downtown as well. </span></p>",
+          "explain": "<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"background-color: transparent;\">5. </span><span style=\"color: #cc0000;\"><strong>C. will wait; will give; am driving</strong></span></span></p>\r\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Trong câu 1 Candance đưa ra một dự định chưa được sắp xếp: \"I guess\" (tôi đoán) -&gt; tương lai đơn. </span></p>\r\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Stacy khi nghe thế liền đưa ra quyết định cho Candance đi nhờ  -&gt; tương lai đơn. </span></p>\r\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu 3 Stacy nói về việc mình đang đi xuống phố \"now\" (hiện tại) -&gt; hiện tại tiếp diễn </span></p>\r\n<p style=\"background-color: #ffffff;\"> </p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 911163,
+                "content": "A. will wait; will give; will drive"
+              },
+              {
+                "id": 911164,
+                "content": "B. am waiting; am going to give; am going to drive"
+              },
+              {
+                "id": 911165,
+                "content": "C. will wait; will give; am driving"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43160,
+          "id": 430862,
+          "name": null,
+          "title": "SHADOWING",
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Shadowing </strong><em>(Nghe và bắt chước)</em></span></p>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Nghe và bắt chước lại các câu sau trong bài nghe, bắt chước yêu cầu đúng ngữ âm, ngữ điệu và tốc độ. </em></span></p>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif; color: #ba372a;\"><strong>Nộp link dưới đây: </strong></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

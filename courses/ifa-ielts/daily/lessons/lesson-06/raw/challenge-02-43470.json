@@ -1,0 +1,596 @@
+{
+  "listItem": {
+    "id": "94107",
+    "challenge_id": 43470,
+    "class_id": "17854888961d6295u45597",
+    "day": 11,
+    "deadline": "2026-09-27 22:01:00",
+    "challenge_title": "[IELTS FOUNDATION A] - Lesson 6 - Challenge 2",
+    "challenge_note": "Listening + Speaking: Healthy lifestyle - Cập nhật  07/2026",
+    "challenge_status": 1,
+    "challenge_band": "1614338637844l3v19753u",
+    "total_question": null,
+    "classification": "dc"
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "94107",
+        "challenge_id": 43470,
+        "class_id": "17854888961d6295u45597",
+        "day": 11,
+        "deadline": "2026-09-27 22:01:00",
+        "flag_status_mark": 0,
+        "flag_not_submit": 0,
+        "created": "2026-09-23 22:02:04",
+        "created_by": null,
+        "challenge": {
+          "id": "43470",
+          "title": "[IELTS FOUNDATION A] - Lesson 6 - Challenge 2",
+          "note": "Listening + Speaking: Healthy lifestyle - Cập nhật  07/2026",
+          "day": "11",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "1614338637844l3v19753u",
+          "created": "2026-09-23 22:02:03",
+          "updated": null,
+          "created_by": "932ca35d-1c19-425e-a76f-90a036b47691",
+          "updated_by": null,
+          "total_question": null,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 22675
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 116429,
+          "content": "<p><span style=\"color: #ffffff; font-family: arial, helvetica, sans-serif; font-size: 18pt; background-color: #ba372a;\"><strong> LISTENING </strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #ba372a;\"><strong>Exercise 1</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #ba372a;\"><strong><audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1708415677.mp3\" controls=\"controls\"> Your browser does not support the audio element. </audio></strong></span></p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        },
+        {
+          "id": 116430,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #ba372a;\"><strong>Exercise 2</strong></span></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">1, </span></strong></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\"><audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1776745992.mp3\" controls=\"controls\"> Your browser does not support the audio element. </audio></span></strong></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">2, </span></strong></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\"><audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1776746029.mp3\" controls=\"controls\"> Your browser does not support the audio element. </audio></span></strong></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">3, </span></strong></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\"><audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1776746064.mp3\" controls=\"controls\"> Your browser does not support the audio element. </audio></span></strong></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">4, </span></strong></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\"><audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1776746096.mp3\" controls=\"controls\"> Your browser does not support the audio element. </audio></span></strong></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">5, </span></strong></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\"><audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1776746135.mp3\" controls=\"controls\"> Your browser does not support the audio element. </audio></span></strong></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">6, </span></strong></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\"><audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1776746159.mp3\" controls=\"controls\"> Your browser does not support the audio element. </audio></span></strong></p>\n<p> </p>",
+          "index": 1,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 116431,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #ba372a;\"><strong>Exercise 3</strong></span></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">1, Patrick </span></strong></p>\n<p><audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1776745727.mp3\" controls=\"controls\"> Your browser does not support the audio element. </audio></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">2, Jenna</span></strong></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\"><audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1776745762.mp3\" controls=\"controls\"> Your browser does not support the audio element. </audio></span></strong></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">3, Kenneth</span></strong> </p>\n<p><audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1776745803.mp3\" controls=\"controls\"> Your browser does not support the audio element. </audio></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">4, Alexis </span></strong></p>\n<p><audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1776745825.mp3\" controls=\"controls\"> Your browser does not support the audio element. </audio></p>",
+          "index": 2,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 116432,
+          "content": "<p style=\"text-align: justify; line-height: 2;\"><span style=\"color: #ffffff; font-family: arial, helvetica, sans-serif; font-size: 18pt; background-color: #ba372a;\"><strong> SPEAKING </strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Chuẩn bị câu trả lời cho các câu hỏi sau.</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #ba372a;\">YÊU CẦU:</span> áp</strong><strong> dụng các từ vựng chủ đề Healthy lifestyle, cấu trúc ngữ pháp đã học từ các lesson trước trong file gợi ý sau: <a href=\"https://claude.ai/public/artifacts/48fab7d0-ea9a-4e0a-bd56-7b3b62a57931\">GỢI Ý</a></strong></span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">1. Do you think you have a healthy lifestyle?</span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">2. What do you do to stay healthy?</span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">3. Are there any bad habits that you want to break?</span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">4. What do you think is more important, having a healthy diet or doing exercise?</span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">5. If you catch a cold, what do you do to help you feel better?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Sau khi chuẩn bị câu trả lời, luyện nói và QUAY VIDEO trả lời câu hỏi.</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background: white;\">Bước 1:</span></strong><span style=\"color: #242938; background: white;\"> Chọn <strong>Lesson 6</strong> trong link luyện tập sau:<strong> <a href=\"https://claude.ai/public/artifacts/62192f45-bd29-4ce1-9a79-35f4f0dc4755\">Link</a> </strong> </span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background: white;\">Bước 2:</span></strong><span style=\"color: #242938; background: white;\"> Quay video bằng điện thoại hoặc record màn hình Zoom, <strong>nhìn thẳng vào cam khi nói, tuyệt đối không đọc script </strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background: white;\">Bước 3:</span></strong><span style=\"color: #242938; background: white;\"> Bấm \"Câu tiếp theo\" để nghe câu hỏi và trả lời ngay </span></span></p>\n<p style=\"background: white;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938;\">Bước 4:</span></strong><span style=\"color: #242938;\"> Up recording từ Zoom/ Video quay từ điện thoại lên Drive/ Youtube</span></span></p>\n<p style=\"background: white;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938;\">Bước 5:</span></strong><span style=\"color: #242938;\"> Dán link video vào ô nộp bài, mở quyền truy cập để GV xem và đánh giá</span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Sau khi GV feedback thì luyện nói lại để thực hành thêm vào đầu giờ buổi tiếp theo và trong các buổi phụ đạo.</strong></span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"> </p>",
+          "index": 3,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 43470,
+          "id": 434089,
+          "name": null,
+          "title": "LISTENING",
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #ba372a;\"><strong>Exercise 1</strong></span></p>\n<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>People are describing how they feel. Listen and choose the problem. </strong><em>(Mọi người đang miêu tả cảm nhận của họ. Nghe và chọn vấn đề)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": null,
+          "answer": null
+        },
+        {
+          "challenge_id": 43470,
+          "id": 434090,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">1.</span></p>",
+          "explain": "<table style=\"border-collapse: collapse; width: 100.014%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Transcript </strong></span></td>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Dịch</strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 48.9273%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">1. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: I feel terrible today. I ate too much last night and <span style=\"color: #ba372a; background-color: #fbeeb8;\"><strong>my stomach doesn't feel well at all. </strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: You should take something for it. </span></p>\n</td>\n<td style=\"width: 48.9273%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>1. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Hôm nay tôi cảm thấy thật tệ. Tối qua tôi đã ăn quá nhiều nên <span style=\"color: #ba372a;\"><strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">giờ bụng tôi không ổn tí nào</span>.</strong></span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Bạn nên uống thuốc gì đó vào.</em></span></p>\n</td>\n</tr>\n</tbody>\n</table>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 918459,
+                "content": "a. an upset stomach"
+              },
+              {
+                "id": 918460,
+                "content": "b. the flu"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43470,
+          "id": 434091,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">2.</span></p>",
+          "explain": "<table style=\"border-collapse: collapse; width: 100.014%; height: 44.7686px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 22.3843px;\">\n<td style=\"width: 48.9273%; height: 22.3843px; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Transcript </strong></span></td>\n<td style=\"width: 48.9273%; height: 22.3843px; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Dịch</strong></span></td>\n</tr>\n<tr style=\"height: 22.3843px;\">\n<td style=\"width: 48.9273%; height: 22.3843px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">2. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: <span style=\"color: #ba372a; background-color: #fbeeb8;\"><strong>This pain in my head is terrible. </strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Let me get you some aspirin. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Thanks. That's just what I need. </span></p>\n</td>\n<td style=\"width: 48.9273%; height: 22.3843px;\">\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">2. </span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">A: <span style=\"color: #ba372a;\"><strong><span style=\"background-color: #fbeeb8;\">Đầu tôi đau kinh khủng ý. </span></strong></span></span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">B: Để tôi lấy thuốc giảm đau cho bạn nhé.</span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">A: Cảm ơn nhé. Đúng cái tôi cần rồi.</span></em></p>\n</td>\n</tr>\n</tbody>\n</table>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 918461,
+                "content": "a. a sore throat"
+              },
+              {
+                "id": 918462,
+                "content": "b. a headache"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43470,
+          "id": 434092,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">3.</span></p>",
+          "explain": "<table style=\"border-collapse: collapse; width: 100.014%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Transcript </strong></span></td>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Dịch</strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 48.9273%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">3. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: I'm not going to school today. I've got to see the dentist. <span style=\"color: #ba372a; background-color: #fbeeb8;\"><strong>My tooth is really bothering me. </strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Oh, that's too bad. </span></p>\n</td>\n<td style=\"width: 48.9273%;\">\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">3. </span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">A: Tôi sẽ không đi học hôm nay đâu. Tôi phải đến gặp nha sĩ. <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">Cái răng đau làm tôi khó chịu.</span></strong></span></span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">B: Ôi, thật là không may.</span></em></p>\n</td>\n</tr>\n</tbody>\n</table>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 918463,
+                "content": "a. a toothache"
+              },
+              {
+                "id": 918464,
+                "content": "b. a cold"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43470,
+          "id": 434093,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">4.</span></p>",
+          "explain": "<table style=\"border-collapse: collapse; width: 100.014%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Transcript</strong></span></td>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Dịch</strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 48.9273%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">4. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: I think I'll stay in bed today. I think I hurt myself carrying those bags on the weekend. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">My back is killing me. </span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Can I give you a massage? Maybe that will help. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Oh, yeah. Thanks. I'll try anything. </span></p>\n</td>\n<td style=\"width: 48.9273%;\">\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">4. </span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">A: Tôi nghĩ tôi sẽ nằm yên trên giường nghỉ ngơi hôm nay. Tôi nghĩ do đợt cuối tuần vừa rồi mang vác một đống túi nên giờ đau người ghê. <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">Lưng đau muốn chết đi được. </span></strong></span></span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">B: Để tôi mát xa cho bạn nhé? Có thể sẽ đỡ hơn đấy. </span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">A: Ôi, được đó. Cảm ơn bạn.Tôi sẽ thử mọi thứ</span>.</em></p>\n</td>\n</tr>\n</tbody>\n</table>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 918465,
+                "content": "a. a backache"
+              },
+              {
+                "id": 918466,
+                "content": "b. a headache"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43470,
+          "id": 434094,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">5.</span></p>",
+          "explain": "<table style=\"border-collapse: collapse; width: 100.014%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Transcript</strong></span></td>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Dịch</strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 48.9273%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">5. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: How do you feel? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Sorry.<strong><span style=\"color: #ba372a;\"> <span style=\"background-color: #fbeeb8;\">I can't talk. </span></span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Let me get you some hot lemon tea. That should help. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Thanks. </span></p>\n</td>\n<td style=\"width: 48.9273%;\">\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">5. </span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">A: Bạn cảm thấy sao rồi?</span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">B: Xin lỗi nha, <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">tôi không nói nổi.</span></strong></span></span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">A: Để tôi lấy ít trà chanh nóng cho bạn nhé. Uống xong chắc sẽ đỡ hơn. </span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">B: Cảm ơn bạn.</span></em></p>\n</td>\n</tr>\n</tbody>\n</table>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 918467,
+                "content": "a. an upset stomach"
+              },
+              {
+                "id": 918468,
+                "content": "b. a sore throat"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43470,
+          "id": 434095,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">6.</span></p>",
+          "explain": "<table style=\"border-collapse: collapse; width: 100.014%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Transcript</strong></span></td>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Dịch</strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 48.9273%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">6. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: I need to go to the drugstore. <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">I have a bad cold</span></strong></span> and my head is all stuffed up. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Oh, that's too bad. I hope you feel better soon. </span></p>\n</td>\n<td style=\"width: 48.9273%;\">\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">6. </span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">A: Tôi cần phải đến tiệm thuốc. <strong><span style=\"color: #ba372a;\"><span style=\"background-color: #fbeeb8;\">Tôi bị cảm nặng rồi</span>,</span></strong> tôi thấy nặng đầu quá.  </span></em></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Ôi, khổ thân bạn. Tôi mong là bạn sẽ chóng khỏi bệnh.</em> </span></p>\n</td>\n</tr>\n</tbody>\n</table>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 918469,
+                "content": "a. a cold"
+              },
+              {
+                "id": 918470,
+                "content": "b. a backache"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43470,
+          "id": 434096,
+          "name": null,
+          "title": null,
+          "content": "<p><strong><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Task 1: Listen and match each person with what he/ she takes for a cold </span></strong><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><em>(Nghe và nối từng người với thứ họ dùng để trị cảm lạnh.)</em></span></p>\n<p> </p>\n<table style=\"border-collapse: collapse; width: 100.014%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 32.2724%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\">hot tea</span></td>\n<td style=\"width: 32.2724%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\">garlic</span></td>\n<td style=\"width: 32.2724%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\">orange juice </span></td>\n</tr>\n<tr>\n<td style=\"width: 32.2724%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\">chicken soup </span></td>\n<td style=\"width: 32.2724%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\">ginseng</span></td>\n<td style=\"width: 32.2724%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\">new cold medicine </span></td>\n</tr>\n</tbody>\n</table>\n<p><span style=\"font-size: 12pt; font-family: Nunito-Regular;\"><span data-cke-copybin-start=\"1\">​</span><span data-cke-copybin-end=\"1\">​</span></span></p>",
+          "explain": "<table style=\"border-collapse: collapse; width: 99.9964%; height: 1429.61px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 22.3843px;\">\n<td style=\"width: 48.9209%; text-align: center; height: 22.3843px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Transcript</strong></span></td>\n<td style=\"width: 48.9209%; text-align: center; height: 22.3843px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Dịch </strong></span></td>\n</tr>\n<tr style=\"height: 313.426px;\">\n<td style=\"width: 48.9209%; height: 313.426px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">1. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: What do you take for a bad cold, Ted? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Oh, I have this great cold remedy. It always works. <span style=\"color: #ba372a; background-color: #fbeeb8;\"><strong>I chop up a bunch of garlic, put it in hot water, then drink it. </strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Gross! That sounds awful. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: It is awful. I hated it when I was a kid. But my grandmother made me drink it every time I got a cold, and I always felt better a few hours later. It works for her, too. She's going to be ninety-four years old this summer! </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Hmm. Maybe I should try it.</span></p>\n</td>\n<td style=\"width: 48.9209%; height: 313.426px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>1. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Bạn uống gì để chữa cảm hả Ted?</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: À, tôi có cách chữa cảm hay lắm. Lần nào cũng hiệu quả luôn. <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">Tôi băm một ít tỏi, bỏ vào pha với nước nóng rồi uống thôi.</span></strong></span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Eo! Nghe kinh thế.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Ừ thì nó ghê mà. Tôi đã rất ghét uống cái đấy khi tôi còn bé. Nhưng bà tôi bắt tôi uống mỗi khi bị cảm và tôi luôn cảm thấy khỏe hơn sau một vài giờ. Cách này cũng hiệu quả với bà nữa. Hè này bà tôi lên 94 tuổi rồi đấy.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Hmm, có lẽ tôi nên thử xem.</em></span></p>\n</td>\n</tr>\n<tr style=\"height: 291.042px;\">\n<td style=\"width: 48.9209%; height: 291.042px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">2. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: What do you think is the best thing to take for a cold? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">I take that new cold medicine</span></strong></span>. You know, the one they advertise on TV. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: I've seen that commercial. The one with the dancing pink pills, right? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: That's the one. Well, anyway, I had this really bad cold a few months ago and I was watching TV when the commercial came on. So I thought, you know, why not try it? It worked so well for me. Now it's the only thing I take.  </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: It sounds pretty effective. </span></p>\n</td>\n<td style=\"width: 48.9209%; height: 291.042px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span style=\"color: #000000; background-color: transparent;\">2. </span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span style=\"color: #000000; background-color: transparent;\">A: Bạn nghĩ cách nào chữa cảm tốt nhất?</span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span style=\"background-color: transparent;\">B: <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">Tôi uống loại thuốc chữa cảm mới,</span></strong></span> cái loại họ quảng cáo trên TV ý.</span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span style=\"color: #000000; background-color: transparent;\">A: Tôi từng xem cái quảng cáo đó rồi. Cái mà có mấy viên thuốc hồng nhảy nhảy đó hả?</span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span style=\"color: #000000; background-color: transparent;\">B: Chính là nó. Ờm, dù sao thì mấy tháng trước tôi đã bị cảm rất nặng và khi tôi đang xem TV thì cái quảng cáo đó xuất hiện. Tôi đã nghĩ sao mình lại không thử nhỉ? Thuốc đấy có hiệu quả với tôi thật. Đến giờ, đó vẫn là loại thuốc duy nhất tôi dùng.</span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span style=\"color: #000000; background-color: transparent;\">A: Nghe có vẻ hiệu nghiệm thật.</span></em></span></p>\n</td>\n</tr>\n<tr style=\"height: 390.185px;\">\n<td style=\"width: 48.9209%; height: 390.185px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">3. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Do you have a good cold remedy? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Oh, sure. <span style=\"color: #ba372a;\"><strong><span style=\"background-color: #fbeeb8;\">Chicken soup.</span> </strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: No way! Does that really work? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Have some. I promise you'll feel better. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Who makes the soup? Your mom? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Actually, my mom's a doctor, so she doesn't believe that chicken soup really works. So I make it myself. I just go down to the supermarket and pick up a can. I got the idea from a story I read in the newspaper. It was all about this guy who ate chicken soup for every meal, and now he's over a hundred years old. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: I don't know. I never believe that stuff. </span></p>\n</td>\n<td style=\"width: 48.9209%; height: 390.185px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>3. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Bạn có cách chữa cảm nào hay hay không?</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: À, có chứ. <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">Súp gà nhé.</span></strong></span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Không phải chứ. Món đó thực sự có tác dụng ý hả?</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Bạn thử mà xem. Tôi cam đoan là bạn sẽ thấy khỏe hơn đấy. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Ai nấu súp cho bạn? Mẹ à? </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Thực ra mẹ tôi là bác sĩ nên bà ấy không tin súp gà thực sự hiệu quả. Thế nên tôi phải tự mình làm. Tôi xuống siêu thị và mua một hộp súp. Tôi có ý tưởng này từ một câu chuyện tôi đọc được trên báo. Nó kể về một người đàn ông bữa nào cũng ăn súp gà và giờ ông ý đã hơn một trăm tuổi. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Tôi không biết nữa. Tôi chả bao giờ tin mấy thứ đó cả.</em></span></p>\n</td>\n</tr>\n<tr style=\"height: 367.801px;\">\n<td style=\"width: 48.9209%; height: 367.801px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">4. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: What do you take for a bad cold, Jill? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Well, I don't like to take those cold medicines. They put me to sleep. I bought this last time I had a cold. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Whoa, what is that? It looks like the root of a plant. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B:<span style=\"color: #ba372a;\"><strong> <span style=\"background-color: #fbeeb8;\">It's called ginseng. </span></strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: It looks kind of weird. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Yeah, but it really works. I live across the street from this woman from Korea, and she told me to try it. You should try it, too! </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Well, I'll think about it. </span></p>\n</td>\n<td style=\"width: 48.9209%; height: 367.801px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>4. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Bạn uống gì để chữa cảm hả Jill?</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Để xem nào, tôi không thích uống thuốc cảm lắm. Toàn thuốc gây buồn ngủ. Lần trước, khi bị cảm tôi đã mua cái này.  </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Oa, cái gì thế? Trông giống rễ của một loại cây nào đó.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">Cái này gọi là nhân sâm</span></strong></span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Nhìn nó kỳ ghê.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Ừ, nhưng nó tác dụng tốt lắm. Tôi sống đối diện nhà một cô người Hàn và cô ấy bảo tôi thử dùng cái này. Bạn cũng nên thử xem sao.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Ừm, tôi sẽ cân nhắc.</em></span></p>\n</td>\n</tr>\n<tr style=\"height: 22.3843px;\">\n<td style=\"width: 48.9209%; height: 22.3843px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">5. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: What do you take for a cold, Helen? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Oh,<strong><span style=\"color: #ba372a;\"> <span style=\"background-color: #fbeeb8;\">orange juice</span></span></strong>. It's supposed to be good for you because it has a lot of Vitamin C in it. I make a big pitcher of it and drink it all the time. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Interesting. Maybe I should try it. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: You really should. I read about it on this website for health problems, you know, on the Internet? It says that drinking a lot of orange juice can cure just about anything-even stuff like toothaches and sore muscles! </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Well, I'm not sure about that. But I'll try it next time I have a cold. </span></p>\n</td>\n<td style=\"width: 48.9209%; height: 22.3843px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>5. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Bạn uống gì để chữa cảm hả Helen?</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: À, <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">nước cam</span></strong></span>. Nó vốn rất tốt cho sức khỏe của bạn nha vì có nhiều vitamin C trong đó. Tôi toàn pha cả một bình nước cam để lúc nào cũng uống.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Hay nhỉ. Có lẽ tôi cũng nên thử.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Bạn rất nên thử nha. Bạn biết đấy, tôi đã đọc được tin này trên một trang web trên mạng về các vấn đề sức khỏe. Bài báo viết rằng uống nhiều nước cam có thể chữa bách bệnh, kể cả những bệnh như đau răng với đau cơ.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Ờm, tôi không chắc về điều đó lắm. Nhưng lần tới mà bị cảm thì tôi sẽ thử.</em></span></p>\n</td>\n</tr>\n<tr style=\"height: 22.3843px;\">\n<td style=\"width: 48.9209%; height: 22.3843px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">6. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Do you have a good cold remedy? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Oh, sure. <span style=\"color: #ba372a; background-color: #fbeeb8;\"><strong>I usually make some hot tea-with a little honey and lemon juice in it. I feel much better after that. </strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Yeah, but you probably take cold medicine, too. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: No, not at all. Those cold medicines make me feel really strange. I was complaining about it one day to this friend of mine who is an opera singer. She told me to try that tea. She said it's what all the famous singers drink when they have a cold. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">A: Oh, yeah? Has your singing improved, too? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">B: Actually, I think it has. Listen!</span></p>\n</td>\n<td style=\"width: 48.9209%; height: 22.3843px;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>6. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Bạn có cách chữa cảm nào hay không?</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Ồ, có chứ. <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">Tôi thường pha ít trà nóng, thêm một chút mật ong với nước cốt chanh. Tôi thường cảm thẩy khỏe lên nhiều sau khi uống.</span></strong></span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Ừ, nhưng bạn chắc vẫn phải uống thuốc nữa nhỉ</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Không, không hề nha. Mấy loại thuốc cảm đó làm cho người mình cảm thấy rất khó chịu. Có một ngày tôi than phiền về điều này với một người bạn của tôi, người đang làm ca sĩ opera. Cô ấy bảo tôi thử uống trà mật ong chanh. Cô ấy nói rằng đó là thứ mà ca sĩ nào cũng uống khi bị cảm.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>A: Ôi thế á? Và giọng của bạn cũng hay hơn chứ?</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>B: Thực ra tôi nghĩ cũng hay hơn đấy. Nghe nhé! </em></span></p>\n</td>\n</tr>\n</tbody>\n</table>",
+          "introduction": "<p> </p>\n<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #ba372a;\"><strong>Exercise 2</strong></span></p>\n<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>People are asking friends what they take for a cold. </strong><em>(Mọi người đang hỏi bạn bè uống gì nếu bị cảm)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 105461,
+              "content": "<p>1, [input_0]</p>\n<p>2, [input_1]</p>\n<p>3, [input_2]</p>\n<p>4, [input_3]</p>\n<p>5, [input_4]</p>\n<p>6, [input_5]</p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 43470,
+          "id": 434097,
+          "name": null,
+          "title": null,
+          "content": "<p> </p>\n<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Task 2: Listen again. Where did each person learn the cold remedy? Choose the correct answer. </strong><em>(Nghe lại. Mỗi người học phương thức chữa cảm ở đâu? Chọn đáp án đúng)</em></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": null,
+          "answer": null
+        },
+        {
+          "challenge_id": 43470,
+          "id": 434098,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">1.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 918471,
+                "content": "a. his grandmother"
+              },
+              {
+                "id": 918472,
+                "content": "b. his mother"
+              },
+              {
+                "id": 918473,
+                "content": "c. his grandparents"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43470,
+          "id": 434099,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">2.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 918474,
+                "content": "a. a radio commercial"
+              },
+              {
+                "id": 918475,
+                "content": "b. a TV commercial"
+              },
+              {
+                "id": 918476,
+                "content": "c. a TV show"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43470,
+          "id": 434100,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">3.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 918477,
+                "content": "a. the newspaper"
+              },
+              {
+                "id": 918478,
+                "content": "b. her mother"
+              },
+              {
+                "id": 918479,
+                "content": "c. her doctor"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43470,
+          "id": 434101,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">4.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 918480,
+                "content": "a. a co-worker"
+              },
+              {
+                "id": 918481,
+                "content": "b. a roommate"
+              },
+              {
+                "id": 918482,
+                "content": "c. a Korean woman"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43470,
+          "id": 434102,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">5.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 918483,
+                "content": "a. in an e-mail"
+              },
+              {
+                "id": 918484,
+                "content": "b. on the TV"
+              },
+              {
+                "id": 918485,
+                "content": "c. on the Internet"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43470,
+          "id": 434103,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: Nunito-Regular;\">6.</span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 918486,
+                "content": "a. a pianist"
+              },
+              {
+                "id": 918487,
+                "content": "b. an opera singer"
+              },
+              {
+                "id": 918488,
+                "content": "c. a stranger"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43470,
+          "id": 434104,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>1. Patrick </strong></span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>I woke up [<span style=\"color: #ba372a;\">this morning</span>] with a really bad stomachache. At first I thought it was because I ate a really big [<span style=\"color: #ba372a;\">dinner</span>] last night. I often have a [<span style=\"color: #ba372a;\">stomachache</span>] if I eat too much. Anyway, I took some [<span style=\"color: #ba372a;\">medicine</span>], but I don't think it's working because my stomach still feels funny. So I'm going to see the [<span style=\"color: #ba372a;\">doctor</span>] tomorrow. Maybe she can give me something stronger. It's awful because if I'm [<span style=\"color: #ba372a;\">sick</span>], I can't go to my friend's concert tomorrow night. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><em>Dịch:</em></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Sáng nay thức dậy tôi bị đau bụng khủng khiếp. Lập tức, tôi nghĩ do tối qua tôi đã ăn một bữa quá hoành tráng. Tôi thường bị đau bụng nếu tôi ăn quá nhiều. Dù sao thì tôi cũng uống thuốc rồi, nhưng tôi không nghĩ nó có tác dụng gì vì bụng vẫn nhộn nhạo. Vậy nên tôi sẽ đi khám bác sĩ vào ngày mai. Có lẽ bác sĩ có thể kê cho tôi loại thuốc mạnh hơn. Cảm giác thật tệ vì nếu tôi bị ốm, tôi không thể đến buổi biểu diễn ca nhạc của bạn tôi vào tối mai.</em></span></p>",
+          "introduction": "<p dir=\"ltr\" style=\"line-height: 1.3;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #ba372a;\"><strong>Exercise 3</strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Four people are talking about health problems. Listen and fill NO MORE THAN TWO WORDS in the blank. </strong><em>(Bốn người đang nói về các vấn đề sức khỏe. Nghe và điền không quá 2 từ vào chỗ trống)</em></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.3;\"> </p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 105462,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">I woke up <span style=\"color: #ba372a;\">[input_0]</span> with a really bad stomachache. At first I thought it was because I ate a really big <span style=\"color: #ba372a;\">[input_1]</span> last night. I often have a <span style=\"color: #ba372a;\">[input_2]</span> if I eat too much. Anyway, I took some <span style=\"color: #ba372a;\">[input_3]</span>, but I don't think it's working because my stomach still feels funny. So I'm going to see the <span style=\"color: #ba372a;\">[input_4]</span> tomorrow. Maybe she can give me something stronger. It's awful because if I'm <span style=\"color: #ba372a;\">[input_5]</span>, I can't go to my friend's concert tomorrow night. </span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 43470,
+          "id": 434105,
+          "name": null,
+          "title": null,
+          "content": "<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>2. Jenna</strong></span></p>\n<p dir=\"ltr\"> </p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>I really hurt my [<span style=\"color: #ba372a;\">arm</span>] playing tennis on Saturday. It's strange because I've been playing tennis for a long time, and I've never had this [<span style=\"color: #ba372a;\">problem</span>] before. I can hardly lift my arm at all. It's really sore. I've been taking aspirin for the [<span style=\"color: #ba372a;\">pain</span>] and that helps a little, but if it isn't any better tomorrow, I'll go and see the sports doctor. It's annoying because we have the tennis championships this weekend. If it isn't better, I won't be able to [<span style=\"color: #ba372a;\">play</span>]. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><em>Dịch: </em></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Tôi bị đau tay từ hôm thứ Bảy chơi tennis. Lạ thật vì tôi chơi tennis đã lâu và tôi chưa bao giờ gặp vấn đề như này. Tôi còn không nhấc nổi tay. Thật sự rất nhức. Tôi đã uống thuốc giảm đau rồi và nó cũng đỡ hơn một chút, nhưng nếu mai lại như cũ thì tôi sẽ đi gặp bác sĩ chuyên khoa thể thao. Khó chịu ghê vì chúng tôi có giải đấu tennis vào cuối tuần này. Nếu tình trạng chấn thương này không cải thiện được thì tôi sẽ không thể tham gia giải đấu.</em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 105463,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">I really hurt my <span style=\"color: #ba372a;\">[input_0]</span> playing tennis on Saturday. It's strange because I've been playing tennis for a long time, and I've never had this <span style=\"color: #ba372a;\">[input_1]</span> before. I can hardly lift my arm at all. It's really sore. I've been taking aspirin for the <span style=\"color: #ba372a;\">[input_2]</span> and that helps a little, but if it isn't any better tomorrow, I'll go and see the sports doctor. It's annoying because we have the tennis championships this weekend. If it isn't better, I won't be able to <span style=\"color: #ba372a;\">[input_3]</span>. </span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 43470,
+          "id": 434106,
+          "name": null,
+          "title": null,
+          "content": "<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>3. Kenneth</strong></span></p>\n<p dir=\"ltr\"> </p>",
+          "explain": "<p><em><span style=\"font-family: arial, helvetica, sans-serif;\"><span>I have a [<span style=\"color: #ba372a;\">bad</span>] ear infection. It started after I went swimming [<span style=\"color: #ba372a;\">last weekend</span>]. It's really painful and I can hardly [<span style=\"color: #ba372a;\">sleep</span>] at night. I often get ear infections in the summer. The doctor gave me some ear drops and some antibiotics, so it should [<span style=\"color: #ba372a;\">get better</span>] in a few days. I hope my ears get better because I have to play in a band at a party [<span style=\"color: #ba372a;\">next Saturday</span>]. </span></span></em></p>\n<p><strong><em><span style=\"font-family: arial, helvetica, sans-serif;\">Dịch: </span></em></strong></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">Tôi bị nhiễm trùng tai nặng. Tôi bắt đầu bị như vậy sau khi đi bơi vào cuối tuần trước. Thật sự rất đau đến nỗi tối tôi ngủ không nổi. Tôi thường bị nhiễm trùng tai vào mùa hè. Bác sĩ đã kê cho tôi một số thuốc nhỏ tai và kháng sinh, vậy nên chắc mấy ngày nữa sẽ đỡ hơn thôi. Hi vọng là tai tôi sẽ sớm khỏi vì tôi phải chơi cho một ban nhạc vào buổi tiệc thứ Bảy tuần tới.</span></em></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 105464,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">I have a <span style=\"color: #ba372a;\">[input_0]</span> ear infection. It started after I went swimming <span style=\"color: #ba372a;\">[input_1]</span>. It's really painful and I can hardly <span style=\"color: #ba372a;\">[input_2]</span> at night. I often get ear infections in the summer. The doctor gave me some ear drops and some antibiotics, so it should <span style=\"color: #ba372a;\">[input_3]</span> in a few days. I hope my ears get better because I have to play in a band at a party <span style=\"color: #ba372a;\">[input_4]</span>. </span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 43470,
+          "id": 434107,
+          "name": null,
+          "title": null,
+          "content": "<p dir=\"ltr\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>4. Alexis</strong></span></p>\n<p dir=\"ltr\"> </p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span>I came down with [<span style=\"color: #ba372a;\">food</span>] poisoning two days ago. It was <span style=\"color: #000000;\">awful</span>. I went out for dinner and ate [<span style=\"color: #ba372a;\">fish</span>]. I don't think the fish was [<span style=\"color: #ba372a;\">fresh</span>] because I got really sick in the middle of the night. Luckily, I had some [<span style=\"color: #ba372a;\">medicine</span>] in the house because I had the same problem once before. I didn't go to the doctor. I just took the medicine and I feel better today. Unfortunately, I probably won't go to my best friend's [<span style=\"color: #ba372a;\">birthday</span>] party tonight. I still don't feel 100 percent well. That's life, I guess!</span></em></span></p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Dịch:</em></span></strong></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Tôi bị ngộ độc thực phẩm 2 ngày trước. Tình hình rất tệ. Tôi đã ra ngoài ăn tối và ăn món cá. I không nghĩ là cá tươi đâu vì nửa đêm tôi đã bị ốm nặng. May là tôi có sẵn một ít thuốc trong nhà vì tôi từng bị một lần giống như vậy trước đây rồi. Tôi đã không đến khám bác sĩ. Tôi chỉ uống thuốc và hôm nay tôi đã khá hơn. Tiếc rằng tối chắc tôi sẽ không thể đến sinh nhật bạn thân của tôi. Tôi vẫn chưa khỏe hoàn toàn. Đúng là đời!  </em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 105465,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">I came down with <span style=\"color: #ba372a;\">[input_0]</span> poisoning two days ago. It was <span style=\"color: #000000;\">awful</span>. I went out for dinner and ate <span style=\"color: #ba372a;\">[input_1]</span>. I don't think the fish was <span style=\"color: #ba372a;\">[input_2]</span> because I got really sick in the middle of the night. Luckily, I had some <span style=\"color: #ba372a;\">[input_3]</span> in the house because I had the same problem once before. I didn't go to the doctor. I just took the medicine and I feel better today. Unfortunately, I probably won't go to my best friend's <span style=\"color: #ba372a;\">[input_4]</span> party tonight. I still don't feel 100 percent well. That's life, I guess!</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 43470,
+          "id": 434108,
+          "name": null,
+          "title": "New words/ Phrases/ Good structures/ Sentences",
+          "content": "<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Complete <span style=\"color: #242938; background-color: #ffffff;\">the following vocabulary table. </span></strong><em><span style=\"color: #242938; background-color: #ffffff;\">(Hoàn thiện bảng từ vựng sau.)</span></em></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 105466,
+              "content": "<table style=\"width: 100.152%; height: 348.619px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 22.3875px;\">\n<td style=\"background-color: #c00000; text-align: center; width: 99.9806%; height: 22.3875px;\" colspan=\"3\"><span style=\"color: #000000;\"><strong><span style=\"background-color: transparent;\">New vocabulary</span></strong></span></td>\n</tr>\n<tr style=\"height: 92.7562px;\">\n<td style=\"text-align: center; width: 59.4752%; height: 92.7562px;\"><strong>Sentences</strong></td>\n<td style=\"text-align: center; width: 20.2915%; height: 92.7562px;\"><strong>Useful words/ phrases</strong></td>\n<td style=\"width: 20.2138%; height: 92.7562px;\">\n<p style=\"text-align: center;\"><strong><span style=\"color: #000000; background-color: transparent;\">Meaning </span></strong></p>\n<p style=\"text-align: center;\"><strong><span style=\"color: #000000; background-color: transparent;\">(in English/ in Vietnamese)</span></strong></p>\n</td>\n</tr>\n<tr style=\"height: 22.3875px;\">\n<td style=\"width: 59.4752%; height: 22.3875px;\">''This pain in my head is <span style=\"background-color: #fbeeb8;\"><strong><span style=\"color: #ba372a;\">terrible</span></strong></span>.''</td>\n<td style=\"width: 20.2915%; height: 22.3875px;\">terrible (a)</td>\n<td style=\"width: 20.2138%; height: 22.3875px;\">[input_0]</td>\n</tr>\n<tr style=\"height: 22.3875px;\">\n<td style=\"width: 59.4752%; height: 22.3875px;\">'' I need to go to the <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>drugstore</strong></span>. I have a bad cold and my head is all stuffed up. ''</td>\n<td style=\"width: 20.2915%; height: 22.3875px;\">drugstore (n)</td>\n<td style=\"width: 20.2138%; height: 22.3875px;\">[input_1]</td>\n</tr>\n<tr style=\"height: 22.3875px;\">\n<td style=\"width: 59.4752%; height: 22.3875px;\">''Oh, I have this great cold <strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">remedy</span></strong>. It always works''</td>\n<td style=\"width: 20.2915%; height: 22.3875px;\">remedy (n)</td>\n<td style=\"width: 20.2138%; height: 22.3875px;\">[input_2]</td>\n</tr>\n<tr style=\"height: 22.3875px;\">\n<td style=\"width: 59.4752%; height: 22.3875px;\">''It sounds pretty <strong><span style=\"background-color: #fbeeb8; color: #ba372a;\">effective</span></strong>. ''</td>\n<td style=\"width: 20.2915%; height: 22.3875px;\">effective (a)</td>\n<td style=\"width: 20.2138%; height: 22.3875px;\">[input_3]</td>\n</tr>\n<tr style=\"height: 22.3875px;\">\n<td style=\"width: 59.4752%; height: 22.3875px;\">''It's <strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">annoying </span></strong>because we have the tennis championships this weekend.''</td>\n<td style=\"width: 20.2915%; height: 22.3875px;\"> annoying (a)</td>\n<td style=\"width: 20.2138%; height: 22.3875px;\">[input_4]</td>\n</tr>\n<tr style=\"height: 22.3875px;\">\n<td style=\"width: 59.4752%; height: 22.3875px;\">''The doctor gave me some ear drops and some <strong><span style=\"background-color: #fbeeb8; color: #ba372a;\">antibiotics</span></strong>, so it should get better in a few days''</td>\n<td style=\"width: 20.2915%; height: 22.3875px;\">antibiotics (n)</td>\n<td style=\"width: 20.2138%; height: 22.3875px;\">[input_5]</td>\n</tr>\n<tr style=\"height: 22.3875px;\">\n<td style=\"width: 59.4752%; height: 22.3875px;\">''I came down with <strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">food poisoning</span></strong> two days ago''</td>\n<td style=\"width: 20.2915%; height: 22.3875px;\">food poisoning</td>\n<td style=\"width: 20.2138%; height: 22.3875px;\">[input_6]</td>\n</tr>\n<tr style=\"height: 22.3875px;\">\n<td style=\"width: 59.4752%; height: 22.3875px;\">''<span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>Unfortunately</strong></span>, I probably won't go to my best friend's birthday party tonight.''</td>\n<td style=\"width: 20.2915%; height: 22.3875px;\">Unfortunately (adv)</td>\n<td style=\"width: 20.2138%; height: 22.3875px;\">[input_7]</td>\n</tr>\n<tr style=\"height: 54.375px;\">\n<td style=\"width: 59.4752%; height: 54.375px;\">\n<p>''<strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">Luckily</span></strong>, I had some medicine in the house because I had the same problem once before''</p>\n</td>\n<td style=\"width: 20.2915%; height: 54.375px;\">Luckily (adv)</td>\n<td style=\"width: 20.2138%; height: 54.375px;\">[input_8]</td>\n</tr>\n</tbody>\n</table>"
+            }
+          }
+        },
+        {
+          "challenge_id": 43470,
+          "id": 434109,
+          "name": null,
+          "title": "SPEAKING",
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Nộp link video trả lời các câu hỏi speaking (có mở quyền truy cập)</strong></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

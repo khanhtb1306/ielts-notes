@@ -1,0 +1,738 @@
+{
+  "listItem": {
+    "id": "93409",
+    "challenge_id": 42737,
+    "class_id": "17854888961d6295u45597",
+    "day": 6,
+    "deadline": "2026-09-20 22:02:00",
+    "challenge_title": "[IELTS FOUNDATION A] - Lesson 4 - Challenge 1",
+    "challenge_note": "Vocabulary + Listening: Learning - Cập nhật  07/2026",
+    "challenge_status": 1,
+    "challenge_band": "1614338637844l3v19753u",
+    "total_question": 52,
+    "classification": "dc"
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "93409",
+        "challenge_id": 42737,
+        "class_id": "17854888961d6295u45597",
+        "day": 6,
+        "deadline": "2026-09-20 22:02:00",
+        "flag_status_mark": 0,
+        "flag_not_submit": 0,
+        "created": "2026-09-18 22:02:36",
+        "created_by": null,
+        "challenge": {
+          "id": "42737",
+          "title": "[IELTS FOUNDATION A] - Lesson 4 - Challenge 1",
+          "note": "Vocabulary + Listening: Learning - Cập nhật  07/2026",
+          "day": "6",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "1614338637844l3v19753u",
+          "created": "2026-09-18 22:02:30",
+          "updated": null,
+          "created_by": "932ca35d-1c19-425e-a76f-90a036b47691",
+          "updated_by": null,
+          "total_question": 52,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 16759
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 646602,
+        "class_challenge_id": 93409,
+        "class_id": "17854888961d6295u45597",
+        "challenge_id": 42737,
+        "cts_id": "1787535458idhr0hjlmnp5",
+        "rate": 0,
+        "comment": null,
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": null,
+        "status_mark_date": null,
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": "1779875378vawpfok6ii4u",
+        "updated": "2026-09-20 17:05:55",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-09-20 17:00:36",
+        "correct_answer": 52,
+        "marked_by": null,
+        "submitted_at": "2026-09-20 17:00:36",
+        "re_submitted_at": null,
+        "answers": {
+          "426011": {
+            "total_question": 9,
+            "total_correct_result_answer": 9,
+            "user_answer": {
+              "input_0": "curriculum",
+              "input_1": "gain more knowledge",
+              "input_2": "research",
+              "input_3": "focus on",
+              "input_4": "personal development",
+              "input_5": "extracurricular activities",
+              "input_6": "teamwork skills",
+              "input_7": "graduate from",
+              "input_8": "stable job"
+            },
+            "correct_answer": {
+              "input_0": [
+                "curriculum"
+              ],
+              "input_1": [
+                "gain more knowledge"
+              ],
+              "input_2": [
+                "research"
+              ],
+              "input_3": [
+                "focus on"
+              ],
+              "input_4": [
+                "personal development"
+              ],
+              "input_5": [
+                "extracurricular activities"
+              ],
+              "input_6": [
+                "teamwork skills"
+              ],
+              "input_7": [
+                "graduate from"
+              ],
+              "input_8": [
+                "stable job"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 426011,
+            "challenge_id": 42737
+          },
+          "426012": {
+            "total_question": 7,
+            "total_correct_result_answer": 7,
+            "user_answer": {
+              "input_0": "for learning things by heart",
+              "input_1": "achieved full marks",
+              "input_2": "plays truant",
+              "input_3": "signed up for",
+              "input_4": "missed the deadline",
+              "input_5": "graduated from",
+              "input_6": "concentrated on"
+            },
+            "correct_answer": {
+              "input_0": [
+                "for learning things by heart"
+              ],
+              "input_1": [
+                "achieved full marks"
+              ],
+              "input_2": [
+                "plays truant"
+              ],
+              "input_3": [
+                "signed up for"
+              ],
+              "input_4": [
+                "missed the deadline"
+              ],
+              "input_5": [
+                "graduated from"
+              ],
+              "input_6": [
+                "concentrated on"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 426012,
+            "challenge_id": 42737
+          },
+          "426013": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "My best friend has a talent for learning languages, so she can speak English very fluently.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 426013,
+            "challenge_id": 42737
+          },
+          "426015": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "I try to focus on practical skills because they are useful and necessary in real life.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 426015,
+            "challenge_id": 42737
+          },
+          "426016": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "The curriculum at my school is quite challenging, but it helps me improve a lot.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 426016,
+            "challenge_id": 42737
+          },
+          "426017": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "He passed the exam because he prepared very carefully.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 426017,
+            "challenge_id": 42737
+          },
+          "426019": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "Recently, I have signed up for a course to improve my speaking skills.",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 426019,
+            "challenge_id": 42737
+          },
+          "426021": {
+            "total_question": 6,
+            "total_correct_result_answer": 6,
+            "user_answer": {
+              "input_0": "29",
+              "input_1": "Central",
+              "input_2": "finish",
+              "input_3": "one",
+              "input_4": "stop",
+              "input_5": "studying"
+            },
+            "correct_answer": {
+              "input_0": [
+                "twenty- nine",
+                "29"
+              ],
+              "input_1": [
+                "Central"
+              ],
+              "input_2": [
+                "finish"
+              ],
+              "input_3": [
+                "one",
+                "1"
+              ],
+              "input_4": [
+                "stop"
+              ],
+              "input_5": [
+                "studying"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 426021,
+            "challenge_id": 42737
+          },
+          "426022": {
+            "total_question": 7,
+            "total_correct_result_answer": 7,
+            "user_answer": {
+              "input_0": "Maths",
+              "input_1": "Science",
+              "input_2": "exams",
+              "input_3": "eighteen",
+              "input_4": "degree",
+              "input_5": "experience",
+              "input_6": "questions"
+            },
+            "correct_answer": {
+              "input_0": [
+                "Maths"
+              ],
+              "input_1": [
+                "Science"
+              ],
+              "input_2": [
+                "exams"
+              ],
+              "input_3": [
+                "eighteen",
+                "18"
+              ],
+              "input_4": [
+                "degree"
+              ],
+              "input_5": [
+                "experience"
+              ],
+              "input_6": [
+                "questions"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 426022,
+            "challenge_id": 42737
+          },
+          "426023": {
+            "total_question": 6,
+            "total_correct_result_answer": 6,
+            "user_answer": {
+              "input_0": "university",
+              "input_1": "free time",
+              "input_2": "courses",
+              "input_3": "interesting",
+              "input_4": "history",
+              "input_5": "signed up"
+            },
+            "correct_answer": {
+              "input_0": [
+                "university"
+              ],
+              "input_1": [
+                "free time"
+              ],
+              "input_2": [
+                "courses"
+              ],
+              "input_3": [
+                "interesting"
+              ],
+              "input_4": [
+                "history"
+              ],
+              "input_5": [
+                "signed up"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 426023,
+            "challenge_id": 42737
+          },
+          "426025": {
+            "total_question": 11,
+            "total_correct_result_answer": 11,
+            "user_answer": {
+              "input_0": "học/làm tiến sĩ",
+              "input_1": "viết luận án về",
+              "input_2": "còn một năm nữa",
+              "input_3": "một lối sống",
+              "input_4": "giỏi / không giỏi về",
+              "input_5": "quan tâm, hứng thú với",
+              "input_6": "học/lấy bằng về",
+              "input_7": "nộp đơn vào trường cao đẳng/đại học",
+              "input_8": "được nhận vào trường đại học",
+              "input_9": "nghỉ hưu",
+              "input_10": "đăng ký một khóa học"
+            },
+            "correct_answer": {
+              "input_0": [
+                ""
+              ],
+              "input_1": [
+                ""
+              ],
+              "input_2": [
+                ""
+              ],
+              "input_3": [
+                ""
+              ],
+              "input_4": [
+                ""
+              ],
+              "input_5": [
+                ""
+              ],
+              "input_6": [
+                ""
+              ],
+              "input_7": [
+                ""
+              ],
+              "input_8": [
+                ""
+              ],
+              "input_9": [
+                ""
+              ],
+              "input_10": [
+                ""
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true,
+              "input_10": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 426025,
+            "challenge_id": 42737
+          },
+          "426026": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "https://drive.google.com/file/d/10gg-K9hHk5z0zHJwKKmMJtF-FJ_ZSo6u/view?usp=drive_link",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 426026,
+            "challenge_id": 42737
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 114535,
+          "content": "<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16pt; background-color: #ba372a; color: #ffffff;\"> VOCABULARY </span></strong></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>*HV ôn tập các từ vựng trước khi làm các bài tập sau. </em></span></p>\n<table style=\"border-collapse: collapse; width: 100.026%; height: 748.547px; border-color: #f8cac6;\" border=\"1\">\n<tbody>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span id=\"docs-internal-guid-63be0c63-7fff-902e-b7aa-968f9be0f2c8\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>do a degree</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈduː</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ə</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">dɪˈɡriː</span>/ </span></span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">học lấy bằng </span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span id=\"docs-internal-guid-4c4eafbe-7fff-ef32-3ca0-e040c9607eeb\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>pass a test</strong> /<span style=\"color: #373737; font-size: 15px; white-space: nowrap; background-color: #ffffff;\">pɑːs </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ə</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">tɛst</span><span style=\"font-size: 12pt;\">/</span><span style=\"font-size: 12pt;\"> </span><span style=\"color: #373737; font-size: 15px; white-space: nowrap; background-color: #ffffff;\"><br /></span></span></span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">thi đạt một bài thi</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px; white-space-collapse: preserve;\"><strong>fail a test</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">feɪl</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ə</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">tɛst</span>/ </span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">trượt bài thi</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span id=\"docs-internal-guid-d34c1ba9-7fff-39c0-d12c-2d812af272ea\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>apply to some colleges</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">əˈplaɪ</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">tuː</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">sʌm</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈkɒlɪʤɪz</span>/ </span></span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">đăng kí vào một số trường đại học</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span id=\"docs-internal-guid-4bbe48ae-7fff-71b6-ec52-696d6ed77a45\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>have a talent for</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">hæv</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ə</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈtælᵊnt</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">fɔː</span>/ </span></span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">có tài/giỏi việc gì</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span id=\"docs-internal-guid-ac6d6702-7fff-8003-e39e-c88975f4f982\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>learn by heart </strong>/<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">lɜːn</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">baɪ</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">hɑːt</span>/ </span></span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">học thuộc</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span id=\"docs-internal-guid-7b5ba7c5-7fff-a4a9-91e5-326f04717cf8\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>skip class</strong> /skɪp klæs/ = <strong>play truant</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">pleɪ</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈtruːənt</span>/ </span></span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">cúp tiết/trốn học</span></td>\n</tr>\n<tr style=\"height: 26.2812px;\">\n<td style=\"width: 52.5807%; height: 26.2812px;\"><span id=\"docs-internal-guid-7b5ba7c5-7fff-a4a9-91e5-326f04717cf8\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span id=\"docs-internal-guid-a4fe5b57-7fff-e4de-017f-b139d4fa0f1f\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><strong>achieve full marks</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">əˈʧiːv</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">fʊl</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">mɑːks</span>/ </span></span></span></span></td>\n<td style=\"width: 47.4253%; height: 26.2812px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">đạt điểm tuyệt đối </span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span id=\"docs-internal-guid-7b5ba7c5-7fff-a4a9-91e5-326f04717cf8\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span id=\"docs-internal-guid-928eced3-7fff-fd36-5184-71cb757ebb1a\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><strong>pick up</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">pɪk</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ʌp</span>/ </span></span></span></span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">học được một cái gì đó thông qua luyện tập nhiều</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span id=\"docs-internal-guid-7b5ba7c5-7fff-a4a9-91e5-326f04717cf8\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>be a quick learner</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">biː</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ə</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">kwɪk</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈlɜːnə</span>/ </span></span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">một người có khả năng học hỏi nhanh</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span id=\"docs-internal-guid-7b5ba7c5-7fff-a4a9-91e5-326f04717cf8\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span id=\"docs-internal-guid-0d59011d-7fff-5671-d87c-963139da51d3\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><strong>sign up for a course</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">saɪn</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ʌp</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">fɔːr</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ə</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">kɔːs</span>/ </span></span></span></span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">đăng kí một khóa học</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span id=\"docs-internal-guid-7b5ba7c5-7fff-a4a9-91e5-326f04717cf8\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span id=\"docs-internal-guid-bd77da21-7fff-201f-2b51-4d0208c45a67\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><strong>get a scholarship</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ɡɛt</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ə</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈskɒləʃɪp</span>/ </span></span></span></span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">giành được học bổng</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span id=\"docs-internal-guid-7b5ba7c5-7fff-a4a9-91e5-326f04717cf8\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span id=\"docs-internal-guid-5a961484-7fff-440e-fec5-8a3d18baeaae\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><strong>meet a deadline</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">miːt</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ə</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈdɛdlaɪn</span>/ </span></span></span></span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">làm đúng hạn</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span id=\"docs-internal-guid-7b5ba7c5-7fff-a4a9-91e5-326f04717cf8\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span id=\"docs-internal-guid-a4b720f6-7fff-b162-ac2c-a48ccdb6965b\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><strong>miss a deadline </strong>/<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">mɪs</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ə</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈdɛdlaɪn</span>/ </span></span></span></span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">làm trễ hạn</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span id=\"docs-internal-guid-7b5ba7c5-7fff-a4a9-91e5-326f04717cf8\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span id=\"docs-internal-guid-f25416d0-7fff-1911-73df-0028eb1a323b\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><strong>submit</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">səbˈmɪt</span>/ </span></span></span></span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">nộp (bài)</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span id=\"docs-internal-guid-7b5ba7c5-7fff-a4a9-91e5-326f04717cf8\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span id=\"docs-internal-guid-ae459dc3-7fff-2970-ce3e-0417e58c864b\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><strong>graduate from</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈɡræʤueɪt</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">frɒm</span>/ </span></span></span></span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">tốt nghiệp từ (trường)</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span id=\"docs-internal-guid-7b5ba7c5-7fff-a4a9-91e5-326f04717cf8\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span id=\"docs-internal-guid-f75cf8d2-7fff-7bcb-99e5-81510c34efe6\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><strong>research a topic</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">rɪˈsɜːʧ</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ə</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈtɒpɪk</span>/ </span></span></span></span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">nghiên cứu một chủ đề</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span id=\"docs-internal-guid-7b5ba7c5-7fff-a4a9-91e5-326f04717cf8\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span id=\"docs-internal-guid-f75cf8d2-7fff-7bcb-99e5-81510c34efe6\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><span id=\"docs-internal-guid-a36a04a3-7fff-4f4b-f879-0b422f1b537c\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><strong>curriculum</strong> /<span style=\"color: #373737; font-size: 15px; white-space: nowrap; background-color: #ffffff;\">kəˈrɪkjələm</span>/ </span></span></span></span></span></span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">chương trình học</span></td>\n</tr>\n<tr style=\"height: 25.2969px;\">\n<td style=\"width: 52.5807%; height: 25.2969px;\"><span id=\"docs-internal-guid-7b5ba7c5-7fff-a4a9-91e5-326f04717cf8\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span id=\"docs-internal-guid-f75cf8d2-7fff-7bcb-99e5-81510c34efe6\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><span id=\"docs-internal-guid-3c953326-7fff-c5bc-7f6c-d2ea113187a9\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><strong>present our group project </strong>/<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">prɪˈzɛnt</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈaʊə</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ɡruːp</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\"><a id=\"project2_val\" style=\"box-sizing: border-box; color: #2083df; text-decoration-line: none; background-color: transparent;\" title=\"\" href=\"https://tophonetics.com/\" data-toggle=\"tooltip\" data-html=\"true\" data-original-title=\"1. [ˈprɒʤɛkt]: <i>noun</i><br />2. [prəˈʤɛkt]: <i>verb</i>\">ˈ<span style=\"color: #000000;\">prɒʤɛkt</span></a></span>/ </span></span></span></span></span></span></td>\n<td style=\"width: 47.4253%; height: 25.2969px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">thuyết trình bài tập nhóm</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span id=\"docs-internal-guid-7b5ba7c5-7fff-a4a9-91e5-326f04717cf8\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span id=\"docs-internal-guid-f75cf8d2-7fff-7bcb-99e5-81510c34efe6\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><span id=\"docs-internal-guid-a61dfcf0-7fff-d53e-3394-0558d1e61af4\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><strong>extracurricular activity</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˌɛkstrəkəˈrɪkjələr</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ækˈtɪvəti</span>/ </span></span></span></span></span></span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">hoạt động ngoại khóa</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span id=\"docs-internal-guid-7b5ba7c5-7fff-a4a9-91e5-326f04717cf8\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span id=\"docs-internal-guid-f75cf8d2-7fff-7bcb-99e5-81510c34efe6\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><span id=\"docs-internal-guid-d2e94e1b-7fff-f1d7-55f6-df3733da2e21\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><strong>participate in</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">pɑːˈtɪsɪpeɪt</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ɪn</span>/ </span></span></span></span></span></span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">tham gia vào (hoạt động)</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span id=\"docs-internal-guid-7b5ba7c5-7fff-a4a9-91e5-326f04717cf8\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span id=\"docs-internal-guid-f75cf8d2-7fff-7bcb-99e5-81510c34efe6\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><span id=\"docs-internal-guid-4b164877-7fff-0778-95b6-57cacdc3a8b4\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><strong>focus on practical skills</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈfəʊkəs</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ɒn</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈpræktɪkᵊl</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">skɪlz</span>/ </span></span></span></span></span></span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">tập trung vào những kĩ năng thiết thực </span></td>\n</tr>\n<tr style=\"height: 96.0781px;\">\n<td style=\"width: 52.5807%; height: 96.0781px;\">\n<p><span id=\"docs-internal-guid-7b5ba7c5-7fff-a4a9-91e5-326f04717cf8\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span id=\"docs-internal-guid-f75cf8d2-7fff-7bcb-99e5-81510c34efe6\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><span id=\"docs-internal-guid-4be458ad-7fff-525d-3cf0-047d8b60ec7d\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><strong>be interested in</strong> = be passionate about</span></span><br /></span></span></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">/</span></span></span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">biː</span><span style=\"color: #373737; font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈɪntrɛstɪd</span><span style=\"color: #373737; font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ɪn</span><span class=\"nontranscriptable\" style=\"box-sizing: border-box; font-weight: bold; color: gray; font-size: 15px; background-color: #ffffff;\"> = </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">biːˈpæʃᵊnət</span><span style=\"color: #373737; font-size: 15px; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; text-wrap: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">əˈbaʊt</span><span style=\"font-size: 12pt; white-space-collapse: preserve;\">/</span></span></p>\n</td>\n<td style=\"width: 47.4253%; height: 96.0781px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">hứng thú với cái gì ~ khá đam mê cái gì đó </span></td>\n</tr>\n<tr style=\"height: 23.3906px;\">\n<td style=\"width: 52.5807%; height: 23.3906px;\"><span id=\"docs-internal-guid-7b5ba7c5-7fff-a4a9-91e5-326f04717cf8\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span id=\"docs-internal-guid-f75cf8d2-7fff-7bcb-99e5-81510c34efe6\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><span id=\"docs-internal-guid-bbcf29e4-7fff-ab79-d166-7f189ee49bb3\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><strong>concentrate on </strong>/ˈkɒnsntreɪt ɒn/</span></span></span></span></span></span></td>\n<td style=\"width: 47.4253%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">tập trung vào ..</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 52.5807%; height: 24.0625px;\"><span id=\"docs-internal-guid-7b5ba7c5-7fff-a4a9-91e5-326f04717cf8\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span id=\"docs-internal-guid-f75cf8d2-7fff-7bcb-99e5-81510c34efe6\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><span id=\"docs-internal-guid-bbcf29e4-7fff-ab79-d166-7f189ee49bb3\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\"><strong>become more disciplined</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">bɪˈkʌm</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">mɔː</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈdɪsəplɪnd</span>/ </span></span></span></span></span></span></td>\n<td style=\"width: 47.4253%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">trở nên kỉ luật hơn</span></td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p><span style=\"color: #ba372a; font-family: arial, helvetica, sans-serif;\"><strong>Exercise 1</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Choose the correct words in the table to complete the sentences. </span><span style=\"font-size: 12pt; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Chọn các từ phù hợp trong bảng để hoàn thiện các câu 1-10.)</span></span></p>\n<table style=\"width: 97.2811%; height: 46.7812px;\">\n<tbody>\n<tr style=\"height: 23.3906px;\">\n<td style=\"width: 20.8963%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">gain more knowledge</span></td>\n<td style=\"width: 23.4592%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">personal development</span></td>\n<td style=\"width: 20.0747%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">stable job</span></td>\n<td style=\"width: 19.872%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">research</span></td>\n<td style=\"width: 15.6722%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">teamwork skills</span></td>\n</tr>\n<tr style=\"height: 23.3906px;\">\n<td style=\"width: 20.8963%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">focus on</span></td>\n<td style=\"width: 23.4592%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">extracurricular activities</span></td>\n<td style=\"width: 20.0747%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">curriculum</span></td>\n<td style=\"width: 19.872%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">graduate from</span></td>\n<td style=\"width: 15.6722%; height: 23.3906px;\"> </td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; font-family: arial, helvetica, sans-serif; color: #ba372a;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 2</span></span></p>\n<p><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Rewrite each sentence using the given words. Notice the original sentences to put the verbs in correct forms. </span></strong></span><span style=\"font-size: 12pt; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Viết lại các câu sau sử dụng từ đã cho. Chú ý câu gốc để chia động từ phù hợp khi viết lại câu.) </span></span></p>\n<p> </p>\n<p><span style=\"color: #ba372a; font-family: arial, helvetica, sans-serif;\"><strong>Exercise 3</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Translate these sentences into English using the suggested words. You can change the form if necessary. </strong><em>(Dịch các câu sau sang tiếng Anh sử dụng từ gợi ý. Có thể thay đổi dạng từ nếu cần.)</em></span></p>\n<p> </p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><strong><span style=\"box-sizing: border-box; font-family: arial, helvetica, sans-serif; color: #ffffff; font-size: 16pt; background-color: #ba372a;\"> LISTENING </span></strong></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>The conversation is about what students need to do when they go for an exam. </strong><em>(Cuộc hội thoại nói về những gì học sinh cần làm khi họ đi thi.)</em></span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #242938; background-color: #ffffff;\"><strong>Listen and decide if these statements are TRUE or FALSE.</strong></span><em><span style=\"color: #242938; background-color: #ffffff;\"> </span><span style=\"color: #242938; background-color: #ffffff;\">(Nghe và quyết định xem những ý kiến ĐÚNG hay SAI) </span></em></span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1714192291.mp3\" controls=\"controls\"> Your browser does not support the audio element. </audio></p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        },
+        {
+          "id": 114536,
+          "content": "<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"> </p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><strong><span style=\"box-sizing: border-box; color: #ffffff; font-family: arial, helvetica, sans-serif; font-size: 16pt; background-color: #ba372a;\"> SHADOWING </span></strong></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve; font-family: arial, helvetica, sans-serif;\"><span style=\"color: #242938; white-space-collapse: collapse;\">Nghe và bắt chước lại các câu sau trong bài nghe, bắt chước yêu cầu đúng ngữ âm, ngữ điệu và tốc độ. </span></span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">1. <img class=\"audio_custom_need_add_event\" style=\"box-sizing: border-box; vertical-align: middle; cursor: pointer; width: 16px;\" src=\"../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1712744429.mp3\" /> </span><span style=\"box-sizing: border-box;\">But right now you're doing a degree, aren't you?</span></span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\">2. <img class=\"audio_custom_need_add_event\" style=\"box-sizing: border-box; vertical-align: middle; cursor: pointer; width: 16px;\" src=\"../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1711961466.mp3\" /></span> I'm doing a doctorate in archaeology.</span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\">3. <img class=\"audio_custom_need_add_event\" style=\"box-sizing: border-box; vertical-align: middle; cursor: pointer; width: 16px;\" src=\"../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708504839.mp3\" /> </span>Actually, I'm writing a thesis on my work in the Amazon.</span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\">4.</span> <img class=\"audio_custom_need_add_event\" style=\"box-sizing: border-box; vertical-align: middle; cursor: pointer; width: 16px;\" src=\"../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708505078.mp3\" /> It's a way of life for me.</span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\">5. <img class=\"audio_custom_need_add_event\" style=\"box-sizing: border-box; vertical-align: middle; cursor: pointer; width: 16px;\" src=\"../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708505095.mp3\" /></span> It's a great experience, completely different from school.</span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-size: 12pt;\"><span style=\"box-sizing: border-box; font-weight: bolder;\">6. <img class=\"audio_custom_need_add_event\" style=\"box-sizing: border-box; vertical-align: middle; cursor: pointer; width: 16px;\" src=\"../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708505109.mp3\" /> </span></span><span style=\"box-sizing: border-box;\">I've done courses in music, erm, local history and Spanish. I choose things I haven't studied before.</span></span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\">7.</span> <img class=\"audio_custom_need_add_event\" style=\"box-sizing: border-box; vertical-align: middle; cursor: pointer; width: 16px;\" src=\"../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708505124.mp3\" /> Well, I've never been very good with computers, so, er, last week I signed up for an IT skills course.</span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"> </p>",
+          "index": 1,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 42737,
+          "id": 426011,
+          "name": null,
+          "title": "VOCABULARY",
+          "content": null,
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">Going to university has several advantages for students. One major benefit is that it provides better educational opportunities. Universities usually offer a <span style=\"color: #ba372a;\"><strong>well-designed curriculum</strong></span> and modern facilities, which help students<span style=\"color: #ba372a;\"><strong> gain more knowledge </strong></span>and develop important skills. For example, students can <span style=\"color: #ba372a;\"><strong>research </strong></span>topics in their field of study and<span style=\"color: #ba372a;\"><strong> focus on </strong></span>practical skills that are useful for future jobs. As a result, they become <span style=\"color: #ba372a;\"><strong>better prepared</strong></span> for their careers. Another advantage is that university students can improve their<span style=\"color: #ba372a;\"><strong> personal development</strong></span>. They often participate in <span style=\"color: #ba372a;\"><strong>extracurricular activities </strong></span>and present group projects, which help them build communication and <span style=\"color: #ba372a;\"><strong>teamwork skills</strong></span>. After they <span style=\"color: #ba372a;\"><strong>graduate from </strong></span>university, they are more likely to find a <span style=\"color: #ba372a;\"><strong>stable job </strong></span>with a higher salary. Therefore, attending university can bring both educational and career benefits.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>(Việc học đại học mang lại nhiều lợi ích cho sinh viên. Một lợi ích lớn là nó mang đến những cơ hội giáo dục tốt hơn. Các trường đại học thường cung cấp một chương trình học được thiết kế bài bản và cơ sở vật chất hiện đại, giúp sinh viên tiếp thu thêm kiến thức và phát triển những kỹ năng quan trọng. Ví dụ, sinh viên có thể nghiên cứu các chủ đề trong lĩnh vực học tập của mình và tập trung vào các kỹ năng thực hành hữu ích cho công việc trong tương lai. Nhờ đó, họ được chuẩn bị tốt hơn cho sự nghiệp của mình. </em><em>Một lợi ích khác là sinh viên đại học có thể cải thiện sự phát triển cá nhân. Họ thường tham gia các hoạt động ngoại khóa và thuyết trình các dự án nhóm, điều này giúp họ xây dựng kỹ năng giao tiếp và kỹ năng làm việc nhóm. Sau khi tốt nghiệp đại học, họ có nhiều khả năng tìm được một công việc ổn định với mức lương cao hơn. Vì vậy, việc học đại học có thể mang lại cả lợi ích về giáo dục lẫn cơ hội nghề nghiệp.)</em></span></p>\n<p> </p>",
+          "introduction": "<p><span style=\"color: #ba372a; font-family: arial, helvetica, sans-serif;\"><strong>Exercise 1</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Choose the correct words in the table to complete the sentences. </strong><em>(Chọn các từ phù hợp trong bảng để hoàn thiện các câu 1-10.)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 103521,
+              "content": "<p style=\"text-align: center;\" data-start=\"0\" data-end=\"51\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\">What are the advantages of going to university?</span></strong></p>\n<p style=\"text-align: left;\" data-start=\"53\" data-end=\"1055\" data-is-last-node=\"\" data-is-only-node=\"\"><span style=\"font-family: arial, helvetica, sans-serif;\">Going to university has several advantages for students. One major benefit is that it provides better educational opportunities. Universities usually offer a <span style=\"color: #ba372a;\"><span style=\"color: #000000;\">well-designed</span><strong> [input_0]</strong></span> and modern facilities, which help students<span style=\"color: #ba372a;\"><strong> [input_1] </strong></span>and develop important skills. For example, students can <span style=\"color: #ba372a;\"><strong>[input_2]</strong></span> topics in their field of study and<span style=\"color: #ba372a;\"><strong> [input_3]</strong></span> practical skills that are useful for future jobs. As a result, they become <span style=\"color: #000000;\">better prepared </span>for their careers. Another advantage is that university students can improve their<span style=\"color: #ba372a;\"><strong> [input_4]</strong></span>. They often participate in <span style=\"color: #ba372a;\"><strong>[input_5] </strong></span>and present group projects, which help them build communication and <span style=\"color: #ba372a;\"><strong>[input_6]</strong></span>. After they <span style=\"color: #ba372a;\"><strong>[input_7] </strong></span>university, they are more likely to find a <span style=\"color: #ba372a;\"><strong>[input_8]</strong></span> with a higher salary. Therefore, attending university can bring both educational and career benefits.</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42737,
+          "id": 426012,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span style=\"color: #ba372a;\"><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Exercise 2</span></strong></span></p>\n<p><span id=\"docs-internal-guid-cab553b7-7fff-729d-8813-40c676b05d77\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Rewrite each sentence using the given words. Notice the original sentences to put the verbs in correct forms. </span><span style=\"font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Viết lại các câu sau sử dụng từ đã cho. Chú ý câu gốc để chia động từ phù hợp khi viết lại câu) </span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 103522,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent;\"><strong> 1. </strong>She has a good memory. <br /></span><span style=\"color: #000000; background-color: transparent;\">Sentence using <em><strong>\"by heart\"</strong></em> → She has a talent <span style=\"color: #cc0000; background-color: transparent;\">[input_0]</span></span><span style=\"color: #000000; background-color: transparent;\">.</span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent;\"><strong> </strong><strong>2. </strong>He excelled in the final test. <br />Sentence using <em><strong>\"achieve\"</strong></em> → He [input_1] in the final test.</span></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong style=\"font-weight: normal;\"> </strong></span><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>3.</strong> Despite his passion for </span><span style=\"font-size: 12pt; color: #000000; background-color: #fff2cc; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">archaeology</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> (khảo cổ học), he occasionally skips class.<br /></span></span><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sentence using <em><strong>\"truant\" </strong></em>→ Despite his passion for archaeology, he occasionally</span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> [input_2]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">.</span></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong style=\"font-weight: normal;\"> </strong></span><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>4.</strong> She enrolled in an IT skills course to improve her practical skills.<br /></span><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sentence using <em><strong>\"sign\"</strong></em> → She <span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_3]</span></span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> an IT skills course to improve her practical skills.</span></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong style=\"font-weight: normal;\"> </strong></span><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>5.</strong> Group 2 remembered the wrong date, so they didn't complete the project on time.<br /></span><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sentence using <em><strong>\"miss\"</strong></em> → Group 2 <span style=\"font-size: 12pt; color: #990000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_4]</span></span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> for the project because they remembered the wrong date.</span></span></p>\n<p style=\"line-height: 1.5;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\"> 6</span></strong><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>.</strong> They completed their degree at famous university.  <br /></span><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sentence using <em><strong>\"graduate\"</strong></em> → They</span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> [input_5]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> a famous university.</span></span></p>\n<p style=\"line-height: 1.5;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\"> 7</span></strong><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>.</strong> He focused on knowledge in Computer Science.<br /></span><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sentence using<em><strong> \"concentrate\" </strong></em>→ He [input_6] knowledge in his Computer Science curriculum.</span></p>\n<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.5;\"> </p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42737,
+          "id": 426013,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">1. Người bạn thân nhất của tôi có năng khiếu học ngôn ngữ, vì vậy cô ấy có thể nói tiếng Anh 1 cách trôi chảy. <em><strong>(have a talent for) </strong></em></span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">1. My best friend has a talent for learning languages, so she can speak English very fluently.</span></p>",
+          "introduction": "<p><span style=\"color: #ba372a; font-family: arial, helvetica, sans-serif;\"><strong>Exercise 3</strong></span></p>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Translate these sentences into English using the suggested words. You can change the form if necessary. </strong><em>(Dịch các câu sau sang tiếng Anh sử dụng từ gợi ý. Có thể thay đổi dạng từ nếu cần.)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 42737,
+          "id": 426015,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">2. Tôi cố gắng tập trung vào các kỹ năng thiết thực vì chúng hữu ích và quan trọng trong cuộc sống thực tế. <em><strong>(focus on practical skills)</strong></em></span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">2. I try to focus on practical skills because they are useful and necessary in real life.</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 42737,
+          "id": 426016,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">3. Chương trình học ở trường tôi khá khó, nhưng nó giúp tôi cải thiện rất nhiều. <em><strong>(curriculum / challenging) </strong></em></span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">3. The curriculum at my school is quite challenging, but it helps me improve a lot.</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 42737,
+          "id": 426017,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">4. Anh ấy đã vượt qua kỳ thi vì đã chuẩn bị rất cẩn thận. <em><strong>(pass the exam)</strong></em></span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">4. He passed the exam because he prepared very carefully.</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 42737,
+          "id": 426019,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">5. Gần đây, tôi đã đăng ký một khóa học để cải thiện kỹ năng nói của mình. <em><strong>(sign up for) </strong></em></span></p>\n<p> </p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">5. Recently, I have signed up for a course to improve my speaking skills</span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 42737,
+          "id": 426020,
+          "name": null,
+          "title": "LISTENING",
+          "content": "<p style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #242938; background-color: #ffffff;\"><strong>Listen and fill in the blank.</strong><em><strong> </strong>(Nghe và điền vào chỗ trống)</em> </span></span></p>",
+          "explain": null,
+          "introduction": "<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Lifelong learning</strong></span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Listen to interviews with three students, Luis, Pierre and Margaret</strong>. <em>(Nghe đoạn phỏng vấn với ba học sinh, Luis, Pierre và Margaret) </em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": null,
+          "answer": null
+        },
+        {
+          "challenge_id": 42737,
+          "id": 426021,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": "<table style=\"border-collapse: collapse; width: 100.014%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Transcript</strong></span></td>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Dịch</strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 48.9273%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">1.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">INTERVIEWER: Luis, you're <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>twenty- nine</strong></span> ...</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">LUIS: Right.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I: ... and you're a student?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">L: Well, I work as an archaeologist but, yeah, I'm also a student, I guess.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I: Right. What kind of archaeology do you do?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">L: I do a lot of work in the rainforest, in the <strong><span style=\"background-color: #fbeeb8; color: #ba372a;\">Central </span></strong>Amazon</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I: But right now you're doing a degree, aren't you?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">L: Yes, I'm doing a doctorate in archaeology. Actually, I'm writing a thesis on my work in the Amazon.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I: And when do you <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>finish</strong></span>?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">L: I've got just <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>one </strong></span>more year to go - ·I hope!</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I: And will you <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>stop </strong></span>then?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">L: Stop <strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">studying</span></strong>?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I: Yes.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">L: Well, I think an archaeologist is always studying, so, no, I'll never stop. It's a way of life for me.</span></p>\n</td>\n<td style=\"width: 48.9273%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>1. </em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>NGƯỜI PHỎNG VẤN: Luis, anh hai mươi chín tuổi…</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>LUIS: Đúng vậy.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>PV: … và anh là sinh viên phải không?</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>L: À, tôi là một nhà khảo cổ học nhưng đúng, tôi cũng là sinh viên, chắc vậy,</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>PV: Phải. Anh đang nghiên cứu loại khảo cổ nào?</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>L: Tôi nghiên cứu khá nhiều ở rừng nhiệt đới, vùng trung tâm Amazon.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>PV: Nhưng hiện giờ anh cũng đang học một văn bằng, đúng không?</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>L: Vâng, tôi đang làm nghiên cứu sinh tiến sĩ ngành khảo cổ học. Thực ra, tôi đang viết luận án về nghiên cứu của mình ở Amazon.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>PV: Và khi nào thì anh hoàn thành?</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>L: Tôi chỉ còn một năm nữa thôi – hy vọng là vậy!</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>PV: Rồi sau đó anh sẽ dừng lại chứ?</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>L: Dừng việc học?</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>PV: Đúng.</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em>L: Ừm, tôi nghĩ một nhà khảo cổ thì lúc nào cũng đang học cả, nên không, tôi sẽ không bao giờ dừng. Với tôi, đó là một lối sống.</em></span></p>\n</td>\n</tr>\n</tbody>\n</table>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 103523,
+              "content": "<p>1.</p>\n<p><strong>INTERVIEWER</strong>: Luis, you're <span style=\"color: #ba372a;\">[input_0]</span> ...</p>\n<p><strong>LUIS</strong>: Right.</p>\n<p><strong>INTERVIEWER</strong>: ... and you're a student?</p>\n<p><strong>LUIS</strong>: Well, I work as an archaeologist but, yeah, I'm also a student, I guess.</p>\n<p><strong>INTERVIEWER</strong>: Right. What kind of archaeology do you do?</p>\n<p><strong>LUIS</strong>: I do a lot of work in the rainforest, in the <span style=\"color: #ba372a;\">[input_1]</span> Amazon</p>\n<p><strong>INTERVIEWER</strong>: But right now you're doing a degree, aren't you?</p>\n<p><strong>LUIS</strong>: Yes, I'm doing a doctorate in archaeology. Actually, I'm writing a thesis on my work in the Amazon.</p>\n<p><strong>INTERVIEWER</strong>: And when do you <span style=\"color: #ba372a;\">[input_2]</span>?</p>\n<p><strong>LUIS</strong>: I've got just <span style=\"color: #ba372a;\">[input_3]</span> more year to go - ·I hope!</p>\n<p><strong>INTERVIEWER</strong>: And will you <span style=\"color: #ba372a;\">[input_4]</span> then?</p>\n<p><strong>LUIS</strong>: Stop studying?</p>\n<p><strong>INTERVIEWER</strong>: Yes.</p>\n<p><strong>LUIS</strong>: Well, I think an archaeologist is always <span style=\"color: #ba372a;\">[input_5]</span>, so, no, I'll never stop. It's a way of life for me.</p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42737,
+          "id": 426022,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": "<table style=\"border-collapse: collapse; width: 100.014%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 48.9273%; text-align: center;\"><strong>Transcript</strong></td>\n<td style=\"width: 48.9273%; text-align: center;\"><strong>Dịch </strong></td>\n</tr>\n<tr>\n<td style=\"width: 48.9273%;\">\n<p>I: Pierre, you didn't like school much. Why was that?</p>\n<p>PIERRE: Well, I didn't like a lot of subjects at school, like <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>Maths </strong></span>and <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>Science</strong></span>. I just wasn’t very good at them, and I hated doing <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>exams </strong></span>and tests and so on.</p>\n<p>I: Hm. But you were interested in art?</p>\n<p>P: Yes, I've always enjoyed art.</p>\n<p>I: So, you left school when you were ... ?</p>\n<p>P: I left school when I was <strong><span style=\"background-color: #fbeeb8; color: #ba372a;\">eighteen</span></strong>. I passed my exams - just! - and then I got a job. Then, er, about twenty years later, I decided I wanted to do a <strong><span style=\"background-color: #fbeeb8; color: #ba372a;\">degree</span></strong> in art. So I applied to some colleges and I got into the School of Art and Design in Limoges.</p>\n<p>I: Oh, and how is it?</p>\n<p>P: It's a great <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>experience</strong></span>, completely different from school.</p>\n<p>I: How exactly?</p>\n<p>P: Well, I'm studying something I really want to study, you know</p>\n<p>I: Right.</p>\n<p>P: And I’m a lot older and more confident, so it's easier to ask <strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">questions</span></strong>, talk to the teachers, things like that.</p>\n</td>\n<td style=\"width: 48.9273%;\">\n<p><em>2.</em></p>\n<p><em>PV: Pierre, anh không thích trường học cho lắm. Tại sao vậy?</em></p>\n<p><em>PIERRE: Ừm, tôi không thích nhiều môn ở trường, như Toán và Khoa học. Tôi vốn không giỏi mấy môn đó, và tôi ghét làm bài thi, kiểm tra. v.v.</em></p>\n<p><em>PV: Hm. Nhưng anh lại thích nghệ thuật?</em></p>\n<p><em>P: Vâng, trước giờ tôi luôn thích nghệ thuật.</em></p>\n<p><em>PV: Vậy anh rời trường khi…?</em></p>\n<p><em>P: Tôi rời trường khi tôi mười tám tuổi. Tôi vượt qua kỳ thi – chỉ vừa đủ thôi! – rồi sau đó tôi đi làm. Rồi, à, khoảng hai mươi năm sau, tôi quyết định muốn học một văn bằng về nghệ thuật. Thế là tôi nộp đơn vào một số trường cao đẳng và tôi đậu vào Trường Nghệ thuật và Thiết kế ở Limoges.</em></p>\n<p><em>PV: Ồ, và nó thế nào?</em></p>\n<p><em>P: Đó là một trải nghiệm tuyệt vời, hoàn toàn khác trường phổ thông.</em></p>\n<p><em>PV: Khác như thế nào?</em></p>\n<p><em>P: À, tôi đang học thứ mà tôi thật sự muốn học, anh biết đấy.</em></p>\n<p><em>PV: Phải rồi.</em></p>\n<p><em>P: Và tôi lớn tuổi hơn nhiều, tự tin hơn, nên dễ dàng đặt câu hỏi, nói chuyện với thầy cô, mấy chuyện kiểu vậy.</em></p>\n</td>\n</tr>\n</tbody>\n</table>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 103524,
+              "content": "<p>2.</p>\n<p><strong>Interview</strong>: Pierre, you didn't like school much. Why was that?</p>\n<p><strong>PIERRE</strong>: Well, I didn't like a lot of subjects at school, like <span style=\"color: #ba372a;\">[input_0]</span> and <span style=\"color: #ba372a;\">[input_1]</span>. I just wasn't very good at them, and I hated doing <span style=\"color: #ba372a;\">[input_2]</span> and tests and so on.</p>\n<p><strong>Interview</strong>: Hm. But you were interested in art?</p>\n<p><strong>PIERRE</strong>: Yes, I've always enjoyed art.</p>\n<p><strong>Interview</strong>: So, you left school when you were ... ?</p>\n<p><strong>PIERRE</strong>: I left school when I was <span style=\"color: #ba372a;\">[input_3]</span>. I passed my exams - just! - and then I got a job. Then, er, about twenty years later, I decided I wanted to do a <span style=\"color: #ba372a;\">[input_4]</span> in art. So I applied to some colleges and I got into the School of Art and Design in Limoges.</p>\n<p><strong>Interview</strong>: Oh, and how is it?</p>\n<p><strong>PIERRE</strong>: It's a great <span style=\"color: #ba372a;\">[input_5]</span>, completely different from school.</p>\n<p><strong>Interview</strong>: How exactly?</p>\n<p><strong>PIERRE</strong>: Well, I'm studying something I really want to study, you know</p>\n<p><strong>Interview</strong>: Right.</p>\n<p><strong>PIERRE</strong>: And I'm a lot older and more <span style=\"color: #000000;\">confident</span>, so it's easier to ask <span style=\"color: #ba372a;\">[input_6]</span>, talk to the teachers, things like that.</p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42737,
+          "id": 426023,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": "<table style=\"border-collapse: collapse; width: 100.014%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Transcript</strong></span></td>\n<td style=\"width: 48.9273%; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Dịch </strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 48.9273%;\">\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">3.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I: Margaret, you're a student at the University of the Third Age?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">MARGARET: Yes, we call it the U3A.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I: U3A. And what is that exactly?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">M: Well, 'the third age’ means it's for people over fifty. Anyone over fifty can join. We have meetings and talks in members’ homes, and we don't do exams or get degrees. So, you see, it's not a typical <strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">university</span></strong>!</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I: And why did you join?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">M: Well, I retired three years ago. I had a lot of <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>free time</strong></span>, and nothing to do. It wasn't a very happy time, to be honest. Then I read something about the U3A and went to a talk and it was great.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I: Hm. What kind of <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>courses </strong></span>have you done?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">M: Oh, there are so many <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>interesting </strong></span>things. I've done courses in music, erm, local <strong><span style=\"background-color: #fbeeb8; color: #ba372a;\">history </span></strong>and Spanish. I choose things I haven't studied before.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I: And what's next?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">M: Well, I've never been very good with computers, so, er, last week I <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>signed up</strong></span> for an IT skills course.</span></p>\n</td>\n<td style=\"width: 48.9273%;\">\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">3. </span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">PV: Margaret, bạn là sinh viên ở the University of the Third Age?</span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">MARGARET: Vâng, chúng tôi gọi nó là U3A.</span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">PV: U3A. Và chính xác thì đó là gì?</span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">M: À, “the third age” nghĩa là dành cho những người trên năm mươi. Ai trên năm mươi cũng có thể tham gia. Chúng tôi có các buổi gặp gỡ và nói chuyện ở nhà của các thành viên, và chúng tôi không làm bài thi hay lấy bằng cấp. Vì vậy, bạn thấy đó, nó không phải là một trường đại học điển hình!</span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">PV: Và tại sao bạn lại tham gia?</span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">M: Ừm, tôi nghỉ hưu ba năm trước. Tôi có rất nhiều thời gian rảnh, mà chẳng có gì để làm. Thành thật mà nói, đó không phải là một quãng thời gian vui vẻ. Rồi tôi đọc được thông tin về U3A và đến nghe một buổi nói chuyện, và nó thật tuyệt.</span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">PV: Hm. Bà đã học những khóa nào?</span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">M: Ồ, có rất nhiều điều thú vị. Tôi đã học các khóa về âm nhạc, à, lịch sử địa phương và tiếng Tây Ban Nha. Tôi chọn những thứ mà trước đây tôi chưa từng học.</span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">PV: Và tiếp theo thì sao?</span></em></p>\n<p><em><span style=\"font-family: arial, helvetica, sans-serif;\">M: Ừm, tôi chưa bao giờ giỏi máy tính, nên, à, tuần trước tôi đã đăng ký một khóa học kỹ năng công nghệ thông tin.</span></em></p>\n</td>\n</tr>\n</tbody>\n</table>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 103525,
+              "content": "<p>3.</p>\n<p><strong>Interviewer</strong>: Margaret, you're a student at the University of the Third Age?</p>\n<p><strong>MARGARET</strong>: Yes, we call it the U3A.</p>\n<p><strong>Interviewer</strong>: U3A. And what is that exactly?</p>\n<p><strong>MARGARET</strong>: Well, 'the third age' means it's for people over fifty. Anyone over fifty can join. We have meetings and talks in members' homes, and we don't do exams or get degrees. So, you see, it's not a typical <span style=\"color: #ba372a;\">[input_0]</span>!</p>\n<p><strong>Interviewer</strong>: And why did you join?</p>\n<p><strong>MARGARET</strong>: Well, I retired three years ago. I had a lot of <span style=\"color: #ba372a;\">[input_1]</span>, and nothing to do. It wasn't a very happy time, to be honest. Then I read something about the U3A and went to a talk and it was great.</p>\n<p><strong>Interviewer</strong>: Hm. What kind of <span style=\"color: #ba372a;\">[input_2]</span> have you done?</p>\n<p><strong>MARGARET</strong>: Oh, there are so many <span style=\"color: #ba372a;\">[input_3]</span> things. I've done courses in music, erm, local <span style=\"color: #ba372a;\">[input_4]</span> and Spanish. I choose things I haven't studied before.</p>\n<p><strong>Interviewer</strong>: And what's next?</p>\n<p><strong>MARGARET</strong>: Well, I've never been very good with computers, so, er, last week I <span style=\"color: #ba372a;\">[input_5]</span> for an IT skills course.</p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42737,
+          "id": 426025,
+          "name": null,
+          "title": "NEW WORDS/ PHRASES + GOOD STRUCTURES/ SENTENCES",
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Complete the following vocabulary table. </strong><em>(Hoàn thiện bảng từ vựng sau.)</em></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 103526,
+              "content": "<table style=\"border-collapse: collapse; width: 100%; height: 360.938px;\" border=\"1\" cellspacing=\"2\" cellpadding=\"5\">\n<thead>\n<tr style=\"height: 24.0625px;\">\n<th style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Sentences</span></th>\n<th style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Useful words/ phrases</span></th>\n<th style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Meaning (in English/ Vietnamese)</span></th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"height: 24.0625px;\">\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">\"I'm <strong><span style=\"background-color: #fbeeb8; color: #ba372a;\">doing a doctorate</span></strong> in archaeology.\"</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">do a doctorate</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_0]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">\"I'm <strong><span style=\"background-color: #fbeeb8; color: #ba372a;\">writing a thesis on</span></strong> my work in the Amazon.\"</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">write a thesis on</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_1]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">\"I've got just <strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">one more year to go</span></strong>.\"</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">one more year to go</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_2]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">\"For me, archaeology is <strong><span style=\"background-color: #fbeeb8; color: #ba372a;\">a way of life</span></strong>.\"</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">a way of life</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_3]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">\"I <strong><span style=\"background-color: #fbeeb8; color: #ba372a;\">wasn't very good at</span></strong> Maths and Science.\"</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">be good at / be not good at</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_4]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">\"But you <strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">were interested in</span></strong> art?\"</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">be interested in</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_5]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">\"I decided I wanted to <strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">do a degree</span></strong> in art.\"</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">do a degree in</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_6]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">\"I <strong><span style=\"background-color: #fbeeb8; color: #ba372a;\">applied to some colleges</span></strong>.\"</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">apply to a college/ university</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_7]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">\"I <strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">got into</span></strong> the School of Art and Design.\"</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">get into a university</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_8]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">\"I <strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">retired </span></strong>three years ago.\"</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">retire (v)</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_9]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">\"Last week I<strong><span style=\"color: #ba372a; background-color: #fbeeb8;\"> signed up for an IT skills course</span></strong>.\"</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">sign up for a course</span></td>\n<td style=\"height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">[input_10]</span></td>\n</tr>\n</tbody>\n</table>"
+            }
+          }
+        },
+        {
+          "challenge_id": 42737,
+          "id": 426026,
+          "name": null,
+          "title": "SHADOWING",
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span style=\"box-sizing: border-box; font-weight: bolder; color: #242938; font-family: arial, helvetica, sans-serif; font-size: 12pt; background-color: #ffffff;\">Nghe và bắt chước lại các câu sau trong bài nghe, bắt chước yêu cầu đúng ngữ âm, ngữ điệu và tốc độ. </span></p>\n<p><span style=\"box-sizing: border-box; font-weight: bolder; color: #242938; font-family: arial, helvetica, sans-serif; font-size: 12pt; background-color: #ffffff;\">Nộp link audio/video dưới đây: </span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

@@ -1,0 +1,598 @@
+{
+  "listItem": {
+    "id": "94106",
+    "challenge_id": 43469,
+    "class_id": "17854888961d6295u45597",
+    "day": 10,
+    "deadline": "2026-09-27 22:01:00",
+    "challenge_title": "[IELTS FOUNDATION A] - Lesson 6 - Challenge 1",
+    "challenge_note": "Grammar (Conditional sentences) + Vocabulary (Health) - Cập nhật  07/2026",
+    "challenge_status": 1,
+    "challenge_band": "1614338637844l3v19753u",
+    "total_question": 54,
+    "classification": "dc"
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "94106",
+        "challenge_id": 43469,
+        "class_id": "17854888961d6295u45597",
+        "day": 10,
+        "deadline": "2026-09-27 22:01:00",
+        "flag_status_mark": 0,
+        "flag_not_submit": 0,
+        "created": "2026-09-23 22:02:04",
+        "created_by": null,
+        "challenge": {
+          "id": "43469",
+          "title": "[IELTS FOUNDATION A] - Lesson 6 - Challenge 1",
+          "note": "Grammar (Conditional sentences) + Vocabulary (Health) - Cập nhật  07/2026",
+          "day": "10",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "1614338637844l3v19753u",
+          "created": "2026-09-23 22:01:55",
+          "updated": null,
+          "created_by": "932ca35d-1c19-425e-a76f-90a036b47691",
+          "updated_by": null,
+          "total_question": 54,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 16944
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 116428,
+          "content": "<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"box-sizing: border-box; color: #ffffff; font-size: 18pt; background-color: #ba372a;\"> VOCABULARY </span><span style=\"box-sizing: border-box; font-size: 16pt;\"><span style=\"box-sizing: border-box; color: #000000; font-size: 12pt;\"> </span></span></strong></span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em style=\"box-sizing: border-box;\">*HV ôn tập lại từ vựng dưới đây trước khi làm các bài tập phía sau</em></span></p>\n<table style=\"border-collapse: collapse; width: 82.2516%; height: 1051.85px; border-color: #f8cac6;\" border=\"1\">\n<tbody>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>1. </strong><span id=\"docs-internal-guid-35b01030-7fff-7cf4-5556-e3e2df4a4a24\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Health problems</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">hɛlθ</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈprɒbləmz</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">các vấn đề sức khỏe</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>2. </strong><span id=\"docs-internal-guid-b12e386e-7fff-29f9-3339-835638b26f30\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Physical health</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈfɪzɪkᵊl</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">hɛlθ</span><span class=\"nontranscriptable\" style=\"box-sizing: border-box; font-weight: bold; color: gray; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">sức khỏe thể chất</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>3. M</strong><span id=\"docs-internal-guid-bf2a3188-7fff-4a81-d96c-726a004c510a\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>ental health</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈmɛntᵊl</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">hɛlθ</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">sức khỏe tinh thần</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>4. </strong><span id=\"docs-internal-guid-6e204da1-7fff-8a3e-638d-b1520b851925\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Gain weight</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ɡeɪn</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">weɪt</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">tăng cân</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>5. L</strong><span id=\"docs-internal-guid-a823e9ea-7fff-a283-9538-8b72b5f918f4\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>ose weight </strong>/<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">luːz</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">weɪt</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">giảm cân</span></td>\n</tr>\n<tr style=\"height: 28.2943px;\">\n<td style=\"width: 53.7723%; height: 28.2943px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>6. </strong><span id=\"docs-internal-guid-c97d7b6b-7fff-2ce5-80aa-a865787d8819\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Recover from</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">rɪˈkʌvə</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">frɒm/</span> = <strong>get over</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ɡɛt</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈəʊvə</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 28.2943px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">hồi phục, khỏi (bệnh)</span></td>\n</tr>\n<tr style=\"height: 48.125px;\">\n<td style=\"width: 53.7723%; height: 48.125px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>7. </strong><span style=\"white-space-collapse: preserve;\"><strong>Be allergic to</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">biː</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">əˈlɜːʤɪk</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">tuː</span>/ = <strong>have an allergy to</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">hæv</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ən</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈæləʤi</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">tuː</span>/ </span></span></td>\n<td style=\"width: 46.2363%; height: 48.125px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">bị dị ứng cái gì</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>8. </strong><span id=\"docs-internal-guid-f21e82e6-7fff-7021-1045-fd95a4eaa92c\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Break a habit</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">breɪk</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ə</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈhæbɪt</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">bỏ thói quen</span></td>\n</tr>\n<tr style=\"height: 28.2943px;\">\n<td style=\"width: 53.7723%; height: 28.2943px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>9. </strong><span id=\"docs-internal-guid-e735b3f8-7fff-850e-abe6-263e73f7b51f\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Get into the habit of</strong> <strong>(V-ing)</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ɡɛt</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈɪntuː</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ðə</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈhæbɪt</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ɒv</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 28.2943px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">hình thành thói quen gì</span></td>\n</tr>\n<tr style=\"height: 27.2917px;\">\n<td style=\"width: 53.7723%; height: 27.2917px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>10. </strong><span id=\"docs-internal-guid-e15dad61-7fff-9fb9-af3a-880d1c076a22\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Maintain a balanced diet</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">meɪnˈteɪn</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ə</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈbælənst</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈdaɪət</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 27.2917px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">duy trì chế độ ăn uống cân bằng </span></td>\n</tr>\n<tr style=\"height: 31.2891px;\">\n<td style=\"width: 53.7723%; height: 31.2891px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>11. </strong><span id=\"docs-internal-guid-7be27a29-7fff-ba90-680b-ed6606a443b0\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Have an unhealthy diet</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">hæv</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ən</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ʌnˈhɛlθi</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈdaɪət</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 31.2891px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">có chế độ ăn không lành mạnh</span></td>\n</tr>\n<tr style=\"height: 26.263px;\">\n<td style=\"width: 53.7723%; height: 26.263px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>12. </strong><span id=\"docs-internal-guid-dd56b8cf-7fff-d0d0-50d8-4ca42866cf83\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Improve overall health</strong> /ɪmˈpruːv<span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\"><a id=\"overall2_val\" style=\"box-sizing: border-box; color: #2083df; text-decoration-line: none; background-color: transparent;\" title=\"\" href=\"https://tophonetics.com/\" data-toggle=\"tooltip\" data-html=\"true\" data-original-title=\"1. [ˌəʊvəˈrɔːl]: <i>adjective, adverb</i><br />2. [ˈəʊvᵊrɔːl]: <i>adjective, noun</i>\">ˌəʊvəˈrɔːl</a></span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">hɛlθ</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 26.263px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">cải thiện sức khỏe tổng quát</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>13. </strong><span id=\"docs-internal-guid-3de80a92-7fff-1049-a88e-dab59d2d31c9\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Health benefits</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">hɛlθ</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈbɛnɪfɪts</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">lợi ích sức khỏe</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>14. </strong><span id=\"docs-internal-guid-ee326d0e-7fff-298a-f601-36b464c4edf6\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Come down with</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">kʌm</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">daʊn</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">wɪð</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">bị/mắc (bệnh gì)</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>15. </strong><span id=\"docs-internal-guid-f26969ed-7fff-4a04-24fe-5f2aff71378e\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Health-conscious</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">hɛlθ</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\">-</span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈkɒnʃəs</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">có ý thức về sức khỏe</span></td>\n</tr>\n<tr style=\"height: 29.2578px;\">\n<td style=\"width: 53.7723%; height: 29.2578px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>16. </strong><span id=\"docs-internal-guid-f8e6cd8e-7fff-6603-ccbe-b03a79532a60\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Have regular check-ups</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">hæv</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈrɛɡjələ</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈʧɛkˈʌps</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 29.2578px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">đi khám sức khỏe định kì</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>17. </strong><span id=\"docs-internal-guid-ab935844-7fff-7e52-1eb5-07615166b737\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Work out</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">wɜːk</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">aʊt</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">tập luyện</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>18. </strong><span id=\"docs-internal-guid-71abb4a4-7fff-d8bb-1d37-0d5677f9fc62\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Suffer from</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈsʌfə</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">frɒm</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">chịu đựng, trải qua (một nỗi đau thể chất/tinh thần nào đó)</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>19. </strong><span id=\"docs-internal-guid-e7711199-7fff-ecdf-8714-410ed0de7938\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Consume</strong> /<span style=\"color: #373737; font-size: 15px; white-space: nowrap; background-color: #ffffff;\">kənˈsjuːm</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">tiêu thụ</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>20. </strong><span id=\"docs-internal-guid-062202e8-7fff-14ef-9f71-5ed7fa90504f\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Sugary drinks </strong>/<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈʃʊɡᵊri</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">drɪŋks</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">nước uống có đường</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>21. </strong><span id=\"docs-internal-guid-9ff72341-7fff-2e63-8f3c-8f66f30907fa\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Hit the gym</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">hɪt</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ðə</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ʤɪm</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">đi tập ở phòng tập</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>22. </strong><span id=\"docs-internal-guid-5bd53eac-7fff-3ce8-a80e-655f6769329f\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Dairy</strong> /<span style=\"color: #373737; font-size: 15px; white-space: nowrap; background-color: #ffffff;\">ˈdeəri</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">có chứa sữa </span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>23. </strong><span id=\"docs-internal-guid-dd1a0498-7fff-58e7-cd7b-9d2ccf0a9123\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Calcium</strong> /<span style=\"color: #373737; font-size: 15px; white-space: nowrap; background-color: #ffffff;\">ˈkælsiəm</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">canxi</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>24. </strong><strong>Be at risk of sth</strong> /biː æt rɪsk ɒv/ </span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">có nguy cơ (gặp phải chuyện gì)</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>25. </strong><strong>Public fitness facilities</strong> /ˈpʌblɪk ˈfɪtnəs fəˈsɪlətiz/ </span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">các cơ sở tập luyện thể dục, thể thao công cộng</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>26. </strong><strong>It's supposed to be…</strong> /ɪts səˈpəʊzd tuː biː/ </span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">đúng ra, đáng lẽ ra...</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>27. </strong><strong>Cure</strong> /<a href=\"https://tophonetics.com/\" data-toggle=\"tooltip\" data-html=\"true\" data-original-title=\"1. [kjʊə]: <i>noun, verb</i><br />2. [kjɔː]: <i>noun, verb</i>\">kjʊə</a>/ </span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">chữa trị</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>28 </strong><strong>Hurt one's arm</strong> /hɜːt - ɑːm/ </span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">đau/chấn thương tay của ai đó</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>29. </strong><span id=\"docs-internal-guid-28c11475-7fff-3c06-9297-93869245e3a3\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>stay in bed </strong>/<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">steɪ</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ɪn</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">bɛd</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">nằm trên giường </span></td>\n</tr>\n<tr style=\"height: 26.2891px;\">\n<td style=\"width: 53.7723%; height: 26.2891px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>30. </strong><span id=\"docs-internal-guid-367e31ca-7fff-5352-c51b-10d5211e5c59\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>give (you) a massage</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ɡɪv</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">juː</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ə</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈmæsɑːʒ</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 26.2891px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">mát xa cho (bạn)</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>31. </strong><span id=\"docs-internal-guid-59400928-7fff-33bd-e884-d99c1768c617\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>be stuffed up</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">biː</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">stʌft</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ʌp</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">bị nghẹt </span></td>\n</tr>\n<tr style=\"height: 30.2865px;\">\n<td style=\"width: 53.7723%; height: 30.2865px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>32. </strong><span id=\"docs-internal-guid-dc655999-7fff-5ed0-c0e3-9e8bd7ff5d31\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Have a great cold remedy</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">hæv</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ə</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ɡreɪt</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">kəʊld</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈrɛmədi</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 30.2865px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">có phương pháp chữa cảm hiệu quả</span></td>\n</tr>\n<tr style=\"height: 26.2891px;\">\n<td style=\"width: 53.7723%; height: 26.2891px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>33. </strong><span id=\"docs-internal-guid-6b35c0b7-7fff-762c-60b9-dace7c8d1cf0\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Work / work well for me</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">wɜːk</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">wɛl</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">fɔː</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">miː</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 26.2891px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">có tác dụng tốt với tôi </span></td>\n</tr>\n<tr style=\"height: 28.2943px;\">\n<td style=\"width: 53.7723%; height: 28.2943px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>34. </strong><span id=\"docs-internal-guid-5d6ca2eb-7fff-9055-229b-ebf5039aa1bb\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Take some medicines</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">teɪk</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">sʌm</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">ˈmɛdsᵊnz</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 28.2943px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">uống thuốc </span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>36. </strong><span id=\"docs-internal-guid-1c7aee1f-7fff-b379-b9ac-a758123eef42\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>Put (me) to sleep</strong> /<span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">pʊt</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">miː</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">tuː</span><span style=\"color: #373737; font-size: 15px; white-space-collapse: collapse; background-color: #ffffff;\"> </span><span class=\"transcribed_word\" style=\"box-sizing: border-box; white-space: nowrap; color: #373737; font-size: 15px; background-color: #ffffff;\">sliːp</span>/ </span></span></span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">đưa (tôi) vào giấc ngủ</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>37. </strong><strong>Sore = painful</strong> /sɔː/<strong> = /</strong>ˈpeɪnfᵊl/</span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">đau, xót</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>38. </strong><strong>A bad ear infection</strong> /ə bæd ɪər ɪnˈfɛkʃᵊn/ </span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">nhiễm trùng tai nặng</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 53.7723%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>39. </strong><strong>Food poisoning</strong> /fuːd ˈpɔɪzᵊnɪŋ/ </span></td>\n<td style=\"width: 46.2363%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">ngộ độc thực phẩm</span></td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #ba372a;\"><strong>Exercise 2<br /></strong></span><strong>Choose the suitable phrases to complete the following sentences </strong><em>(Đoán từ cần điền để hoàn thiện các câu sau. Sử dụng từ vựng đã học bên cột trái.)</em></span></p>\n<table style=\"border-collapse: collapse; width: 99.4744%; border-color: #000000;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 23.3307%;\"><span>soft drinks</span></td>\n<td style=\"width: 28.5438%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">suffer from illnesses</span></td>\n<td style=\"width: 17.263%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">break</span></td>\n<td style=\"width: 30.8513%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">work out </span></td>\n</tr>\n<tr>\n<td style=\"width: 23.3307%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">mental health</span></td>\n<td style=\"width: 28.5438%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">health benefits</span></td>\n<td style=\"width: 17.263%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">allergy </span></td>\n<td style=\"width: 30.8513%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">maintain a balanced diet</span></td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p><span style=\"font-size: 18pt; font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #ffffff; background-color: #ba372a;\"> </span></strong></span><span style=\"font-size: 18pt; font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #ffffff; background-color: #ba372a;\">SHADOWING </span></strong></span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box; font-weight: bolder;\">Nghe và bắt chước lại các câu sau trong bài nghe, bắt chước yêu cầu đúng ngữ âm, ngữ điệu và tốc độ.</span></span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif;\">1) <img class=\"audio_custom_need_add_event\" style=\"box-sizing: border-box; vertical-align: middle; cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708506233.mp3\" /> It worked so well for me.</span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif;\">2) <img class=\"audio_custom_need_add_event\" style=\"box-sizing: border-box; vertical-align: middle; cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708506268.mp3\" /> Do you have a good cold remedy?</span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif;\">3) <img class=\"audio_custom_need_add_event\" style=\"box-sizing: border-box; vertical-align: middle; cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708506297.mp3\" /> Well, I don't like to take those cold medicines. They put me to sleep.</span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif;\">4) <img class=\"audio_custom_need_add_event\" style=\"box-sizing: border-box; vertical-align: middle; cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708506343.mp3\" /> It's supposed to be good for you because it has a lot of Vitamin C in it.</span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif;\">5) <img class=\"audio_custom_need_add_event\" style=\"box-sizing: border-box; vertical-align: middle; cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708506375.mp3\" /> It says that drinking a lot of orange juice can cure just about anything- even stuff like toothaches and sore muscles!</span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif;\">6) <img class=\"audio_custom_need_add_event\" style=\"box-sizing: border-box; vertical-align: middle; cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708506413.mp3\" /> I usually make some hot tea with a little honey and lemon juice in it. I feel much better after that.</span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif;\">7) <img class=\"audio_custom_need_add_event\" style=\"box-sizing: border-box; vertical-align: middle; cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708506448.mp3\" /> Anyway, I took some medicine, but I don't think it's working because my stomach still feels funny.</span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-size: 12pt; font-family: arial, helvetica, sans-serif;\">8) <img class=\"audio_custom_need_add_event\" style=\"box-sizing: border-box; vertical-align: middle; cursor: pointer; width: 16px;\" src=\"../../images/icons8-speaker-40.png\" alt=\"speaker\" height=\"16\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1708506478.mp3\" /> It's strange because I've been playing tennis for a long time, and I've never had this problem before.</span></p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"> </p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 43469,
+          "id": 434063,
+          "name": null,
+          "title": "GRAMMAR",
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #ba372a;\"><span style=\"box-sizing: border-box; font-weight: bolder; background-color: #ffffff;\">Exercise 1</span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"box-sizing: border-box; font-weight: bolder; color: #242938; background-color: #ffffff;\"> Each sentence has one mistake. Find and correct the mistake. </span><em style=\"box-sizing: border-box; color: #242938; background-color: #ffffff;\">(Mỗi câu có một lỗi sai. Tìm và sửa lại lỗi sai.)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": null,
+          "answer": null
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434064,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #242938; background-color: #ffffff;\">1. If you </span><u style=\"box-sizing: border-box; color: #242938; background-color: #ffffff;\">eat</u><span style=\"color: #242938; background-color: #ffffff;\"> too much at night, your stomach </span><u style=\"box-sizing: border-box; color: #242938; background-color: #ffffff;\">would feel</u><span style=\"color: #242938; background-color: #ffffff;\"> bad. You should avoid having a large meal before bedtime.</span></span></p>",
+          "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">1. </span><span style=\"color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Câu phía sau là “Bạn nên tránh ăn nhiều trước khi ngủ\" =&gt; Một lời khuyên về hành động có thể xảy ra ở hiện tại<br /></span><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=&gt; Câu điều kiện loại 1</span></p>\n<p><span id=\"docs-internal-guid-233ae2f2-7fff-03e5-5a6b-ed654f115495\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 918443,
+                "content": "A. eat"
+              },
+              {
+                "id": 918444,
+                "content": "B. would feel"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434065,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 105449,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\">→ Correct the mistake: [input_0]</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434066,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2. </span><span style=\"color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Câu nói về “Nếu tôi là bạn” =&gt;<span style=\"color: #000000; background-color: transparent;\"> Một</span> lời khuyên về hành động không có thật ở hiện tại<br /></span><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=&gt; Câu điều kiện loại 2</span></p>\n<p><span id=\"docs-internal-guid-d5e84d3c-7fff-361e-ee70-3d3d52357f8c\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"></span></p>",
+          "introduction": "<p><span style=\"color: #242938; font-family: arial, helvetica, sans-serif; font-size: 16px; background-color: #ffffff;\">2. Hazel: “I’m having a terrible headache right now. This pain in my head is terrible.”</span><br style=\"box-sizing: border-box; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\" /><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #242938; font-size: 16px; background-color: #ffffff;\">    John: “If I </span><u style=\"box-sizing: border-box; color: #242938; font-size: 16px; background-color: #ffffff;\">am</u><span style=\"color: #242938; font-size: 16px; background-color: #ffffff;\"> you, I </span><u style=\"box-sizing: border-box; color: #242938; font-size: 16px; background-color: #ffffff;\">would take</u><span style=\"color: #242938; font-size: 16px; background-color: #ffffff;\"> some aspirin.”</span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 918445,
+                "content": "A. am"
+              },
+              {
+                "id": 918446,
+                "content": "B. would take"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434067,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 105450,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Correct the mistake: [input_0]</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434068,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">3. If children <span style=\"text-decoration: underline;\">ate</span> too many sugary snacks, they <span style=\"text-decoration: underline;\">will develop</span> serious dental problems. Therefore, parents should limit the amount of sugar children consume every day.</span></p>",
+          "explain": "<p dir=\"ltr\" style=\"background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">3. </span><span style=\"color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A<br /></span></span><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Một kết quả có thể xảy ra trong tương lai nếu điều kiện xảy ra<br /></span><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">=&gt; Câu điều kiện loại 1</span></p>\n<p><span id=\"docs-internal-guid-11862391-7fff-7ab3-47c0-d557db7b8ffe\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 918447,
+                "content": "A. ate"
+              },
+              {
+                "id": 918448,
+                "content": "B. will develop"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434069,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 105451,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000;\">→ Correct the mistake: [input_0]</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434070,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">4. If you <span style=\"text-decoration: underline;\">stay</span> in bed, your back <span style=\"text-decoration: underline;\">wouldn’t hurt</span> as much. You are always going outside and doing the gardening when you’re not supposed to!</span></p>",
+          "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">4. </span><span style=\"color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Câu phía sau nói về 1 thói quen xấu là “Bạn luôn đi ra ngoài làm vườn khi không cần thiết\" =&gt; 1 lời khuyên về hành động không có thật ở hiện tại<br /></span><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=&gt; Câu điều kiện loại 2</span></p>\n<p><span id=\"docs-internal-guid-854bd845-7fff-aa9d-44fe-f8e93011748d\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 918449,
+                "content": "A. stay"
+              },
+              {
+                "id": 918450,
+                "content": "B. wouldn't hurt"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434071,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 105452,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Correct the mistake: [input_0]</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434072,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">5. If I <span style=\"text-decoration: underline;\">didn’t have</span> a sore throat, I <span style=\"text-decoration: underline;\">will speak</span> louder and you would hear me clearly through the phone. Now I can barely talk and it is bothering me so much. I think I need some hot lemon tea.</span></p>",
+          "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">5. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Câu nói về việc nhân vật tôi “không thể nói\" =&gt; 1 hành động không có thật ở hiện tại (nếu không bị đau họng)<br /></span><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=&gt; Câu điều kiện loại 2</span></p>\n<p><span id=\"docs-internal-guid-e40c948a-7fff-cf64-6df1-aa56eefaf228\" style=\"font-family: arial, helvetica, sans-serif;\"></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 918451,
+                "content": "A. didn't have"
+              },
+              {
+                "id": 918452,
+                "content": "B. will speak"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434073,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 105453,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\">→ Correct the mistake: [input_0]</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434074,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">6. I saw a commercial that advertised this type of medicine and it worked so well for me the last time I caught a cold. If you <span style=\"text-decoration: underline;\">took</span> that cold medicine I bought, you <span style=\"text-decoration: underline;\">will get</span> over the cold soon.</span></p>",
+          "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">6. </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A<br /></span></span><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Câu nói về 1 hành động sẽ có thể xảy ra (khoẻ hơn khi uống thuốc) trong tương lai<br />=&gt; Câu điều kiện loại 1</span></p>\n<p><span id=\"docs-internal-guid-620058da-7fff-f49b-59b5-5926d923076c\" style=\"font-family: arial, helvetica, sans-serif;\"></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 918453,
+                "content": "A. took"
+              },
+              {
+                "id": 918454,
+                "content": "B. will get"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434075,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 105454,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Correct the mistake: [input_0]</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434076,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">7. If I <span style=\"text-decoration: underline;\">were to invent</span> a good cold remedy, it <span style=\"text-decoration: underline;\">will be</span> from nature such as garlic, lemon, ginger and honey. I think it would be effective and would help people get rid of a cold as soon as possible.</span></p>",
+          "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">7. </span><span style=\"color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Nhân vật tôi không thực sự phát minh ra 1 loại thuốc cảm =&gt; Một hành động không có thật ở hiện tại<br /></span><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=&gt; Câu điều kiện loại 2</span></p>\n<p><span id=\"docs-internal-guid-0950a396-7fff-1c5a-f754-bda68bdd4ec3\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 918455,
+                "content": "A. were to invent"
+              },
+              {
+                "id": 918456,
+                "content": "B. will be"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434077,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 105455,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Correct the mistake: [input_0]</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434078,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">8. If I <span style=\"text-decoration: underline;\">knew</span> how to make hot chicken soup, I <span style=\"text-decoration: underline;\">will make</span> it for my mom every time she gets sick. I guess I will learn how to make the soup in tutorial videos on Youtube.</span></p>",
+          "explain": "<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">8. </span><span style=\"color: #cc0000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Nhân vật tôi không thực sự biết làm súp gà =&gt; Một hành động không có thật ở hiện tại<br /></span><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 500; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">=&gt; Câu điều kiện loại 2</span></p>\n<p><span id=\"docs-internal-guid-0aa9b0d2-7fff-52eb-a329-9f1d9e5f4a4d\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 918457,
+                "content": "A. knew"
+              },
+              {
+                "id": 918458,
+                "content": "B. will make"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434079,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 105456,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Correct the mistake: [input_0]</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434080,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": "<h3 dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Đối với bài này, HV cần cân nhắc đến cách dùng của câu điều kiện loại 1 + loại 2 để áp dụng chính xác. </span></h3>\n<p><span id=\"docs-internal-guid-4f1a8c51-7fff-8608-6607-21276419c5f7\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"></span></p>",
+          "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #ba372a;\"><strong>Exercise 2</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Complete each sentence so that it has a similar meaning to the first sentence.</strong><em> (Hoàn thiện mỗi câu sao cho ý nghĩa tương đương với câu gốc)</em></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 105457,
+              "content": "<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">1. I am always busy with my studies and part-time job at the moment, so I don't have enough time to exercise regularly and stay healthy.<br />→ If I [input_0] enough time at the moment, I [input_1] regularly and stay healthy.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">2. You don't drink enough water during the day, and you will feel tired and unable to concentrate on your work.<br data-start=\"580\" data-end=\"583\" />→ If you [input_2] enough water during the day, you [input_3] tired and unable to concentrate on your work.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">3. Because there aren't any possible cures for this disease, a lot of people from this region still have to suffer from it. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"background-color: #ffffff;\">→</span><span style=\"background-color: #ffffff;\"> </span>If there [input_4] some possible cures for this disease, a lot of people from this region [input_5] to suffer from it. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">4. I don't know how to manage stress effectively, so I often feel overwhelmed.<br data-start=\"3920\" data-end=\"3923\" />→ If I [input_6] how to manage stress effectively, I [input_7] less overwhelmed.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">5. Do some light exercise every day, and you will improve not only your physical health but also your mental well-being.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">→ If you [input_8] some light exercise every day, you [input_9] both your physical health and mental well-being.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">6. I am always under a lot of pressure from my studies, so I cannot maintain a healthy lifestyle.<br data-start=\"2065\" data-end=\"2068\" />→ If I [input_10] under less pressure from my studies, I [input_11] a healthier lifestyle.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">7. Many people continue to work under too much pressure, so they will suffer from serious stress-related problems in the long run.<br data-start=\"969\" data-end=\"972\" />→ If people [input_12] under too much pressure, they [input_13] serious stress-related problems in the long run.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">8. You should cut down on smoking. You have been coughing uncontrollably.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"background-color: #ffffff;\">→</span><span style=\"background-color: #ffffff;\"> </span>You have been coughing uncontrollably. If I [input_14] you, I [input_15] down on smoking.</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434081,
+          "name": null,
+          "title": "VOCABULARY - SCRIPT",
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span id=\"docs-internal-guid-e7a87aed-7fff-d602-2025-56e71d895cd0\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #ba372a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 1</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Rearrange the following words to complete the sentences. </span><span style=\"color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><em>(Sắp xếp các từ sau để tạo thành câu hoàn chỉnh)</em></span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 105458,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>1.</strong> A: I have a bad ear infection. It's really painful. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">    B: I think you should see a doctor. <em><strong><span style=\"color: #34495e;\">antibiotics /some / ear drops / He / give / will / and / you / some / .</span></strong></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ B: I think you should see a doctor. [input_0]</span></p>\n<p> </p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>2.</strong> I came down with food poisoning two days ago. I got really sick in the middle of the night, but I didn't go to the doctor. <span style=\"color: #34495e;\"> </span></span></p>\n<p><em><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #34495e;\">just / the / I / I / and / medicine / took / better / today / feel / .</span></span></strong></em></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ [input_1]</span></p>\n<p> </p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>3.</strong> An: Ben, I don't think I can come to your party tonight. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">    Ben: Oh no, why? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">    An: <em><strong><span style=\"color: #34495e;\">ate /last night / well / I / too / and / stomach / doesn't / my / much / feel / at all / .</span></strong></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ An: [input_2]</span></p>\n<p> </p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>4.</strong> A: I need to go to the drugstore. <em><strong><span style=\"color: #34495e;\">my head / have / I / and / a / cold / bad / is / all / stuffed up / .</span></strong></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">    B: Oh, that's too bad. I hope you feel better soon. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ A: I need to go to the drugstore. [input_3]</span></p>\n<p> </p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>5.</strong> I had an upset stomach last night. I tried taking the new medicine that they advertised on TV.<span style=\"color: #34495e;\"> </span></span></p>\n<p><em><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #34495e;\">it / worked / well / so / me / for / , / Luckily / .</span></span></strong></em></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ [input_4]</span></p>\n<p> </p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>6.</strong> A: This pain in my head is terrible. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">    B:<strong> <em><span style=\"color: #34495e;\">aspirin / some / you / get / me / Let / .</span></em></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ B: [input_5] </span></p>\n<p> </p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>7.</strong> A: <span style=\"color: #34495e;\"><em><strong>this / I / have / cold / great / remedy /.</strong></em> It always works. </span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">    B: Oh, what's it like? </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">    A: I chop up a bunch of garlic, put it in hot water, then drink it. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ A: [input_6]</span></p>\n<p> </p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>8.</strong> A: I usually have orange juice when I have a cold. It's supposed to be good for you because it has a lot of Vitamin C in it.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">      B: Interesting. Maybe I should try it. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">      A:<span style=\"color: #34495e;\"> <em><strong>a lot of / can / anything / orange juice / Drinking / cure / !</strong></em></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">      B: Err…I'm not sure about that. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ A: [input_7] </span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434082,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><span id=\"docs-internal-guid-7a74e82c-7fff-e73d-ad02-c1f07256bc48\" style=\"font-size: 12pt; color: #ba372a;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 2<br /></span></span><span id=\"docs-internal-guid-7a74e82c-7fff-e73d-ad02-c1f07256bc48\" style=\"font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Choose the suitable phrases to complete the following sentences </span><span style=\"font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Đoán từ cần điền để hoàn thiện các câu sau. Sử dụng từ vựng đã học bên cột trái.)</span></span></span></p>\n<table style=\"border-collapse: collapse; width: 100.01%; height: 48.125px; border-color: #000000;\" border=\"1\">\n<tbody>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 24.9827%; height: 24.0625px;\"><span>soft drinks</span></td>\n<td style=\"width: 24.9827%; height: 24.0625px;\">suffer from illnesses</td>\n<td style=\"width: 24.9827%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">break</span></td>\n<td style=\"width: 24.9827%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">work out </span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 24.9827%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">mental health</span></td>\n<td style=\"width: 24.9827%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">health benefits</span></td>\n<td style=\"width: 24.9827%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">allergy </span></td>\n<td style=\"width: 24.9827%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">maintain a balanced diet</span></td>\n</tr>\n</tbody>\n</table>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 105459,
+              "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">Eating healthy food has many <strong>[input_0]</strong>. It helps people <strong>[input_1]</strong> and stay healthy. For example, people who <strong>[input_2]</strong> regularly need healthy food to build endurance. Healthy eating is also good for <strong>[input_3]</strong> because it can make people feel happier and less stressed. In addition, it can help people <strong>[input_4]</strong> bad habits such as eating too much fast food or drinking <strong>[input_5]</strong> every day. People who eat healthy food are less likely to <strong><strong>[input_6]</strong></strong> or come down with diseases. However, they should avoid foods that can cause an <strong>[input_7]</strong>. Therefore, healthy eating is important for everyone.</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434083,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">1, Nếu mọi người ăn đồ ăn nhanh thường xuyên, họ có thể tăng cân và gặp các vấn đề về sức khỏe. <em><strong>(regularly/ gain weight/ suffer from)</strong></em></span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">1, If people eat fast food regularly, they may gain weight and suffer from health problems.</span></p>",
+          "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span id=\"docs-internal-guid-dcd930e5-7fff-a177-b0ba-82d0b464ac77\" style=\"color: #ba372a;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 3<br /></span></span><strong>Translate these sentences into English using the suggested words. You can change the form if necessary. </strong><em>(Dịch các câu sau sang tiếng Anh sử dụng từ gợi ý. Có thể thay đổi dạng từ nếu cần.)</em><br /></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": {
+              "id": 105460,
+              "content": "<p dir=\"ltr\" style=\"line-height: 2; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>1. </strong>In order to avoid health problems, she must stick to a balanced diet.</span></p>\n<p dir=\"ltr\" style=\"line-height: 2; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sentence using \"maintain\" → She needs to [</span><span style=\"color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">maintain a balanced diet]</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> to prevent health problems.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 2; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>2.</strong> Engaging in regular exercise can boost health and foster overall well-being.</span></p>\n<p dir=\"ltr\" style=\"line-height: 2; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sentence using \"promote\" → Regular exercise can enhance one's health and [</span><span style=\"color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">promote overall well-being]</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 2; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>3.</strong> In order to get over food poisoning, he had to stay in bed for a few days.</span></p>\n<p dir=\"ltr\" style=\"line-height: 2; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sentence using \"recover\" → To [</span><span style=\"color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">recover from food poisoning]</span><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, he had to stay in bed for a few days.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 2; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>4. </strong>He caught the flu after staying out in the rain for too long.</span></p>\n<p dir=\"ltr\" style=\"line-height: 2; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sentence using \"come down\" → He [<span style=\"color: #ba372a;\">came down with the flu</span>] after staying out in the rain for too long. </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>5.</strong> Tom decided to quit smoking to improve his overall health.</span></p>\n<p dir=\"ltr\" style=\"line-height: 2; margin-top: 0pt; margin-bottom: 0pt;\"><span id=\"docs-internal-guid-fa4c1298-7fff-ffa1-7435-c2ba63ec132d\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Sentence using ‘break’ → Tom decided to</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> [<span style=\"color: #ba372a;\">break the habit of smoking</span>]</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> to improve his overall health.</span></span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434084,
+          "name": null,
+          "title": null,
+          "content": "<p>2, Ăn quá nhiều đồ ăn nhanh có thể ảnh hưởng tiêu cực đến sức khỏe tinh thần vì mọi người có thể cảm thấy mệt mỏi. <em><strong>(have a negative effect on/ mental health)</strong></em></p>",
+          "explain": "<p>2, Eating too much fast food can have a negative effect on mental health because people can feel tired.</p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434085,
+          "name": null,
+          "title": null,
+          "content": "<p>3, Nếu chính phủ tăng giá đồ ăn nhanh, sẽ có ít người tiêu thụ nó hơn. <em><strong>(government/ increase/ consume)</strong></em></p>",
+          "explain": "<p>3, If the government increases the price of fast food, fewer people will consume it.</p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434086,
+          "name": null,
+          "title": null,
+          "content": "<p>4, Nếu mọi người từ bỏ thói quen hút thuốc, họ sẽ cải thiện sức khỏe tổng thể của mình. <em><strong>(break the habit of/ improve) </strong></em></p>",
+          "explain": "<p>4, If people break the habit of smoking, they will improve their overall health.</p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434087,
+          "name": null,
+          "title": null,
+          "content": "<p>5, Đồ ăn nhanh không lành mạnh, vì vậy mọi người không nên ăn nó quá thường xuyên. <em><strong>(unhealthy/ too often)</strong></em></p>",
+          "explain": "<p>5, Fast food is unhealthy, so people should not eat it too often.</p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        },
+        {
+          "challenge_id": 43469,
+          "id": 434088,
+          "name": null,
+          "title": "SHADOWING",
+          "content": null,
+          "explain": null,
+          "introduction": "<p style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span id=\"docs-internal-guid-235408a6-7fff-a57c-0b5a-90fe496d3e5c\" style=\"box-sizing: border-box; font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #ba372a;\"><span style=\"box-sizing: border-box; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 4</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span id=\"docs-internal-guid-235408a6-7fff-a57c-0b5a-90fe496d3e5c\" style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Shadowing </span><span style=\"box-sizing: border-box; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Nghe và bắt chước)<br /></span></span><em style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"box-sizing: border-box; font-style: normal; white-space-collapse: collapse;\">Nghe và bắt chước lại các câu sau trong bài nghe, bắt chước yêu cầu đúng ngữ âm, ngữ điệu và tốc độ. </span></span></span></em></span></p>\n<p style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"color: #e03e2d; font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong><span style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"box-sizing: border-box; white-space-collapse: collapse;\">Nộp link dưới đây: </span></span></span></span></strong></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

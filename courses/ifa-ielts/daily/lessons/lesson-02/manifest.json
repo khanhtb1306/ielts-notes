@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "lesson": 2,
+  "lessonKey": "lesson-02",
+  "title": "Lesson 2",
+  "source": "LangGo daily challenge API",
+  "rawFolder": "raw/",
+  "files": {
+    "content": "content.json",
+    "exercises": "exercises.json",
+    "scripts": "scripts.json",
+    "submission": "submission.json",
+    "audioManifest": "audio/manifest.json",
+    "imageManifest": "images/manifest.json"
+  },
+  "challenges": [
+    {
+      "id": 42073,
+      "challengeId": 42073,
+      "classChallengeId": "92767",
+      "number": 1,
+      "title": "[IELTS FOUNDATION A] - Lesson 2 - Challenge 1",
+      "note": "Vocabulary: Shopping - Cập nhật 07/2026",
+      "day": 2,
+      "deadline": "2026-09-16 22:02:00",
+      "totalQuestion": 33,
+      "classification": "dc",
+      "rawFile": "raw/challenge-01-42073.json"
+    },
+    {
+      "id": 42074,
+      "challengeId": 42074,
+      "classChallengeId": "92768",
+      "number": 2,
+      "title": "[IELTS FOUNDATION A] - Lesson 2 - Challenge 2",
+      "note": "Listening & Speaking: Shopping - Cập nhật 07/2026",
+      "day": 3,
+      "deadline": "2026-09-16 22:02:00",
+      "totalQuestion": 31,
+      "classification": "dc",
+      "rawFile": "raw/challenge-02-42074.json"
+    }
+  ]
+}

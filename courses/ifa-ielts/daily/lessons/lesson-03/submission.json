@@ -1,0 +1,558 @@
+{
+  "lesson": 3,
+  "lessonKey": "lesson-03",
+  "items": [
+    {
+      "challengeId": 42401,
+      "classChallengeId": "93087",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 36,
+      "submittedAt": "2026-09-18 15:25:35",
+      "markedAt": "2026-09-23 16:39:44",
+      "commentText": "Hi Khánh,\n\r\nBài này em làm khá tốt rồi! \n\r\nVới phần shadowing, em xem lại cách phát âm, trọng âm từ và luyện tập một số từ sau:\n\r\n\r\nUsed to → /ˈjuːst tu/ (nói nhanh nối thành /ˈjuːstə/)\n\r\nRollerblading → /ˈrəʊləbleɪdɪŋ/\n\r\nThink → /θɪŋk/\n\r\nPlaces → /ˈpleɪsɪz/\n\r\n\r\n Good effort!! Mình cố gắng tiếp tục phát huy trong các DC sau nha!",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "421785": {
+          "total_question": 8,
+          "total_correct_result_answer": 8,
+          "user_answer": {
+            "input_0": "keep fit",
+            "input_1": "lose weight",
+            "input_2": "team spirit",
+            "input_3": "communication skills",
+            "input_4": "participating in",
+            "input_5": "lively atmosphere",
+            "input_6": "a sense of enjoyment",
+            "input_7": "physical health"
+          },
+          "correct_answer": {
+            "input_0": [
+              "keep fit"
+            ],
+            "input_1": [
+              "lose weight"
+            ],
+            "input_2": [
+              "team spirit"
+            ],
+            "input_3": [
+              "communication skills"
+            ],
+            "input_4": [
+              "participating in"
+            ],
+            "input_5": [
+              "lively atmosphere"
+            ],
+            "input_6": [
+              "a sense of enjoyment"
+            ],
+            "input_7": [
+              "physical health"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 421785,
+          "challenge_id": 42401
+        },
+        "421786": {
+          "total_question": 6,
+          "total_correct_result_answer": 4,
+          "user_answer": {
+            "input_0": "I can't stand jogging",
+            "input_1": "This year I'm going to get in shape.",
+            "input_2": "You should join a gym and lift weights.",
+            "input_3": "I'm going to change my diet and start eating healthier food.",
+            "input_4": "tomorrow I will hit the gym.",
+            "input_5": "I prefer watching sports on TV because it helps me wind down after school."
+          },
+          "correct_answer": {
+            "input_0": [
+              "I can't stand jogging."
+            ],
+            "input_1": [
+              "I'm going to get in shape this year."
+            ],
+            "input_2": [
+              "You should join a gym and lift weights."
+            ],
+            "input_3": [
+              "I'm going to change my diet and start eating healthier food."
+            ],
+            "input_4": [
+              "I will hit the gym tomorrow."
+            ],
+            "input_5": [
+              "I prefer watching sports on TV because it helps me wind down after school.",
+              "I prefer watching sports on TV after school because it helps me wind down."
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": false,
+            "input_2": true,
+            "input_3": true,
+            "input_4": false,
+            "input_5": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 421786,
+          "challenge_id": 42401
+        },
+        "421787": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "I am a big fan of football, and I watch football matches every week.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 421787,
+          "challenge_id": 42401
+        },
+        "421788": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "My brother prefers solo sports because he can exercise at his own pace.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 421788,
+          "challenge_id": 42401
+        },
+        "421789": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "My father usually takes long walks in the morning to maintain good health.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 421789,
+          "challenge_id": 42401
+        },
+        "421790": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "Currently, many students join sports clubs to make new friends.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 421790,
+          "challenge_id": 42401
+        },
+        "421791": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "Many people exercise on a daily basis to improve their general health.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 421791,
+          "challenge_id": 42401
+        },
+        "421793": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 890684,
+          "correct_answer": 890684,
+          "result_answer": {
+            "890684": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 421793,
+          "challenge_id": 42401
+        },
+        "421794": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 890686,
+          "correct_answer": 890686,
+          "result_answer": {
+            "890686": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 421794,
+          "challenge_id": 42401
+        },
+        "421795": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 890691,
+          "correct_answer": 890691,
+          "result_answer": {
+            "890691": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 421795,
+          "challenge_id": 42401
+        },
+        "421796": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 890692,
+          "correct_answer": 890692,
+          "result_answer": {
+            "890692": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 421796,
+          "challenge_id": 42401
+        },
+        "421797": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 890696,
+          "correct_answer": 890696,
+          "result_answer": {
+            "890696": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 421797,
+          "challenge_id": 42401
+        },
+        "421798": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 890698,
+          "correct_answer": 890698,
+          "result_answer": {
+            "890698": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 421798,
+          "challenge_id": 42401
+        },
+        "421799": {
+          "total_question": 6,
+          "total_correct_result_answer": 6,
+          "user_answer": {
+            "input_0": "Today, Helen is not playing football because she feels tired.",
+            "input_1": "When the weather is nice, she goes to school by bike instead of taking the bus.",
+            "input_2": "Next weekend, she is going hiking in the mountains with her friends and taking many photos.",
+            "input_3": "In the evening, she sometimes goes jogging with her mom or takes long walks with her dad.",
+            "input_4": "Helen usually plays volleyball on weekends, but today she is swimming with her friends.",
+            "input_5": "Every once in a while, she goes to the beach in the morning and does yoga because she loves listening to the ocean while doing it."
+          },
+          "correct_answer": {
+            "input_0": [
+              "Today, Helen is not playing football because she feels tired.",
+              "Today, she is not playing football because she feels tired."
+            ],
+            "input_1": [
+              "When the weather is nice, she goes to school by bike instead of taking the bus.",
+              "When the weather is nice, Helen goes to school by bike instead of taking the bus."
+            ],
+            "input_2": [
+              "Next weekend, she is going hiking in the mountains with her friends and taking many photos."
+            ],
+            "input_3": [
+              "In the evening, she sometimes goes jogging with her mom or takes long walks with her dad.",
+              "In the evening, Helen sometimes goes jogging with her mom or takes long walks with her dad."
+            ],
+            "input_4": [
+              "Helen usually plays volleyball on weekends, but today she is swimming with her friends."
+            ],
+            "input_5": [
+              "Every once in a while, she goes to the beach in the morning and does yoga because she loves listening to the ocean while doing it.",
+              "Every once in a while, Helen goes to the beach in the morning and does yoga because she loves listening to the ocean while doing it."
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 421799,
+          "challenge_id": 42401
+        },
+        "421800": {
+          "total_question": 6,
+          "total_correct_result_answer": 6,
+          "user_answer": {
+            "input_0": "F",
+            "input_1": "B",
+            "input_2": "E",
+            "input_3": "D",
+            "input_4": "C",
+            "input_5": "A"
+          },
+          "correct_answer": {
+            "input_0": [
+              "F ",
+              " f"
+            ],
+            "input_1": [
+              "B ",
+              " b"
+            ],
+            "input_2": [
+              "E ",
+              " e"
+            ],
+            "input_3": [
+              "D ",
+              " d"
+            ],
+            "input_4": [
+              "C ",
+              " c"
+            ],
+            "input_5": [
+              "A ",
+              " a"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 421800,
+          "challenge_id": 42401
+        },
+        "421801": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://drive.google.com/file/d/1azFMRkvFx-tO73SGDZLFLE5OHVfXmzOp/view?usp=sharing",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 421801,
+          "challenge_id": 42401
+        }
+      }
+    },
+    {
+      "challengeId": 42402,
+      "classChallengeId": "93088",
+      "statusMark": null,
+      "rate": 0,
+      "correctAnswer": 27,
+      "submittedAt": "2026-09-18 16:17:09",
+      "markedAt": null,
+      "commentText": "",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "421802": {
+          "total_question": 11,
+          "total_correct_result_answer": 11,
+          "user_answer": {
+            "input_0": "swimming",
+            "input_1": "body",
+            "input_2": "mind",
+            "input_3": "jogging",
+            "input_4": "workouts",
+            "input_5": "individual",
+            "input_6": "focus",
+            "input_7": "social",
+            "input_8": "active",
+            "input_10": "benefits",
+            "input_9": "participating"
+          },
+          "correct_answer": {
+            "input_0": [
+              "swimming"
+            ],
+            "input_1": [
+              "body"
+            ],
+            "input_2": [
+              "mind"
+            ],
+            "input_3": [
+              "jogging"
+            ],
+            "input_4": [
+              "workouts"
+            ],
+            "input_5": [
+              "individual"
+            ],
+            "input_6": [
+              "focus"
+            ],
+            "input_7": [
+              "social"
+            ],
+            "input_8": [
+              "active"
+            ],
+            "input_9": [
+              "participating"
+            ],
+            "input_10": [
+              "benefits"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true,
+            "input_10": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 421802,
+          "challenge_id": 42402
+        },
+        "421803": {
+          "total_question": 5,
+          "total_correct_result_answer": 5,
+          "user_answer": {
+            "input_0": "bank",
+            "input_1": "gym",
+            "input_2": "hot",
+            "input_3": "skating",
+            "input_4": "volleyball"
+          },
+          "correct_answer": {
+            "input_0": [
+              "Bank"
+            ],
+            "input_1": [
+              "gym"
+            ],
+            "input_2": [
+              "hot"
+            ],
+            "input_3": [
+              "skating"
+            ],
+            "input_4": [
+              "volleyball"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 421803,
+          "challenge_id": 42402
+        },
+        "421804": {
+          "total_question": 10,
+          "total_correct_result_answer": 10,
+          "user_answer": {
+            "input_0": "đăng ký tham gia",
+            "input_1": "có xu hướng làm gì",
+            "input_2": "cảm giác có động lực",
+            "input_3": "duy trì vận động",
+            "input_4": "tập trung vào",
+            "input_5": "các môn thể thao có tổ chức",
+            "input_6": "tích cực tham gia",
+            "input_7": "sự linh hoạt",
+            "input_8": "đánh giá cao",
+            "input_9": "trải nghiệm"
+          },
+          "correct_answer": {
+            "input_0": [
+              ""
+            ],
+            "input_1": [
+              ""
+            ],
+            "input_2": [
+              ""
+            ],
+            "input_3": [
+              ""
+            ],
+            "input_4": [
+              ""
+            ],
+            "input_5": [
+              ""
+            ],
+            "input_6": [
+              ""
+            ],
+            "input_7": [
+              ""
+            ],
+            "input_8": [
+              ""
+            ],
+            "input_9": [
+              ""
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 421804,
+          "challenge_id": 42402
+        },
+        "421805": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://drive.google.com/file/d/1BfP8zbkoqj6ASgFDZxohkhBU67YdVVxV/view?usp=sharing",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 421805,
+          "challenge_id": 42402
+        }
+      }
+    }
+  ]
+}

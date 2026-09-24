@@ -1,0 +1,657 @@
+{
+  "lesson": null,
+  "lessonKey": "lesson-misc",
+  "questions": [
+    {
+      "id": "question-434110",
+      "sourceQuestionId": 434110,
+      "challengeId": 43471,
+      "classChallengeId": "94108",
+      "title": "Grammar & Vocabulary",
+      "type": 1,
+      "prompt": "Grammar & Vocabulary",
+      "introductionText": "Exercise 1: Listen & complete the following sentences (Nghe và hoàn thiện các câu sau)",
+      "contentText": "",
+      "answerTemplateText": "The shoes are [input_0], and they [input_1], so you can match them with your clothes easily.\n\nI decided to [input_2] and [input_3] so that I could [input_4] and improve my general health.\n\nEven though I [input_5], I take time to lift weights and do sit-ups because I want to [input_6] and avoid getting a little fat in the stomach.\n\nThe customers rushed in to [input_7], but many [input_8] because the prices were still too high.\n\nI [input_9] on a daily basis to [input_10], but sometimes I also take long walks to [input_11].\n\nMany urban dwellers prefer [input_12], but some still [input_13] to avoid crowded buses and subways [input_14].\n\nYou should always [input_15], for it helps you find more [input_16] and avoid being overcharged.\n\nShe [input_17] some colleges and hoped to [input_18] because she has always wanted to do a doctorate in archaeology.\n\nBecause express trains [input_19] and quickly, they are a popular means of transport for [input_20] who want to [input_21].\n\nHe has a talent for languages, so he [input_22] while [input_23].",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "Grammar & Vocabulary",
+        "introduction": "<p><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 1: Listen &amp; complete the following sentences</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Nghe và hoàn thiện các câu sau)</span></p>",
+        "content": null,
+        "answerTemplate": "<p><span id=\"docs-internal-guid-87a63e27-7fff-74fc-80c7-0a4c86256b3d\" style=\"font-family: Nunito-Regular;\"></span></p>\n<ol>\n<li dir=\"ltr\" style=\"line-height: 2;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The shoes are </span><span style=\"font-size: 12pt; color: #990000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_0]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, and they </span><span style=\"font-size: 12pt; color: #990000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, so you can match them with your clothes easily.</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 2;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I decided to </span><span style=\"font-size: 12pt; color: #990000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_2]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> and </span><span style=\"font-size: 12pt; color: #990000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_3]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> so that I could </span><span style=\"font-size: 12pt; color: #990000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_4]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> and improve my general health.</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 2;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Even though I </span><span style=\"font-size: 12pt; color: #990000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_5]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, I take time to lift weights and do sit-ups because I want to</span><span style=\"font-size: 12pt; color: #990000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> [input_6]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> and avoid getting a little fat in the stomach.</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 2;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The customers rushed in to</span><span style=\"font-size: 12pt; color: #990000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> [input_7]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, but many </span><span style=\"font-size: 12pt; color: #990000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_8]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> because the prices were still too high.</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 2;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I </span><span style=\"font-size: 12pt; color: #990000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_9]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> on a daily basis to </span><span style=\"font-size: 12pt; color: #990000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_10]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, but sometimes I also take long walks to </span><span style=\"font-size: 12pt; color: #990000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_11]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">.</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 2;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Many urban dwellers prefer </span><span style=\"font-size: 12pt; color: #990000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_12]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, but some still </span><span style=\"font-size: 12pt; color: #990000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_13]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> to avoid crowded buses and subways </span><span style=\"font-size: 12pt; color: #990000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_14]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">.</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 2;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">You should always </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_15]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, for it helps you find more </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_16]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> and avoid being overcharged.</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 2;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">She </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_17]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> some colleges and hoped to </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_18]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> because she has always wanted to do a doctorate in archaeology.</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 2;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Because express trains </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_19]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> and quickly, they are a popular means of transport for </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_20] </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">who want to</span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> [input_21]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">.</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 2;\" role=\"presentation\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">He has a talent for languages, so he </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_22]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> while </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_23]</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">.</span></span></li>\n</ol>",
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434111",
+      "sourceQuestionId": 434111,
+      "challengeId": 43471,
+      "classChallengeId": "94108",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2: Choose the suitable words to complete the following dialogues (Chọn từ thích hợp để hoàn thiện các đoạn hội thoại sau)",
+      "introductionText": "Exercise 2: Choose the suitable words to complete the following dialogues (Chọn từ thích hợp để hoàn thiện các đoạn hội thoại sau)",
+      "contentText": "",
+      "answerTemplateText": "Dialogue 1: \n\nRachel: Monica, I can't believe we're in this store! I've been waiting all year to buy a new jacket. Last year, I bought a coat that (1) [input_0] after just a few wears.\n\nMonica: That's the worst! I hope you find a well-made one. Oh my god, Rachel, look! I love those boots! I need to find some (2) [input_1] on them.\n\nRachel: Nice. And remember, they must be (3) [input_2], just in case you step into any puddles like Joey!\n\nMonica: Absolutely! Let's (4) [input_3] online first to make sure we're getting the best deal.\n\n \n\nDialogue 2: \n\nSheldon: Leonard, I (5) [input_4] for a new astrophysics course. I'm sure I'll (6) [input_5] since it's practically elementary for me.\n\nLeonard: Well, I'm glad you're doing something productive. Just make sure you don't (7) [input_6] like last time with your robot-building class.\n\nSheldon: Leonard, I (8) [input_7] when I do something I'm interested in. That class was beneath me!\n\n \n\nDialogue 3: \n\nNobita: Doraemon, I want to get better at sports. I keep getting picked last in gym class.\n\nDoraemon: Don't worry, Nobita. Why don't you (9) [input_8] in the mornings? It's a good way to build your stamina.\n\nNobita: That sounds tiring... I'd rather use one of your gadgets to make me strong instantly!\n\nDoraemon: Nobita, no gadgets this time. You need to (10) [input_9] or (11) [input_10] regularly if you want to improve. How about we start with some light exercises?\n\nNobita: Fine, I'll give it a try. But if I don't see results soon, I'm going back to the gadgets!\n\n \n\nDialogue 4: \n\nTom: They could encourage more people to use public transport and reduce the number of cars. (12) [input_11] like electric buses would really help cut down on the (13) [input_12].\n\nLisa: Absolutely. I've been thinking about getting an electric scooter to commute to work. It's small, easy to park, and doesn't (14) [input_13].",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-d8e635cf-7fff-743b-1721-d7c6a66fe0eb\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 2: Choose the suitable words to complete the following dialogues </span><span style=\"font-size: 12pt; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Chọn từ thích hợp để hoàn thiện các đoạn hội thoại sau)</span></span></p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">Dialogue 1: </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #0b5394; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Rachel:</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> Monica, I can't believe we're in this store! I've been waiting all year to buy a new jacket. Last year, I bought a coat that</span></span><span style=\"font-size: 12pt; white-space-collapse: preserve; font-family: Nunito-Regular;\"> <strong>(1)</strong> </span><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-size: 12pt; white-space-collapse: preserve; font-family: Nunito-Regular;\"><span style=\"font-size: 16px; white-space-collapse: preserve; font-family: Nunito-Regular;\">[input_0]</span></span></span></span><span style=\"font-family: Nunito-Regular; font-size: 12pt; white-space-collapse: preserve;\"> after just a few wears.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #0b5394; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Monica: </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">That's the worst! I hope you find a well-made one. Oh my god, Rachel, look! I love those boots! I need to find some <strong>(2) </strong><span style=\"font-size: 12pt; white-space-collapse: preserve; font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_1]</span></span></span> on them.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #0b5394; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Rachel:</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> Nice. And remember, they must be <strong>(3)</strong> <span style=\"font-size: 12pt; white-space-collapse: preserve; font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_2]</span></span></span>, just in case you step into any puddles like Joey!</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #0b5394; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Monica: </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Absolutely! Let's <strong>(4) </strong><span style=\"font-size: 12pt; white-space-collapse: preserve; font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_3]</span></span></span> online first to make sure we're getting the best deal.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">Dialogue 2: </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #0b5394; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sheldon:</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> Leonard, I <strong>(5)</strong> <span style=\"font-size: 12pt; white-space-collapse: preserve; font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; font-style: italic; white-space-collapse: preserve;\">[input_4]</span></span></span> for a new astrophysics course. I'm sure I'll <strong>(6)</strong> <span style=\"font-family: Nunito-Regular; font-size: 12pt; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; font-style: italic; white-space-collapse: preserve;\">[input_5]</span></span> since it's practically elementary for me.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #0b5394; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Leonard: </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Well, I'm glad you're doing something productive. Just make sure you don't <strong>(7)</strong> <span style=\"font-size: 12pt; white-space-collapse: preserve; font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; font-style: italic; white-space-collapse: preserve;\">[input_6]</span></span></span> like last time with your robot-building class.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #0b5394; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sheldon:</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> Leonard, I <strong>(8)</strong> <span style=\"font-size: 12pt; white-space-collapse: preserve; font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; font-style: italic; white-space-collapse: preserve;\">[input_7]</span></span></span> when I do something I'm interested in. That class was beneath me!</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">Dialogue 3: </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #0b5394; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Nobita:</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> Doraemon, I want to get better at sports. I keep getting picked last in gym class.</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #0b5394; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Doraemon:</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> Don't worry, Nobita. Why don't you <strong>(9)</strong> <span style=\"font-size: 12pt; white-space-collapse: preserve; font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_8]</span></span></span> in the mornings? It's a good way to build your stamina.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #0b5394; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Nobita:</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> That sounds tiring... I'd rather use one of your gadgets to make me strong instantly!</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #0b5394; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Doraemon:</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> Nobita, no gadgets this time. You need to <strong>(10) </strong><span style=\"font-size: 12pt; white-space-collapse: preserve; font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_9]</span></span></span> or <strong>(11)</strong> <span style=\"font-family: Nunito-Regular; font-size: 12pt; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_10]</span></span> regularly if you want to improve. How about we start with some light exercises?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #0b5394; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Nobita:</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> Fine, I'll give it a try. But if I don't see results soon, I'm going back to the gadgets!</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: Nunito-Regular; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">Dialogue 4: </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #0b5394; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Tom:</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> They could encourage more people to use public transport and reduce the number of cars. <strong>(12)</strong> <span style=\"font-size: 12pt; white-space-collapse: preserve; font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_11]</span></span></span> like electric buses would really help cut down on the (13) <span style=\"font-family: Nunito-Regular; font-size: 12pt; white-space-collapse: preserve;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_12]</span></span>.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; color: #0b5394; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Lisa</span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">: Absolutely. I've been thinking about getting an electric scooter to commute to work. It's small, easy to park, and doesn't <strong>(14)</strong> <span style=\"font-size: 12pt; white-space-collapse: preserve; font-family: Nunito-Regular;\"><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\">[input_13]</span></span></span>.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"> </p>",
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434112",
+      "sourceQuestionId": 434112,
+      "challengeId": 43471,
+      "classChallengeId": "94108",
+      "title": null,
+      "type": null,
+      "prompt": "Exercise 3: Choose the correct answer. (Chọn đ&aacute;p &aacute;n đ&uacute;ng)",
+      "introductionText": "Exercise 3: Choose the correct answer. (Chọn đ&aacute;p &aacute;n đ&uacute;ng)",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-a4a5c3ac-7fff-a383-001a-2f03d95062ed\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 3: Choose the correct answer. </span><em><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Chọn đ&aacute;p &aacute;n đ&uacute;ng)</span></em></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434113",
+      "sourceQuestionId": 434113,
+      "challengeId": 43471,
+      "classChallengeId": "94108",
+      "title": null,
+      "type": 4,
+      "prompt": "1. Huong _______ vegetables at the local market, but today she _______ at the supermarket because of the rainy weather.",
+      "introductionText": "1. Huong _______ vegetables at the local market, but today she _______ at the supermarket because of the rainy weather.",
+      "contentText": "",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-Regular; font-size: 16px; white-space-collapse: preserve;\"><strong>1.</strong> Huong _______ vegetables at the local market, but today she _______ at the supermarket because of the rainy weather.</span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918489,
+          "content": "A. buys / will shop"
+        },
+        {
+          "id": 918490,
+          "content": "B. is buying / shops"
+        },
+        {
+          "id": 918491,
+          "content": "C. often buys / is shopping"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434114",
+      "sourceQuestionId": 434114,
+      "challengeId": 43471,
+      "classChallengeId": "94108",
+      "title": null,
+      "type": 4,
+      "prompt": "2. Tuan always _______ in his studies, but this year he _______ to focus more and catch up.",
+      "introductionText": "2. Tuan always _______ in his studies, but this year he _______ to focus more and catch up.",
+      "contentText": "",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-9c59c856-7fff-1b83-5887-cc21e68edca8\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>2.</strong> Tuan always _______ in his studies, but this year he _______ to focus more and catch up.</span></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918492,
+          "content": "A. falls behind / is planning"
+        },
+        {
+          "id": 918493,
+          "content": "B. fell behind / plans"
+        },
+        {
+          "id": 918494,
+          "content": "C. has fallen behind / was planning"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434115",
+      "sourceQuestionId": 434115,
+      "challengeId": 43471,
+      "classChallengeId": "94108",
+      "title": null,
+      "type": 4,
+      "prompt": "3. Tomorrow, we _______ the bus to the city center because the subway _______ under maintenance.",
+      "introductionText": "3. Tomorrow, we _______ the bus to the city center because the subway _______ under maintenance.",
+      "contentText": "",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\"><strong>3. </strong>Tomorrow, we _______ the bus to the city center because the subway _______ under maintenance.</span></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918495,
+          "content": "A. took / will be"
+        },
+        {
+          "id": 918496,
+          "content": "B. are taking / was"
+        },
+        {
+          "id": 918497,
+          "content": "C. will take / is"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434116",
+      "sourceQuestionId": 434116,
+      "challengeId": 43471,
+      "classChallengeId": "94108",
+      "title": null,
+      "type": 4,
+      "prompt": "4. By the time the students _______ at the stadium, the sports event _______ .",
+      "introductionText": "4. By the time the students _______ at the stadium, the sports event _______ .",
+      "contentText": "",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span id=\"docs-internal-guid-3a31fd66-7fff-dd37-b6df-8e351ed8fd64\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><strong>4.</strong> By the time the students _______ at the stadium, the sports event _______ .</span></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918498,
+          "content": "A. arrive / already started"
+        },
+        {
+          "id": 918499,
+          "content": "B. arrived / had already started"
+        },
+        {
+          "id": 918500,
+          "content": "C. are arriving / has already started"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434117",
+      "sourceQuestionId": 434117,
+      "challengeId": 43471,
+      "classChallengeId": "94108",
+      "title": null,
+      "type": 4,
+      "prompt": "5. Linh _______ shopping online, but she _______ to buy some new clothes for the upcoming Tet holiday.",
+      "introductionText": "5. Linh _______ shopping online, but she _______ to buy some new clothes for the upcoming Tet holiday.",
+      "contentText": "",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\"><strong>5. </strong>Linh _______ shopping online, but she _______ to buy some new clothes for the upcoming Tet holiday.</span></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918501,
+          "content": "A. does not like / needs"
+        },
+        {
+          "id": 918502,
+          "content": "B. is not liking / will need"
+        },
+        {
+          "id": 918503,
+          "content": "C. not likes / needed"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434118",
+      "sourceQuestionId": 434118,
+      "challengeId": 43471,
+      "classChallengeId": "94108",
+      "title": null,
+      "type": 4,
+      "prompt": "6. Nguyet usually _______ prices before she _______ a purchase, but last week she _______ a dress on impulse.",
+      "introductionText": "6. Nguyet usually _______ prices before she _______ a purchase, but last week she _______ a dress on impulse.",
+      "contentText": "",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\"><strong>6. </strong>Nguyet usually _______ prices before she _______ a purchase, but last week she _______ a dress on impulse.</span></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918504,
+          "content": "A. compares / makes / bought"
+        },
+        {
+          "id": 918505,
+          "content": "B. is comparing / is making / buys"
+        },
+        {
+          "id": 918506,
+          "content": "C. compared / made / had bought"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434119",
+      "sourceQuestionId": 434119,
+      "challengeId": 43471,
+      "classChallengeId": "94108",
+      "title": null,
+      "type": 4,
+      "prompt": "7. Hai _______ the receipt after she _______ the price was higher than expected.",
+      "introductionText": "7. Hai _______ the receipt after she _______ the price was higher than expected.",
+      "contentText": "",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\"><strong>7. </strong>Hai _______ the receipt after she _______ the price was higher than expected.</span></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918507,
+          "content": "A. checks / realizes"
+        },
+        {
+          "id": 918508,
+          "content": "B. checked / realized"
+        },
+        {
+          "id": 918509,
+          "content": "C. has checked / is realizing"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434120",
+      "sourceQuestionId": 434120,
+      "challengeId": 43471,
+      "classChallengeId": "94108",
+      "title": null,
+      "type": 4,
+      "prompt": "8. Charlotte _______ a gym to get more exercise. She _______ 5 kilos since she started.",
+      "introductionText": "8. Charlotte _______ a gym to get more exercise. She _______ 5 kilos since she started.",
+      "contentText": "",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\"><strong>8. </strong>Charlotte _______ a gym to get more exercise. She _______ 5 kilos since she started.</span></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918510,
+          "content": "A. joins / already lost"
+        },
+        {
+          "id": 918511,
+          "content": "B. has joined / loses"
+        },
+        {
+          "id": 918512,
+          "content": "C. joined / has already lost"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434121",
+      "sourceQuestionId": 434121,
+      "challengeId": 43471,
+      "classChallengeId": "94108",
+      "title": null,
+      "type": 4,
+      "prompt": "9. Quynh _______ very busy this week because she _______ for her final exams.",
+      "introductionText": "9. Quynh _______ very busy this week because she _______ for her final exams.",
+      "contentText": "",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\"><strong>9. </strong>Quynh _______ very busy this week because she _______ for her final exams.</span></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918513,
+          "content": "A. is / is preparing"
+        },
+        {
+          "id": 918514,
+          "content": "B. was / prepares"
+        },
+        {
+          "id": 918515,
+          "content": "C. has been / prepared"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434122",
+      "sourceQuestionId": 434122,
+      "challengeId": 43471,
+      "classChallengeId": "94108",
+      "title": null,
+      "type": 4,
+      "prompt": "10. After the new metro line _______ last year, the traffic congestion _______ significantly.",
+      "introductionText": "10. After the new metro line _______ last year, the traffic congestion _______ significantly.",
+      "contentText": "",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\"><strong>10. </strong>After the new metro line _______ last year, the traffic congestion _______ significantly.</span></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918516,
+          "content": "A. opens / improves"
+        },
+        {
+          "id": 918517,
+          "content": "B. opened / improved"
+        },
+        {
+          "id": 918518,
+          "content": "C. will open / will improve"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434123",
+      "sourceQuestionId": 434123,
+      "challengeId": 43471,
+      "classChallengeId": "94108",
+      "title": null,
+      "type": 4,
+      "prompt": "11. Nguyen _______ tennis every Saturday, but next weekend he _______ rollerblading.",
+      "introductionText": "11. Nguyen _______ tennis every Saturday, but next weekend he _______ rollerblading.",
+      "contentText": "",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\"><strong>11. </strong>Nguyen _______ tennis every Saturday, but next weekend he _______ rollerblading.</span></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918519,
+          "content": "A. played / tried"
+        },
+        {
+          "id": 918520,
+          "content": "B. is playing / tries"
+        },
+        {
+          "id": 918521,
+          "content": "C. plays / is going to try"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434124",
+      "sourceQuestionId": 434124,
+      "challengeId": 43471,
+      "classChallengeId": "94108",
+      "title": null,
+      "type": 4,
+      "prompt": "12. By the time I _______ to the store, they _______ out of the new phone model.",
+      "introductionText": "12. By the time I _______ to the store, they _______ out of the new phone model.",
+      "contentText": "",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\"><strong>12. </strong>By the time I _______ to the store, they _______ out of the new phone model.</span></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918522,
+          "content": "A. got / had sold"
+        },
+        {
+          "id": 918523,
+          "content": "B. get / sell"
+        },
+        {
+          "id": 918524,
+          "content": "C. got / have sold"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434125",
+      "sourceQuestionId": 434125,
+      "challengeId": 43471,
+      "classChallengeId": "94108",
+      "title": null,
+      "type": 4,
+      "prompt": "13. They _______ (not/win) any matches this season, but they&rsquo;re still practicing hard.",
+      "introductionText": "13. They _______ (not/win) any matches this season, but they&rsquo;re still practicing hard.",
+      "contentText": "",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\"><strong>13. </strong>They _______ (not/win) any matches this season, but they&rsquo;re still practicing hard.</span></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918525,
+          "content": "A. did not win"
+        },
+        {
+          "id": 918526,
+          "content": "B. have not won"
+        },
+        {
+          "id": 918527,
+          "content": "C. are not winning"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434126",
+      "sourceQuestionId": 434126,
+      "challengeId": 43471,
+      "classChallengeId": "94108",
+      "title": null,
+      "type": 4,
+      "prompt": "14. The company _______ electric buses next year to reduce pollution in the city.",
+      "introductionText": "14. The company _______ electric buses next year to reduce pollution in the city.",
+      "contentText": "",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\"><strong>14. </strong>The company _______ electric buses next year to reduce pollution in the city.</span></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918528,
+          "content": "A. will be introducing"
+        },
+        {
+          "id": 918529,
+          "content": "B. will introduce"
+        },
+        {
+          "id": 918530,
+          "content": "C. introduces"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434127",
+      "sourceQuestionId": 434127,
+      "challengeId": 43471,
+      "classChallengeId": "94108",
+      "title": null,
+      "type": 4,
+      "prompt": "15. Phuong _______ (not/like) shopping online, but she _______ (need) to buy some new clothes for the upcoming Tet holiday.",
+      "introductionText": "15. Phuong _______ (not/like) shopping online, but she _______ (need) to buy some new clothes for the upcoming Tet holiday.",
+      "contentText": "",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: Nunito-Regular;\"><span style=\"white-space-collapse: preserve;\"><strong>15. </strong>Phuong _______ (not/like) shopping online, but she _______ (need) to buy some new clothes for the upcoming Tet holiday.</span></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [
+        {
+          "id": 918531,
+          "content": "A. not likes / needed"
+        },
+        {
+          "id": 918532,
+          "content": "B. is not liking / will need"
+        },
+        {
+          "id": 918533,
+          "content": "C. does not like / needs"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-434128",
+      "sourceQuestionId": 434128,
+      "challengeId": 43471,
+      "classChallengeId": "94108",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 4: Choose the correct answers (Chọn đáp án đúng)",
+      "introductionText": "Exercise 4: Choose the correct answers (Chọn đáp án đúng)",
+      "contentText": "",
+      "answerTemplateText": "Your answer: |\n  |\n  |\n  |\n  |\n\n1. [input_0] |\nA. studies |\nB. is studying |\nC. study |\nD. studied |\n\n2. [input_1] |\nA. has studied |\nB. study |\nC. studying |\nD. studies |\n\n3. [input_2] |\nA. think |\nB. thinks |\nC. thinking  |\nD. is thinking |\n\n4. [input_3] |\nA. goes |\nB. went |\nC. is going  |\nD. has gone |\n\n5. [input_4] |\nA. was |\nB. is  |\nC. has been |\nD. will be |\n\n6. [input_5] |\nA. decides |\nB. has decided |\nC. is deciding |\nD. decided |\n\n7. [input_6] |\nA. finds |\nB. found |\nC. finding |\nD. has found |\n\n8. [input_7] |\nA. has  |\nB. having |\nC. had |\nD. will have |\n\n9. [input_8] |\nA. gets |\nB. get  |\nC. got  |\nD. is getting |\n\n10. [input_9] |\nA. had / spent |\nB. has / spent |\nC. spent / spends |\nD. is / spending |\n\n11. [input_10] |\nA. is |\nB. was |\nC. has been  |\nD. will be |\n\n12. [input_11] |\nA. is going |\nB. was going |\nC. is going to |\nD. going |\n\n13. [input_12] |\nA. tell  |\nB. is telling  |\nC. tells |\nD. told |\n\n14. [input_13] |\nA. would |\nB. shall  |\nC. can  |\nD. is |\n\n15. [input_14] |\nA. has  |\nB. did  |\nC. does |\nD.  is |\n\n16. [input_15] |\nA. will  |\nB. is going to  |\nC. should  |\nD. have |",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p> </p>\n<p><span id=\"docs-internal-guid-653e5c1e-7fff-5406-0cdb-7e36402f7293\" style=\"font-family: Nunito-Regular;\"><span style=\"font-size: 12pt; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 4: Choose the correct answers </span><em><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Chọn đáp án đúng)</span></em></span></p>",
+        "content": null,
+        "answerTemplate": "<table style=\"border-collapse: collapse; width: 100.056%; height: 647.836px; border-color: #ecf0f1;\" border=\"1\">\n<tbody>\n<tr style=\"height: 36.1111px;\">\n<td style=\"width: 9.06234%; height: 36.1111px;\"><strong><span style=\"font-family: Nunito-Regular;\">Your answer:</span></strong></td>\n<td style=\"width: 22.0296%; height: 36.1111px;\"> </td>\n<td style=\"width: 23.8715%; height: 36.1111px;\"> </td>\n<td style=\"width: 21.9575%; height: 36.1111px;\"> </td>\n<td style=\"width: 22.9858%; height: 36.1111px;\"> </td>\n</tr>\n<tr style=\"height: 36.1111px;\">\n<td style=\"width: 9.06234%; height: 36.1111px;\"><strong><span style=\"font-family: Nunito-Regular;\">1. [input_0]</span></strong></td>\n<td style=\"width: 22.0296%; height: 36.1111px;\"><span id=\"docs-internal-guid-5832587f-7fff-286d-0e4c-75096272f5c0\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">A. studies</span></span></td>\n<td style=\"width: 23.8715%; height: 36.1111px;\"><span id=\"docs-internal-guid-4f765f5a-7fff-3596-ca0f-0896fd09c144\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">B. is studying</span></span></td>\n<td style=\"width: 21.9575%; height: 36.1111px;\"><span id=\"docs-internal-guid-25eec373-7fff-449c-cae4-ab74d75c76e0\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">C. study</span></span></td>\n<td style=\"width: 22.9858%; height: 36.1111px;\"><span id=\"docs-internal-guid-572d74b5-7fff-6131-92cb-a7720bbab4c5\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">D. studied</span></span></td>\n</tr>\n<tr style=\"height: 36.1111px;\">\n<td style=\"width: 9.06234%; height: 36.1111px;\"><strong><span style=\"font-family: Nunito-Regular;\">2. [input_1]</span></strong></td>\n<td style=\"width: 22.0296%; height: 36.1111px;\"><span id=\"docs-internal-guid-d2a2c79b-7fff-7f83-e180-00f0f990fead\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">A. has studied</span></span></td>\n<td style=\"width: 23.8715%; height: 36.1111px;\"><span id=\"docs-internal-guid-b447c063-7fff-9041-8475-1a1390606e0c\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">B. study</span></span></td>\n<td style=\"width: 21.9575%; height: 36.1111px;\"><span id=\"docs-internal-guid-b7d1d7a0-7fff-9fd1-3e89-e1ad591283de\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">C. studying</span></span></td>\n<td style=\"width: 22.9858%; height: 36.1111px;\"><span id=\"docs-internal-guid-239db8b5-7fff-ab8c-f939-6ed5d73fb5c7\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">D. studies</span></span></td>\n</tr>\n<tr style=\"height: 36.1111px;\">\n<td style=\"width: 9.06234%; height: 36.1111px;\"><strong><span style=\"font-family: Nunito-Regular;\">3. [input_2]</span></strong></td>\n<td style=\"width: 22.0296%; height: 36.1111px;\"><span id=\"docs-internal-guid-17d60e92-7fff-b7b0-4fd1-c649fb67fcac\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">A. think</span></span></td>\n<td style=\"width: 23.8715%; height: 36.1111px;\"><span id=\"docs-internal-guid-0e333df1-7fff-c5d8-5a98-1092890e7a89\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">B. thinks</span></span></td>\n<td style=\"width: 21.9575%; height: 36.1111px;\"><span id=\"docs-internal-guid-d386e233-7fff-d1e3-5265-3a9e0580bb0a\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">C. thinking</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span class=\"Apple-tab-span\" style=\"text-wrap: nowrap;\"> </span></span></span></td>\n<td style=\"width: 22.9858%; height: 36.1111px;\"><span id=\"docs-internal-guid-09383218-7fff-de28-024c-45e5eb169b81\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">D. is thinking</span></span></td>\n</tr>\n<tr style=\"height: 36.1111px;\">\n<td style=\"width: 9.06234%; height: 36.1111px;\"><strong><span style=\"font-family: Nunito-Regular;\">4. [input_3]</span></strong></td>\n<td style=\"width: 22.0296%; height: 36.1111px;\"><span id=\"docs-internal-guid-c14910aa-7fff-eb02-6927-d67e41ae7964\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">A. goes</span></span></td>\n<td style=\"width: 23.8715%; height: 36.1111px;\"><span id=\"docs-internal-guid-5a2ef3a4-7fff-f6f0-81d5-fc244030cf2d\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">B. went</span></span></td>\n<td style=\"width: 21.9575%; height: 36.1111px;\"><span id=\"docs-internal-guid-f0a0c77a-7fff-027b-3ea3-751129d3940b\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">C. is going</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span class=\"Apple-tab-span\" style=\"text-wrap: nowrap;\"> </span></span></span></td>\n<td style=\"width: 22.9858%; height: 36.1111px;\"><span id=\"docs-internal-guid-37f461d0-7fff-12a2-3a01-0c5e607aaa63\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">D. has gone</span></span></td>\n</tr>\n<tr style=\"height: 36.1111px;\">\n<td style=\"width: 9.06234%; height: 36.1111px;\"><strong><span style=\"font-family: Nunito-Regular;\">5. [input_4]</span></strong></td>\n<td style=\"width: 22.0296%; height: 36.1111px;\"><span id=\"docs-internal-guid-231a51ac-7fff-21b5-889b-616b1ceeefca\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">A.</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">was</span></span></td>\n<td style=\"width: 23.8715%; height: 36.1111px;\"><span id=\"docs-internal-guid-bfa517c4-7fff-2df0-10b4-98868eb8af2e\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">B.</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">is</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span class=\"Apple-tab-span\" style=\"text-wrap: nowrap;\"> </span></span></span></td>\n<td style=\"width: 21.9575%; height: 36.1111px;\"><span id=\"docs-internal-guid-b0de8b07-7fff-3df0-8c9f-f83a84b9f452\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">C. has been</span></span></td>\n<td style=\"width: 22.9858%; height: 36.1111px;\"><span id=\"docs-internal-guid-5305aa60-7fff-4b8a-27f2-647fae860534\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">D. will be</span></span></td>\n</tr>\n<tr style=\"height: 36.1111px;\">\n<td style=\"width: 9.06234%; height: 36.1111px;\"><strong><span style=\"font-family: Nunito-Regular;\">6. [input_5]</span></strong></td>\n<td style=\"width: 22.0296%; height: 36.1111px;\"><span id=\"docs-internal-guid-7eb56fcb-7fff-5e7d-9af5-9042fdc66904\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">A. decides</span></span></td>\n<td style=\"width: 23.8715%; height: 36.1111px;\"><span id=\"docs-internal-guid-657ecaaf-7fff-6b19-f13b-1947e1a44bc3\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">B.</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">has decided</span></span></td>\n<td style=\"width: 21.9575%; height: 36.1111px;\"><span id=\"docs-internal-guid-b990ae8c-7fff-7a33-17ea-0f8271caa5a0\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">C. is deciding</span></span></td>\n<td style=\"width: 22.9858%; height: 36.1111px;\"><span id=\"docs-internal-guid-155ff340-7fff-8825-c99c-71427db3422a\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">D. decided</span></span></td>\n</tr>\n<tr style=\"height: 36.1111px;\">\n<td style=\"width: 9.06234%; height: 36.1111px;\"><strong><span style=\"font-family: Nunito-Regular;\">7. [input_6]</span></strong></td>\n<td style=\"width: 22.0296%; height: 36.1111px;\"><span id=\"docs-internal-guid-899fe0b1-7fff-289a-8cb5-b4dfb56d4c07\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">A. finds</span></span></td>\n<td style=\"width: 23.8715%; height: 36.1111px;\"><span id=\"docs-internal-guid-97fa6789-7fff-3400-d60b-4d14f24d6c9c\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">B. found</span></span></td>\n<td style=\"width: 21.9575%; height: 36.1111px;\"><span id=\"docs-internal-guid-9437fdbf-7fff-41e2-b0d6-9b0753ce5f2a\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">C. finding</span></span></td>\n<td style=\"width: 22.9858%; height: 36.1111px;\"><span id=\"docs-internal-guid-ac64c561-7fff-5195-c63f-c56279274f67\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">D. has found</span></span></td>\n</tr>\n<tr style=\"height: 36.1111px;\">\n<td style=\"width: 9.06234%; height: 36.1111px;\"><strong><span style=\"font-family: Nunito-Regular;\">8. [input_7]</span></strong></td>\n<td style=\"width: 22.0296%; height: 36.1111px;\"><span id=\"docs-internal-guid-2f6cb6b5-7fff-68ab-d2c1-c823b43a9b2e\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">A. has</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span class=\"Apple-tab-span\" style=\"text-wrap: nowrap;\"> </span></span></span></td>\n<td style=\"width: 23.8715%; height: 36.1111px;\"><span id=\"docs-internal-guid-8d17169c-7fff-76e1-b8b1-838a1315cff0\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">B. having</span></span></td>\n<td style=\"width: 21.9575%; height: 36.1111px;\"><span id=\"docs-internal-guid-72d19d5d-7fff-8296-bdad-358e6ae8c9b3\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">C. had</span></span></td>\n<td style=\"width: 22.9858%; height: 36.1111px;\"><span id=\"docs-internal-guid-03c7c4fe-7fff-9054-36af-4de9716e1448\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">D. will have</span></span></td>\n</tr>\n<tr style=\"height: 36.1111px;\">\n<td style=\"width: 9.06234%; height: 36.1111px;\"><strong><span style=\"font-family: Nunito-Regular;\">9. [input_8]</span></strong></td>\n<td style=\"width: 22.0296%; height: 36.1111px;\"><span id=\"docs-internal-guid-494f9d69-7fff-9c91-e1c3-99aafe1e0817\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">A. gets</span></span></td>\n<td style=\"width: 23.8715%; height: 36.1111px;\"><span id=\"docs-internal-guid-7403cb76-7fff-aa05-bb8c-a7439f555a95\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">B. get</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span class=\"Apple-tab-span\" style=\"text-wrap: nowrap;\"> </span></span></span></td>\n<td style=\"width: 21.9575%; height: 36.1111px;\"><span id=\"docs-internal-guid-2ff9dac2-7fff-b84c-0bcf-3b1f1803e698\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">C.</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">got</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span class=\"Apple-tab-span\" style=\"text-wrap: nowrap;\"> </span></span></span></td>\n<td style=\"width: 22.9858%; height: 36.1111px;\"><span id=\"docs-internal-guid-5ea54bad-7fff-c5b0-456a-0167040d407b\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">D. is getting</span></span></td>\n</tr>\n<tr style=\"height: 69.8727px;\">\n<td style=\"width: 9.06234%; height: 69.8727px;\"><strong><span style=\"font-family: Nunito-Regular;\">10. [input_9]</span></strong></td>\n<td style=\"width: 22.0296%; height: 69.8727px;\"><span id=\"docs-internal-guid-01be803d-7fff-d79e-9d6b-b264d4aedf25\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">A. had / spent</span></span></td>\n<td style=\"width: 23.8715%; height: 69.8727px;\"><span id=\"docs-internal-guid-0c548b0f-7fff-e708-beec-ff51093a8f6d\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">B. has / spent</span></span></td>\n<td style=\"width: 21.9575%; height: 69.8727px;\"><span id=\"docs-internal-guid-32c91e25-7fff-f4e4-d179-02e944f44de6\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">C. spent / spends</span></span></td>\n<td style=\"width: 22.9858%; height: 69.8727px;\"><span id=\"docs-internal-guid-be54b310-7fff-0418-9c86-54ecdff13bea\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">D. is / spending</span></span></td>\n</tr>\n<tr style=\"height: 36.1111px;\">\n<td style=\"width: 9.06234%; height: 36.1111px;\"><strong><span style=\"font-family: Nunito-Regular;\">11. [input_10]</span></strong></td>\n<td style=\"width: 22.0296%; height: 36.1111px;\"><span id=\"docs-internal-guid-2d15cb53-7fff-6754-58d2-5b1596a8bcc9\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">A. is</span></span></td>\n<td style=\"width: 23.8715%; height: 36.1111px;\"><span id=\"docs-internal-guid-4863ca74-7fff-b8bf-e444-1764bd161f80\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">B. was</span></span></td>\n<td style=\"width: 21.9575%; height: 36.1111px;\"><span id=\"docs-internal-guid-6c1d2ddf-7fff-28b9-bdbe-b14b4101f9bc\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">C. has been</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span class=\"Apple-tab-span\" style=\"text-wrap: nowrap;\"> </span></span></span></td>\n<td style=\"width: 22.9858%; height: 36.1111px;\"><span id=\"docs-internal-guid-4722d162-7fff-7e85-ce7e-d8d96f8c960f\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">D. will be</span></span></td>\n</tr>\n<tr style=\"height: 36.1111px;\">\n<td style=\"width: 9.06234%; height: 36.1111px;\"><strong><span style=\"font-family: Nunito-Regular;\">12. [input_11]</span></strong></td>\n<td style=\"width: 22.0296%; height: 36.1111px;\"><span id=\"docs-internal-guid-b5ed69be-7fff-762c-0d5d-87c1851e9d8b\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">A. is going</span></span></td>\n<td style=\"width: 23.8715%; height: 36.1111px;\"><span id=\"docs-internal-guid-dd686a6e-7fff-c41a-670d-a252bc99b7b7\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">B. was going</span></span></td>\n<td style=\"width: 21.9575%; height: 36.1111px;\"><span id=\"docs-internal-guid-2f2c86f0-7fff-36e7-ceea-8e346951b17c\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">C. is going to</span></span></td>\n<td style=\"width: 22.9858%; height: 36.1111px;\"><span id=\"docs-internal-guid-cf04531c-7fff-8b88-f295-282c3a503871\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">D. going</span></span></td>\n</tr>\n<tr style=\"height: 36.1111px;\">\n<td style=\"width: 9.06234%; height: 36.1111px;\"><strong><span style=\"font-family: Nunito-Regular;\">13. [input_12]</span></strong></td>\n<td style=\"width: 22.0296%; height: 36.1111px;\"><span id=\"docs-internal-guid-d6395640-7fff-810e-2a38-add665f328e3\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">A. tell</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span class=\"Apple-tab-span\" style=\"text-wrap: nowrap;\"> </span></span></span></td>\n<td style=\"width: 23.8715%; height: 36.1111px;\"><span id=\"docs-internal-guid-88bdbfa1-7fff-da6c-1b4c-a307c4014bcd\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">B.</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"> </span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">is telling</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span class=\"Apple-tab-span\" style=\"text-wrap: nowrap;\"> </span></span></span></td>\n<td style=\"width: 21.9575%; height: 36.1111px;\"><span id=\"docs-internal-guid-db2ea451-7fff-419d-46ab-2027d5538fa2\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">C. tells</span></span></td>\n<td style=\"width: 22.9858%; height: 36.1111px;\"><span id=\"docs-internal-guid-1338e7b3-7fff-97d4-2017-c8895c5d956f\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">D. told</span></span></td>\n</tr>\n<tr style=\"height: 36.1111px;\">\n<td style=\"width: 9.06234%; height: 36.1111px;\"><strong><span style=\"font-family: Nunito-Regular;\">14. [input_13]</span></strong></td>\n<td style=\"width: 22.0296%; height: 36.1111px;\"><span id=\"docs-internal-guid-dbb8732a-7fff-8da9-f6d2-b5fb2f080057\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">A. would</span></span></td>\n<td style=\"width: 23.8715%; height: 36.1111px;\"><span id=\"docs-internal-guid-1b9c5cf4-7fff-ec18-3dec-aab23fb78852\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">B. shall </span></span></td>\n<td style=\"width: 21.9575%; height: 36.1111px;\"><span id=\"docs-internal-guid-38ac1344-7fff-4e7a-f0a0-09e41afc8f4a\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">C. can</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span class=\"Apple-tab-span\" style=\"text-wrap: nowrap;\"> </span></span></span></td>\n<td style=\"width: 22.9858%; height: 36.1111px;\"><span id=\"docs-internal-guid-5e693456-7fff-a23f-4833-a78affdf49fc\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">D. is</span></span></td>\n</tr>\n<tr style=\"height: 36.1111px;\">\n<td style=\"width: 9.06234%; height: 36.1111px;\"><strong><span style=\"font-family: Nunito-Regular;\">15. [input_14]</span></strong></td>\n<td style=\"width: 22.0296%; height: 36.1111px;\"><span id=\"docs-internal-guid-ccf991d5-7fff-993d-65b2-34910f1070fb\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">A. has</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span class=\"Apple-tab-span\" style=\"text-wrap: nowrap;\"> </span></span></span></td>\n<td style=\"width: 23.8715%; height: 36.1111px;\"><span id=\"docs-internal-guid-fc00be7b-7fff-f941-7ace-379bf1ec99d7\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">B. did</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span class=\"Apple-tab-span\" style=\"text-wrap: nowrap;\"> </span></span></span></td>\n<td style=\"width: 21.9575%; height: 36.1111px;\"><span id=\"docs-internal-guid-7e22b60f-7fff-5faf-49a6-620de5bc356b\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">C. does</span></span></td>\n<td style=\"width: 22.9858%; height: 36.1111px;\"><span id=\"docs-internal-guid-f8595931-7fff-acb8-763a-1f8afb101c19\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">D.  is</span></span></td>\n</tr>\n<tr style=\"height: 36.2963px;\">\n<td style=\"width: 9.06234%; height: 36.2963px;\"><strong><span style=\"font-family: Nunito-Regular;\">16. [input_15]</span></strong></td>\n<td style=\"width: 22.0296%; height: 36.2963px;\"><span id=\"docs-internal-guid-21a40b18-7fff-a378-446c-bf29464960cf\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">A. will</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span class=\"Apple-tab-span\" style=\"text-wrap: nowrap;\"> </span></span></span></td>\n<td style=\"width: 23.8715%; height: 36.2963px;\"><span id=\"docs-internal-guid-a85f9fc2-7fff-05a7-1c79-ab6356174bf5\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">B. is going to </span></span></td>\n<td style=\"width: 21.9575%; height: 36.2963px;\"><span id=\"docs-internal-guid-9fc508a5-7fff-6bb5-54da-1765b4bbdc5e\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">C. should </span></span></td>\n<td style=\"width: 22.9858%; height: 36.2963px;\"><span id=\"docs-internal-guid-d89c91ba-7fff-b80a-8602-a97cde5804c9\" style=\"font-family: Nunito-Regular; font-size: 11pt; color: #000000;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">D. have</span></span></td>\n</tr>\n</tbody>\n</table>",
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    }
+  ]
+}

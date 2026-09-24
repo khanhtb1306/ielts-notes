@@ -1,0 +1,487 @@
+{
+  "generatedAt": "2026-09-24T09:40:05.392Z",
+  "lessons": [
+    {
+      "id": "lesson2",
+      "lesson": 2,
+      "title": "Lesson 2: Shopping",
+      "variants": [
+        {
+          "audience": null,
+          "items": [
+            {
+              "topic": "Shopping",
+              "text": "Do you like shopping?"
+            },
+            {
+              "topic": "Shopping",
+              "text": "Do you compare prices when you shop?"
+            },
+            {
+              "topic": "Shopping",
+              "text": "Do you prefer shopping alone or with others?"
+            },
+            {
+              "topic": "Shopping",
+              "text": "Do you like shopping on the Internet?"
+            },
+            {
+              "topic": "Shopping",
+              "text": "Describe one thing you've bought recently."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson3",
+      "lesson": 3,
+      "title": "Lesson 3: Sports",
+      "variants": [
+        {
+          "audience": null,
+          "items": [
+            {
+              "topic": "Sports",
+              "text": "Do you like sports? Why / Why not?"
+            },
+            {
+              "topic": "Sports",
+              "text": "How often do you play sports?"
+            },
+            {
+              "topic": "Sports",
+              "text": "Do you prefer playing sports or watching sports?"
+            },
+            {
+              "topic": "Sports",
+              "text": "Why do people play sports?"
+            },
+            {
+              "topic": "Sports",
+              "text": "Do you prefer individual sports or team sports?"
+            },
+            {
+              "topic": "Sports",
+              "text": "What sports are popular in your country?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson4",
+      "lesson": 4,
+      "title": "Lesson 4: Study / Work",
+      "variants": [
+        {
+          "audience": "highschool",
+          "items": [
+            {
+              "topic": "Study",
+              "text": "What is your favourite subject at school? Is it difficult to study?"
+            },
+            {
+              "topic": "Study",
+              "text": "Will you continue studying after finishing high school?"
+            },
+            {
+              "topic": "Study",
+              "text": "Do you think that you're a good student?"
+            },
+            {
+              "topic": "Study",
+              "text": "Do you like studying / your school? Why / why not?"
+            },
+            {
+              "topic": "Study",
+              "text": "Do you prefer to study alone or with others? Why?"
+            }
+          ]
+        },
+        {
+          "audience": "university",
+          "items": [
+            {
+              "topic": "Study",
+              "text": "What are you studying at university? Why did you choose that major?"
+            },
+            {
+              "topic": "Study",
+              "text": "What part of university life do you like best?"
+            },
+            {
+              "topic": "Study",
+              "text": "What do you usually do in a class at university?"
+            },
+            {
+              "topic": "Study",
+              "text": "Do you like studying? Why / why not?"
+            }
+          ]
+        },
+        {
+          "audience": "working",
+          "items": [
+            {
+              "topic": "Work",
+              "text": "Why do you want to study English?"
+            },
+            {
+              "topic": "Work",
+              "text": "Were you a good student in high school?"
+            },
+            {
+              "topic": "Work",
+              "text": "What was your major at university?"
+            },
+            {
+              "topic": "Work",
+              "text": "Which do you prefer, studying or working?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson5",
+      "lesson": 5,
+      "title": "Lesson 5: Transport",
+      "variants": [
+        {
+          "audience": null,
+          "items": [
+            {
+              "topic": "Transport",
+              "text": "What is the traffic like where you live?"
+            },
+            {
+              "topic": "Transport",
+              "text": "What kinds of public transport are there where you live?"
+            },
+            {
+              "topic": "Transport",
+              "text": "Do you prefer public transport or private transport?"
+            },
+            {
+              "topic": "Transport",
+              "text": "How do you travel to work / school?"
+            },
+            {
+              "topic": "Transport",
+              "text": "How often do you take buses?"
+            },
+            {
+              "topic": "Transport",
+              "text": "How often do you get stuck in traffic jams?"
+            },
+            {
+              "topic": "Transport",
+              "text": "What means of transport do you think will become the most popular in Vietnam in the future?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson6",
+      "lesson": 6,
+      "title": "Lesson 6: Health",
+      "variants": [
+        {
+          "audience": null,
+          "items": [
+            {
+              "topic": "Health",
+              "text": "Do you think you have a healthy lifestyle?"
+            },
+            {
+              "topic": "Health",
+              "text": "What do you do to stay healthy?"
+            },
+            {
+              "topic": "Health",
+              "text": "Are there any bad habits that you want to break?"
+            },
+            {
+              "topic": "Health",
+              "text": "What do you think is more important, having a healthy diet or doing exercise?"
+            },
+            {
+              "topic": "Health",
+              "text": "If you catch a cold, what do you do to help you feel better?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson7",
+      "lesson": 7,
+      "title": "Lesson 7: Family",
+      "variants": [
+        {
+          "audience": null,
+          "items": [
+            {
+              "topic": "Family",
+              "text": "Do you get on well with your siblings / friends?"
+            },
+            {
+              "topic": "Family",
+              "text": "Do you live in a big family?"
+            },
+            {
+              "topic": "Family",
+              "text": "Have you been in a relationship before?"
+            },
+            {
+              "topic": "Family",
+              "text": "Are you more similar to your mother or your father?"
+            },
+            {
+              "topic": "Family",
+              "text": "How often do you go out with your family?"
+            },
+            {
+              "topic": "Family",
+              "text": "What do you enjoy doing with your family?"
+            },
+            {
+              "topic": "Family",
+              "text": "Do you prefer spending time with your family or your friends?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson8",
+      "lesson": 8,
+      "title": "Lesson 8: Jobs",
+      "variants": [
+        {
+          "audience": null,
+          "items": [
+            {
+              "topic": "Jobs",
+              "text": "What do you do for a living?"
+            },
+            {
+              "topic": "Jobs",
+              "text": "Do you like your current job? Why / Why not?"
+            },
+            {
+              "topic": "Jobs",
+              "text": "What is your dream job? Why?"
+            },
+            {
+              "topic": "Jobs",
+              "text": "What do you expect for your future job?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson9",
+      "lesson": 9,
+      "title": "Lesson 9: Films / Movies",
+      "variants": [
+        {
+          "audience": null,
+          "items": [
+            {
+              "topic": "Films",
+              "text": "Do you like to watch films?"
+            },
+            {
+              "topic": "Films",
+              "text": "What kinds of movies do you like best?"
+            },
+            {
+              "topic": "Films",
+              "text": "How often do you go to a cinema to watch a movie?"
+            },
+            {
+              "topic": "Films",
+              "text": "Describe your favorite movie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson10",
+      "lesson": 10,
+      "title": "Lesson 10: Mixed Topics",
+      "variants": [
+        {
+          "audience": null,
+          "items": [
+            {
+              "topic": "Misc",
+              "text": "What factors do you consider when shopping for products?"
+            },
+            {
+              "topic": "Misc",
+              "text": "Did you do some sports when you were young?"
+            },
+            {
+              "topic": "Misc",
+              "text": "Do you like your current learning atmosphere?"
+            },
+            {
+              "topic": "Misc",
+              "text": "Are the transport facilities to your home very good?"
+            },
+            {
+              "topic": "Misc",
+              "text": "Is it easy for people to exercise in your country?"
+            },
+            {
+              "topic": "Misc",
+              "text": "Is it easy for you to make new friends?"
+            },
+            {
+              "topic": "Misc",
+              "text": "Have you ever thought about starting your own business?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson11",
+      "lesson": 11,
+      "title": "Lesson 11: Online Friends",
+      "variants": [
+        {
+          "audience": null,
+          "items": [
+            {
+              "topic": "Friendship",
+              "text": "Do you have any online friends?"
+            },
+            {
+              "topic": "Friendship",
+              "text": "Do you think online friends are real friends?"
+            },
+            {
+              "topic": "Friendship",
+              "text": "Do you think friendship is temporary?"
+            },
+            {
+              "topic": "Friendship",
+              "text": "Do you find it difficult to make new friends?"
+            },
+            {
+              "topic": "Friendship",
+              "text": "Do you prefer to have many friends or just a few that you are close to?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson13",
+      "lesson": 13,
+      "title": "Lesson 13: Friendship",
+      "variants": [
+        {
+          "audience": null,
+          "items": [
+            {
+              "topic": "Friendship",
+              "text": "How many reasons are there for having more online friends than real friends? What are they?"
+            },
+            {
+              "topic": "Friendship",
+              "text": "People have different opinions about friendships, what are they?"
+            },
+            {
+              "topic": "Friendship",
+              "text": "Do you think friendships are important? Why? Why not?"
+            },
+            {
+              "topic": "Friendship",
+              "text": "Should we be too frightened about starting to talk to strangers?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson14",
+      "lesson": 14,
+      "title": "Lesson 14: Languages & Beverages",
+      "variants": [
+        {
+          "audience": null,
+          "items": [
+            {
+              "topic": "Languages",
+              "text": "What languages can you speak?"
+            },
+            {
+              "topic": "Languages",
+              "text": "Do you think it's difficult to learn a new language?"
+            },
+            {
+              "topic": "Languages",
+              "text": "Will you learn other languages in the future?"
+            },
+            {
+              "topic": "Beverages",
+              "text": "Do Vietnamese people like to drink tea or coffee?"
+            },
+            {
+              "topic": "Beverages",
+              "text": "Do you prepare tea or coffee for the guests at home?"
+            },
+            {
+              "topic": "Beverages",
+              "text": "When was the last time you drank tea or coffee?"
+            },
+            {
+              "topic": "Music",
+              "text": "Do you like listening to music?"
+            },
+            {
+              "topic": "Music",
+              "text": "What kind of music do you like to listen to?"
+            },
+            {
+              "topic": "Music",
+              "text": "Have you ever been interested in singing?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson16",
+      "lesson": 16,
+      "title": "Lesson 16: Hometown",
+      "variants": [
+        {
+          "audience": null,
+          "items": [
+            {
+              "topic": "Hometown",
+              "text": "Can you describe the town where you grew up?"
+            },
+            {
+              "topic": "Hometown",
+              "text": "What places of interest are there in your hometown? Where are they?"
+            },
+            {
+              "topic": "Hometown",
+              "text": "Where do young people in your town meet their friends?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

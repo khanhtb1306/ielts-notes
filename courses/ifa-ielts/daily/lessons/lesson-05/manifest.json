@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "lesson": 5,
+  "lessonKey": "lesson-05",
+  "title": "Lesson 5",
+  "source": "LangGo daily challenge API",
+  "rawFolder": "raw/",
+  "files": {
+    "content": "content.json",
+    "exercises": "exercises.json",
+    "scripts": "scripts.json",
+    "submission": "submission.json",
+    "audioManifest": "audio/manifest.json",
+    "imageManifest": "images/manifest.json"
+  },
+  "challenges": [
+    {
+      "id": 43160,
+      "challengeId": 43160,
+      "classChallengeId": "93811",
+      "number": 1,
+      "title": "[IELTS FOUNDATION A] - Lesson 5 - Challenge 1",
+      "note": "Vocabulary - Grammar (Future tense) - Cập nhật  07/2026",
+      "day": 8,
+      "deadline": "2026-09-23 22:33:00",
+      "totalQuestion": 32,
+      "classification": "dc",
+      "rawFile": "raw/challenge-01-43160.json"
+    },
+    {
+      "id": 43161,
+      "challengeId": 43161,
+      "classChallengeId": "93812",
+      "number": 2,
+      "title": "[IELTS FOUNDATION A] - Lesson 5 - Challenge 2",
+      "note": "Listening + Speaking - Cập nhật  07/2026",
+      "day": 9,
+      "deadline": "2026-09-23 22:34:00",
+      "totalQuestion": 45,
+      "classification": "dc",
+      "rawFile": "raw/challenge-02-43161.json"
+    }
+  ]
+}

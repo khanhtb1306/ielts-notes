@@ -1,0 +1,594 @@
+{
+  "lesson": 2,
+  "lessonKey": "lesson-02",
+  "items": [
+    {
+      "challengeId": 42073,
+      "classChallengeId": "92767",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 33,
+      "submittedAt": "2026-09-15 22:21:58",
+      "markedAt": "2026-09-17 15:37:16",
+      "commentText": "Hi Khánh, bài này mình làm tốt rồi nha. Em nhớ check lại đáp àn bài viết câu nhé.",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "418379": {
+          "total_question": 10,
+          "total_correct_result_answer": 10,
+          "user_answer": {
+            "input_0": "making a purchase",
+            "input_1": "material and quality",
+            "input_2": "sizes and colors",
+            "input_3": "try clothes on",
+            "input_4": "physical stores",
+            "input_5": "window-shop",
+            "input_6": "catch up",
+            "input_7": "shopping malls",
+            "input_8": "social activity",
+            "input_9": "quality time"
+          },
+          "correct_answer": {
+            "input_0": [
+              "making a purchase"
+            ],
+            "input_1": [
+              "material and quality"
+            ],
+            "input_2": [
+              "sizes and colors"
+            ],
+            "input_3": [
+              "try clothes on"
+            ],
+            "input_4": [
+              "physical stores"
+            ],
+            "input_5": [
+              "window-shop"
+            ],
+            "input_6": [
+              "catch up"
+            ],
+            "input_7": [
+              "shopping malls"
+            ],
+            "input_8": [
+              "social activity"
+            ],
+            "input_9": [
+              "quality time"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 418379,
+          "challenge_id": 42073
+        },
+        "418380": {
+          "total_question": 7,
+          "total_correct_result_answer": 7,
+          "user_answer": {
+            "11911": [
+              {
+                "id": 11873,
+                "content": "especially after a long day of studying or working."
+              }
+            ],
+            "11912": [
+              {
+                "id": 11874,
+                "content": "because it helps me avoid spending too much money on unnecessary things."
+              }
+            ],
+            "11913": [
+              {
+                "id": 11875,
+                "content": "as I can check other people’s opinions and make a better decision."
+              }
+            ],
+            "11914": [
+              {
+                "id": 11876,
+                "content": "have spent a lot of money on the newest models of all smartphone brands."
+              }
+            ],
+            "11915": [
+              {
+                "id": 11877,
+                "content": "because they offer lower prices and attractive promotions."
+              }
+            ],
+            "11916": [
+              {
+                "id": 11878,
+                "content": "since it’s a great way to catch up with them and have fun at the same time."
+              }
+            ],
+            "11917": [
+              {
+                "id": 11879,
+                "content": "because people can see and try the products before buying."
+              }
+            ]
+          },
+          "correct_answer": {
+            "11911": [
+              11873
+            ],
+            "11912": [
+              11874
+            ],
+            "11913": [
+              11875
+            ],
+            "11914": [
+              11876
+            ],
+            "11915": [
+              11877
+            ],
+            "11916": [
+              11878
+            ],
+            "11917": [
+              11879
+            ]
+          },
+          "result_answer": {
+            "11911": true,
+            "11912": true,
+            "11913": true,
+            "11914": true,
+            "11915": true,
+            "11916": true,
+            "11917": true
+          },
+          "has_answer_empty": [],
+          "type": 7,
+          "question_id": 418380,
+          "challenge_id": 42073
+        },
+        "418381": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "I often shop on online shopping sites because they help me save time.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 418381,
+          "challenge_id": 42073
+        },
+        "418382": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "When I buy something, I usually compare prices on different websites, so I can save money.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 418382,
+          "challenge_id": 42073
+        },
+        "418383": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "I often read customer reviews before I decide to make a purchase.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 418383,
+          "challenge_id": 42073
+        },
+        "418384": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "As a shopping lover, I often go window-shopping at shopping malls on weekends.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 418384,
+          "challenge_id": 42073
+        },
+        "418385": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "I love shopping because it makes me feel relaxed and happy. Besides, it is also a chance for me to catch up with my friends.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 418385,
+          "challenge_id": 42073
+        },
+        "418386": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "I don't like online shopping because the shipping fee is sometimes too high, especially when the delivery distance is long.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 418386,
+          "challenge_id": 42073
+        },
+        "418387": {
+          "total_question": 10,
+          "total_correct_result_answer": 10,
+          "user_answer": {
+            "input_0": "relaxing",
+            "input_1": "compare",
+            "input_2": "stress",
+            "input_3": "books",
+            "input_4": "quiet",
+            "input_5": "coffee",
+            "input_6": "experience",
+            "input_7": "alone",
+            "input_8": "quickly",
+            "input_9": "mall"
+          },
+          "correct_answer": {
+            "input_0": [
+              "relaxing"
+            ],
+            "input_1": [
+              "compare"
+            ],
+            "input_2": [
+              "stress"
+            ],
+            "input_3": [
+              "books"
+            ],
+            "input_4": [
+              "quiet"
+            ],
+            "input_5": [
+              "coffee"
+            ],
+            "input_6": [
+              "experience"
+            ],
+            "input_7": [
+              "alone"
+            ],
+            "input_8": [
+              "quickly"
+            ],
+            "input_9": [
+              "mall"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 418387,
+          "challenge_id": 42073
+        }
+      }
+    },
+    {
+      "challengeId": 42074,
+      "classChallengeId": "92768",
+      "statusMark": "graded",
+      "rate": 1,
+      "correctAnswer": 31,
+      "submittedAt": "2026-09-16 20:59:01",
+      "markedAt": "2026-09-19 16:13:16",
+      "commentText": "Hi em,\n\r\nPhần Listening em làm rất tốt, well done!! Dưới đây là nhận xét chi tiết phần Speaking nhé:\n\r\n1. Fluency & Coherence: Em đã cố gắng hoàn thành các câu trả lời khá trọn vẹn. Tuy nhiên, em chú ý luyện tập nói và phản xạ nhiều hơn để tăng tốc độ xử lý câu từ, giúp bài nói thêm mượt mà và tự nhiên hơn nha.\n\r\n2. Lexical Resource: Em biết áp dụng tốt các từ vựng quen thuộc liên quan đến chủ đề mua sắm và giá cả.\n\r\n3. Grammatical Range & Accuracy: Phần ngữ pháp của em bài này làm rất tốt, gần như không có lỗi sai đáng kể nào. Cố gắng tiếp tục duy trì sự cẩn thận và chính xác này nhé!\n\r\n4. Pronunciation: Phát âm nhìn chung dễ hiểu, em chú ý luyện tập kỹ nguyên âm và âm đuôi của các từ sau nha:\n\r\n\r\n\r\nprices ➔ /ˈpraɪsɪz/ (chú ý âm đuôi số nhiều phát âm rõ là /ɪz/)\n\r\n\n\r\n\r\nbought ➔ /bɔːt/ (chú ý nguyên âm /ɔː/ sâu và bật rõ âm đuôi /t/, tránh đọc lướt)\n\r\n\n\r\n\r\nreasonable ➔ /ˈriːznəbl/ (chú ý trọng âm rơi vào âm tiết đầu tiên, âm giữa /z/ nhẹ)\n\r\n\n\r\n\r\nCố gắng duy trì phong độ và rèn luyện đều đặn nhé em!",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "418389": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 883599,
+          "correct_answer": 883599,
+          "result_answer": {
+            "883599": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 418389,
+          "challenge_id": 42074
+        },
+        "418390": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 883600,
+          "correct_answer": 883600,
+          "result_answer": {
+            "883600": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 418390,
+          "challenge_id": 42074
+        },
+        "418391": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 883603,
+          "correct_answer": 883603,
+          "result_answer": {
+            "883603": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 418391,
+          "challenge_id": 42074
+        },
+        "418392": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 883604,
+          "correct_answer": 883604,
+          "result_answer": {
+            "883604": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 418392,
+          "challenge_id": 42074
+        },
+        "418393": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 883606,
+          "correct_answer": 883606,
+          "result_answer": {
+            "883606": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 418393,
+          "challenge_id": 42074
+        },
+        "418394": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 883608,
+          "correct_answer": 883608,
+          "result_answer": {
+            "883608": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 418394,
+          "challenge_id": 42074
+        },
+        "418395": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 883611,
+          "correct_answer": 883611,
+          "result_answer": {
+            "883611": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 418395,
+          "challenge_id": 42074
+        },
+        "418396": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 883612,
+          "correct_answer": 883612,
+          "result_answer": {
+            "883612": true
+          },
+          "has_answer_empty": false,
+          "type": 3,
+          "question_id": 418396,
+          "challenge_id": 42074
+        },
+        "418398": {
+          "total_question": 4,
+          "total_correct_result_answer": 4,
+          "user_answer": {
+            "input_0": "popular",
+            "input_1": "factory",
+            "input_2": "special",
+            "input_3": "500"
+          },
+          "correct_answer": {
+            "input_0": [
+              "popular"
+            ],
+            "input_1": [
+              "factory"
+            ],
+            "input_2": [
+              "special"
+            ],
+            "input_3": [
+              "500"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 418398,
+          "challenge_id": 42074
+        },
+        "418399": {
+          "total_question": 4,
+          "total_correct_result_answer": 4,
+          "user_answer": {
+            "input_0": "strong",
+            "input_1": "colors",
+            "input_2": "different",
+            "input_3": "price"
+          },
+          "correct_answer": {
+            "input_0": [
+              "strong"
+            ],
+            "input_1": [
+              "colors",
+              "colours"
+            ],
+            "input_2": [
+              "different"
+            ],
+            "input_3": [
+              "price"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 418399,
+          "challenge_id": 42074
+        },
+        "418400": {
+          "total_question": 4,
+          "total_correct_result_answer": 4,
+          "user_answer": {
+            "input_0": "light",
+            "input_1": "wall",
+            "input_2": "expensive",
+            "input_3": "great"
+          },
+          "correct_answer": {
+            "input_0": [
+              "light"
+            ],
+            "input_1": [
+              "wall"
+            ],
+            "input_2": [
+              "expensive"
+            ],
+            "input_3": [
+              "great"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 418400,
+          "challenge_id": 42074
+        },
+        "418401": {
+          "total_question": 10,
+          "total_correct_result_answer": 10,
+          "user_answer": {
+            "input_0": "những món hời tuyệt vời",
+            "input_1": "chán nản, phát ngán",
+            "input_2": "làm tôi phát điên",
+            "input_3": "nửa giá",
+            "input_4": "quyết định làm gì",
+            "input_5": "nhập khẩu từ",
+            "input_6": "đi kèm bảo hành ba năm",
+            "input_7": "có thể mặc hai mặt (lộn ngược)",
+            "input_8": "nhấc/cầm cái gì lên",
+            "input_9": "có nhiều loại/kích cỡ"
+          },
+          "correct_answer": {
+            "input_0": [
+              ""
+            ],
+            "input_1": [
+              ""
+            ],
+            "input_2": [
+              ""
+            ],
+            "input_3": [
+              ""
+            ],
+            "input_4": [
+              ""
+            ],
+            "input_5": [
+              ""
+            ],
+            "input_6": [
+              ""
+            ],
+            "input_7": [
+              ""
+            ],
+            "input_8": [
+              ""
+            ],
+            "input_9": [
+              ""
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 418401,
+          "challenge_id": 42074
+        },
+        "418402": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://drive.google.com/drive/folders/1I9Aw7UupNz9Uxz4XHVKOdW3gnaxALNa7",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 418402,
+          "challenge_id": 42074
+        }
+      }
+    }
+  ]
+}

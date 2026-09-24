@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "lesson": 4,
+  "lessonKey": "lesson-04",
+  "title": "Lesson 4",
+  "source": "LangGo daily challenge API",
+  "rawFolder": "raw/",
+  "files": {
+    "content": "content.json",
+    "exercises": "exercises.json",
+    "scripts": "scripts.json",
+    "submission": "submission.json",
+    "audioManifest": "audio/manifest.json",
+    "imageManifest": "images/manifest.json"
+  },
+  "challenges": [
+    {
+      "id": 42737,
+      "challengeId": 42737,
+      "classChallengeId": "93409",
+      "number": 1,
+      "title": "[IELTS FOUNDATION A] - Lesson 4 - Challenge 1",
+      "note": "Vocabulary + Listening: Learning - Cập nhật  07/2026",
+      "day": 6,
+      "deadline": "2026-09-20 22:02:00",
+      "totalQuestion": 52,
+      "classification": "dc",
+      "rawFile": "raw/challenge-01-42737.json"
+    },
+    {
+      "id": 42739,
+      "challengeId": 42739,
+      "classChallengeId": "93410",
+      "number": 2,
+      "title": "[IELTS FOUNDATION A] - Lesson 4 - Challenge 2",
+      "note": "Grammar (Past simple + Present Perfect) - Vocabulary: Education - Speaking: Learning - Cập nhật  07/2026",
+      "day": 7,
+      "deadline": "2026-09-20 22:02:00",
+      "totalQuestion": 46,
+      "classification": "dc",
+      "rawFile": "raw/challenge-02-42739.json"
+    }
+  ]
+}

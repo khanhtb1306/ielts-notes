@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "lesson": 3,
+  "lessonKey": "lesson-03",
+  "title": "Lesson 3",
+  "source": "LangGo daily challenge API",
+  "rawFolder": "raw/",
+  "files": {
+    "content": "content.json",
+    "exercises": "exercises.json",
+    "scripts": "scripts.json",
+    "submission": "submission.json",
+    "audioManifest": "audio/manifest.json",
+    "imageManifest": "images/manifest.json"
+  },
+  "challenges": [
+    {
+      "id": 42401,
+      "challengeId": 42401,
+      "classChallengeId": "93087",
+      "number": 1,
+      "title": "[IELTS FOUNDATION A] - Lesson 3 - Challenge 1",
+      "note": "Vocabulary: Sports + Grammar (Present Simple, Present Continuous) - Cập nhật 07/2026",
+      "day": 4,
+      "deadline": "2026-09-18 22:01:00",
+      "totalQuestion": 38,
+      "classification": "dc",
+      "rawFile": "raw/challenge-01-42401.json"
+    },
+    {
+      "id": 42402,
+      "challengeId": 42402,
+      "classChallengeId": "93088",
+      "number": 2,
+      "title": "[IELTS FOUNDATION A] - Lesson 3 - Challenge 2",
+      "note": "Listening - Speaking: Sports - Cập nhật 07/2026",
+      "day": 5,
+      "deadline": "2026-09-18 22:01:00",
+      "totalQuestion": 27,
+      "classification": "dc",
+      "rawFile": "raw/challenge-02-42402.json"
+    }
+  ]
+}

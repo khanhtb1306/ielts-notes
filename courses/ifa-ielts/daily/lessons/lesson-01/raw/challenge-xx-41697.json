@@ -1,0 +1,653 @@
+{
+  "listItem": {
+    "id": "92400",
+    "challenge_id": 41697,
+    "class_id": "17854888961d6295u45597",
+    "day": 1,
+    "deadline": "2026-09-13 22:01:00",
+    "challenge_title": "[IELTS FOUNDATION A] - Lesson 1 - Challenge",
+    "challenge_note": "Vocabulary: Shopping + Shadowing - Cập nhật từ 07/2026",
+    "challenge_status": 1,
+    "challenge_band": "1614338637844l3v19753u",
+    "total_question": 30,
+    "classification": "dc"
+  },
+  "classChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": "92400",
+        "challenge_id": 41697,
+        "class_id": "17854888961d6295u45597",
+        "day": 1,
+        "deadline": "2026-09-13 22:01:00",
+        "flag_status_mark": 2,
+        "flag_not_submit": 1,
+        "created": "2026-09-11 22:01:55",
+        "created_by": null,
+        "challenge": {
+          "id": "41697",
+          "title": "[IELTS FOUNDATION A] - Lesson 1 - Challenge",
+          "note": "Vocabulary: Shopping + Shadowing - Cập nhật từ 07/2026",
+          "day": "1",
+          "status": 1,
+          "type": null,
+          "product_id": null,
+          "band": "1614338637844l3v19753u",
+          "created": "2026-09-11 22:01:54",
+          "updated": null,
+          "created_by": "932ca35d-1c19-425e-a76f-90a036b47691",
+          "updated_by": null,
+          "total_question": 30,
+          "classification": "dc",
+          "is_warehouse": 3,
+          "grading_time_type": null,
+          "copy_id": 16410
+        }
+      },
+      "message": null
+    }
+  },
+  "studentChallenge": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": {
+        "id": 639047,
+        "class_challenge_id": 92400,
+        "class_id": "17854888961d6295u45597",
+        "challenge_id": 41697,
+        "cts_id": "1787535458idhr0hjlmnp5",
+        "rate": 1,
+        "comment": "<p>Hi Khánh,</p>\r\n<p>Good effort! Challenge này mình làm khá tốt.</p>\r\n<p>Em nghe, xem lại cách phát âm và tiếp tục shadow lại những cụm cần chú ý, hoặc cần nối âm trong bài nha:</p>\r\n<p><span data-sfc-cp=\"\" data-sfc-root=\"ep\" data-sfc-cb=\"\" data-complete=\"true\" data-copy-service-computed-style=\"font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);\">Great bargains - /ɡreɪt ˈbɑːɡənz/</span></p>\r\n<p>Crowds - /kraʊdz/</p>\r\n<p>Fed up - /ˈfɛdʌp/</p>\r\n<p>Comes in - /ˈkʌmzɪn/</p>\r\n<p>This is - /ˈðɪsɪz/</p>\r\n<p>Mình nhớ ôn tập những cụm từ vựng trong challenge này liên tục để áp dụng vào speaking, diễn đạt cho trôi chảy hơn nha.</p>",
+        "url": null,
+        "redo_comment": null,
+        "cancel_comment": null,
+        "date_redo": null,
+        "status_mark": "graded",
+        "status_mark_date": "2026-09-17 13:01:00",
+        "flag_overdue": 0,
+        "flag_not_star": 0,
+        "flag_not_submit": 0,
+        "flag_late_redo": 0,
+        "flag_late_submit": 0,
+        "flag_status_mark": 0,
+        "updated_by": "1779875378vawpfok6ii4u",
+        "updated": "2026-09-17 13:01:00",
+        "created_by": "1779875378vawpfok6ii4u",
+        "created": "2026-09-13 21:01:57",
+        "correct_answer": 30,
+        "marked_by": "932ca35d-1c19-425e-a76f-90a036b47691",
+        "submitted_at": "2026-09-13 21:01:57",
+        "re_submitted_at": null,
+        "answers": {
+          "414336": {
+            "total_question": 10,
+            "total_correct_result_answer": 10,
+            "user_answer": {
+              "input_0": "display",
+              "input_1": "bargain",
+              "input_2": "shrank",
+              "input_3": "faded",
+              "input_4": "guarantee",
+              "input_5": "waterproof",
+              "input_6": "reasonable",
+              "input_7": "receipt",
+              "input_8": "special feature",
+              "input_9": "crowds"
+            },
+            "correct_answer": {
+              "input_0": [
+                "display"
+              ],
+              "input_1": [
+                "bargain"
+              ],
+              "input_2": [
+                "shrank"
+              ],
+              "input_3": [
+                "faded"
+              ],
+              "input_4": [
+                "guarantee"
+              ],
+              "input_5": [
+                "waterproof"
+              ],
+              "input_6": [
+                "reasonable"
+              ],
+              "input_7": [
+                "receipt"
+              ],
+              "input_8": [
+                "special feature"
+              ],
+              "input_9": [
+                "crowds"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 414336,
+            "challenge_id": 41697
+          },
+          "414337": {
+            "total_question": 10,
+            "total_correct_result_answer": 10,
+            "user_answer": {
+              "input_0": "hundreds",
+              "input_1": "in front of",
+              "input_2": "opened",
+              "input_3": "anything",
+              "input_4": "clothes",
+              "input_5": "vacation",
+              "input_6": "problems",
+              "input_7": "washed",
+              "input_8": "strong",
+              "input_9": "take care"
+            },
+            "correct_answer": {
+              "input_0": [
+                "hundreds"
+              ],
+              "input_1": [
+                "in front of"
+              ],
+              "input_2": [
+                "opened"
+              ],
+              "input_3": [
+                "anything"
+              ],
+              "input_4": [
+                "clothes"
+              ],
+              "input_5": [
+                "vacation"
+              ],
+              "input_6": [
+                "problems"
+              ],
+              "input_7": [
+                "washed"
+              ],
+              "input_8": [
+                "strong"
+              ],
+              "input_9": [
+                "take care"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true,
+              "input_3": true,
+              "input_4": true,
+              "input_5": true,
+              "input_6": true,
+              "input_7": true,
+              "input_8": true,
+              "input_9": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 414337,
+            "challenge_id": 41697
+          },
+          "414339": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 874666,
+            "correct_answer": 874666,
+            "result_answer": {
+              "874666": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 414339,
+            "challenge_id": 41697
+          },
+          "414340": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 874670,
+            "correct_answer": 874670,
+            "result_answer": {
+              "874670": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 414340,
+            "challenge_id": 41697
+          },
+          "414341": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 874672,
+            "correct_answer": 874672,
+            "result_answer": {
+              "874672": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 414341,
+            "challenge_id": 41697
+          },
+          "414342": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 874676,
+            "correct_answer": 874676,
+            "result_answer": {
+              "874676": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 414342,
+            "challenge_id": 41697
+          },
+          "414343": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 874677,
+            "correct_answer": 874677,
+            "result_answer": {
+              "874677": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 414343,
+            "challenge_id": 41697
+          },
+          "414344": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": 874680,
+            "correct_answer": 874680,
+            "result_answer": {
+              "874680": true
+            },
+            "has_answer_empty": false,
+            "type": 4,
+            "question_id": 414344,
+            "challenge_id": 41697
+          },
+          "414345": {
+            "total_question": 3,
+            "total_correct_result_answer": 3,
+            "user_answer": {
+              "input_0": "close friends",
+              "input_1": "quality",
+              "input_2": "customer reviews"
+            },
+            "correct_answer": {
+              "input_0": [
+                "close friends"
+              ],
+              "input_1": [
+                "quality",
+                "the quality"
+              ],
+              "input_2": [
+                "reviews",
+                "customer reviews"
+              ]
+            },
+            "result_answer": {
+              "input_0": true,
+              "input_1": true,
+              "input_2": true
+            },
+            "has_answer_empty": [],
+            "type": 1,
+            "question_id": 414345,
+            "challenge_id": 41697
+          },
+          "414346": {
+            "total_question": 1,
+            "total_correct_result_answer": 1,
+            "user_answer": "https://drive.google.com/file/d/1e2o5Tm4OBftAHjhFjjzLdJh0TDLpa01Q/view?usp=sharing",
+            "correct_answer": null,
+            "result_answer": true,
+            "has_answer_empty": false,
+            "type": 2,
+            "question_id": 414346,
+            "challenge_id": 41697
+          }
+        },
+        "tab_switch_count": 0
+      },
+      "message": null
+    }
+  },
+  "highlight": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": null,
+      "message": null
+    }
+  },
+  "assignment": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "id": 112180,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #242938; background-color: #ffffff;\">Các bạn hãy xem </span><span style=\"box-sizing: border-box; background-color: #ffffff; color: #2980b9;\">hướng dẫn làm Daily Challenge</span><span style=\"color: #242938; background-color: #ffffff;\"> </span><span style=\"box-sizing: border-box; color: #242938; text-align: justify; background-color: #ffffff;\">ở link <span style=\"box-sizing: border-box;\">hoặc video sau </span></span><span style=\"box-sizing: border-box; color: #242938; text-align: justify; background-color: #ffffff;\"><span style=\"box-sizing: border-box;\">để</span> làm bài tập đủ yêu cầu và hiệu quả nhất nhé</span><span style=\"color: #242938; background-color: #ffffff;\">: </span><a style=\"box-sizing: border-box; background-color: #ffffff;\" href=\"https://drive.google.com/file/d/1jcOCKPKHeXrNkaNmiqa6x83kn0Ow9CmH/view?usp=sharing\" target=\"_blank\" rel=\"noopener\" data-cke-saved-href=\"https://drive.google.com/file/d/1jcOCKPKHeXrNkaNmiqa6x83kn0Ow9CmH/view?usp=sharing\">File đọc</a></span></p>",
+          "index": 0,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 112181,
+          "content": null,
+          "index": 1,
+          "type": "video",
+          "audio_url": null,
+          "video_url": "https://drive.google.com/file/d/1MLMBlubcCzo_kgsEiIOMZ4SKti9TA7Al/preview",
+          "transcript": null,
+          "layout_audio": "full",
+          "align": "center"
+        },
+        {
+          "id": 112182,
+          "content": "<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 18pt;\"><span style=\"background-color: #ba372a; color: #ffffff;\"> VOCABULARY </span> <span style=\"color: #ba372a;\">SHOPPING</span></span></strong></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Một số từ vựng bạn cần biết trước khi làm các bài tập phía sau: </span></p>\n<table style=\"border-collapse: collapse; width: 100.022%; border-color: #CED4D9;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.7663%;\">\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>be lined up </strong>/biː laɪnd ʌp/: được xếp thành hàng </span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Rushed in</strong> /rʌʃt ɪn/: (quá khứ của rush) ùa vào  </span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Get fed up</strong> /ɡɛt fɛd ʌp/: cảm thấy buồn chán/chán ngán</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Crowd</strong> /kraʊd/: đám đông</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Great bargains</strong> /ɡreɪt ˈbɑːɡɪnz/ (n): đồ giá hời</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Bargain</strong> (<strong>with</strong>) /ˈbɑːɡɪn/ (v): mặc cả</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Well made</strong> /wɛl meɪd/ (adj): được may/làm đẹp, chắc chắn</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Fell apart </strong>/fɛl əˈpɑːt/: (quẩn áo) hỏng (fell là quá khứ của 'fall')</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Shrank</strong> /ʃræŋk/: (quá khứ của 'shrink') bị co/teo lại</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Fade</strong> /feɪd/: phai</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Compare prices</strong> /kəmˈpeə ˈpraɪsɪz/: so sánh giá</span></li>\n</ul>\n</td>\n<td style=\"width: 49.7663%;\">\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Reasonable</strong> /ˈriːzᵊnəbᵊl/: (giá) hợp lý</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Import from</strong> /ˈɪmpɔːt frɒm/: nhập khẩu từ</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Guarantee</strong> /ˌɡærᵊnˈtiː/: bảo hành</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Receipt</strong> /rɪˈsiːt/: hóa đơn</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Special feature</strong> /ˈspɛʃᵊl ˈfiːʧə/: tính năng đặc biệt</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Display</strong> /dɪˈspleɪ/ (v): hiện ra/hiển thị</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Be made of</strong> /meɪd ɒv/: làm từ (chất liệu)</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Come in (different colors/sizes)</strong> /kʌm ɪn (ˈdɪfᵊrᵊnt ˈkʌləz/ˈsaɪzɪz)/: có sẵn mặt hàng</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Hang sth up</strong> /hæŋ sth ʌp/: treo lên</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Match your clothes</strong> /mæʧ jɔː kləʊðz/: hợp với trang phục của bạn</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Waterproof</strong> /ˈwɔːtəpruːf/: chống nước/không thấm nước</span></li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<p><span style=\"font-family: arial, helvetica, sans-serif; color: #ba372a;\"><strong>Exercise 1</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Choose the suitable words to complete the following questions.</strong></span></p>\n<p><span style=\"color: #ba372a; font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Exercise 2</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Listen and complete the sentences. </strong></span></p>\n<p style=\"padding-left: 40px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">1. <audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1713889293.mp3\" controls=\"controls\">\n                                                            Your browser does not support the audio element.\n                                                        </audio></span></p>\n<p style=\"padding-left: 40px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">2. <audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1713889312.mp3\" controls=\"controls\">\n                                                            Your browser does not support the audio element.\n                                                        </audio></span></p>\n<p style=\"padding-left: 40px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">3. <audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1713889332.mp3\" controls=\"controls\">\n                                                            Your browser does not support the audio element.\n                                                        </audio></span></p>\n<p style=\"padding-left: 40px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">4. <audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1713889352.mp3\" controls=\"controls\">\n                                                            Your browser does not support the audio element.\n                                                        </audio></span></p>\n<p style=\"padding-left: 40px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">5. <audio src=\"https://api-quiz-maker.langgo.vn/storage/audio/1713889366.mp3\" controls=\"controls\">\n                                                            Your browser does not support the audio element.\n                                                        </audio></span></p>\n<p> </p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 18pt;\"><strong><span style=\"background-color: #ba372a; color: #ffffff;\"> READING </span> </strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>ANNA'S SHOPPING HABITS</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Anna is a university student who enjoys shopping in her free time, especially after a long and stressful day of studying. For her, shopping is not only about buying things but also a way to relax and improve her mood.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">She usually goes to shopping malls on weekends with her close friends. She prefers shopping in stores when she wants to buy clothes because she can try them on and check the quality carefully. She also likes asking shop assistants for advice, especially when she is unsure about sizes or styles. </span><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">However, shopping in physical stores can be tiring for her, especially when the shops are crowded or when she has to wait in long lines.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">On the other hand, Anna also spends a lot of time shopping online. She often buys books, accessories, and small items on the internet because it is faster and more convenient. One important habit she has is reading customer reviews before making a purchase, as she wants to avoid wasting money on poor-quality products. She also compares prices between different websites to find the best deal.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Despite these advantages, Anna has had some negative experiences with online shopping. Sometimes the items she receives are different from the pictures, or the delivery takes longer than expected. Because of this, she is more careful when choosing online stores.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Overall, Anna believes that both types of shopping are useful, and she tries to use them in a balanced way depending on her needs and how she feels at the time.</span></p>\n<p><strong><span style=\"background-color: #ba372a; font-size: 18pt; font-family: arial, helvetica, sans-serif;\"><span style=\"color: #ffffff; background-color: #ba372a;\"> SHADOWING</span><span style=\"color: #ffffff; background-color: #ba372a;\"> </span></span></strong></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Bật audio, nghe và bắt chước các câu sau đúng ngữ âm, tốc độ và ngữ điệu. Chú ý nối âm ở những đoạn <span style=\"background-color: #fbeeb8;\">highlight</span>.</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Luyện tập thật kĩ vì nếu buổi tới kiểm tra không nhắc lại được đúng ngữ âm, ngữ điệu, tốc độ và dịch được nghĩa thì challenge sẽ bị BỎ TÍCH SAO đó nha :D</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1713889747.mp3\" /> <strong>1.</strong> There were some great bargains there, but it was impossible to find what I wanted <span style=\"background-color: #fbeeb8;\">because of</span> the crowds.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 11pt; color: #236fa1;\">     /ðeə wɜː sʌm ɡreɪt ˈbɑːɡɪnz ðeə, bʌt ɪt wɒz ɪmˈpɒsəbᵊl tuː faɪnd wɒt aɪ ˈwɒntɪd bɪˈkɒz ɒv ðə kraʊdz./</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1713889762.mp3\" /> <strong>2.</strong> I really wanted to buy a few things, but <span style=\"background-color: #fbeeb8;\">after a while,</span> I got <span style=\"background-color: #fbeeb8;\">fed up</span> and left without buying anything.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 11pt;\">    <span style=\"color: #236fa1;\"> /aɪ ˈrɪəli ˈwɒntɪd tuː baɪ ə fjuː θɪŋz, bʌt ˈɑːftər ə waɪl aɪ ɡɒt fɛd ʌp ænd lɛft wɪˈðaʊt ˈbaɪɪŋ ˈɛniθɪŋ./</span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1713889774.mp3\" /> <strong>3.</strong> Big crowds drive me crazy. Next time, I won't go shopping during a big sale.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">    <span style=\"font-size: 11pt; color: #236fa1;\"> /bɪɡ kraʊdz draɪv miː ˈkreɪzi. nɛkst taɪm, aɪ wəʊnt ɡəʊ ˈʃɒpɪŋ ˈdjʊərɪŋ ə bɪɡ seɪl./</span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1713889785.mp3\" /> <strong>4.</strong> Next time, I will spend more time comparing prices before I buy something.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">    <span style=\"font-size: 11pt; color: #236fa1;\"> /nɛkst taɪm aɪ wɪl spɛnd mɔː taɪm kəmˈpeərɪŋ ˈpraɪsɪz bɪˈfɔːr aɪ baɪ ˈsʌmθɪŋ./</span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1713889798.mp3\" /> <strong>5.</strong> I thought the prices were reasonable, and I hate bargaining, so I just paid the price they asked.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">     <span style=\"color: #236fa1; font-size: 11pt;\">/aɪ θɔːt ðə ˈpraɪsɪz wɜː ˈriːzᵊnəbᵊl ænd aɪ heɪt ˈbɑːɡɪnɪŋ, səʊ aɪ ʤʌst peɪd ðə praɪs ðeɪ ɑːskt./</span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1713889809.mp3\" /> <strong>6.</strong> They're very well made and come with a three-year guarantee.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">    <span style=\"color: #236fa1; font-size: 11pt;\"> /ðeə ˈvɛri wɛl meɪd ænd kʌm wɪð ə θriː-jɪə ˌɡærᵊnˈtiː./</span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1713889823.mp3\" /> <strong>7.</strong> One great thing is they only weigh ten kilos, so you can easily <span style=\"background-color: #fbeeb8;\">pick one up</span> if you want to <span style=\"background-color: #fbeeb8;\">move it</span> or <span style=\"background-color: #fbeeb8;\">clean it</span>.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">    <span style=\"font-size: 11pt; color: #236fa1;\"> /wʌn ɡreɪt θɪŋ ɪz ðeɪ ˈəʊnli weɪ tɛn ˈkiːləʊz, səʊ juː kæn ˈiːzᵊli pɪk wʌn ʌp ɪf juː wɒnt tuː muːv ɪt ɔː kliːn ɪt./</span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1713889835.mp3\" /> <strong>8.</strong> It <span style=\"background-color: #fbeeb8;\">comes in</span> six different colors.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">    <span style=\"font-size: 11pt; color: #236fa1;\"> /ɪt kʌmz ɪn sɪks ˈdɪfᵊrᵊnt ˈkʌləz./</span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><img class=\"audio_custom_need_add_event\" style=\"cursor: pointer; width: 24px;\" src=\"../images/icons8-speaker-40.png\" alt=\"speaker\" data-url=\"https://api-quiz-maker.langgo.vn/storage/audio/1713889849.mp3\" /> <strong>9.</strong> But what's really special is that <span style=\"background-color: #fbeeb8;\">this is</span> not only a watch. You can <span style=\"background-color: #fbeeb8;\">use it</span> to send and receive e-mail messages.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">    <span style=\"color: #236fa1; font-size: 11pt;\"> /bʌt wɒts ˈrɪəli ˈspɛʃᵊl ɪz ðæt ðɪs ɪz nɒt ˈəʊnli ə wɒʧ. juː kæn juːz ɪt tuː sɛnd ænd rɪˈsiːv ˈiːmeɪl ˈmɛsɪʤɪz/</span></span></p>\n<p> </p>",
+          "index": 2,
+          "type": "paragraph",
+          "audio_url": null,
+          "video_url": null,
+          "transcript": null,
+          "layout_audio": "full",
+          "align": null
+        }
+      ],
+      "message": null
+    }
+  },
+  "questions": {
+    "ok": true,
+    "status": 200,
+    "json": {
+      "success": true,
+      "data": [
+        {
+          "challenge_id": 41697,
+          "id": 414336,
+          "name": null,
+          "title": "VOCABULARY",
+          "content": null,
+          "explain": null,
+          "introduction": "<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #ba372a;\">Exercise 1</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Choose the suitable words to complete the following sentences. </span><em><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">(Chọn các từ thích hợp để hoàn thiện các câu sau.)</span></em></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"> </p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"2\" cellspacing=\"5\" cellpadding=\"10\">\n<tbody style=\"padding-left: 40px;\">\n<tr style=\"padding-left: 40px;\">\n<td style=\"width: 100%; padding-left: 40px;\">\n<p style=\"padding-left: 40px; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px; white-space-collapse: preserve;\">crowds - bargain - shrank - faded - reasonable </span></p>\n<p style=\"padding-left: 40px; text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px; white-space-collapse: preserve;\">guarantee - receipt - special feature - display - waterproof</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"> </p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 100556,
+              "content": "<ol>\n<li dir=\"ltr\" style=\"line-height: 1.44;\" role=\"presentation\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #000000; font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong><span style=\"background-color: #fbeeb8;\">Retailers</span></strong><em> (những người bán hàng) </em>should <span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000;\">[input_0]</span></span><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> delivery times and costs on their websites.</span></span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.44;\" role=\"presentation\"><span style=\"font-family: arial, helvetica, sans-serif; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">She <strong><span style=\"background-color: #fbeeb8;\">decided</span></strong> <em>(quyết định)</em> to [input_1]</span><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">with a <span style=\"background-color: #fbeeb8;\"><strong>street vendor</strong></span> <em>(người bán hàng rong)</em> and <strong><span style=\"background-color: #fbeeb8;\">got a discount</span> </strong><em>(được giảm giá) </em>on the dress.</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.44;\" role=\"presentation\"><span style=\"font-family: arial, helvetica, sans-serif; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Oh no! My new Totoro sweater <span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_2]</span></span><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> after I put it in the dryer.</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.44;\" role=\"presentation\"><span style=\"font-family: arial, helvetica, sans-serif; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">My sister is a <strong><span style=\"background-color: #fbeeb8;\">good-for-nothing</span></strong> <em>(người không giúp ích được gì)</em>. She hung my red prom dress under direct sunlight, and now its color has <span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_3]</span></span><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">.</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.44;\" role=\"presentation\"><span style=\"font-family: arial, helvetica, sans-serif; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This watch comes with a one-year [input_4]</span><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">against any <strong><span style=\"background-color: #fbeeb8;\">defects</span> </strong><em>(hư hỏng)</em>.</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.44;\" role=\"presentation\"><span style=\"font-family: arial, helvetica, sans-serif; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The jacket is <span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_5]</span></span><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, perfect for rainy days.</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.44;\" role=\"presentation\"><span style=\"font-family: arial, helvetica, sans-serif; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">You can still get a good house for a very [input_6]</span><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">price.</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.44;\" role=\"presentation\"><span style=\"font-family: arial, helvetica, sans-serif; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I always keep the [input_7]</span><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">in case I need to return the item.</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.44;\" role=\"presentation\"><span style=\"font-family: arial, helvetica, sans-serif; color: #000000;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The new smartphone has a <span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_8]</span></span><span style=\"font-size: 12pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> that allows you to translate and understand what your pet is trying to communicate.</span></span></li>\n<li dir=\"ltr\" style=\"line-height: 1.44;\" role=\"presentation\"><span style=\"font-family: arial, helvetica, sans-serif; color: #000000;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">I don't usually go shopping during the summer sales and Black Friday to <strong><span style=\"background-color: #fbeeb8;\">avoid</span></strong> <em>(tránh)</em> the [input_9]</span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;\">.</span></span></li>\n</ol>"
+            }
+          }
+        },
+        {
+          "challenge_id": 41697,
+          "id": 414337,
+          "name": null,
+          "title": null,
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span id=\"docs-internal-guid-3cb46100-7fff-2424-b91f-a23550df4b98\"></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #ba372a;\"><span style=\"font-size: 12pt; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Exercise 2</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.5; margin-top: 3pt; margin-bottom: 3pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Listen and complete the sentences. Pay attention to the linking sounds.</span><span style=\"font-size: 12pt; white-space-collapse: preserve;\"> <em>(Nghe và hoàn thiện các câu sau. Chú ý các từ có nối âm.)</em></span></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 100557,
+              "content": "<ol>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">There were <span style=\"color: #ba372a;\"><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_0]</span></span> <span style=\"color: #000000;\">of</span> </span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">people there. People were lined up <span style=\"color: #ba372a;\">[input_1]</span> the main door before it opened. As soon as the doors <span style=\"color: #ba372a;\">[input_2]</span>, everyone</span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> <span style=\"color: #000000;\">rushed in</span></span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">.</span></span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I got fed up and left without buying <span style=\"color: #ba372a;\">[input_3]</span>.</span></span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I bought lots of cheap <span style=\"color: #ba372a;\">[input_4]</span> when I </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: #000000;\">was on</span></span><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> <span style=\"color: #ba372a;\">[input_5]</span> last summer</span></span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">But I've had <span style=\"color: #ba372a;\">[input_6]</span> with almost everything I bought.  Some things fell apart. Some shrank as soon as I <span style=\"color: #ba372a;\">[input_7]</span> them.</span></span></li>\n<li><span id=\"docs-internal-guid-78895f67-7fff-8f7a-8f31-8ed2954b77a9\" style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">This jacket is very <span style=\"color: #ba372a;\">[input_8]</span>. It's </span><span style=\"font-size: 12pt; color: #cc0000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #000000;\">made of</span> </span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">nylon, so it's very easy to <span style=\"color: #ba372a;\">[input_9] <span style=\"color: #000000;\">of</span></span>. It </span><span style=\"font-size: 12pt; color: #cc0000; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"color: #000000;\">comes in</span> </span><span style=\"font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">six different colors.</span></span></li>\n</ol>"
+            }
+          }
+        },
+        {
+          "challenge_id": 41697,
+          "id": 414338,
+          "name": null,
+          "title": "READING",
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"0\" data-end=\"59\">Task 1: Read the passage and choose the correct answer A, B, or C for each question.</strong> <em data-start=\"60\" data-end=\"109\">(Đọc đoạn văn và chọn đáp án đúng A, B hoặc C cho mỗi câu hỏi.)</em></span></p>",
+          "explain": null,
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": null,
+          "answer": null
+        },
+        {
+          "challenge_id": 41697,
+          "id": 414339,
+          "name": null,
+          "title": null,
+          "content": "<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">1. Why does Anna like shopping?</span></strong></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"153\" data-end=\"188\">1. Why does Anna like shopping?</strong></span><br data-start=\"188\" data-end=\"191\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Trong bài: <em data-start=\"202\" data-end=\"254\">“shopping is… a way to relax and improve her mood”</em> → nghĩa là giúp thư giãn và cảm thấy tốt hơn</span><br data-start=\"299\" data-end=\"302\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án: <span style=\"color: #ba372a;\"><strong data-start=\"312\" data-end=\"343\">B. To relax and feel better</strong> </span><em data-start=\"344\" data-end=\"379\">(để thư giãn và cảm thấy tốt hơn)</em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 874665,
+                "content": "A. To meet new people"
+              },
+              {
+                "id": 874666,
+                "content": "B. To relax and feel better"
+              },
+              {
+                "id": 874667,
+                "content": "C. To get better study results"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 41697,
+          "id": 414340,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-size: 12pt;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\">2. When does Anna usually go to shopping malls?</span></strong></span></p>",
+          "explain": "<p data-start=\"388\" data-end=\"556\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"388\" data-end=\"439\">2. When does Anna usually go to shopping malls?</strong></span><br data-start=\"439\" data-end=\"442\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Trong bài: <em data-start=\"453\" data-end=\"486\">“She usually goes… on weekends”</em> → đi vào cuối tuần</span><br data-start=\"505\" data-end=\"508\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án: <span style=\"color: #ba372a;\"><strong data-start=\"518\" data-end=\"536\">C. On weekends</strong></span> <em data-start=\"537\" data-end=\"554\">(vào cuối tuần)</em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 874668,
+                "content": "A. On a daily basis"
+              },
+              {
+                "id": 874669,
+                "content": "B. Every month"
+              },
+              {
+                "id": 874670,
+                "content": "C. On weekends"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 41697,
+          "id": 414341,
+          "name": null,
+          "title": null,
+          "content": "<p><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">3. Why does Anna prefer shopping in stores for clothes?</span></strong></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"563\" data-end=\"622\">3. Why does Anna prefer shopping in stores for clothes?</strong></span><br data-start=\"622\" data-end=\"625\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Trong bài: <em data-start=\"636\" data-end=\"681\">“she can try them on and check the quality”</em> → thử đồ</span><br data-start=\"690\" data-end=\"693\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án: <span style=\"color: #ba372a;\"><strong data-start=\"703\" data-end=\"729\">B. She can try them on</strong> </span><em data-start=\"730\" data-end=\"753\">(cô ấy có thể thử đồ)</em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 874671,
+                "content": "A. They are cheaper"
+              },
+              {
+                "id": 874672,
+                "content": "B. She can try them on"
+              },
+              {
+                "id": 874673,
+                "content": "C. She can buy faster"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 41697,
+          "id": 414342,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"font-size: 12pt;\">4. Why can shopping in stores be tiring for Anna?</span></strong></span></p>",
+          "explain": "<p data-start=\"762\" data-end=\"952\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"762\" data-end=\"815\">4. Why can shopping in stores be tiring for Anna?</strong></span><br data-start=\"815\" data-end=\"818\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Trong bài: <em data-start=\"829\" data-end=\"874\">“when the shops are crowded or… long lines”</em> → đông người</span><br data-start=\"893\" data-end=\"896\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án: <span style=\"color: #ba372a;\"><strong data-start=\"906\" data-end=\"926\">C. Crowded shops</strong></span> <em data-start=\"927\" data-end=\"950\">(cửa hàng đông người)</em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 874674,
+                "content": "A. High prices"
+              },
+              {
+                "id": 874675,
+                "content": "B. Too many products"
+              },
+              {
+                "id": 874676,
+                "content": "C. Crowded shops"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 41697,
+          "id": 414343,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"585\" data-end=\"624\">5. What does Anna often buy online?</strong></span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"959\" data-end=\"998\">5. What does Anna often buy online?</strong></span><br data-start=\"998\" data-end=\"1001\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Trong bài: <em data-start=\"1012\" data-end=\"1066\">“She often buys books, accessories, and small items”</em></span><br data-start=\"1066\" data-end=\"1069\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án: <span style=\"color: #ba372a;\"><strong data-start=\"1079\" data-end=\"1107\">A. Books and accessories</strong> </span><em data-start=\"1108\" data-end=\"1128\">(sách và phụ kiện)</em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 874677,
+                "content": "A. Books and accessories"
+              },
+              {
+                "id": 874678,
+                "content": "B. Food and drinks"
+              },
+              {
+                "id": 874679,
+                "content": "C. Clothes and shoes"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 41697,
+          "id": 414344,
+          "name": null,
+          "title": null,
+          "content": "<p data-start=\"830\" data-end=\"973\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"830\" data-end=\"886\">6. What problem does Anna have with online shopping?</strong></span></p>",
+          "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1329\" data-end=\"1385\">6. What problem does Anna have with online shopping?</strong></span><br data-start=\"1385\" data-end=\"1388\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Trong bài: <em data-start=\"1399\" data-end=\"1441\">“items… are different from the pictures”</em></span><br data-start=\"1441\" data-end=\"1444\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án: <span style=\"color: #ba372a;\"><strong data-start=\"1454\" data-end=\"1490\">A. Items are sometimes different</strong> </span><em data-start=\"1491\" data-end=\"1525\">(sản phẩm đôi khi khác với hình)</em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 4,
+          "answer": {
+            "answers": [
+              {
+                "id": 874680,
+                "content": "A. Items are sometimes different"
+              },
+              {
+                "id": 874681,
+                "content": "B. No websites available"
+              },
+              {
+                "id": 874682,
+                "content": "C. Shops close early"
+              }
+            ]
+          }
+        },
+        {
+          "challenge_id": 41697,
+          "id": 414345,
+          "name": null,
+          "title": null,
+          "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Task 2: Write NO MORE THAN TWO WORDS for each answer. Use exact words from the passage.</strong><em> (Viết KHÔNG QUÁ HAI TỪ cho mỗi câu trả lời. Sử dụng từ trong bài đọc.)</em></span></p>",
+          "explain": "<p data-start=\"1566\" data-end=\"1689\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1566\" data-end=\"1604\">1. Who does Anna go shopping with?</strong></span><br data-start=\"1604\" data-end=\"1607\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Trong bài: “She usually goes to shopping malls on weekends <span style=\"background-color: #fbeeb8;\">with her close friends</span>.”<em> (Cô ấy thường đi đến các trung tâm mua sắm vào cuối tuần cùng với những người bạn thân của mình.)</em></span><br data-start=\"1644\" data-end=\"1647\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án: <span style=\"color: #ba372a;\"><strong data-start=\"1657\" data-end=\"1674\">close friends</strong></span> <em data-start=\"1675\" data-end=\"1687\">(bạn thân)</em></span></p>\n<p data-start=\"1696\" data-end=\"1852\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1696\" data-end=\"1752\">2. What does Anna want to check when buying clothes?</strong></span><br data-start=\"1752\" data-end=\"1755\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Trong bài: “She prefers shopping in stores when she wants to buy clothes because she can try them on and <span style=\"background-color: #fbeeb8;\">check the quality carefully</span>.\" <em data-start=\"1766\" data-end=\"1797\">(Cô ấy thích mua sắm tại cửa hàng khi muốn mua quần áo vì cô ấy có thể thử đồ và kiểm tra chất lượng một cách cẩn thận.)</em></span><br data-start=\"1797\" data-end=\"1800\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án: <span style=\"color: #ba372a;\"><strong data-start=\"1810\" data-end=\"1835\">quality / the quality</strong></span> <em data-start=\"1836\" data-end=\"1850\">(chất lượng)</em></span></p>\n<p data-start=\"1859\" data-end=\"2022\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1859\" data-end=\"1907\">3. What does Anna read before buying online?</strong></span><br data-start=\"1907\" data-end=\"1910\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Trong bài: “One important habit she has is <span style=\"background-color: #fbeeb8;\">reading customer reviews </span>before making a purchase...” <em>(Một thói quen quan trọng của cô ấy là đọc các đánh giá của khách hàng trước khi mua hàng...)</em></span><br data-start=\"1949\" data-end=\"1952\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ Đáp án: <span style=\"color: #ba372a;\"><strong data-start=\"1962\" data-end=\"1992\">customer reviews / reviews</strong> </span><em data-start=\"1993\" data-end=\"2020\">(đánh giá của khách hàng)</em></span></p>",
+          "introduction": null,
+          "link_image": null,
+          "url_image": null,
+          "type": 1,
+          "answer": {
+            "answers": {
+              "id": 100558,
+              "content": "<p data-start=\"1167\" data-end=\"1252\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1167\" data-end=\"1223\">1. <span>Who does Anna go shopping with?</span><br data-start=\"1297\" data-end=\"1300\" /></strong>→ [input_0]</span></p>\n<p data-start=\"1259\" data-end=\"1326\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1259\" data-end=\"1297\">2. </strong></span><strong style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\" data-start=\"1167\" data-end=\"1223\">What does Anna want to check when buying clothes?<br /></strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ [input_1]</span></p>\n<p data-start=\"1333\" data-end=\"1410\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1333\" data-end=\"1381\">3. What does Anna read before buying online?</strong></span><br data-start=\"1381\" data-end=\"1384\" /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">→ [input_2]</span></p>"
+            }
+          }
+        },
+        {
+          "challenge_id": 41697,
+          "id": 414346,
+          "name": null,
+          "title": "SHADOWING",
+          "content": null,
+          "explain": null,
+          "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong><span id=\"docs-internal-guid-0c5c9056-7fff-3276-e631-04f68abd406f\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Bật audio, nghe và bắt chước các câu sau đúng ngữ âm, tốc độ và ngữ điệu. Chú ý nối âm ở những đoạn </span><span style=\"background-color: #fff2cc; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">highlight</span><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">.</span></span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">HV nộp lại link video / audio tại đây: </span></strong></span></p>",
+          "link_image": null,
+          "url_image": null,
+          "type": 2,
+          "answer": {
+            "answers": []
+          }
+        }
+      ],
+      "message": null
+    }
+  }
+}

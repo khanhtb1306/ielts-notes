@@ -1,0 +1,847 @@
+{
+  "lesson": 4,
+  "lessonKey": "lesson-04",
+  "items": [
+    {
+      "challengeId": 42737,
+      "classChallengeId": "93409",
+      "statusMark": null,
+      "rate": 0,
+      "correctAnswer": 52,
+      "submittedAt": "2026-09-20 17:00:36",
+      "markedAt": null,
+      "commentText": "",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "426011": {
+          "total_question": 9,
+          "total_correct_result_answer": 9,
+          "user_answer": {
+            "input_0": "curriculum",
+            "input_1": "gain more knowledge",
+            "input_2": "research",
+            "input_3": "focus on",
+            "input_4": "personal development",
+            "input_5": "extracurricular activities",
+            "input_6": "teamwork skills",
+            "input_7": "graduate from",
+            "input_8": "stable job"
+          },
+          "correct_answer": {
+            "input_0": [
+              "curriculum"
+            ],
+            "input_1": [
+              "gain more knowledge"
+            ],
+            "input_2": [
+              "research"
+            ],
+            "input_3": [
+              "focus on"
+            ],
+            "input_4": [
+              "personal development"
+            ],
+            "input_5": [
+              "extracurricular activities"
+            ],
+            "input_6": [
+              "teamwork skills"
+            ],
+            "input_7": [
+              "graduate from"
+            ],
+            "input_8": [
+              "stable job"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 426011,
+          "challenge_id": 42737
+        },
+        "426012": {
+          "total_question": 7,
+          "total_correct_result_answer": 7,
+          "user_answer": {
+            "input_0": "for learning things by heart",
+            "input_1": "achieved full marks",
+            "input_2": "plays truant",
+            "input_3": "signed up for",
+            "input_4": "missed the deadline",
+            "input_5": "graduated from",
+            "input_6": "concentrated on"
+          },
+          "correct_answer": {
+            "input_0": [
+              "for learning things by heart"
+            ],
+            "input_1": [
+              "achieved full marks"
+            ],
+            "input_2": [
+              "plays truant"
+            ],
+            "input_3": [
+              "signed up for"
+            ],
+            "input_4": [
+              "missed the deadline"
+            ],
+            "input_5": [
+              "graduated from"
+            ],
+            "input_6": [
+              "concentrated on"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 426012,
+          "challenge_id": 42737
+        },
+        "426013": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "My best friend has a talent for learning languages, so she can speak English very fluently.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 426013,
+          "challenge_id": 42737
+        },
+        "426015": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "I try to focus on practical skills because they are useful and necessary in real life.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 426015,
+          "challenge_id": 42737
+        },
+        "426016": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "The curriculum at my school is quite challenging, but it helps me improve a lot.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 426016,
+          "challenge_id": 42737
+        },
+        "426017": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "He passed the exam because he prepared very carefully.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 426017,
+          "challenge_id": 42737
+        },
+        "426019": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "Recently, I have signed up for a course to improve my speaking skills.",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 426019,
+          "challenge_id": 42737
+        },
+        "426021": {
+          "total_question": 6,
+          "total_correct_result_answer": 6,
+          "user_answer": {
+            "input_0": "29",
+            "input_1": "Central",
+            "input_2": "finish",
+            "input_3": "one",
+            "input_4": "stop",
+            "input_5": "studying"
+          },
+          "correct_answer": {
+            "input_0": [
+              "twenty- nine",
+              "29"
+            ],
+            "input_1": [
+              "Central"
+            ],
+            "input_2": [
+              "finish"
+            ],
+            "input_3": [
+              "one",
+              "1"
+            ],
+            "input_4": [
+              "stop"
+            ],
+            "input_5": [
+              "studying"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 426021,
+          "challenge_id": 42737
+        },
+        "426022": {
+          "total_question": 7,
+          "total_correct_result_answer": 7,
+          "user_answer": {
+            "input_0": "Maths",
+            "input_1": "Science",
+            "input_2": "exams",
+            "input_3": "eighteen",
+            "input_4": "degree",
+            "input_5": "experience",
+            "input_6": "questions"
+          },
+          "correct_answer": {
+            "input_0": [
+              "Maths"
+            ],
+            "input_1": [
+              "Science"
+            ],
+            "input_2": [
+              "exams"
+            ],
+            "input_3": [
+              "eighteen",
+              "18"
+            ],
+            "input_4": [
+              "degree"
+            ],
+            "input_5": [
+              "experience"
+            ],
+            "input_6": [
+              "questions"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 426022,
+          "challenge_id": 42737
+        },
+        "426023": {
+          "total_question": 6,
+          "total_correct_result_answer": 6,
+          "user_answer": {
+            "input_0": "university",
+            "input_1": "free time",
+            "input_2": "courses",
+            "input_3": "interesting",
+            "input_4": "history",
+            "input_5": "signed up"
+          },
+          "correct_answer": {
+            "input_0": [
+              "university"
+            ],
+            "input_1": [
+              "free time"
+            ],
+            "input_2": [
+              "courses"
+            ],
+            "input_3": [
+              "interesting"
+            ],
+            "input_4": [
+              "history"
+            ],
+            "input_5": [
+              "signed up"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 426023,
+          "challenge_id": 42737
+        },
+        "426025": {
+          "total_question": 11,
+          "total_correct_result_answer": 11,
+          "user_answer": {
+            "input_0": "học/làm tiến sĩ",
+            "input_1": "viết luận án về",
+            "input_2": "còn một năm nữa",
+            "input_3": "một lối sống",
+            "input_4": "giỏi / không giỏi về",
+            "input_5": "quan tâm, hứng thú với",
+            "input_6": "học/lấy bằng về",
+            "input_7": "nộp đơn vào trường cao đẳng/đại học",
+            "input_8": "được nhận vào trường đại học",
+            "input_9": "nghỉ hưu",
+            "input_10": "đăng ký một khóa học"
+          },
+          "correct_answer": {
+            "input_0": [
+              ""
+            ],
+            "input_1": [
+              ""
+            ],
+            "input_2": [
+              ""
+            ],
+            "input_3": [
+              ""
+            ],
+            "input_4": [
+              ""
+            ],
+            "input_5": [
+              ""
+            ],
+            "input_6": [
+              ""
+            ],
+            "input_7": [
+              ""
+            ],
+            "input_8": [
+              ""
+            ],
+            "input_9": [
+              ""
+            ],
+            "input_10": [
+              ""
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true,
+            "input_10": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 426025,
+          "challenge_id": 42737
+        },
+        "426026": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://drive.google.com/file/d/10gg-K9hHk5z0zHJwKKmMJtF-FJ_ZSo6u/view?usp=drive_link",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 426026,
+          "challenge_id": 42737
+        }
+      }
+    },
+    {
+      "challengeId": 42739,
+      "classChallengeId": "93410",
+      "statusMark": null,
+      "rate": 0,
+      "correctAnswer": 46,
+      "submittedAt": "2026-09-20 17:00:38",
+      "markedAt": null,
+      "commentText": "",
+      "redoCommentText": "",
+      "cancelCommentText": "",
+      "answers": {
+        "426029": {
+          "total_question": 5,
+          "total_correct_result_answer": 5,
+          "user_answer": {
+            "input_0": "have studied",
+            "input_1": "showed",
+            "input_2": "hasn't finished",
+            "input_3": "has improved",
+            "input_4": "joined"
+          },
+          "correct_answer": {
+            "input_0": [
+              "have studied",
+              "'ve studied"
+            ],
+            "input_1": [
+              "showed"
+            ],
+            "input_2": [
+              "has not finished",
+              "hasn't finished"
+            ],
+            "input_3": [
+              "has improved",
+              "'s improved"
+            ],
+            "input_4": [
+              "joined"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 426029,
+          "challenge_id": 42739
+        },
+        "426030": {
+          "total_question": 7,
+          "total_correct_result_answer": 7,
+          "user_answer": {
+            "input_0": "yet",
+            "input_1": "for",
+            "input_2": "ever",
+            "input_3": "already",
+            "input_4": "since",
+            "input_5": "just",
+            "input_6": "never"
+          },
+          "correct_answer": {
+            "input_0": [
+              "yet"
+            ],
+            "input_1": [
+              "for"
+            ],
+            "input_2": [
+              "ever"
+            ],
+            "input_3": [
+              "already"
+            ],
+            "input_4": [
+              "since"
+            ],
+            "input_5": [
+              "just"
+            ],
+            "input_6": [
+              "never"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 426030,
+          "challenge_id": 42739
+        },
+        "426031": {
+          "total_question": 10,
+          "total_correct_result_answer": 10,
+          "user_answer": {
+            "input_0": "enjoy",
+            "input_1": "plays",
+            "input_2": "didn't like",
+            "input_3": "were",
+            "input_4": "have changed",
+            "input_5": "have become",
+            "input_6": "have tried",
+            "input_7": "am preparing",
+            "input_8": "spend",
+            "input_9": "is"
+          },
+          "correct_answer": {
+            "input_0": [
+              "enjoy"
+            ],
+            "input_1": [
+              "plays"
+            ],
+            "input_2": [
+              "didn't like"
+            ],
+            "input_3": [
+              "were"
+            ],
+            "input_4": [
+              "have changed"
+            ],
+            "input_5": [
+              "have become"
+            ],
+            "input_6": [
+              "have tried"
+            ],
+            "input_7": [
+              "am preparing"
+            ],
+            "input_8": [
+              "spend"
+            ],
+            "input_9": [
+              "is"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 426031,
+          "challenge_id": 42739
+        },
+        "426032": {
+          "total_question": 10,
+          "total_correct_result_answer": 10,
+          "user_answer": {
+            "input_0": "listen",
+            "input_1": "take",
+            "input_2": "work",
+            "input_3": "didn't participate",
+            "input_4": "has improved",
+            "input_5": "have become",
+            "input_6": "has given",
+            "input_7": "spend",
+            "input_8": "are preparing",
+            "input_9": "have learnt"
+          },
+          "correct_answer": {
+            "input_0": [
+              "listen"
+            ],
+            "input_1": [
+              "take"
+            ],
+            "input_2": [
+              "work"
+            ],
+            "input_3": [
+              "didn't participate"
+            ],
+            "input_4": [
+              "has improved"
+            ],
+            "input_5": [
+              "have become"
+            ],
+            "input_6": [
+              "has given"
+            ],
+            "input_7": [
+              "spend"
+            ],
+            "input_8": [
+              "are preparing"
+            ],
+            "input_9": [
+              "have learned",
+              "have learnt"
+            ]
+          },
+          "result_answer": {
+            "input_0": true,
+            "input_1": true,
+            "input_2": true,
+            "input_3": true,
+            "input_4": true,
+            "input_5": true,
+            "input_6": true,
+            "input_7": true,
+            "input_8": true,
+            "input_9": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 426032,
+          "challenge_id": 42739
+        },
+        "426034": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 900604,
+          "correct_answer": 900604,
+          "result_answer": {
+            "900604": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 426034,
+          "challenge_id": 42739
+        },
+        "426036": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 900611,
+          "correct_answer": 900611,
+          "result_answer": {
+            "900611": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 426036,
+          "challenge_id": 42739
+        },
+        "426038": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 900619,
+          "correct_answer": 900619,
+          "result_answer": {
+            "900619": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 426038,
+          "challenge_id": 42739
+        },
+        "426039": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 900621,
+          "correct_answer": 900621,
+          "result_answer": {
+            "900621": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 426039,
+          "challenge_id": 42739
+        },
+        "426040": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 900622,
+          "correct_answer": 900622,
+          "result_answer": {
+            "900622": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 426040,
+          "challenge_id": 42739
+        },
+        "426042": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 900628,
+          "correct_answer": 900628,
+          "result_answer": {
+            "900628": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 426042,
+          "challenge_id": 42739
+        },
+        "426044": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 900635,
+          "correct_answer": 900635,
+          "result_answer": {
+            "900635": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 426044,
+          "challenge_id": 42739
+        },
+        "426046": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": 900640,
+          "correct_answer": 900640,
+          "result_answer": {
+            "900640": true
+          },
+          "has_answer_empty": false,
+          "type": 4,
+          "question_id": 426046,
+          "challenge_id": 42739
+        },
+        "426049": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": {
+            "input_0": "concentrate more on practical skills"
+          },
+          "correct_answer": {
+            "input_0": [
+              "concentrate more on practical skills"
+            ]
+          },
+          "result_answer": {
+            "input_0": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 426049,
+          "challenge_id": 42739
+        },
+        "426050": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": {
+            "input_0": "participate in"
+          },
+          "correct_answer": {
+            "input_0": [
+              "participate in"
+            ]
+          },
+          "result_answer": {
+            "input_0": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 426050,
+          "challenge_id": 42739
+        },
+        "426051": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": {
+            "input_0": "enable students to improve"
+          },
+          "correct_answer": {
+            "input_0": [
+              "enable students to improve"
+            ]
+          },
+          "result_answer": {
+            "input_0": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 426051,
+          "challenge_id": 42739
+        },
+        "426052": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": {
+            "input_0": "allows students to develop"
+          },
+          "correct_answer": {
+            "input_0": [
+              "allows students to develop"
+            ]
+          },
+          "result_answer": {
+            "input_0": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 426052,
+          "challenge_id": 42739
+        },
+        "426054": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": {
+            "input_0": "rely too much on learning"
+          },
+          "correct_answer": {
+            "input_0": [
+              "rely too much on learning"
+            ]
+          },
+          "result_answer": {
+            "input_0": true
+          },
+          "has_answer_empty": [],
+          "type": 1,
+          "question_id": 426054,
+          "challenge_id": 42739
+        },
+        "426055": {
+          "total_question": 1,
+          "total_correct_result_answer": 1,
+          "user_answer": "https://drive.google.com/file/d/1KL5Wg8nIoPcR_2oc3I-p5CZcsS8j-y_3/view?usp=drive_link",
+          "correct_answer": null,
+          "result_answer": true,
+          "has_answer_empty": false,
+          "type": 2,
+          "question_id": 426055,
+          "challenge_id": 42739
+        }
+      }
+    }
+  ]
+}

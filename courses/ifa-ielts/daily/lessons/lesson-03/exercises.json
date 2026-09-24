@@ -1,0 +1,1032 @@
+{
+  "lesson": 3,
+  "lessonKey": "lesson-03",
+  "questions": [
+    {
+      "id": "question-421785",
+      "sourceQuestionId": 421785,
+      "challengeId": 42401,
+      "classChallengeId": "93087",
+      "title": "VOCABULARY",
+      "type": 1,
+      "prompt": "VOCABULARY",
+      "introductionText": "Exercise 1\n\nChoose the correct words to complete the following sentences. (Chọn các từ thích hợp để hoàn thiện các câu sau.)\n\nteam spirit |\ncommunication skills |\na sense of enjoyment |\nparticipating in |\n\nlively atmosphere |\nlose weight  |\nkeep fit |\nphysical health |",
+      "contentText": "",
+      "answerTemplateText": "Team sports bring several benefits to people's lives. Firstly, playing a team sport can help people [input_0] and improve their general health. For example, many people join football or basketball clubs to get more exercise and stay in shape. As a result, they may [input_1] and become healthier. Secondly, team sports can promote cooperation and [input_2] because players need to work together to win matches. This helps people improve their [input_3] and build good relationships with others. In addition, [input_4] sports events in a stadium often creates a [input_5], so people can feel [input_6] and belonging. Therefore, team sports are beneficial for both [input_7] and social life.",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "VOCABULARY",
+        "introduction": "<p><span id=\"docs-internal-guid-add692df-7fff-514c-d136-c4741ddfafd2\" style=\"font-family: arial, helvetica, sans-serif; color: #ba372a; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Exercise 1</span></span></p>\n<p><span id=\"docs-internal-guid-add692df-7fff-514c-d136-c4741ddfafd2\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Choose the correct words to complete the following sentences. </span><span style=\"font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Chọn các từ thích hợp để hoàn thiện các câu sau.)</span></span></p>\n<table style=\"border-collapse: collapse; width: 100.01%; height: 46.7812px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 23.3906px;\">\n<td style=\"width: 24.9827%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">team spirit</span></td>\n<td style=\"width: 24.9827%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">communication skills</span></td>\n<td style=\"width: 24.9827%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">a sense of enjoyment</span></td>\n<td style=\"width: 24.9827%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">participating in</span></td>\n</tr>\n<tr style=\"height: 23.3906px;\">\n<td style=\"width: 24.9827%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">lively atmosphere</span></td>\n<td style=\"width: 24.9827%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">lose weight </span></td>\n<td style=\"width: 24.9827%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">keep fit</span></td>\n<td style=\"width: 24.9827%; height: 23.3906px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">physical health</span></td>\n</tr>\n</tbody>\n</table>",
+        "content": null,
+        "answerTemplate": "<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span id=\"50une_ml2q_b4hup\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\">Team sports bring several benefits to people's lives. Firstly, playing a team sport can help people <span style=\"color: #ba372a;\"><span id=\"50une_ml2q_96kai\" style=\"color: #ba372a;\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\">[input_0]</span></span></span><span id=\"50une_ml2q_7etjm\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\"> and improve their general health. For example, many people join football or basketball clubs to get more exercise and </span><span id=\"50une_ml2q_7ct65\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\">stay in shape</span><span id=\"50une_ml2q_6d72g\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\">. As a result, they may <span style=\"color: #ba372a;\">[input_1] </span>and become healthier. Secondly, team sports can </span><span id=\"50une_ml2q_1bga6\" style=\"color: #000000;\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\">promote cooperation</span><span id=\"50une_ml2q_5skd4\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\"> and <span style=\"color: #ba372a;\">[input_2]</span> because players need to work together to win matches. This helps people improve their <span style=\"color: #ba372a;\">[input_3]</span> and build good relationships with others. In addition, <span style=\"color: #ba372a;\">[input_4]</span> sports events in a stadium often creates a <span style=\"color: #ba372a;\"><span id=\"50une_ml2q_645g0\" style=\"color: #ba372a;\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\">[input_5]</span></span></span><span id=\"50une_ml2q_1rgbq\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\">, so people can feel <span style=\"color: #ba372a;\"><span id=\"50une_ml2q_6i8si\" style=\"color: #ba372a;\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\">[input_6]</span></span></span><span id=\"50une_ml2q_3omnm\" data-text=\"true\" data-z-element-type=\"rtf-text\" data-is-whitespace=\"false\"> and belonging. Therefore, team sports are beneficial for both<span style=\"color: #ba372a;\"> [input_7]</span> and social life.</span></span></p>",
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 8,
+        "totalCorrect": 8,
+        "userAnswer": {
+          "input_0": "keep fit",
+          "input_1": "lose weight",
+          "input_2": "team spirit",
+          "input_3": "communication skills",
+          "input_4": "participating in",
+          "input_5": "lively atmosphere",
+          "input_6": "a sense of enjoyment",
+          "input_7": "physical health"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "keep fit"
+          ],
+          "input_1": [
+            "lose weight"
+          ],
+          "input_2": [
+            "team spirit"
+          ],
+          "input_3": [
+            "communication skills"
+          ],
+          "input_4": [
+            "participating in"
+          ],
+          "input_5": [
+            "lively atmosphere"
+          ],
+          "input_6": [
+            "a sense of enjoyment"
+          ],
+          "input_7": [
+            "physical health"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true
+        },
+        "hasAnswerEmpty": []
+      }
+    },
+    {
+      "id": "question-421786",
+      "sourceQuestionId": 421786,
+      "challengeId": 42401,
+      "classChallengeId": "93087",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2\n\nRearrange the following words to complete the sentences (Sắp xếp các từ sau để tạo thành câu hoàn chỉnh)",
+      "introductionText": "Exercise 2\n\nRearrange the following words to complete the sentences (Sắp xếp các từ sau để tạo thành câu hoàn chỉnh)",
+      "contentText": "",
+      "answerTemplateText": "1.\n\nA: I need to get more exercise.\n\nB: How about going jogging with me in the park near our house?\n\nA: Probably not. jogging / can't / I / stand / .\n\n→ A: Probably not. [input_0]\n\n2.\n\nA: What's your New Year's resolution, Lee?\n\nB: this year / I'm / to / get / going / shape / in / .\n\nI'm going to exercise every day and lose five kilos. You watch.\n\n→ B: [input_1] I'm going to exercise every day and lose five kilos. You watch.\n\n3.\n\nA: Due to stress at work, I can't eat properly. I have lost 5 kilos already. How can I gain weight again?\n\nB: Let me see. should / join / lift / a gym / and / weights / You / .\n\nA: No time. I think I'll go back and live with my mom.\n\n→ B: Let me see. [input_2]\n\n4.\n\nA: So, what are your New Year's resolutions?\n\nB: Well, going / change / to / diet / my / eating / and / food / start / healthier / I'm / .\n\n→ B: Well, [input_3]\n\n5.\n\nA: I'm getting a little fat in the stomach.\n\nB: Yeah, I noticed.\n\nA: Oh my, tomorrow / the / will / I / hit / gym / .\n\n→ A: Oh my, [input_4]\n\n6.\n\nA: Do you like playing sports?\n\nB: Not really. sports / on / I / watching / prefer / after school / me / because / it / wind down / helps / TV / .\n\n→ B: Not really. [input_5]",
+      "explanationText": "",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><strong><span style=\"color: #ba372a; font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"background-color: transparent;\">Exercise 2</span></span></strong></p>\n<p><span id=\"docs-internal-guid-21aada61-7fff-2a30-a938-d5eaafb89ee4\" style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">Rearrange the following words to complete the sentences </span><span style=\"font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">(Sắp xếp các từ sau để tạo thành câu hoàn chỉnh)</span></span></p>",
+        "content": null,
+        "answerTemplate": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>1.</strong> </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: I need to get more exercise. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: How about going jogging with me in the park near our house? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Probably not. jogging / can't / I / stand / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">→</span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> </span><span style=\"font-size: 16px; white-space-collapse: preserve;\">A: Probably not. </span><span style=\"color: #cc0000; font-size: 12pt; white-space-collapse: preserve;\">[input_0] </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>2.</strong> </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: What's your New Year's resolution, Lee? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: this year / I'm / to / get / going / shape / in / . </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">I'm going to exercise every day and lose five kilos. You watch. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">→ </span><span style=\"font-size: 16px; white-space-collapse: preserve;\">B: </span><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[input_1] </span><span style=\"font-size: 16px; white-space-collapse: preserve;\">I'm going to exercise every day and lose five kilos. You watch.</span><span style=\"color: #cc0000; font-size: 12pt; white-space-collapse: preserve;\"> </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>3. </strong></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Due to stress at work, I can't eat properly. I have lost 5 kilos already. How can I gain weight again? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Let me see. should / join / lift / a gym / and / weights / You / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: No time. I think I'll go back and live with my mom. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">→ </span><span style=\"font-size: 16px; white-space-collapse: preserve;\">B: Let me see.</span><span style=\"color: #cc0000; font-size: 12pt; white-space-collapse: preserve;\"> [input_2] </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>4.</strong> </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: So, what are your New Year's resolutions? </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Well, going / change / to / diet / my / eating / and / food / start / healthier / I'm / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">→ </span><span style=\"font-size: 16px; white-space-collapse: preserve;\">B: Well, </span><span style=\"color: #cc0000; font-size: 12pt; white-space-collapse: preserve;\">[input_3]</span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>5.</strong> </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: I'm getting a little fat in the stomach.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Yeah, I noticed. </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Oh my, tomorrow / the / will / I / hit / gym / . </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">→ </span><span style=\"font-size: 16px; white-space-collapse: preserve;\">A: Oh my, </span><span style=\"color: #cc0000; font-size: 12pt; white-space-collapse: preserve;\">[input_4] </span></span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong>6.</strong> </span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A: Do you like playing sports?</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">B: Not really. sports / on / I / watching / prefer / after school / me / because / it / wind down / helps / TV / .</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #cc0000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">→ </span><span style=\"font-size: 16px; white-space-collapse: preserve;\">B: </span><span style=\"font-size: 16px; white-space-collapse: preserve;\">Not really. </span><span style=\"color: #cc0000; font-size: 12pt; white-space-collapse: preserve;\"><span style=\"color: #cc0000; font-size: 12pt; white-space-collapse: preserve;\"><span style=\"color: #cc0000; font-size: 16px; white-space-collapse: preserve;\">[input_5]</span></span></span></span></p>\n<p><span id=\"docs-internal-guid-96fbdf18-7fff-545c-ae4f-3d8f2e23a137\" style=\"font-family: Nunito-Regular;\"></span></p>",
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 6,
+        "totalCorrect": 4,
+        "userAnswer": {
+          "input_0": "I can't stand jogging",
+          "input_1": "This year I'm going to get in shape.",
+          "input_2": "You should join a gym and lift weights.",
+          "input_3": "I'm going to change my diet and start eating healthier food.",
+          "input_4": "tomorrow I will hit the gym.",
+          "input_5": "I prefer watching sports on TV because it helps me wind down after school."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "I can't stand jogging."
+          ],
+          "input_1": [
+            "I'm going to get in shape this year."
+          ],
+          "input_2": [
+            "You should join a gym and lift weights."
+          ],
+          "input_3": [
+            "I'm going to change my diet and start eating healthier food."
+          ],
+          "input_4": [
+            "I will hit the gym tomorrow."
+          ],
+          "input_5": [
+            "I prefer watching sports on TV because it helps me wind down after school.",
+            "I prefer watching sports on TV after school because it helps me wind down."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": false,
+          "input_2": true,
+          "input_3": true,
+          "input_4": false,
+          "input_5": true
+        },
+        "hasAnswerEmpty": []
+      }
+    },
+    {
+      "id": "question-421787",
+      "sourceQuestionId": 421787,
+      "challengeId": 42401,
+      "classChallengeId": "93087",
+      "title": null,
+      "type": 2,
+      "prompt": "Exercise 3\n\r\nTranslate these sentences into English using the suggested words. You can change the form if necessary. (Dịch các câu sau sang tiếng Anh sử dụng từ gợi ý. Có thể thay đổi dạng từ nếu cần.)",
+      "introductionText": "Exercise 3\n\r\nTranslate these sentences into English using the suggested words. You can change the form if necessary. (Dịch các câu sau sang tiếng Anh sử dụng từ gợi ý. Có thể thay đổi dạng từ nếu cần.)",
+      "contentText": "1. Tôi là một người rất hâm mộ bóng đá và tôi xem các trận đấu bóng đá mỗi tuần. (a big fan of / football match)",
+      "answerTemplateText": "",
+      "explanationText": "1. I am a big fan of football and I watch football matches every week.",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"color: #ba372a; font-family: arial, helvetica, sans-serif;\"><strong>Exercise 3</strong></span></p>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Translate these sentences into English using the suggested words. You can change the form if necessary. </strong><em>(Dịch các câu sau sang tiếng Anh sử dụng từ gợi ý. Có thể thay đổi dạng từ nếu cần.)</em></span></p>",
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">1. Tôi là một người rất hâm mộ bóng đá và tôi xem các trận đấu bóng đá mỗi tuần. (a big fan of / football match) </span></p>",
+        "answerTemplate": null,
+        "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">1. I am a big fan of football and I watch football matches every week. </span></p>"
+      },
+      "options": [],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "I am a big fan of football, and I watch football matches every week.",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-421788",
+      "sourceQuestionId": 421788,
+      "challengeId": 42401,
+      "classChallengeId": "93087",
+      "title": null,
+      "type": 2,
+      "prompt": "2. Anh trai của tôi thích các môn thể thao cá nhân vì anh ấy có thể luyện tập theo tốc độ của riêng mình. (solo sports / own pace)",
+      "introductionText": "",
+      "contentText": "2. Anh trai của tôi thích các môn thể thao cá nhân vì anh ấy có thể luyện tập theo tốc độ của riêng mình. (solo sports / own pace)",
+      "answerTemplateText": "",
+      "explanationText": "2. My brother likes solo sports because he can practice at his own pace.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">2. Anh trai của tôi thích các môn thể thao cá nhân vì anh ấy có thể luyện tập theo tốc độ của riêng mình. (solo sports / own pace) </span></p>",
+        "answerTemplate": null,
+        "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">2. My brother likes solo sports because he can practice at his own pace.</span></p>"
+      },
+      "options": [],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "My brother prefers solo sports because he can exercise at his own pace.",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-421789",
+      "sourceQuestionId": 421789,
+      "challengeId": 42401,
+      "classChallengeId": "93087",
+      "title": null,
+      "type": 2,
+      "prompt": "3. Bố tôi thường đi bộ đường dài vào buổi sáng để duy trì sức khỏe tốt. (take long walks / maintain good health)",
+      "introductionText": "",
+      "contentText": "3. Bố tôi thường đi bộ đường dài vào buổi sáng để duy trì sức khỏe tốt. (take long walks / maintain good health)",
+      "answerTemplateText": "",
+      "explanationText": "3. My father often takes long walks in the morning to maintain good health.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">3. Bố tôi thường đi bộ đường dài vào buổi sáng để duy trì sức khỏe tốt. (take long walks / maintain good health) </span></p>",
+        "answerTemplate": null,
+        "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">3. My father often takes long walks in the morning to maintain good health.</span></p>"
+      },
+      "options": [],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "My father usually takes long walks in the morning to maintain good health.",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-421790",
+      "sourceQuestionId": 421790,
+      "challengeId": 42401,
+      "classChallengeId": "93087",
+      "title": null,
+      "type": 2,
+      "prompt": "4. Hiện nay, nhiều học sinh đang tham gia các câu lạc bộ thể thao để kết bạn mới.(make new friends)",
+      "introductionText": "",
+      "contentText": "4. Hiện nay, nhiều học sinh đang tham gia các câu lạc bộ thể thao để kết bạn mới.(make new friends)",
+      "answerTemplateText": "",
+      "explanationText": "4. Many students are joining/ participating in/ taking part in sports clubs to make new friends these days.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">4. Hiện nay, nhiều học sinh đang tham gia các câu lạc bộ thể thao để kết bạn mới.(make new friends)</span></p>",
+        "answerTemplate": null,
+        "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">4. Many students are joining/ participating in/ taking part in sports clubs to make new friends these days.</span></p>"
+      },
+      "options": [],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "Currently, many students join sports clubs to make new friends.",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-421791",
+      "sourceQuestionId": 421791,
+      "challengeId": 42401,
+      "classChallengeId": "93087",
+      "title": null,
+      "type": 2,
+      "prompt": "5. Nhiều người tập thể dục hằng ngày để cải thiện sức khỏe tổng thể của họ. (on a daily basis / general health)",
+      "introductionText": "",
+      "contentText": "5. Nhiều người tập thể dục hằng ngày để cải thiện sức khỏe tổng thể của họ. (on a daily basis / general health)",
+      "answerTemplateText": "",
+      "explanationText": "5. Many people exercise on a daily basis to improve their general health.",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">5. Nhiều người tập thể dục hằng ngày để cải thiện sức khỏe tổng thể của họ. (on a daily basis / general health) </span></p>",
+        "answerTemplate": null,
+        "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">5. Many people exercise on a daily basis to improve their general health.</span></p>"
+      },
+      "options": [],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "Many people exercise on a daily basis to improve their general health.",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-421792",
+      "sourceQuestionId": 421792,
+      "challengeId": 42401,
+      "classChallengeId": "93087",
+      "title": "GRAMMAR",
+      "type": null,
+      "prompt": "GRAMMAR",
+      "introductionText": "Exercise 1\n\nChoose the correct answer. (Chọn đáp án đúng)",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "GRAMMAR",
+        "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif; color: #ba372a;\"><strong><span style=\"background-color: #ffffff;\">Exercise 1</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background-color: #ffffff;\">Choose the correct answer</span><span style=\"color: #242938; background-color: #ffffff;\">. </span></strong><em style=\"color: #242938; background-color: #ffffff;\">(Chọn đáp án đúng)</em></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": null
+    },
+    {
+      "id": "question-421793",
+      "sourceQuestionId": 421793,
+      "challengeId": 42401,
+      "classChallengeId": "93087",
+      "title": null,
+      "type": 4,
+      "prompt": "1. I ....................... in shape this year. I have just signed up for the gym and I’m going to exercise every day.",
+      "introductionText": "",
+      "contentText": "1. I ....................... in shape this year. I have just signed up for the gym and I’m going to exercise every day.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "1. B. am getting\n\nCâu đưa ra một dự định trong tương lai (this year). Dự định này đã có kế hoạch rõ ràng ở câu 2 -> chọn thì hiện tại tiếp diễn. \n\n-> I am getting in shape this year. I have just signed up for the gym and I’m going to exercise every day. (Tôi sẽ trở nên khỏe mạnh trong năm nay. Tôi vừa mới đăng ký đi tập gym và tôi sẽ đi tập thể dục mỗi ngày.)",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>1.</strong> I ....................... in shape this year. I have just signed up for the gym and I’m going to exercise every day.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #ba372a;\"><strong><span style=\"color: #000000;\">1. </span>B. am getting</strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Câu đưa ra một dự định trong tương lai (this year). Dự định này đã có kế hoạch rõ ràng ở câu 2 -&gt; chọn thì hiện tại tiếp diễn. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">-&gt; I <strong><span style=\"color: #ba372a;\">am getting</span> </strong>in shape this year. I have just signed up for the gym and I’m going to exercise every day. <em>(Tôi sẽ trở nên khỏe mạnh trong năm nay. Tôi vừa mới đăng ký đi tập gym và tôi sẽ đi tập thể dục mỗi ngày.)</em></span></p>"
+      },
+      "options": [
+        {
+          "id": 890683,
+          "content": "A. get"
+        },
+        {
+          "id": 890684,
+          "content": "B. am getting"
+        },
+        {
+          "id": 890685,
+          "content": "C. got"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 890684,
+        "correctAnswer": 890684,
+        "resultAnswer": {
+          "890684": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-421794",
+      "sourceQuestionId": 421794,
+      "challengeId": 42401,
+      "classChallengeId": "93087",
+      "title": null,
+      "type": 4,
+      "prompt": "2. Jasmine ....................... to the subway every day instead of taking the train because she wants to do more walking.",
+      "introductionText": "",
+      "contentText": "2. Jasmine ....................... to the subway every day instead of taking the train because she wants to do more walking.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "2. A. walks\n\r\nCâu có cụm every day (mỗi ngày) -> kể về một thói quen hiện tại -> thì hiện tại đơn. \n\r\n-> Jasmine walks to the subway every day instead of taking the train because she wants to do more walking. (Jasmine đi bộ tới tàu điện ngầm mỗi ngày thay vì đi tàu hỏa vì cô muốn đi bộ hơn.)",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>2. </strong>Jasmine ....................... to the subway every day instead of taking the train because she wants to do more walking. </span></p>",
+        "answerTemplate": null,
+        "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>2. <span style=\"color: #ba372a;\">A. walks</span></strong></span></p>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Câu có cụm every day (mỗi ngày) -&gt; kể về một thói quen hiện tại -&gt; thì hiện tại đơn. </span></p>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">-&gt; Jasmine <strong><span style=\"color: #ba372a;\">walks</span> </strong>to the subway every day instead of taking the train because she wants to do more walking. <em>(Jasmine đi bộ tới tàu điện ngầm mỗi ngày thay vì đi tàu hỏa vì cô muốn đi bộ hơn.)</em></span></p>"
+      },
+      "options": [
+        {
+          "id": 890686,
+          "content": "A. walks"
+        },
+        {
+          "id": 890687,
+          "content": "B. is walking"
+        },
+        {
+          "id": 890688,
+          "content": "C. walked"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 890686,
+        "correctAnswer": 890686,
+        "resultAnswer": {
+          "890686": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-421795",
+      "sourceQuestionId": 421795,
+      "challengeId": 42401,
+      "classChallengeId": "93087",
+      "title": null,
+      "type": 4,
+      "prompt": "3. I want to lose some weight, so I usually .......................... sit-ups at home after dinner.",
+      "introductionText": "",
+      "contentText": "3. I want to lose some weight, so I usually .......................... sit-ups at home after dinner.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "5. C. do\n\nCâu có từ \"usually\" (thường xuyên) -> kể về một thói quen hoặc hoạt động lặp lại thường xuyên ở hiện tại.-> thì hiện tại đơn \n\n-> I want to lose some weight, so I usually do sit-ups at home after dinner. (Tôi muốn giảm cân nên tôi thường tập gập bụng ở nhà sau bữa tối.)",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>3. </strong>I want to lose some weight, so I usually .......................... sit-ups at home after dinner.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">5. <strong><span style=\"color: #cc0000;\">C. do</span></strong></span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu có từ \"usually\" (thường xuyên) -&gt; kể về một thói quen hoặc hoạt động lặp lại thường xuyên ở hiện tại.-&gt; thì hiện tại đơn </span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">-&gt; <span style=\"color: #242938;\">I want to lose some weight, so I usually do sit-ups at home after dinner.</span> <em>(Tôi muốn giảm cân nên tôi thường tập gập bụng ở nhà sau bữa tối.) </em></span></p>"
+      },
+      "options": [
+        {
+          "id": 890689,
+          "content": "A. does"
+        },
+        {
+          "id": 890690,
+          "content": "B. am doing"
+        },
+        {
+          "id": 890691,
+          "content": "C. do"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 890691,
+        "correctAnswer": 890691,
+        "resultAnswer": {
+          "890691": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-421796",
+      "sourceQuestionId": 421796,
+      "challengeId": 42401,
+      "classChallengeId": "93087",
+      "title": null,
+      "type": 4,
+      "prompt": "4. I ....................... long walks every morning with my close friend because it’s a great way to start the day.",
+      "introductionText": "",
+      "contentText": "4. I ....................... long walks every morning with my close friend because it’s a great way to start the day.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "4. A. take\n\nCâu nói về một thói quen, tần suất 'every morning' (mỗi sáng) -> thì hiện tại đơn\n\n-> I take long walks every morning with my close friend because it’s a great way to start the day. (Tôi đi bộ với bạn thân vào mỗi buổi sáng vì đây là cách tuyệt vời để bắt đầu ngày mới.)",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>4.</strong> I ....................... long walks every morning with my close friend because it’s a great way to start the day.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">4. <strong><span style=\"color: #cc0000;\">A. take</span></strong></span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu nói về một thói quen, tần suất 'every morning' (mỗi sáng) -&gt; thì hiện tại đơn </span></p>\n<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">-&gt; I <span style=\"color: #cc0000;\"><strong>take</strong> </span>long walks every morning with my close friend because it’s a great way to start the day. <em>(Tôi đi bộ với bạn thân vào mỗi buổi sáng vì đây là cách tuyệt vời để bắt đầu ngày mới.) </em></span></p>"
+      },
+      "options": [
+        {
+          "id": 890692,
+          "content": "A. take"
+        },
+        {
+          "id": 890693,
+          "content": "B. am taking"
+        },
+        {
+          "id": 890694,
+          "content": "C. took"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 890692,
+        "correctAnswer": 890692,
+        "resultAnswer": {
+          "890692": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-421797",
+      "sourceQuestionId": 421797,
+      "challengeId": 42401,
+      "classChallengeId": "93087",
+      "title": null,
+      "type": 4,
+      "prompt": "5. Nancy ....................... an aerobics class this month because she wants to keep fit.",
+      "introductionText": "",
+      "contentText": "5. Nancy ....................... an aerobics class this month because she wants to keep fit.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "5. C. is joining\n\nCâu có cụm thời gian “this month” và diễn tả một hoạt động đang diễn ra trong khoảng thời gian hiện tại, nên dùng thì hiện tại tiếp diễn.\n\nCấu trúc: S + am/is/are + V-ing\n\nĐộng từ “join” được chia thành “is joining” vì chủ ngữ là “Nancy”.\n\n→ Nancy is joining an aerobics class this month because she wants to keep fit. (Nancy đang tham gia một lớp thể dục nhịp điệu trong tháng này vì cô ấy muốn giữ dáng.)",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>5.</strong> Nancy <span style=\"color: #242938; background-color: #ffffff;\">.......................</span> an aerobics class this month because she wants to keep fit.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p style=\"background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\">5. <strong><span style=\"color: #cc0000;\">C. is joining</span></strong></span></p>\n<p data-start=\"0\" data-end=\"139\"><span style=\"font-family: arial, helvetica, sans-serif;\">Câu có cụm thời gian “this month” và diễn tả một hoạt động đang diễn ra trong khoảng thời gian hiện tại, nên dùng thì hiện tại tiếp diễn.</span></p>\n<p data-start=\"141\" data-end=\"178\"><span style=\"font-family: arial, helvetica, sans-serif;\">Cấu trúc: <strong data-start=\"151\" data-end=\"176\">S + am/is/are + V-ing</strong></span></p>\n<p data-start=\"180\" data-end=\"248\"><span style=\"font-family: arial, helvetica, sans-serif;\">Động từ “join” được chia thành “is joining” vì chủ ngữ là “Nancy”.</span></p>\n<p data-start=\"180\" data-end=\"248\"><span style=\"font-family: arial, helvetica, sans-serif;\">→<em> </em>Nancy<span style=\"color: #ba372a;\"><strong> is joining</strong></span> an aerobics class this month because she wants to keep fit.<em> (Nancy đang tham gia một lớp thể dục nhịp điệu trong tháng này vì cô ấy muốn giữ dáng.)</em></span></p>"
+      },
+      "options": [
+        {
+          "id": 890695,
+          "content": "A. joins"
+        },
+        {
+          "id": 890696,
+          "content": "B. is joining"
+        },
+        {
+          "id": 890697,
+          "content": "C. join"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 890696,
+        "correctAnswer": 890696,
+        "resultAnswer": {
+          "890696": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-421798",
+      "sourceQuestionId": 421798,
+      "challengeId": 42401,
+      "classChallengeId": "93087",
+      "title": null,
+      "type": 4,
+      "prompt": "6. I usually ride my bike every evening but I  ....................... on busy streets because that can be dangerous.",
+      "introductionText": "",
+      "contentText": "6. I usually ride my bike every evening but I  ....................... on busy streets because that can be dangerous.",
+      "answerTemplateText": "[object Object],[object Object],[object Object]",
+      "explanationText": "6. A. don’t often go\n\r\nCâu nói về thói quen do có trạng từ chỉ tần suất (usually) -> nói về thói quen -> thì hiện tại đơn. \n\r\n-> I usually ride my bike every evening but I don’t often go on busy streets because that can be dangerous. (Tôi thường đi xe đạp mỗi tối nhưng tôi không thường đi trên các con phố đông người vì nguy hiểm.)",
+      "rawHtml": {
+        "title": null,
+        "introduction": null,
+        "content": "<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>6.</strong> I usually ride my bike every evening but I  ....................... on busy streets because that can be dangerous.</span></p>",
+        "answerTemplate": null,
+        "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">6. <strong><span style=\"color: #ba372a;\">A. don’t often go</span></strong></span></p>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Câu nói về thói quen do có trạng từ chỉ tần suất (usually) -&gt; nói về thói quen -&gt; thì hiện tại đơn. </span></p>\r\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">-&gt; I usually ride my bike every evening but I <strong><span style=\"color: #ba372a;\">don’t often go</span> </strong>on busy streets because that can be dangerous. <em>(Tôi thường đi xe đạp mỗi tối nhưng tôi không thường đi trên các con phố đông người vì nguy hiểm.) </em></span></p>"
+      },
+      "options": [
+        {
+          "id": 890698,
+          "content": "A. don't often go"
+        },
+        {
+          "id": 890699,
+          "content": "B. am not going"
+        },
+        {
+          "id": 890700,
+          "content": "C. didn't go"
+        }
+      ],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": 890698,
+        "correctAnswer": 890698,
+        "resultAnswer": {
+          "890698": true
+        },
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-421799",
+      "sourceQuestionId": 421799,
+      "challengeId": 42401,
+      "classChallengeId": "93087",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2\n\nUse the prompts to write sentences about Helen. You don't need to change the order of the words. Use the correct form of the present simple, present continuous. (Sử dụng các gợi ý để viết câu về Helen. Không cần đổi thứ tự các cụm từ. Dùng đúng dạng của thì hiện tại đơn, hiện tại tiếp diễn.)\n\nExample: \n\nThis is Helen.\n\nEvery day / get up / at half past seven.\n\n→ Every day, she gets up at half past seven.",
+      "introductionText": "Exercise 2\n\nUse the prompts to write sentences about Helen. You don't need to change the order of the words. Use the correct form of the present simple, present continuous. (Sử dụng các gợi ý để viết câu về Helen. Không cần đổi thứ tự các cụm từ. Dùng đúng dạng của thì hiện tại đơn, hiện tại tiếp diễn.)\n\nExample: \n\nThis is Helen.\n\nEvery day / get up / at half past seven.\n\n→ Every day, she gets up at half past seven.",
+      "contentText": "",
+      "answerTemplateText": "1. Today / Helen / not play football / because she / feel tired.\n\n→ [input_0]\n\n2. When the weather / nice, / go to school / by bike / instead of taking the bus.\n\n→ [input_1]\n\n3. Next weekend / go hiking in the mountains / with her friends / and take many photos.\n\n→ [input_2]\n\n4. In the evening / sometimes / go jogging with her mom / or take long walks with her dad.\n\n→ [input_3]\n\n5.  Helen / usually / play volleyball / weekends/ , / but today / she / swim / her friends. \n\n→ [input_4]\n\n6. Every once in a while / go to the beach / in the morning / and do yoga / because / love listening to the ocean while doing it.\n\n→ [input_5]",
+      "explanationText": "Chú ý: Do chủ ngữ là ‘Helen’ = she -> Khi sử dụng thì hiện tại đơn cần chia động từ (thêm s/es sau động từ). Khi trình bày sau khi hết câu đơn cần có dấu chấm câu. \n\n1. today / Helen / not play football / because she / feel tired.\n\n“today” là dấu hiệu của hiện tại tiếp diễn, nên dùng “is not playing” để diễn tả hành động không xảy ra tại thời điểm nói. Ở mệnh đề sau, “feel” là động từ chỉ trạng thái nên dùng hiện tại đơn “feels”, thêm “-s” vì chủ ngữ “she”.\n\n→ Today, Helen is not playing football because she feels tired. (Hôm nay, Helen không chơi bóng đá vì cô ấy cảm thấy mệt.)\n\n2. When the weather / nice, / go to school / by bike / instead of taking the bus.\nMệnh đề “when” cần có động từ “to be” → “is nice”, đây là thói quen nên dùng hiện tại đơn “goes”, thêm “-es” vì chủ ngữ “she”\n→ When the weather is nice, she goes to school by bike instead of taking the bus. (Khi thời tiết đẹp, cô ấy đi học bằng xe đạp thay vì đi xe buýt.)\n\n3. Next weekend / go hiking in the mountains / with her friends / and take many photos.\n\n“Next weekend” là dấu hiệu của tương lai, diễn tả hành động xảy ra trong tương lai gần, có kế hoạch và dự định từ trước → dùng thì hiện tại tiếp diễn \n\n→ Next weekend, she is going hiking in the mountains with her friends and taking many photos. (Cuối tuần này, Helen sẽ đi leo núi với bạn bè và chụp nhiều ảnh)\n\n4. In the evening / sometimes / go jogging with her mom / or take long walks with her dad.\n“In the evening” đặt đầu câu, “sometimes” đứng trước động từ chính, đây là thói quen nên chia hiện tại đơn “goes / takes”, cần chia cả hai động từ song song\n→ In the evening, she sometimes goes jogging with her mom or takes long walks with her dad. (Vào buổi tối, cô ấy thỉnh thoảng đi chạy bộ với mẹ hoặc đi dạo dài với bố.)\n\n5. Helen / usually / play volleyball / weekends/ , / but today / she / swim / her friends. \n\n“Usually” và “on weekends” là dấu hiệu của hiện tại đơn nên dùng “plays” để diễn tả thói quen. “Today” là dấu hiệu của hiện tại tiếp diễn nên dùng “is swimming” để diễn tả hành động đang diễn ra tạm thời ở ở hiện tại.\n\n→ Helen usually plays volleyball on weekends, but today she is swimming with her friends. (Helen thường chơi bóng chuyền vào cuối tuần, nhưng hôm nay cô ấy đang đi bơi cùng bạn bè.)\n\n6. Every once in a while / go to the beach / in the morning / and do yoga / because / love listening to the ocean while doing it.\n“Every once in a while” → hiện tại đơn “goes / does / loves”, cần chia đồng đều các động từ, thêm “she” sau “because” để đủ chủ ngữ.\n→ Every once in a while, she goes to the beach in the morning and does yoga because she loves listening to the ocean while doing it. (Thỉnh thoảng, cô ấy đi biển vào buổi sáng và tập yoga vì cô ấy thích nghe tiếng sóng khi tập.)",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif; color: #ba372a;\"><strong><span style=\"background-color: #ffffff;\">Exercise 2</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background-color: #ffffff;\">Use the prompts to write sentences about Helen. You don't need to change the order of the words. Use the correct form of the present simple, present continuous.</span></strong><span style=\"color: #242938; background-color: #ffffff;\"> </span><em style=\"color: #242938; background-color: #ffffff;\">(Sử dụng các gợi ý để viết câu về Helen. Không cần đổi thứ tự các cụm từ. Dùng đúng dạng của thì hiện tại đơn, hiện tại tiếp diễn.)</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em style=\"color: #242938; background-color: #ffffff;\">Example: </em></span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>This is Helen. </em></span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Every day / get up / at half past seven.</em></span></p>\n<p style=\"color: #242938; background-color: #ffffff;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span style=\"color: #2980b9;\">→ Every day, she gets up at half past seven. </span></em></span></p>",
+        "content": null,
+        "answerTemplate": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>1.</strong> Today / Helen / not play football / because she / feel tired.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">→ [input_0]</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>2. </strong>When the weather / nice, / go to school / by bike / instead of taking the bus.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">→ [input_1]</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>3.</strong> Next weekend / go hiking in the mountains / with her friends / and take many photos.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">→ [input_2]</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>4.</strong> In the evening / sometimes / go jogging with her mom / or take long walks with her dad.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">→ [input_3]</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>5.</strong>  <span>Helen / usually / play volleyball / weekends/ , / but today / she / swim / her friends. </span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">→ [input_4]</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>6.</strong> Every once in a while / go to the beach / in the morning / and do yoga / because / love listening to the ocean while doing it.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">→ [input_5]</span></p>",
+        "explain": "<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Chú ý:</strong> Do chủ ngữ là ‘Helen’ = she -&gt; Khi sử dụng thì hiện tại đơn cần chia động từ (thêm s/es sau động từ). Khi trình bày sau khi hết câu đơn cần có dấu chấm câu. </span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">1. today / Helen / not play football / because she / feel tired.</span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">“today” là dấu hiệu của hiện tại tiếp diễn, nên dùng “is not playing” để diễn tả hành động không xảy ra tại thời điểm nói. Ở mệnh đề sau, “feel” là động từ chỉ trạng thái nên dùng hiện tại đơn “feels”, thêm “-s” vì chủ ngữ “she”.</span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">→ <span style=\"color: #ba372a;\"><strong>Today, Helen is not playing football because she feels tired.</strong></span> <em>(Hôm nay, Helen không chơi bóng đá vì cô ấy cảm thấy mệt.)</em></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">2. When the weather / nice, / go to school / by bike / instead of taking the bus.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Mệnh đề “when” cần có động từ “to be” → “is nice”, đây là thói quen nên dùng hiện tại đơn “goes”, thêm “-es” vì chủ ngữ “she”</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">→ <span style=\"color: #ba372a;\"><strong>When the weather is nice, she goes to school by bike instead of taking the bus.</strong></span> <em>(Khi thời tiết đẹp, cô ấy đi học bằng xe đạp thay vì đi xe buýt.)</em></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">3. Next weekend / go hiking in the mountains / with her friends / and take many photos.</span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">“Next weekend” là dấu hiệu của tương lai, diễn tả hành động xảy ra trong tương lai gần, có kế hoạch và dự định từ trước → dùng thì hiện tại tiếp diễn </span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">→<span style=\"color: #ba372a;\"><strong> Next weekend, she is going hiking in the mountains with her friends and taking many photos.</strong></span> <em>(Cuối tuần này, Helen sẽ đi leo núi với bạn bè và chụp nhiều ảnh)</em></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">4. In the evening / sometimes / go jogging with her mom / or take long walks with her dad.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">“In the evening” đặt đầu câu, “sometimes” đứng trước động từ chính, đây là thói quen nên chia hiện tại đơn “goes / takes”, cần chia cả hai động từ song song</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">→<span style=\"color: #ba372a;\"><strong> In the evening, she sometimes goes jogging with her mom or takes long walks with her dad. </strong></span><em>(Vào buổi tối, cô ấy thỉnh thoảng đi chạy bộ với mẹ hoặc đi dạo dài với bố.)</em></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">5. Helen / usually / play volleyball / weekends/ , / but today / she / swim / her friends. </span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">“Usually” và “on weekends” là dấu hiệu của hiện tại đơn nên dùng “plays” để diễn tả thói quen. “Today” là dấu hiệu của hiện tại tiếp diễn nên dùng “is swimming” để diễn tả hành động đang diễn ra tạm thời ở ở hiện tại.</span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">→ <span style=\"color: #ba372a;\"><strong>Helen usually plays volleyball on weekends, but today she is swimming with her friends.</strong></span> <em>(Helen thường chơi bóng chuyền vào cuối tuần, nhưng hôm nay cô ấy đang đi bơi cùng bạn bè.)</em></span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\">6. Every once in a while / go to the beach / in the morning / and do yoga / because / love listening to the ocean while doing it.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">“Every once in a while” → hiện tại đơn “goes / does / loves”, cần chia đồng đều các động từ, thêm “she” sau “because” để đủ chủ ngữ.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">→ <span style=\"color: #ba372a;\"><strong>Every once in a while, she goes to the beach in the morning and does yoga because she loves listening to the ocean while doing it.</strong></span> <em>(Thỉnh thoảng, cô ấy đi biển vào buổi sáng và tập yoga vì cô ấy thích nghe tiếng sóng khi tập.)</em></span></p>"
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 6,
+        "totalCorrect": 6,
+        "userAnswer": {
+          "input_0": "Today, Helen is not playing football because she feels tired.",
+          "input_1": "When the weather is nice, she goes to school by bike instead of taking the bus.",
+          "input_2": "Next weekend, she is going hiking in the mountains with her friends and taking many photos.",
+          "input_3": "In the evening, she sometimes goes jogging with her mom or takes long walks with her dad.",
+          "input_4": "Helen usually plays volleyball on weekends, but today she is swimming with her friends.",
+          "input_5": "Every once in a while, she goes to the beach in the morning and does yoga because she loves listening to the ocean while doing it."
+        },
+        "correctAnswer": {
+          "input_0": [
+            "Today, Helen is not playing football because she feels tired.",
+            "Today, she is not playing football because she feels tired."
+          ],
+          "input_1": [
+            "When the weather is nice, she goes to school by bike instead of taking the bus.",
+            "When the weather is nice, Helen goes to school by bike instead of taking the bus."
+          ],
+          "input_2": [
+            "Next weekend, she is going hiking in the mountains with her friends and taking many photos."
+          ],
+          "input_3": [
+            "In the evening, she sometimes goes jogging with her mom or takes long walks with her dad.",
+            "In the evening, Helen sometimes goes jogging with her mom or takes long walks with her dad."
+          ],
+          "input_4": [
+            "Helen usually plays volleyball on weekends, but today she is swimming with her friends."
+          ],
+          "input_5": [
+            "Every once in a while, she goes to the beach in the morning and does yoga because she loves listening to the ocean while doing it.",
+            "Every once in a while, Helen goes to the beach in the morning and does yoga because she loves listening to the ocean while doing it."
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true
+        },
+        "hasAnswerEmpty": []
+      }
+    },
+    {
+      "id": "question-421800",
+      "sourceQuestionId": 421800,
+      "challengeId": 42401,
+      "classChallengeId": "93087",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 3\n\nMatch the beginning of each sentence from 1 to 10 with its suitable ending from A to J to finish the sentences. (Nối nửa đầu câu 1-10 với nửa câu sau A-J tương ứng.)",
+      "introductionText": "Exercise 3\n\nMatch the beginning of each sentence from 1 to 10 with its suitable ending from A to J to finish the sentences. (Nối nửa đầu câu 1-10 với nửa câu sau A-J tương ứng.)",
+      "contentText": "",
+      "answerTemplateText": "1. Many people choose to do regular exercise in their free time …\n\n2. In modern society, playing sports regularly …\n\n3. Professional athletes often have to train for many hours every day …\n\n4. Playing team sports such as football or basketball …\n\n5. Some people prefer watching sports on TV at home …\n\n6. Doing exercise with friends can be more enjoyable  …\n\n |\n\nA. as it creates a sense of motivation and makes people feel less bored.\n\nB. plays an important role in leading a balanced lifestyle.\n\nC. while others enjoy going to the stadium to experience the live atmosphere.\n\nD. helps people develop teamwork and communication skills.\n\nE. if they want to achieve success in competitions.\n\nF. because it helps them improve both physical and mental health.\n\n |\n\n1. [input_0]\n\n2. [input_1]\n\n3. [input_2]\n\n4. [input_3]\n\n5. [input_4]\n\n6. [input_5]\n\n |",
+      "explanationText": "Chú ý: các câu được chọn dựa trên nghĩa của câu, đồng thời ta xem xét câu sử dụng thì gì dựa trên ngữ cảnh để chọn được đáp án đúng \n\n1. F. because it helps them improve both physical and mental health.\n\nMany people choose to do regular exercise in their free time because it helps them improve both physical and mental health. (Nhiều người chọn tập thể dục thường xuyên vào thời gian rảnh vì nó giúp họ cải thiện cả sức khỏe thể chất lẫn tinh thần.)\n\n2. B. plays an important role in leading a balanced lifestyle.\n\nIn modern society, playing sports regularly plays an important role in leading a balanced lifestyle. (Trong xã hội hiện đại, việc chơi thể thao thường xuyên đóng vai trò quan trọng trong việc duy trì một lối sống cân bằng.)\n\n3. E. if they want to achieve success in competitions.\n\nProfessional athletes often have to train for many hours every day if they want to achieve success in competitions. (Các vận động viên chuyên nghiệp thường phải luyện tập nhiều giờ mỗi ngày nếu họ muốn đạt được thành công trong các cuộc thi.)\n\n4. D. helps people develop teamwork and communication skills.\n\nPlaying team sports such as football or basketball helps people develop teamwork and communication skills. (Việc chơi các môn thể thao đồng đội như bóng đá hoặc bóng rổ giúp mọi người phát triển kỹ năng làm việc nhóm và giao tiếp.)\n\n5. C. while others enjoy going to the stadium to experience the live atmosphere.\n\nSome people prefer watching sports on TV at home while others enjoy going to the stadium to experience the live atmosphere. (Một số người thích xem thể thao trên TV ở nhà, trong khi những người khác lại thích đến sân vận động để trải nghiệm không khí trực tiếp.)\n\n6. A. as it creates a sense of motivation and makes people feel less bored. \n\nDoing exercise with friends can be more enjoyable as it creates a sense of motivation and makes people feel less bored. (Tập thể dục cùng bạn bè có thể thú vị hơn vì điều đó tạo động lực và khiến mọi người cảm thấy ít nhàm chán hơn.)",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"color: #ba372a; font-family: arial, helvetica, sans-serif;\"><strong><span style=\"background-color: #ffffff;\">Exercise 3</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background-color: #ffffff;\">Match the beginning of each sentence from 1 to 10 with its suitable ending from A to J to finish the sentences. </span></strong><em style=\"color: #242938; background-color: #ffffff;\">(Nối nửa đầu câu 1-10 với nửa câu sau A-J tương ứng.)</em></span></p>",
+        "content": null,
+        "answerTemplate": "<table style=\"border-collapse: collapse; width: 100%;\" border=\"0\">\n<tbody>\n<tr>\n<td>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #242938; background-color: #ffffff;\">1</span></strong><span style=\"color: #242938; background-color: #ffffff;\"><strong>.</strong> Many people choose to do regular exercise in their free time<span style=\"color: #242938; background-color: #ffffff;\"> …</span></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>2.</strong> In modern society, playing sports regularly<span style=\"color: #242938; background-color: #ffffff;\"> …</span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>3. </strong>Professional athletes often have to train for many hours every day<span style=\"color: #242938; background-color: #ffffff;\"> …</span></span></p>\n<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>4. </strong>Playing team sports such as football or basketball<span style=\"color: #242938; background-color: #ffffff;\"> …</span></span></p>\n<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>5.</strong> Some people prefer watching sports on TV at home<span style=\"color: #242938; background-color: #ffffff;\"> …</span></span></p>\n<p><span style=\"color: #242938; background-color: #ffffff; font-family: arial, helvetica, sans-serif;\"><strong>6.</strong> Doing exercise with friends can be more enjoyable <span style=\"color: #242938; background-color: #ffffff;\"> …</span></span></p>\n</td>\n<td>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>A.</strong> as it creates a sense of motivation and makes people feel less bored.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>B.</strong> plays an important role in leading a balanced lifestyle.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>C.</strong> while others enjoy going to the stadium to experience the live atmosphere.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>D. </strong>helps people develop teamwork and communication skills.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>E.</strong> if they want to achieve success in competitions.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>F.</strong> because it helps them improve both physical and mental health.</span></p>\n</td>\n<td>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>1. [input_0]</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>2. [input_1]</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>3. [input_2]</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>4. [input_3]</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>5. [input_4]</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>6. [input_5]</strong></span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
+        "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Chú ý: các câu được chọn dựa trên nghĩa của câu, đồng thời ta xem xét câu sử dụng thì gì dựa trên ngữ cảnh để chọn được đáp án đúng </strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>1. <span style=\"color: #ba372a;\">F. because it helps them improve both physical and mental health.</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Many people choose to do regular exercise in their free time <span style=\"color: #ba372a;\"><em>because it helps them improve both physical and mental health. <span style=\"color: #000000;\">(Nhiều người chọn tập thể dục thường xuyên vào thời gian rảnh vì nó giúp họ cải thiện cả sức khỏe thể chất lẫn tinh thần.)</span></em></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>2. <span style=\"color: #ba372a;\">B. plays an important role in leading a balanced lifestyle.</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">In modern society, playing sports regularly <span style=\"color: #ba372a;\"><em>plays an important role in leading a balanced lifestyle. <span style=\"color: #000000;\">(Trong xã hội hiện đại, việc chơi thể thao thường xuyên đóng vai trò quan trọng trong việc duy trì một lối sống cân bằng.)</span></em></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>3. <span style=\"color: #ba372a;\">E. if they want to achieve success in competitions.</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Professional athletes often have to train for many hours every day<span style=\"color: #ba372a;\"><em> if they want to achieve success in competitions. <span style=\"color: #000000;\">(Các vận động viên chuyên nghiệp thường phải luyện tập nhiều giờ mỗi ngày nếu họ muốn đạt được thành công trong các cuộc thi.)</span></em></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>4. <span style=\"color: #ba372a;\">D. helps people develop teamwork and communication skills.</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Playing team sports such as football or basketball <span style=\"color: #ba372a;\"><em>helps people develop teamwork and communication skills. <span style=\"color: #000000;\">(Việc chơi các môn thể thao đồng đội như bóng đá hoặc bóng rổ giúp mọi người phát triển kỹ năng làm việc nhóm và giao tiếp.)</span></em></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>5. <span style=\"color: #ba372a;\">C. while others enjoy going to the stadium to experience the live atmosphere.</span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #000000;\">Some people prefer watching sports on TV at home <span style=\"color: #ba372a;\"><em>while others enjoy going to the stadium to experience the live atmosphere. <span style=\"color: #000000;\">(</span></em></span></span><span style=\"color: #000000;\"><em>Một số người thích xem thể thao trên TV ở nhà, trong khi những người khác lại thích đến sân vận động để trải nghiệm không khí trực tiếp.)</em></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>6. <span style=\"color: #ba372a;\">A. as it creates a sense of motivation and makes people feel less bored. </span></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Doing exercise with friends can be more enjoyable <span style=\"color: #ba372a;\"><em>as it creates a sense of motivation and makes people feel less bored. <span style=\"color: #000000;\">(Tập thể dục cùng bạn bè có thể thú vị hơn vì điều đó tạo động lực và khiến mọi người cảm thấy ít nhàm chán hơn.)</span></em></span></span></p>"
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 6,
+        "totalCorrect": 6,
+        "userAnswer": {
+          "input_0": "F",
+          "input_1": "B",
+          "input_2": "E",
+          "input_3": "D",
+          "input_4": "C",
+          "input_5": "A"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "F ",
+            " f"
+          ],
+          "input_1": [
+            "B ",
+            " b"
+          ],
+          "input_2": [
+            "E ",
+            " e"
+          ],
+          "input_3": [
+            "D ",
+            " d"
+          ],
+          "input_4": [
+            "C ",
+            " c"
+          ],
+          "input_5": [
+            "A ",
+            " a"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true
+        },
+        "hasAnswerEmpty": []
+      }
+    },
+    {
+      "id": "question-421801",
+      "sourceQuestionId": 421801,
+      "challengeId": 42401,
+      "classChallengeId": "93087",
+      "title": "SHADOWING",
+      "type": 2,
+      "prompt": "SHADOWING",
+      "introductionText": "Nghe và bắt chước lại các câu sau trong bài nghe, bắt chước yêu cầu đúng ngữ âm, ngữ điệu và tốc độ. \n\nNộp link dưới đây:",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "SHADOWING",
+        "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span style=\"font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"box-sizing: border-box; font-style: normal; white-space-collapse: collapse; background-color: #ffffff;\">Nghe và bắt chước lại các câu sau trong bài nghe, bắt chước yêu cầu đúng ngữ âm, ngữ điệu và tốc độ. </span></span></span></em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><em><span style=\"font-size: 12pt;\"><span style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\"><span style=\"box-sizing: border-box; font-style: normal; white-space-collapse: collapse; background-color: #ffffff;\">Nộp link dưới đây: </span></span></span></em></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "https://drive.google.com/file/d/1azFMRkvFx-tO73SGDZLFLE5OHVfXmzOp/view?usp=sharing",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      }
+    },
+    {
+      "id": "question-421802",
+      "sourceQuestionId": 421802,
+      "challengeId": 42402,
+      "classChallengeId": "93088",
+      "title": "LISTENING",
+      "type": 1,
+      "prompt": "LISTENING",
+      "introductionText": "Exercise 1\n\nListen and fill in the gaps with ONE WORDS. (Nghe và điền vào chỗ trống với 1 TỪ.)",
+      "contentText": "",
+      "answerTemplateText": "1.\n\nWhat kind of sports do you like?\n\nI prefer sports that involve movement and strategy such as [input_0] or team sports. These activities challenge both the [input_1] and the [input_2] which makes them more engaging for me.\n\n2.\n\nDo you still play sports now?\n\nNot as regularly as before, but I still try to stay active. Due to a busy schedule, I focus more on individual activities like [input_3] or home [input_4] rather than organized sports.\n\n3.\n\nDo you prefer team sports or individual sports?\n\nI prefer [input_5] sports because they allow me to [input_6] on personal improvement and flexibility. However, I also appreciate team sports for their [input_7] and cooperative aspects.\n\n4. \n\nDo you prefer watching sports or playing sports?\n\nI prefer playing sports because it allows me to be [input_8] and involved. Watching sports is entertaining, but [input_9] provides greater physical and mental [input_10].",
+      "explanationText": "1.\n\nWhat kind of sports do you like?\n\nI prefer sports that involve movement and strategy such as swimming or team sports. These activities challenge both the body and the mind which makes them more engaging for me.\n\n(Bạn thích loại thể thao nào?\n\nTôi thích những môn thể thao có sự vận động và chiến thuật như bơi lội hoặc các môn thể thao đồng đội. Những hoạt động này thử thách cả cơ thể lẫn trí óc, khiến chúng trở nên hấp dẫn hơn đối với tôi.)\n\n2.\n\nDo you still play sports now?\n\nNot as regularly as before, but I still try to stay active. Due to a busy schedule, I focus more on individual activities like jogging or home workouts rather than organized sports.\n\n(Hiện tại bạn còn chơi thể thao không?\n\nKhông thường xuyên như trước, nhưng tôi vẫn cố gắng duy trì vận động. Do lịch trình bận rộn, tôi tập trung nhiều hơn vào các hoạt động cá nhân như chạy bộ hoặc các bài tập tại nhà thay vì chơi các môn thể thao có tổ chức.)\n\n3.\n\nDo you prefer team sports or individual sports?\n\nI prefer individual sports because they allow me to focus on personal improvement and flexibility. However, I also appreciate team sports for their social and cooperative aspects.\n\n(Bạn thích thể thao đồng đội hay cá nhân?\n\nTôi thích các môn thể thao cá nhân vì chúng cho phép tôi tập trung vào việc cải thiện bản thân và linh hoạt hơn. Tuy nhiên, tôi cũng đánh giá cao thể thao đồng đội vì tính xã hội và tinh thần hợp tác của chúng.)\n\n4. \n\nDo you prefer watching sports or playing sports?\n\nI prefer playing sports because it allows me to be active and involved. Watching sports is entertaining, but participating provides greater physical and mental benefits.\n\n(Bạn thích xem thể thao hay chơi thể thao?\n\nTôi thích chơi thể thao hơn vì nó giúp tôi năng động và tham gia trực tiếp. Xem thể thao thì thú vị, nhưng việc tham gia mang lại nhiều lợi ích về thể chất và tinh thần hơn.)",
+      "rawHtml": {
+        "title": "LISTENING",
+        "introduction": "<p style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"box-sizing: border-box; font-weight: bolder; color: #ba372a; font-family: arial, helvetica, sans-serif;\"><span style=\"box-sizing: border-box;\">Exercise 1</span></span></p>\n<p style=\"box-sizing: border-box; margin: 0px; color: #242938; font-family: Nunito-Regular; font-size: 16px; background-color: #ffffff;\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif;\"><strong>Listen and fill in the gaps with ONE WORDS. </strong><em>(Nghe và điền vào chỗ trống với 1 TỪ.)</em></span></p>",
+        "content": null,
+        "answerTemplate": "<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>1. </strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>What kind of sports do you like?</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I prefer sports that involve <span style=\"color: #000000;\">movement</span> and strategy such as <span style=\"color: #ba372a;\"><strong>[input_0]</strong></span> or team sports. These activities challenge both the<span style=\"color: #ba372a;\"><strong> [input_1] </strong></span>and the <span style=\"color: #ba372a;\"><strong>[input_2]</strong></span> which makes them more engaging for me.</span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>2. </strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Do you still play sports now?</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Not as <span style=\"color: #ba372a;\"><span style=\"color: #000000;\">regularly</span><strong> </strong></span>as before, but I still try to stay<span style=\"color: #000000;\"> active.</span> Due to a busy <span style=\"color: #000000;\">schedule</span>, I focus more on individual activities like <span style=\"color: #ba372a;\"><strong>[input_3]</strong></span> or home <span style=\"color: #ba372a;\"><strong>[input_4]</strong></span> rather than organized sports.</span></p>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>3. </strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Do you prefer team sports or individual sports?</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I prefer <span style=\"color: #ba372a;\"><strong>[input_5]</strong></span> sports because they allow me to <span style=\"color: #ba372a;\"><strong>[input_6]</strong></span> on personal improvement and flexibility. However, I also appreciate team sports for their <span style=\"color: #ba372a;\"><strong>[input_7] </strong></span>and cooperative aspects.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">4. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Do you prefer watching sports or playing sports?</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I prefer playing sports because it allows me to be <span style=\"color: #ba372a;\"><strong>[input_8]</strong></span> and involved. Watching sports is entertaining, but <span style=\"color: #ba372a;\"><strong><strong>[input_9]</strong></strong></span> provides greater physical and mental<span style=\"color: #ba372a;\"><strong> [input_10]</strong></span>.</span></p>",
+        "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>1. </strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>What kind of sports do you like?</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I prefer sports that involve <span style=\"color: #000000;\">movement</span> and strategy such as <span style=\"color: #ba372a;\"><strong>swimming</strong></span> or team sports. These activities challenge both the<span style=\"color: #ba372a;\"><strong> body </strong></span>and the <span style=\"color: #ba372a;\"><strong>mind</strong></span> which makes them more engaging for me.</span></p>\n<p data-start=\"69\" data-end=\"139\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>(<strong>Bạn thích loại thể thao nào?</strong></em></span></p>\n<p data-start=\"141\" data-end=\"354\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Tôi thích những môn thể thao có sự vận động và chiến thuật như bơi lội hoặc các môn thể thao đồng đội. Những hoạt động này thử thách cả cơ thể lẫn trí óc, khiến chúng trở nên hấp dẫn hơn đối với tôi.)</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>2. </strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Do you still play sports now?</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Not as <span style=\"color: #ba372a;\"><span style=\"color: #000000;\">regularly</span><strong> </strong></span>as before, but I still try to stay<span style=\"color: #000000;\"> active.</span> Due to a busy <strong><span style=\"color: #ba372a;\">schedule</span></strong>, I focus more on individual activities like<span style=\"color: #ba372a;\"><strong> jogging</strong></span> or home <span style=\"color: #ba372a;\"><strong>workouts </strong></span>rather than organized sports.</span></p>\n<p data-start=\"361\" data-end=\"437\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><em>(Hiện tại bạn còn chơi thể thao không?</em></strong></span></p>\n<p data-start=\"439\" data-end=\"674\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Không thường xuyên như trước, nhưng tôi vẫn cố gắng duy trì vận động. Do lịch trình bận rộn, tôi tập trung nhiều hơn vào các hoạt động cá nhân như chạy bộ hoặc các bài tập tại nhà thay vì chơi các môn thể thao có tổ chức.)</em></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>3. </strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Do you prefer team sports or individual sports?</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I prefer <span style=\"color: #ba372a;\"><strong>individual</strong></span> sports because they allow me to <span style=\"color: #ba372a;\"><strong>focus</strong></span> on personal improvement and flexibility. However, I also appreciate team sports for their <span style=\"color: #ba372a;\"><strong>social </strong></span>and cooperative aspects.</span></p>\n<p data-start=\"681\" data-end=\"778\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>(<em>Bạn thích thể thao đồng đội hay cá nhân?</em></strong></span></p>\n<p data-start=\"780\" data-end=\"1004\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Tôi thích các môn thể thao cá nhân vì chúng cho phép tôi tập trung vào việc cải thiện bản thân và linh hoạt hơn. Tuy nhiên, tôi cũng đánh giá cao thể thao đồng đội vì tính xã hội và tinh thần hợp tác của chúng</em>.)</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">4. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Do you prefer watching sports or playing sports?</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">I prefer playing sports because it allows me to be <span style=\"color: #ba372a;\"><strong>active</strong></span> and involved. Watching sports is entertaining, but <span style=\"color: #ba372a;\"><strong>participating</strong></span> provides greater physical and mental<span style=\"color: #ba372a;\"><strong> benefits</strong></span>.</span></p>\n<p data-start=\"1011\" data-end=\"1110\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em><strong>(Bạn thích xem thể thao hay chơi thể thao?</strong></em></span></p>\n<p data-start=\"1112\" data-end=\"1299\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em>Tôi thích chơi thể thao hơn vì nó giúp tôi năng động và tham gia trực tiếp. Xem thể thao thì thú vị, nhưng việc tham gia mang lại nhiều lợi ích về thể chất và tinh thần hơn.)</em></span></p>"
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 11,
+        "totalCorrect": 11,
+        "userAnswer": {
+          "input_0": "swimming",
+          "input_1": "body",
+          "input_2": "mind",
+          "input_3": "jogging",
+          "input_4": "workouts",
+          "input_5": "individual",
+          "input_6": "focus",
+          "input_7": "social",
+          "input_8": "active",
+          "input_10": "benefits",
+          "input_9": "participating"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "swimming"
+          ],
+          "input_1": [
+            "body"
+          ],
+          "input_2": [
+            "mind"
+          ],
+          "input_3": [
+            "jogging"
+          ],
+          "input_4": [
+            "workouts"
+          ],
+          "input_5": [
+            "individual"
+          ],
+          "input_6": [
+            "focus"
+          ],
+          "input_7": [
+            "social"
+          ],
+          "input_8": [
+            "active"
+          ],
+          "input_9": [
+            "participating"
+          ],
+          "input_10": [
+            "benefits"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": true,
+          "input_9": true,
+          "input_10": true
+        },
+        "hasAnswerEmpty": []
+      }
+    },
+    {
+      "id": "question-421803",
+      "sourceQuestionId": 421803,
+      "challengeId": 42402,
+      "classChallengeId": "93088",
+      "title": null,
+      "type": 1,
+      "prompt": "Exercise 2\nListen to the radio podcast and complete the information with ONE WORD. (Hãy nghe podcast trên radio và hoàn thành thông tin với 1 từ.)",
+      "introductionText": "Exercise 2\nListen to the radio podcast and complete the information with ONE WORD. (Hãy nghe podcast trên radio và hoàn thành thông tin với 1 từ.)",
+      "contentText": "",
+      "answerTemplateText": "1. Name of sports centre: [input_0] Sports Centre\n\n2. Popular activities: swimming, classes and [input_1]\n\n3. Two types of yoga: [input_2] yoga and yoga in the air\n\n4. New winter sports: ice [input_3] and ice hockey\n\n5. New summer sport: beach [input_4]",
+      "explanationText": "Interviewer:   Hello, and welcome to the show. Today we have Hank Rogers from the new sports centre in the studio. Welcome, Hank.\n\nHank:   Thank you for having me!\n\nInterviewer:   Hank, tell us a bit about the sports centre. How is the Bank Sports Centre different from others?\n\nHank:   Well, it’s different and it’s the same! Let me explain. So many favourite sports are there, for example, the gym, the swimming pool, classes – but we also want to introduce people to other sports activities.\n\nInterviewer:   Tell me more!\n\nHank:   Imagine doing yoga in a room where the temperature is a hot 40 degrees. That’s called hot yoga! We also have aerial yoga – that is yoga that you do in the air! It’s a lot of fun!\n\nInterviewer:   OK, well, that’s good. Now what about team sports – are there any new sports for me?\n\nHank:   Well, we’re also able to have an indoor ice rink in winter. That’s just great so we can have ice skating or ice hockey for instance.\n\nInterviewer:   Now that sounds great! And in summer?\n\nHank:   In the summer we move the roof back so that you can see the sky, and we put sand down!\n\nInterviewer:   Oh, wow! That’s amazing!\n\nHank:   I know, and we can do beach volleyball! We’re really excited about that.\n\nInterviewer:   And you have an open day soon?\n\nHank:   Yes, on Saturday. It’s a day for all the family and it’s free. So everyone will have the opportunity to try out all these new sports and activities. We open at 9 in the morning and will be there until the evening. And we have some free prizes!\n\nInterviewer:   That sounds great! So it sounds like a good place …\n\n(Người phỏng vấn: Xin chào và chào mừng đến với chương trình. Hôm nay chúng tôi có Hank Rogers từ trung tâm thể thao mới trong phòng thu. Chào mừng anh, Hank.\n\nHank: Cảm ơn vì đã mời tôi!\n\nNgười phỏng vấn: Hank, hãy kể cho chúng tôi một chút về trung tâm thể thao này. Trung tâm Thể thao Bank khác gì so với những nơi khác?\n\nHank: Ừm, nó vừa khác mà cũng vừa giống! Để tôi giải thích nhé. Ở đây có rất nhiều môn thể thao quen thuộc, ví dụ như phòng gym, bể bơi, các lớp học – nhưng chúng tôi cũng muốn giới thiệu cho mọi người những hoạt động thể thao khác.\n\nNgười phỏng vấn: Hãy nói thêm đi!\n\nHank: Hãy tưởng tượng bạn tập yoga trong một căn phòng mà nhiệt độ lên tới 40 độ C. Đó gọi là hot yoga! Chúng tôi cũng có aerial yoga – tức là yoga mà bạn tập trên không trung! Nó rất thú vị!\n\nNgười phỏng vấn: Được đấy. Thế còn các môn thể thao đồng đội thì sao – có môn mới nào cho tôi không?\n\nHank: À, vào mùa đông chúng tôi còn có sân băng trong nhà. Điều đó rất tuyệt vì chúng tôi có thể trượt băng hoặc chơi khúc côn cầu trên băng, chẳng hạn.\n\nNgười phỏng vấn: Nghe tuyệt thật! Thế còn mùa hè thì sao?\n\nHank: Vào mùa hè, chúng tôi mở mái nhà ra để bạn có thể nhìn thấy bầu trời, và chúng tôi rải cát xuống!\n\nNgười phỏng vấn: Ồ, thật tuyệt vời!\n\nHank: Tôi biết mà, và chúng tôi có thể chơi bóng chuyền bãi biển! Chúng tôi thực sự rất hào hứng về điều đó.\n\nNgười phỏng vấn: Và sắp tới các bạn có ngày mở cửa cho mọi người tham quan đúng không?\n\nHank: Đúng vậy, vào thứ Bảy. Đó là một ngày dành cho cả gia đình và hoàn toàn miễn phí. Vì vậy mọi người sẽ có cơ hội thử tất cả những môn thể thao và hoạt động mới này. Chúng tôi mở cửa lúc 9 giờ sáng và sẽ hoạt động đến buổi tối. Và chúng tôi còn có một số phần thưởng miễn phí nữa!\n\nNgười phỏng vấn: Nghe thật tuyệt! Có vẻ như đây là một nơi rất đáng để…)",
+      "rawHtml": {
+        "title": null,
+        "introduction": "<p><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; color: #ba372a;\"><strong>Exercise 2<br /></strong></span><span style=\"font-size: 12pt;\"><strong>Listen to the radio podcast and complete the information with ONE WORD. </strong><em>(Hãy nghe podcast trên radio và hoàn thành thông tin với 1 từ.) </em></span></span></p>",
+        "content": null,
+        "answerTemplate": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">1. Name of sports centre: [input_0] Sports Centre</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">2. Popular activities: swimming, classes and [input_1]</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">3. Two types of yoga: [input_2] yoga and yoga in the air</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">4. New winter sports: ice [input_3] and ice hockey</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">5. New summer sport: beach [input_4]</span></p>",
+        "explain": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Interviewer:</strong>   Hello, and welcome to the show. Today we have Hank Rogers from the new sports centre in the studio. Welcome, Hank.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Hank:</strong>   Thank you for having me!</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Interviewer:</strong>   Hank, tell us a bit about the sports centre. How is the <strong><span style=\"color: #ba372a; background-color: #fbeeb8;\">Bank Sports Centre</span> </strong>different from others?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Hank:</strong>   Well, it’s different and it’s the same! Let me explain. So many favourite sports are there, <span style=\"color: #ba372a; background-color: #fbeeb8;\"><strong>for example, the gym, the swimming pool, classes</strong></span> – but we also want to introduce people to other sports activities.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Interviewer:</strong>   Tell me more!</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Hank:</strong>   Imagine doing yoga in a room where the temperature is a hot 40 degrees. <span style=\"color: #ba372a; background-color: #fbeeb8;\"><strong>That’s called hot yoga</strong></span>! We also have aerial yoga – that is yoga that you do in the air! It’s a lot of fun!</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Interviewer:</strong>   OK, well, that’s good. Now what about team sports – are there any new sports for me?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Hank:</strong>   Well, we’re also able to have an indoor ice rink in winter. <span style=\"color: #ba372a; background-color: #fbeeb8;\"><strong>That’s just great so we can have ice skating or ice hockey for instance.</strong></span></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Interviewer:</strong>   Now that sounds great! And in summer?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Hank:</strong>   In the summer we move the roof back so that you can see the sky, and we put sand down!</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Interviewer:</strong>   Oh, wow! That’s amazing!</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Hank:</strong>  <span style=\"background-color: #fbeeb8;\"> <span style=\"color: #ba372a;\"><strong>I know, and we can do beach volleyball!</strong></span></span> We’re really excited about that.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Interviewer:</strong>   And you have an open day soon?</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Hank:</strong>   Yes, on Saturday. It’s a day for all the family and it’s free. So everyone will have the opportunity to try out all these new sports and activities. We open at 9 in the morning and will be there until the evening. And we have some free prizes!</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Interviewer:</strong>   That sounds great! So it sounds like a good place …</span></p>\n<p data-start=\"0\" data-end=\"165\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"0\" data-end=\"20\">(Người phỏng vấn:</strong> Xin chào và chào mừng đến với chương trình. Hôm nay chúng tôi có Hank Rogers từ trung tâm thể thao mới trong phòng thu. Chào mừng anh, Hank.</span></em></p>\n<p data-start=\"167\" data-end=\"198\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"167\" data-end=\"176\">Hank:</strong> Cảm ơn vì đã mời tôi!</span></em></p>\n<p data-start=\"200\" data-end=\"342\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"200\" data-end=\"220\">Người phỏng vấn:</strong> Hank, hãy kể cho chúng tôi một chút về trung tâm thể thao này. <span style=\"background-color: #fbeeb8; color: #e03e2d;\"><strong>Trung tâm Thể thao Bank</strong></span> khác gì so với những nơi khác?</span></em></p>\n<p data-start=\"344\" data-end=\"588\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"344\" data-end=\"353\">Hank:</strong> Ừm, nó vừa khác mà cũng vừa giống! Để tôi giải thích nhé. Ở đây có rất nhiều<strong> </strong>môn thể thao quen thuộc, <span style=\"background-color: #fbeeb8; color: #e03e2d;\"><strong>ví dụ như phòng gym, bể bơi, các lớp học </strong></span>– nhưng chúng tôi cũng muốn giới thiệu cho mọi người những hoạt động thể thao khác.</span></em></p>\n<p data-start=\"590\" data-end=\"627\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"590\" data-end=\"610\">Người phỏng vấn:</strong> Hãy nói thêm đi!</span></em></p>\n<p data-start=\"629\" data-end=\"840\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"629\" data-end=\"638\">Hank:</strong> Hãy tưởng tượng bạn tập yoga trong một căn phòng mà nhiệt độ lên tới 40 độ C. <span style=\"background-color: #fbeeb8; color: #e03e2d;\"><strong>Đó gọi là hot yoga!</strong></span> Chúng tôi cũng có aerial yoga – tức là yoga mà bạn tập trên không trung! Nó rất thú vị!</span></em></p>\n<p data-start=\"842\" data-end=\"950\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"842\" data-end=\"862\">Người phỏng vấn:</strong> Được đấy. Thế còn các môn thể thao đồng đội thì sao – có môn mới nào cho tôi không?</span></em></p>\n<p data-start=\"952\" data-end=\"1120\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"952\" data-end=\"961\">Hank:</strong> À, vào mùa đông chúng tôi còn có<strong> </strong>sân băng trong nhà. <span style=\"background-color: #fbeeb8; color: #e03e2d;\"><strong>Điều đó rất tuyệt vì chúng tôi có thể trượt băng hoặc chơi khúc côn cầu trên băng, chẳng hạn</strong></span>.</span></em></p>\n<p data-start=\"1122\" data-end=\"1187\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1122\" data-end=\"1142\">Người phỏng vấn:</strong> Nghe tuyệt thật! Thế còn mùa hè thì sao?</span></em></p>\n<p data-start=\"1189\" data-end=\"1304\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1189\" data-end=\"1198\">Hank:</strong> Vào mùa hè, chúng tôi mở mái nhà ra để bạn có thể nhìn thấy bầu trời, và chúng tôi rải cát xuống!</span></em></p>\n<p data-start=\"1306\" data-end=\"1345\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1306\" data-end=\"1326\">Người phỏng vấn:</strong> Ồ, thật tuyệt vời!</span></em></p>\n<p data-start=\"1347\" data-end=\"1467\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1347\" data-end=\"1356\">Hank:</strong> <span style=\"background-color: #fbeeb8; color: #e03e2d;\"><strong>Tôi biết mà, và chúng tôi có thể chơi bóng chuyền bãi biển! </strong></span>Chúng tôi thực sự rất hào hứng về điều đó.</span></em></p>\n<p data-start=\"1469\" data-end=\"1563\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1469\" data-end=\"1489\">Người phỏng vấn:</strong> Và sắp tới các bạn có ngày mở cửa cho mọi người tham quan đúng không?</span></em></p>\n<p data-start=\"1565\" data-end=\"1881\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1565\" data-end=\"1574\">Hank:</strong> Đúng vậy, vào thứ Bảy. Đó là một ngày dành cho cả gia đình và hoàn toàn miễn phí. Vì vậy mọi người sẽ có cơ hội thử tất cả những môn thể thao và hoạt động mới này. Chúng tôi mở cửa lúc 9 giờ sáng và sẽ hoạt động đến buổi tối. Và chúng tôi còn có một số phần thưởng miễn phí nữa!</span></em></p>\n<p data-start=\"1883\" data-end=\"1981\" data-is-last-node=\"\" data-is-only-node=\"\"><em><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong data-start=\"1883\" data-end=\"1903\">Người phỏng vấn:</strong> Nghe thật tuyệt! Có vẻ như đây là một nơi rất đáng để…)</span></em></p>"
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 5,
+        "totalCorrect": 5,
+        "userAnswer": {
+          "input_0": "bank",
+          "input_1": "gym",
+          "input_2": "hot",
+          "input_3": "skating",
+          "input_4": "volleyball"
+        },
+        "correctAnswer": {
+          "input_0": [
+            "Bank"
+          ],
+          "input_1": [
+            "gym"
+          ],
+          "input_2": [
+            "hot"
+          ],
+          "input_3": [
+            "skating"
+          ],
+          "input_4": [
+            "volleyball"
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true
+        },
+        "hasAnswerEmpty": []
+      }
+    },
+    {
+      "id": "question-421804",
+      "sourceQuestionId": 421804,
+      "challengeId": 42402,
+      "classChallengeId": "93088",
+      "title": "NEW WORDS/ PHRASES + GOOD STRUCTURES/ SENTENCES",
+      "type": 1,
+      "prompt": "NEW WORDS/ PHRASES + GOOD STRUCTURES/ SENTENCES",
+      "introductionText": "",
+      "contentText": "Complete the following vocabulary table. (Hoàn thiện bảng từ vựng sau.)",
+      "answerTemplateText": "Sentences |\nUseful words/ phrases |\nMeaning (in English/ Vietnamese) |\n\n\"I have just signed up for the gym and I'm going to exercise every day.\" |\nsign up for  |\n[input_0] |\n\n\"Some people tend to be too lazy to do exercise in their daily lives …\" |\ntend to V  |\n[input_1] |\n\n\"It creates a sense of motivation and makes people feel less bored.\" |\na sense of motivation  |\n[input_2] |\n\n\"I still try to stay active.\" |\nstay active  |\n[input_3] |\n\n\"I focus more on individual activities like jogging or home workouts rather than organized sports.\" |\nfocus on  |\n[input_4] |\n\norganized sports |\n[input_5] |\n\n\"I prefer playing sports because it allows me to be active and involved.\" |\ninvolved (adj) |\n[input_6] |\n\n\"They allow me to focus on personal improvement and flexibility.\" |\nflexibility (n) |\n[input_7] |\n\n\"I also appreciate team sports for their cooperative aspects\" |\nappreciate (v) |\n[input_8] |\n\n\"So everyone will have the opportunity to try out all these new sports and activities.\" |\ntry out |\n[input_9] |",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "NEW WORDS/ PHRASES + GOOD STRUCTURES/ SENTENCES",
+        "introduction": null,
+        "content": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Complete the following vocabulary table. </strong><em>(Hoàn thiện bảng từ vựng sau.)</em></span></p>",
+        "answerTemplate": "<table style=\"border-collapse: collapse; width: 100%; height: 297.526px;\" cellspacing=\"2\" cellpadding=\"5\">\n<thead>\n<tr style=\"height: 25.6641px;\">\n<th style=\"text-align: center; width: 42.411%; height: 25.6641px; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Sentences</span></th>\n<th style=\"text-align: center; width: 30.9589%; height: 25.6641px; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Useful words/ phrases</span></th>\n<th style=\"text-align: center; width: 26.6301%; height: 25.6641px; line-height: 1.5;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Meaning (in English/ Vietnamese)</span></th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"height: 46.4974px;\">\n<td style=\"height: 46.4974px; width: 42.411%;\"><span style=\"font-family: arial, helvetica, sans-serif;\">\"<span style=\"color: #242938; background-color: #ffffff;\">I have just <span style=\"color: #ba372a; background-color: #fbeeb8;\"><strong>signed up for</strong></span> the gym and I'm going to exercise every day.\"</span></span></td>\n<td style=\"width: 30.9589%; height: 46.4974px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">sign up for </span></td>\n<td style=\"width: 26.6301%; height: 46.4974px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[input_0]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 42.411%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">\"Some people <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>tend to</strong></span> be too lazy to do exercise in their daily lives …\"</span></td>\n<td style=\"width: 30.9589%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">tend to V </span></td>\n<td style=\"width: 26.6301%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[input_1]</span></td>\n</tr>\n<tr style=\"height: 32.8646px;\">\n<td style=\"width: 42.411%; height: 32.8646px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">\"It creates <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>a sense of motivation</strong></span> and makes people feel less bored.\"</span></td>\n<td style=\"width: 30.9589%; height: 32.8646px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">a sense of motivation </span></td>\n<td style=\"width: 26.6301%; height: 32.8646px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[input_2]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 42.411%; height: 24.0625px;\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif;\">\"I still try to <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>stay activ</strong><strong>e.</strong></span>\"</span></td>\n<td style=\"width: 30.9589%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">stay active </span></td>\n<td style=\"width: 26.6301%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[input_3]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"height: 48.125px; width: 42.411%;\" rowspan=\"2\"><span style=\"font-family: arial, helvetica, sans-serif;\">\"I <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>focus more on</strong></span> individual activities like jogging or home workouts rather than <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>organized sports</strong></span>.\"</span></td>\n<td style=\"width: 30.9589%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">focus on </span></td>\n<td style=\"width: 26.6301%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[input_4]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 30.9589%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">organized sports</span></td>\n<td style=\"width: 26.6301%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[input_5]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 42.411%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">\"I prefer playing sports because it allows me to be<span style=\"color: #000000;\"> active</span> and<span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong> involved.</strong></span>\"</span></td>\n<td style=\"width: 30.9589%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">involved (adj)</span></td>\n<td style=\"width: 26.6301%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[input_6]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 42.411%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">\"They allow me to focus on personal improvement and <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>flexibility.</strong></span>\"</span></td>\n<td style=\"width: 30.9589%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">flexibility (n)</span></td>\n<td style=\"width: 26.6301%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[input_7]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 42.411%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">\"I also <strong><span style=\"background-color: #fbeeb8; color: #ba372a;\">appreciate</span></strong> team sports for their <span style=\"color: #000000; background-color: #ffffff;\">cooperative </span>aspects\"</span></td>\n<td style=\"width: 30.9589%; height: 24.0625px;\"><span style=\"color: #000000;\">appreciate (v)</span></td>\n<td style=\"width: 26.6301%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[input_8]</span></td>\n</tr>\n<tr style=\"height: 24.0625px;\">\n<td style=\"width: 42.411%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">\"So everyone will have the opportunity to <span style=\"background-color: #fbeeb8; color: #ba372a;\"><strong>try out</strong></span> all these new sports and activities.\"</span></td>\n<td style=\"width: 30.9589%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">try out</span></td>\n<td style=\"width: 26.6301%; height: 24.0625px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">[input_9]</span></td>\n</tr>\n</tbody>\n</table>\n<p style=\"line-height: 1.5;\"> </p>",
+        "explain": null
+      },
+      "options": null,
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 10,
+        "totalCorrect": 10,
+        "userAnswer": {
+          "input_0": "đăng ký tham gia",
+          "input_1": "có xu hướng làm gì",
+          "input_2": "cảm giác có động lực",
+          "input_3": "duy trì vận động",
+          "input_4": "tập trung vào",
+          "input_5": "các môn thể thao có tổ chức",
+          "input_6": "tích cực tham gia",
+          "input_7": "sự linh hoạt",
+          "input_8": "đánh giá cao",
+          "input_9": "trải nghiệm"
+        },
+        "correctAnswer": {
+          "input_0": [
+            ""
+          ],
+          "input_1": [
+            ""
+          ],
+          "input_2": [
+            ""
+          ],
+          "input_3": [
+            ""
+          ],
+          "input_4": [
+            ""
+          ],
+          "input_5": [
+            ""
+          ],
+          "input_6": [
+            ""
+          ],
+          "input_7": [
+            ""
+          ],
+          "input_8": [
+            ""
+          ],
+          "input_9": [
+            ""
+          ]
+        },
+        "resultAnswer": {
+          "input_0": true,
+          "input_1": true,
+          "input_2": true,
+          "input_3": true,
+          "input_4": true,
+          "input_5": true,
+          "input_6": true,
+          "input_7": true,
+          "input_8": true,
+          "input_9": true
+        },
+        "hasAnswerEmpty": []
+      }
+    },
+    {
+      "id": "question-421805",
+      "sourceQuestionId": 421805,
+      "challengeId": 42402,
+      "classChallengeId": "93088",
+      "title": "SPEAKING",
+      "type": 2,
+      "prompt": "SPEAKING",
+      "introductionText": "Nộp link video trả lời các câu hỏi speaking (có mở quyền truy cập)",
+      "contentText": "",
+      "answerTemplateText": "",
+      "explanationText": "",
+      "rawHtml": {
+        "title": "SPEAKING",
+        "introduction": "<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Nộp link video trả lời các câu hỏi speaking (có mở quyền truy cập)</strong></span></p>",
+        "content": null,
+        "answerTemplate": null,
+        "explain": null
+      },
+      "options": [],
+      "audioRefs": [],
+      "imageRefs": [],
+      "submission": {
+        "totalQuestion": 1,
+        "totalCorrect": 1,
+        "userAnswer": "https://drive.google.com/file/d/1BfP8zbkoqj6ASgFDZxohkhBU67YdVVxV/view?usp=sharing",
+        "correctAnswer": null,
+        "resultAnswer": true,
+        "hasAnswerEmpty": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "generatedAt": "2026-09-24T03:27:49.109Z",
+  "courseId": "ifa-ielts",
+  "totalChallenges": 12,
+  "lessons": [
+    {
+      "lessonKey": "lesson-01",
+      "challenges": 1,
+      "contentBlocks": 3,
+      "questions": 11,
+      "audioFiles": 14,
+      "images": 0,
+      "failedAudio": 0,
+      "failedImages": 0
+    },
+    {
+      "lessonKey": "lesson-02",
+      "challenges": 2,
+      "contentBlocks": 3,
+      "questions": 24,
+      "audioFiles": 10,
+      "images": 0,
+      "failedAudio": 0,
+      "failedImages": 0
+    },
+    {
+      "lessonKey": "lesson-03",
+      "challenges": 2,
+      "contentBlocks": 3,
+      "questions": 21,
+      "audioFiles": 15,
+      "images": 0,
+      "failedAudio": 0,
+      "failedImages": 0
+    },
+    {
+      "lessonKey": "lesson-04",
+      "challenges": 2,
+      "contentBlocks": 3,
+      "questions": 33,
+      "audioFiles": 8,
+      "images": 0,
+      "failedAudio": 0,
+      "failedImages": 0
+    },
+    {
+      "lessonKey": "lesson-05",
+      "challenges": 2,
+      "contentBlocks": 3,
+      "questions": 46,
+      "audioFiles": 18,
+      "images": 8,
+      "failedAudio": 0,
+      "failedImages": 0
+    },
+    {
+      "lessonKey": "lesson-06",
+      "challenges": 2,
+      "contentBlocks": 5,
+      "questions": 47,
+      "audioFiles": 19,
+      "images": 0,
+      "failedAudio": 0,
+      "failedImages": 0
+    },
+    {
+      "lessonKey": "lesson-misc",
+      "challenges": 1,
+      "contentBlocks": 1,
+      "questions": 19,
+      "audioFiles": 10,
+      "images": 10,
+      "failedAudio": 0,
+      "failedImages": 0
+    }
+  ]
+}
