@@ -12,9 +12,19 @@ Repo tổ chức theo **khóa học**. Mỗi khóa là một thư mục `courses
 
 Ngoài ra: `scripts/` (audit/import/download).
 
-**Scope hiện tại**: 1 khóa `pre-ielts` — Notes + 20 daily sets (L1-19 + `lesson-misc`) + Final Practice generator + Final packet giáo viên.
+**Scope hiện tại**: 2 khóa.
+- `pre-ielts` — Notes + 20 daily sets (L1-19 + `lesson-misc`) + Final Practice generator + Final packet giáo viên.
+- `ifa-ielts` (IELTS Foundation A) — 12 daily challenge (L1-6 + break) + **Speaking Part 1**: 7 handout khung trả lời + ngân hàng 13 lesson cho luyện phản xạ.
 
-> **Multi-course (Giai đoạn 2, chưa làm)**: App hiện đọc cố định `courses/pre-ielts` (hằng `COURSE_ID` trong `preprocess.mjs` + `vite-plugin-assets.mjs`). Thêm khóa mới (vd `ifa`) về mặt tổ chức = tạo `courses/ifa/{notes,daily,final}`. Để app chạy được nhiều khóa cùng lúc cần wiring thêm: course switcher, URL segment theo khóa, namespace localStorage — làm sau.
+> **Multi-course**: `preprocess.mjs` đọc `pre-ielts` qua hằng `COURSE_ID`, và đọc thêm `ifa-ielts` qua `IFA_COURSE_ID` (chỉ phần Speaking, emit module độc lập `src/data/ifa-speaking.ts`). Điều hướng chia nhóm theo khóa trong `NAV_GROUPS` ([1-code/next/src/lib/nav.ts](1-code/next/src/lib/nav.ts)). Chưa có course switcher / URL segment theo khóa / namespace localStorage theo khóa — làm sau nếu cần.
+
+### IFA Speaking pipeline
+1. HTML handout gốc (artifact của giáo viên) đặt ở `courses/ifa-ielts/source/speaking/` — **gitignored** (`courses/*/source/`), chỉ dùng để trích.
+2. `node scripts/parse-ifa-speaking.mjs` → sinh `courses/ifa-ielts/notes/enrich/speaking-handouts.json` + `speaking-bank.json` (JSON sạch, **không mang HTML/CSS/JS**).
+3. `preprocess.mjs` đọc 2 file JSON đó → `1-code/next/src/data/ifa-speaking.ts`. Thiếu file thì degrade về mảng rỗng, không vỡ build `pre-ielts`.
+4. UI: [IfaSpeakingPage](1-code/next/src/pages/IfaSpeakingPage.tsx) (ghép câu) + [IfaSpeakingDrillPage](1-code/next/src/pages/IfaSpeakingDrillPage.tsx) (luyện phản xạ).
+
+> Thêm lesson Speaking mới: thả HTML vào `source/speaking/`, chạy lại `parse-ifa-speaking.mjs`, restart dev. Parser tự nhận file mới; UI render số slot động nên lesson dùng 4 slot vẫn chạy. **Không đặt regex bóc chuỗi hiển thị trong UI** — parser phải sinh sẵn `topicLabel` / `audience` / `grammarFocus`.
 
 ## Web-consumed (RANH GIỚI QUAN TRỌNG)
 
@@ -132,7 +142,7 @@ Không có test / lint / CI ngoài GH Pages deploy (`.github/workflows/deploy.ym
 
 ## GitHub
 
-- Remote `origin`: `https://github.com/khanhtb1306/ielts-foundation-notes.git` (private, default `main`).
+- Remote `origin`: `https://github.com/khanhtb1306/ielts-notes.git` (private, default `main`).
 
 ## Experimental / Not Yet Wired
 
