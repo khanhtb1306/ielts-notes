@@ -1,9 +1,9 @@
-// scripts/audit-data.mjs — Phase 4 data integrity audit
+﻿// scripts/audit-data.mjs â€” Phase 4 data integrity audit
 //
 // D1 broken audioRefs / imageRefs (URL in blocks/questions not in manifest)
 // D2 scripts.json orphans (script attached to audioId not in audio manifest)
 // D3 silent audios (audio manifest entry with no script)
-// D4 manifest ↔ raw drift (manifest rawFile missing OR raw file not listed)
+// D4 manifest â†” raw drift (manifest rawFile missing OR raw file not listed)
 // D5 correctAnswer vs raw challenge answer diff
 // D6 fill_blank kind misdetection (type=1 with no [input_N] in answerTemplate OR missing correctAnswer keys)
 // D7 topic tag vs challenge.note mismatch (question tagged with topic that doesn't appear in note)
@@ -13,8 +13,8 @@ import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const ROOT = dirname(dirname(fileURLToPath(import.meta.url)));
-const SRC = join(ROOT, "source");
-const DAILY = join(SRC, "daily");
+const COURSE = join(ROOT, "courses", "pre-ielts");
+const DAILY = join(COURSE, "daily", "lessons");
 
 function readJson(p, fb) { return existsSync(p) ? JSON.parse(readFileSync(p, "utf8")) : fb; }
 function stripHtml(html) {
@@ -58,15 +58,15 @@ for (const lk of lessonKeys) {
     for (const a of b.audioRefs || []) {
       if (a.url && !audioUrlSet.has(a.url)) {
         add("HIGH", "D1", lk, `source/daily/${lk}/content.json (block ${b.id})`,
-          `audioRef URL \`${a.url}\` không có trong audio/manifest.json.`,
-          `Thêm entry vào audio/manifest.json HOẶC bỏ audioRef nếu file không dùng.`);
+          `audioRef URL \`${a.url}\` khÃ´ng cÃ³ trong audio/manifest.json.`,
+          `ThÃªm entry vÃ o audio/manifest.json HOáº¶C bá» audioRef náº¿u file khÃ´ng dÃ¹ng.`);
       }
     }
     for (const i of b.imageRefs || []) {
       if (i.url && !imageUrlSet.has(i.url)) {
         add("HIGH", "D1", lk, `source/daily/${lk}/content.json (block ${b.id})`,
-          `imageRef URL \`${i.url}\` không có trong images/manifest.json.`,
-          `Thêm entry vào images/manifest.json HOẶC bỏ imageRef.`);
+          `imageRef URL \`${i.url}\` khÃ´ng cÃ³ trong images/manifest.json.`,
+          `ThÃªm entry vÃ o images/manifest.json HOáº¶C bá» imageRef.`);
       }
     }
   }
@@ -75,15 +75,15 @@ for (const lk of lessonKeys) {
     for (const a of q.audioRefs || []) {
       if (a.url && !audioUrlSet.has(a.url)) {
         add("HIGH", "D1", lk, `source/daily/${lk}/exercises.json (question ${q.id})`,
-          `audioRef URL \`${a.url}\` không có trong audio/manifest.json.`,
-          `Thêm entry manifest hoặc bỏ audioRef.`);
+          `audioRef URL \`${a.url}\` khÃ´ng cÃ³ trong audio/manifest.json.`,
+          `ThÃªm entry manifest hoáº·c bá» audioRef.`);
       }
     }
     for (const i of q.imageRefs || []) {
       if (i.url && !imageUrlSet.has(i.url)) {
         add("HIGH", "D1", lk, `source/daily/${lk}/exercises.json (question ${q.id})`,
-          `imageRef URL \`${i.url}\` không có trong images/manifest.json.`,
-          `Thêm entry manifest hoặc bỏ imageRef.`);
+          `imageRef URL \`${i.url}\` khÃ´ng cÃ³ trong images/manifest.json.`,
+          `ThÃªm entry manifest hoáº·c bá» imageRef.`);
       }
     }
   }
@@ -92,8 +92,8 @@ for (const lk of lessonKeys) {
   for (const a of audioManifest.items || []) {
     if (!a.script || !String(a.script).trim()) {
       add("MEDIUM", "D3", lk, `source/daily/${lk}/audio/manifest.json (id=${a.id})`,
-        `Audio không có \`script\`.`,
-        `Bổ sung script (transcript) để build vocab pairs + Practice UI có context.`);
+        `Audio khÃ´ng cÃ³ \`script\`.`,
+        `Bá»• sung script (transcript) Ä‘á»ƒ build vocab pairs + Practice UI cÃ³ context.`);
     }
   }
 
@@ -102,12 +102,12 @@ for (const lk of lessonKeys) {
   for (const s of scriptBlocks) {
     if (s.audioId && !audioIdSet.has(s.audioId)) {
       add("MEDIUM", "D2", lk, `source/daily/${lk}/scripts.json`,
-        `Script gắn audioId \`${s.audioId}\` không tồn tại trong audio manifest.`,
-        `Update audioId reference hoặc bỏ script entry.`);
+        `Script gáº¯n audioId \`${s.audioId}\` khÃ´ng tá»“n táº¡i trong audio manifest.`,
+        `Update audioId reference hoáº·c bá» script entry.`);
     }
   }
 
-  // ---- D4: manifest ↔ raw drift ----
+  // ---- D4: manifest â†” raw drift ----
   const rawDir = join(dir, "raw");
   const rawFilesOnDisk = existsSync(rawDir)
     ? readdirSync(rawDir).filter((f) => f.endsWith(".json"))
@@ -119,17 +119,17 @@ for (const lk of lessonKeys) {
   for (const rf of rawFilesInManifest) {
     if (!rawFilesOnDisk.includes(rf)) {
       add("HIGH", "D4", lk, `source/daily/${lk}/manifest.json`,
-        `manifest rawFile \`raw/${rf}\` không tồn tại trên disk.`,
-        `Kiểm tra rawFilesOnDisk và cập nhật manifest.`);
+        `manifest rawFile \`raw/${rf}\` khÃ´ng tá»“n táº¡i trÃªn disk.`,
+        `Kiá»ƒm tra rawFilesOnDisk vÃ  cáº­p nháº­t manifest.`);
     }
   }
   for (const rf of rawFilesOnDisk) {
     if (!rawFilesInManifest.has(rf) && !/challenge-/i.test(rf) === false) {
-      // OK — only warn if the file looks like a challenge file
+      // OK â€” only warn if the file looks like a challenge file
       if (/^challenge-\d+-\d+\.json$/.test(rf)) {
         add("LOW", "D4", lk, `source/daily/${lk}/raw/${rf}`,
-          `File raw challenge tồn tại nhưng không listed trong manifest.`,
-          `Thêm challenge entry vào manifest.json HOẶC xoá file.`);
+          `File raw challenge tá»“n táº¡i nhÆ°ng khÃ´ng listed trong manifest.`,
+          `ThÃªm challenge entry vÃ o manifest.json HOáº¶C xoÃ¡ file.`);
       }
     }
   }
@@ -156,12 +156,12 @@ for (const lk of lessonKeys) {
       const keyCount = correctObj ? Object.keys(correctObj).length : 0;
       if (!hasInputMarker && keyCount > 0) {
         add("HIGH", "D6", lk, `source/daily/${lk}/exercises.json (q ${q.id})`,
-          `type=1 (fill_blank) có ${keyCount} correctAnswer keys nhưng \`rawHtml.answerTemplate\` thiếu marker [input_N].`,
-          `Kiểm tra answerTemplate — cần chèn placeholder [input_0], [input_1]... đúng vị trí; hoặc câu này thực sự không phải fill_blank.`);
+          `type=1 (fill_blank) cÃ³ ${keyCount} correctAnswer keys nhÆ°ng \`rawHtml.answerTemplate\` thiáº¿u marker [input_N].`,
+          `Kiá»ƒm tra answerTemplate â€” cáº§n chÃ¨n placeholder [input_0], [input_1]... Ä‘Ãºng vá»‹ trÃ­; hoáº·c cÃ¢u nÃ y thá»±c sá»± khÃ´ng pháº£i fill_blank.`);
       } else if (hasInputMarker && keyCount === 0) {
         add("MEDIUM", "D6", lk, `source/daily/${lk}/exercises.json (q ${q.id})`,
-          `type=1 (fill_blank) có [input_N] marker nhưng \`submission.correctAnswer\` rỗng.`,
-          `Populate correctAnswer từ raw challenge answer.answers[] hoặc từ đáp án tay.`);
+          `type=1 (fill_blank) cÃ³ [input_N] marker nhÆ°ng \`submission.correctAnswer\` rá»—ng.`,
+          `Populate correctAnswer tá»« raw challenge answer.answers[] hoáº·c tá»« Ä‘Ã¡p Ã¡n tay.`);
       }
     }
 
@@ -178,22 +178,23 @@ for (const lk of lessonKeys) {
           rawSorted.some((v, i) => String(v) !== String(subSorted[i]));
         if (differ) {
           add("HIGH", "D5", lk, `source/daily/${lk}/exercises.json (q ${q.id})`,
-            `correctAnswer lệch với raw challenge: submission=[${subIds.join(",")}] vs raw=[${rawCorrectIds.join(",")}].`,
-            `Verify: raw challenge là nguồn truth hay submission? Nếu raw đúng, cập nhật submission.correctAnswer.`);
+            `correctAnswer lá»‡ch vá»›i raw challenge: submission=[${subIds.join(",")}] vs raw=[${rawCorrectIds.join(",")}].`,
+            `Verify: raw challenge lÃ  nguá»“n truth hay submission? Náº¿u raw Ä‘Ãºng, cáº­p nháº­t submission.correctAnswer.`);
         }
       } else if (!subSorted.length && rawSorted.length) {
         add("MEDIUM", "D5", lk, `source/daily/${lk}/exercises.json (q ${q.id})`,
-          `Type=${type} có raw correct answer [${rawCorrectIds.join(",")}] nhưng \`submission.correctAnswer\` empty.`,
-          `Fill in correctAnswer từ raw.`);
+          `Type=${type} cÃ³ raw correct answer [${rawCorrectIds.join(",")}] nhÆ°ng \`submission.correctAnswer\` empty.`,
+          `Fill in correctAnswer tá»« raw.`);
       }
     }
 
-    // D7: topic tag drift — skip for now (heuristic-heavy)
+    // D7: topic tag drift â€” skip for now (heuristic-heavy)
   }
 }
 
 // ---- Emit ----
-const notesDir = join(ROOT, "notes");
+// Reports are tooling output, not course content — keep them out of courses/.
+  const notesDir = join(ROOT, "reports");
 if (!existsSync(notesDir)) mkdirSync(notesDir, { recursive: true });
 
 const sevCount = { CRITICAL: 0, HIGH: 0, MEDIUM: 0, LOW: 0 };
@@ -204,10 +205,10 @@ for (const f of findings) {
 }
 
 const lines = [];
-lines.push(`# Phase 4 — Data Integrity Audit\n`);
+lines.push(`# Phase 4 â€” Data Integrity Audit\n`);
 lines.push(`_Generated by \`scripts/audit-data.mjs\`._\n`);
-lines.push(`## Tổng quan\n`);
-lines.push(`- Lessons quét: **${lessonKeys.length}**`);
+lines.push(`## Tá»•ng quan\n`);
+lines.push(`- Lessons quÃ©t: **${lessonKeys.length}**`);
 lines.push(`- Findings: **${findings.length}**`);
 lines.push(`  - CRITICAL: ${sevCount.CRITICAL}, HIGH: ${sevCount.HIGH}, MEDIUM: ${sevCount.MEDIUM}, LOW: ${sevCount.LOW}`);
 lines.push(`- Theo code:`);
@@ -218,20 +219,20 @@ lines.push("");
 lines.push(`### Legend`);
 lines.push(`- **D1** broken audio/image URL trong blocks or questions`);
 lines.push(`- **D2** scripts.json audioId orphan`);
-lines.push(`- **D3** audio manifest entry thiếu script`);
-lines.push(`- **D4** manifest ↔ raw file drift`);
+lines.push(`- **D3** audio manifest entry thiáº¿u script`);
+lines.push(`- **D4** manifest â†” raw file drift`);
 lines.push(`- **D5** correctAnswer vs raw challenge answer diff (single/multi choice)`);
 lines.push(`- **D6** fill_blank kind misdetection ([input_N] vs correctAnswer keys)`);
-lines.push(`- **D7** (skipped — cover in Phase 6/7)`);
+lines.push(`- **D7** (skipped â€” cover in Phase 6/7)`);
 lines.push("");
 if (!findings.length) {
-  lines.push(`## Findings\n\n_Sạch. Không phát hiện lỗi data integrity._\n`);
+  lines.push(`## Findings\n\n_Sáº¡ch. KhÃ´ng phÃ¡t hiá»‡n lá»—i data integrity._\n`);
 } else {
   lines.push(`## Findings\n`);
   const byLesson = {};
   for (const f of findings) (byLesson[f.lessonKey] = byLesson[f.lessonKey] || []).push(f);
   for (const lk of Object.keys(byLesson).sort()) {
-    lines.push(`### ${lk} — ${byLesson[lk].length} findings\n`);
+    lines.push(`### ${lk} â€” ${byLesson[lk].length} findings\n`);
     byLesson[lk].sort((a, b) => {
       const order = { CRITICAL: 0, HIGH: 1, MEDIUM: 2, LOW: 3 };
       return order[a.severity] - order[b.severity] || a.code.localeCompare(b.code);
@@ -246,6 +247,6 @@ if (!findings.length) {
 }
 
 writeFileSync(join(notesDir, "audit-4-data.md"), lines.join("\n"), "utf8");
-console.log(`Wrote notes/audit-4-data.md — ${findings.length} findings`);
+console.log(`Wrote notes/audit-4-data.md â€” ${findings.length} findings`);
 console.log(`Severity: CRITICAL=${sevCount.CRITICAL}, HIGH=${sevCount.HIGH}, MEDIUM=${sevCount.MEDIUM}, LOW=${sevCount.LOW}`);
 console.log(`Codes: ${Object.entries(codeCount).map(([k, v]) => `${k}=${v}`).join(", ")}`);

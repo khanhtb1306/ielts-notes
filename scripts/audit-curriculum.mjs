@@ -1,4 +1,4 @@
-// scripts/audit-curriculum.mjs — Phase 3 curriculum mapping audit (dev tool)
+﻿// scripts/audit-curriculum.mjs â€” Phase 3 curriculum mapping audit (dev tool)
 //
 // For each of 16 daily lessons, produces a coverage row:
 //   Notes  = markdown notes whose `lessons:` frontmatter matches this lesson
@@ -7,12 +7,12 @@
 //   Speaking = speakingQuestions[topic] count for each core speaking topic
 //
 // Then flags:
-//   X1 lý thuyết → không practice
-//   X2 practice → không lý thuyết
-//   X3 slide → exercises drop-off
-//   X4 speaking bank mồ côi note
+//   X1 lÃ½ thuyáº¿t â†’ khÃ´ng practice
+//   X2 practice â†’ khÃ´ng lÃ½ thuyáº¿t
+//   X3 slide â†’ exercises drop-off
+//   X4 speaking bank má»“ cÃ´i note
 //   X5 lessonTopicHints claim sai
-//   X6 nội dung cũ vs mới lệch (best-effort, may report false positives)
+//   X6 ná»™i dung cÅ© vs má»›i lá»‡ch (best-effort, may report false positives)
 //   X7 misplaced block (based on tag vs lesson hint)
 //   X8 topic key drift (checked once globally, not per-lesson)
 
@@ -21,8 +21,8 @@ import { join, dirname, basename } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const ROOT = dirname(dirname(fileURLToPath(import.meta.url)));
-const SRC = join(ROOT, "source");
-const DAILY = join(SRC, "daily");
+const COURSE = join(ROOT, "courses", "pre-ielts");
+const DAILY = join(COURSE, "daily", "lessons");
 
 function readJson(p, fb) { return existsSync(p) ? JSON.parse(readFileSync(p, "utf8")) : fb; }
 function stripHtml(html) {
@@ -47,7 +47,7 @@ function parseFrontmatter(raw) {
 }
 
 /* ---------- Load taxonomy ---------- */
-const topics = readJson(join(DAILY, "topics-map.json"), {});
+const topics = readJson(join(COURSE, "notes", "enrich", "topics-map.json"), {});
 const topicLabels = topics.topicLabels || {};
 const noteKeywords = topics.noteKeywords || {};
 const lessonTopicHints = topics.lessonTopicHints || {};
@@ -75,7 +75,7 @@ function extractOrderedTopics(text) {
 function loadNotes() {
   const out = [];
   for (const type of ["pronunciation", "grammar", "speaking"]) {
-    const dir = join(SRC, type);
+    const dir = join(COURSE, "notes", type);
     if (!existsSync(dir)) continue;
     for (const f of readdirSync(dir).filter((x) => x.endsWith(".md"))) {
       const raw = readFileSync(join(dir, f), "utf8");
@@ -84,7 +84,7 @@ function loadNotes() {
       const spec = data.lessons || data.lesson || "";
       const lessonNums = new Set();
       for (const tok of spec.split(/[,;]/)) {
-        const range = tok.match(/(\d+)\s*[-–]\s*(\d+)/);
+        const range = tok.match(/(\d+)\s*[-â€“]\s*(\d+)/);
         const single = tok.match(/\d+/);
         if (range) {
           for (let n = parseInt(range[1]); n <= parseInt(range[2]); n++) lessonNums.add(n);
@@ -190,7 +190,7 @@ const topicCoverage = {}; // topic -> { notes: [], blocks: {lessonKey:count}, qu
 for (const t of Object.keys(topicLabels)) {
   topicCoverage[t] = { notes: (notesByTopic.get(t) || []).map((n) => n.file), blocks: {}, questions: {}, speaking: (speakingQuestions[t] || []).length };
 }
-// Any topic that appears only as override target but not in topicLabels — capture too
+// Any topic that appears only as override target but not in topicLabels â€” capture too
 const extraTopics = new Set();
 
 // Per-lesson rows
@@ -281,21 +281,21 @@ function flag(sev, code, lessonKey, desc, fix) {
 for (const t of Object.keys(speakingQuestions)) {
   if (!notesByTopic.has(t)) {
     const nq = speakingQuestions[t].length;
-    flag("MEDIUM", "X4", "-", `Speaking topic \`${t}\` có ${nq} câu hỏi trong \`speakingQuestions\` nhưng không có note markdown nào tag về topic này (không giải guess-mapping).`, `Viết note markdown mới hoặc tag đúng note hiện có (frontmatter title/keywords khớp topic).`);
+    flag("MEDIUM", "X4", "-", `Speaking topic \`${t}\` cÃ³ ${nq} cÃ¢u há»i trong \`speakingQuestions\` nhÆ°ng khÃ´ng cÃ³ note markdown nÃ o tag vá» topic nÃ y (khÃ´ng giáº£i guess-mapping).`, `Viáº¿t note markdown má»›i hoáº·c tag Ä‘Ãºng note hiá»‡n cÃ³ (frontmatter title/keywords khá»›p topic).`);
   }
 }
 
 // Also X4: needsNotes=true entries in topicLabels
 for (const [key, meta] of Object.entries(topicLabels)) {
   if (meta.needsNotes) {
-    flag("HIGH", "X4", "-", `\`topicLabels.${key}\` đánh dấu \`needsNotes: true\` — chưa có note markdown.`, `Viết note markdown cho topic này rồi bỏ flag \`needsNotes\` trong topics-map.json.`);
+    flag("HIGH", "X4", "-", `\`topicLabels.${key}\` Ä‘Ã¡nh dáº¥u \`needsNotes: true\` â€” chÆ°a cÃ³ note markdown.`, `Viáº¿t note markdown cho topic nÃ y rá»“i bá» flag \`needsNotes\` trong topics-map.json.`);
   }
 }
 
 // X1: note exists but no daily question tags this topic (across all lessons)
 for (const [topic, cov] of Object.entries(topicCoverage)) {
   if (cov.notes.length && !Object.keys(cov.questions).length) {
-    flag("MEDIUM", "X1", "-", `Topic \`${topic}\` có ${cov.notes.length} note (${cov.notes.join(", ")}) nhưng KHÔNG có daily question nào tag về topic này.`, `Học lý thuyết mà không có practice — cân nhắc: (a) rewrite tags/blockOverrides để pull existing questions vào topic; (b) tag questions manually via questionOverrides; (c) chấp nhận và ghi rõ đây là notes-only topic.`);
+    flag("MEDIUM", "X1", "-", `Topic \`${topic}\` cÃ³ ${cov.notes.length} note (${cov.notes.join(", ")}) nhÆ°ng KHÃ”NG cÃ³ daily question nÃ o tag vá» topic nÃ y.`, `Há»c lÃ½ thuyáº¿t mÃ  khÃ´ng cÃ³ practice â€” cÃ¢n nháº¯c: (a) rewrite tags/blockOverrides Ä‘á»ƒ pull existing questions vÃ o topic; (b) tag questions manually via questionOverrides; (c) cháº¥p nháº­n vÃ  ghi rÃµ Ä‘Ã¢y lÃ  notes-only topic.`);
   }
 }
 
@@ -304,7 +304,7 @@ for (const [topic, cov] of Object.entries(topicCoverage)) {
   const questionLessons = Object.keys(cov.questions);
   if (!cov.notes.length && questionLessons.length) {
     const totalQ = Object.values(cov.questions).reduce((a, b) => a + b, 0);
-    flag("MEDIUM", "X2", "-", `Topic \`${topic}\` có ${totalQ} question (${questionLessons.length} lessons) nhưng 0 note markdown.`, `Practice không có lý thuyết — viết note (ngay cả 1-page) để learner biết cách tiếp cận trước khi làm bài.`);
+    flag("MEDIUM", "X2", "-", `Topic \`${topic}\` cÃ³ ${totalQ} question (${questionLessons.length} lessons) nhÆ°ng 0 note markdown.`, `Practice khÃ´ng cÃ³ lÃ½ thuyáº¿t â€” viáº¿t note (ngay cáº£ 1-page) Ä‘á»ƒ learner biáº¿t cÃ¡ch tiáº¿p cáº­n trÆ°á»›c khi lÃ m bÃ i.`);
   }
 }
 
@@ -314,7 +314,7 @@ for (const row of rows) {
     const hasBlock = row.blocksByTopic[h];
     const hasQuestion = row.questionsByTopic[h];
     if (!hasBlock && !hasQuestion) {
-      flag("MEDIUM", "X5", row.lessonKey, `Hint claim topic \`${h}\` core cho \`${row.lessonKey}\` nhưng 0 block/question thực tế cover topic này.`, `Hoặc: bỏ topic khỏi \`lessonTopicHints[${row.lessonKey}]\` HOẶC thêm blockOverride/questionOverride để tag mềm.`);
+      flag("MEDIUM", "X5", row.lessonKey, `Hint claim topic \`${h}\` core cho \`${row.lessonKey}\` nhÆ°ng 0 block/question thá»±c táº¿ cover topic nÃ y.`, `Hoáº·c: bá» topic khá»i \`lessonTopicHints[${row.lessonKey}]\` HOáº¶C thÃªm blockOverride/questionOverride Ä‘á»ƒ tag má»m.`);
     }
   }
 }
@@ -327,12 +327,12 @@ for (const row of rows) {
     const hasCoreBlock = blockRefs.some((b) => b.role === "core");
     const hasAnyQuestion = row.questionsByTopic[topic];
     if (hasCoreBlock && !hasAnyQuestion) {
-      flag("MEDIUM", "X3", row.lessonKey, `Study block dạy topic \`${topic}\` (${blockRefs.length} blocks) nhưng \`${row.lessonKey}\` có 0 exercise cho topic này (learn-only, no practice).`, `Kiểm tra exercises.json — có thể topic bị tag miss vì content nghèo keyword; thêm questionOverride nếu cần.`);
+      flag("MEDIUM", "X3", row.lessonKey, `Study block dáº¡y topic \`${topic}\` (${blockRefs.length} blocks) nhÆ°ng \`${row.lessonKey}\` cÃ³ 0 exercise cho topic nÃ y (learn-only, no practice).`, `Kiá»ƒm tra exercises.json â€” cÃ³ thá»ƒ topic bá»‹ tag miss vÃ¬ content nghÃ¨o keyword; thÃªm questionOverride náº¿u cáº§n.`);
     }
   }
 }
 
-// X8: topic key drift — check topicLabels + questionOverrides + blockOverrides + notesByTopic keys for near-duplicates
+// X8: topic key drift â€” check topicLabels + questionOverrides + blockOverrides + notesByTopic keys for near-duplicates
 function normalizeKey(k) {
   return k.toLowerCase().replace(/[^a-z0-9]/g, "");
 }
@@ -347,30 +347,31 @@ function normalizeKey(k) {
   }
   for (const [n, list] of Object.entries(norm)) {
     if (list.length > 1) {
-      flag("HIGH", "X8", "-", `Topic key drift: keys \`${list.join("`, `")}\` normalize giống nhau (\`${n}\`).`, `Merge về 1 key canonical; update topicLabels + noteKeywords + overrides.`);
+      flag("HIGH", "X8", "-", `Topic key drift: keys \`${list.join("`, `")}\` normalize giá»‘ng nhau (\`${n}\`).`, `Merge vá» 1 key canonical; update topicLabels + noteKeywords + overrides.`);
     }
   }
   // Any extraTopics not in topicLabels
   for (const t of extraTopics) {
     if (!topicLabels[t]) {
-      flag("MEDIUM", "X8", "-", `Topic key \`${t}\` xuất hiện trong overrides/tagging nhưng không có entry trong \`topicLabels\`.`, `Thêm entry vào \`topicLabels\` HOẶC bỏ khỏi overrides.`);
+      flag("MEDIUM", "X8", "-", `Topic key \`${t}\` xuáº¥t hiá»‡n trong overrides/tagging nhÆ°ng khÃ´ng cÃ³ entry trong \`topicLabels\`.`, `ThÃªm entry vÃ o \`topicLabels\` HOáº¶C bá» khá»i overrides.`);
     }
   }
 }
 
-// X6: rough content drift — for each topic with both notes AND questions,
-// pull note title/keywords, compare against a sample question prompt — flag if very short overlap.
-// Skipped for now (requires manual English-teacher pass — will be covered in Phase 6).
+// X6: rough content drift â€” for each topic with both notes AND questions,
+// pull note title/keywords, compare against a sample question prompt â€” flag if very short overlap.
+// Skipped for now (requires manual English-teacher pass â€” will be covered in Phase 6).
 
 /* ---------- Emit report ---------- */
-const notesDir = join(ROOT, "notes");
+// Reports are tooling output, not course content — keep them out of courses/.
+  const notesDir = join(ROOT, "reports");
 if (!existsSync(notesDir)) mkdirSync(notesDir, { recursive: true });
 
 const lines = [];
-lines.push(`# Phase 3 — Curriculum Mapping Audit\n`);
-lines.push(`_Generated by \`scripts/audit-curriculum.mjs\`. Đọc-only, reflect state tại thời điểm chạy._\n`);
+lines.push(`# Phase 3 â€” Curriculum Mapping Audit\n`);
+lines.push(`_Generated by \`scripts/audit-curriculum.mjs\`. Äá»c-only, reflect state táº¡i thá»i Ä‘iá»ƒm cháº¡y._\n`);
 
-lines.push(`## Tổng quan\n`);
+lines.push(`## Tá»•ng quan\n`);
 lines.push(`- Notes markdown: **${notes.length}** files (${notes.filter((n) => n.type === "pronunciation").length} pronunciation, ${notes.filter((n) => n.type === "grammar").length} grammar, ${notes.filter((n) => n.type === "speaking").length} speaking)`);
 lines.push(`- Lessons daily: **${lessonKeys.length}** (${lessonKeys.join(", ")})`);
 lines.push(`- Topics trong \`topicLabels\`: **${Object.keys(topicLabels).length}**`);
@@ -384,21 +385,21 @@ lines.push("");
 lines.push(`## Coverage matrix per lesson\n`);
 for (const row of rows) {
   const noteLabels = row.notesForLesson.map((n) => `\`${basename(n.file)}\` (${n.skill})`);
-  const kindStr = Object.entries(row.kindCount).filter(([, v]) => v > 0).map(([k, v]) => `${k}=${v}`).join(", ") || "—";
+  const kindStr = Object.entries(row.kindCount).filter(([, v]) => v > 0).map(([k, v]) => `${k}=${v}`).join(", ") || "â€”";
   const blockTopics = Object.entries(row.blocksByTopic).map(([t, refs]) => {
     const roles = new Set(refs.map((r) => r.role));
-    return `${t}[${refs.length}${roles.has("core") ? "★" : ""}]`;
-  }).join(" · ") || "—";
+    return `${t}[${refs.length}${roles.has("core") ? "â˜…" : ""}]`;
+  }).join(" Â· ") || "â€”";
   const questionTopics = Object.entries(row.questionsByTopic).map(([t, refs]) => {
     const kinds = row.kindByTopic[t] ? [...row.kindByTopic[t]].join("/") : "?";
     return `${t}[${refs.length},${kinds}]`;
-  }).join(" · ") || "—";
+  }).join(" Â· ") || "â€”";
   const spTopics = row.hints.filter((h) => (topicLabels[h] || {}).skill === "speaking");
-  const spCounts = spTopics.map((t) => `${t}(${(speakingQuestions[t] || []).length}Q)`).join(", ") || "—";
+  const spCounts = spTopics.map((t) => `${t}(${(speakingQuestions[t] || []).length}Q)`).join(", ") || "â€”";
   lines.push(`### ${row.lessonKey}${row.lessonNum ? ` (Lesson ${row.lessonNum})` : ""}\n`);
-  lines.push(`- **Hints (core)**: ${row.hints.length ? row.hints.map((h) => `\`${h}\``).join(", ") : "—"}`);
-  lines.push(`- **Challenge notes**: ${row.challengeNotes || "—"}`);
-  lines.push(`- **Notes markdown** (${row.notesForLesson.length}): ${noteLabels.join(", ") || "—"}`);
+  lines.push(`- **Hints (core)**: ${row.hints.length ? row.hints.map((h) => `\`${h}\``).join(", ") : "â€”"}`);
+  lines.push(`- **Challenge notes**: ${row.challengeNotes || "â€”"}`);
+  lines.push(`- **Notes markdown** (${row.notesForLesson.length}): ${noteLabels.join(", ") || "â€”"}`);
   lines.push(`- **Study blocks** (${Object.values(row.blocksByTopic).flat().length} tag hits): ${blockTopics}`);
   lines.push(`- **Exercises** (kind: ${kindStr}): ${questionTopics}`);
   lines.push(`- **Speaking bank cho core**: ${spCounts}`);
@@ -407,42 +408,42 @@ for (const row of rows) {
 
 lines.push(`## Topic coverage overview\n`);
 for (const [t, cov] of Object.entries(topicCoverage)) {
-  const noteStr = cov.notes.length ? cov.notes.map((n) => basename(n)).join(", ") : "—";
-  const bl = Object.entries(cov.blocks).map(([k, n]) => `${k}(${n})`).join(", ") || "—";
-  const qu = Object.entries(cov.questions).map(([k, n]) => `${k}(${n})`).join(", ") || "—";
-  const sp = cov.speaking ? `${cov.speaking} câu` : "—";
+  const noteStr = cov.notes.length ? cov.notes.map((n) => basename(n)).join(", ") : "â€”";
+  const bl = Object.entries(cov.blocks).map(([k, n]) => `${k}(${n})`).join(", ") || "â€”";
+  const qu = Object.entries(cov.questions).map(([k, n]) => `${k}(${n})`).join(", ") || "â€”";
+  const sp = cov.speaking ? `${cov.speaking} cÃ¢u` : "â€”";
   const meta = topicLabels[t];
   const flags = [];
   if (meta && meta.needsNotes) flags.push("**needsNotes**");
-  lines.push(`- **\`${t}\`** (${meta ? meta.skill : "?"}${flags.length ? " · " + flags.join(", ") : ""}) — notes: ${noteStr} · blocks: ${bl} · questions: ${qu} · speaking: ${sp}`);
+  lines.push(`- **\`${t}\`** (${meta ? meta.skill : "?"}${flags.length ? " Â· " + flags.join(", ") : ""}) â€” notes: ${noteStr} Â· blocks: ${bl} Â· questions: ${qu} Â· speaking: ${sp}`);
 }
 lines.push("");
 if (extraTopics.size) {
-  lines.push(`### Extra topics chưa có \`topicLabels\`\n`);
+  lines.push(`### Extra topics chÆ°a cÃ³ \`topicLabels\`\n`);
   for (const t of extraTopics) lines.push(`- \`${t}\``);
   lines.push("");
 }
 
 lines.push(`## Findings\n`);
 if (!findings.length) {
-  lines.push(`_Không phát hiện lỗi mapping nào._\n`);
+  lines.push(`_KhÃ´ng phÃ¡t hiá»‡n lá»—i mapping nÃ o._\n`);
 } else {
   const byCode = {};
   for (const f of findings) (byCode[f.code] = byCode[f.code] || []).push(f);
   const legend = {
-    X1: "Notes có nhưng Daily 0 question",
-    X2: "Daily practice không có Notes",
-    X3: "Study block dạy nhưng cùng lesson 0 exercise",
-    X4: "Speaking bank / needsNotes cần note",
+    X1: "Notes cÃ³ nhÆ°ng Daily 0 question",
+    X2: "Daily practice khÃ´ng cÃ³ Notes",
+    X3: "Study block dáº¡y nhÆ°ng cÃ¹ng lesson 0 exercise",
+    X4: "Speaking bank / needsNotes cáº§n note",
     X5: "lessonTopicHints claim sai",
-    X6: "Notes cũ vs Daily mới lệch vocab",
+    X6: "Notes cÅ© vs Daily má»›i lá»‡ch vocab",
     X7: "Misplaced block",
     X8: "Topic key drift / extra"
   };
   for (const code of Object.keys(legend)) {
     const arr = byCode[code] || [];
-    lines.push(`### ${code} — ${legend[code]} (${arr.length})\n`);
-    if (!arr.length) { lines.push(`_Sạch._\n`); continue; }
+    lines.push(`### ${code} â€” ${legend[code]} (${arr.length})\n`);
+    if (!arr.length) { lines.push(`_Sáº¡ch._\n`); continue; }
     arr.sort((a, b) => a.severity.localeCompare(b.severity));
     for (const f of arr) {
       lines.push(`- **[${f.severity}]** _(lesson: ${f.lessonKey})_ ${f.desc}`);
@@ -453,7 +454,7 @@ if (!findings.length) {
 }
 
 lines.push(`## Pedagogical assessment (per lesson)\n`);
-lines.push(`_Đánh giá thủ công sẽ được bổ sung sau khi review coverage matrix. Below là tự động flag ngắn._\n`);
+lines.push(`_ÄÃ¡nh giÃ¡ thá»§ cÃ´ng sáº½ Ä‘Æ°á»£c bá»• sung sau khi review coverage matrix. Below lÃ  tá»± Ä‘á»™ng flag ngáº¯n._\n`);
 for (const row of rows) {
   const hasNotes = row.notesForLesson.length > 0;
   const hasBlocks = Object.keys(row.blocksByTopic).length > 0;
@@ -463,14 +464,14 @@ for (const row of rows) {
   for (const n of row.notesForLesson) if (n.topicGuess) notesCover.add(n.topicGuess);
   const missing = coreTopics.filter((t) => !notesCover.has(t));
   const flagsMini = [];
-  if (!hasNotes) flagsMini.push("**thiếu note**");
-  if (!hasBlocks) flagsMini.push("**thiếu study blocks**");
-  if (!hasQuestions) flagsMini.push("**thiếu exercises**");
-  if (missing.length) flagsMini.push(`note không cover core: ${missing.join(", ")}`);
-  lines.push(`- **${row.lessonKey}**: ${flagsMini.length ? flagsMini.join("; ") : "arc đầy đủ (notes + blocks + exercises)"}`);
+  if (!hasNotes) flagsMini.push("**thiáº¿u note**");
+  if (!hasBlocks) flagsMini.push("**thiáº¿u study blocks**");
+  if (!hasQuestions) flagsMini.push("**thiáº¿u exercises**");
+  if (missing.length) flagsMini.push(`note khÃ´ng cover core: ${missing.join(", ")}`);
+  lines.push(`- **${row.lessonKey}**: ${flagsMini.length ? flagsMini.join("; ") : "arc Ä‘áº§y Ä‘á»§ (notes + blocks + exercises)"}`);
 }
 lines.push("");
 
 writeFileSync(join(notesDir, "audit-3-curriculum-map.md"), lines.join("\n"), "utf8");
-console.log(`Wrote notes/audit-3-curriculum-map.md — ${findings.length} findings.`);
+console.log(`Wrote notes/audit-3-curriculum-map.md â€” ${findings.length} findings.`);
 console.log(`Severity: CRITICAL=${sevCount.CRITICAL}, HIGH=${sevCount.HIGH}, MEDIUM=${sevCount.MEDIUM}, LOW=${sevCount.LOW}`);

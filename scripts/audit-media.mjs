@@ -1,4 +1,4 @@
-// scripts/audit-media.mjs — Phase 1 media integrity audit (throwaway/dev tool)
+﻿// scripts/audit-media.mjs â€” Phase 1 media integrity audit (throwaway/dev tool)
 //
 // Scans every source/daily/lesson-XX/ for:
 //   M1  duplicate audio localFile within a lesson's audio/manifest.json
@@ -17,9 +17,9 @@ import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const ROOT = dirname(dirname(fileURLToPath(import.meta.url)));
-const SRC = join(ROOT, "source");
-const DAILY = join(SRC, "daily");
-const AUDIO_ROOT = join(ROOT, "audio", "daily");
+const COURSE = join(ROOT, "courses", "pre-ielts");
+const DAILY = join(COURSE, "daily", "lessons");
+const AUDIO_ROOT = join(COURSE, "daily", "audio");
 
 function readJson(p, fallback) {
   return existsSync(p) ? JSON.parse(readFileSync(p, "utf8")) : fallback;
@@ -35,7 +35,7 @@ function stripHtml(html) {
     .trim();
 }
 
-const topics = readJson(join(DAILY, "topics-map.json"), {});
+const topics = readJson(join(COURSE, "notes", "enrich", "topics-map.json"), {});
 const noteKeywords = topics.noteKeywords || {};
 const lessonTopicHints = topics.lessonTopicHints || {};
 const topicLabels = topics.topicLabels || {};
@@ -128,8 +128,8 @@ for (const lessonKey of lessonDirs) {
   for (const [localFile, ids] of audioLocalCount) {
     if (ids.length > 1) {
       addFinding(lessonKey, "HIGH", `source/daily/${lessonKey}/audio/manifest.json`,
-        `Cùng \`localFile\` \`${localFile}\` được ${ids.length} audioId reference: ${ids.join(", ")}.`,
-        `Giữ 1 audioId canonical, remap các block audioRefs sang canonical rồi xoá entries thừa trong manifest.`,
+        `CÃ¹ng \`localFile\` \`${localFile}\` Ä‘Æ°á»£c ${ids.length} audioId reference: ${ids.join(", ")}.`,
+        `Giá»¯ 1 audioId canonical, remap cÃ¡c block audioRefs sang canonical rá»“i xoÃ¡ entries thá»«a trong manifest.`,
         "M1");
     }
   }
@@ -164,11 +164,11 @@ for (const lessonKey of lessonDirs) {
     const inBlock = audioLocalFilesReferencedByBlocks.has(f);
     if (!inManifest) {
       addFinding(lessonKey, "MEDIUM", `audio/daily/${lessonKey}/${f}`,
-        `File audio orphan (không có entry trong \`audio/manifest.json\`).`,
-        `Thêm entry manifest (id + sourceUrl + script) HOẶC xoá file để dọn thư mục.`,
+        `File audio orphan (khÃ´ng cÃ³ entry trong \`audio/manifest.json\`).`,
+        `ThÃªm entry manifest (id + sourceUrl + script) HOáº¶C xoÃ¡ file Ä‘á»ƒ dá»n thÆ° má»¥c.`,
         "M3");
     } else if (!inBlock) {
-      // Referenced by manifest but no content block cites it — this is fine (used by exercises?
+      // Referenced by manifest but no content block cites it â€” this is fine (used by exercises?
       // We ignore this to avoid false positives; exercises can also carry audioRefs.)
     }
   }
@@ -184,8 +184,8 @@ for (const lessonKey of lessonDirs) {
   for (const f of imageFilesOnDisk) {
     if (!imageLocalFilesInManifest.has(f)) {
       addFinding(lessonKey, "MEDIUM", `source/daily/${lessonKey}/images/${f}`,
-        `File ảnh orphan (không có entry trong \`images/manifest.json\`).`,
-        `Thêm entry manifest (url + localFile + alt) HOẶC xoá file để dọn thư mục.`,
+        `File áº£nh orphan (khÃ´ng cÃ³ entry trong \`images/manifest.json\`).`,
+        `ThÃªm entry manifest (url + localFile + alt) HOáº¶C xoÃ¡ file Ä‘á»ƒ dá»n thÆ° má»¥c.`,
         "M4");
     }
   }
@@ -200,16 +200,16 @@ for (const lessonKey of lessonDirs) {
   for (const [lf, urls] of imgLocalCount) {
     if (urls.length > 1) {
       addFinding(lessonKey, "MEDIUM", `source/daily/${lessonKey}/images/manifest.json`,
-        `Cùng \`localFile\` \`${lf}\` trong ${urls.length} entry (URLs khác nhau).`,
-        `Gộp thành 1 entry hoặc đảm bảo mỗi ảnh có localFile riêng.`,
+        `CÃ¹ng \`localFile\` \`${lf}\` trong ${urls.length} entry (URLs khÃ¡c nhau).`,
+        `Gá»™p thÃ nh 1 entry hoáº·c Ä‘áº£m báº£o má»—i áº£nh cÃ³ localFile riÃªng.`,
         "M5");
     }
   }
   for (const [u, lfs] of imgUrlCount) {
     if (lfs.length > 1) {
       addFinding(lessonKey, "MEDIUM", `source/daily/${lessonKey}/images/manifest.json`,
-        `Cùng \`url\` \`${u}\` trong ${lfs.length} entry.`,
-        `Gộp thành 1 entry canonical.`,
+        `CÃ¹ng \`url\` \`${u}\` trong ${lfs.length} entry.`,
+        `Gá»™p thÃ nh 1 entry canonical.`,
         "M5");
     }
   }
@@ -223,7 +223,7 @@ for (const lessonKey of lessonDirs) {
     const combined = [scriptText, ...(a.scriptAlternatives || [])].join(" \n ");
     const hits = topicsInText(combined);
     if (!hits.size) continue;
-    // Only care about grammar/pronunciation/vocabulary topics — speaking topics like "job",
+    // Only care about grammar/pronunciation/vocabulary topics â€” speaking topics like "job",
     // "family" appear in example sentences everywhere and aren't a misplacement signal.
     const structural = [...hits].filter((t) => {
       const sk = (topicLabels[t] || {}).skill;
@@ -237,11 +237,11 @@ for (const lessonKey of lessonDirs) {
     if (!stronglyElsewhere.length) continue;
     const alternates = stronglyElsewhere.map((t) => {
       const homes = lessonsForTopic(t).filter((l) => l.key !== lessonKey);
-      return `${t} → ${homes.map((h) => h.key + (h.isCore ? "(core)" : "")).join("/")}`;
+      return `${t} â†’ ${homes.map((h) => h.key + (h.isCore ? "(core)" : "")).join("/")}`;
     }).join("; ");
     addFinding(lessonKey, "LOW", `source/daily/${lessonKey}/audio/manifest.json (audio ${a.id})`,
-      `Script "${scriptText.slice(0, 80)}${scriptText.length > 80 ? "…" : ""}" chứa topic keyword ngoài lesson hint (${alternates}).`,
-      `Verify: script có thật sự dạy topic khác không. Nếu chỉ ví dụ ngẫu nhiên, bỏ qua; nếu là bài misplaced thì move audio + rewrite manifest.`,
+      `Script "${scriptText.slice(0, 80)}${scriptText.length > 80 ? "â€¦" : ""}" chá»©a topic keyword ngoÃ i lesson hint (${alternates}).`,
+      `Verify: script cÃ³ tháº­t sá»± dáº¡y topic khÃ¡c khÃ´ng. Náº¿u chá»‰ vÃ­ dá»¥ ngáº«u nhiÃªn, bá» qua; náº¿u lÃ  bÃ i misplaced thÃ¬ move audio + rewrite manifest.`,
       "M6");
   }
 
@@ -260,11 +260,11 @@ for (const lessonKey of lessonDirs) {
     if (!stronglyElsewhere.length) continue;
     const alternates = stronglyElsewhere.map((t) => {
       const homes = lessonsForTopic(t).filter((l) => l.key !== lessonKey);
-      return `${t} → ${homes.map((h) => h.key + (h.isCore ? "(core)" : "")).join("/")}`;
+      return `${t} â†’ ${homes.map((h) => h.key + (h.isCore ? "(core)" : "")).join("/")}`;
     }).join("; ");
     addFinding(lessonKey, "LOW", `source/daily/${lessonKey}/images/manifest.json (img url=${i.url})`,
-      `Block chứa ảnh (${refs.map((r) => r.blockId).join(",")}) có text gợi topic ngoài hint của lesson (${alternates}).`,
-      `Verify: có phải ảnh nên nằm ở lesson khác? Nếu không, cần blockOverride hoặc note tay để tránh tag review.`,
+      `Block chá»©a áº£nh (${refs.map((r) => r.blockId).join(",")}) cÃ³ text gá»£i topic ngoÃ i hint cá»§a lesson (${alternates}).`,
+      `Verify: cÃ³ pháº£i áº£nh nÃªn náº±m á»Ÿ lesson khÃ¡c? Náº¿u khÃ´ng, cáº§n blockOverride hoáº·c note tay Ä‘á»ƒ trÃ¡nh tag review.`,
       "M7");
   }
 
@@ -285,8 +285,8 @@ for (const [url, lessonSet] of seenSourceUrls.audio) {
     // Flag on the FIRST lesson (arbitrary; keeps report grouped) but reference all lessons.
     const primary = lessons.sort()[0];
     addFinding(primary, "LOW", `audio manifest`,
-      `sourceUrl \`${url}\` xuất hiện trong ${lessons.length} lesson: ${lessons.join(", ")}.`,
-      `Verify có phải chia sẻ intentional (VD icon speaker) không; nếu là bài tập, chuyển về 1 lesson gốc và link cross-lesson qua ID.`,
+      `sourceUrl \`${url}\` xuáº¥t hiá»‡n trong ${lessons.length} lesson: ${lessons.join(", ")}.`,
+      `Verify cÃ³ pháº£i chia sáº» intentional (VD icon speaker) khÃ´ng; náº¿u lÃ  bÃ i táº­p, chuyá»ƒn vá» 1 lesson gá»‘c vÃ  link cross-lesson qua ID.`,
       "M2");
   }
 }
@@ -295,14 +295,15 @@ for (const [url, lessonSet] of seenSourceUrls.image) {
     const lessons = [...lessonSet];
     const primary = lessons.sort()[0];
     addFinding(primary, "LOW", `image manifest`,
-      `image url \`${url}\` xuất hiện trong ${lessons.length} lesson: ${lessons.join(", ")}.`,
-      `Verify có phải chia sẻ intentional không; nếu không, dedupe.`,
+      `image url \`${url}\` xuáº¥t hiá»‡n trong ${lessons.length} lesson: ${lessons.join(", ")}.`,
+      `Verify cÃ³ pháº£i chia sáº» intentional khÃ´ng; náº¿u khÃ´ng, dedupe.`,
       "M2");
   }
 }
 
 // ---- Emit report ----
-const notesDir = join(ROOT, "notes");
+// Reports are tooling output, not course content — keep them out of courses/.
+  const notesDir = join(ROOT, "reports");
 if (!existsSync(notesDir)) mkdirSync(notesDir, { recursive: true });
 
 const bySeverity = { CRITICAL: 0, HIGH: 0, MEDIUM: 0, LOW: 0 };
@@ -317,49 +318,49 @@ for (const arr of Object.values(findings)) {
 }
 
 const lines = [];
-lines.push(`# Phase 1 — Media Integrity Audit\n`);
-lines.push(`_Generated by \`scripts/audit-media.mjs\`. Đọc-only, chưa chỉnh sửa source._\n`);
+lines.push(`# Phase 1 â€” Media Integrity Audit\n`);
+lines.push(`_Generated by \`scripts/audit-media.mjs\`. Äá»c-only, chÆ°a chá»‰nh sá»­a source._\n`);
 
 // TL;DR
 lines.push(`## TL;DR (verdict)\n`);
-lines.push(`- **Structural integrity: SẠCH.** 0 findings ở tầng M1–M5 (không duplicate manifest entries, không orphan binary, không cross-lesson media reuse).`);
-lines.push(`- **Topic-heuristic (M6/M7): mọi finding LOW là false positive từ example sentences.** Nguyên nhân: \`noteKeywords\` trong \`topics-map.json\` có keyword broad như \`"going to"\`, \`"future"\`, \`"past"\`, \`"present"\`, \`"do"\`... match ngay cả trong câu ví dụ ("going to the library", "I do the housework"). Đây là known issue được ghi trong \`AGENTS.md\` Roadmap ("Fine-tune per-question topic tagging").`);
-lines.push(`- **Hành động Phase 2:** không có structural fix nào cần làm. Vấn đề tagging noise sẽ được xử lý trong Phase 7 (taxonomy tightening) bằng cách:`);
-lines.push(`  1. Rút gọn \`noteKeywords\` — bỏ hoặc scope hẹp các key single-word (\`"do"\`, \`"past"\`, \`"future"\`, \`"present"\`, \`"will"\`).`);
-lines.push(`  2. Thêm \`blockOverrides\` cho những assignment block bị flag để chặn tag \`review\` sai.`);
+lines.push(`- **Structural integrity: Sáº CH.** 0 findings á»Ÿ táº§ng M1â€“M5 (khÃ´ng duplicate manifest entries, khÃ´ng orphan binary, khÃ´ng cross-lesson media reuse).`);
+lines.push(`- **Topic-heuristic (M6/M7): má»i finding LOW lÃ  false positive tá»« example sentences.** NguyÃªn nhÃ¢n: \`noteKeywords\` trong \`topics-map.json\` cÃ³ keyword broad nhÆ° \`"going to"\`, \`"future"\`, \`"past"\`, \`"present"\`, \`"do"\`... match ngay cáº£ trong cÃ¢u vÃ­ dá»¥ ("going to the library", "I do the housework"). ÄÃ¢y lÃ  known issue Ä‘Æ°á»£c ghi trong \`AGENTS.md\` Roadmap ("Fine-tune per-question topic tagging").`);
+lines.push(`- **HÃ nh Ä‘á»™ng Phase 2:** khÃ´ng cÃ³ structural fix nÃ o cáº§n lÃ m. Váº¥n Ä‘á» tagging noise sáº½ Ä‘Æ°á»£c xá»­ lÃ½ trong Phase 7 (taxonomy tightening) báº±ng cÃ¡ch:`);
+lines.push(`  1. RÃºt gá»n \`noteKeywords\` â€” bá» hoáº·c scope háº¹p cÃ¡c key single-word (\`"do"\`, \`"past"\`, \`"future"\`, \`"present"\`, \`"will"\`).`);
+lines.push(`  2. ThÃªm \`blockOverrides\` cho nhá»¯ng assignment block bá»‹ flag Ä‘á»ƒ cháº·n tag \`review\` sai.`);
 lines.push("");
-lines.push(`## Tổng quan\n`);
-lines.push(`- Lessons quét: **${lessonDirs.length}** (${lessonDirs.join(", ")})`);
-lines.push(`- Tổng findings: **${total}**`);
+lines.push(`## Tá»•ng quan\n`);
+lines.push(`- Lessons quÃ©t: **${lessonDirs.length}** (${lessonDirs.join(", ")})`);
+lines.push(`- Tá»•ng findings: **${total}**`);
 lines.push(`  - CRITICAL: ${bySeverity.CRITICAL || 0}`);
 lines.push(`  - HIGH: ${bySeverity.HIGH || 0}`);
 lines.push(`  - MEDIUM: ${bySeverity.MEDIUM || 0}`);
 lines.push(`  - LOW: ${bySeverity.LOW || 0}`);
-lines.push(`- Theo loại:`);
+lines.push(`- Theo loáº¡i:`);
 for (const k of ["M1", "M2", "M3", "M4", "M5", "M6", "M7"]) {
   lines.push(`  - ${k}: ${byType[k] || 0}`);
 }
 lines.push("");
-lines.push(`### Legend loại`);
+lines.push(`### Legend loáº¡i`);
 lines.push(`- **M1** duplicate audio \`localFile\` trong 1 lesson`);
-lines.push(`- **M2** \`sourceUrl\`/\`url\` dùng ở nhiều lesson (cần verify)`);
-lines.push(`- **M3** file audio orphan (trên disk, không manifest)`);
-lines.push(`- **M4** file image orphan (trên disk, không manifest)`);
+lines.push(`- **M2** \`sourceUrl\`/\`url\` dÃ¹ng á»Ÿ nhiá»u lesson (cáº§n verify)`);
+lines.push(`- **M3** file audio orphan (trÃªn disk, khÃ´ng manifest)`);
+lines.push(`- **M4** file image orphan (trÃªn disk, khÃ´ng manifest)`);
 lines.push(`- **M5** duplicate entry trong image manifest`);
-lines.push(`- **M6** audio script gợi topic ngoài lesson hints (khả năng misplaced)`);
-lines.push(`- **M7** image ở trong block có text gợi topic ngoài lesson hints`);
+lines.push(`- **M6** audio script gá»£i topic ngoÃ i lesson hints (kháº£ nÄƒng misplaced)`);
+lines.push(`- **M7** image á»Ÿ trong block cÃ³ text gá»£i topic ngoÃ i lesson hints`);
 lines.push("");
 lines.push(`## Coverage per lesson\n`);
 for (const s of perLessonSummary) {
-  lines.push(`- **${s.lessonKey}**: ${s.audios} audio entries, ${s.images} image entries, ${s.audioFilesOnDisk} mp3 files, ${s.imageFilesOnDisk} image files → ${s.findings} findings`);
+  lines.push(`- **${s.lessonKey}**: ${s.audios} audio entries, ${s.images} image entries, ${s.audioFilesOnDisk} mp3 files, ${s.imageFilesOnDisk} image files â†’ ${s.findings} findings`);
 }
 lines.push("");
 lines.push(`## Findings\n`);
 for (const lessonKey of lessonDirs) {
   const arr = findings[lessonKey] || [];
-  lines.push(`### ${lessonKey} — ${arr.length} findings\n`);
+  lines.push(`### ${lessonKey} â€” ${arr.length} findings\n`);
   if (!arr.length) {
-    lines.push(`_Sạch._\n`);
+    lines.push(`_Sáº¡ch._\n`);
     continue;
   }
   arr.sort((a, b) => {
@@ -377,6 +378,6 @@ for (const lessonKey of lessonDirs) {
 
 const out = lines.join("\n");
 writeFileSync(join(notesDir, "audit-1-media.md"), out, "utf8");
-console.log(`Wrote notes/audit-1-media.md — ${total} findings across ${lessonDirs.length} lessons.`);
+console.log(`Wrote notes/audit-1-media.md â€” ${total} findings across ${lessonDirs.length} lessons.`);
 console.log(`Severity: CRITICAL=${bySeverity.CRITICAL || 0}, HIGH=${bySeverity.HIGH || 0}, MEDIUM=${bySeverity.MEDIUM || 0}, LOW=${bySeverity.LOW || 0}`);
 console.log(`Type: ${Object.entries(byType).map(([k, v]) => `${k}=${v}`).join(", ")}`);
