@@ -14,7 +14,7 @@ Ngoài ra: `scripts/` (audit/import/download).
 
 **Scope hiện tại**: 2 khóa.
 - `pre-ielts` — Notes + 20 daily sets (L1-19 + `lesson-misc`) + Final Practice generator + Final packet giáo viên.
-- `ifa-ielts` (IELTS Foundation A) — 12 daily challenge (L1-6 + break) + **Speaking Part 1**: 7 handout khung trả lời + ngân hàng 13 lesson cho luyện phản xạ.
+- `ifa-ielts` (IELTS Foundation A) — 12 daily challenge (L1-6 + break) + **Speaking Part 1**: 7 handout khung trả lời + ngân hàng 13 lesson cho luyện phản xạ + **Từ vựng lật thẻ** (211 thẻ dẫn xuất runtime từ vocab của handout, không thêm bước build).
 
 > **Multi-course**: `preprocess.mjs` đọc `pre-ielts` qua hằng `COURSE_ID`, và đọc thêm `ifa-ielts` qua `IFA_COURSE_ID` (chỉ phần Speaking, emit module độc lập `src/data/ifa-speaking.ts`). Điều hướng chia nhóm theo khóa trong `NAV_GROUPS` ([1-code/next/src/lib/nav.ts](1-code/next/src/lib/nav.ts)). Chưa có course switcher / URL segment theo khóa / namespace localStorage theo khóa — làm sau nếu cần.
 
@@ -22,7 +22,9 @@ Ngoài ra: `scripts/` (audit/import/download).
 1. HTML handout gốc (artifact của giáo viên) đặt ở `courses/ifa-ielts/source/speaking/` — **gitignored** (`courses/*/source/`), chỉ dùng để trích.
 2. `node scripts/parse-ifa-speaking.mjs` → sinh `courses/ifa-ielts/notes/enrich/speaking-handouts.json` + `speaking-bank.json` (JSON sạch, **không mang HTML/CSS/JS**).
 3. `preprocess.mjs` đọc 2 file JSON đó → `1-code/next/src/data/ifa-speaking.ts`. Thiếu file thì degrade về mảng rỗng, không vỡ build `pre-ielts`.
-4. UI: [IfaSpeakingPage](1-code/next/src/pages/IfaSpeakingPage.tsx) (ghép câu) + [IfaSpeakingDrillPage](1-code/next/src/pages/IfaSpeakingDrillPage.tsx) (luyện phản xạ).
+4. UI: [IfaSpeakingPage](1-code/next/src/pages/IfaSpeakingPage.tsx) (ghép câu) + [IfaSpeakingDrillPage](1-code/next/src/pages/IfaSpeakingDrillPage.tsx) (luyện phản xạ) + [IfaVocabPage](1-code/next/src/pages/IfaVocabPage.tsx) (lật thẻ).
+
+> **Từ vựng lật thẻ**: [1-code/next/src/lib/ifa-vocab.ts](1-code/next/src/lib/ifa-vocab.ts) gộp `IfaSpeakingQuestion.vocab` của mọi handout thành thẻ duy nhất theo `term` chuẩn hoá (233 mục → 211 thẻ; 1 thẻ có thể thuộc nhiều chủ đề). **Dẫn xuất ở runtime, không đụng `preprocess.mjs`** — thêm handout mới là số thẻ tự tăng. Tiến độ ở `stores/flashcard.ts` (`ifa-vocab-progress`).
 
 > Thêm lesson Speaking mới: thả HTML vào `source/speaking/`, chạy lại `parse-ifa-speaking.mjs`, restart dev. Parser tự nhận file mới; UI render số slot động nên lesson dùng 4 slot vẫn chạy. **Không đặt regex bóc chuỗi hiển thị trong UI** — parser phải sinh sẵn `topicLabel` / `audience` / `grammarFocus`.
 
@@ -92,7 +94,7 @@ Mỗi lesson một folder `courses/<id>/daily/lessons/lesson-XX/`:
 - **Asset serving**: [1-code/next/scripts/vite-plugin-assets.mjs](1-code/next/scripts/vite-plugin-assets.mjs). URL trình duyệt giữ ổn định (`/audio/*` ← `courses/<id>/notes/audio`, `/audio/daily/*` ← `courses/<id>/daily/audio`, `/source/daily/*/images/*` ← `courses/<id>/daily/lessons`, `/final/google-doc-pre-course/*` ← `courses/<id>/final`). Build copy sang `1-code/next/dist/`.
 - **Types**: [1-code/next/src/types/content.ts](1-code/next/src/types/content.ts) — Question, Block, Lesson, TopicRef, Preset, FinalPacket...
 - **Router**: HashRouter → `/#/daily/lesson-01`.
-- **State (Zustand)**: `data.ts` (selector), `practice.ts` (session), `history.ts` (`ielts-practice-history`), `flashcard.ts` (`ielts-flashcard-progress`), `progress.ts` (`ielts-final-progress`), `theme.ts` (`ielts-theme`), `ui.ts` (search + menu).
+- **State (Zustand)**: `data.ts` (selector), `practice.ts` (session), `history.ts` (`ielts-practice-history`), `progress.ts` (`ielts-final-progress`), `theme.ts` (`ielts-theme`), `voice.ts` (`ielts-voice-prefs`), `ui.ts` (search + menu, `ielts-sidebar-collapsed`), `ifa-speaking.ts` (`ifa-speaking-answers`), `flashcard.ts` (`ifa-vocab-progress`).
 - **Grading**: [1-code/next/src/lib/grading.ts](1-code/next/src/lib/grading.ts).
 - **Sampling**: [1-code/next/src/lib/sample-pool.ts](1-code/next/src/lib/sample-pool.ts) — seeded Mulberry32.
 - **Markdown**: [1-code/next/src/lib/markdown.ts](1-code/next/src/lib/markdown.ts) — mdToHtml (hỗ trợ ảnh + link) → `dangerouslySetInnerHTML`.
@@ -115,6 +117,10 @@ node scripts/audit-media.mjs
 node scripts/audit-curriculum.mjs
 node scripts/audit-data.mjs
 ```
+
+Ba script trên đọc `courses/pre-ielts/{daily/lessons,notes}` và ghi báo cáo ra `reports/` (đã gitignore — là output công cụ, KHÔNG phải nội dung khóa học, không được ghi vào `courses/`).
+
+> ⚠️ Các script import/one-off còn lại trong `scripts/` (`audit-daily-review`, `download-daily-*`, `extract-daily-attachments`, `import-langgo-content-export`, `normalize-contractions`, `normalize-daily-lessons`, `split-daily-raw`) vẫn hardcode đường dẫn `source/daily` của cấu trúc cũ → **chạy là crash**. Sửa sang `courses/<id>/daily/lessons` trước khi dùng lại.
 
 Không có test / lint / CI ngoài GH Pages deploy (`.github/workflows/deploy.yml`).
 
@@ -181,5 +187,5 @@ Nhưng Chrome vẫn gắn cờ cả 30 ảnh `loading="lazy"`. Đã loại trừ
 
 **5. Multi-course mới làm một nửa.**
 Có: `NAV_GROUPS` chia nhóm theo khóa, `IFA_COURSE_ID` riêng, `localStorage` key riêng cho Speaking IFA (`ifa-speaking-answers`).
-Chưa có: course switcher, URL segment theo khóa (`/ifa/...`), namespace `localStorage` theo khóa cho phần dùng chung (`ielts-practice-history`, `ielts-flashcard-progress`...).
+Chưa có: course switcher, URL segment theo khóa (`/ifa/...`), namespace `localStorage` theo khóa cho phần dùng chung (`ielts-practice-history`, `ielts-final-progress`...).
 → Nếu sau này khóa thứ 3 dùng lại Practice/Flashcard thì tiến độ sẽ đè lên nhau.

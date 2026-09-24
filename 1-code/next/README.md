@@ -49,10 +49,12 @@ Trong Settings → Pages, chọn source **"GitHub Actions"**.
   - `data.ts` — read-only wrapper cho generated data.
   - `practice.ts` — current session + sessionStorage.
   - `history.ts` — max 50 entries + localStorage persist.
-  - `flashcard.ts` — Leitner box per scope + localStorage persist.
+  - `flashcard.ts` — tiến độ lật thẻ từ vựng IFA (`ifa-vocab-progress`): mỗi thẻ `known | learning` + số lần gặp.
   - `progress.ts` — Final Review checklist.
   - `theme.ts` — dark/light/system.
   - `ui.ts` — search + mobile menu.
+  - `voice.ts` — giọng đọc + tốc độ TTS.
+  - `ifa-speaking.ts` — câu trả lời đã lưu ở trang Khung trả lời IFA.
 - **Grading**: [src/lib/grading.ts](src/lib/grading.ts) — port `gradeSession`.
 - **Sampling**: [src/lib/sample-pool.ts](src/lib/sample-pool.ts) — port `samplePool` (seeded random + largest-remainder).
 - **Markdown**: [src/lib/markdown.ts](src/lib/markdown.ts) — port `mdToHtml`, dùng `dangerouslySetInnerHTML`.
