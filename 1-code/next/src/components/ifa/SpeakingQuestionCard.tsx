@@ -1,5 +1,6 @@
 import { useState } from "react"
-import { Volume2, Check, RotateCcw, Save, Lightbulb } from "lucide-react"
+import { Link } from "react-router-dom"
+import { Volume2, Check, RotateCcw, Save, Lightbulb, Layers } from "lucide-react"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { cn } from "@/lib/utils"
@@ -144,7 +145,7 @@ export function SpeakingQuestionCard({ handoutId, questionIndex, question }: Pro
         )}
 
         {/* Answer frame — the hero. Solid brand block so it never reads as a panel. */}
-        <div className="sticky top-2 z-20 overflow-hidden rounded-xl bg-primary text-primary-foreground shadow-lift">
+        <div className="sticky top-4 z-20 overflow-hidden rounded-xl bg-primary text-primary-foreground shadow-lift">
           <div className="flex items-center justify-between gap-2 border-b border-white/15 px-4 py-2">
             <p className="text-[11px] font-bold uppercase tracking-[0.12em] text-primary-foreground/80">
               Câu của bạn
@@ -249,14 +250,22 @@ export function SpeakingQuestionCard({ handoutId, questionIndex, question }: Pro
         {/* Vocabulary */}
         {question.vocab.length > 0 && (
           <section className="space-y-2">
-            <SectionLabel>Từ vựng chủ đề</SectionLabel>
+            <div className="flex items-center justify-between gap-2">
+              <SectionLabel>Từ vựng chủ đề</SectionLabel>
+              <Link
+                to="/vocab-ifa"
+                className="inline-flex items-center gap-1 text-xs font-semibold text-primary hover:underline"
+              >
+                <Layers className="size-3.5" /> Ôn bằng thẻ
+              </Link>
+            </div>
             <ul className="divide-y divide-border overflow-hidden rounded-xl border border-border">
               {question.vocab.map((v, i) => (
                 <li
                   key={i}
-                  className="flex items-start gap-3 p-3 transition-colors hover:bg-muted/40 sm:grid sm:grid-cols-[minmax(0,1.1fr)_3.5rem_minmax(0,0.9fr)_minmax(0,1.1fr)_2rem] sm:items-baseline"
+                  className="flex items-start gap-3 p-3 transition-colors hover:bg-muted/40 xl:grid xl:grid-cols-[minmax(0,1.1fr)_3.5rem_minmax(0,0.9fr)_minmax(0,1.1fr)_2rem] xl:items-baseline"
                 >
-                  <div className="min-w-0 flex-1 sm:contents">
+                  <div className="min-w-0 flex-1 xl:contents">
                     <span className="content-en block text-[15px] font-bold">{v.term}</span>
                     {v.pos && (
                       <span className="mt-0.5 block text-[11px] uppercase tracking-wide text-muted-foreground">

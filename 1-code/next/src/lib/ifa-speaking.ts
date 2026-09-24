@@ -7,17 +7,32 @@ export function getHandout(id: string): IfaHandout | undefined {
   return ifaSpeakingHandouts.find((h) => h.id === id)
 }
 
-/** Group handouts by lesson number for a tidy picker. */
-export function handoutsByLesson(): { lesson: number | null; handouts: IfaHandout[] }[] {
-  const map = new Map<number | null, IfaHandout[]>()
+/** One entry per topic; audience splits (e.g. Study) collapse into `variants`. */
+export interface IfaTopicGroup {
+  key: string
+  lesson: number | null
+  topicLabel: string
+  variants: IfaHandout[]
+}
+
+/**
+ * Topics for the picker. A lesson split by learner type yields a single topic
+ * whose `variants` are rendered as tabs, so the picker length tracks the number
+ * of lessons rather than the number of handouts.
+ */
+export function handoutTopics(): IfaTopicGroup[] {
+  const map = new Map<string, IfaTopicGroup>()
   for (const h of ifaSpeakingHandouts) {
-    const arr = map.get(h.lesson) ?? []
-    arr.push(h)
-    map.set(h.lesson, arr)
+    const key = `${h.lesson ?? "x"}::${h.topicLabel}`
+    const existing = map.get(key)
+    if (existing) existing.variants.push(h)
+    else map.set(key, { key, lesson: h.lesson, topicLabel: h.topicLabel, variants: [h] })
   }
-  return [...map.entries()]
-    .sort((a, b) => (a[0] ?? 999) - (b[0] ?? 999))
-    .map(([lesson, handouts]) => ({ lesson, handouts }))
+  return [...map.values()].sort((a, b) => (a.lesson ?? 999) - (b.lesson ?? 999))
+}
+
+export function findTopicOfHandout(handoutId: string): IfaTopicGroup | undefined {
+  return handoutTopics().find((t) => t.variants.some((h) => h.id === handoutId))
 }
 
 /** Distinct slot numbers referenced by a structure, in ascending order. */
