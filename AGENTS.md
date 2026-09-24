@@ -156,3 +156,30 @@ Không có test / lint / CI ngoài GH Pages deploy (`.github/workflows/deploy.ym
 - [x] Xoá vanilla legacy (`web/` + `build.mjs` + `index.html` + `dist/` cũ) — đã gỡ.
 - [ ] Fuse.js fuzzy search cross-page (M9 skip).
 - [ ] Prereq badge trên Daily card + "Giáo viên nói gì" section trong Topic detail (cần schema migration).
+
+### Tồn đọng sau đợt thêm khóa `ifa-ielts`
+
+**1. Daily `ifa-ielts` đã commit nhưng app CHƯA dùng** — ưu tiên cao nhất.
+`courses/ifa-ielts/daily/` có 12 challenge (Lesson 1-6 + `lesson-misc`), 94 audio, 18 ảnh, ~31.8 MB.
+Nhưng `preprocess.mjs` chỉ đọc `IFA_ENRICH` (`notes/enrich`) — **không đọc `daily/`**, và `App.tsx` không có route `/daily` cho bất kỳ khóa nào.
+→ Dữ liệu nằm chết trong repo. Cần: mở rộng preprocess đọc `courses/<id>/daily/lessons`, thêm `vite-plugin-assets` map `/audio/daily/ifa/*` + `/source/daily/ifa/*/images/*`, tạo page + route.
+
+**2. Thiếu handout Speaking cho Lesson 7-16.**
+Handout ghép câu hiện có Lesson **2-6** (7 handout, 37 câu).
+Ngân hàng luyện phản xạ đã phủ Lesson **2,3,4,5,6,7,8,9,10,11,13,14,16**.
+→ Thiếu handout cho **7, 8, 9, 10, 11, 13, 14, 16**. Thêm bằng cách thả HTML vào `courses/ifa-ielts/source/speaking/` rồi chạy lại `parse-ifa-speaking.mjs` (parser tự nhận file mới).
+
+**3. Slide PPTX Lesson 1-10 chưa lấy được.**
+Drive: `1PlFaY3a-XGo8HkhXHAc46XE-j2Nfv9zw`. Tổ chức chặn tải file lớn ở phiên ẩn danh (`uc?export=download` trả "Can't download file"), fetch trong tab bị CORS.
+Text từng slide **có** render trong DOM preview nên trích được, nhưng tốn thời gian và slide ảnh (vd Lesson 1 trang 12-16) không có text layer.
+→ Cách chắc nhất: đăng nhập tài khoản có quyền rồi tải thủ công vào `courses/ifa-ielts/source/slides/` (đã gitignore), sau đó trích.
+
+**4. 30 cảnh báo `LazyLoadImageIssue` ở `/grammar` — chưa rõ nguyên nhân.**
+Đã sửa phần gây hại thật: ảnh nay có `width`/`height` đo lúc build (`src/data/image-sizes.ts`, 42 ảnh) nên không còn layout shift.
+Nhưng Chrome vẫn gắn cờ cả 30 ảnh `loading="lazy"`. Đã loại trừ: thiếu kích thước, ảnh trong container ẩn, ảnh above-the-fold. Issue object Chrome trả về **không có trường lý do**.
+→ Cần mở tab Issues trong DevTools thật để đọc mô tả đầy đủ. Đây là *cảnh báo*, không phải lỗi.
+
+**5. Multi-course mới làm một nửa.**
+Có: `NAV_GROUPS` chia nhóm theo khóa, `IFA_COURSE_ID` riêng, `localStorage` key riêng cho Speaking IFA (`ifa-speaking-answers`).
+Chưa có: course switcher, URL segment theo khóa (`/ifa/...`), namespace `localStorage` theo khóa cho phần dùng chung (`ielts-practice-history`, `ielts-flashcard-progress`...).
+→ Nếu sau này khóa thứ 3 dùng lại Practice/Flashcard thì tiến độ sẽ đè lên nhau.
