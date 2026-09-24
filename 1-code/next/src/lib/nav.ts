@@ -1,5 +1,5 @@
 import type { LucideIcon } from "lucide-react"
-import { Volume2, Rows, MessageSquare, GraduationCap, Mic, Shuffle } from "lucide-react"
+import { Volume2, Rows, MessageSquare, GraduationCap, Mic, Shuffle, Layers } from "lucide-react"
 
 export interface NavItem {
   to: string
@@ -35,6 +35,7 @@ export const NAV_GROUPS: NavGroup[] = [
     label: "IELTS Foundation A",
     items: [
       { to: "/speaking-ifa", label: "Speaking", icon: Mic, badge: "IFA", eyebrow: "IELTS Foundation A · Speaking", title: "Speaking — IELTS Foundation A", subtitle: "Khung trả lời theo chủ đề + luyện phản xạ" },
+      { to: "/vocab-ifa", label: "Từ vựng", icon: Layers, badge: "IFA", eyebrow: "IELTS Foundation A · Từ vựng", title: "Từ vựng — lật thẻ", subtitle: "Ôn bằng thẻ hai mặt, theo chủ đề Speaking" },
     ],
   },
 ]
