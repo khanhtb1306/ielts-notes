@@ -6,7 +6,7 @@ import { cn } from "@/lib/utils"
 
 const SAMPLE = "I usually go shopping at the weekend."
 
-export function VoicePicker({ className }: { className?: string }) {
+export function VoicePicker({ className, stacked = false }: { className?: string; stacked?: boolean }) {
   const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([])
   const { voiceName, rate, setVoiceName, setRate } = useVoice()
 
@@ -30,16 +30,20 @@ export function VoicePicker({ className }: { className?: string }) {
   const auto = preferredVoiceName(voices)
   const active = voiceName || auto
 
+  // `stacked` fits a narrow popover; the inline form stays for wide toolbars.
   return (
-    <div className={cn("flex flex-wrap items-center gap-2 text-xs", className)}>
-      <label className="flex items-center gap-1.5" htmlFor="tts-voice">
+    <div className={cn(stacked ? "space-y-3 text-xs" : "flex flex-wrap items-center gap-2 text-xs", className)}>
+      <label className={cn(stacked ? "block space-y-1" : "flex items-center gap-1.5")} htmlFor="tts-voice">
         <span className="font-semibold text-muted-foreground">Giọng</span>
         <select
           id="tts-voice"
           name="tts-voice"
           value={voiceName}
           onChange={(e) => setVoiceName(e.target.value)}
-          className="max-w-[190px] truncate rounded-lg border border-input bg-background px-2 py-1.5 font-medium outline-none focus-visible:ring-2 focus-visible:ring-ring"
+          className={cn(
+            "truncate rounded-lg border border-input bg-background px-2 py-1.5 font-medium outline-none focus-visible:ring-2 focus-visible:ring-ring",
+            stacked ? "w-full" : "max-w-[190px]"
+          )}
         >
           <option value="">Tự động{auto ? ` — ${auto}` : ""}</option>
           {voices.map((v) => (
@@ -50,9 +54,9 @@ export function VoicePicker({ className }: { className?: string }) {
         </select>
       </label>
 
-      <div className="flex items-center gap-1">
-        <span className="font-semibold text-muted-foreground">Tốc độ</span>
-        <div className="flex overflow-hidden rounded-lg border border-input">
+      <div className={cn(stacked ? "space-y-1" : "flex items-center gap-1")}>
+        <span className="block font-semibold text-muted-foreground">Tốc độ</span>
+        <div className={cn("flex overflow-hidden rounded-lg border border-input", stacked && "w-full")}>
           {RATE_OPTIONS.map((o) => (
             <button
               key={o.value}
@@ -60,6 +64,7 @@ export function VoicePicker({ className }: { className?: string }) {
               onClick={() => setRate(o.value)}
               className={cn(
                 "px-2.5 py-1.5 font-medium transition-colors",
+                stacked && "flex-1",
                 rate === o.value ? "bg-primary text-primary-foreground" : "hover:bg-accent"
               )}
             >
@@ -72,7 +77,10 @@ export function VoicePicker({ className }: { className?: string }) {
       <button
         type="button"
         onClick={() => speak(SAMPLE, active, rate)}
-        className="inline-flex items-center gap-1.5 rounded-lg border border-input px-2.5 py-1.5 font-medium transition-colors hover:bg-accent"
+        className={cn(
+          "inline-flex items-center justify-center gap-1.5 rounded-lg border border-input px-2.5 py-1.5 font-medium transition-colors hover:bg-accent",
+          stacked && "w-full"
+        )}
       >
         <Volume2 className="size-3.5" /> Nghe thử
       </button>
