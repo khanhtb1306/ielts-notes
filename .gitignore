@@ -12,3 +12,6 @@ dist/*
 
 # Private speaking answers — không commit lên GitHub
 my-speaking-answers.json
+
+# Source course files used only during extraction (web-ready derivatives belong in courses/)
+courses/*/source/
