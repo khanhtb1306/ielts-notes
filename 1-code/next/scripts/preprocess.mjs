@@ -29,6 +29,12 @@ const DAILY_DIR = join(COURSE_ROOT, "daily", "lessons")
 const OUT = join(NEXT_ROOT, "src", "data")
 const FINAL_PACKET_ROOT = join(COURSE_ROOT, "final", "google-doc-pre-course")
 
+// Secondary course: IFA Speaking data lives under courses/ifa-ielts. It is emitted
+// as a standalone data module and never mixed into the Pre-IELTS pipeline. Missing
+// files degrade gracefully to empty arrays so the Pre-IELTS build never breaks.
+const IFA_COURSE_ID = "ifa-ielts"
+const IFA_ENRICH = join(REPO_ROOT, "courses", IFA_COURSE_ID, "notes", "enrich")
+
 const FINAL_SHEET_META = {
   "Lesson 7 - Job.docx": { topic: "Work and study", focus: "dream job, job likes/dislikes, family job" },
   "Lesson 8 - Appearance.docx": { topic: "Appearance", focus: "age, height/build, hair, clothes" },
@@ -1417,6 +1423,81 @@ function makeVerbSet(n) {
 }
 
 /* -------------------- Main -------------------- */
+/* -------------------- Image intrinsic sizes -------------------- */
+
+/** Read width/height straight from PNG/JPEG headers (no dependency needed). */
+function readImageSize(file) {
+  let buf
+  try {
+    buf = readFileSync(file)
+  } catch {
+    return null
+  }
+  // PNG: 8-byte signature, then IHDR with width/height as big-endian uint32.
+  if (buf.length > 24 && buf.readUInt32BE(0) === 0x89504e47) {
+    return { w: buf.readUInt32BE(16), h: buf.readUInt32BE(20) }
+  }
+  // JPEG: walk the marker chain to the first Start-Of-Frame segment.
+  if (buf.length > 4 && buf[0] === 0xff && buf[1] === 0xd8) {
+    let i = 2
+    while (i + 9 < buf.length) {
+      if (buf[i] !== 0xff) {
+        i += 1
+        continue
+      }
+      const marker = buf[i + 1]
+      const len = buf.readUInt16BE(i + 2)
+      const isSof =
+        (marker >= 0xc0 && marker <= 0xc3) ||
+        (marker >= 0xc5 && marker <= 0xc7) ||
+        (marker >= 0xc9 && marker <= 0xcb) ||
+        (marker >= 0xcd && marker <= 0xcf)
+      if (isSof) return { h: buf.readUInt16BE(i + 5), w: buf.readUInt16BE(i + 7) }
+      i += 2 + len
+    }
+  }
+  return null
+}
+
+/** Map every packet image to its intrinsic size, keyed by the browser URL. */
+function buildImageSizes() {
+  const sizes = {}
+  const walk = (dir, urlPrefix) => {
+    if (!existsSync(dir)) return
+    for (const entry of readdirSync(dir, { withFileTypes: true })) {
+      const full = join(dir, entry.name)
+      if (entry.isDirectory()) {
+        walk(full, `${urlPrefix}/${entry.name}`)
+      } else if (/\.(png|jpe?g)$/i.test(entry.name)) {
+        const size = readImageSize(full)
+        if (size) sizes[`${urlPrefix}/${entry.name}`] = size
+      }
+    }
+  }
+  walk(FINAL_PACKET_ROOT, "/final/google-doc-pre-course")
+  return sizes
+}
+
+/* -------------------- IFA Speaking builder -------------------- */
+function buildIfaSpeaking() {
+  const readIfa = (name, key) => {
+    const path = join(IFA_ENRICH, name)
+    if (!existsSync(path)) return []
+    try {
+      const parsed = JSON.parse(readFileSync(path, "utf8"))
+      const value = parsed[key]
+      return Array.isArray(value) ? value : []
+    } catch (err) {
+      console.warn(`[preprocess] Failed to read ${name}: ${err.message}`)
+      return []
+    }
+  }
+  return {
+    handouts: readIfa("speaking-handouts.json", "handouts"),
+    drills: readIfa("speaking-bank.json", "lessons"),
+  }
+}
+
 function main() {
   if (existsSync(OUT)) rmSync(OUT, { recursive: true, force: true })
   mkdirSync(OUT, { recursive: true })
@@ -1589,6 +1670,29 @@ function main() {
     HEADER +
       `import type { FinalTests } from "@/types/content"\n\n` +
       `export const finalTests: FinalTests = ${JSON.stringify(finalTests.publicData, null, 2)} as unknown as FinalTests\n`
+  )
+
+  // ---- Intrinsic image sizes so lazy-loaded images reserve space (no layout shift) ----
+  const imageSizes = buildImageSizes()
+  emit(
+    join(OUT, "image-sizes.ts"),
+    HEADER +
+      `export interface ImageSize { w: number; h: number }\n\n` +
+      `export const imageSizes: Record<string, ImageSize> = ${JSON.stringify(imageSizes, null, 2)}\n`
+  )
+  console.log(`[preprocess] Image sizes: ${Object.keys(imageSizes).length} measured.`)
+
+  // ---- IFA Speaking (secondary course, standalone module) ----
+  const ifa = buildIfaSpeaking()
+  emit(
+    join(OUT, "ifa-speaking.ts"),
+    HEADER +
+      `import type { IfaHandout, IfaDrillLesson } from "@/types/content"\n\n` +
+      `export const ifaSpeakingHandouts: IfaHandout[] = ${JSON.stringify(ifa.handouts, null, 2)} as unknown as IfaHandout[]\n\n` +
+      `export const ifaSpeakingDrills: IfaDrillLesson[] = ${JSON.stringify(ifa.drills, null, 2)} as unknown as IfaDrillLesson[]\n`
+  )
+  console.log(
+    `[preprocess] IFA Speaking: ${ifa.handouts.length} handouts, ${ifa.drills.length} drill lessons.`
   )
 
   console.log(

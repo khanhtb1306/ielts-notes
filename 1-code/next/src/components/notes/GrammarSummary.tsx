@@ -1,4 +1,5 @@
 import { useEffect, useState, type ReactNode } from "react"
+import { imageSizes } from "@/data/image-sizes"
 
 /* ------------------------------------------------------------------ */
 /* Asset helper                                                        */
@@ -8,6 +9,11 @@ const APP_BASE = (import.meta.env.BASE_URL || "/").replace(/\/?$/, "/")
 
 function finalAsset(path: string) {
   return `${APP_BASE}${`final/google-doc-pre-course/${path}`.split("/").map(encodeURIComponent).join("/")}`
+}
+
+/** Intrinsic size measured at build time — lets lazy images reserve their space. */
+function finalSize(path: string) {
+  return imageSizes[`/final/google-doc-pre-course/${path}`]
 }
 
 type Cell = ReactNode
@@ -82,7 +88,10 @@ function Figure({
           src={finalAsset(src)}
           alt={alt}
           loading="lazy"
-          className={`mx-auto w-full rounded-xl bg-white object-contain p-2 ring-1 ring-border/60 transition hover:ring-primary/50 ${figureMax[size]} ${className}`}
+          decoding="async"
+          width={finalSize(src)?.w}
+          height={finalSize(src)?.h}
+          className={`mx-auto h-auto w-full rounded-xl bg-white object-contain p-2 ring-1 ring-border/60 transition hover:ring-primary/50 ${figureMax[size]} ${className}`}
         />
       </button>
       {caption && <figcaption className="mt-2 text-sm text-muted-foreground">{caption}</figcaption>}

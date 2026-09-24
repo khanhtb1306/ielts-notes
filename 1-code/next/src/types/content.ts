@@ -322,6 +322,90 @@ export interface MetaPrinciple {
   text: string
 }
 
+/* -------------------- IFA Speaking (guided answer builder) -------------------- */
+
+export interface IfaPhrase {
+  en: string
+  ipa: string
+  vi: string
+  /** Present only when a group-2 option depends on this group-1 choice. */
+  places?: IfaPhrase[]
+}
+
+export interface IfaGroup {
+  name: string
+  vi: string
+  items: IfaPhrase[]
+}
+
+export type IfaStructPart =
+  | { type: "text"; text: string }
+  | { type: "slot"; slot: number }
+
+export interface IfaStructure {
+  parts: IfaStructPart[]
+  vi: string
+  example: string
+}
+
+export interface IfaScenario {
+  name: string
+  vi: string
+  labels: { g1: string; g2: string; g3: string }
+  g2DependsOnG1: boolean
+  g2Prompt: string
+  structs: IfaStructure[]
+  g1: IfaPhrase[]
+  g2groups: IfaGroup[]
+  g3groups: IfaGroup[]
+}
+
+export interface IfaVocab {
+  term: string
+  pos: string
+  vi: string
+  ipa: string
+}
+
+export interface IfaSpeakingQuestion {
+  title: string
+  vi: string
+  scenarios: IfaScenario[]
+  vocab: IfaVocab[]
+}
+
+export interface IfaHandout {
+  id: string
+  lesson: number | null
+  /** Display-ready topic, e.g. "Shopping". Never re-parse this in the UI. */
+  topicLabel: string
+  /** Audience variant id when a lesson is split by learner type, else null. */
+  audience: "highschool" | "university" | "working" | string | null
+  audienceLabel: string | null
+  /** Grammar focus of the lesson, e.g. "Present Simple + Past Simple". May be empty. */
+  grammarFocus: string
+  rawTopic: string
+  rawLabel: string
+  questions: IfaSpeakingQuestion[]
+}
+
+export interface IfaDrillItem {
+  topic: string
+  text: string
+}
+
+export interface IfaDrillVariant {
+  audience: string | null
+  items: IfaDrillItem[]
+}
+
+export interface IfaDrillLesson {
+  id: string
+  lesson: number | null
+  title: string
+  variants: IfaDrillVariant[]
+}
+
 export interface MetaData {
   stageTitle?: string
   stageIntro?: string

@@ -11,11 +11,19 @@ function attr(s: string): string {
   return esc(String(s == null ? "" : s))
 }
 
+import { imageSizes } from "@/data/image-sizes"
+
 const APP_BASE = (import.meta.env.BASE_URL || "/").replace(/\/?$/, "/")
 
 function assetHref(path: string): string {
   if (!path.startsWith("/final/")) return path
   return `${APP_BASE}${path.replace(/^\//, "").split("/").map(encodeURIComponent).join("/")}`
+}
+
+/** Intrinsic size attrs so lazy images reserve their space and avoid layout shift. */
+function sizeAttrs(src: string): string {
+  const size = imageSizes[src]
+  return size ? ` width="${size.w}" height="${size.h}"` : ""
 }
 
 function inline(s: string): string {
@@ -24,7 +32,7 @@ function inline(s: string): string {
     .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
     .replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (_m, alt, src) => {
       const safeSrc = attr(assetHref(src))
-      return `<img src="${safeSrc}" alt="${attr(alt)}" loading="lazy" />`
+      return `<img src="${safeSrc}" alt="${attr(alt)}" loading="lazy" decoding="async"${sizeAttrs(src)} />`
     })
     .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_m, label, href) => {
       const isExternal = /^https?:/i.test(href)
