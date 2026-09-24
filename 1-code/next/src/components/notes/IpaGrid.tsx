@@ -22,13 +22,13 @@ export function IpaGrid({ items, colorFn }: Props) {
             setTimeout(() => setPlaying(null), 900)
           }}
           className={cn(
-            "flex flex-col items-center justify-center gap-1 rounded-xl border border-border bg-card px-3 py-3 text-sm shadow-sm transition-all hover:border-primary/50 hover:shadow-md",
-            playing === s.word && "border-primary bg-primary/10"
+            "lift flex flex-col items-center justify-center gap-1 rounded-lg border border-border bg-card px-3 py-3 text-sm",
+            playing === s.word && "border-primary bg-primary-soft"
           )}
           style={{ "--tile": colorFn?.(s) } as React.CSSProperties}
         >
-          <span className="font-mono text-base tabular-nums">/{s.ipa}/</span>
-          <span className="text-muted-foreground text-xs">{s.word}</span>
+          <span className="ipa text-lg font-semibold text-primary">/{s.ipa}/</span>
+          <span className="content-en text-xs text-muted-foreground">{s.word}</span>
           <span className="text-[10px] uppercase tracking-wide text-muted-foreground">Nghe</span>
         </button>
       ))}

@@ -46,7 +46,7 @@ export function FinalPage() {
 
   return (
     <div className="space-y-6">
-      <section className="rounded-2xl border border-border bg-gradient-to-br from-emerald-500/10 via-card to-card p-6">
+      <section className="rounded-xl border border-border bg-card p-6 shadow-card">
         <Badge variant="success" className="mb-2">Kỳ thi cuối · Grammar</Badge>
         <h2 className="text-2xl font-bold">Final Test — Ngữ pháp</h2>
         <p className="mt-1 max-w-3xl text-muted-foreground">

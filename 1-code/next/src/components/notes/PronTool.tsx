@@ -48,6 +48,9 @@ export function PronTool() {
       <CardContent className="space-y-3">
         <div className="flex flex-col sm:flex-row gap-2">
           <Input
+            id="pron-word"
+            name="pron-word"
+            aria-label="Từ cần tra phát âm"
             placeholder="Ví dụ: comfortable, delicious, restaurant..."
             value={word}
             onChange={(e) => setWord(e.target.value)}
@@ -64,9 +67,11 @@ export function PronTool() {
         </div>
         <div className="flex flex-wrap items-center gap-4 text-sm">
           {voices.length > 0 && (
-            <label className="flex items-center gap-2">
+            <label className="flex items-center gap-2" htmlFor="pron-voice">
               Giọng
               <select
+                id="pron-voice"
+                name="pron-voice"
                 className="rounded-md border border-input bg-transparent px-2 py-1 text-sm"
                 value={voice}
                 onChange={(e) => setVoice(e.target.value)}
@@ -79,9 +84,11 @@ export function PronTool() {
               </select>
             </label>
           )}
-          <label className="flex items-center gap-2">
+          <label className="flex items-center gap-2" htmlFor="pron-rate">
             Tốc độ
             <input
+              id="pron-rate"
+              name="pron-rate"
               type="range"
               min={0.5}
               max={1.1}

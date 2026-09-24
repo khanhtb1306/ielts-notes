@@ -17,7 +17,7 @@ export function DocSection({ doc, audioBank }: Props) {
   const isHigh = /high/i.test(doc.priority)
   return (
     <article
-      className="rounded-xl border border-border bg-card p-6 shadow-sm scroll-mt-20 searchable"
+      className="rounded-xl border border-border bg-card p-6 shadow-card scroll-mt-20 searchable"
       id={`doc-${doc.id}`}
     >
       <div className="flex flex-wrap items-center gap-2 mb-2">

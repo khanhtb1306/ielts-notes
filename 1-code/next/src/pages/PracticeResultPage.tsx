@@ -54,7 +54,7 @@ export function PracticeResultPage() {
 
   return (
     <div className="space-y-6">
-      <div className="rounded-2xl border border-border bg-gradient-to-br from-orange-500/10 via-card to-card p-6">
+      <div className="rounded-xl border border-border bg-card p-6 shadow-card">
         <Badge variant="secondary" className="mb-2">Kết quả</Badge>
         <div className="flex items-baseline gap-3">
           <div className="text-5xl font-bold text-primary tabular-nums">{pct}%</div>
@@ -173,7 +173,7 @@ function FullPaperReview({ detail, total }: { detail: LightGradedItem[]; total: 
   }
 
   return (
-    <div className="rounded-2xl border border-border bg-card p-6 shadow-sm">
+    <div className="rounded-xl border border-border bg-card p-6 shadow-card">
       <div className="mb-5 border-b border-border pb-4">
         <h2 className="text-xl font-extrabold">GRAMMAR TEST</h2>
         <p className="mt-1 text-sm text-muted-foreground">MOCK TEST · Total: {total} questions · Time allowed: 45 minutes</p>

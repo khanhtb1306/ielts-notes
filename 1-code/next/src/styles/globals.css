@@ -4,62 +4,141 @@
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 222 47% 11%;
+    /* Page sits slightly grey so white cards lift off it. */
+    --background: 240 20% 97%;
+    --foreground: 233 27% 14%;
     --card: 0 0% 100%;
-    --card-foreground: 222 47% 11%;
+    --card-foreground: 233 27% 14%;
     --popover: 0 0% 100%;
-    --popover-foreground: 222 47% 11%;
-    --primary: 221 83% 53%;
-    --primary-foreground: 210 40% 98%;
-    --secondary: 210 40% 96%;
-    --secondary-foreground: 222 47% 11%;
-    --muted: 210 40% 96%;
-    --muted-foreground: 215 16% 47%;
-    --accent: 210 40% 96%;
-    --accent-foreground: 222 47% 11%;
-    --destructive: 0 84% 60%;
-    --destructive-foreground: 210 40% 98%;
-    --border: 214 32% 91%;
-    --input: 214 32% 91%;
-    --ring: 221 83% 53%;
-    --radius: 0.75rem;
+    --popover-foreground: 233 27% 14%;
+
+    /* Indigo. Deliberately not red: red/green/amber are reserved for grading. */
+    --primary: 243 75% 59%;
+    --primary-foreground: 0 0% 100%;
+    --primary-soft: 243 100% 97%;
+
+    --secondary: 240 20% 94%;
+    --secondary-foreground: 233 27% 14%;
+    --muted: 240 20% 95%;
+    --muted-foreground: 233 12% 45%;
+    --accent: 243 60% 96%;
+    --accent-foreground: 243 60% 32%;
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 240 16% 89%;
+    --input: 240 16% 87%;
+    --ring: 243 75% 59%;
+    --radius: 0.875rem;
+
+    /* Phrase-group hues used by the answer builder (①②③). */
+    --slot-1: 243 75% 59%;
+    --slot-2: 32 85% 44%;
+    --slot-3: 152 55% 33%;
+
+    --shadow-card: 0 1px 2px rgb(16 18 40 / 0.04), 0 6px 22px rgb(16 18 40 / 0.07);
+    --shadow-lift: 0 2px 4px rgb(16 18 40 / 0.05), 0 10px 26px rgb(16 18 40 / 0.12);
   }
 
   .dark {
-    --background: 222 47% 6%;
-    --foreground: 210 40% 98%;
-    --card: 222 47% 9%;
-    --card-foreground: 210 40% 98%;
-    --popover: 222 47% 9%;
-    --popover-foreground: 210 40% 98%;
-    --primary: 217 91% 60%;
-    --primary-foreground: 222 47% 11%;
-    --secondary: 217 33% 17%;
-    --secondary-foreground: 210 40% 98%;
-    --muted: 217 33% 17%;
-    --muted-foreground: 215 20% 65%;
-    --accent: 217 33% 17%;
-    --accent-foreground: 210 40% 98%;
-    --destructive: 0 63% 31%;
-    --destructive-foreground: 210 40% 98%;
-    --border: 217 33% 17%;
-    --input: 217 33% 17%;
-    --ring: 224 76% 48%;
+    /* Wider card/background separation than the default so surfaces read as layers. */
+    --background: 235 30% 8%;
+    --foreground: 240 20% 96%;
+    --card: 235 26% 13%;
+    --card-foreground: 240 20% 96%;
+    --popover: 235 26% 13%;
+    --popover-foreground: 240 20% 96%;
+
+    --primary: 243 85% 72%;
+    --primary-foreground: 235 40% 12%;
+    --primary-soft: 243 40% 20%;
+
+    --secondary: 235 22% 20%;
+    --secondary-foreground: 240 20% 96%;
+    --muted: 235 22% 19%;
+    --muted-foreground: 240 12% 68%;
+    --accent: 243 35% 24%;
+    --accent-foreground: 243 90% 88%;
+    --destructive: 0 72% 60%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 235 20% 24%;
+    --input: 235 20% 28%;
+    --ring: 243 85% 72%;
+
+    --slot-1: 243 85% 72%;
+    --slot-2: 32 90% 60%;
+    --slot-3: 152 50% 55%;
+
+    --shadow-card: 0 1px 2px rgb(0 0 0 / 0.3), 0 6px 22px rgb(0 0 0 / 0.35);
+    --shadow-lift: 0 2px 4px rgb(0 0 0 / 0.35), 0 10px 26px rgb(0 0 0 / 0.5);
   }
 }
 
 @layer base {
+  :root {
+    /* Be Vietnam Pro carries Vietnamese diacritics well; Noto Serif gives the
+       English study content a distinct "reading" voice. */
+    --font-sans: "Be Vietnam Pro", ui-sans-serif, system-ui, "Segoe UI", Roboto, sans-serif;
+    --font-serif: "Noto Serif", Georgia, "Times New Roman", serif;
+    /* IPA glyphs (ˈ ː ə ʃ ʊ θ) are missing from many UI fonts; give them an
+       explicit stack so they never fall back glyph-by-glyph. */
+    --font-ipa: "Charis SIL", "Doulos SIL", "Gentium Plus", "Noto Serif", "Segoe UI", serif;
+  }
+
   * {
     @apply border-border;
+  }
+  html {
+    font-family: var(--font-sans);
   }
   body {
     @apply bg-background text-foreground;
     font-feature-settings: "rlig" 1, "calt" 1;
     -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
   }
   code {
     @apply font-mono text-[0.88em] px-1.5 py-0.5 rounded bg-muted text-destructive;
+  }
+}
+
+@layer components {
+  /* Phonetic transcription — consistent everywhere (chips, vocab, IPA grid). */
+  .ipa {
+    font-family: var(--font-ipa);
+    font-feature-settings: normal;
+    letter-spacing: 0.01em;
+    font-variant-ligatures: none;
+    /* Wrap between words but never mid-symbol, and never widen a flex/grid track. */
+    overflow-wrap: break-word;
+    min-width: 0;
+  }
+
+  /* English study content reads in serif to separate it from Vietnamese UI text. */
+  .content-en {
+    font-family: var(--font-serif);
+  }
+
+  .shadow-card {
+    box-shadow: var(--shadow-card);
+  }
+  .shadow-lift {
+    box-shadow: var(--shadow-lift);
+  }
+  /* Chips/cards that should feel physically pressable. */
+  .lift {
+    transition:
+      transform 0.16s ease,
+      box-shadow 0.16s ease,
+      border-color 0.16s ease;
+  }
+  .lift:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-lift);
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .lift:hover {
+      transform: none;
+    }
   }
 }
 

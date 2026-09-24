@@ -9,9 +9,10 @@ export function TopBar() {
   const nav = findNavForPath(location.pathname)
   const setMobileMenuOpen = useUi((s) => s.setMobileMenuOpen)
 
-  const eyebrow = nav?.eyebrow || "Pre-IELTS · Lesson 1–16 + Final"
-  const title = nav?.title || "Pre-IELTS Notes"
-  const subtitle = nav?.subtitle || ""
+  const isHome = location.pathname === "/"
+  const eyebrow = nav?.eyebrow || (isHome ? "Pre-IELTS · IELTS Foundation A" : "IELTS Ôn tập")
+  const title = nav?.title || (isHome ? "Trang chủ" : "IELTS Ôn tập")
+  const subtitle = nav?.subtitle || (isHome ? "Ngữ pháp · Phát âm · Speaking · Final Test" : "")
 
   return (
     <header className="flex flex-col gap-1 pb-6 border-b border-border">

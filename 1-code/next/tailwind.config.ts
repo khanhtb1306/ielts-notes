@@ -49,15 +49,27 @@ const config: Config = {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        "primary-soft": "hsl(var(--primary-soft))",
+        // Phrase-group hues for the answer builder.
+        slot1: "hsl(var(--slot-1))",
+        slot2: "hsl(var(--slot-2))",
+        slot3: "hsl(var(--slot-3))",
       },
       borderRadius: {
+        xl: "calc(var(--radius) + 4px)",
         lg: "var(--radius)",
         md: "calc(var(--radius) - 2px)",
         sm: "calc(var(--radius) - 4px)",
       },
       fontFamily: {
-        sans: ["Inter", "ui-sans-serif", "system-ui", "sans-serif"],
+        sans: ["Be Vietnam Pro", "ui-sans-serif", "system-ui", "Segoe UI", "Roboto", "sans-serif"],
+        serif: ["Noto Serif", "Georgia", "Times New Roman", "serif"],
         mono: ["JetBrains Mono", "ui-monospace", "monospace"],
+      },
+      fontSize: {
+        // Study-content scale: English phrases must out-rank UI chrome.
+        phrase: ["1.0625rem", { lineHeight: "1.45", fontWeight: "700" }],
+        sentence: ["1.375rem", { lineHeight: "1.6", fontWeight: "700" }],
       },
     },
   },

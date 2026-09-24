@@ -55,7 +55,7 @@ export function NotesPage({ type }: Props) {
   return (
     <div className="space-y-6">
       {type === "pronunciation" && (
-        <div className="rounded-2xl border border-border bg-gradient-to-br from-primary/10 via-card to-card p-6">
+        <div className="rounded-xl border border-border bg-card p-6 shadow-card">
           <div className="text-[11px] font-bold uppercase tracking-widest text-primary">Lesson 1–5</div>
           <h2 className="mt-1 text-2xl font-bold">{LABEL[type]}</h2>
           {sub && <p className="text-muted-foreground mt-1">{sub}</p>}
