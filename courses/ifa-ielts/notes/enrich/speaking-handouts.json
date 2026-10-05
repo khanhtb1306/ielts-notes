@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T09:40:05.388Z",
+  "generatedAt": "2026-10-05T04:20:01.704Z",
   "handouts": [
     {
       "id": "dc2",
@@ -11232,6 +11232,4932 @@
               "pos": "v",
               "vi": "hồi phục",
               "ipa": "/rɪˈkʌvə/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dc7",
+      "lesson": 7,
+      "topicLabel": "Friends & Relations",
+      "audience": null,
+      "audienceLabel": null,
+      "grammarFocus": "Passive Voice",
+      "rawTopic": "FRIENDS & RELATIONS — DAILY CHALLENGE",
+      "rawLabel": "DC Lesson 7 — Passive Voice · FRIENDS & RELATIONS",
+      "questions": [
+        {
+          "title": "1. Do you get on well with your siblings/friends?",
+          "vi": "Bạn có hòa thuận với anh chị em / bạn bè không?",
+          "scenarios": [
+            {
+              "name": "Có (Yes)",
+              "vi": "",
+              "labels": {
+                "g1": "Quan hệ tốt",
+                "g2": "Điểm chung / lý do",
+                "g3": "Ý mở rộng"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "Yes, I do. We are "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". This is because "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Besides, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Có. Chúng tôi... Vì... Bên cạnh đó...",
+                  "example": "Yes, I do. We are on good terms. This is because we've got such similar personalities and so much in common. Besides, we always trust and respect each other's opinions."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "Yes, definitely. We "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". The main reason is that "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". What's more, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Có, chắc chắn. Chúng tôi... Lý do chính là... Hơn nữa...",
+                  "example": "Yes, definitely. We have a good relationship. The main reason is that we were good friends from the beginning because we were into the same things. What's more, we really enjoy each other's company."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "on good terms",
+                  "ipa": "/ɒn ɡʊd tɜːmz/",
+                  "vi": "hòa thuận"
+                },
+                {
+                  "en": "have a good relationship",
+                  "ipa": "/rɪˈleɪʃnʃɪp/",
+                  "vi": "có mối quan hệ tốt"
+                },
+                {
+                  "en": "always agree with each other",
+                  "ipa": "/əˈɡriː/",
+                  "vi": "luôn đồng tình với nhau"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Điểm chung / lý do",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "we've got such similar personalities and so much in common",
+                      "ipa": "/pɜːsəˈnælətiz/",
+                      "vi": "tính cách giống nhau, nhiều điểm chung"
+                    },
+                    {
+                      "en": "we were good friends from the beginning because we were into the same things",
+                      "ipa": "/bɪˈɡɪnɪŋ/",
+                      "vi": "thân từ đầu vì cùng sở thích"
+                    },
+                    {
+                      "en": "we always trust and respect each other's opinions",
+                      "ipa": "/trʌst ənd rɪˈspekt/",
+                      "vi": "luôn tin tưởng, tôn trọng ý kiến của nhau"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Ý mở rộng",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "we really enjoy each other's company",
+                      "ipa": "/ˈkʌmpəni/",
+                      "vi": "rất thích ở cạnh nhau"
+                    },
+                    {
+                      "en": "we help each other through all the ups and downs in life",
+                      "ipa": "/ʌps ənd daʊnz/",
+                      "vi": "giúp nhau qua thăng trầm cuộc sống"
+                    },
+                    {
+                      "en": "sometimes we fall out, but we make up very quickly",
+                      "ipa": "/fɔːl aʊt/",
+                      "vi": "đôi lúc bất đồng nhưng làm hòa nhanh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Không (No)",
+              "vi": "",
+              "labels": {
+                "g1": "Quan hệ chưa tốt",
+                "g2": "Lý do",
+                "g3": "Chi tiết thêm"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "No, not really. We "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". This is because "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Also, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Không hẳn. Chúng tôi... Vì... Ngoài ra...",
+                  "example": "No, not really. We have a rocky relationship. This is because we often have an argument with each other. Also, we're still friends on Facebook but we don't really have much contact."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "Not always. We sometimes "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". This is because "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Also, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Không phải lúc nào. Chúng tôi đôi khi... Vì... Ngoài ra...",
+                  "example": "Not always. We sometimes fall out with each other. This is because he always breaks his promises and lets me down. Also, he's always jealous of my achievements."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "have a rocky relationship",
+                  "ipa": "/ˈrɒki/",
+                  "vi": "có mối quan hệ trắc trở"
+                },
+                {
+                  "en": "fall out with each other",
+                  "ipa": "/fɔːl aʊt/",
+                  "vi": "bất hòa với nhau"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Lý do",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "we often have an argument with each other",
+                      "ipa": "/ˈɑːɡjumənt/",
+                      "vi": "chúng tôi hay tranh cãi"
+                    },
+                    {
+                      "en": "he/she always breaks his/her promises and lets me down",
+                      "ipa": "/breɪks ˈprɒmɪsɪz/",
+                      "vi": "anh/cô ấy hay thất hứa, khiến tôi thất vọng"
+                    },
+                    {
+                      "en": "whenever I do something wrong, he/she tells me off",
+                      "ipa": "/telz miː ɒf/",
+                      "vi": "mỗi khi tôi làm sai, họ mắng tôi"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Chi tiết thêm",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "he/she is always jealous of my achievements",
+                      "ipa": "/ˈdʒeləs/",
+                      "vi": "họ luôn ghen tị với thành tích của tôi"
+                    },
+                    {
+                      "en": "we're still friends on Facebook but we don't really have much contact",
+                      "ipa": "/ˈkɒntækt/",
+                      "vi": "vẫn là bạn Facebook nhưng ít liên lạc"
+                    },
+                    {
+                      "en": "it makes me really upset",
+                      "ipa": "/ʌpˈset/",
+                      "vi": "điều đó khiến tôi rất buồn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "term": "to be on good terms with sb",
+              "pos": "v.phr",
+              "vi": "hòa thuận với ai",
+              "ipa": "/ɒn ɡʊd tɜːmz/"
+            },
+            {
+              "term": "to have a lot in common",
+              "pos": "v.phr",
+              "vi": "có nhiều điểm chung",
+              "ipa": "/ɪn ˈkɒmən/"
+            },
+            {
+              "term": "to fall out (with sb)",
+              "pos": "v.phr",
+              "vi": "bất hòa với ai",
+              "ipa": "/fɔːl aʊt/"
+            },
+            {
+              "term": "to make up",
+              "pos": "v.phr",
+              "vi": "làm hòa",
+              "ipa": "/meɪk ʌp/"
+            },
+            {
+              "term": "to have a rocky relationship",
+              "pos": "v.phr",
+              "vi": "quan hệ trắc trở",
+              "ipa": "/ˈrɒki rɪˈleɪʃnʃɪp/"
+            },
+            {
+              "term": "to be jealous of sth/sb",
+              "pos": "v.phr",
+              "vi": "ghen tị với",
+              "ipa": "/ˈdʒeləs əv/"
+            },
+            {
+              "term": "a casual acquaintance",
+              "pos": "n.phr",
+              "vi": "người quen xã giao",
+              "ipa": "/ə ˈkæʒuəl əˈkweɪntəns/"
+            },
+            {
+              "term": "to ask sb for advice",
+              "pos": "v.phr",
+              "vi": "xin lời khuyên từ ai",
+              "ipa": "/ɑːsk fɔː ədˈvaɪs/"
+            },
+            {
+              "term": "to tell sb off",
+              "pos": "v.phr",
+              "vi": "mắng ai",
+              "ipa": "/tel ɒf/"
+            },
+            {
+              "term": "to break a promise / let sb down",
+              "pos": "v.phr",
+              "vi": "thất hứa / làm ai thất vọng",
+              "ipa": "/breɪk ə ˈprɒmɪs/"
+            }
+          ]
+        },
+        {
+          "title": "2. Do you live in a big family?",
+          "vi": "Bạn có sống trong gia đình lớn không?",
+          "scenarios": [
+            {
+              "name": "Đại gia đình",
+              "vi": "extended family",
+              "labels": {
+                "g1": "Loại gia đình",
+                "g2": "Thành viên",
+                "g3": "Cảm nhận"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "Yes, I do. I come from "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ", including my "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Có. Tôi thuộc..., gồm... ...",
+                  "example": "Yes, I do. I come from an extended family, including my grandparents, parents, and siblings. They always help me through ups and downs in life."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "Yes, I was born and raised in "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ", including my "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Có, tôi được sinh ra và lớn lên trong..., gồm... ...",
+                  "example": "Yes, I was born and raised in an extended family, including my aunts and uncles. I always get support from my family whenever I'm in trouble."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "an extended family",
+                  "ipa": "/ɪkˈstendɪd ˈfæməli/",
+                  "vi": "gia đình từ 3 thế hệ trở lên"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Thành viên",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "grandparents, parents, and siblings",
+                      "ipa": "/ˈɡrænperənts/",
+                      "vi": "ông bà, bố mẹ, anh chị em"
+                    },
+                    {
+                      "en": "aunts and uncles",
+                      "ipa": "/ɑːnts ənd ˈʌŋklz/",
+                      "vi": "cô dì chú bác"
+                    },
+                    {
+                      "en": "cousins living with us",
+                      "ipa": "/ˈkʌznz/",
+                      "vi": "anh chị em họ sống cùng"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Cảm nhận",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "they always help me through ups and downs in life",
+                      "ipa": "/ʌps ənd daʊnz/",
+                      "vi": "họ luôn giúp tôi qua thăng trầm"
+                    },
+                    {
+                      "en": "I always get support from my family whenever I'm in trouble",
+                      "ipa": "/səˈpɔːt/",
+                      "vi": "tôi luôn được gia đình hỗ trợ khi khó khăn"
+                    },
+                    {
+                      "en": "they always stand by me and take care of me",
+                      "ipa": "/stænd baɪ/",
+                      "vi": "họ luôn sát cánh, chăm sóc tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Gia đình nhỏ",
+              "vi": "nuclear family",
+              "labels": {
+                "g1": "Loại gia đình",
+                "g2": "Thành viên",
+                "g3": "Cảm nhận"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "No, not really. I come from "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ", including my "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Không hẳn. Tôi thuộc..., gồm... ...",
+                  "example": "No, not really. I come from a nuclear family, including my parents and my sister. They always stand by me and take care of me."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "No, I was born and raised in "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ", including my "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Không, tôi sinh ra và lớn lên trong..., gồm... ...",
+                  "example": "No, I was born and raised in a nuclear family, including my parents and my brother. I always get support from my family whenever I'm in trouble."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "a nuclear family",
+                  "ipa": "/ˈnjuːkliə ˈfæməli/",
+                  "vi": "gia đình 2 thế hệ (bố mẹ, con cái)"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Thành viên",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "my parents and my sister",
+                      "ipa": "/ˈperənts/",
+                      "vi": "bố mẹ và chị/em gái"
+                    },
+                    {
+                      "en": "my parents and my brother",
+                      "ipa": "/ˈbrʌðə/",
+                      "vi": "bố mẹ và anh/em trai"
+                    },
+                    {
+                      "en": "just my parents and me",
+                      "ipa": "/dʒʌst/",
+                      "vi": "chỉ bố mẹ và tôi"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Cảm nhận",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "they always stand by me and take care of me",
+                      "ipa": "/stænd baɪ/",
+                      "vi": "họ luôn sát cánh, chăm sóc tôi"
+                    },
+                    {
+                      "en": "I always get support from my family whenever I'm in trouble",
+                      "ipa": "/səˈpɔːt/",
+                      "vi": "tôi luôn được gia đình hỗ trợ khi khó khăn"
+                    },
+                    {
+                      "en": "they always help me through challenges in life",
+                      "ipa": "/ˈtʃælɪndʒɪz/",
+                      "vi": "họ luôn giúp tôi vượt qua thử thách"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "term": "an extended family",
+              "pos": "n.phr",
+              "vi": "gia đình lớn (3 thế hệ trở lên)",
+              "ipa": "/ɪkˈstendɪd ˈfæməli/"
+            },
+            {
+              "term": "a nuclear family",
+              "pos": "n.phr",
+              "vi": "gia đình hạt nhân (2 thế hệ)",
+              "ipa": "/ˈnjuːkliə ˈfæməli/"
+            },
+            {
+              "term": "to be born and raised/bred in",
+              "pos": "v.phr",
+              "vi": "được sinh ra và lớn lên ở",
+              "ipa": "/bɔːn ənd reɪzd/"
+            },
+            {
+              "term": "to stand by sb",
+              "pos": "v.phr",
+              "vi": "sát cánh cùng ai",
+              "ipa": "/stænd baɪ/"
+            },
+            {
+              "term": "to get support from sb",
+              "pos": "v.phr",
+              "vi": "được ai hỗ trợ",
+              "ipa": "/ɡet səˈpɔːt frəm/"
+            }
+          ]
+        },
+        {
+          "title": "3. Have you been in a relationship before?",
+          "vi": "Bạn đã từng có mối quan hệ tình cảm chưa?",
+          "scenarios": [
+            {
+              "name": "Có (Yes)",
+              "vi": "",
+              "labels": {
+                "g1": "Thông tin chung (hoàn thành)",
+                "g2": "Điểm chung / ấn tượng",
+                "g3": "Cảm nhận"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "Yes, I have. I've been in a relationship with my "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": " for two years. "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Có. Tôi đã yêu... được 2 năm. ... ...",
+                  "example": "Yes, I have. I've been in a relationship with my boyfriend for two years. We've got such similar personalities and so much in common. I'm grateful for his company."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "Yes, I used to be in a relationship. "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Có, tôi từng có mối quan hệ. ... ... ...",
+                  "example": "Yes, I used to be in a relationship. I can remember all the details of when we met. I knew she was special from the beginning. It was love at first sight."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "boyfriend",
+                  "ipa": "/ˈbɔɪfrend/",
+                  "vi": "bạn trai"
+                },
+                {
+                  "en": "girlfriend",
+                  "ipa": "/ˈɡɜːlfrend/",
+                  "vi": "bạn gái"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Điểm chung / ấn tượng",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "we've got such similar personalities and so much in common",
+                      "ipa": "/pɜːsəˈnælətiz/",
+                      "vi": "tính cách giống nhau, nhiều điểm chung"
+                    },
+                    {
+                      "en": "I can remember all the details of when we met",
+                      "ipa": "/ˈdiːteɪlz/",
+                      "vi": "tôi nhớ hết chi tiết lúc gặp nhau"
+                    },
+                    {
+                      "en": "I knew he/she was special from the beginning",
+                      "ipa": "/ˈspeʃl/",
+                      "vi": "tôi biết người ấy đặc biệt ngay từ đầu"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Cảm nhận",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "I'm grateful for his/her company",
+                      "ipa": "/ˈɡreɪtfl/",
+                      "vi": "tôi biết ơn vì có họ bên cạnh"
+                    },
+                    {
+                      "en": "it was love at first sight",
+                      "ipa": "/lʌv ət fɜːst saɪt/",
+                      "vi": "đó là tình yêu từ cái nhìn đầu tiên"
+                    },
+                    {
+                      "en": "I admire him/her for always working so hard",
+                      "ipa": "/ədˈmaɪə/",
+                      "vi": "tôi ngưỡng mộ họ vì luôn chăm chỉ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Không (No)",
+              "vi": "",
+              "labels": {
+                "g1": "Tình trạng hiện tại",
+                "g2": "Lý do",
+                "g3": "Ý mở rộng"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "No, I haven't. I've been single for a while. "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Chưa. Tôi đã độc thân một thời gian. ... ... ...",
+                  "example": "No, I haven't. I've been single for a while. I'm way too young to strike up a romantic relationship with anyone. I still need to focus on studying and get good grades at school."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "No, not yet. "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Chưa. ... ... ...",
+                  "example": "No, not yet. My main concern is to pursue a successful career, so I don't have time for dating. I used to have a crush on someone, but it didn't work out."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "I'm way too young to strike up a romantic relationship with anyone",
+                  "ipa": "/streɪk ʌp/",
+                  "vi": "tôi còn quá trẻ để yêu ai"
+                },
+                {
+                  "en": "my main concern is to pursue a successful career",
+                  "ipa": "/pəˈsjuː/",
+                  "vi": "ưu tiên của tôi là theo đuổi sự nghiệp"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Lý do",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "I still need to focus on studying and get good grades at school",
+                      "ipa": "/ɡreɪdz/",
+                      "vi": "tôi cần tập trung học và đạt điểm tốt"
+                    },
+                    {
+                      "en": "so I don't have time for dating",
+                      "ipa": "/ˈdeɪtɪŋ/",
+                      "vi": "nên tôi không có thời gian hẹn hò"
+                    },
+                    {
+                      "en": "it's really hard for me to have feelings for anyone since I'm kind of an introvert",
+                      "ipa": "/ˈɪntrəvɜːt/",
+                      "vi": "khó có tình cảm với ai vì tôi khá hướng nội"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Ý mở rộng",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "I used to have a crush on someone, but it didn't work out",
+                      "ipa": "/krʌʃ ɒn/",
+                      "vi": "từng cảm nắng ai đó nhưng không thành"
+                    },
+                    {
+                      "en": "I guess I would need to come out of my shell in the future",
+                      "ipa": "/ʃel/",
+                      "vi": "chắc tôi sẽ cần cởi mở hơn trong tương lai"
+                    },
+                    {
+                      "en": "I'm not in a hurry to find a partner",
+                      "ipa": "/ə ˈhʌri/",
+                      "vi": "tôi không vội tìm bạn đời"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "term": "to be in a relationship",
+              "pos": "v.phr",
+              "vi": "đang trong một mối quan hệ",
+              "ipa": "/ə rɪˈleɪʃnʃɪp/"
+            },
+            {
+              "term": "love at first sight",
+              "pos": "n.phr",
+              "vi": "tình yêu từ cái nhìn đầu tiên",
+              "ipa": "/lʌv ət fɜːst saɪt/"
+            },
+            {
+              "term": "to have a crush on sb",
+              "pos": "v.phr",
+              "vi": "cảm nắng ai",
+              "ipa": "/hæv ə krʌʃ ɒn/"
+            },
+            {
+              "term": "to strike up a relationship",
+              "pos": "v.phr",
+              "vi": "bắt đầu một mối quan hệ",
+              "ipa": "/streɪk ʌp/"
+            },
+            {
+              "term": "to pursue a career",
+              "pos": "v.phr",
+              "vi": "theo đuổi sự nghiệp",
+              "ipa": "/pəˈsjuː ə kəˈrɪə/"
+            },
+            {
+              "term": "an introvert",
+              "pos": "n",
+              "vi": "người hướng nội",
+              "ipa": "/ˈɪntrəvɜːt/"
+            },
+            {
+              "term": "to come out of one's shell",
+              "pos": "v.phr",
+              "vi": "trở nên cởi mở hơn",
+              "ipa": "/kʌm aʊt əv wʌnz ʃel/"
+            }
+          ]
+        },
+        {
+          "title": "4. Are you more similar to your mother or your father?",
+          "vi": "Bạn giống mẹ hay giống bố hơn?",
+          "scenarios": [
+            {
+              "name": "Trả lời",
+              "vi": "",
+              "labels": {
+                "g1": "Giống ai + về mặt nào",
+                "g2": "Lý do (tính cách)",
+                "g3": "Kết quả / cảm nghĩ"
+              },
+              "g2DependsOnG1": true,
+              "g2Prompt": "Chọn mẹ hoặc bố ở ① trước, lý do phù hợp (her/him) sẽ hiện ra.",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "When it comes to personality, I take after "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". This is because "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". As a result, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Về tính cách, tôi giống... Vì... Kết quả là...",
+                  "example": "When it comes to personality, I take after my mother. This is because she is always calm and patient. As a result, I often ask her for advice."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "When it comes to appearance, I look like "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". This is because "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". As a result, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Về ngoại hình, tôi giống... Vì... Kết quả là...",
+                  "example": "When it comes to appearance, I look like my father. This is because we have the same eyes and smile. As a result, people always say I remind them of him."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "my mother",
+                  "ipa": "/ˈmʌðə/",
+                  "vi": "mẹ tôi",
+                  "places": [
+                    {
+                      "en": "she is always calm and patient",
+                      "ipa": "/kɑːm ənd ˈpeɪʃnt/",
+                      "vi": "mẹ luôn bình tĩnh, kiên nhẫn"
+                    },
+                    {
+                      "en": "she is hard-working and caring",
+                      "ipa": "/ˈkeərɪŋ/",
+                      "vi": "mẹ chăm chỉ và quan tâm"
+                    }
+                  ]
+                },
+                {
+                  "en": "my father",
+                  "ipa": "/ˈfɑːðə/",
+                  "vi": "bố tôi",
+                  "places": [
+                    {
+                      "en": "he is very patient and kind",
+                      "ipa": "/ˈpeɪʃnt/",
+                      "vi": "bố rất kiên nhẫn, tốt bụng"
+                    },
+                    {
+                      "en": "he never gives up on anything",
+                      "ipa": "/ɡɪv ʌp/",
+                      "vi": "bố không bao giờ bỏ cuộc"
+                    }
+                  ]
+                }
+              ],
+              "g2groups": [],
+              "g3groups": [
+                {
+                  "name": "Kết quả / cảm nghĩ",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "I often ask her for advice when I need to make decisions",
+                      "ipa": "/ədˈvaɪs/",
+                      "vi": "tôi hay hỏi ý kiến mẹ khi cần quyết định"
+                    },
+                    {
+                      "en": "people always say I remind them of him",
+                      "ipa": "/rɪˈmaɪnd/",
+                      "vi": "mọi người hay nói tôi giống bố"
+                    },
+                    {
+                      "en": "I try to behave the same way",
+                      "ipa": "/bɪˈheɪv/",
+                      "vi": "tôi cố cư xử giống vậy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "term": "to take after sb",
+              "pos": "v.phr",
+              "vi": "giống ai (tính cách)",
+              "ipa": "/teɪk ˈɑːftə/"
+            },
+            {
+              "term": "to look like sb",
+              "pos": "v.phr",
+              "vi": "giống ai (ngoại hình)",
+              "ipa": "/lʊk laɪk/"
+            },
+            {
+              "term": "to be like sb",
+              "pos": "v.phr",
+              "vi": "giống ai (tính cách)",
+              "ipa": "/biː laɪk/"
+            },
+            {
+              "term": "calm and patient",
+              "pos": "adj.phr",
+              "vi": "bình tĩnh và kiên nhẫn",
+              "ipa": "/kɑːm ənd ˈpeɪʃnt/"
+            },
+            {
+              "term": "to remind sb of sb",
+              "pos": "v.phr",
+              "vi": "làm ai nhớ đến ai",
+              "ipa": "/rɪˈmaɪnd/"
+            }
+          ]
+        },
+        {
+          "title": "5. How often do you go out with your family?",
+          "vi": "Bạn đi chơi cùng gia đình thường xuyên như thế nào?",
+          "scenarios": [
+            {
+              "name": "Thường xuyên",
+              "vi": "often",
+              "labels": {
+                "g1": "Tần suất",
+                "g2": "Hoạt động cùng gia đình",
+                "g3": "Cảm nhận"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "We go out "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". We usually "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": " together. "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Chúng tôi đi chơi... Chúng tôi thường... cùng nhau. ...",
+                  "example": "We go out on a regular basis. We usually go to restaurants together. It's a great way to bond as a family."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "To be honest, we go out "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Like for instance, we often "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Thật lòng mà nói, chúng tôi đi chơi... Ví dụ, chúng tôi thường... ...",
+                  "example": "To be honest, we go out on a daily basis. Like for instance, we often go to the park together. These moments help us feel closer to each other."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "on a regular basis",
+                  "ipa": "/ˈreɡjələ ˈbeɪsɪs/",
+                  "vi": "thường xuyên"
+                },
+                {
+                  "en": "on a daily basis",
+                  "ipa": "/ˈdeɪli ˈbeɪsɪs/",
+                  "vi": "hằng ngày"
+                },
+                {
+                  "en": "quite often",
+                  "ipa": "/kwaɪt ˈɒfn/",
+                  "vi": "khá thường xuyên"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Hoạt động cùng gia đình",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "go to restaurants",
+                      "ipa": "/ˈrestrɒnts/",
+                      "vi": "đi ăn nhà hàng"
+                    },
+                    {
+                      "en": "go to the cinema",
+                      "ipa": "/ˈsɪnəmə/",
+                      "vi": "đi xem phim"
+                    },
+                    {
+                      "en": "go to the park",
+                      "ipa": "/pɑːk/",
+                      "vi": "đi công viên"
+                    },
+                    {
+                      "en": "go on a hike",
+                      "ipa": "/haɪk/",
+                      "vi": "đi bộ đường dài, leo núi"
+                    },
+                    {
+                      "en": "go on a bike ride",
+                      "ipa": "/baɪk raɪd/",
+                      "vi": "đạp xe"
+                    },
+                    {
+                      "en": "have a picnic or a barbecue",
+                      "ipa": "/ˈpɪknɪk/",
+                      "vi": "đi picnic hoặc ăn nướng ngoài trời"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Cảm nhận",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "it's a great way to bond as a family",
+                      "ipa": "/bɒnd/",
+                      "vi": "đó là cách hay để gắn kết gia đình"
+                    },
+                    {
+                      "en": "these moments help us feel closer to each other",
+                      "ipa": "/ˈkləʊsə/",
+                      "vi": "những khoảnh khắc này giúp chúng tôi gần nhau hơn"
+                    },
+                    {
+                      "en": "it always makes me feel happy and relaxed",
+                      "ipa": "/rɪˈlækst/",
+                      "vi": "luôn khiến tôi vui vẻ, thư giãn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Ít khi",
+              "vi": "rarely",
+              "labels": {
+                "g1": "Tần suất",
+                "g2": "Hoạt động khi có thời gian",
+                "g3": "Lý do ít đi"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "We go out "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". When we do, we usually "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". This is mainly because "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Chúng tôi đi chơi... Khi đi, chúng tôi thường... Chủ yếu vì...",
+                  "example": "We go out once in a while. When we do, we usually go to the park. This is mainly because everyone in my family has a busy schedule."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "Honestly, we go out "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". When we do, we usually "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". This is mainly because "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Thật ra, chúng tôi đi chơi... Khi đi, chúng tôi thường... Chủ yếu vì...",
+                  "example": "Honestly, we go out from time to time. When we do, we usually go to restaurants. This is mainly because we don't have much free time together."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "once in a while",
+                  "ipa": "/wʌns ɪn ə waɪl/",
+                  "vi": "thỉnh thoảng"
+                },
+                {
+                  "en": "from time to time",
+                  "ipa": "/frəm taɪm tə taɪm/",
+                  "vi": "thỉnh thoảng"
+                },
+                {
+                  "en": "hardly ever",
+                  "ipa": "/ˈhɑːdli ˈevə/",
+                  "vi": "hầu như không bao giờ"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Hoạt động khi có thời gian",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "go to the park",
+                      "ipa": "/pɑːk/",
+                      "vi": "đi công viên"
+                    },
+                    {
+                      "en": "go to restaurants",
+                      "ipa": "/ˈrestrɒnts/",
+                      "vi": "đi ăn nhà hàng"
+                    },
+                    {
+                      "en": "have a picnic together",
+                      "ipa": "/ˈpɪknɪk/",
+                      "vi": "đi picnic cùng nhau"
+                    },
+                    {
+                      "en": "watch a movie at the cinema",
+                      "ipa": "/ˈmuːvi/",
+                      "vi": "đi xem phim"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Lý do ít đi",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "everyone in my family has a busy schedule",
+                      "ipa": "/ˈbɪzi ˈʃedjuːl/",
+                      "vi": "mọi người trong nhà đều bận"
+                    },
+                    {
+                      "en": "we don't have much free time together",
+                      "ipa": "/friː taɪm/",
+                      "vi": "chúng tôi không có nhiều thời gian rảnh cùng nhau"
+                    },
+                    {
+                      "en": "my parents often have to work at the weekend",
+                      "ipa": "/ˈwiːkend/",
+                      "vi": "bố mẹ tôi thường phải làm việc cuối tuần"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "term": "on a regular/daily basis",
+              "pos": "phr",
+              "vi": "thường xuyên / hằng ngày",
+              "ipa": "/ˈreɡjələ ˈbeɪsɪs/"
+            },
+            {
+              "term": "once in a while / from time to time",
+              "pos": "phr",
+              "vi": "thỉnh thoảng",
+              "ipa": "/wʌns ɪn ə waɪl/"
+            },
+            {
+              "term": "hardly ever",
+              "pos": "phr",
+              "vi": "hầu như không bao giờ",
+              "ipa": "/ˈhɑːdli ˈevə/"
+            },
+            {
+              "term": "to go on a hike / a bike ride",
+              "pos": "v.phr",
+              "vi": "đi bộ đường dài / đạp xe",
+              "ipa": "/haɪk/"
+            },
+            {
+              "term": "to have a picnic/barbecue",
+              "pos": "v.phr",
+              "vi": "đi picnic / ăn nướng ngoài trời",
+              "ipa": "/ˈpɪknɪk/"
+            },
+            {
+              "term": "to bond as a family",
+              "pos": "v.phr",
+              "vi": "gắn kết như một gia đình",
+              "ipa": "/bɒnd/"
+            },
+            {
+              "term": "quality time",
+              "pos": "n.phr",
+              "vi": "thời gian chất lượng bên nhau",
+              "ipa": "/ˈkwɒləti taɪm/"
+            }
+          ]
+        },
+        {
+          "title": "6. What do you enjoy doing with your family?",
+          "vi": "Bạn thích làm gì cùng gia đình?",
+          "scenarios": [
+            {
+              "name": "Trả lời",
+              "vi": "",
+              "labels": {
+                "g1": "Hoạt động chính",
+                "g2": "Hoạt động khác",
+                "g3": "Cảm nhận"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "When we're together, it doesn't really matter what we do. We usually "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Sometimes we also "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Khi ở bên nhau, làm gì cũng không quan trọng. Chúng tôi thường... Đôi khi chúng tôi cũng... ...",
+                  "example": "When we're together, it doesn't really matter what we do. We usually prepare and enjoy a tasty meal together. Sometimes we also go to the cinema. It's a great way to bond as a family."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "We enjoy doing a lot of things together. For example, we often "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". We also love to "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Chúng tôi thích làm nhiều thứ cùng nhau. Ví dụ, chúng tôi thường... Chúng tôi cũng thích... ...",
+                  "example": "We enjoy doing a lot of things together. For example, we often go on a bike ride. We also love to have a picnic on the weekend. These moments help us feel closer to each other."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "prepare and enjoy a tasty meal together",
+                  "ipa": "/ˈteɪsti miːl/",
+                  "vi": "cùng nấu và thưởng thức bữa ăn ngon"
+                },
+                {
+                  "en": "go on a bike ride",
+                  "ipa": "/baɪk raɪd/",
+                  "vi": "đạp xe cùng nhau"
+                },
+                {
+                  "en": "go on a hike",
+                  "ipa": "/haɪk/",
+                  "vi": "đi leo núi, đi bộ đường dài"
+                },
+                {
+                  "en": "play table and card games together",
+                  "ipa": "/kɑːd ɡeɪmz/",
+                  "vi": "chơi board game và bài cùng nhau"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Hoạt động khác",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "go to the cinema",
+                      "ipa": "/ˈsɪnəmə/",
+                      "vi": "đi xem phim"
+                    },
+                    {
+                      "en": "have a picnic on the weekend",
+                      "ipa": "/ˈpɪknɪk/",
+                      "vi": "đi picnic cuối tuần"
+                    },
+                    {
+                      "en": "sing karaoke together",
+                      "ipa": "/ˌkæriˈəʊki/",
+                      "vi": "hát karaoke cùng nhau"
+                    },
+                    {
+                      "en": "have a barbecue in the garden",
+                      "ipa": "/ˈbɑːbɪkjuː/",
+                      "vi": "tổ chức tiệc nướng ngoài trời"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Cảm nhận",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "it's a great way to bond as a family",
+                      "ipa": "/bɒnd/",
+                      "vi": "đó là cách hay để gắn kết gia đình"
+                    },
+                    {
+                      "en": "these moments help us feel closer to each other",
+                      "ipa": "/ˈkləʊsə/",
+                      "vi": "những khoảnh khắc này giúp chúng tôi gần nhau hơn"
+                    },
+                    {
+                      "en": "it always makes me feel happy and relaxed",
+                      "ipa": "/rɪˈlækst/",
+                      "vi": "luôn khiến tôi vui vẻ, thư giãn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "term": "to go on a bike ride / a hike",
+              "pos": "v.phr",
+              "vi": "đạp xe / đi bộ đường dài",
+              "ipa": "/baɪk raɪd/"
+            },
+            {
+              "term": "to have a picnic / a barbecue",
+              "pos": "v.phr",
+              "vi": "đi picnic / ăn nướng ngoài trời",
+              "ipa": "/ˈpɪknɪk/"
+            },
+            {
+              "term": "a tasty meal",
+              "pos": "n.phr",
+              "vi": "bữa ăn ngon",
+              "ipa": "/ˈteɪsti miːl/"
+            },
+            {
+              "term": "to bond (as a family)",
+              "pos": "v",
+              "vi": "gắn kết (như một gia đình)",
+              "ipa": "/bɒnd/"
+            },
+            {
+              "term": "to feel closer to sb",
+              "pos": "v.phr",
+              "vi": "cảm thấy gần gũi hơn với ai",
+              "ipa": "/fiːl ˈkləʊsə/"
+            }
+          ]
+        },
+        {
+          "title": "7. Do you prefer spending time with your family or your friends?",
+          "vi": "Bạn thích dành thời gian cho gia đình hay bạn bè hơn?",
+          "scenarios": [
+            {
+              "name": "Bạn bè",
+              "vi": "friends",
+              "labels": {
+                "g1": "Lý do chính",
+                "g2": "Ý mở rộng",
+                "g3": "Cảm nhận"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I prefer spending time with my friends. This is because "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Besides, they "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Overall, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Tôi thích dành thời gian cho bạn bè hơn. Vì... Bên cạnh đó, họ... Nhìn chung, ...",
+                  "example": "I prefer spending time with my friends. This is because most of my friends are the same age as me, so we have a lot in common. Besides, they cheer me up when I'm in a bad mood. Overall, spending time with them is always fun."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I'd rather hang out with my friends. This is because "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Besides, they "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Overall, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Tôi thích đi chơi với bạn bè hơn. Vì... Bên cạnh đó, họ... Nhìn chung, ...",
+                  "example": "I'd rather hang out with my friends. This is because we are into the same things and share many interests. Besides, they help me experience something new together. Overall, I always feel understood around them."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "most of my friends are the same age as me, so we have a lot in common",
+                  "ipa": "/seɪm eɪdʒ/",
+                  "vi": "bạn tôi cùng tuổi nên có nhiều điểm chung"
+                },
+                {
+                  "en": "we are into the same things and share many interests",
+                  "ipa": "/ˈɪntrəsts/",
+                  "vi": "chúng tôi cùng sở thích"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Ý mở rộng",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "cheer me up when I'm in a bad mood",
+                      "ipa": "/tʃɪər ʌp/",
+                      "vi": "làm tôi vui lên khi tâm trạng không tốt"
+                    },
+                    {
+                      "en": "help me experience something new together",
+                      "ipa": "/ɪkˈspɪəriəns/",
+                      "vi": "giúp tôi trải nghiệm điều mới cùng nhau"
+                    },
+                    {
+                      "en": "give me a sense of belonging",
+                      "ipa": "/bɪˈlɒŋɪŋ/",
+                      "vi": "cho tôi cảm giác thuộc về"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Cảm nhận",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "spending time with them is always fun",
+                      "ipa": "/fʌn/",
+                      "vi": "ở bên họ luôn vui"
+                    },
+                    {
+                      "en": "I always feel understood around them",
+                      "ipa": "/ˌʌndəˈstʊd/",
+                      "vi": "tôi luôn thấy được thấu hiểu bên họ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Gia đình",
+              "vi": "family",
+              "labels": {
+                "g1": "Lý do chính",
+                "g2": "Ý mở rộng",
+                "g3": "Cảm nhận"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I prefer spending time with my family. This is because "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". They always "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Overall, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Tôi thích dành thời gian cho gia đình hơn. Vì... Họ luôn... Nhìn chung, ...",
+                  "example": "I prefer spending time with my family. This is because friends come and go, but family will always stay by my side. They always share my joy and sadness. Overall, I feel most comfortable with them."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I'd rather stay with my family. This is because "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". They always "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Overall, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Tôi thích ở cùng gia đình hơn. Vì... Họ luôn... Nhìn chung, ...",
+                  "example": "I'd rather stay with my family. This is because I can confide in them about anything. They always give me a sense of belonging. Overall, being with them makes me feel safe."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "friends come and go, but family will always stay by my side",
+                  "ipa": "/kʌm ənd ɡəʊ/",
+                  "vi": "bạn bè đến rồi đi, nhưng gia đình luôn ở bên"
+                },
+                {
+                  "en": "I can confide in them about anything",
+                  "ipa": "/kənˈfaɪd ɪn/",
+                  "vi": "tôi có thể tâm sự với họ mọi thứ"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Ý mở rộng",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "share my joy and sadness",
+                      "ipa": "/dʒɔɪ ənd ˈsædnəs/",
+                      "vi": "chia sẻ niềm vui, nỗi buồn của tôi"
+                    },
+                    {
+                      "en": "give me a sense of belonging",
+                      "ipa": "/bɪˈlɒŋɪŋ/",
+                      "vi": "cho tôi cảm giác thuộc về"
+                    },
+                    {
+                      "en": "stand by me no matter what",
+                      "ipa": "/stænd baɪ/",
+                      "vi": "luôn sát cánh dù thế nào"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Cảm nhận",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "I feel most comfortable with them",
+                      "ipa": "/ˈkʌmftəbl/",
+                      "vi": "tôi thấy thoải mái nhất bên họ"
+                    },
+                    {
+                      "en": "being with them makes me feel safe",
+                      "ipa": "/feɪl seɪf/",
+                      "vi": "ở bên họ khiến tôi thấy an toàn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "term": "to have a lot in common",
+              "pos": "v.phr",
+              "vi": "có nhiều điểm chung",
+              "ipa": "/ɪn ˈkɒmən/"
+            },
+            {
+              "term": "a generation gap",
+              "pos": "n.phr",
+              "vi": "khoảng cách thế hệ",
+              "ipa": "/ˌdʒenəˈreɪʃn ɡæp/"
+            },
+            {
+              "term": "to confide in sb",
+              "pos": "v.phr",
+              "vi": "tâm sự với ai",
+              "ipa": "/kənˈfaɪd ɪn/"
+            },
+            {
+              "term": "to cheer sb up",
+              "pos": "v.phr",
+              "vi": "làm ai vui lên",
+              "ipa": "/tʃɪər ʌp/"
+            },
+            {
+              "term": "a sense of belonging",
+              "pos": "n.phr",
+              "vi": "cảm giác thuộc về",
+              "ipa": "/sens əv bɪˈlɒŋɪŋ/"
+            },
+            {
+              "term": "friends come and go",
+              "pos": "phr",
+              "vi": "bạn bè đến rồi đi",
+              "ipa": "/frendz kʌm ənd ɡəʊ/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dc8student",
+      "lesson": 8,
+      "topicLabel": "Working",
+      "audience": "highschool",
+      "audienceLabel": "Học sinh",
+      "grammarFocus": "Comparisons",
+      "rawTopic": "WORKING — DREAM JOB",
+      "rawLabel": "👨‍🎓 Học sinh (Dream job) — Comparisons · WORKING",
+      "questions": [
+        {
+          "title": "1. What is your dream job? Why?",
+          "vi": "Ước mơ nghề nghiệp của bạn là gì? Vì sao?",
+          "scenarios": [
+            {
+              "name": "Trả lời",
+              "vi": "",
+              "labels": {
+                "g1": "Nghề mơ ước",
+                "g2": "Lý do (why)",
+                "g3": "Ý mở rộng"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "When I was young, my dream was to "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". This is because I want "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Besides, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Khi còn nhỏ, ước mơ của tôi là... Vì tôi muốn... Bên cạnh đó, ...",
+                  "example": "When I was young, my dream was to become a doctor. This is because I want to have a sense of satisfaction from helping others. Besides, I like taking on responsibility."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "My dream job is to "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". The main reason is that I want "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". What's more, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Ước mơ nghề nghiệp của tôi là... Lý do chính là tôi muốn... Hơn nữa, ...",
+                  "example": "My dream job is to become an IT specialist. The main reason is that I want to use my skills and talents. What's more, I like dealing with technology."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "become a doctor",
+                  "ipa": "/ˈdɒktə/",
+                  "vi": "làm bác sĩ"
+                },
+                {
+                  "en": "become an IT specialist",
+                  "ipa": "/aɪ tiː ˈspeʃəlɪst/",
+                  "vi": "làm chuyên gia CNTT"
+                },
+                {
+                  "en": "become a teacher",
+                  "ipa": "/ˈtiːtʃə/",
+                  "vi": "làm giáo viên"
+                },
+                {
+                  "en": "run a startup",
+                  "ipa": "/rʌn ə ˈstɑːtʌp/",
+                  "vi": "khởi nghiệp"
+                },
+                {
+                  "en": "work for a large international company",
+                  "ipa": "/ˌɪntəˈnæʃənl/",
+                  "vi": "làm cho công ty quốc tế lớn"
+                },
+                {
+                  "en": "become a CEO of a big company",
+                  "ipa": "/siː iː əʊ/",
+                  "vi": "làm CEO của công ty lớn"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Lý do (why)",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "to have a sense of satisfaction from helping others",
+                      "ipa": "/ˌsætɪsˈfækʃn/",
+                      "vi": "cảm giác thỏa mãn khi giúp người khác"
+                    },
+                    {
+                      "en": "to use my skills and talents",
+                      "ipa": "/ˈtælənts/",
+                      "vi": "sử dụng kỹ năng, tài năng của mình"
+                    },
+                    {
+                      "en": "to have a competitive salary",
+                      "ipa": "/kəmˈpetətɪv ˈsæləri/",
+                      "vi": "có mức lương cạnh tranh"
+                    },
+                    {
+                      "en": "to have travel opportunities",
+                      "ipa": "/ˈɒpəˌtjuːnətiz/",
+                      "vi": "có cơ hội đi công tác, du lịch"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Ý mở rộng",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "I like taking on responsibility",
+                      "ipa": "/rɪˌspɒnsəˈbɪləti/",
+                      "vi": "tôi thích nhận trách nhiệm"
+                    },
+                    {
+                      "en": "I like dealing with technology",
+                      "ipa": "/ˈdiːlɪŋ wɪð/",
+                      "vi": "tôi thích làm việc với công nghệ"
+                    },
+                    {
+                      "en": "I am good at problem-solving",
+                      "ipa": "/ˈprɒbləm ˈsɒlvɪŋ/",
+                      "vi": "tôi giỏi giải quyết vấn đề"
+                    },
+                    {
+                      "en": "I enjoy teamwork",
+                      "ipa": "/ˈtiːmwɜːk/",
+                      "vi": "tôi thích làm việc nhóm"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "term": "to have a competitive salary",
+              "pos": "v.phr",
+              "vi": "có lương cạnh tranh",
+              "ipa": "/kəmˈpetətɪv ˈsæləri/"
+            },
+            {
+              "term": "a sense of satisfaction",
+              "pos": "n.phr",
+              "vi": "cảm giác thỏa mãn",
+              "ipa": "/ˌsætɪsˈfækʃn/"
+            },
+            {
+              "term": "to take on responsibility",
+              "pos": "v.phr",
+              "vi": "nhận trách nhiệm",
+              "ipa": "/teɪk ɒn rɪˌspɒnsəˈbɪləti/"
+            },
+            {
+              "term": "to run a startup",
+              "pos": "v.phr",
+              "vi": "khởi nghiệp",
+              "ipa": "/rʌn ə ˈstɑːtʌp/"
+            },
+            {
+              "term": "to be good at problem-solving",
+              "pos": "adj.phr",
+              "vi": "giỏi giải quyết vấn đề",
+              "ipa": "/ˈprɒbləm ˈsɒlvɪŋ/"
+            }
+          ]
+        },
+        {
+          "title": "2. What do you expect for your future job?",
+          "vi": "Bạn kỳ vọng gì ở công việc tương lai?",
+          "scenarios": [
+            {
+              "name": "Trả lời",
+              "vi": "",
+              "labels": {
+                "g1": "Kỳ vọng chính",
+                "g2": "Kỳ vọng thêm",
+                "g3": "Ý mở rộng"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I expect that my future job "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". I also want it to "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Besides, I hope that "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Tôi kỳ vọng công việc tương lai... Tôi cũng muốn nó... Bên cạnh đó, tôi hy vọng...",
+                  "example": "I expect that my future job suits my talents and skills. I also want it to be well-paid. Besides, I hope that it allows me to work remotely."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I want my future job to "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Besides, I hope it "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Overall, I expect it to "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Tôi muốn công việc tương lai... Bên cạnh đó, tôi hy vọng nó... Nhìn chung, tôi kỳ vọng nó...",
+                  "example": "I want my future job to provide me with a supportive working environment. Besides, I hope it isn't too stressful. Overall, I expect it to give me a sense of achievement."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "suits my talents and skills",
+                  "ipa": "/ˈtælənts/",
+                  "vi": "phù hợp tài năng, kỹ năng của tôi"
+                },
+                {
+                  "en": "provides me with a supportive working environment",
+                  "ipa": "/səˈpɔːtɪv/",
+                  "vi": "có môi trường làm việc hỗ trợ tốt"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Kỳ vọng thêm",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "be well-paid",
+                      "ipa": "/wel peɪd/",
+                      "vi": "lương cao"
+                    },
+                    {
+                      "en": "isn't too stressful",
+                      "ipa": "/ˈstresfl/",
+                      "vi": "không quá căng thẳng"
+                    },
+                    {
+                      "en": "allow me to work flexible hours",
+                      "ipa": "/ˈfleksəbl/",
+                      "vi": "cho phép giờ làm linh hoạt"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Ý mở rộng",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "it allows me to work remotely",
+                      "ipa": "/rɪˈməʊtli/",
+                      "vi": "cho phép làm việc từ xa"
+                    },
+                    {
+                      "en": "it gives me a sense of achievement",
+                      "ipa": "/əˈtʃiːvmənt/",
+                      "vi": "cho tôi cảm giác thành tựu"
+                    },
+                    {
+                      "en": "it gives me a clear career path",
+                      "ipa": "/kəˈrɪə pɑːθ/",
+                      "vi": "cho tôi lộ trình thăng tiến rõ ràng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "term": "to be well-paid",
+              "pos": "adj.phr",
+              "vi": "lương cao",
+              "ipa": "/wel peɪd/"
+            },
+            {
+              "term": "to work remotely",
+              "pos": "v.phr",
+              "vi": "làm việc từ xa",
+              "ipa": "/wɜːk rɪˈməʊtli/"
+            },
+            {
+              "term": "a clear career path",
+              "pos": "n.phr",
+              "vi": "lộ trình thăng tiến rõ ràng",
+              "ipa": "/kəˈrɪə pɑːθ/"
+            },
+            {
+              "term": "flexible hours",
+              "pos": "n.phr",
+              "vi": "giờ làm linh hoạt",
+              "ipa": "/ˈfleksəbl aʊəz/"
+            },
+            {
+              "term": "a sense of achievement",
+              "pos": "n.phr",
+              "vi": "cảm giác thành tựu",
+              "ipa": "/əˈtʃiːvmənt/"
+            }
+          ]
+        },
+        {
+          "title": "3. What characteristics do you have that will be suitable for your future job?",
+          "vi": "Bạn có những đặc điểm gì phù hợp với công việc tương lai?",
+          "scenarios": [
+            {
+              "name": "Trả lời",
+              "vi": "",
+              "labels": {
+                "g1": "Kỹ năng chính",
+                "g2": "Phẩm chất",
+                "g3": "Ý mở rộng"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". I also "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Besides, I have valuable qualities such as "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Tôi... Tôi cũng... Bên cạnh đó, tôi có những phẩm chất tốt như...",
+                  "example": "I have a good command of English. I also acquire social skills such as communication and teamwork. Besides, I have valuable qualities such as being hard-working and persistent."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". I also "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". I believe these qualities make me "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": " for my future job."
+                    }
+                  ],
+                  "vi": "Tôi... Tôi cũng... Tôi tin những phẩm chất này khiến tôi... cho công việc tương lai.",
+                  "example": "I have a deep knowledge of technology. I also have a passion for problem-solving. I believe these qualities make me well-prepared for my future job."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "have a good command of English",
+                  "ipa": "/kəˈmɑːnd/",
+                  "vi": "giỏi tiếng Anh"
+                },
+                {
+                  "en": "have a deep knowledge of technology",
+                  "ipa": "/diːp ˈnɒlɪdʒ/",
+                  "vi": "có kiến thức sâu về công nghệ"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Phẩm chất",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "acquire social skills such as communication and teamwork",
+                      "ipa": "/əˈkwaɪə/",
+                      "vi": "có kỹ năng mềm như giao tiếp, làm việc nhóm"
+                    },
+                    {
+                      "en": "have a passion for problem-solving",
+                      "ipa": "/ˈpæʃn/",
+                      "vi": "đam mê giải quyết vấn đề"
+                    },
+                    {
+                      "en": "have good physical health",
+                      "ipa": "/ˈfɪzɪkl helθ/",
+                      "vi": "có sức khỏe thể chất tốt"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Ý mở rộng",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "hard-working and persistent",
+                      "ipa": "/pəˈsɪstənt/",
+                      "vi": "chăm chỉ và kiên trì"
+                    },
+                    {
+                      "en": "well-prepared",
+                      "ipa": "/wel prɪˈpeəd/",
+                      "vi": "chuẩn bị tốt"
+                    },
+                    {
+                      "en": "confident and responsible",
+                      "ipa": "/ˈkɒnfɪdənt/",
+                      "vi": "tự tin và có trách nhiệm"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "term": "to have a good command of English",
+              "pos": "v.phr",
+              "vi": "giỏi tiếng Anh",
+              "ipa": "/kəˈmɑːnd əv/"
+            },
+            {
+              "term": "to acquire social skills",
+              "pos": "v.phr",
+              "vi": "có kỹ năng mềm",
+              "ipa": "/əˈkwaɪə ˈsəʊʃl skɪlz/"
+            },
+            {
+              "term": "to have a deep knowledge of",
+              "pos": "v.phr",
+              "vi": "có kiến thức sâu về",
+              "ipa": "/diːp ˈnɒlɪdʒ/"
+            },
+            {
+              "term": "valuable qualities",
+              "pos": "n.phr",
+              "vi": "phẩm chất tốt",
+              "ipa": "/ˈvæljuəbl ˈkwɒlətiz/"
+            },
+            {
+              "term": "persistent",
+              "pos": "adj",
+              "vi": "kiên trì",
+              "ipa": "/pəˈsɪstənt/"
+            }
+          ]
+        },
+        {
+          "title": "4. Do you prefer a competitive environment or a non-competitive working environment?",
+          "vi": "Bạn thích môi trường cạnh tranh hay không cạnh tranh hơn?",
+          "scenarios": [
+            {
+              "name": "Cạnh tranh",
+              "vi": "competitive",
+              "labels": {
+                "g1": "Lý do chính",
+                "g2": "Ý mở rộng",
+                "g3": "Kết luận"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I prefer a competitive environment because I can "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Besides, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Tôi thích môi trường cạnh tranh vì tôi có thể... Bên cạnh đó, ... ...",
+                  "example": "I prefer a competitive environment because I can increase my productivity as I want to perform better than my colleagues. Besides, I feel more motivated to gain more knowledge and skills. I like to challenge myself."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I'd rather work in a competitive environment. This is because it makes me "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Besides, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Tôi thích môi trường cạnh tranh hơn. Vì nó khiến tôi... Bên cạnh đó, ... ...",
+                  "example": "I'd rather work in a competitive environment. This is because it makes me feel motivated to work harder. Besides, it helps me achieve better results. I like to challenge myself."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "increase my productivity as I want to perform better than my colleagues",
+                  "ipa": "/prəˈdʌktɪvəti/",
+                  "vi": "tăng năng suất vì muốn làm tốt hơn đồng nghiệp"
+                },
+                {
+                  "en": "feel motivated to work harder",
+                  "ipa": "/ˈməʊtɪveɪtɪd/",
+                  "vi": "cảm thấy có động lực làm chăm hơn"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Ý mở rộng",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "I feel more motivated to gain more knowledge and skills",
+                      "ipa": "/ˈnɒlɪdʒ/",
+                      "vi": "có động lực học thêm kiến thức, kỹ năng"
+                    },
+                    {
+                      "en": "it helps me achieve better results",
+                      "ipa": "/rɪˈzʌlts/",
+                      "vi": "giúp tôi đạt kết quả tốt hơn"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Kết luận",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "I like to challenge myself",
+                      "ipa": "/ˈtʃælɪndʒ/",
+                      "vi": "tôi thích thử thách bản thân"
+                    },
+                    {
+                      "en": "it pushes me to become a better version of myself",
+                      "ipa": "/pʊʃɪz/",
+                      "vi": "nó thúc đẩy tôi trở nên tốt hơn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Không cạnh tranh",
+              "vi": "non-competitive",
+              "labels": {
+                "g1": "Lý do chính",
+                "g2": "Ý mở rộng",
+                "g3": "Kết luận"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I prefer a non-competitive environment because I don't want to feel "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Besides, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Tôi thích môi trường không cạnh tranh vì tôi không muốn cảm thấy... Bên cạnh đó, ... ...",
+                  "example": "I prefer a non-competitive environment because I don't want to feel stressed about being the top employee. Besides, I want to achieve a work-life balance. I want to make real friends at work."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I'd rather work in a relaxed environment. This is because I don't want "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Besides, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Tôi thích môi trường thoải mái hơn. Vì tôi không muốn... Bên cạnh đó, ... ...",
+                  "example": "I'd rather work in a relaxed environment. This is because I don't want too much pressure. Besides, I care more about teamwork than competition. I want to make real friends at work."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "stressed about being the top employee",
+                  "ipa": "/strest/",
+                  "vi": "căng thẳng vì phải là người xuất sắc nhất"
+                },
+                {
+                  "en": "too much pressure",
+                  "ipa": "/ˈpreʃə/",
+                  "vi": "quá nhiều áp lực"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Ý mở rộng",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "I want to achieve a work-life balance",
+                      "ipa": "/ˈbæləns/",
+                      "vi": "tôi muốn cân bằng công việc–cuộc sống"
+                    },
+                    {
+                      "en": "I care more about teamwork than competition",
+                      "ipa": "/ˈtiːmwɜːk/",
+                      "vi": "tôi quan tâm làm việc nhóm hơn cạnh tranh"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Kết luận",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "I want to make real friends at work",
+                      "ipa": "/rɪəl frendz/",
+                      "vi": "tôi muốn có bạn thật sự ở chỗ làm"
+                    },
+                    {
+                      "en": "a friendly atmosphere helps me work better",
+                      "ipa": "/ˈætməsfɪə/",
+                      "vi": "không khí thân thiện giúp tôi làm việc tốt hơn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "term": "to increase productivity",
+              "pos": "v.phr",
+              "vi": "tăng năng suất",
+              "ipa": "/ɪnˈkriːs ˌprɒdʌkˈtɪvəti/"
+            },
+            {
+              "term": "to be motivated",
+              "pos": "adj.phr",
+              "vi": "có động lực",
+              "ipa": "/ˈməʊtɪveɪtɪd/"
+            },
+            {
+              "term": "to challenge oneself",
+              "pos": "v.phr",
+              "vi": "thử thách bản thân",
+              "ipa": "/ˈtʃælɪndʒ wʌnˈself/"
+            },
+            {
+              "term": "to feel stressed about sth",
+              "pos": "v.phr",
+              "vi": "cảm thấy căng thẳng về điều gì",
+              "ipa": "/fiːl strest/"
+            },
+            {
+              "term": "a friendly atmosphere",
+              "pos": "n.phr",
+              "vi": "không khí thân thiện",
+              "ipa": "/ˈfrendli ˈætməsfɪə/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dc8work",
+      "lesson": 8,
+      "topicLabel": "Working",
+      "audience": "working",
+      "audienceLabel": "Người đi làm",
+      "grammarFocus": "Comparisons",
+      "rawTopic": "WORKING — CURRENT JOB",
+      "rawLabel": "💼 Đang đi làm (Working) — Comparisons · WORKING",
+      "questions": [
+        {
+          "title": "1. What do you do for a living?",
+          "vi": "Bạn làm nghề gì?",
+          "scenarios": [
+            {
+              "name": "Trả lời",
+              "vi": "",
+              "labels": {
+                "g1": "Nghề nghiệp",
+                "g2": "Nơi làm việc",
+                "g3": "Giới thiệu về công ty"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "Currently, I'm working as "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". I'm working at "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Hiện tại, tôi đang làm... Tôi làm việc tại... ...",
+                  "example": "Currently, I'm working as a marketing assistant. I'm working at a small local company. It's a small business focusing on fashion products."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I have a full-time job as "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". I work at "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Tôi có công việc toàn thời gian là... Tôi làm việc tại... ...",
+                  "example": "I have a full-time job as a customer service representative. I work at a large international company. It's a multinational company that has been famous for its excellent service."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "a marketing assistant",
+                  "ipa": "/ˈmɑːkɪtɪŋ əˈsɪstənt/",
+                  "vi": "trợ lý marketing"
+                },
+                {
+                  "en": "a customer service representative",
+                  "ipa": "/ˈkʌstəmə ˈsɜːvɪs/",
+                  "vi": "nhân viên chăm sóc khách hàng"
+                },
+                {
+                  "en": "a cashier",
+                  "ipa": "/kæˈʃɪə/",
+                  "vi": "thu ngân"
+                },
+                {
+                  "en": "a programmer",
+                  "ipa": "/ˈprəʊɡræmə/",
+                  "vi": "lập trình viên"
+                },
+                {
+                  "en": "a teacher",
+                  "ipa": "/ˈtiːtʃə/",
+                  "vi": "giáo viên"
+                },
+                {
+                  "en": "a translator",
+                  "ipa": "/trænsˈleɪtə/",
+                  "vi": "biên dịch viên"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Nơi làm việc",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "a small local company",
+                      "ipa": "/ˈləʊkl/",
+                      "vi": "công ty nhỏ trong nước"
+                    },
+                    {
+                      "en": "a large international company",
+                      "ipa": "/ˌɪntəˈnæʃənl/",
+                      "vi": "công ty quốc tế lớn"
+                    },
+                    {
+                      "en": "my own business",
+                      "ipa": "/maɪ əʊn ˈbɪznəs/",
+                      "vi": "công việc kinh doanh riêng"
+                    },
+                    {
+                      "en": "a well-known school in the city",
+                      "ipa": "/wel nəʊn/",
+                      "vi": "một trường học nổi tiếng trong thành phố"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Giới thiệu về công ty",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "it's a small business focusing on fashion products",
+                      "ipa": "/ˈfæʃn ˈprɒdʌkts/",
+                      "vi": "công ty nhỏ chuyên về thời trang"
+                    },
+                    {
+                      "en": "it's a multinational company that has been famous for its excellent service",
+                      "ipa": "/ˌmʌltiˈnæʃnəl/",
+                      "vi": "công ty đa quốc gia nổi tiếng vì dịch vụ tốt"
+                    },
+                    {
+                      "en": "it's a local company that has a reputation for its quality products",
+                      "ipa": "/ˌrepjuˈteɪʃn/",
+                      "vi": "công ty trong nước có tiếng vì chất lượng sản phẩm"
+                    },
+                    {
+                      "en": "I run my own business, selling handmade products",
+                      "ipa": "/rʌn maɪ əʊn/",
+                      "vi": "tôi tự kinh doanh, bán đồ thủ công"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "term": "to work as / for",
+              "pos": "v.phr",
+              "vi": "làm nghề / làm cho",
+              "ipa": "/wɜːk əz/"
+            },
+            {
+              "term": "a full-time / part-time job",
+              "pos": "n.phr",
+              "vi": "việc toàn thời gian / bán thời gian",
+              "ipa": "/fʊl taɪm dʒɒb/"
+            },
+            {
+              "term": "to run one's own business",
+              "pos": "v.phr",
+              "vi": "tự kinh doanh",
+              "ipa": "/rʌn wʌnz əʊn ˈbɪznəs/"
+            },
+            {
+              "term": "to be self-employed",
+              "pos": "adj.phr",
+              "vi": "tự làm chủ, làm nghề tự do",
+              "ipa": "/bi ˌself ɪmˈplɔɪd/"
+            },
+            {
+              "term": "a multinational company",
+              "pos": "n.phr",
+              "vi": "công ty đa quốc gia",
+              "ipa": "/ˌmʌltiˈnæʃnəl ˈkʌmpəni/"
+            },
+            {
+              "term": "to have a reputation for sth",
+              "pos": "v.phr",
+              "vi": "có danh tiếng về điều gì",
+              "ipa": "/ˌrepjuˈteɪʃn fɔː/"
+            }
+          ]
+        },
+        {
+          "title": "2. Do you like your current job? Why / why not?",
+          "vi": "Bạn có thích công việc hiện tại không? Vì sao / vì sao không?",
+          "scenarios": [
+            {
+              "name": "Thích (Yes)",
+              "vi": "",
+              "labels": {
+                "g1": "Câu mở đầu",
+                "g2": "Lý do / thuận lợi",
+                "g3": "Ý mở rộng"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": ""
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": " it "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Another thing that makes me appreciate my job is that "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "... nó... Một điều khác khiến tôi trân trọng công việc là...",
+                  "example": "I like my job because it helps me maintain a work-life balance. Another thing that makes me appreciate my job is that it provides me with a supportive working environment."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": ""
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": " it "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Besides, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "... nó... Bên cạnh đó, ...",
+                  "example": "The thing I really like about my job is that it suits my talents and skills. Besides, I have many good promotion opportunities."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "I like my job because",
+                  "ipa": "/laɪk maɪ dʒɒb/",
+                  "vi": "tôi thích công việc vì"
+                },
+                {
+                  "en": "The thing I really like about my job is that",
+                  "ipa": "/ðə θɪŋ aɪ ˈrɪəli laɪk/",
+                  "vi": "điều tôi thật sự thích ở công việc là"
+                },
+                {
+                  "en": "I love working here because",
+                  "ipa": "/lʌv ˈwɜːkɪŋ hɪə/",
+                  "vi": "tôi yêu thích làm việc ở đây vì"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Lý do / thuận lợi",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "helps me maintain a work-life balance",
+                      "ipa": "/ˈbæləns/",
+                      "vi": "giúp cân bằng công việc–cuộc sống"
+                    },
+                    {
+                      "en": "suits my talents and skills",
+                      "ipa": "/ˈtælənts/",
+                      "vi": "phù hợp tài năng, kỹ năng của tôi"
+                    },
+                    {
+                      "en": "provides me with a supportive working environment",
+                      "ipa": "/səˈpɔːtɪv/",
+                      "vi": "cho tôi môi trường làm việc hỗ trợ tốt"
+                    },
+                    {
+                      "en": "gives me a sense of achievement",
+                      "ipa": "/əˈtʃiːvmənt/",
+                      "vi": "cho tôi cảm giác thành tựu"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Ý mở rộng",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "I have many good promotion opportunities",
+                      "ipa": "/prəˈməʊʃn/",
+                      "vi": "tôi có nhiều cơ hội thăng tiến"
+                    },
+                    {
+                      "en": "it allows me to work flexible hours",
+                      "ipa": "/ˈfleksəbl aʊəz/",
+                      "vi": "cho phép làm việc giờ linh hoạt"
+                    },
+                    {
+                      "en": "I meet lots of interesting people",
+                      "ipa": "/ˈɪntrəstɪŋ/",
+                      "vi": "tôi gặp nhiều người thú vị"
+                    },
+                    {
+                      "en": "it's never boring; every month is different",
+                      "ipa": "/ˈbɔːrɪŋ/",
+                      "vi": "không nhàm chán, mỗi tháng khác nhau"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Không thích (No)",
+              "vi": "",
+              "labels": {
+                "g1": "Câu mở đầu",
+                "g2": "Bất lợi của công việc",
+                "g3": "Điểm bù lại"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": ""
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": " I have to "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". However, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "... tôi phải... Tuy nhiên, ...",
+                  "example": "The only thing that I don't like is that I have to work under a lot of pressure. However, the money's good, so it kind of makes up for it."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": ""
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": " I "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". On the other hand, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "... tôi... Mặt khác, ...",
+                  "example": "What I particularly dislike is that I have a heavy workload. On the other hand, it allows me to work flexible hours."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "The only thing that I don't like is that",
+                  "ipa": "/ðə əʊnli θɪŋ/",
+                  "vi": "điều duy nhất tôi không thích là"
+                },
+                {
+                  "en": "What I particularly dislike is that",
+                  "ipa": "/pəˈtɪkjələli dɪsˈlaɪk/",
+                  "vi": "điều tôi đặc biệt không thích là"
+                },
+                {
+                  "en": "I find it annoying when",
+                  "ipa": "/əˈnɔɪɪŋ/",
+                  "vi": "tôi thấy khó chịu khi"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Bất lợi của công việc",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "work under a lot of pressure",
+                      "ipa": "/ˈpreʃə/",
+                      "vi": "làm việc dưới nhiều áp lực"
+                    },
+                    {
+                      "en": "have a heavy workload",
+                      "ipa": "/ˈwɜːkləʊd/",
+                      "vi": "có khối lượng công việc nặng"
+                    },
+                    {
+                      "en": "work long hours and overtime",
+                      "ipa": "/ˈəʊvətaɪm/",
+                      "vi": "làm việc dài giờ, tăng ca"
+                    },
+                    {
+                      "en": "deal with a lot of paperwork",
+                      "ipa": "/ˈpeɪpəwɜːk/",
+                      "vi": "xử lý nhiều giấy tờ"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Điểm bù lại",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "the money's good, so it kind of makes up for it",
+                      "ipa": "/meɪks ʌp fɔː/",
+                      "vi": "lương tốt nên cũng bù lại được"
+                    },
+                    {
+                      "en": "it allows me to work flexible hours",
+                      "ipa": "/ˈfleksəbl aʊəz/",
+                      "vi": "cho phép làm việc giờ linh hoạt"
+                    },
+                    {
+                      "en": "I still learn a lot from my colleagues",
+                      "ipa": "/ˈkɒliːɡz/",
+                      "vi": "vẫn học được nhiều từ đồng nghiệp"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "term": "to maintain a work-life balance",
+              "pos": "v.phr",
+              "vi": "duy trì cân bằng công việc–cuộc sống",
+              "ipa": "/ˈbæləns/"
+            },
+            {
+              "term": "a competitive/supportive environment",
+              "pos": "n.phr",
+              "vi": "môi trường cạnh tranh/hỗ trợ",
+              "ipa": "/kəmˈpetətɪv/"
+            },
+            {
+              "term": "a promotion opportunity",
+              "pos": "n.phr",
+              "vi": "cơ hội thăng tiến",
+              "ipa": "/prəˈməʊʃn/"
+            },
+            {
+              "term": "a heavy workload",
+              "pos": "n.phr",
+              "vi": "khối lượng công việc nặng",
+              "ipa": "/ˈhevi ˈwɜːkləʊd/"
+            },
+            {
+              "term": "to work under pressure",
+              "pos": "v.phr",
+              "vi": "làm việc dưới áp lực",
+              "ipa": "/ˈʌndə ˈpreʃə/"
+            },
+            {
+              "term": "flexible working hours",
+              "pos": "n.phr",
+              "vi": "giờ làm việc linh hoạt",
+              "ipa": "/ˈfleksəbl ˈwɜːkɪŋ aʊəz/"
+            },
+            {
+              "term": "to earn a good living",
+              "pos": "v.phr",
+              "vi": "kiếm được thu nhập tốt",
+              "ipa": "/ɜːn ə ɡʊd ˈlɪvɪŋ/"
+            },
+            {
+              "term": "to make up for sth",
+              "pos": "v.phr",
+              "vi": "bù lại điều gì",
+              "ipa": "/meɪk ʌp fɔː/"
+            }
+          ]
+        },
+        {
+          "title": "3. What are your responsibilities?",
+          "vi": "Trách nhiệm công việc của bạn là gì?",
+          "scenarios": [
+            {
+              "name": "Trả lời",
+              "vi": "",
+              "labels": {
+                "g1": "Vai trò",
+                "g2": "Trách nhiệm chính",
+                "g3": "Trách nhiệm khác"
+              },
+              "g2DependsOnG1": true,
+              "g2Prompt": "Chọn nghề nghiệp ở ① trước, trách nhiệm phù hợp sẽ hiện ra.",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "As "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ", I'm in charge of "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". I'm also responsible for "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Là..., tôi phụ trách... Tôi cũng chịu trách nhiệm...",
+                  "example": "As a marketing assistant, I'm in charge of conducting marketing research. I'm also responsible for preparing promotional presentations."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "One of my responsibilities as "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": " is "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Another responsibility is "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Một trong những trách nhiệm của tôi với vai trò... là... Trách nhiệm khác là...",
+                  "example": "One of my responsibilities as a customer service representative is handling customer complaints. Another responsibility is keeping records of customer interactions."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "a marketing assistant",
+                  "ipa": "/ˈmɑːkɪtɪŋ əˈsɪstənt/",
+                  "vi": "trợ lý marketing",
+                  "places": [
+                    {
+                      "en": "conducting marketing research and gathering important data",
+                      "ipa": "/kənˈdʌktɪŋ/",
+                      "vi": "nghiên cứu thị trường, thu thập dữ liệu"
+                    },
+                    {
+                      "en": "preparing and delivering promotional presentations",
+                      "ipa": "/prəˈməʊʃənl/",
+                      "vi": "chuẩn bị và thuyết trình quảng cáo"
+                    }
+                  ]
+                },
+                {
+                  "en": "a customer service representative",
+                  "ipa": "/ˈkʌstəmə ˈsɜːvɪs/",
+                  "vi": "nhân viên chăm sóc khách hàng",
+                  "places": [
+                    {
+                      "en": "handling customer complaints and finding solutions",
+                      "ipa": "/kəmˈpleɪnts/",
+                      "vi": "xử lý khiếu nại, tìm giải pháp"
+                    },
+                    {
+                      "en": "keeping records of customer interactions",
+                      "ipa": "/ɪntərˈækʃnz/",
+                      "vi": "lưu lại các tương tác với khách hàng"
+                    }
+                  ]
+                },
+                {
+                  "en": "a programmer",
+                  "ipa": "/ˈprəʊɡræmə/",
+                  "vi": "lập trình viên",
+                  "places": [
+                    {
+                      "en": "writing code for computer programs and applications",
+                      "ipa": "/raɪtɪŋ kəʊd/",
+                      "vi": "viết code cho chương trình, ứng dụng"
+                    },
+                    {
+                      "en": "updating software solutions",
+                      "ipa": "/ˈsɒftweə/",
+                      "vi": "cập nhật giải pháp phần mềm"
+                    }
+                  ]
+                },
+                {
+                  "en": "a teacher",
+                  "ipa": "/ˈtiːtʃə/",
+                  "vi": "giáo viên",
+                  "places": [
+                    {
+                      "en": "planning lessons and educational programs for students",
+                      "ipa": "/ˈedʒukeɪʃənl/",
+                      "vi": "lên kế hoạch bài học, chương trình giáo dục"
+                    },
+                    {
+                      "en": "testing and teaching students in various subjects",
+                      "ipa": "/ˈvɛəriəs/",
+                      "vi": "kiểm tra, dạy học sinh nhiều môn"
+                    }
+                  ]
+                }
+              ],
+              "g2groups": [],
+              "g3groups": [
+                {
+                  "name": "Trách nhiệm khác",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "attending meetings with my colleagues",
+                      "ipa": "/əˈtendɪŋ/",
+                      "vi": "tham dự họp cùng đồng nghiệp"
+                    },
+                    {
+                      "en": "reporting to my manager every week",
+                      "ipa": "/rɪˈpɔːtɪŋ/",
+                      "vi": "báo cáo cho quản lý mỗi tuần"
+                    },
+                    {
+                      "en": "training new staff members",
+                      "ipa": "/ˈtreɪnɪŋ/",
+                      "vi": "đào tạo nhân viên mới"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "term": "to be in charge of",
+              "pos": "v.phr",
+              "vi": "phụ trách",
+              "ipa": "/ɪn tʃɑːdʒ əv/"
+            },
+            {
+              "term": "to be responsible for",
+              "pos": "v.phr",
+              "vi": "chịu trách nhiệm về",
+              "ipa": "/rɪˈspɒnsəbl fɔː/"
+            },
+            {
+              "term": "to conduct research",
+              "pos": "v.phr",
+              "vi": "thực hiện nghiên cứu",
+              "ipa": "/kənˈdʌkt rɪˈsɜːtʃ/"
+            },
+            {
+              "term": "to handle a complaint",
+              "pos": "v.phr",
+              "vi": "xử lý khiếu nại",
+              "ipa": "/ˈhændl ə kəmˈpleɪnt/"
+            },
+            {
+              "term": "to keep records of sth",
+              "pos": "v.phr",
+              "vi": "lưu hồ sơ, ghi chép",
+              "ipa": "/kiːp ˈrekɔːdz/"
+            }
+          ]
+        },
+        {
+          "title": "4. How many hours do you work each day?",
+          "vi": "Mỗi ngày bạn làm việc bao nhiêu giờ?",
+          "scenarios": [
+            {
+              "name": "Toàn thời gian",
+              "vi": "full-time",
+              "labels": {
+                "g1": "Số giờ làm",
+                "g2": "Cảm nhận",
+                "g3": "Ý mở rộng"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I usually work "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Tôi thường làm việc... ... ...",
+                  "example": "I usually work eight hours a day. I sometimes feel burnt-out after long hours of work. However, I try to take short breaks to stay focused."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I work "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": " as a full-time employee. "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Tôi làm việc... với tư cách nhân viên toàn thời gian. ... ...",
+                  "example": "I work eight hours a day as a full-time employee. Sometimes I have to work overtime to meet deadlines. I always feel tired after long hours of work."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "eight hours a day",
+                  "ipa": "/eɪt aʊəz/",
+                  "vi": "8 tiếng mỗi ngày"
+                },
+                {
+                  "en": "nine-to-five, five days a week",
+                  "ipa": "/naɪn tə faɪv/",
+                  "vi": "giờ hành chính, 5 ngày/tuần"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Cảm nhận",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "I sometimes feel burnt-out after long hours of work",
+                      "ipa": "/bɜːnt aʊt/",
+                      "vi": "đôi khi tôi thấy kiệt sức sau giờ làm dài"
+                    },
+                    {
+                      "en": "sometimes I have to work overtime to meet deadlines",
+                      "ipa": "/ˈəʊvətaɪm/",
+                      "vi": "đôi khi phải làm thêm giờ để kịp deadline"
+                    },
+                    {
+                      "en": "I always feel tired after long hours of work",
+                      "ipa": "/ˈtaɪəd/",
+                      "vi": "tôi luôn thấy mệt sau giờ làm dài"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Ý mở rộng",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "however, I try to take short breaks to stay focused",
+                      "ipa": "/breɪks/",
+                      "vi": "tuy nhiên tôi cố nghỉ ngắn để tập trung"
+                    },
+                    {
+                      "en": "but the workload is usually manageable",
+                      "ipa": "/ˈmænɪdʒəbl/",
+                      "vi": "nhưng khối lượng công việc vẫn ổn"
+                    },
+                    {
+                      "en": "so I try to rest well after work",
+                      "ipa": "/rest wel/",
+                      "vi": "nên tôi cố nghỉ ngơi tốt sau giờ làm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Bán thời gian",
+              "vi": "part-time",
+              "labels": {
+                "g1": "Số giờ làm",
+                "g2": "Lợi ích",
+                "g3": "Việc làm thêm với thời gian rảnh"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I only work "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". The part-time job allows me to "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". For example, I "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Tôi chỉ làm việc... Công việc bán thời gian cho phép tôi... Ví dụ, tôi...",
+                  "example": "I only work four hours a day. The part-time job allows me to make time for my studies. For example, I attend extra English classes."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I work "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". This job gives me time to "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". For example, I "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Tôi làm việc... Công việc này cho tôi thời gian để... Ví dụ, tôi...",
+                  "example": "I work half a day. This job gives me time to spend with my family. For example, I have lunch with them every day."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "four hours a day",
+                  "ipa": "/fɔː aʊəz/",
+                  "vi": "4 tiếng mỗi ngày"
+                },
+                {
+                  "en": "half a day",
+                  "ipa": "/hɑːf ə deɪ/",
+                  "vi": "nửa ngày"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Lợi ích",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "make time for my studies",
+                      "ipa": "/steʌdiz/",
+                      "vi": "dành thời gian cho việc học"
+                    },
+                    {
+                      "en": "spend time with my family",
+                      "ipa": "/ˈfæməli/",
+                      "vi": "dành thời gian cho gia đình"
+                    },
+                    {
+                      "en": "pursue my other interests",
+                      "ipa": "/pəˈsjuː/",
+                      "vi": "theo đuổi sở thích khác"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Việc làm thêm với thời gian rảnh",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "attend extra English classes",
+                      "ipa": "/ˈekstrə/",
+                      "vi": "học thêm lớp tiếng Anh"
+                    },
+                    {
+                      "en": "have lunch with them every day",
+                      "ipa": "/lʌntʃ/",
+                      "vi": "ăn trưa cùng gia đình mỗi ngày"
+                    },
+                    {
+                      "en": "do some freelance work on the side",
+                      "ipa": "/ˈfriːlɑːns/",
+                      "vi": "làm thêm việc tự do"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "term": "nine-to-five job",
+              "pos": "n.phr",
+              "vi": "công việc giờ hành chính",
+              "ipa": "/naɪn tə faɪv dʒɒb/"
+            },
+            {
+              "term": "to feel burnt-out",
+              "pos": "v.phr",
+              "vi": "cảm thấy kiệt sức",
+              "ipa": "/fiːl bɜːnt aʊt/"
+            },
+            {
+              "term": "to work overtime",
+              "pos": "v.phr",
+              "vi": "làm thêm giờ",
+              "ipa": "/wɜːk ˈəʊvətaɪm/"
+            },
+            {
+              "term": "to make time for sth",
+              "pos": "v.phr",
+              "vi": "dành thời gian cho điều gì",
+              "ipa": "/meɪk taɪm fɔː/"
+            },
+            {
+              "term": "freelance work",
+              "pos": "n.phr",
+              "vi": "công việc tự do",
+              "ipa": "/ˈfriːlɑːns wɜːk/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dc9",
+      "lesson": 9,
+      "topicLabel": "Films",
+      "audience": null,
+      "audienceLabel": null,
+      "grammarFocus": "Relative Clauses",
+      "rawTopic": "FILMS",
+      "rawLabel": "DC Lesson 9 — Relative Clauses · FILMS",
+      "questions": [
+        {
+          "title": "1. Do you like to watch films?",
+          "vi": "Bạn có thích xem phim không?",
+          "scenarios": [
+            {
+              "name": "Thích xem phim",
+              "vi": "Yes",
+              "labels": {
+                "g1": "Sở thích",
+                "g2": "Lý do",
+                "g3": "Thói quen"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "Yes, I "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". I like films because "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". I usually "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Có. Tôi... Tôi thích phim vì... Tôi thường...",
+                  "example": "Yes, I love watching films. I like films because they help me relax after a long day. I usually watch one at home at the weekend."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "Definitely. I "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". What I enjoy most is that "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". I often "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Chắc chắn rồi. Tôi... Điều tôi thích nhất là... Tôi thường...",
+                  "example": "Definitely. I really enjoy watching films. What I enjoy most is that they let me learn about different cultures. I often watch a film with my friends at the weekend."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "love watching films",
+                  "ipa": "/lʌv ˈwɒtʃɪŋ fɪlmz/",
+                  "vi": "rất thích xem phim"
+                },
+                {
+                  "en": "really enjoy watching films",
+                  "ipa": "/ˈrɪəli ɪnˈdʒɔɪ ˈwɒtʃɪŋ fɪlmz/",
+                  "vi": "thực sự thích xem phim"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Lý do",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "they help me relax after a long day",
+                      "ipa": "/rɪˈlæks/",
+                      "vi": "phim giúp tôi thư giãn sau một ngày dài"
+                    },
+                    {
+                      "en": "they let me learn about different cultures",
+                      "ipa": "/ˈkʌltʃəz/",
+                      "vi": "phim giúp tôi hiểu thêm về các nền văn hoá"
+                    },
+                    {
+                      "en": "they can teach me valuable lessons about life",
+                      "ipa": "/ˈvæljuəbl ˈlesnz/",
+                      "vi": "phim có thể dạy tôi những bài học quý về cuộc sống"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Thói quen",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "watch one at home at the weekend",
+                      "ipa": "/ət ðə ˌwiːkˈend/",
+                      "vi": "xem một bộ phim ở nhà vào cuối tuần"
+                    },
+                    {
+                      "en": "watch a film with my friends at the weekend",
+                      "ipa": "/wɪð maɪ frendz/",
+                      "vi": "xem phim cùng bạn bè vào cuối tuần"
+                    },
+                    {
+                      "en": "watch films with English subtitles",
+                      "ipa": "/ˈsʌbtaɪtlz/",
+                      "vi": "xem phim có phụ đề tiếng Anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Ít xem phim",
+              "vi": "Not often",
+              "labels": {
+                "g1": "Mức độ",
+                "g2": "Lý do",
+                "g3": "Ngoại lệ"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "Not really. I "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": " because "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". However, I sometimes "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Không hẳn. Tôi... vì... Tuy nhiên, thỉnh thoảng tôi...",
+                  "example": "Not really. I rarely watch films because I don't have much free time. However, I sometimes watch a comedy with my family."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "rarely watch films",
+                  "ipa": "/ˈreəli wɒtʃ fɪlmz/",
+                  "vi": "hiếm khi xem phim"
+                },
+                {
+                  "en": "don't watch many films",
+                  "ipa": "/dəʊnt wɒtʃ ˈmeni fɪlmz/",
+                  "vi": "không xem nhiều phim"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Lý do",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "I don't have much free time",
+                      "ipa": "/friː taɪm/",
+                      "vi": "tôi không có nhiều thời gian rảnh"
+                    },
+                    {
+                      "en": "I prefer reading books",
+                      "ipa": "/prɪˈfɜː ˈriːdɪŋ bʊks/",
+                      "vi": "tôi thích đọc sách hơn"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Ngoại lệ",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "watch a comedy with my family",
+                      "ipa": "/ˈkɒmədi/",
+                      "vi": "xem phim hài cùng gia đình"
+                    },
+                    {
+                      "en": "go to the cinema with friends",
+                      "ipa": "/ˈsɪnəmə/",
+                      "vi": "đi xem phim cùng bạn bè"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "term": "to watch a film",
+              "pos": "v.phr",
+              "vi": "xem phim",
+              "ipa": "/wɒtʃ ə fɪlm/"
+            },
+            {
+              "term": "entertainment",
+              "pos": "n",
+              "vi": "sự giải trí",
+              "ipa": "/ˌentəˈteɪnmənt/"
+            },
+            {
+              "term": "subtitles",
+              "pos": "n.pl",
+              "vi": "phụ đề",
+              "ipa": "/ˈsʌbtaɪtlz/"
+            },
+            {
+              "term": "valuable lessons",
+              "pos": "n.phr",
+              "vi": "những bài học quý giá",
+              "ipa": "/ˈvæljuəbl ˈlesnz/"
+            }
+          ]
+        },
+        {
+          "title": "2. What kinds of films do you like best?",
+          "vi": "Bạn thích thể loại phim nào nhất?",
+          "scenarios": [
+            {
+              "name": "Chọn thể loại",
+              "vi": "",
+              "labels": {
+                "g1": "Thể loại",
+                "g2": "Điểm thu hút",
+                "g3": "Ví dụ hoặc cảm nhận"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I like "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": " best because "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". For example, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Tôi thích... nhất vì... Ví dụ...",
+                  "example": "I like science-fiction films best because the stories are imaginative. For example, I can watch The Matrix again and again."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "My favourite films are "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". I like them because "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". In fact, "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Những bộ phim tôi thích nhất là... Tôi thích vì... Thực ra...",
+                  "example": "My favourite films are animated films. I like them because the artwork is beautiful. In fact, I often watch them with my little cousin."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "science-fiction films",
+                  "ipa": "/ˌsaɪəns ˈfɪkʃn fɪlmz/",
+                  "vi": "phim khoa học viễn tưởng"
+                },
+                {
+                  "en": "animated films",
+                  "ipa": "/ˈænɪmeɪtɪd fɪlmz/",
+                  "vi": "phim hoạt hình"
+                },
+                {
+                  "en": "action films",
+                  "ipa": "/ˈækʃn fɪlmz/",
+                  "vi": "phim hành động"
+                },
+                {
+                  "en": "romantic films",
+                  "ipa": "/rəʊˈmæntɪk fɪlmz/",
+                  "vi": "phim lãng mạn"
+                },
+                {
+                  "en": "horror films",
+                  "ipa": "/ˈhɒrə fɪlmz/",
+                  "vi": "phim kinh dị"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Điểm thu hút",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "the stories are imaginative",
+                      "ipa": "/ɪˈmædʒɪnətɪv/",
+                      "vi": "cốt truyện giàu trí tưởng tượng"
+                    },
+                    {
+                      "en": "the artwork is beautiful",
+                      "ipa": "/ˈɑːtwɜːk/",
+                      "vi": "hình ảnh rất đẹp"
+                    },
+                    {
+                      "en": "the special effects are exciting",
+                      "ipa": "/ˈspeʃl ɪˈfekts/",
+                      "vi": "kỹ xảo rất hấp dẫn"
+                    },
+                    {
+                      "en": "they are funny and help me relax",
+                      "ipa": "/ˈfʌni/",
+                      "vi": "phim hài hước và giúp tôi thư giãn"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Ví dụ hoặc cảm nhận",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "I can watch The Matrix again and again",
+                      "ipa": "/əˈɡen ənd əˈɡen/",
+                      "vi": "tôi có thể xem The Matrix nhiều lần"
+                    },
+                    {
+                      "en": "I often watch them with my little cousin",
+                      "ipa": "/ˈkʌzn/",
+                      "vi": "tôi hay xem cùng em họ"
+                    },
+                    {
+                      "en": "I especially enjoy films with a clever story",
+                      "ipa": "/ˈklevə ˈstɔːri/",
+                      "vi": "tôi đặc biệt thích phim có cốt truyện thông minh"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "term": "science-fiction film",
+              "pos": "n.phr",
+              "vi": "phim khoa học viễn tưởng",
+              "ipa": "/ˌsaɪəns ˈfɪkʃn fɪlm/"
+            },
+            {
+              "term": "animated film",
+              "pos": "n.phr",
+              "vi": "phim hoạt hình",
+              "ipa": "/ˈænɪmeɪtɪd fɪlm/"
+            },
+            {
+              "term": "special effects",
+              "pos": "n.pl",
+              "vi": "kỹ xảo điện ảnh",
+              "ipa": "/ˈspeʃl ɪˈfekts/"
+            },
+            {
+              "term": "imaginative",
+              "pos": "adj",
+              "vi": "giàu trí tưởng tượng",
+              "ipa": "/ɪˈmædʒɪnətɪv/"
+            },
+            {
+              "term": "predictable",
+              "pos": "adj",
+              "vi": "dễ đoán",
+              "ipa": "/prɪˈdɪktəbl/"
+            }
+          ]
+        },
+        {
+          "title": "3. How often do you go to the cinema to watch a film?",
+          "vi": "Bạn đi rạp xem phim bao lâu một lần?",
+          "scenarios": [
+            {
+              "name": "Hay đi rạp",
+              "vi": "",
+              "labels": {
+                "g1": "Tần suất",
+                "g2": "Lý do",
+                "g3": "Trải nghiệm"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I go to the cinema "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": " because "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". I usually "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Tôi đi rạp... vì... Tôi thường...",
+                  "example": "I go to the cinema once or twice a month because I enjoy seeing films on a big screen. I usually go with my friends at the weekend."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "once or twice a month",
+                  "ipa": "/wʌns ɔː twaɪs ə mʌnθ/",
+                  "vi": "một hoặc hai lần mỗi tháng"
+                },
+                {
+                  "en": "about once a week",
+                  "ipa": "/əˈbaʊt wʌns ə wiːk/",
+                  "vi": "khoảng một lần mỗi tuần"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Lý do",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "I enjoy seeing films on a big screen",
+                      "ipa": "/bɪɡ skriːn/",
+                      "vi": "tôi thích xem phim trên màn ảnh lớn"
+                    },
+                    {
+                      "en": "the sound and picture are much better",
+                      "ipa": "/saʊnd ənd ˈpɪktʃə/",
+                      "vi": "âm thanh và hình ảnh tốt hơn nhiều"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Trải nghiệm",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "go with my friends at the weekend",
+                      "ipa": "/ət ðə ˌwiːkˈend/",
+                      "vi": "đi cùng bạn bè vào cuối tuần"
+                    },
+                    {
+                      "en": "choose a new release to watch",
+                      "ipa": "/njuː rɪˈliːs/",
+                      "vi": "chọn phim mới ra rạp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Ít đi rạp",
+              "vi": "",
+              "labels": {
+                "g1": "Tần suất",
+                "g2": "Lý do",
+                "g3": "Cách xem khác"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": " because "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Instead, I "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Tôi... vì... Thay vào đó tôi...",
+                  "example": "I hardly ever go to the cinema because tickets can be expensive. Instead, I watch films at home with my family."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "hardly ever go to the cinema",
+                  "ipa": "/ˈhɑːdli ˈevə/",
+                  "vi": "hầu như không đi rạp"
+                },
+                {
+                  "en": "only go to the cinema a few times a year",
+                  "ipa": "/ə fjuː taɪmz ə jɪə/",
+                  "vi": "chỉ đi rạp vài lần mỗi năm"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Lý do",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "tickets can be expensive",
+                      "ipa": "/ɪkˈspensɪv/",
+                      "vi": "vé có thể khá đắt"
+                    },
+                    {
+                      "en": "I prefer watching films in the comfort of my own home",
+                      "ipa": "/ˈkʌmfət/",
+                      "vi": "tôi thích xem phim thoải mái ở nhà hơn"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Cách xem khác",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "watch films at home with my family",
+                      "ipa": "/ət həʊm/",
+                      "vi": "xem phim ở nhà cùng gia đình"
+                    },
+                    {
+                      "en": "stream films online at the weekend",
+                      "ipa": "/striːm ˈɒnlaɪn/",
+                      "vi": "xem phim trực tuyến vào cuối tuần"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "term": "cinema",
+              "pos": "n",
+              "vi": "rạp chiếu phim",
+              "ipa": "/ˈsɪnəmə/"
+            },
+            {
+              "term": "a big screen",
+              "pos": "n.phr",
+              "vi": "màn ảnh lớn",
+              "ipa": "/ə bɪɡ skriːn/"
+            },
+            {
+              "term": "new release",
+              "pos": "n.phr",
+              "vi": "phim mới ra mắt",
+              "ipa": "/njuː rɪˈliːs/"
+            },
+            {
+              "term": "to stream a film",
+              "pos": "v.phr",
+              "vi": "xem phim trực tuyến",
+              "ipa": "/striːm ə fɪlm/"
+            }
+          ]
+        },
+        {
+          "title": "4. Describe your favourite film.",
+          "vi": "Hãy mô tả bộ phim yêu thích của bạn (3–4 câu).",
+          "scenarios": [
+            {
+              "name": "Mô tả phim",
+              "vi": "",
+              "labels": {
+                "g1": "Tên và thể loại",
+                "g2": "Nội dung hoặc diễn viên",
+                "g3": "Lý do yêu thích"
+              },
+              "g2DependsOnG1": false,
+              "g2Prompt": "",
+              "structs": [
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "My favourite film is "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". It is about "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". I love it because "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Phim yêu thích của tôi là... Phim kể về... Tôi thích vì...",
+                  "example": "My favourite film is The Matrix, a science-fiction film. It is about a man called Neo who discovers a hidden world. I love it because the special effects are terrific."
+                },
+                {
+                  "parts": [
+                    {
+                      "type": "text",
+                      "text": "I'd like to talk about "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": ". It tells the story of "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": ". The best thing about it is that "
+                    },
+                    {
+                      "type": "slot",
+                      "slot": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ],
+                  "vi": "Tôi muốn nói về... Phim kể câu chuyện... Điều hay nhất là...",
+                  "example": "I'd like to talk about The Notebook, a romantic film. It tells the story of two people who fall in love. The best thing about it is that the story is moving and the acting is excellent."
+                }
+              ],
+              "g1": [
+                {
+                  "en": "The Matrix, a science-fiction film",
+                  "ipa": "/ˌsaɪəns ˈfɪkʃn/",
+                  "vi": "The Matrix, phim khoa học viễn tưởng"
+                },
+                {
+                  "en": "The Notebook, a romantic film",
+                  "ipa": "/rəʊˈmæntɪk/",
+                  "vi": "The Notebook, phim lãng mạn"
+                },
+                {
+                  "en": "Skyfall, an action film",
+                  "ipa": "/ˈækʃn/",
+                  "vi": "Skyfall, phim hành động"
+                },
+                {
+                  "en": "Pride and Prejudice, a romantic film",
+                  "ipa": "/ˈpraɪd ənd ˈpredʒədɪs/",
+                  "vi": "Pride and Prejudice, phim lãng mạn"
+                }
+              ],
+              "g2groups": [
+                {
+                  "name": "Nội dung hoặc diễn viên",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "a man called Neo who discovers a hidden world",
+                      "ipa": "/ˈhɪdn wɜːld/",
+                      "vi": "người đàn ông tên Neo khám phá một thế giới bí mật"
+                    },
+                    {
+                      "en": "two people who fall in love despite their different backgrounds",
+                      "ipa": "/dɪˈspaɪt/",
+                      "vi": "hai người yêu nhau dù xuất thân khác nhau"
+                    },
+                    {
+                      "en": "a secret agent who has to stop a dangerous villain",
+                      "ipa": "/ˈvɪlən/",
+                      "vi": "đặc vụ phải ngăn chặn một kẻ phản diện nguy hiểm"
+                    },
+                    {
+                      "en": "Elizabeth Bennet, who learns not to judge people too quickly",
+                      "ipa": "/dʒʌdʒ/",
+                      "vi": "Elizabeth Bennet học cách không vội đánh giá người khác"
+                    }
+                  ]
+                }
+              ],
+              "g3groups": [
+                {
+                  "name": "Lý do yêu thích",
+                  "vi": "",
+                  "items": [
+                    {
+                      "en": "the special effects are terrific",
+                      "ipa": "/təˈrɪfɪk/",
+                      "vi": "kỹ xảo rất tuyệt"
+                    },
+                    {
+                      "en": "the story is moving and the acting is excellent",
+                      "ipa": "/ˈmuːvɪŋ/",
+                      "vi": "câu chuyện cảm động và diễn xuất xuất sắc"
+                    },
+                    {
+                      "en": "the action scenes are exciting and realistic",
+                      "ipa": "/ˌriːəˈlɪstɪk/",
+                      "vi": "các cảnh hành động hấp dẫn và chân thực"
+                    },
+                    {
+                      "en": "the story is clever and thought-provoking",
+                      "ipa": "/ˈθɔːt prəˌvəʊkɪŋ/",
+                      "vi": "cốt truyện thông minh và gợi suy ngẫm"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "vocab": [
+            {
+              "term": "to be set in",
+              "pos": "v.phr",
+              "vi": "lấy bối cảnh ở",
+              "ipa": "/bi set ɪn/"
+            },
+            {
+              "term": "blockbuster",
+              "pos": "n",
+              "vi": "phim bom tấn",
+              "ipa": "/ˈblɒkbʌstə/"
+            },
+            {
+              "term": "realistic",
+              "pos": "adj",
+              "vi": "chân thực",
+              "ipa": "/ˌriːəˈlɪstɪk/"
+            },
+            {
+              "term": "terrific",
+              "pos": "adj",
+              "vi": "tuyệt vời",
+              "ipa": "/təˈrɪfɪk/"
+            },
+            {
+              "term": "unsentimental",
+              "pos": "adj",
+              "vi": "không uỷ mị",
+              "ipa": "/ˌʌnsentɪˈmentl/"
+            },
+            {
+              "term": "stunt",
+              "pos": "n",
+              "vi": "cảnh đóng thế",
+              "ipa": "/stʌnt/"
+            },
+            {
+              "term": "to jump to conclusions",
+              "pos": "v.phr",
+              "vi": "vội đi đến kết luận",
+              "ipa": "/dʒʌmp tə kənˈkluːʒnz/"
             }
           ]
         }

@@ -149,9 +149,13 @@ const AUDIENCE_RULES = [
 
 /** Split "STUDY — HIGH SCHOOL STUDENT" into a clean topic + audience.
  *  Falls back to the raw topic when no audience marker is present. */
-function splitTopic(rawTopic) {
+function splitTopic(rawTopic, rawLabel = "") {
   const topic = String(rawTopic || "").trim();
-  const matched = AUDIENCE_RULES.find((r) => r.re.test(topic));
+  // Some handouts share the same topic but name the audience only in the label.
+  const audienceFromLabel = /học sinh/i.test(rawLabel)
+    ? AUDIENCE_RULES[0]
+    : /đang đi làm/i.test(rawLabel) ? AUDIENCE_RULES[2] : null;
+  const matched = audienceFromLabel || AUDIENCE_RULES.find((r) => r.re.test(topic));
   // Drop presentation-only suffixes like "— DAILY CHALLENGE".
   const head = topic.split(/\s+[—–]\s+/)[0].replace(/\s*DAILY\s+CHALLENGE\s*/i, "").trim();
   return {
@@ -196,7 +200,7 @@ function parseHandoutFile(file) {
     if (!data || !Array.isArray(data.questions)) continue;
     const rawTopic = clean(data.topic) || "";
     const rawLabel = clean(data.label) || `Lesson ${lessonNo}`;
-    const { topicLabel, audience, audienceLabel } = splitTopic(rawTopic);
+    const { topicLabel, audience, audienceLabel } = splitTopic(rawTopic, rawLabel);
     handouts.push({
       id: key, // e.g. dc2, dc4hs
       lesson: lessonNo,
