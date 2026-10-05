@@ -201,6 +201,23 @@ export interface SpeakingQuestion {
   sampleAnswerIpa?: string[]
 }
 
+/** Fixed teacher-provided IFA final Speaking list, separate from lesson handouts. */
+export interface IfaFinalQuestion {
+  id: string
+  q: string
+  vi: string
+  ideas: string[]
+  frame: string
+  words: string[]
+}
+
+export interface IfaFinalTopic {
+  id: string
+  label: string
+  vi: string
+  questions: IfaFinalQuestion[]
+}
+
 export interface PracticePreset {
   id: string
   label: string

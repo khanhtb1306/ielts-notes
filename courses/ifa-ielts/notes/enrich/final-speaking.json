@@ -1,0 +1,141 @@
+{
+  "topics": [
+    {
+      "id": "studying", "label": "Studying", "vi": "Học tập",
+      "questions": [
+        {"id":"studying-01","q":"Where are you studying?","vi":"Bạn đang học ở đâu?","ideas":["Tên trường và vị trí","Một điều bạn thích ở môi trường học"],"frame":"I'm studying at … in …. What I like about it is ….","words":["study at", "learning environment"]},
+        {"id":"studying-02","q":"What is your major?/ What is your favorite subject?","vi":"Chuyên ngành hoặc môn học yêu thích của bạn là gì?","ideas":["Chọn chuyên ngành nếu học đại học, môn học nếu còn đi học","Giải thích vì sao bạn thích môn/ngành đó"],"frame":"My favourite subject is … because …. For example, ….","words":["major in", "be interested in"]},
+        {"id":"studying-03","q":"Is there anything you don’t like about your school?","vi":"Có điều gì bạn không thích ở trường không?","ideas":["Nêu một bất tiện cụ thể, tránh chê chung chung","Giải thích ảnh hưởng đến việc học"],"frame":"One thing I don't like is …. This is because ….","words":["heavy workload", "crowded classrooms"]},
+        {"id":"studying-04","q":"Do you think that you’re a good student?","vi":"Bạn có nghĩ mình là học sinh/sinh viên giỏi không?","ideas":["Trả lời thành thật, có thể nói mình đang cố tiến bộ","Nêu một thói quen học tập làm bằng chứng"],"frame":"I'd say I'm …. I usually …, which helps me ….","words":["meet deadlines", "work hard"]},
+        {"id":"studying-05","q":"Do you prefer to study alone or with others? Why?","vi":"Bạn thích học một mình hay cùng người khác? Vì sao?","ideas":["Chọn cách học phù hợp với bạn","Nêu lợi ích: tập trung hoặc trao đổi ý tưởng"],"frame":"I prefer studying … because …. For instance, ….","words":["concentrate on", "share ideas"]},
+        {"id":"studying-06","q":"How often do you play truant?","vi":"Bạn trốn học bao lâu một lần?","ideas":["Nếu không trốn học, trả lời 'never'","Giải thích ngắn về việc theo kịp bài học"],"frame":"I never play truant because …. If I have to miss a class, I ….","words":["play truant", "catch up on lessons"]},
+        {"id":"studying-07","q":"Are you a quick learner?","vi":"Bạn có tiếp thu nhanh không?","ideas":["Nói có/không tùy trải nghiệm","Đưa ví dụ về cách bạn học điều mới"],"frame":"I think I am … because …. For example, ….","words":["quick learner", "pick up new skills"]}
+      ]
+    },
+    {
+      "id":"working", "label":"Working and Earnings", "vi":"Công việc và thu nhập",
+      "questions":[
+        {"id":"working-01","q":"What is your job/ dream job? Why?","vi":"Công việc hiện tại hoặc mơ ước của bạn là gì? Vì sao?","ideas":["Nếu đang đi làm, nêu nghề hiện tại; nếu còn đi học, nêu nghề mơ ước","Giải thích một lý do gắn với sở thích/kỹ năng"],"frame":"I work as … / My dream job is …. I chose it because ….","words":["work as", "pursue a career in"]},
+        {"id":"working-02","q":"Is there anything you don’t like about that job?","vi":"Có điều gì bạn không thích ở công việc ấy không?","ideas":["Chọn một khó khăn cụ thể","Cân bằng bằng một điểm tốt nếu phù hợp"],"frame":"The only thing I don't like is …. However, ….","words":["heavy workload", "work-life balance"]},
+        {"id":"working-03","q":"Do you think you can work well under pressure?","vi":"Bạn có làm việc tốt dưới áp lực không?","ideas":["Nêu khả năng của bản thân, không cần nói quá","Ví dụ cách bạn sắp xếp việc khi có hạn chót"],"frame":"I think I can … because …. When I have a deadline, I ….","words":["work under pressure", "prioritise tasks"]}
+      ]
+    },
+    {
+      "id":"hometown", "label":"Hometown", "vi":"Quê hương",
+      "questions":[
+        {"id":"hometown-01","q":"Where do you come from?","vi":"Bạn đến từ đâu?","ideas":["Tên quê và vùng miền","Một nét đặc trưng dễ hình dung"],"frame":"I come from …, which is in …. It's known for ….","words":["be born and raised in", "be known for"]},
+        {"id":"hometown-02","q":"What do you like the most about your hometown?","vi":"Bạn thích nhất điều gì ở quê mình?","ideas":["Chọn một điều: con người, đồ ăn hoặc cảnh vật","Kể một chi tiết cá nhân"],"frame":"What I like most about my hometown is …. It makes me feel ….","words":["friendly locals", "local food"]},
+        {"id":"hometown-03","q":"Is there anything you don't like about your hometown?","vi":"Có điều gì bạn không thích ở quê mình không?","ideas":["Nêu một hạn chế cụ thể","Giải thích vì sao ảnh hưởng đến bạn"],"frame":"One thing I don't like is …. It can be …, especially when ….","words":["traffic congestion", "limited opportunities"]},
+        {"id":"hometown-04","q":"Where do young people in your town meet their friends?","vi":"Người trẻ ở quê bạn thường gặp bạn bè ở đâu?","ideas":["Kể một hoặc hai địa điểm phổ biến","Nói họ thường làm gì ở đó"],"frame":"Young people often meet at …. They usually … there.","words":["café", "hang out"]}
+      ]
+    },
+    {
+      "id":"transport", "label":"Transport", "vi":"Giao thông",
+      "questions":[
+        {"id":"transport-01","q":"What is the traffic like in your city/ hometown?","vi":"Giao thông ở thành phố hoặc quê bạn thế nào?","ideas":["Mô tả tình hình chung","So sánh giờ cao điểm với lúc vắng"],"frame":"The traffic in my hometown is …. It gets … during rush hour.","words":["rush hour", "traffic jam"]},
+        {"id":"transport-02","q":"What is your favourite mode of transport?","vi":"Phương tiện bạn thích nhất là gì?","ideas":["Chọn một phương tiện bạn thực sự dùng","Nêu lý do: tiện, rẻ hoặc linh hoạt"],"frame":"My favourite mode of transport is … because …. I use it to ….","words":["convenient", "affordable"]},
+        {"id":"transport-03","q":"Do you ever use public transport?","vi":"Bạn có dùng phương tiện công cộng không?","ideas":["Nêu tần suất và loại phương tiện","Giải thích khi nào bạn dùng hoặc vì sao không dùng"],"frame":"Yes, I sometimes take … when …. / No, I rarely use it because ….","words":["take the bus", "public transport"]},
+        {"id":"transport-04","q":"Do you prefer public transport or private transport?","vi":"Bạn thích phương tiện công cộng hay cá nhân hơn?","ideas":["Chọn một phương tiện","Đưa một ưu điểm và nếu muốn, một nhược điểm"],"frame":"I prefer … because …. However, ….","words":["private vehicle", "save money"]},
+        {"id":"transport-05","q":"How often do you get stuck in traffic jams?","vi":"Bạn bị kẹt xe bao lâu một lần?","ideas":["Nêu tần suất thực tế","Chỉ ra nơi hoặc thời điểm hay kẹt xe"],"frame":"I get stuck in traffic …, usually when …. It takes me ….","words":["get stuck in traffic", "rush hour"]},
+        {"id":"transport-06","q":"What kind of transport do most people use in your city/ hometown?","vi":"Ở nơi bạn sống, phần lớn mọi người dùng phương tiện gì?","ideas":["Nêu phương tiện phổ biến","Giải thích vì sao nó hợp với địa phương"],"frame":"Most people use … because …. It's particularly useful for ….","words":["motorbike", "commute"]},
+        {"id":"transport-07","q":"What means of transport do you think will be the most popular in the future?","vi":"Phương tiện nào sẽ phổ biến nhất trong tương lai?","ideas":["Đưa dự đoán, không cần chắc chắn","Nêu một lý do về chi phí hoặc môi trường"],"frame":"I think … will become more popular because …. For example, ….","words":["electric vehicles", "environmentally friendly"]}
+      ]
+    },
+    {
+      "id":"shopping", "label":"Shopping", "vi":"Mua sắm",
+      "questions":[
+        {"id":"shopping-01","q":"Do you like shopping?","vi":"Bạn có thích mua sắm không?","ideas":["Trả lời có/không và mức độ","Kể loại đồ bạn hay mua"],"frame":"I … shopping because …. I usually buy ….","words":["go shopping", "browse shops"]},
+        {"id":"shopping-02","q":"Do you prefer shopping online or going to the mall?","vi":"Bạn thích mua trực tuyến hay đến trung tâm thương mại?","ideas":["Chọn hình thức bạn dùng nhiều hơn","So sánh một ưu điểm cụ thể"],"frame":"I prefer … because …. For example, ….","words":["shop online", "try things on"]},
+        {"id":"shopping-03","q":"Do you compare prices when you shop?","vi":"Bạn có so sánh giá khi mua sắm không?","ideas":["Nói khi nào bạn so sánh giá","Giải thích lợi ích hoặc lý do không cần"],"frame":"Yes, I usually compare prices before buying …. It helps me ….","words":["compare prices", "good value for money"]},
+        {"id":"shopping-04","q":"Do you prefer shopping alone or with others?","vi":"Bạn thích mua sắm một mình hay cùng người khác?","ideas":["Chọn một cách mua sắm","Giải thích bằng trải nghiệm cụ thể"],"frame":"I prefer shopping … because …. When I shop, I ….","words":["take my time", "ask for advice"]},
+        {"id":"shopping-05","q":"Do you have any favourite stores?","vi":"Bạn có cửa hàng yêu thích không?","ideas":["Nêu cửa hàng hoặc loại cửa hàng","Nói điều bạn thích: giá, sản phẩm hoặc dịch vụ"],"frame":"Yes, I like … because …. I often go there for ….","words":["favourite shop", "affordable prices"]}
+      ]
+    },
+    {
+      "id":"sports", "label":"Sports", "vi":"Thể thao",
+      "questions":[
+        {"id":"sports-01","q":"Do you like playing sports?","vi":"Bạn có thích chơi thể thao không?","ideas":["Nói có/không và chọn một môn","Giải thích cảm giác hoặc lợi ích"],"frame":"I … playing sports. I especially enjoy … because ….","words":["keep fit", "play badminton"]},
+        {"id":"sports-02","q":"How often do you play sports?","vi":"Bạn chơi thể thao thường xuyên thế nào?","ideas":["Nêu tần suất thực tế","Kể môn và người chơi cùng"],"frame":"I play … about …. I usually play with ….","words":["twice a week", "after school"]},
+        {"id":"sports-03","q":"Why do people play sports?","vi":"Vì sao mọi người chơi thể thao?","ideas":["Nêu lợi ích thể chất","Thêm lợi ích tinh thần hoặc xã hội"],"frame":"People play sports to …. It also helps them ….","words":["stay healthy", "relieve stress"]},
+        {"id":"sports-04","q":"Do you prefer individual sports or team sports?","vi":"Bạn thích môn cá nhân hay đồng đội?","ideas":["Chọn một loại","Nêu điểm bạn thích và một ví dụ"],"frame":"I prefer … sports because …. For example, I ….","words":["team spirit", "train at my own pace"]},
+        {"id":"sports-05","q":"What sports are popular in your country?","vi":"Môn thể thao nào phổ biến ở nước bạn?","ideas":["Nêu một hoặc hai môn ở Việt Nam","Giải thích mọi người chơi hoặc xem chúng ở đâu"],"frame":"In Vietnam, … is very popular. People often ….","words":["football", "badminton"]}
+      ]
+    },
+    {
+      "id":"healthy", "label":"Healthy Lifestyles", "vi":"Lối sống lành mạnh",
+      "questions":[
+        {"id":"healthy-01","q":"Do you think that you have a healthy lifestyle?","vi":"Bạn có nghĩ mình sống lành mạnh không?","ideas":["Đánh giá thành thật, có thể nói 'khá lành mạnh'","Nêu một thói quen tốt và một điều muốn cải thiện"],"frame":"I'd say my lifestyle is …. I usually …, but I should ….","words":["balanced diet", "get enough sleep"]},
+        {"id":"healthy-02","q":"Is there any bad habit that you want to break?","vi":"Bạn muốn bỏ thói quen xấu nào?","ideas":["Chọn một thói quen cụ thể","Nói cách bạn định thay đổi"],"frame":"I want to stop … because …. I'm trying to ….","words":["stay up late", "cut down on"]},
+        {"id":"healthy-03","q":"Is it important to you to eat healthy food?","vi":"Ăn uống lành mạnh có quan trọng với bạn không?","ideas":["Nói mức độ quan trọng","Đưa ví dụ về một lựa chọn ăn uống"],"frame":"Yes, it's important because …. I try to eat ….","words":["fresh vegetables", "healthy diet"]},
+        {"id":"healthy-04","q":"If you catch a cold, what do you do to help you feel better?","vi":"Nếu bị cảm, bạn làm gì để thấy khỏe hơn?","ideas":["Kể 1–2 việc bạn thường làm","Nếu cần, nói khi nào bạn đi khám"],"frame":"If I catch a cold, I usually …. If it gets worse, I ….","words":["get plenty of rest", "see a doctor"]},
+        {"id":"healthy-05","q":"Do you do any exercise?","vi":"Bạn có tập thể dục không?","ideas":["Nêu loại vận động và tần suất","Nếu không, nói bạn muốn bắt đầu thế nào"],"frame":"Yes, I … about …. It helps me ….","words":["go for a walk", "work out"]},
+        {"id":"healthy-06","q":"What can you do to stay healthy?","vi":"Bạn có thể làm gì để khỏe mạnh?","ideas":["Chọn hai thói quen có thể duy trì","Giải thích lợi ích của một thói quen"],"frame":"To stay healthy, I try to … and …. This helps me ….","words":["exercise regularly", "drink enough water"]}
+      ]
+    },
+    {
+      "id":"family", "label":"Family and Relations", "vi":"Gia đình và quan hệ",
+      "questions":[
+        {"id":"family-01","q":"Do you have a large or small family?","vi":"Gia đình bạn đông hay ít người?","ideas":["Nêu số người hoặc kiểu gia đình","Kể những người sống cùng bạn"],"frame":"I come from a … family. There are … of us: ….","words":["nuclear family", "extended family"]},
+        {"id":"family-02","q":"How much time do you spend with your family?","vi":"Bạn dành bao nhiêu thời gian cho gia đình?","ideas":["Nêu thời điểm gặp nhau trong ngày/tuần","Giải thích nếu bạn bận"],"frame":"I spend … with my family. We usually … together.","words":["quality time", "at the weekend"]},
+        {"id":"family-03","q":"What do you like to do together as a family?","vi":"Gia đình bạn thích làm gì cùng nhau?","ideas":["Chọn một hoạt động quen thuộc","Nói vì sao cả nhà thích hoạt động ấy"],"frame":"We like to … together because …. It helps us ….","words":["have dinner together", "bond as a family"]},
+        {"id":"family-04","q":"How often do you go out with your family?","vi":"Bạn đi chơi với gia đình thường xuyên thế nào?","ideas":["Nêu tần suất","Kể một địa điểm hoặc hoạt động"],"frame":"We go out …. We often … together.","words":["once in a while", "go on a picnic"]},
+        {"id":"family-05","q":"Do you get along well with your family members?","vi":"Bạn có hòa thuận với người nhà không?","ideas":["Nêu mức độ thân thiết","Kể cách mọi người giúp đỡ nhau"],"frame":"Yes, I get on well with …. We often …, so ….","words":["get on well with", "support each other"]},
+        {"id":"family-06","q":"Who are you closest to in your family?","vi":"Bạn thân với ai nhất trong gia đình?","ideas":["Nêu một người","Giải thích bằng điều hai người thường chia sẻ"],"frame":"I'm closest to … because …. I can always ….","words":["confide in", "be there for me"]},
+        {"id":"family-07","q":"Do you prefer spending time with your family or your friends?","vi":"Bạn thích ở bên gia đình hay bạn bè hơn?","ideas":["Chọn một nhóm (vẫn có thể trân trọng nhóm còn lại)","Nêu lý do và một ví dụ"],"frame":"I prefer spending time with … because …. For example, ….","words":["have a lot in common", "feel comfortable with"]}
+      ]
+    },
+    {
+      "id":"friends", "label":"Friends", "vi":"Bạn bè",
+      "questions":[
+        {"id":"friends-01","q":"Do you have close friends?","vi":"Bạn có bạn thân không?","ideas":["Nêu số lượng hoặc một người bạn","Nói điều làm tình bạn bền chặt"],"frame":"Yes, I have …. We've been friends for … and ….","words":["close friend", "trust each other"]},
+        {"id":"friends-02","q":"Who is your best friend? What do you like the most about her/him?","vi":"Bạn thân nhất là ai? Bạn thích nhất điều gì ở người đó?","ideas":["Giới thiệu người bạn và quen nhau thế nào","Nêu một tính cách cụ thể kèm ví dụ"],"frame":"My best friend is …. What I like most about them is …. For example, ….","words":["kind-hearted", "reliable"]},
+        {"id":"friends-03","q":"How often do you hang out with your friends?","vi":"Bạn đi chơi với bạn bè bao lâu một lần?","ideas":["Nêu tần suất","Kể hoạt động các bạn thường làm"],"frame":"I hang out with my friends …. We usually ….","words":["hang out", "meet up"]},
+        {"id":"friends-04","q":"How do you keep in touch with your friends?","vi":"Bạn giữ liên lạc với bạn bè bằng cách nào?","ideas":["Nêu phương tiện liên lạc","Nói khi nào bạn thích gặp trực tiếp"],"frame":"We keep in touch through …. We also … when ….","words":["send messages", "meet in person"]},
+        {"id":"friends-05","q":"Have you ever had a fight with your friends?","vi":"Bạn từng cãi nhau với bạn bè chưa?","ideas":["Trả lời có/không ngắn gọn","Nếu có, kể cách hai người làm hòa"],"frame":"Yes, once we argued about …. Afterwards, we ….","words":["have an argument", "make up"]},
+        {"id":"friends-06","q":"Do you have any online friends?","vi":"Bạn có bạn quen qua mạng không?","ideas":["Nói có/không và quen nhau ở đâu","Nói cách bạn duy trì tình bạn đó"],"frame":"Yes, I've made friends through …. We often ….","words":["online friend", "keep in touch"]},
+        {"id":"friends-07","q":"Do you find it difficult to make new friends?","vi":"Bạn có thấy khó kết bạn mới không?","ideas":["Nêu cảm nhận cá nhân","Nói điều giúp bạn bắt chuyện"],"frame":"I find it … to make new friends because …. I usually ….","words":["strike up a conversation", "shared interests"]}
+      ]
+    },
+    {
+      "id":"hobbies", "label":"Hobbies", "vi":"Sở thích",
+      "questions":[
+        {"id":"hobbies-01","q":"What do you do in your free time?","vi":"Lúc rảnh bạn làm gì?","ideas":["Chọn một hoặc hai hoạt động thật","Nói tần suất hoặc lý do thích"],"frame":"In my free time, I usually …. It helps me ….","words":["in my free time", "unwind"]},
+        {"id":"hobbies-02","q":"Do you think hobbies are important?","vi":"Bạn nghĩ sở thích có quan trọng không?","ideas":["Đưa quan điểm","Nêu một lợi ích và ví dụ"],"frame":"Yes, hobbies are important because …. For example, ….","words":["relieve stress", "develop a skill"]},
+        {"id":"hobbies-03","q":"Which hobby would you like to try in the future?","vi":"Sau này bạn muốn thử sở thích nào?","ideas":["Chọn một hoạt động mới","Nói vì sao thích và dự định thử khi nào"],"frame":"I'd like to try … because …. I hope to start ….","words":["take up a hobby", "learn to play"]}
+      ]
+    },
+    {
+      "id":"movies", "label":"Movies", "vi":"Phim ảnh",
+      "questions":[
+        {"id":"movies-01","q":"Do you like to watch films?","vi":"Bạn có thích xem phim không?","ideas":["Nói mức độ thích","Kể khi nào hoặc với ai bạn xem"],"frame":"I … watching films because …. I usually watch them ….","words":["watch a film", "relax after a long day"]},
+        {"id":"movies-02","q":"What kinds of movies do you like best?","vi":"Bạn thích thể loại phim nào nhất?","ideas":["Chọn một thể loại","Giải thích điều hấp dẫn ở thể loại ấy"],"frame":"I like … films best because …. For example, ….","words":["animated film", "special effects"]},
+        {"id":"movies-03","q":"How often do you go to a cinema to watch a movie?","vi":"Bạn đi rạp xem phim bao lâu một lần?","ideas":["Nêu tần suất thật","Giải thích vì sao đi rạp hoặc thích xem ở nhà"],"frame":"I go to the cinema …. I like it because ….","words":["go to the cinema", "big screen"]},
+        {"id":"movies-04","q":"Describe your favorite movie (3-4 sentences).","vi":"Mô tả phim bạn thích nhất trong 3–4 câu.","ideas":["Câu 1: tên phim và thể loại","Câu 2–3: nội dung hoặc nhân vật chính","Câu 4: vì sao bạn thích phim ấy"],"frame":"My favourite film is …, which is a … film. It's about …. My favourite part is …. I love it because ….","words":["be about", "main character", "terrific acting"]}
+      ]
+    },
+    {
+      "id":"tea-coffee", "label":"Tea & Coffee", "vi":"Trà và cà phê",
+      "questions":[
+        {"id":"tea-coffee-01","q":"Do Vietnamese people like to drink tea or coffee?","vi":"Người Việt thích uống trà hay cà phê?","ideas":["Nói cả hai đều phổ biến hoặc chọn một","Đưa ví dụ nơi mọi người uống"],"frame":"Both are popular in Vietnam, but I think …. People often ….","words":["Vietnamese coffee", "tea culture"]},
+        {"id":"tea-coffee-02","q":"Do you prepare tea or coffee for the guests at home?","vi":"Bạn có pha trà hoặc cà phê khi nhà có khách không?","ideas":["Nói thói quen của gia đình","Nêu bạn hỏi khách thích gì hay chuẩn bị thế nào"],"frame":"Yes, when we have guests, I usually …. I ask them if ….","words":["offer a drink", "make a cup of tea"]},
+        {"id":"tea-coffee-03","q":"When was the last time you drank tea or coffee?","vi":"Lần gần nhất bạn uống trà hoặc cà phê là khi nào?","ideas":["Nêu thời điểm cụ thể","Kể uống ở đâu hoặc với ai"],"frame":"The last time was …. I had … at ….","words":["this morning", "at a café"]}
+      ]
+    },
+    {
+      "id":"languages", "label":"Languages", "vi":"Ngôn ngữ",
+      "questions":[
+        {"id":"languages-01","q":"How many languages do you speak?","vi":"Bạn nói được bao nhiêu ngôn ngữ?","ideas":["Nêu tiếng mẹ đẻ và ngoại ngữ","Nói trình độ thực tế của bạn"],"frame":"I speak … and a little …. I'm still learning ….","words":["native language", "speak fluently"]},
+        {"id":"languages-02","q":"Will you learn any other languages in the future?","vi":"Sau này bạn có học thêm ngôn ngữ nào không?","ideas":["Chọn một ngôn ngữ hoặc giải thích vì sao chưa muốn","Nói lợi ích hoặc dự định học"],"frame":"I'd like to learn … because …. I plan to ….","words":["pick up a language", "communicate with"]},
+        {"id":"languages-03","q":"Do you think learning a new language is difficult?","vi":"Bạn thấy học ngôn ngữ mới có khó không?","ideas":["Nêu một khó khăn cụ thể","Nói điều gì giúp học dễ hơn"],"frame":"It can be difficult because …. However, … helps me ….","words":["practise regularly", "pronunciation"]}
+      ]
+    },
+    {
+      "id":"music", "label":"Music", "vi":"Âm nhạc",
+      "questions":[
+        {"id":"music-01","q":"Do you like listening to music?","vi":"Bạn có thích nghe nhạc không?","ideas":["Nói có/không và khi nào nghe","Nêu âm nhạc giúp bạn như thế nào"],"frame":"Yes, I enjoy listening to music, especially when …. It helps me ….","words":["listen to music", "unwind"]},
+        {"id":"music-02","q":"What kind of music do you like to listen to?","vi":"Bạn thích nghe thể loại nhạc nào?","ideas":["Chọn một thể loại","Nói vì sao thích hoặc kể một nghệ sĩ"],"frame":"I mostly listen to … because …. My favourite singer is ….","words":["pop music", "catchy melody"]},
+        {"id":"music-03","q":"Have you ever been interested in singing?","vi":"Bạn có từng thích hát không?","ideas":["Nói có/không và trải nghiệm của bạn","Nếu không thích biểu diễn, có thể nói hát một mình"],"frame":"Yes, I've always enjoyed …. I usually sing …. / Not really, but I ….","words":["sing along", "karaoke"]}
+      ]
+    }
+  ]
+}

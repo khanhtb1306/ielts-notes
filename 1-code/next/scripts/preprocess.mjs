@@ -1498,6 +1498,26 @@ function buildIfaSpeaking() {
   }
 }
 
+function buildIfaFinalSpeaking() {
+  const path = join(IFA_ENRICH, "final-speaking.json")
+  if (!existsSync(path)) return []
+  const { topics } = JSON.parse(readFileSync(path, "utf8"))
+  if (!Array.isArray(topics)) throw new Error("IFA final Speaking: topics must be an array")
+  const ids = new Set()
+  for (const topic of topics) {
+    if (!topic.id || !topic.label || !Array.isArray(topic.questions)) {
+      throw new Error("IFA final Speaking: invalid topic")
+    }
+    for (const q of topic.questions) {
+      if (!q.id || !q.q || !q.frame || !Array.isArray(q.ideas) || !Array.isArray(q.words) || ids.has(q.id)) {
+        throw new Error(`IFA final Speaking: invalid or repeated question ${q.id}`)
+      }
+      ids.add(q.id)
+    }
+  }
+  return topics
+}
+
 function main() {
   if (existsSync(OUT)) rmSync(OUT, { recursive: true, force: true })
   mkdirSync(OUT, { recursive: true })
@@ -1694,6 +1714,15 @@ function main() {
   console.log(
     `[preprocess] IFA Speaking: ${ifa.handouts.length} handouts, ${ifa.drills.length} drill lessons.`
   )
+
+  const ifaFinalTopics = buildIfaFinalSpeaking()
+  emit(
+    join(OUT, "ifa-final-speaking.ts"),
+    HEADER +
+      `import type { IfaFinalTopic } from "@/types/content"\n\n` +
+      `export const ifaFinalTopics: IfaFinalTopic[] = ${JSON.stringify(ifaFinalTopics, null, 2)} as IfaFinalTopic[]\n`
+  )
+  console.log(`[preprocess] IFA Final Speaking: ${ifaFinalTopics.length} topics, ${ifaFinalTopics.reduce((n, t) => n + t.questions.length, 0)} questions.`)
 
   console.log(
     `[preprocess] ${notesData.docs.length} notes, ${index.length} lessons, ${stats.blocks} blocks, ${stats.questions} questions, ${stats.audios} audios, ${Object.keys(topicsIndex.topics).length} topics.`
