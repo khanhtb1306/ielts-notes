@@ -209,6 +209,9 @@ export interface IfaFinalQuestion {
   ideas: string[]
   frame: string
   words: string[]
+  /** Generic illustration; never an assumed personal answer. */
+  sample?: string
+  guide: { idea: string; phrases: { en: string; vi: string }[] }[]
 }
 
 export interface IfaFinalTopic {

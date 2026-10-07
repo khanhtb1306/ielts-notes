@@ -1,15 +1,17 @@
 import { useEffect, useState } from "react"
 import { Link } from "react-router-dom"
-import { ArrowLeft, ArrowRight, Check, ClipboardCopy, Eye, EyeOff, RotateCcw, Volume2 } from "lucide-react"
+import { ArrowLeft, ArrowRight, Check, ClipboardCopy, Eye, EyeOff, FileUp, RotateCcw, Volume2 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { cn } from "@/lib/utils"
 import { useSpeak } from "@/lib/use-speak"
 import { ttsSupported } from "@/lib/tts"
-import { ifaFinalTopics, allFinalQuestions, findFinalQuestion, matchedHandoutAnswers, localDay } from "@/lib/ifa-final-speaking"
+import { ifaFinalTopics, allFinalQuestions, findFinalQuestion, matchedHandoutAnswers, relatedLessonQuestions, localDay } from "@/lib/ifa-final-speaking"
 import { useIfaFinalSpeaking } from "@/stores/ifa-final-speaking"
 import type { FinalConfidence } from "@/stores/ifa-final-speaking"
 import { useIfaSpeaking } from "@/stores/ifa-speaking"
+import { parseSpeakingDrafts } from "@/lib/ifa-final-import"
+import type { ImportedSpeakingDraft } from "@/lib/ifa-final-import"
 import { SpeakingRail, RailSection, RailSelect, RailProgress, RailStrip, RailItem, RailVoice } from "@/components/ifa/SpeakingRail"
 import type { IfaFinalQuestion } from "@/types/content"
 
@@ -29,11 +31,14 @@ export function IfaFinalSpeakingPage() {
   const [timerOn, setTimerOn] = useState(true)
   const [phase, setPhase] = useState<Phase>("idle")
   const [seconds, setSeconds] = useState(0)
+  const [imported, setImported] = useState<ImportedSpeakingDraft[]>([])
+  const [importMessage, setImportMessage] = useState("")
   const progress = useIfaFinalSpeaking((s) => s.progress)
   const daily = useIfaFinalSpeaking((s) => s.daily)
   const ensureToday = useIfaFinalSpeaking((s) => s.ensureToday)
   const setCursor = useIfaFinalSpeaking((s) => s.setCursor)
   const recordPractice = useIfaFinalSpeaking((s) => s.recordPractice)
+  const saveAnswer = useIfaFinalSpeaking((s) => s.saveAnswer)
   const lessonAnswers = useIfaSpeaking((s) => s.answers)
   const speak = useSpeak()
 
@@ -75,6 +80,30 @@ export function IfaFinalSpeakingPage() {
     setSeconds(0)
   }
 
+  async function loadDrafts(file?: File) {
+    if (!file) return
+    try {
+      const drafts = parseSpeakingDrafts(await file.text())
+      setImported(drafts)
+      setImportMessage(drafts.length ? `Tìm thấy ${drafts.length} câu tương ứng. Bạn có thể chọn từng câu hoặc nhập các câu khớp chính xác còn trống.` : "Không tìm thấy câu hỏi tương ứng trong tệp này.")
+    } catch {
+      setImportMessage("Không đọc được tệp. Hãy thử tệp văn bản .txt.")
+    }
+  }
+
+  function importExactDrafts() {
+    const seen = new Set<string>()
+    let added = 0
+    for (const draft of imported) {
+      if (!draft.exact || seen.has(draft.questionId)) continue
+      seen.add(draft.questionId)
+      if (useIfaFinalSpeaking.getState().progress[draft.questionId]?.answer.trim()) continue
+      saveAnswer(draft.questionId, draft.answer)
+      added++
+    }
+    setImportMessage(`Đã thêm ${added} bản nháp khớp chính xác. Các bài hiện có không bị ghi đè.`)
+  }
+
   if (!ifaFinalTopics.length) return <p>Chưa có danh sách câu hỏi Final Speaking IFA.</p>
 
   return (
@@ -91,6 +120,15 @@ export function IfaFinalSpeakingPage() {
         </RailSection>
         <RailProgress done={done} total={allFinalQuestions.length} label="đã tự tin" />
         <p className="text-xs text-muted-foreground">{prepared}/{allFinalQuestions.length} câu đã có bài của tôi · {ifaFinalTopics.length} chủ đề</p>
+        <RailSection title="Bài cũ của tôi">
+          <label className="flex cursor-pointer items-center justify-center gap-2 rounded-lg border border-input bg-card px-3 py-2 text-sm font-semibold hover:bg-accent">
+            <FileUp className="size-4" /> Chọn tệp Sp.txt
+            <input type="file" accept=".txt,text/plain" className="sr-only" onChange={(e) => { void loadDrafts(e.target.files?.[0]); e.target.value = "" }} />
+          </label>
+          {importMessage && <p role="status" className="text-xs text-muted-foreground">{importMessage}</p>}
+          {imported.some((draft) => draft.exact) && <Button variant="outline" size="sm" className="w-full" onClick={importExactDrafts}>Nhập bản nháp khớp chính xác còn trống</Button>}
+          <p className="text-xs text-muted-foreground">Tệp chỉ được đọc trên thiết bị này; các câu tương tự cần bạn chọn thủ công.</p>
+        </RailSection>
         {mode === "browse" ? (
           <>
             <RailSection title="Chủ đề">
@@ -140,7 +178,7 @@ export function IfaFinalSpeakingPage() {
                     )}
                   </div>
                 )}
-                <FinalQuestionDetails key={`${mode}-${currentQuestion.id}`} question={currentQuestion} revealed={mode === "browse" || phase === "done"} lessonAnswers={lessonAnswers} />
+                <FinalQuestionDetails key={`${mode}-${currentQuestion.id}`} question={currentQuestion} revealed={mode === "browse" || phase === "done"} lessonAnswers={lessonAnswers} imported={imported.filter((draft) => draft.questionId === currentQuestion.id)} />
                 {mode === "browse" ? (
                   <div className="flex justify-between gap-2 border-t border-border pt-4">
                     <Button variant="outline" disabled={questionIndex === 0} onClick={() => setQuestionIndex((i) => i - 1)}><ArrowLeft className="size-4" /> Trước</Button>
@@ -162,10 +200,11 @@ export function IfaFinalSpeakingPage() {
   )
 }
 
-function FinalQuestionDetails({ question, revealed, lessonAnswers }: {
+function FinalQuestionDetails({ question, revealed, lessonAnswers, imported }: {
   question: IfaFinalQuestion
   revealed: boolean
   lessonAnswers: Record<string, { answer: string; title: string }>
+  imported: ImportedSpeakingDraft[]
 }) {
   const progress = useIfaFinalSpeaking((s) => s.progress[question.id])
   const saveAnswer = useIfaFinalSpeaking((s) => s.saveAnswer)
@@ -174,6 +213,7 @@ function FinalQuestionDetails({ question, revealed, lessonAnswers }: {
   const [showMyAnswer, setShowMyAnswer] = useState(false)
   const speak = useSpeak()
   const matches = matchedHandoutAnswers(question.id, lessonAnswers)
+  const related = relatedLessonQuestions(question.id)
   const visible = revealed && showHints
 
   return (
@@ -185,9 +225,55 @@ function FinalQuestionDetails({ question, revealed, lessonAnswers }: {
           </Button>
           {visible && (
             <div className="space-y-4 rounded-xl border border-border bg-muted/30 p-4">
-              <div><h3 className="mb-2 text-sm font-bold">Ý để triển khai</h3><ul className="list-inside list-disc space-y-1 text-sm">{question.ideas.map((idea) => <li key={idea}>{idea}</li>)}</ul></div>
-              <div><h3 className="mb-2 text-sm font-bold">Khung trả lời</h3><p className="content-en rounded-lg bg-card p-3 text-sm">{question.frame}</p></div>
-              <div><h3 className="mb-2 text-sm font-bold">Cụm từ nên thử</h3><div className="flex flex-wrap gap-2">{question.words.map((word) => <span key={word} className="content-en rounded-full border border-border bg-card px-2.5 py-1 text-sm">{word}</span>)}</div></div>
+              <div className="space-y-3">
+                <h3 className="text-sm font-bold">3 ý để phát triển câu trả lời</h3>
+                <p className="text-xs text-muted-foreground">Trả lời trực tiếp → giải thích → thêm chi tiết hoặc ví dụ. Mở từng ý để chọn cụm từ phù hợp với bạn.</p>
+                {question.guide.map((point, i) => (
+                  <details key={i} className="rounded-lg border border-border bg-card p-3 open:border-primary/40">
+                    <summary className="cursor-pointer text-sm font-semibold leading-relaxed">{i + 1}. {point.idea}</summary>
+                    <div className="mt-3 grid gap-2 sm:grid-cols-2">
+                      {point.phrases.map(({ en, vi }, j) => (
+                        <div key={j} className="rounded-md bg-muted/50 p-2.5 text-sm">
+                          <p className="content-en font-semibold">{en}</p><p className="mt-1 text-xs text-muted-foreground">{vi}</p>
+                        </div>
+                      ))}
+                    </div>
+                  </details>
+                ))}
+              </div>
+              <div><h3 className="mb-2 text-sm font-bold">Khung nối ý</h3><p className="content-en rounded-lg bg-card p-3 text-sm">{question.frame}</p></div>
+              {related.length > 0 ? (
+                <details className="space-y-3 border-t border-border pt-4">
+                  <summary className="cursor-pointer text-sm font-bold">Xem thêm cách diễn đạt từ Speaking theo lesson</summary>
+                  <p className="mt-2 text-xs text-muted-foreground">Đây là câu hỏi liên quan; hãy điều chỉnh ý và thì cho đúng câu Final trước khi dùng.</p>
+                  {related.map(({ handout, question: lessonQuestion, index }) => (
+                    <div key={`${handout.id}-${index}`} className="mt-3 space-y-3 rounded-lg border border-border bg-card p-4">
+                      <p className="text-xs font-semibold text-primary">Lesson {handout.lesson} · {handout.audienceLabel ?? handout.topicLabel}</p>
+                      <p className="content-en text-sm font-semibold">{lessonQuestion.title}</p>
+                      {lessonQuestion.scenarios.slice(0, 2).map((scenario, i) => (
+                        <div key={i} className="space-y-2 border-t border-border pt-3">
+                          <p className="text-sm font-bold">{scenario.name}</p>
+                          {scenario.structs[0]?.example && <p className="content-en rounded-md bg-primary-soft px-3 py-2 text-sm leading-relaxed">{scenario.structs[0].example}</p>}
+                          <div className="grid gap-2 sm:grid-cols-3">
+                            {([
+                              [scenario.labels.g1, scenario.g1],
+                              [scenario.labels.g2, scenario.g2DependsOnG1 ? scenario.g1.flatMap((phrase) => phrase.places ?? []) : scenario.g2groups.flatMap((group) => group.items)],
+                              [scenario.labels.g3, scenario.g3groups.flatMap((group) => group.items)],
+                            ] as const).map(([label, phrases], slot) => (
+                              <div key={slot} className="rounded-md bg-muted/40 p-2.5">
+                                <p className="mb-2 text-xs font-bold text-muted-foreground">{label}</p>
+                                {phrases.slice(0, 3).map((phrase, j) => <p key={j} className="mb-2 text-sm"><span className="content-en font-medium">{phrase.en}</span><span className="block text-xs text-muted-foreground">{phrase.vi}</span></p>)}
+                              </div>
+                            ))}
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  ))}
+                </details>
+              ) : question.sample && (
+                <details className="border-t border-border pt-4"><summary className="cursor-pointer text-sm font-bold">Xem ví dụ tham khảo (không phải bài của bạn)</summary><p className="content-en mt-2 rounded-lg bg-card p-3 text-sm leading-relaxed">{question.sample}</p></details>
+              )}
             </div>
           )}
         </section>
@@ -202,6 +288,16 @@ function FinalQuestionDetails({ question, revealed, lessonAnswers }: {
               <div className="rounded-lg border border-border bg-muted/30 p-3 text-sm">
                 <p className="font-semibold">Bạn đã lưu {matches.length} câu gần tương ứng trong Speaking theo lesson.</p>
                 {matches.map((answer, i) => <div key={i} className="mt-2 space-y-1"><p className="content-en text-muted-foreground">{answer.title}</p><p className="content-en">{answer.answer}</p><Button variant="outline" size="sm" onClick={() => saveAnswer(question.id, answer.answer)}><ClipboardCopy className="size-4" /> Dùng làm bản nháp</Button></div>)}
+              </div>
+            )}
+            {imported.length > 0 && (
+              <div className="space-y-3 rounded-lg border border-border bg-muted/30 p-3 text-sm">
+                <p className="font-semibold">Bản nháp từ tệp của bạn · xem lại trước khi dùng</p>
+                {imported.map((draft, i) => <div key={i} className="space-y-2 border-t border-border pt-2">
+                  <p className="content-en text-muted-foreground">{draft.sourceQuestion}{!draft.exact && " · câu hỏi tương tự"}</p>
+                  <p className="content-en whitespace-pre-wrap">{draft.answer}</p>
+                  <Button variant="outline" size="sm" onClick={() => saveAnswer(question.id, draft.answer)}><ClipboardCopy className="size-4" /> Dùng bản nháp này</Button>
+                </div>)}
               </div>
             )}
             <div className="flex flex-wrap gap-2">{STATUS.map(({ id, label }) => <Button key={id} size="sm" variant={(progress?.status ?? "new") === id ? "default" : "outline"} onClick={() => setConfidence(question.id, id)}>{label}</Button>)}</div>

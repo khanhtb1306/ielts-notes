@@ -1515,6 +1515,34 @@ function buildIfaFinalSpeaking() {
       ids.add(q.id)
     }
   }
+  const examplesPath = join(IFA_ENRICH, "final-speaking-examples.json")
+  if (existsSync(examplesPath)) {
+    const examples = JSON.parse(readFileSync(examplesPath, "utf8"))
+    for (const topic of topics) {
+      for (const question of topic.questions) {
+        if (typeof examples[question.id] === "string") question.sample = examples[question.id]
+      }
+    }
+  }
+  const guidesPath = join(IFA_ENRICH, "final-speaking-guides.json")
+  if (!existsSync(guidesPath)) throw new Error("IFA final Speaking: missing final-speaking-guides.json")
+  const guides = JSON.parse(readFileSync(guidesPath, "utf8"))
+  for (const topic of topics) {
+    for (const question of topic.questions) {
+      const points = guides[question.id]
+      if (!Array.isArray(points) || points.length < 2 || points.length > 3 || !points.every(
+        (point) => Array.isArray(point) && typeof point[0] === "string" && point[0].trim() &&
+          Array.isArray(point[1]) && point[1].length >= 2 && point[1].every(
+            (phrase) => Array.isArray(phrase) && phrase.length === 2 && phrase.every((text) => typeof text === "string" && text.trim())
+          )
+      )) throw new Error(`IFA final Speaking: incomplete guide for ${question.id}`)
+      question.guide = points.map(([idea, phrases]) => ({
+        idea,
+        phrases: phrases.map(([en, vi]) => ({ en, vi })),
+      }))
+    }
+  }
+  if (Object.keys(guides).some((id) => !ids.has(id))) throw new Error("IFA final Speaking: guide refers to an unknown question")
   return topics
 }
 
