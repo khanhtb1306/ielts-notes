@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 import { Link } from "react-router-dom"
-import { Shuffle, Volume2, ArrowLeft, RotateCcw, Timer, Pause, Play } from "lucide-react"
+import { Shuffle, Volume2, ArrowLeft, RotateCcw, Timer, Pause, Play, Settings2 } from "lucide-react"
 import { Card, CardContent } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { cn } from "@/lib/utils"
@@ -14,6 +14,8 @@ import {
   RailSelect,
   RailVoice,
 } from "@/components/ifa/SpeakingRail"
+import { OptionsSheet } from "@/components/ifa/OptionsSheet"
+import { Select } from "@/components/ui/select"
 import type { RailSelectOption } from "@/components/ifa/SpeakingRail"
 import { VariantTabs } from "@/components/ifa/VariantTabs"
 import type { IfaDrillItem } from "@/types/content"
@@ -59,6 +61,7 @@ export function IfaSpeakingDrillPage() {
   const [timerOn, setTimerOn] = useState(true)
   const [phase, setPhase] = useState<Phase>("idle")
   const [remaining, setRemaining] = useState(0)
+  const [sheetOpen, setSheetOpen] = useState(false)
   const tickRef = useRef<number | null>(null)
   const speak = useSpeak()
 
@@ -225,7 +228,31 @@ export function IfaSpeakingDrillPage() {
           )}
         </SpeakingRail>
 
-        <div className="mt-5 min-w-0 flex-1 space-y-4 lg:mt-0">
+        {/* Mobile control bar + options sheet. Hidden from lg. */}
+        <div className="mb-4 flex items-center gap-2 lg:hidden">
+          <Select id="ifa-drill-lesson-m" className="flex-1" value={lessonId} options={lessonOptions} onChange={selectLesson} />
+          <Button variant="outline" size="icon" aria-label="Tùy chọn" onClick={() => setSheetOpen(true)}><Settings2 className="size-4" /></Button>
+        </div>
+
+        <OptionsSheet open={sheetOpen} onClose={() => setSheetOpen(false)}>
+          <RailSection title="Đếm giờ">
+            <Button variant={timerOn ? "secondary" : "outline"} size="sm" className="w-full" onClick={() => setTimerOn((v) => !v)}>
+              <Timer className="size-4" /> Đếm giờ: {timerOn ? "Bật" : "Tắt"}
+            </Button>
+          </RailSection>
+          {current && (
+            <>
+              <RailProgress done={answered} total={total} label="câu" />
+              <Button variant="outline" size="sm" className="w-full" onClick={restart}><RotateCcw className="size-4" /> Xáo lại từ đầu</Button>
+            </>
+          )}
+          <Button asChild variant="outline" size="sm" className="w-full justify-center">
+            <Link to="/speaking-ifa"><ArrowLeft className="size-4" /> Khung trả lời</Link>
+          </Button>
+          <RailVoice />
+        </OptionsSheet>
+
+        <div className="min-w-0 flex-1 space-y-4">
           {/* Audience splits become tabs here instead of extra rail entries. */}
           {lesson && (
             <VariantTabs

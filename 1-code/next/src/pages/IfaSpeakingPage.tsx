@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react"
 import { Link } from "react-router-dom"
-import { Shuffle, Volume2, Trash2 } from "lucide-react"
+import { ArrowLeft, ArrowRight, Settings2, Shuffle, Volume2, Trash2 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { cn } from "@/lib/utils"
 import { ttsSupported } from "@/lib/tts"
@@ -17,6 +17,8 @@ import {
   RailSelect,
   RailVoice,
 } from "@/components/ifa/SpeakingRail"
+import { OptionsSheet } from "@/components/ifa/OptionsSheet"
+import { Select } from "@/components/ui/select"
 import { VariantTabs } from "@/components/ifa/VariantTabs"
 import type { RailSelectOption } from "@/components/ifa/SpeakingRail"
 import type { SavedAnswer } from "@/stores/ifa-speaking"
@@ -27,6 +29,7 @@ export function IfaSpeakingPage() {
   const [variantIdx, setVariantIdx] = useState(0)
   const [questionIndex, setQuestionIndex] = useState(0)
 
+  const [sheetOpen, setSheetOpen] = useState(false)
   const topic = topics.find((t) => t.key === topicKey) ?? topics[0]
   const handout = topic?.variants[variantIdx] ?? topic?.variants[0]
   const handoutId = handout?.id ?? ""
@@ -135,8 +138,35 @@ export function IfaSpeakingPage() {
           )}
         </SpeakingRail>
 
+        {/* Mobile control bar + options sheet. Hidden from lg. */}
+        <div className="mb-4 flex items-center gap-2 lg:hidden">
+          <Select
+            id="ifa-topic-m"
+            className="flex-1"
+            value={topic?.key ?? ""}
+            options={topicOptions}
+            onChange={selectTopic}
+          />
+          {handout && (
+            <div className="flex items-center gap-1 rounded-lg border border-input bg-card px-1">
+              <Button variant="ghost" size="icon" disabled={questionIndex === 0} onClick={() => setQuestionIndex((i) => i - 1)} aria-label="Câu trước"><ArrowLeft className="size-4" /></Button>
+              <span className="min-w-[3ch] text-center text-sm font-semibold tabular-nums">{questionIndex + 1}/{handout.questions.length}</span>
+              <Button variant="ghost" size="icon" disabled={questionIndex >= handout.questions.length - 1} onClick={() => setQuestionIndex((i) => i + 1)} aria-label="Câu tiếp"><ArrowRight className="size-4" /></Button>
+            </div>
+          )}
+          <Button variant="outline" size="icon" aria-label="Tùy chọn" onClick={() => setSheetOpen(true)}><Settings2 className="size-4" /></Button>
+        </div>
+
+        <OptionsSheet open={sheetOpen} onClose={() => setSheetOpen(false)}>
+          {handout && <RailProgress done={saved.length} total={handout.questions.length} label="đã lưu" />}
+          <Button asChild variant="outline" size="sm" className="w-full justify-center">
+            <Link to="/speaking-ifa/drill"><Shuffle className="size-4" /> Luyện phản xạ</Link>
+          </Button>
+          <RailVoice />
+        </OptionsSheet>
+
         {handout && (
-          <div className="mt-5 min-w-0 flex-1 space-y-5 lg:mt-0">
+          <div className="min-w-0 flex-1 space-y-5">
             <div className="flex flex-wrap items-baseline gap-x-2 gap-y-1">
               <p className="text-lg font-bold tracking-tight">{handout.topicLabel}</p>
               {handout.grammarFocus && (

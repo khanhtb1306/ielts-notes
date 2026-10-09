@@ -288,10 +288,3 @@
   }
 }
 
-/* Final Speaking rail: the "other options" block collapses on phones but is
-   always expanded from lg, where the sticky rail has vertical room. */
-@media (min-width: 1024px) {
-  details.rail-extra > div {
-    display: block !important;
-  }
-}

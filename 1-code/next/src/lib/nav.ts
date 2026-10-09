@@ -7,6 +7,8 @@ export interface NavItem {
   icon: LucideIcon
   eyebrow?: string
   title: string
+  /** One-line title for the mobile header; falls back to `title`. */
+  shortTitle?: string
   subtitle?: string
   /** Short course tag shown next to the label when two courses share a label. */
   badge?: string
@@ -34,9 +36,9 @@ export const NAV_GROUPS: NavGroup[] = [
     id: "ifa-ielts",
     label: "IELTS Foundation A",
     items: [
-      { to: "/speaking-ifa", label: "Speaking", icon: Mic, badge: "IFA", eyebrow: "IELTS Foundation A · Speaking", title: "Speaking — IELTS Foundation A", subtitle: "Khung trả lời theo chủ đề + luyện phản xạ" },
-      { to: "/final-ifa/speaking", label: "Final Speaking", icon: ClipboardCheck, badge: "IFA", eyebrow: "IELTS Foundation A · Thi cuối khóa", title: "Final Speaking — IELTS Foundation A", subtitle: "Bộ câu hỏi giáo viên · luyện nói mỗi ngày" },
-      { to: "/vocab-ifa", label: "Từ vựng", icon: Layers, badge: "IFA", eyebrow: "IELTS Foundation A · Từ vựng", title: "Từ vựng — lật thẻ", subtitle: "Ôn bằng thẻ hai mặt, theo chủ đề Speaking" },
+      { to: "/speaking-ifa", label: "Speaking", icon: Mic, badge: "IFA", eyebrow: "IELTS Foundation A · Speaking", title: "Speaking — IELTS Foundation A", shortTitle: "Speaking", subtitle: "Khung trả lời theo chủ đề + luyện phản xạ" },
+      { to: "/final-ifa/speaking", label: "Final Speaking", icon: ClipboardCheck, badge: "IFA", eyebrow: "IELTS Foundation A · Thi cuối khóa", title: "Final Speaking — IELTS Foundation A", shortTitle: "Final Speaking", subtitle: "Bộ câu hỏi giáo viên · luyện nói mỗi ngày" },
+      { to: "/vocab-ifa", label: "Từ vựng", icon: Layers, badge: "IFA", eyebrow: "IELTS Foundation A · Từ vựng", title: "Từ vựng — lật thẻ", shortTitle: "Từ vựng", subtitle: "Ôn bằng thẻ hai mặt, theo chủ đề Speaking" },
     ],
   },
 ]
@@ -52,7 +54,24 @@ export const SUB_ROUTES: NavItem[] = [
     icon: Shuffle,
     eyebrow: "IELTS Foundation A · Speaking",
     title: "Luyện phản xạ",
+    shortTitle: "Luyện phản xạ",
     subtitle: "Câu hỏi ngẫu nhiên — trả lời ngay, không nhìn script",
+  },
+  {
+    to: "/practice/runner",
+    label: "Làm đề",
+    icon: GraduationCap,
+    eyebrow: "Pre-IELTS · Final Test",
+    title: "Đang làm đề",
+    shortTitle: "Làm đề",
+  },
+  {
+    to: "/practice/result",
+    label: "Kết quả",
+    icon: GraduationCap,
+    eyebrow: "Pre-IELTS · Final Test",
+    title: "Kết quả bài làm",
+    shortTitle: "Kết quả",
   },
 ]
 

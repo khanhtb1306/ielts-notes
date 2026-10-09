@@ -6,7 +6,6 @@ import { usePractice, uid } from "@/stores/practice"
 import type { SamplePoolConfig, SampledQuestion } from "@/lib/sample-pool"
 import type { QuestionKind } from "@/types/content"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 
 const GRADABLE: QuestionKind[] = ["single_choice", "multi_select", "fill_blank", "matching"]
@@ -46,10 +45,8 @@ export function FinalPage() {
 
   return (
     <div className="space-y-6">
-      <section className="rounded-xl border border-border bg-card p-6 shadow-card">
-        <Badge variant="success" className="mb-2">Kỳ thi cuối · Grammar</Badge>
-        <h2 className="text-2xl font-bold">Final Test — Ngữ pháp</h2>
-        <p className="mt-1 max-w-3xl text-muted-foreground">
+      <section className="rounded-xl border border-border bg-card p-4 shadow-card sm:p-6">
+        <p className="max-w-3xl text-sm text-muted-foreground sm:text-base">
           Làm bài theo đúng cấu trúc mock test: <b>{finalTests.blueprint.total} câu</b> trong <b>{finalTests.blueprint.timeMinutes} phút</b>,
           chia thành 4 phần Grammar giống đề Lesson 19,
           chấm điểm ngay và lưu lịch sử. Luyện Speaking nằm ở mục <Link to="/speaking" className="text-primary underline underline-offset-2">Speaking</Link>.

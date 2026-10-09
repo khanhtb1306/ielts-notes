@@ -13,6 +13,8 @@ import { useIfaSpeaking } from "@/stores/ifa-speaking"
 import { parseSpeakingDrafts } from "@/lib/ifa-final-import"
 import type { ImportedSpeakingDraft } from "@/lib/ifa-final-import"
 import { SpeakingRail, RailSection, RailSelect, RailProgress, RailStrip, RailItem, RailVoice } from "@/components/ifa/SpeakingRail"
+import { OptionsSheet } from "@/components/ifa/OptionsSheet"
+import { Select } from "@/components/ui/select"
 import type { IfaFinalQuestion } from "@/types/content"
 
 const STATUS: { id: FinalConfidence; label: string }[] = [
@@ -33,6 +35,7 @@ export function IfaFinalSpeakingPage() {
   const [seconds, setSeconds] = useState(0)
   const [imported, setImported] = useState<ImportedSpeakingDraft[]>([])
   const [importMessage, setImportMessage] = useState("")
+  const [sheetOpen, setSheetOpen] = useState(false)
   const progress = useIfaFinalSpeaking((s) => s.progress)
   const daily = useIfaFinalSpeaking((s) => s.daily)
   const ensureToday = useIfaFinalSpeaking((s) => s.ensureToday)
@@ -138,32 +141,77 @@ export function IfaFinalSpeakingPage() {
           </RailSection>
         )}
 
-        {/* Collapsed by default on phones; CSS forces it open from lg (rail-extra). */}
-        <details className="rail-extra">
-          <summary className="flex cursor-pointer items-center gap-1.5 text-[11px] font-bold uppercase tracking-[0.12em] text-muted-foreground lg:hidden">
-            <Settings2 className="size-3.5" /> Tùy chọn khác
-          </summary>
-          <div className="mt-3 space-y-4 lg:mt-0">
-            <RailProgress done={done} total={allFinalQuestions.length} label="đã tự tin" />
-            <p className="text-xs text-muted-foreground">{prepared}/{allFinalQuestions.length} câu đã có bài của tôi · {ifaFinalTopics.length} chủ đề</p>
-            <RailSection title="Bài cũ của tôi">
-              <label className="flex cursor-pointer items-center justify-center gap-2 rounded-lg border border-input bg-card px-3 py-2 text-sm font-semibold hover:bg-accent">
-                <FileUp className="size-4" /> Chọn tệp Sp.txt
-                <input type="file" accept=".txt,text/plain" className="sr-only" onChange={(e) => { void loadDrafts(e.target.files?.[0]); e.target.value = "" }} />
-              </label>
-              {importMessage && <p role="status" className="text-xs text-muted-foreground">{importMessage}</p>}
-              {imported.some((draft) => draft.exact) && <Button variant="outline" size="sm" className="w-full" onClick={importExactDrafts}>Nhập bản nháp khớp chính xác còn trống</Button>}
-              <p className="text-xs text-muted-foreground">Tệp chỉ được đọc trên thiết bị này; các câu tương tự cần bạn chọn thủ công.</p>
-            </RailSection>
-            <Button asChild variant="outline" size="sm" className="w-full justify-center">
-              <Link to="/speaking-ifa"><ArrowLeft className="size-4" /> Speaking theo lesson</Link>
-            </Button>
-            <RailVoice />
-          </div>
-        </details>
+        <RailProgress done={done} total={allFinalQuestions.length} label="đã tự tin" />
+        <p className="text-xs text-muted-foreground">{prepared}/{allFinalQuestions.length} câu đã có bài của tôi · {ifaFinalTopics.length} chủ đề</p>
+        <RailSection title="Bài cũ của tôi">
+          <label className="flex cursor-pointer items-center justify-center gap-2 rounded-lg border border-input bg-card px-3 py-2 text-sm font-semibold hover:bg-accent">
+            <FileUp className="size-4" /> Chọn tệp Sp.txt
+            <input type="file" accept=".txt,text/plain" className="sr-only" onChange={(e) => { void loadDrafts(e.target.files?.[0]); e.target.value = "" }} />
+          </label>
+          {importMessage && <p role="status" className="text-xs text-muted-foreground">{importMessage}</p>}
+          {imported.some((draft) => draft.exact) && <Button variant="outline" size="sm" className="w-full" onClick={importExactDrafts}>Nhập bản nháp khớp chính xác còn trống</Button>}
+          <p className="text-xs text-muted-foreground">Tệp chỉ được đọc trên thiết bị này; các câu tương tự cần bạn chọn thủ công.</p>
+        </RailSection>
+        <Button asChild variant="outline" size="sm" className="w-full justify-center">
+          <Link to="/speaking-ifa"><ArrowLeft className="size-4" /> Speaking theo lesson</Link>
+        </Button>
+        <RailVoice />
       </SpeakingRail>
 
-      <div className="mt-5 min-w-0 flex-1 space-y-4 lg:mt-0">
+      {/* Mobile control bar: topic + question nav + options sheet. Hidden from lg. */}
+      <div className="mb-4 space-y-2 lg:hidden">
+        {mode === "browse" ? (
+          <div className="flex items-center gap-2">
+            <Select
+              id="ifa-final-topic-m"
+              className="flex-1"
+              value={topic.id}
+              options={ifaFinalTopics.map((t) => ({ value: t.id, label: `${t.label} (${t.questions.length})` }))}
+              onChange={(id) => { setTopicId(id); setQuestionIndex(0) }}
+            />
+            <div className="flex items-center gap-1 rounded-lg border border-input bg-card px-1">
+              <Button variant="ghost" size="icon" disabled={questionIndex === 0} onClick={() => setQuestionIndex((i) => i - 1)} aria-label="Câu trước"><ArrowLeft className="size-4" /></Button>
+              <span className="min-w-[3ch] text-center text-sm font-semibold tabular-nums">{questionIndex + 1}/{topic.questions.length}</span>
+              <Button variant="ghost" size="icon" disabled={questionIndex >= topic.questions.length - 1} onClick={() => setQuestionIndex((i) => i + 1)} aria-label="Câu tiếp"><ArrowRight className="size-4" /></Button>
+            </div>
+            <Button variant="outline" size="icon" aria-label="Tùy chọn" onClick={() => setSheetOpen(true)}><Settings2 className="size-4" /></Button>
+          </div>
+        ) : (
+          <div className="flex items-center gap-2">
+            <p className="flex-1 truncate rounded-lg border border-border bg-card px-3 py-2 text-sm">{daily?.date === localDay() ? `Hôm nay · ${Math.min(daily.cursor + 1, daily.ids.length)}/${daily.ids.length} câu` : "Đang chuẩn bị…"}</p>
+            <Button variant="outline" size="icon" aria-label="Tùy chọn" onClick={() => setSheetOpen(true)}><Settings2 className="size-4" /></Button>
+          </div>
+        )}
+      </div>
+
+      <OptionsSheet open={sheetOpen} onClose={() => setSheetOpen(false)}>
+        <div className="grid grid-cols-2 gap-2">
+          <Button variant={mode === "browse" ? "default" : "outline"} size="sm" onClick={() => { switchMode("browse"); setSheetOpen(false) }}>Theo chủ đề</Button>
+          <Button variant={mode === "daily" ? "default" : "outline"} size="sm" onClick={() => { switchMode("daily"); setSheetOpen(false) }}>Mỗi ngày</Button>
+        </div>
+        {mode === "daily" && (
+          <>
+            <Button variant="outline" size="sm" className="w-full" onClick={() => { setCursor(0); setPhase("idle") }}><RotateCcw className="size-4" /> Luyện lại lượt này</Button>
+            <Button variant="outline" size="sm" className="w-full" onClick={() => { setTimerOn((on) => !on); setPhase("idle") }}>{timerOn ? "Đếm giờ: Bật" : "Đếm giờ: Tắt"}</Button>
+          </>
+        )}
+        <RailProgress done={done} total={allFinalQuestions.length} label="đã tự tin" />
+        <p className="text-xs text-muted-foreground">{prepared}/{allFinalQuestions.length} câu đã có bài của tôi · {ifaFinalTopics.length} chủ đề</p>
+        <RailSection title="Bài cũ của tôi">
+          <label className="flex cursor-pointer items-center justify-center gap-2 rounded-lg border border-input bg-card px-3 py-2 text-sm font-semibold hover:bg-accent">
+            <FileUp className="size-4" /> Chọn tệp Sp.txt
+            <input type="file" accept=".txt,text/plain" className="sr-only" onChange={(e) => { void loadDrafts(e.target.files?.[0]); e.target.value = "" }} />
+          </label>
+          {importMessage && <p role="status" className="text-xs text-muted-foreground">{importMessage}</p>}
+          {imported.some((draft) => draft.exact) && <Button variant="outline" size="sm" className="w-full" onClick={importExactDrafts}>Nhập bản nháp khớp chính xác còn trống</Button>}
+        </RailSection>
+        <Button asChild variant="outline" size="sm" className="w-full justify-center">
+          <Link to="/speaking-ifa"><ArrowLeft className="size-4" /> Speaking theo lesson</Link>
+        </Button>
+        <RailVoice />
+      </OptionsSheet>
+
+      <div className="min-w-0 flex-1 space-y-4">
         {mode === "daily" && !currentDailyQuestion && daily?.date === localDay() ? (
           <Card><CardContent className="space-y-3 p-8 text-center"><h2 className="text-xl font-bold">Hoàn thành lượt ôn hôm nay!</h2><p className="text-sm text-muted-foreground">Đã đi qua {daily.ids.length} câu. Ngày mai app sẽ ưu tiên những câu bạn luyện ít hơn.</p><Button onClick={() => setCursor(0)}>Luyện lại</Button></CardContent></Card>
         ) : currentQuestion && (

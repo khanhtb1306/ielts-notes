@@ -333,7 +333,7 @@ export function PracticeRunnerPage() {
         )
       })()}
 
-      <div className="sticky bottom-4 flex justify-center">
+      <div className="sticky bottom-[5.5rem] flex justify-center md:bottom-4">
         <Button onClick={submit} size="lg" className="shadow-lg">
           <CheckCircle2 className="h-5 w-5" /> Submit &amp; Chấm điểm
         </Button>

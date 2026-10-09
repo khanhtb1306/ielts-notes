@@ -22,13 +22,13 @@ export function LandingPage() {
   )
 
   return (
-    <div className="space-y-10">
-      <section className="overflow-hidden rounded-xl border border-border bg-card p-6 shadow-card sm:p-10">
-        <Badge variant="secondary" className="mb-3">Pre-IELTS · IELTS Foundation A</Badge>
-        <h2 className="text-3xl font-bold leading-tight tracking-tight sm:text-4xl">
+    <div className="space-y-6 sm:space-y-10">
+      <section className="overflow-hidden rounded-xl border border-border bg-card p-5 shadow-card sm:p-10">
+        <Badge variant="secondary" className="mb-3 hidden sm:inline-flex">Pre-IELTS · IELTS Foundation A</Badge>
+        <h2 className="text-2xl font-bold leading-tight tracking-tight sm:text-4xl">
           Ôn tập tập trung — <span className="text-primary">Ngữ pháp & Speaking</span> cho cả hai khóa.
         </h2>
-        <p className="mt-3 max-w-2xl text-muted-foreground">
+        <p className="mt-3 max-w-2xl text-sm text-muted-foreground sm:text-base">
           {meta.stageIntro ||
             "Học theo tài liệu tổng hợp của trung tâm, luyện Speaking theo bộ câu hỏi chắc chắn hỏi, và làm Final Test theo đúng cấu trúc mock."}
         </p>

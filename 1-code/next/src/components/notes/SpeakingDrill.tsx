@@ -502,7 +502,7 @@ export function SpeakingDrill({ questions }: Props) {
 
       {/* ── Recorder panel fixed ── */}
       {recorderOpen && (
-        <div className="fixed bottom-44 right-6 z-40 flex w-80 flex-col rounded-2xl border border-border bg-card shadow-2xl">
+        <div className="fixed bottom-[13.5rem] right-6 z-40 flex w-80 flex-col rounded-2xl border border-border bg-card shadow-2xl md:bottom-44">
           {/* header */}
           <div className="flex items-center gap-2 border-b border-border px-3 py-2">
             {listening ? (
@@ -588,7 +588,7 @@ export function SpeakingDrill({ questions }: Props) {
         }}
         title={recorderOpen ? "Đóng ghi âm" : "Mở ghi âm"}
         className={
-          "fixed bottom-24 right-6 z-40 flex h-14 w-14 items-center justify-center rounded-full shadow-lg transition-all hover:scale-105 active:scale-95 " +
+          "fixed bottom-[9.5rem] right-6 z-40 flex h-14 w-14 items-center justify-center rounded-full shadow-lg transition-all hover:scale-105 active:scale-95 md:bottom-24 " +
           (listening
             ? "bg-destructive text-destructive-foreground"
             : recorderOpen
@@ -601,7 +601,7 @@ export function SpeakingDrill({ questions }: Props) {
 
       {/* Import panel */}
       {showImport && (
-        <div className="fixed bottom-44 left-1/2 z-50 w-[min(92vw,480px)] -translate-x-1/2 rounded-2xl border border-border bg-card p-4 shadow-2xl">
+        <div className="fixed bottom-[13.5rem] left-1/2 z-50 w-[min(92vw,480px)] -translate-x-1/2 rounded-2xl border border-border bg-card p-4 shadow-2xl md:bottom-44">
           <div className="mb-2 flex items-center justify-between">
             <span className="font-bold text-primary text-sm">Import câu trả lời</span>
             <button type="button" onClick={() => setShowImport(false)} className="flex h-7 w-7 items-center justify-center rounded-full hover:bg-muted"><X className="h-4 w-4" /></button>
@@ -631,7 +631,7 @@ export function SpeakingDrill({ questions }: Props) {
         onClick={() => setShowImport((v) => !v)}
         title="Import câu trả lời"
         className={
-          "fixed bottom-44 right-6 z-40 flex h-14 w-14 items-center justify-center rounded-full shadow-lg transition-all hover:scale-105 active:scale-95 " +
+          "fixed bottom-[13.5rem] right-6 z-40 flex h-14 w-14 items-center justify-center rounded-full shadow-lg transition-all hover:scale-105 active:scale-95 md:bottom-44 " +
           (showImport ? "bg-primary text-primary-foreground" : "bg-card border border-border text-primary hover:bg-primary hover:text-primary-foreground")
         }
       >
@@ -644,7 +644,7 @@ export function SpeakingDrill({ questions }: Props) {
         onClick={() => setShowQuestionText((v) => !v)}
         title={showQuestionText ? "Ẩn câu hỏi" : "Hiện câu hỏi"}
         className={
-          "fixed bottom-6 right-6 z-40 flex h-14 w-14 items-center justify-center rounded-full shadow-lg transition-all hover:scale-105 active:scale-95 " +
+          "fixed bottom-[5.5rem] right-6 z-40 flex h-14 w-14 items-center justify-center rounded-full shadow-lg transition-all hover:scale-105 active:scale-95 md:bottom-6 " +
           (showQuestionText
             ? "bg-primary text-primary-foreground"
             : "bg-card border border-border text-primary hover:bg-primary hover:text-primary-foreground")

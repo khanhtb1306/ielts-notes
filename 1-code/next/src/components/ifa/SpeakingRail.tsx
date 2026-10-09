@@ -14,7 +14,9 @@ export function SpeakingRail({ children, className }: { children: ReactNode; cla
   return (
     <aside
       className={cn(
-        "slim-scroll space-y-4 lg:sticky lg:top-6 lg:w-60 lg:shrink-0 lg:self-start lg:max-h-[calc(100vh-3rem)] lg:overflow-y-auto lg:pr-1",
+        // Desktop-only control rail. On phones each page renders a compact
+        // MobileControlBar + OptionsSheet instead, so this is hidden below lg.
+        "hidden lg:block slim-scroll space-y-4 lg:sticky lg:top-6 lg:w-60 lg:shrink-0 lg:self-start lg:max-h-[calc(100vh-3rem)] lg:overflow-y-auto lg:pr-1",
         className
       )}
       data-toc-skip
@@ -38,7 +40,7 @@ export function RailSection({
       {/* Fixed header height so sections sitting side by side line up, whether
           or not they carry an action button. */}
       {(title || action) && (
-        <div className="flex h-6 items-center justify-between gap-2">
+        <div className="flex min-h-6 items-center justify-between gap-2">
           {title && (
             <p className="text-[11px] font-bold uppercase tracking-[0.12em] text-muted-foreground">
               {title}

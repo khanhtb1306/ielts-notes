@@ -14,15 +14,9 @@ type Props = {
   type: "pronunciation" | "grammar" | "speaking"
 }
 
-const LABEL: Record<Props["type"], string> = {
-  pronunciation: "Pronunciation Notes",
-  grammar: "Grammar Notes",
-  speaking: "Speaking Notes",
-}
-
 export function NotesPage({ type }: Props) {
   const location = useLocation()
-  const { docs, notesAudio, ipa, meta, speakingQuestions, topicLabels } = useData()
+  const { docs, notesAudio, ipa, speakingQuestions, topicLabels } = useData()
   const search = useUi((s) => s.search).toLowerCase().trim()
 
   const list = useMemo(() => docs.filter((d) => d.type === type), [docs, type])
@@ -40,9 +34,6 @@ export function NotesPage({ type }: Props) {
     )
   }, [visibleList, search])
 
-  const sub =
-    type === "pronunciation" ? meta.pronSub : type === "grammar" ? meta.grammarSub : meta.speakingSub
-
   useEffect(() => {
     if (!location.hash) return
     const id = decodeURIComponent(location.hash.slice(1))
@@ -54,14 +45,6 @@ export function NotesPage({ type }: Props) {
 
   return (
     <div className="space-y-6">
-      {type === "pronunciation" && (
-        <div className="rounded-xl border border-border bg-card p-6 shadow-card">
-          <div className="text-[11px] font-bold uppercase tracking-widest text-primary">Lesson 1–5</div>
-          <h2 className="mt-1 text-2xl font-bold">{LABEL[type]}</h2>
-          {sub && <p className="text-muted-foreground mt-1">{sub}</p>}
-        </div>
-      )}
-
       {type === "pronunciation" && <PronTool />}
       {type === "pronunciation" && ipa && (
         <IpaChart mono={ipa.monophthongs || []} diph={ipa.diphthongs || []} cons={ipa.consonants || []} />

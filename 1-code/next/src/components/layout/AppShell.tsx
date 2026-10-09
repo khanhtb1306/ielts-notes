@@ -1,6 +1,7 @@
 import { useRef, type ReactNode } from "react"
 import { Sidebar } from "./Sidebar"
 import { TopBar } from "./TopBar"
+import { MobilePageTitle } from "./MobilePageTitle"
 import { MobileMenu } from "./MobileMenu"
 import { BottomNav } from "./BottomNav"
 import { TableOfContents } from "./TableOfContents"
@@ -17,11 +18,12 @@ export function AppShell({ children }: { children: ReactNode }) {
         <div className="hidden md:block sticky top-0 h-screen overflow-y-auto sidebar-scope">
           <Sidebar className="h-full" collapsible />
         </div>
-        <main className="min-w-0 overflow-x-clip px-4 py-6 pb-[calc(5.5rem+env(safe-area-inset-bottom))] sm:px-8 md:pb-20 lg:px-12">
+        <main className="min-w-0 overflow-x-clip px-4 py-4 pb-[calc(5.5rem+env(safe-area-inset-bottom))] sm:px-8 sm:py-6 md:pb-20 lg:px-12">
           <div className="mx-auto max-w-7xl">
             <TopBar />
-            <div className="mt-6 flex gap-8">
+            <div className="flex gap-8 md:mt-6">
               <div ref={contentRef} className="min-w-0 flex-1">
+                <MobilePageTitle />
                 {children}
               </div>
               <TableOfContents containerRef={contentRef} />

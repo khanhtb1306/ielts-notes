@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react"
 import { Link } from "react-router-dom"
-import { Grid2x2, GraduationCap, Layers, List, MessageSquare, RefreshCw, Star, Trash2 } from "lucide-react"
+import { Grid2x2, GraduationCap, Layers, List, MessageSquare, RefreshCw, Settings2, Star, Trash2 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { cn } from "@/lib/utils"
 import { ifaVocabCards, ifaVocabTopics, cardsInTopic, cardsFromSource, VOCAB_SOURCE_LABELS } from "@/lib/ifa-vocab"
@@ -16,6 +16,8 @@ import {
   RailSelect,
   RailVoice,
 } from "@/components/ifa/SpeakingRail"
+import { OptionsSheet } from "@/components/ifa/OptionsSheet"
+import { Select } from "@/components/ui/select"
 import type { RailSelectOption } from "@/components/ifa/SpeakingRail"
 
 const ALL = "__all__"
@@ -61,6 +63,7 @@ export function IfaVocabPage() {
   const [source, setSource] = useState<SourceFilter>("all")
   const [filter, setFilter] = useState<Filter>("all")
   const [direction, setDirection] = useState<Direction>("en-vi")
+  const [sheetOpen, setSheetOpen] = useState(false)
   /** Bumped to rebuild the deck from current progress. */
   const [deckToken, setDeckToken] = useState(0)
   const rebuildDeck = () => setDeckToken((n) => n + 1)
@@ -217,7 +220,39 @@ export function IfaVocabPage() {
           </Button>
         </SpeakingRail>
 
-        <div className="mt-5 min-w-0 flex-1 space-y-4 lg:mt-0">
+        {/* Mobile control bar: topic + source up front, the rest in a sheet. */}
+        <div className="mb-4 flex items-center gap-2 lg:hidden">
+          <Select id="vocab-topic-m" className="flex-1" value={topic} options={topicOptions} onChange={(v) => { setTopic(v); rebuildDeck() }} />
+          <Select id="vocab-source-m" className="flex-1" value={source} options={SOURCE_OPTIONS} onChange={(v) => { setSource(v as SourceFilter); rebuildDeck() }} />
+          <Button variant="outline" size="icon" aria-label="Tùy chọn" onClick={() => setSheetOpen(true)}><Settings2 className="size-4" /></Button>
+        </div>
+
+        <OptionsSheet open={sheetOpen} onClose={() => setSheetOpen(false)}>
+          <RailSection title="Lọc">
+            <Select id="vocab-filter-m" value={filter} options={FILTER_OPTIONS} onChange={(v) => { setFilter(v as Filter); rebuildDeck() }} />
+            <p className="mt-1.5 text-xs text-muted-foreground">{deck.length} thẻ trong lượt học</p>
+          </RailSection>
+          {mode === "learn" && (
+            <RailSection title="Chiều hỏi">
+              <Select id="vocab-direction-m" value={direction} options={DIRECTION_OPTIONS} onChange={(v) => setDirection(v as Direction)} />
+            </RailSection>
+          )}
+          <RailSection title="Tiến độ">
+            <ProgressBreakdown {...stats} />
+          </RailSection>
+          <Button variant="outline" size="sm" className="w-full justify-start text-muted-foreground" onClick={() => {
+            const label = topic === ALL ? "toàn bộ" : `chủ đề ${topic}`
+            if (window.confirm(`Xoá tiến độ và sao của ${label} (${scope.length} từ)?`)) { reset(scope.map((c) => c.id)); rebuildDeck() }
+          }}>
+            <Trash2 className="size-4" /> Đặt lại tiến độ
+          </Button>
+          <Button asChild variant="outline" size="sm" className="w-full justify-center">
+            <Link to="/speaking-ifa"><MessageSquare className="size-4" /> Khung trả lời</Link>
+          </Button>
+          <RailVoice />
+        </OptionsSheet>
+
+        <div className="min-w-0 flex-1 space-y-4">
           {/* Mode switcher */}
           <div role="tablist" className="rail-strip flex gap-1 overflow-x-auto rounded-lg border border-border bg-muted/50 p-1">
             {MODES.map((m) => (

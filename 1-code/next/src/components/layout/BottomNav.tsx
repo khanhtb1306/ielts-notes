@@ -19,11 +19,22 @@ export function BottomNav() {
 
   return (
     <nav
-      aria-label="Điều hướng nhanh"
+      aria-label="Điều hướng"
       className="fixed inset-x-0 bottom-0 z-40 border-t border-border bg-card/95 backdrop-blur md:hidden"
       style={{ paddingBottom: "env(safe-area-inset-bottom)" }}
     >
       <ul className="mx-auto flex max-w-xl items-stretch">
+        <li className="flex-1">
+          <button
+            type="button"
+            onClick={() => openMenu(true)}
+            aria-label="Mở menu"
+            className="flex min-h-[56px] w-full flex-col items-center justify-center gap-0.5 px-1 py-1.5 text-[11px] font-semibold text-muted-foreground transition-colors hover:text-foreground"
+          >
+            <Menu className="size-5 shrink-0" />
+            <span>Menu</span>
+          </button>
+        </li>
         {items.map((item) => (
           <li key={item.to} className="flex-1">
             <NavLink
@@ -40,16 +51,6 @@ export function BottomNav() {
             </NavLink>
           </li>
         ))}
-        <li className="flex-1">
-          <button
-            type="button"
-            onClick={() => openMenu(true)}
-            className="flex min-h-[56px] w-full flex-col items-center justify-center gap-0.5 px-1 py-1.5 text-[11px] font-semibold text-muted-foreground transition-colors hover:text-foreground"
-          >
-            <Menu className="size-5 shrink-0" />
-            <span>Menu</span>
-          </button>
-        </li>
       </ul>
     </nav>
   )
