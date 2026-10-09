@@ -202,16 +202,21 @@ export interface SpeakingQuestion {
 }
 
 /** Fixed teacher-provided IFA final Speaking list, separate from lesson handouts. */
+export interface IfaFinalPhrase {
+  en: string
+  vi: string
+  ipa: string
+}
+
 export interface IfaFinalQuestion {
   id: string
   q: string
   vi: string
-  ideas: string[]
-  frame: string
-  words: string[]
+  /** Where the phrases come from, e.g. "Lesson 5 · Transport" or "Daily Challenge · Films". */
+  source: string
   /** Generic illustration; never an assumed personal answer. */
   sample?: string
-  guide: { idea: string; phrases: { en: string; vi: string }[] }[]
+  guide: { idea: string; phrases: IfaFinalPhrase[] }[]
 }
 
 export interface IfaFinalTopic {

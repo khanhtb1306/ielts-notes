@@ -1509,9 +1509,13 @@ function buildIfaFinalSpeaking() {
       throw new Error("IFA final Speaking: invalid topic")
     }
     for (const q of topic.questions) {
-      if (!q.id || !q.q || !q.frame || !Array.isArray(q.ideas) || !Array.isArray(q.words) || ids.has(q.id)) {
+      if (!q.id || !q.q || ids.has(q.id)) {
         throw new Error(`IFA final Speaking: invalid or repeated question ${q.id}`)
       }
+      // ideas/words are legacy and no longer rendered; drop them so they stop shipping.
+      delete q.ideas
+      delete q.words
+      delete q.frame
       ids.add(q.id)
     }
   }
@@ -1529,16 +1533,25 @@ function buildIfaFinalSpeaking() {
   const guides = JSON.parse(readFileSync(guidesPath, "utf8"))
   for (const topic of topics) {
     for (const question of topic.questions) {
-      const points = guides[question.id]
+      const entry = guides[question.id]
+      // Each guide entry is { source, points: [[idea, [[en, vi, ipa?], ...]], ...] }.
+      // Phrases carry IPA so the final list reads like the lesson handouts, not bare words.
+      if (!entry || typeof entry.source !== "string" || !entry.source.trim()) {
+        throw new Error(`IFA final Speaking: guide for ${question.id} needs a source label`)
+      }
+      const points = entry.points
       if (!Array.isArray(points) || points.length < 2 || points.length > 3 || !points.every(
         (point) => Array.isArray(point) && typeof point[0] === "string" && point[0].trim() &&
           Array.isArray(point[1]) && point[1].length >= 2 && point[1].every(
-            (phrase) => Array.isArray(phrase) && phrase.length === 2 && phrase.every((text) => typeof text === "string" && text.trim())
+            (phrase) => Array.isArray(phrase) && phrase.length >= 2 &&
+              typeof phrase[0] === "string" && phrase[0].trim() &&
+              typeof phrase[1] === "string" && phrase[1].trim()
           )
       )) throw new Error(`IFA final Speaking: incomplete guide for ${question.id}`)
+      question.source = entry.source
       question.guide = points.map(([idea, phrases]) => ({
         idea,
-        phrases: phrases.map(([en, vi]) => ({ en, vi })),
+        phrases: phrases.map(([en, vi, ipa]) => ({ en, vi, ipa: ipa || "" })),
       }))
     }
   }

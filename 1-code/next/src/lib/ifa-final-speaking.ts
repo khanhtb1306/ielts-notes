@@ -1,5 +1,4 @@
 import { ifaFinalTopics } from "@/data/ifa-final-speaking"
-import { ifaSpeakingHandouts } from "@/data/ifa-speaking"
 import type { IfaFinalQuestion, IfaFinalTopic } from "@/types/content"
 
 export { ifaFinalTopics }
@@ -63,14 +62,6 @@ const HANDOUT_MATCHES: Record<string, [string, number][]> = {
   "movies-02": [["dc9", 1]],
   "movies-03": [["dc9", 2]],
   "movies-04": [["dc9", 3]],
-}
-
-export function relatedLessonQuestions(id: string) {
-  return (HANDOUT_MATCHES[id] ?? []).map(([handoutId, index]) => {
-    const handout = ifaSpeakingHandouts.find((h) => h.id === handoutId)
-    const question = handout?.questions[index]
-    return handout && question ? { handout, question, index } : null
-  }).filter((entry): entry is NonNullable<typeof entry> => !!entry)
 }
 
 const ANSWER_MATCHES = new Set([

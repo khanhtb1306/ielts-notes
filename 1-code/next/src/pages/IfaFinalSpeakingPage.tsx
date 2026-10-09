@@ -6,7 +6,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { cn } from "@/lib/utils"
 import { useSpeak } from "@/lib/use-speak"
 import { ttsSupported } from "@/lib/tts"
-import { ifaFinalTopics, allFinalQuestions, findFinalQuestion, matchedHandoutAnswers, relatedLessonQuestions, localDay } from "@/lib/ifa-final-speaking"
+import { ifaFinalTopics, allFinalQuestions, findFinalQuestion, matchedHandoutAnswers, localDay } from "@/lib/ifa-final-speaking"
 import { useIfaFinalSpeaking } from "@/stores/ifa-final-speaking"
 import type { FinalConfidence } from "@/stores/ifa-final-speaking"
 import { useIfaSpeaking } from "@/stores/ifa-speaking"
@@ -213,7 +213,6 @@ function FinalQuestionDetails({ question, revealed, lessonAnswers, imported }: {
   const [showMyAnswer, setShowMyAnswer] = useState(false)
   const speak = useSpeak()
   const matches = matchedHandoutAnswers(question.id, lessonAnswers)
-  const related = relatedLessonQuestions(question.id)
   const visible = revealed && showHints
 
   return (
@@ -226,53 +225,35 @@ function FinalQuestionDetails({ question, revealed, lessonAnswers, imported }: {
           {visible && (
             <div className="space-y-4 rounded-xl border border-border bg-muted/30 p-4">
               <div className="space-y-3">
-                <h3 className="text-sm font-bold">3 ý để phát triển câu trả lời</h3>
-                <p className="text-xs text-muted-foreground">Trả lời trực tiếp → giải thích → thêm chi tiết hoặc ví dụ. Mở từng ý để chọn cụm từ phù hợp với bạn.</p>
+                <div className="flex flex-wrap items-center justify-between gap-2">
+                  <h3 className="text-sm font-bold">Ý để phát triển câu trả lời</h3>
+                  <span className="rounded-full bg-primary-soft px-2.5 py-0.5 text-[11px] font-semibold text-primary">Từ {question.source}</span>
+                </div>
+                <p className="text-xs text-muted-foreground">Trả lời trực tiếp → giải thích → thêm chi tiết. Mở từng ý rồi chọn cụm từ muốn dùng; bấm loa để nghe.</p>
                 {question.guide.map((point, i) => (
-                  <details key={i} className="rounded-lg border border-border bg-card p-3 open:border-primary/40">
+                  <details key={i} open={i === 0} className="rounded-lg border border-border bg-card p-3 open:border-primary/40">
                     <summary className="cursor-pointer text-sm font-semibold leading-relaxed">{i + 1}. {point.idea}</summary>
                     <div className="mt-3 grid gap-2 sm:grid-cols-2">
-                      {point.phrases.map(({ en, vi }, j) => (
-                        <div key={j} className="rounded-md bg-muted/50 p-2.5 text-sm">
-                          <p className="content-en font-semibold">{en}</p><p className="mt-1 text-xs text-muted-foreground">{vi}</p>
+                      {point.phrases.map(({ en, vi, ipa }, j) => (
+                        <div key={j} className="flex items-start justify-between gap-2 rounded-md bg-muted/50 p-2.5 text-sm">
+                          <div className="min-w-0">
+                            <p className="content-en font-semibold">{en}</p>
+                            {ipa && <p className="ipa mt-0.5 text-xs text-primary">/{ipa}/</p>}
+                            <p className="mt-1 text-xs text-muted-foreground">{vi}</p>
+                          </div>
+                          {ttsSupported() && (
+                            <button type="button" aria-label={`Nghe: ${en}`} onClick={() => speak(en)} className="shrink-0 rounded-md p-1.5 text-muted-foreground transition-colors hover:bg-background hover:text-primary">
+                              <Volume2 className="size-4" />
+                            </button>
+                          )}
                         </div>
                       ))}
                     </div>
                   </details>
                 ))}
               </div>
-              <div><h3 className="mb-2 text-sm font-bold">Khung nối ý</h3><p className="content-en rounded-lg bg-card p-3 text-sm">{question.frame}</p></div>
-              {related.length > 0 ? (
-                <details className="space-y-3 border-t border-border pt-4">
-                  <summary className="cursor-pointer text-sm font-bold">Xem thêm cách diễn đạt từ Speaking theo lesson</summary>
-                  <p className="mt-2 text-xs text-muted-foreground">Đây là câu hỏi liên quan; hãy điều chỉnh ý và thì cho đúng câu Final trước khi dùng.</p>
-                  {related.map(({ handout, question: lessonQuestion, index }) => (
-                    <div key={`${handout.id}-${index}`} className="mt-3 space-y-3 rounded-lg border border-border bg-card p-4">
-                      <p className="text-xs font-semibold text-primary">Lesson {handout.lesson} · {handout.audienceLabel ?? handout.topicLabel}</p>
-                      <p className="content-en text-sm font-semibold">{lessonQuestion.title}</p>
-                      {lessonQuestion.scenarios.slice(0, 2).map((scenario, i) => (
-                        <div key={i} className="space-y-2 border-t border-border pt-3">
-                          <p className="text-sm font-bold">{scenario.name}</p>
-                          {scenario.structs[0]?.example && <p className="content-en rounded-md bg-primary-soft px-3 py-2 text-sm leading-relaxed">{scenario.structs[0].example}</p>}
-                          <div className="grid gap-2 sm:grid-cols-3">
-                            {([
-                              [scenario.labels.g1, scenario.g1],
-                              [scenario.labels.g2, scenario.g2DependsOnG1 ? scenario.g1.flatMap((phrase) => phrase.places ?? []) : scenario.g2groups.flatMap((group) => group.items)],
-                              [scenario.labels.g3, scenario.g3groups.flatMap((group) => group.items)],
-                            ] as const).map(([label, phrases], slot) => (
-                              <div key={slot} className="rounded-md bg-muted/40 p-2.5">
-                                <p className="mb-2 text-xs font-bold text-muted-foreground">{label}</p>
-                                {phrases.slice(0, 3).map((phrase, j) => <p key={j} className="mb-2 text-sm"><span className="content-en font-medium">{phrase.en}</span><span className="block text-xs text-muted-foreground">{phrase.vi}</span></p>)}
-                              </div>
-                            ))}
-                          </div>
-                        </div>
-                      ))}
-                    </div>
-                  ))}
-                </details>
-              ) : question.sample && (
-                <details className="border-t border-border pt-4"><summary className="cursor-pointer text-sm font-bold">Xem ví dụ tham khảo (không phải bài của bạn)</summary><p className="content-en mt-2 rounded-lg bg-card p-3 text-sm leading-relaxed">{question.sample}</p></details>
+              {question.sample && (
+                <details className="border-t border-border pt-4"><summary className="cursor-pointer text-sm font-bold">Xem câu trả lời mẫu (tham khảo, không phải bài của bạn)</summary><p className="content-en mt-2 rounded-lg bg-card p-3 text-sm leading-relaxed">{question.sample}</p></details>
               )}
             </div>
           )}
