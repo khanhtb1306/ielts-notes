@@ -227,8 +227,12 @@ export interface IfaFinalTopic {
 }
 
 /** Grammar point taught in the IFA class slides. */
+export type IfaGrammarSectionKind = "usage" | "structure" | "rules" | "note" | "contrast"
+
 export interface IfaGrammarSection {
   heading: string
+  /** Drives how the section is rendered (icon, colour, layout). */
+  kind: IfaGrammarSectionKind
   /** Bullet lines; may be usage notes, rules, or a structure line. */
   points: string[]
   /** Example sentences for this section. */

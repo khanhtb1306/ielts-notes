@@ -1785,7 +1785,23 @@ function main() {
     const p = join(IFA_ENRICH, "grammar.json")
     if (!existsSync(p)) return []
     const { topics } = JSON.parse(readFileSync(p, "utf8"))
-    return Array.isArray(topics) ? topics : []
+    if (!Array.isArray(topics)) return []
+    // Infer a render kind for each section from its heading so the UI can
+    // style usage / structure / rules / contrast differently.
+    const kindOf = (heading) => {
+      const h = heading.toLowerCase()
+      if (/cấu trúc|structure|bước|chuyển/.test(h)) return "structure"
+      if (/phân biệt|vs|contrast|khác/.test(h)) return "contrast"
+      if (/quy tắc|rule|biến đổi|dấu hiệu|theo thì/.test(h)) return "rules"
+      if (/lưu ý|note|nâng cao/.test(h)) return "note"
+      return "usage"
+    }
+    for (const t of topics) {
+      for (const s of t.sections || []) {
+        if (!s.kind) s.kind = kindOf(s.heading || "")
+      }
+    }
+    return topics
   })()
   emit(
     join(OUT, "ifa-grammar.ts"),
