@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react"
-import { Link } from "react-router-dom"
 import { ArrowLeft, ArrowRight, Check, ClipboardCopy, Eye, EyeOff, FileUp, RotateCcw, Settings2, Volume2 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
@@ -14,6 +13,7 @@ import { parseSpeakingDrafts } from "@/lib/ifa-final-import"
 import type { ImportedSpeakingDraft } from "@/lib/ifa-final-import"
 import { SpeakingRail, RailSection, RailSelect, RailProgress, RailStrip, RailItem, RailVoice } from "@/components/ifa/SpeakingRail"
 import { OptionsSheet } from "@/components/ifa/OptionsSheet"
+import { SpeakingTabs } from "@/components/ifa/SpeakingTabs"
 import { Select } from "@/components/ui/select"
 import type { IfaFinalQuestion } from "@/types/content"
 
@@ -110,7 +110,9 @@ export function IfaFinalSpeakingPage() {
   if (!ifaFinalTopics.length) return <p>Chưa có danh sách câu hỏi Final Speaking IFA.</p>
 
   return (
-    <div data-toc-skip className="lg:flex lg:items-start lg:gap-6 2xl:gap-8">
+    <div data-toc-skip>
+      <SpeakingTabs />
+      <div className="lg:flex lg:items-start lg:gap-6 2xl:gap-8">
       <SpeakingRail>
         {/* Mode + topic + question picker stay visible; secondary controls fold away on phones. */}
         <div className="grid grid-cols-2 gap-2">
@@ -152,9 +154,6 @@ export function IfaFinalSpeakingPage() {
           {imported.some((draft) => draft.exact) && <Button variant="outline" size="sm" className="w-full" onClick={importExactDrafts}>Nhập bản nháp khớp chính xác còn trống</Button>}
           <p className="text-xs text-muted-foreground">Tệp chỉ được đọc trên thiết bị này; các câu tương tự cần bạn chọn thủ công.</p>
         </RailSection>
-        <Button asChild variant="outline" size="sm" className="w-full justify-center">
-          <Link to="/speaking-ifa"><ArrowLeft className="size-4" /> Speaking theo lesson</Link>
-        </Button>
         <RailVoice />
       </SpeakingRail>
 
@@ -205,9 +204,6 @@ export function IfaFinalSpeakingPage() {
           {importMessage && <p role="status" className="text-xs text-muted-foreground">{importMessage}</p>}
           {imported.some((draft) => draft.exact) && <Button variant="outline" size="sm" className="w-full" onClick={importExactDrafts}>Nhập bản nháp khớp chính xác còn trống</Button>}
         </RailSection>
-        <Button asChild variant="outline" size="sm" className="w-full justify-center">
-          <Link to="/speaking-ifa"><ArrowLeft className="size-4" /> Speaking theo lesson</Link>
-        </Button>
         <RailVoice />
       </OptionsSheet>
 
@@ -252,6 +248,7 @@ export function IfaFinalSpeakingPage() {
             </Card>
           </>
         )}
+      </div>
       </div>
     </div>
   )

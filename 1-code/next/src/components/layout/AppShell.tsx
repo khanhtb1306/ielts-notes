@@ -18,7 +18,7 @@ export function AppShell({ children }: { children: ReactNode }) {
         <div className="hidden md:block sticky top-0 h-screen overflow-y-auto sidebar-scope">
           <Sidebar className="h-full" collapsible />
         </div>
-        <main className="min-w-0 overflow-x-clip px-4 py-4 pb-[calc(5.5rem+env(safe-area-inset-bottom))] sm:px-8 sm:py-6 md:pb-20 lg:px-12">
+        <main className="min-w-0 overflow-x-clip px-4 pb-[calc(5.5rem+env(safe-area-inset-bottom))] pt-[calc(1rem+env(safe-area-inset-top))] sm:px-8 sm:py-6 md:pb-20 md:pt-6 lg:px-12">
           <div className="mx-auto max-w-7xl">
             <TopBar />
             <div className="flex gap-8 md:mt-6">

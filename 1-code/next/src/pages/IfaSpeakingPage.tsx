@@ -1,6 +1,5 @@
 import { useMemo, useState } from "react"
-import { Link } from "react-router-dom"
-import { ArrowLeft, ArrowRight, Settings2, Shuffle, Volume2, Trash2 } from "lucide-react"
+import { ArrowLeft, ArrowRight, Settings2, Volume2, Trash2 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { cn } from "@/lib/utils"
 import { ttsSupported } from "@/lib/tts"
@@ -18,6 +17,7 @@ import {
   RailVoice,
 } from "@/components/ifa/SpeakingRail"
 import { OptionsSheet } from "@/components/ifa/OptionsSheet"
+import { SpeakingTabs } from "@/components/ifa/SpeakingTabs"
 import { Select } from "@/components/ui/select"
 import { VariantTabs } from "@/components/ifa/VariantTabs"
 import type { RailSelectOption } from "@/components/ifa/SpeakingRail"
@@ -82,17 +82,10 @@ export function IfaSpeakingPage() {
 
   return (
     <div data-toc-skip>
-      {/* TopBar already renders the page title — controls go straight into the rail. */}
+      <SpeakingTabs />
       <div className="lg:flex lg:items-start lg:gap-6 2xl:gap-8">
         <SpeakingRail>
-          <div className="flex items-center gap-2">
-            <Button asChild variant="outline" size="sm" className="h-9 flex-1 justify-center">
-              <Link to="/speaking-ifa/drill">
-                <Shuffle className="size-4" /> Luyện phản xạ
-              </Link>
-            </Button>
-            <RailVoice />
-          </div>
+          <RailVoice />
 
           <RailSection title="Chủ đề">
             {/* Dropdown keeps the rail a fixed height as more lessons ship. */}
@@ -159,9 +152,6 @@ export function IfaSpeakingPage() {
 
         <OptionsSheet open={sheetOpen} onClose={() => setSheetOpen(false)}>
           {handout && <RailProgress done={saved.length} total={handout.questions.length} label="đã lưu" />}
-          <Button asChild variant="outline" size="sm" className="w-full justify-center">
-            <Link to="/speaking-ifa/drill"><Shuffle className="size-4" /> Luyện phản xạ</Link>
-          </Button>
           <RailVoice />
         </OptionsSheet>
 

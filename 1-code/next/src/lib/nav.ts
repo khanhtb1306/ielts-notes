@@ -37,7 +37,6 @@ export const NAV_GROUPS: NavGroup[] = [
     label: "IELTS Foundation A",
     items: [
       { to: "/speaking-ifa", label: "Speaking", icon: Mic, badge: "IFA", eyebrow: "IELTS Foundation A · Speaking", title: "Speaking — IELTS Foundation A", shortTitle: "Speaking", subtitle: "Khung trả lời theo chủ đề + luyện phản xạ" },
-      { to: "/final-ifa/speaking", label: "Final Speaking", icon: ClipboardCheck, badge: "IFA", eyebrow: "IELTS Foundation A · Thi cuối khóa", title: "Final Speaking — IELTS Foundation A", shortTitle: "Final Speaking", subtitle: "Bộ câu hỏi giáo viên · luyện nói mỗi ngày" },
       { to: "/vocab-ifa", label: "Từ vựng", icon: Layers, badge: "IFA", eyebrow: "IELTS Foundation A · Từ vựng", title: "Từ vựng — lật thẻ", shortTitle: "Từ vựng", subtitle: "Ôn bằng thẻ hai mặt, theo chủ đề Speaking" },
     ],
   },
@@ -56,6 +55,15 @@ export const SUB_ROUTES: NavItem[] = [
     title: "Luyện phản xạ",
     shortTitle: "Luyện phản xạ",
     subtitle: "Câu hỏi ngẫu nhiên — trả lời ngay, không nhìn script",
+  },
+  {
+    to: "/final-ifa/speaking",
+    label: "Final Speaking",
+    icon: ClipboardCheck,
+    eyebrow: "IELTS Foundation A · Thi cuối khóa",
+    title: "Final Speaking — IELTS Foundation A",
+    shortTitle: "Final Speaking",
+    subtitle: "Bộ câu hỏi giáo viên · luyện nói mỗi ngày",
   },
   {
     to: "/practice/runner",
@@ -94,7 +102,20 @@ export function findNavForPath(pathname: string): NavItem | undefined {
     .sort((a, b) => b.to.length - a.to.length)[0]
 }
 
+/** Sub-routes map back to the course whose section they belong under. */
+const GROUP_PREFIXES: Record<string, string> = {
+  "/speaking-ifa": "ifa-ielts",
+  "/final-ifa": "ifa-ielts",
+  "/vocab-ifa": "ifa-ielts",
+  "/practice": "pre-ielts",
+  "/final": "pre-ielts",
+}
+
 /** The course group that owns `pathname`, if any. */
 export function findGroupForPath(pathname: string): NavGroup | undefined {
-  return NAV_GROUPS.find((g) => g.items.some((i) => isUnder(pathname, i.to)))
+  const direct = NAV_GROUPS.find((g) => g.items.some((i) => isUnder(pathname, i.to)))
+  if (direct) return direct
+  const prefix = Object.keys(GROUP_PREFIXES).find((p) => isUnder(pathname, p))
+  if (prefix) return NAV_GROUPS.find((g) => g.id === GROUP_PREFIXES[prefix])
+  return undefined
 }

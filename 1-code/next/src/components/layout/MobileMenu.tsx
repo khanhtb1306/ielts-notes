@@ -52,6 +52,7 @@ export function MobileMenu() {
           "fixed inset-y-0 left-0 z-50 w-[86%] max-w-[320px] overflow-y-auto shadow-lift transition-transform duration-200 ease-out",
           open ? "translate-x-0" : "-translate-x-full"
         )}
+        style={{ paddingTop: "env(safe-area-inset-top)" }}
       >
         <Sidebar className="h-full border-r-0" />
       </div>

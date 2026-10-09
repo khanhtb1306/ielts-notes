@@ -1,6 +1,6 @@
 import { NavLink, useLocation } from "react-router-dom"
 import { Search, Home, PanelLeftClose, PanelLeftOpen } from "lucide-react"
-import { NAV_GROUPS } from "@/lib/nav"
+import { NAV_GROUPS, findGroupForPath } from "@/lib/nav"
 import { Input } from "@/components/ui/input"
 import { useUi } from "@/stores/ui"
 import { cn } from "@/lib/utils"
@@ -17,6 +17,7 @@ export function Sidebar({ className, collapsible = false }: { className?: string
   const { pathname } = useLocation()
   // "/speaking" must not match "/speaking-ifa".
   const searchable = SEARCHABLE.some((p) => pathname === p || pathname.startsWith(`${p}/`))
+  const activeGroup = findGroupForPath(pathname)?.id
 
   const linkClass = ({ isActive }: { isActive: boolean }) =>
     cn(
@@ -90,7 +91,11 @@ export function Sidebar({ className, collapsible = false }: { className?: string
             {collapsed ? (
               <div className="my-2 border-t border-border" />
             ) : (
-              <div className="px-3 pb-1 pt-2 text-[11px] font-bold uppercase tracking-widest text-muted-foreground/70">
+              <div className={cn(
+                "flex items-center gap-2 px-3 pb-1 pt-2 text-[11px] font-bold uppercase tracking-widest",
+                activeGroup === group.id ? "text-primary" : "text-muted-foreground/70"
+              )}>
+                {activeGroup === group.id && <span className="size-1.5 rounded-full bg-primary" aria-hidden />}
                 {group.label}
               </div>
             )}

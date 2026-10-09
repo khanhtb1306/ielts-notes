@@ -1,6 +1,5 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
-import { Link } from "react-router-dom"
-import { Shuffle, Volume2, ArrowLeft, RotateCcw, Timer, Pause, Play, Settings2 } from "lucide-react"
+import { Shuffle, Volume2, RotateCcw, Timer, Pause, Play, Settings2 } from "lucide-react"
 import { Card, CardContent } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { cn } from "@/lib/utils"
@@ -15,6 +14,7 @@ import {
   RailVoice,
 } from "@/components/ifa/SpeakingRail"
 import { OptionsSheet } from "@/components/ifa/OptionsSheet"
+import { SpeakingTabs } from "@/components/ifa/SpeakingTabs"
 import { Select } from "@/components/ui/select"
 import type { RailSelectOption } from "@/components/ifa/SpeakingRail"
 import { VariantTabs } from "@/components/ifa/VariantTabs"
@@ -172,17 +172,10 @@ export function IfaSpeakingDrillPage() {
 
   return (
     <div data-toc-skip>
-      {/* TopBar already renders the page title — controls go straight into the rail. */}
+      <SpeakingTabs />
       <div className="lg:flex lg:items-start lg:gap-6 2xl:gap-8">
         <SpeakingRail>
-          <div className="flex items-center gap-2">
-            <Button asChild variant="outline" size="sm" className="h-9 flex-1 justify-center">
-              <Link to="/speaking-ifa">
-                <ArrowLeft className="size-4" /> Khung trả lời
-              </Link>
-            </Button>
-            <RailVoice />
-          </div>
+          <RailVoice />
 
           <RailSection title="Bài học">
             {/* Dropdown keeps the rail a fixed height as more lessons ship. */}
@@ -246,9 +239,6 @@ export function IfaSpeakingDrillPage() {
               <Button variant="outline" size="sm" className="w-full" onClick={restart}><RotateCcw className="size-4" /> Xáo lại từ đầu</Button>
             </>
           )}
-          <Button asChild variant="outline" size="sm" className="w-full justify-center">
-            <Link to="/speaking-ifa"><ArrowLeft className="size-4" /> Khung trả lời</Link>
-          </Button>
           <RailVoice />
         </OptionsSheet>
 

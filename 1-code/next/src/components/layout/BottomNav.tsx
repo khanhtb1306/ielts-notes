@@ -20,37 +20,46 @@ export function BottomNav() {
   return (
     <nav
       aria-label="Điều hướng"
-      className="fixed inset-x-0 bottom-0 z-40 border-t border-border bg-card/95 backdrop-blur md:hidden"
+      className="fixed inset-x-0 bottom-0 z-40 border-t border-border bg-card/95 shadow-[0_-1px_12px_rgba(0,0,0,0.06)] backdrop-blur md:hidden"
       style={{ paddingBottom: "env(safe-area-inset-bottom)" }}
     >
-      <ul className="mx-auto flex max-w-xl items-stretch">
+      <ul className="mx-auto flex max-w-xl items-stretch px-1">
         <li className="flex-1">
           <button
             type="button"
             onClick={() => openMenu(true)}
             aria-label="Mở menu"
-            className="flex min-h-[56px] w-full flex-col items-center justify-center gap-0.5 px-1 py-1.5 text-[11px] font-semibold text-muted-foreground transition-colors hover:text-foreground"
+            className="flex min-h-[56px] w-full flex-col items-center justify-center gap-1 px-1 py-1.5 text-[11px] font-semibold text-muted-foreground transition-colors hover:text-foreground"
           >
-            <Menu className="size-5 shrink-0" />
+            <span className="flex items-center justify-center rounded-full px-4 py-1">
+              <Menu className="size-5 shrink-0" />
+            </span>
             <span>Menu</span>
           </button>
         </li>
-        {items.map((item) => (
-          <li key={item.to} className="flex-1">
-            <NavLink
-              to={item.to}
-              className={({ isActive }) =>
-                cn(
-                  "flex min-h-[56px] flex-col items-center justify-center gap-0.5 px-1 py-1.5 text-[11px] font-semibold transition-colors",
-                  isActive ? "text-primary" : "text-muted-foreground"
-                )
-              }
-            >
-              <item.icon className="size-5 shrink-0" />
-              <span className="max-w-full truncate">{item.label}</span>
-            </NavLink>
-          </li>
-        ))}
+        {items.map((item) => {
+          // Speaking stays highlighted across its sub-routes (drill, final).
+          const active =
+            pathname === item.to ||
+            pathname.startsWith(`${item.to}/`) ||
+            (item.to === "/speaking-ifa" && pathname.startsWith("/final-ifa"))
+          return (
+            <li key={item.to} className="flex-1">
+              <NavLink
+                to={item.to}
+                className={cn(
+                  "flex min-h-[56px] flex-col items-center justify-center gap-1 px-1 py-1.5 text-[11px] font-semibold transition-colors",
+                  active ? "text-primary" : "text-muted-foreground"
+                )}
+              >
+                <span className={cn("flex items-center justify-center rounded-full px-4 py-1 transition-colors", active && "bg-primary-soft")}>
+                  <item.icon className="size-5 shrink-0" />
+                </span>
+                <span className="max-w-full truncate">{item.label}</span>
+              </NavLink>
+            </li>
+          )
+        })}
       </ul>
     </nav>
   )
