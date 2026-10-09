@@ -30,7 +30,7 @@ export function VariantTabs({
           aria-selected={i === active}
           onClick={() => onSelect(i)}
           className={cn(
-            "flex-1 whitespace-nowrap rounded-md px-3 py-1.5 text-sm font-semibold transition-colors",
+            "flex-1 whitespace-nowrap rounded-md px-3 py-2.5 text-sm font-semibold transition-colors sm:py-1.5",
             i === active
               ? "bg-card text-primary shadow-card"
               : "text-muted-foreground hover:text-foreground"

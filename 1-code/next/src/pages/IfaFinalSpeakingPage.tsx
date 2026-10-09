@@ -264,7 +264,7 @@ function FinalQuestionDetails({ question, revealed, lessonAnswers, imported }: {
         {revealed ? (
           <>
             <label htmlFor={`answer-${question.id}`} className="text-sm text-muted-foreground">Viết câu trả lời của riêng bạn; nội dung được lưu tự động trên trình duyệt này.</label>
-            <textarea id={`answer-${question.id}`} value={progress?.answer ?? ""} onChange={(e) => saveAnswer(question.id, e.target.value)} placeholder="Viết bằng tiếng Anh theo ý của bạn…" rows={5} className="content-en w-full resize-y rounded-lg border border-input bg-card p-3 text-[15px] leading-relaxed outline-none focus:border-primary" />
+            <textarea id={`answer-${question.id}`} value={progress?.answer ?? ""} onChange={(e) => saveAnswer(question.id, e.target.value)} placeholder="Viết bằng tiếng Anh theo ý của bạn…" rows={5} className="content-en w-full resize-y rounded-lg border border-input bg-card p-3 text-base leading-relaxed outline-none focus:border-primary sm:text-[15px]" />
             {!progress?.answer.trim() && matches.length > 0 && (
               <div className="rounded-lg border border-border bg-muted/30 p-3 text-sm">
                 <p className="font-semibold">Bạn đã lưu {matches.length} câu gần tương ứng trong Speaking theo lesson.</p>

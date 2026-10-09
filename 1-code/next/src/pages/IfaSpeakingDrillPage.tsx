@@ -246,7 +246,7 @@ export function IfaSpeakingDrillPage() {
                   <span className="rounded-full bg-primary-soft px-3 py-1 text-xs font-bold uppercase tracking-[0.1em] text-primary">
                     {current.topic}
                   </span>
-                  <p className="content-en max-w-3xl text-[26px] font-bold leading-snug tracking-tight lg:text-[34px]">
+                  <p className="content-en max-w-3xl text-[22px] font-bold leading-snug tracking-tight sm:text-[26px] lg:text-[34px]">
                     {current.text}
                   </p>
 

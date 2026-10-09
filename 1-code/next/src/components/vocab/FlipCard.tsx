@@ -17,7 +17,7 @@ export function FlipCard({
   starred,
   onToggleStar,
   status,
-  height = 320,
+  height,
 }: {
   card: IfaVocabCard
   flipped: boolean
@@ -30,7 +30,10 @@ export function FlipCard({
   const speak = useSpeak()
 
   return (
-    <div className="flip-scene relative w-full" style={{ height }}>
+    <div
+      className={cn("flip-scene relative w-full", height == null && "h-[260px] sm:h-[320px]")}
+      style={height != null ? { height } : undefined}
+    >
       {/* Overlay controls sit above the flipping surface so they never mirror. */}
       <div className="pointer-events-none absolute inset-x-0 top-0 z-10 flex items-start justify-between gap-2 p-3">
         <span
@@ -89,7 +92,7 @@ export function FlipCard({
             <span className="text-[11px] font-bold uppercase tracking-[0.12em] text-muted-foreground">
               {card.pos || "Từ vựng"}
             </span>
-            <p className="content-en text-[28px] font-bold leading-snug tracking-tight lg:text-[36px]">
+            <p className="content-en text-[22px] font-bold leading-snug tracking-tight sm:text-[28px] lg:text-[36px]">
               {card.term}
             </p>
             {/* The speaker lives in the overlay above — a nested interactive
@@ -99,7 +102,7 @@ export function FlipCard({
 
           {/* Back */}
           <div className="flip-face flip-face-back flex flex-col items-center justify-center gap-3 rounded-2xl border border-primary/40 bg-primary-soft px-8 py-12 text-center shadow-card">
-            <p className="text-[22px] font-bold leading-snug lg:text-[26px]">{card.vi}</p>
+            <p className="text-[19px] font-bold leading-snug sm:text-[22px] lg:text-[26px]">{card.vi}</p>
             {card.ipa && <p className="ipa text-base text-primary">{card.ipa}</p>}
             <p className="content-en text-sm font-semibold text-muted-foreground">{card.term}</p>
             <div className="flex flex-wrap items-center justify-center gap-1.5">

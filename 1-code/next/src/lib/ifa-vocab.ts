@@ -1,4 +1,9 @@
 import { ifaSpeakingHandouts } from "@/data/ifa-speaking"
+import { ifaFinalTopics } from "@/data/ifa-final-speaking"
+import type { IfaPhrase, IfaScenario } from "@/types/content"
+
+/** Where a card's wording comes from, used for the source filter. */
+export type IfaVocabSource = "vocab" | "phrase" | "final"
 
 /**
  * One flashcard. Terms repeated across handouts (e.g. the three Study audience
@@ -12,6 +17,7 @@ export interface IfaVocabCard {
   vi: string
   topics: string[]
   lessons: number[]
+  sources: IfaVocabSource[]
 }
 
 export interface IfaVocabTopic {
@@ -26,38 +32,92 @@ function cardId(term: string): string {
 
 let cache: IfaVocabCard[] | null = null
 
-/** Flat, de-duplicated vocabulary derived from the speaking handouts. */
+/** Merge one term into the card map, de-duplicating by normalised term. */
+function addCard(
+  map: Map<string, IfaVocabCard>,
+  { term, pos, ipa, vi, topic, lesson, source }: {
+    term: string; pos: string; ipa: string; vi: string
+    topic: string; lesson: number | null; source: IfaVocabSource
+  }
+) {
+  const id = cardId(term)
+  if (!id || !vi.trim()) return
+  const existing = map.get(id)
+  if (!existing) {
+    map.set(id, {
+      id,
+      term: term.trim(),
+      pos,
+      ipa,
+      vi,
+      topics: topic ? [topic] : [],
+      lessons: lesson != null ? [lesson] : [],
+      sources: [source],
+    })
+    return
+  }
+  if (topic && !existing.topics.includes(topic)) existing.topics.push(topic)
+  if (lesson != null && !existing.lessons.includes(lesson)) existing.lessons.push(lesson)
+  if (!existing.sources.includes(source)) existing.sources.push(source)
+  // Fill IPA from a later appearance if the first one lacked it.
+  if (!existing.ipa && ipa) existing.ipa = ipa
+}
+
+/** Every slot phrase in a scenario, including dependent group-2 places. */
+function scenarioPhrases(scenario: IfaScenario): IfaPhrase[] {
+  const out: IfaPhrase[] = []
+  const push = (p?: IfaPhrase) => {
+    if (!p?.en) return
+    out.push(p)
+    for (const place of p.places ?? []) if (place?.en) out.push(place)
+  }
+  for (const p of scenario.g1 ?? []) push(p)
+  for (const g of scenario.g2groups ?? []) for (const p of g.items) push(p)
+  for (const g of scenario.g3groups ?? []) for (const p of g.items) push(p)
+  return out
+}
+
+/** Flat, de-duplicated vocabulary from handout vocab lists, slot phrases and final guides. */
 export function ifaVocabCards(): IfaVocabCard[] {
   if (cache) return cache
 
   const map = new Map<string, IfaVocabCard>()
+
+  // 1. Curated vocab lists on each handout question (short terms with part of speech).
   for (const handout of ifaSpeakingHandouts) {
     for (const question of handout.questions) {
       for (const v of question.vocab) {
-        const id = cardId(v.term)
-        if (!id) continue
-        const existing = map.get(id)
-        if (!existing) {
-          map.set(id, {
-            id,
-            term: v.term.trim(),
-            pos: v.pos,
-            ipa: v.ipa,
-            vi: v.vi,
-            topics: [handout.topicLabel],
-            lessons: handout.lesson != null ? [handout.lesson] : [],
+        addCard(map, {
+          term: v.term, pos: v.pos, ipa: v.ipa, vi: v.vi,
+          topic: handout.topicLabel, lesson: handout.lesson ?? null, source: "vocab",
+        })
+      }
+    }
+  }
+
+  // 2. Answer-building slot phrases — teacher wording with IPA, previously unused for cards.
+  for (const handout of ifaSpeakingHandouts) {
+    for (const question of handout.questions) {
+      for (const scenario of question.scenarios) {
+        for (const p of scenarioPhrases(scenario)) {
+          addCard(map, {
+            term: p.en, pos: "", ipa: p.ipa, vi: p.vi,
+            topic: handout.topicLabel, lesson: handout.lesson ?? null, source: "phrase",
           })
-          continue
         }
-        if (!existing.topics.includes(handout.topicLabel)) existing.topics.push(handout.topicLabel)
-        if (handout.lesson != null && !existing.lessons.includes(handout.lesson)) {
-          existing.lessons.push(handout.lesson)
-        }
-        // Keep the first reading but surface disagreements instead of hiding them.
-        if (import.meta.env.DEV && existing.vi !== v.vi) {
-          console.warn(
-            `[ifa-vocab] "${v.term}" có 2 nghĩa khác nhau: "${existing.vi}" vs "${v.vi}" — giữ bản đầu.`
-          )
+      }
+    }
+  }
+
+  // 3. Final Speaking guide phrases (carry IPA, grouped by final topic).
+  for (const topic of ifaFinalTopics) {
+    for (const question of topic.questions) {
+      for (const point of question.guide) {
+        for (const p of point.phrases) {
+          addCard(map, {
+            term: p.en, pos: "", ipa: p.ipa, vi: p.vi,
+            topic: topic.label, lesson: null, source: "final",
+          })
         }
       }
     }
@@ -79,6 +139,17 @@ export function ifaVocabTopics(): IfaVocabTopic[] {
 export function cardsInTopic(topic: string): IfaVocabCard[] {
   const all = ifaVocabCards()
   return topic ? all.filter((c) => c.topics.includes(topic)) : all
+}
+
+export const VOCAB_SOURCE_LABELS: Record<IfaVocabSource, string> = {
+  vocab: "Từ vựng chủ đề",
+  phrase: "Cụm ghép câu",
+  final: "Ôn thi cuối khóa",
+}
+
+/** Cards carrying a given source tag, for the source filter. */
+export function cardsFromSource(cards: IfaVocabCard[], source: IfaVocabSource | "all"): IfaVocabCard[] {
+  return source === "all" ? cards : cards.filter((c) => c.sources.includes(source))
 }
 
 /** Strip a leading "to " so the speech engine reads the bare word. */

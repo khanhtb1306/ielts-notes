@@ -145,7 +145,7 @@ export function SpeakingQuestionCard({ handoutId, questionIndex, question }: Pro
         )}
 
         {/* Answer frame — the hero. Solid brand block so it never reads as a panel. */}
-        <div className="sticky top-4 z-20 overflow-hidden rounded-xl bg-primary text-primary-foreground shadow-lift">
+        <div className="z-20 overflow-hidden rounded-xl bg-primary text-primary-foreground shadow-lift sm:sticky sm:top-4">
           <div className="flex items-center justify-between gap-2 border-b border-white/15 px-4 py-2">
             <p className="text-[11px] font-bold uppercase tracking-[0.12em] text-primary-foreground/80">
               Câu của bạn

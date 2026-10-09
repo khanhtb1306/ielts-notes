@@ -80,7 +80,7 @@ export function VocabListMode({ cards }: { cards: IfaVocabCard[] }) {
                   aria-pressed={!!state?.starred}
                   aria-label={state?.starred ? `Bỏ sao ${c.term}` : `Gắn sao ${c.term}`}
                   className={cn(
-                    "shrink-0 rounded-md p-1.5 transition-colors",
+                    "shrink-0 rounded-md p-2.5 transition-colors sm:p-1.5",
                     state?.starred
                       ? "text-amber-500"
                       : "text-muted-foreground/40 hover:text-amber-500"
@@ -108,7 +108,7 @@ export function VocabListMode({ cards }: { cards: IfaVocabCard[] }) {
                     type="button"
                     aria-label={`Nghe: ${c.term}`}
                     onClick={() => speak(speakableTerm(c.term))}
-                    className="shrink-0 rounded-md p-1.5 text-muted-foreground transition-colors hover:bg-background hover:text-primary"
+                    className="shrink-0 rounded-md p-2.5 text-muted-foreground transition-colors hover:bg-background hover:text-primary sm:p-1.5"
                   >
                     <Volume2 className="size-4" />
                   </button>
@@ -122,7 +122,7 @@ export function VocabListMode({ cards }: { cards: IfaVocabCard[] }) {
                     title="Chưa thuộc"
                     onClick={() => (state?.status === "learning" ? unmark(c.id) : mark(c.id, false))}
                     className={cn(
-                      "px-2 py-1.5 transition-colors",
+                      "px-3 py-2.5 transition-colors sm:px-2 sm:py-1.5",
                       state?.status === "learning"
                         ? "bg-amber-500 text-white"
                         : "text-muted-foreground hover:bg-accent"
@@ -136,7 +136,7 @@ export function VocabListMode({ cards }: { cards: IfaVocabCard[] }) {
                     title="Đã thuộc"
                     onClick={() => (state?.status === "known" ? unmark(c.id) : mark(c.id, true))}
                     className={cn(
-                      "border-l border-input px-2 py-1.5 transition-colors",
+                      "border-l border-input px-3 py-2.5 transition-colors sm:px-2 sm:py-1.5",
                       state?.status === "known"
                         ? "bg-emerald-500 text-white"
                         : "text-muted-foreground hover:bg-accent"

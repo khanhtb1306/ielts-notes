@@ -3,8 +3,8 @@ import { Link } from "react-router-dom"
 import { Grid2x2, GraduationCap, Layers, List, MessageSquare, RefreshCw, Star, Trash2 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { cn } from "@/lib/utils"
-import { ifaVocabCards, ifaVocabTopics, cardsInTopic } from "@/lib/ifa-vocab"
-import type { IfaVocabCard } from "@/lib/ifa-vocab"
+import { ifaVocabCards, ifaVocabTopics, cardsInTopic, cardsFromSource, VOCAB_SOURCE_LABELS } from "@/lib/ifa-vocab"
+import type { IfaVocabCard, IfaVocabSource } from "@/lib/ifa-vocab"
 import { useFlashcard } from "@/stores/flashcard"
 import { FlashcardsMode } from "@/components/vocab/FlashcardsMode"
 import { LearnMode } from "@/components/vocab/LearnMode"
@@ -43,12 +43,22 @@ const DIRECTION_OPTIONS: RailSelectOption[] = [
   { value: "vi-en", label: "Việt → Anh" },
 ]
 
+type SourceFilter = IfaVocabSource | "all"
+
+const SOURCE_OPTIONS: RailSelectOption[] = [
+  { value: "all", label: "Tất cả nguồn" },
+  { value: "vocab", label: VOCAB_SOURCE_LABELS.vocab },
+  { value: "phrase", label: VOCAB_SOURCE_LABELS.phrase },
+  { value: "final", label: VOCAB_SOURCE_LABELS.final },
+]
+
 export function IfaVocabPage() {
   const allCards = useMemo(() => ifaVocabCards(), [])
   const topics = useMemo(() => ifaVocabTopics(), [])
 
   const [mode, setMode] = useState<Mode>("cards")
   const [topic, setTopic] = useState(ALL)
+  const [source, setSource] = useState<SourceFilter>("all")
   const [filter, setFilter] = useState<Filter>("all")
   const [direction, setDirection] = useState<Direction>("en-vi")
   /** Bumped to rebuild the deck from current progress. */
@@ -66,7 +76,10 @@ export function IfaVocabPage() {
     [allCards.length, topics]
   )
 
-  const scope = useMemo(() => (topic === ALL ? allCards : cardsInTopic(topic)), [topic, allCards])
+  const scope = useMemo(() => {
+    const byTopic = topic === ALL ? allCards : cardsInTopic(topic)
+    return cardsFromSource(byTopic, source)
+  }, [topic, source, allCards])
 
   const stats = useMemo(() => {
     let known = 0
@@ -129,6 +142,18 @@ export function IfaVocabPage() {
               options={topicOptions}
               onChange={(v) => {
                 setTopic(v)
+                rebuildDeck()
+              }}
+            />
+          </RailSection>
+
+          <RailSection title="Nguồn">
+            <RailSelect
+              id="vocab-source"
+              value={source}
+              options={SOURCE_OPTIONS}
+              onChange={(v) => {
+                setSource(v as SourceFilter)
                 rebuildDeck()
               }}
             />

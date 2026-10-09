@@ -190,7 +190,7 @@ export function LearnMode({ cards, direction }: { cards: IfaVocabCard[]; directi
             </p>
             <p
               className={cn(
-                "mt-2 text-[26px] font-bold leading-snug tracking-tight",
+                "mt-2 text-[21px] font-bold leading-snug tracking-tight sm:text-[26px]",
                 direction === "en-vi" && "content-en"
               )}
             >
