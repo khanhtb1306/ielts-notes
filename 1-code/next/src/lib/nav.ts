@@ -1,5 +1,5 @@
 import type { LucideIcon } from "lucide-react"
-import { Volume2, Rows, MessageSquare, GraduationCap, Mic, Shuffle, Layers, ClipboardCheck } from "lucide-react"
+import { Volume2, Rows, MessageSquare, GraduationCap, Mic, Shuffle, Layers, ClipboardCheck, BookOpen } from "lucide-react"
 
 export interface NavItem {
   to: string
@@ -37,6 +37,7 @@ export const NAV_GROUPS: NavGroup[] = [
     label: "IELTS Foundation A",
     items: [
       { to: "/speaking-ifa", label: "Speaking", icon: Mic, badge: "IFA", eyebrow: "IELTS Foundation A · Speaking", title: "Speaking — IELTS Foundation A", shortTitle: "Speaking", subtitle: "Khung trả lời theo chủ đề + luyện phản xạ" },
+      { to: "/grammar-ifa", label: "Ngữ pháp", icon: BookOpen, badge: "IFA", eyebrow: "IELTS Foundation A · Ngữ pháp", title: "Ngữ pháp — IELTS Foundation A", shortTitle: "Ngữ pháp", subtitle: "8 chủ điểm ngữ pháp theo slide trên lớp" },
       { to: "/vocab-ifa", label: "Từ vựng", icon: Layers, badge: "IFA", eyebrow: "IELTS Foundation A · Từ vựng", title: "Từ vựng — lật thẻ", shortTitle: "Từ vựng", subtitle: "Ôn bằng thẻ hai mặt, theo chủ đề Speaking" },
     ],
   },
@@ -107,6 +108,7 @@ const GROUP_PREFIXES: Record<string, string> = {
   "/speaking-ifa": "ifa-ielts",
   "/final-ifa": "ifa-ielts",
   "/vocab-ifa": "ifa-ielts",
+  "/grammar-ifa": "ifa-ielts",
   "/practice": "pre-ielts",
   "/final": "pre-ielts",
 }

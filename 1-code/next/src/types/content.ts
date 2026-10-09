@@ -226,6 +226,24 @@ export interface IfaFinalTopic {
   questions: IfaFinalQuestion[]
 }
 
+/** Grammar point taught in the IFA class slides. */
+export interface IfaGrammarSection {
+  heading: string
+  /** Bullet lines; may be usage notes, rules, or a structure line. */
+  points: string[]
+  /** Example sentences for this section. */
+  examples?: string[]
+}
+
+export interface IfaGrammarTopic {
+  id: string
+  lesson: number
+  label: string
+  vi: string
+  summary: string
+  sections: IfaGrammarSection[]
+}
+
 export interface PracticePreset {
   id: string
   label: string

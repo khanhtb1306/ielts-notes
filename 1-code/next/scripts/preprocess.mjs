@@ -1765,6 +1765,36 @@ function main() {
   )
   console.log(`[preprocess] IFA Final Speaking: ${ifaFinalTopics.length} topics, ${ifaFinalTopics.reduce((n, t) => n + t.questions.length, 0)} questions.`)
 
+  // IFA class-slide vocabulary (teacher slides). Degrades to [] if file missing.
+  const slideVocab = (() => {
+    const p = join(IFA_ENRICH, "slide-vocab.json")
+    if (!existsSync(p)) return []
+    const { items } = JSON.parse(readFileSync(p, "utf8"))
+    return Array.isArray(items) ? items : []
+  })()
+  emit(
+    join(OUT, "ifa-slide-vocab.ts"),
+    HEADER +
+      `export interface SlideVocabItem { term: string; ipa: string; vi: string; topic: string; lesson: number }\n\n` +
+      `export const ifaSlideVocab: SlideVocabItem[] = ${JSON.stringify(slideVocab, null, 2)}\n`
+  )
+  console.log(`[preprocess] IFA slide vocab: ${slideVocab.length} items.`)
+
+  // IFA grammar notes (from class slides). Degrades to [] if file missing.
+  const ifaGrammar = (() => {
+    const p = join(IFA_ENRICH, "grammar.json")
+    if (!existsSync(p)) return []
+    const { topics } = JSON.parse(readFileSync(p, "utf8"))
+    return Array.isArray(topics) ? topics : []
+  })()
+  emit(
+    join(OUT, "ifa-grammar.ts"),
+    HEADER +
+      `import type { IfaGrammarTopic } from "@/types/content"\n\n` +
+      `export const ifaGrammar: IfaGrammarTopic[] = ${JSON.stringify(ifaGrammar, null, 2)} as IfaGrammarTopic[]\n`
+  )
+  console.log(`[preprocess] IFA grammar: ${ifaGrammar.length} topics.`)
+
   console.log(
     `[preprocess] ${notesData.docs.length} notes, ${index.length} lessons, ${stats.blocks} blocks, ${stats.questions} questions, ${stats.audios} audios, ${Object.keys(topicsIndex.topics).length} topics.`
   )

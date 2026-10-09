@@ -1,9 +1,10 @@
 import { ifaSpeakingHandouts } from "@/data/ifa-speaking"
 import { ifaFinalTopics } from "@/data/ifa-final-speaking"
+import { ifaSlideVocab } from "@/data/ifa-slide-vocab"
 import type { IfaPhrase, IfaScenario } from "@/types/content"
 
 /** Where a card's wording comes from, used for the source filter. */
-export type IfaVocabSource = "vocab" | "phrase" | "final"
+export type IfaVocabSource = "vocab" | "phrase" | "final" | "slide"
 
 /**
  * One flashcard. Terms repeated across handouts (e.g. the three Study audience
@@ -123,6 +124,14 @@ export function ifaVocabCards(): IfaVocabCard[] {
     }
   }
 
+  // 4. Class-slide vocabulary (teacher slides; curated terms with IPA).
+  for (const v of ifaSlideVocab) {
+    addCard(map, {
+      term: v.term, pos: "", ipa: v.ipa, vi: v.vi,
+      topic: v.topic, lesson: v.lesson, source: "slide",
+    })
+  }
+
   cache = [...map.values()]
   return cache
 }
@@ -145,6 +154,7 @@ export const VOCAB_SOURCE_LABELS: Record<IfaVocabSource, string> = {
   vocab: "Từ vựng chủ đề",
   phrase: "Cụm ghép câu",
   final: "Ôn thi cuối khóa",
+  slide: "Slide trên lớp",
 }
 
 /** Cards carrying a given source tag, for the source filter. */

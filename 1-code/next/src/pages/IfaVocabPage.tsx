@@ -52,6 +52,7 @@ const SOURCE_OPTIONS: RailSelectOption[] = [
   { value: "vocab", label: VOCAB_SOURCE_LABELS.vocab },
   { value: "phrase", label: VOCAB_SOURCE_LABELS.phrase },
   { value: "final", label: VOCAB_SOURCE_LABELS.final },
+  { value: "slide", label: VOCAB_SOURCE_LABELS.slide },
 ]
 
 export function IfaVocabPage() {

@@ -1,0 +1,356 @@
+{
+  "source": "IFA class slides (Lesson 3-10)",
+  "topics": [
+    {
+      "id": "present-simple-continuous",
+      "lesson": 3,
+      "label": "Present Simple & Present Continuous",
+      "vi": "Thì hiện tại đơn và hiện tại tiếp diễn",
+      "summary": "Hiện tại đơn cho thói quen, sự thật, lịch trình; hiện tại tiếp diễn cho hành động đang xảy ra hoặc kế hoạch gần.",
+      "sections": [
+        {
+          "heading": "Present Simple — Cách dùng",
+          "points": [
+            "Thói quen, hành động lặp lại: I go jogging every morning.",
+            "Sự thật, chân lý chung: Football is one of the most popular sports in my country.",
+            "Lịch trình, thời gian biểu: The live football match starts at 6pm."
+          ],
+          "examples": ["She hits the gym twice a week.", "I am fond of going rock-climbing."]
+        },
+        {
+          "heading": "Present Simple — Cấu trúc",
+          "points": [
+            "To be (+): S + am/is/are + ADJ/N.",
+            "To be (−): S + am/is/are + not + ADJ/N.",
+            "To be (?): Am/Is/Are + S + ADJ/N?",
+            "Verb (+): S + V(s/es) + O/C.",
+            "Verb (−): S + do/does + not + V + O/C.",
+            "Verb (?): Do/Does + S + V + O/C?"
+          ],
+          "examples": ["He doesn't do aerobics on Fridays.", "Do you like to do sit-ups at the gym?"]
+        },
+        {
+          "heading": "Present Continuous — Cách dùng",
+          "points": [
+            "Hành động đang xảy ra lúc nói: My friends are going bowling at the moment.",
+            "Kế hoạch trong tương lai gần: I am having a lesson with my yoga instructor this evening.",
+            "Thói quen gây khó chịu (thường với 'always'): He is always going to the gym to watch girls."
+          ]
+        },
+        {
+          "heading": "Present Continuous — Cấu trúc",
+          "points": [
+            "(+): S + am/is/are + V-ing + O/C.",
+            "(−): S + am/is/are + not + V-ing + O/C.",
+            "(?): Am/Is/Are + S + V-ing + O/C?"
+          ],
+          "examples": ["The audience in the stadium is cheering for their favourite teams.", "Are you playing baseball with your classmates?"]
+        }
+      ]
+    },
+    {
+      "id": "past-simple-present-perfect",
+      "lesson": 4,
+      "label": "Past Simple & Present Perfect",
+      "vi": "Thì quá khứ đơn và hiện tại hoàn thành",
+      "summary": "Quá khứ đơn cho hành động đã hoàn tất ở thời điểm xác định; hiện tại hoàn thành nối quá khứ với hiện tại.",
+      "sections": [
+        {
+          "heading": "Past Simple — Cách dùng",
+          "points": [
+            "Hành động đã hoàn tất trong quá khứ: I watched a football match last night.",
+            "Chuỗi hành động theo thứ tự: Lisa went to the gym, did a few sit-ups and lifted some weights.",
+            "Tình huống dài trong quá khứ nay không còn đúng."
+          ]
+        },
+        {
+          "heading": "Past Simple — Cấu trúc",
+          "points": [
+            "To be (+): S + was/were + ADJ/N.",
+            "To be (−): S + was/were + not + ADJ/N.",
+            "To be (?): Was/Were + S + ADJ/N?",
+            "Verb (+): S + V (ed/bất quy tắc) + O.",
+            "Verb (−): S + did not + V(nguyên thể) + O.",
+            "Verb (?): Did + S + V(nguyên thể) + O?"
+          ],
+          "examples": ["He didn't have a passion for swimming when he was young.", "Were you a big fan of football when you were a kid?"]
+        },
+        {
+          "heading": "Present Perfect — Cách dùng",
+          "points": [
+            "Hành động xảy ra trong quá khứ không nêu thời điểm: Lan has just signed up for an English course.",
+            "Khoảng thời gian chưa kết thúc: I've written an essay this morning.",
+            "Hành động hoàn tất mà kết quả quan trọng ở hiện tại: Tom is stressed because he has missed a deadline."
+          ]
+        },
+        {
+          "heading": "Present Perfect — Cấu trúc & dấu hiệu",
+          "points": [
+            "(+): S + have/has + V (quá khứ phân từ) + O.",
+            "(−): S + have/has + not + PII + O.",
+            "(?): Have/Has + S + PII + O?",
+            "Dấu hiệu: for, since, just, already, ever, never, it's the first/second time."
+          ],
+          "examples": ["I have learned English for 10 years.", "Have you ever taken an IELTS course?", "It's the first time I've got a scholarship."]
+        },
+        {
+          "heading": "Phân biệt Past Simple vs Present Perfect",
+          "points": [
+            "Present Perfect nối quá khứ với hiện tại; Past Simple chỉ nói về quá khứ.",
+            "Present Perfect dùng mốc thời gian chưa kết thúc; Past Simple dùng mốc đã kết thúc hoặc hiểu ngầm."
+          ],
+          "examples": ["I've read 3 books this week. (vs) I read 3 books last week.", "Have you written your essay? (vs) I wrote my essay last week."]
+        }
+      ]
+    },
+    {
+      "id": "future-simple-be-going-to",
+      "lesson": 5,
+      "label": "Future Simple & Be going to",
+      "vi": "Thì tương lai đơn và 'be going to'",
+      "summary": "Will cho quyết định tức thời và dự đoán theo ý kiến; be going to cho kế hoạch đã định và dự đoán có bằng chứng.",
+      "sections": [
+        {
+          "heading": "Future Simple (will) — Cách dùng",
+          "points": [
+            "Dự đoán dựa trên ý kiến/kinh nghiệm: I think that electric vehicles will become the most popular means of transport.",
+            "Quyết định ngay lúc nói: I will ride a bike along the beach this evening.",
+            "Sự việc tương lai chưa sắp xếp."
+          ]
+        },
+        {
+          "heading": "Future Simple — Cấu trúc",
+          "points": [
+            "(+): S + will + V + O.",
+            "(−): S + will not (won't) + V + O.",
+            "(?): Will + S + V + O?"
+          ],
+          "examples": ["I think public transport will take the lead in the future.", "We won't travel by car during rush hour.", "Will more people use electric cars in the future?"]
+        },
+        {
+          "heading": "Be going to — Cách dùng",
+          "points": [
+            "Kế hoạch đã định trước: My friends and I are going to take a trip to Nha Trang next month.",
+            "Dự đoán có bằng chứng hiện tại: There are more and more cars on the road. The traffic is going to move slowly."
+          ]
+        },
+        {
+          "heading": "Be going to — Cấu trúc",
+          "points": [
+            "(+): S + am/is/are + going to + V + O.",
+            "(−): S + am/is/are + not + going to + V + O.",
+            "(?): Am/Is/Are + S + going to + V + O?"
+          ],
+          "examples": ["Our taxi driver is going to take shortcuts to save us some time.", "Is he going to commute to his new workplace by the express train?"]
+        },
+        {
+          "heading": "Phân biệt",
+          "points": [
+            "will = quyết định ngay lúc nói / dự đoán theo ý kiến cá nhân.",
+            "be going to = đã có kế hoạch trước / dự đoán có bằng chứng.",
+            "Present Continuous = sắp xếp chắc chắn (đã đặt chỗ); be going to = ít chắc chắn hơn."
+          ],
+          "examples": ["In my opinion, the traffic will move slowly this afternoon. (ý kiến)", "There are more cars on the road. The traffic is going to move slowly. (bằng chứng)"]
+        }
+      ]
+    },
+    {
+      "id": "conditionals",
+      "lesson": 6,
+      "label": "Conditional Sentences (Type 1 & 2)",
+      "vi": "Câu điều kiện loại 1 và loại 2",
+      "summary": "Loại 1 cho kết quả tương lai có thể xảy ra; loại 2 cho tình huống giả định, khó/không xảy ra ở hiện tại.",
+      "sections": [
+        {
+          "heading": "First Conditional (Loại 1)",
+          "points": [
+            "Dùng cho kết quả tương lai nhiều khả năng xảy ra.",
+            "Cấu trúc: If + present simple, will + V.",
+            "Có thể thay 'will' bằng might/could/may để chỉ khả năng thấp hơn."
+          ],
+          "examples": ["If you take these pills, you will start to feel better soon.", "If you consume more calories than you burn, you will gain weight over time."]
+        },
+        {
+          "heading": "Second Conditional (Loại 2)",
+          "points": [
+            "Dùng cho tình huống tưởng tượng, không có thật hoặc khó xảy ra ở hiện tại/tương lai.",
+            "Cấu trúc: If + past simple, would + V.",
+            "Dùng 'were' cho tất cả các ngôi: If I were to win the lottery, I would travel around the world."
+          ],
+          "examples": ["If fitness centres were free, more people would go to the gym.", "If she had a balanced diet, her overall health would improve significantly."]
+        }
+      ]
+    },
+    {
+      "id": "passive-voice",
+      "lesson": 7,
+      "label": "Passive Voice",
+      "vi": "Câu bị động",
+      "summary": "Dùng khi tân ngữ quan trọng hơn chủ ngữ, hoặc không biết/không cần nêu ai thực hiện hành động.",
+      "sections": [
+        {
+          "heading": "Cách dùng",
+          "points": [
+            "Khi tân ngữ quan trọng hơn chủ ngữ và không cần nói ai làm.",
+            "Khi không biết ai thực hiện hành động."
+          ],
+          "examples": ["I was born and brought up in a loving family.", "The family photo has been lost."]
+        },
+        {
+          "heading": "Cấu trúc & 4 bước chuyển",
+          "points": [
+            "Chủ động: S + V + O → Bị động: S + be + PII (+ by O).",
+            "B1: Xác định động từ, thì và tân ngữ của câu chủ động.",
+            "B2: Đưa tân ngữ lên đầu câu.",
+            "B3: Chọn dạng 'be' đúng thì và đổi động từ chính sang quá khứ phân từ (PII).",
+            "B4: Thêm 'by + chủ thể' (không bắt buộc)."
+          ],
+          "examples": ["Sarah invited some friends. → Some friends were invited by Sarah.", "Parents support their children. → Children are supported by their parents."]
+        },
+        {
+          "heading": "Bị động theo thì",
+          "points": [
+            "Present simple → am/is/are + PII.",
+            "Past simple → was/were + PII.",
+            "Future simple → will be + PII.",
+            "Present continuous → am/is/are + being + PII.",
+            "Past continuous → was/were + being + PII.",
+            "Present perfect → have/has been + PII."
+          ]
+        },
+        {
+          "heading": "Bị động với động từ khuyết thiếu & lưu ý",
+          "points": [
+            "Modal: can/should/must + be + PII. VD: The party can be held at Jack's house.",
+            "Lược bỏ chủ ngữ khi là đại từ, one/someone/people, hoặc đã hiểu rõ.",
+            "Thứ tự vế phải: PLACE – BY – TIME."
+          ],
+          "examples": ["We should tell Jenny. → Jenny should be told about the party.", "Misunderstandings can be avoided through open communication."]
+        }
+      ]
+    },
+    {
+      "id": "comparatives-superlatives",
+      "lesson": 8,
+      "label": "Comparatives & Superlatives",
+      "vi": "So sánh hơn và so sánh nhất",
+      "summary": "So sánh hơn so sánh giữa hai đối tượng; so sánh nhất so sánh một đối tượng với cả nhóm.",
+      "sections": [
+        {
+          "heading": "Comparatives — Cấu trúc",
+          "points": [
+            "Tính từ dài: S + to be + more + adj + than + O.",
+            "Tính từ ngắn: S + to be + adj-er + than + O.",
+            "Với danh từ: more + adj + N ... than / adj-er + N ... than."
+          ],
+          "examples": ["Running a business is much harder than working for a company.", "A part-time job can offer more flexible working hours than a full-time job.", "James earns a better living than his brother."]
+        },
+        {
+          "heading": "Superlatives — Cấu trúc",
+          "points": [
+            "S + to be + the most + adj / the adj-est.",
+            "Dùng khi so sánh một đối tượng với tất cả trong nhóm."
+          ],
+          "examples": ["He is the funniest colleague that I've ever met.", "My boss is the most intelligent man I've known."]
+        },
+        {
+          "heading": "Quy tắc biến đổi",
+          "points": [
+            "1 âm tiết: high → higher → the highest.",
+            "Kết thúc 'e': nice → nicer → the nicest.",
+            "1 âm tiết tận cùng phụ âm: big → bigger → the biggest.",
+            "2 âm tiết tận cùng -y: happy → happier → the happiest.",
+            "Từ 2 âm tiết trở lên: difficult → more difficult → the most difficult.",
+            "Bất quy tắc: good/bad/far → better/worse/farther → the best/the worst/the farthest."
+          ]
+        },
+        {
+          "heading": "Cấu trúc nâng cao",
+          "points": [
+            "One of the + so sánh nhất + danh từ số nhiều: Google is one of the highest-paying companies in the world.",
+            "Càng... càng...: The + comparative + S1 + V1, the + comparative + S2 + V2."
+          ],
+          "examples": ["The harder you work, the more promotion opportunities you will have."]
+        }
+      ]
+    },
+    {
+      "id": "relative-clauses",
+      "lesson": 9,
+      "label": "Relative Clauses",
+      "vi": "Mệnh đề quan hệ",
+      "summary": "Cung cấp thêm thông tin cho danh từ đứng trước, mở đầu bằng đại từ (who/whom/which/that/whose) hoặc trạng từ quan hệ (when/where/why).",
+      "sections": [
+        {
+          "heading": "Đại từ quan hệ",
+          "points": [
+            "who: chỉ người — I think I'm a good student who always tries to meet the deadlines.",
+            "whom: chỉ người, làm tân ngữ — I hope to have colleagues whom I can collaborate with.",
+            "which: chỉ vật/con vật — We watched a movie which was really thrilling.",
+            "that: người/vật, thông tin thiết yếu — I want a job that can give me a stable income.",
+            "whose: chỉ sự sở hữu — I'm closest to my mother, whose support means a lot to me."
+          ]
+        },
+        {
+          "heading": "Trạng từ quan hệ",
+          "points": [
+            "when (= in/on/at which): chỉ thời gian — The time when I worked as a tutor was special.",
+            "where (= in/at/on/to which): chỉ nơi chốn — I live in a neighbourhood where transportation is easily accessible.",
+            "why (= for which): chỉ lý do — The reason why I chose English Studies is that it suits my interests."
+          ]
+        },
+        {
+          "heading": "Mệnh đề xác định vs không xác định",
+          "points": [
+            "Xác định: thông tin thiết yếu, không có dấu phẩy, có thể dùng 'that', có thể lược đại từ khi là tân ngữ.",
+            "Không xác định: thông tin thêm, có dấu phẩy, không dùng 'that', không lược đại từ."
+          ],
+          "examples": ["Maybe there's an inventor (who) you can ask.", "This program, which is totally free, protects your computer against viruses."]
+        },
+        {
+          "heading": "Giới từ trong mệnh đề quan hệ",
+          "points": [
+            "Văn nói: giới từ đứng cuối mệnh đề — The colleague who I have worked with since last month...",
+            "Văn trang trọng: giới từ đứng trước which/whom — The colleague with whom I have worked since last month..."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sentence-structure",
+      "lesson": 10,
+      "label": "Sentence Structure",
+      "vi": "Cấu trúc câu & liên từ",
+      "summary": "Bốn loại câu (đơn, ghép, phức, ghép-phức) dựa trên mệnh đề độc lập và phụ thuộc, nối bằng các loại liên từ.",
+      "sections": [
+        {
+          "heading": "Mệnh đề",
+          "points": [
+            "Mệnh đề độc lập: S + V + (O) — câu hoàn chỉnh. VD: I do yoga every day.",
+            "Mệnh đề phụ thuộc: liên từ phụ thuộc/đại từ quan hệ + S + V — câu chưa hoàn chỉnh. VD: Because I always meet deadlines."
+          ]
+        },
+        {
+          "heading": "Bốn loại câu",
+          "points": [
+            "Câu đơn: 1 mệnh đề độc lập — She applied to a college.",
+            "Câu ghép: 2+ mệnh đề độc lập — She applied to a college, and she chose a major.",
+            "Câu phức: 1 phụ thuộc + 1 độc lập — After she applied to a college, she chose a major.",
+            "Câu ghép-phức: 2+ độc lập + 1+ phụ thuộc — After she passed the exam, she applied to a college, and she chose a major."
+          ]
+        },
+        {
+          "heading": "Các loại liên từ",
+          "points": [
+            "Liên từ kết hợp (FANBOYS): for, and, nor, but, or, yet, so.",
+            "Liên từ tương quan: either...or, neither...nor, not only...but also, both...and.",
+            "Liên từ phụ thuộc — Thời gian: after/before/when/while/until/as soon as.",
+            "Liên từ phụ thuộc — Tương phản: although/though/even though.",
+            "Liên từ phụ thuộc — Điều kiện: if/unless/in case/as long as/even if.",
+            "Liên từ phụ thuộc — Lý do: because/since/as. Mục đích: so that."
+          ]
+        }
+      ]
+    }
+  ]
+}

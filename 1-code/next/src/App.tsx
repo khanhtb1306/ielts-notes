@@ -10,6 +10,7 @@ const IfaSpeakingPage = lazy(() => import("@/pages/IfaSpeakingPage").then((m) =>
 const IfaSpeakingDrillPage = lazy(() => import("@/pages/IfaSpeakingDrillPage").then((m) => ({ default: m.IfaSpeakingDrillPage })))
 const IfaVocabPage = lazy(() => import("@/pages/IfaVocabPage").then((m) => ({ default: m.IfaVocabPage })))
 const IfaFinalSpeakingPage = lazy(() => import("@/pages/IfaFinalSpeakingPage").then((m) => ({ default: m.IfaFinalSpeakingPage })))
+const IfaGrammarPage = lazy(() => import("@/pages/IfaGrammarPage").then((m) => ({ default: m.IfaGrammarPage })))
 const PracticeRunnerPage = lazy(() => import("@/pages/PracticeRunnerPage").then((m) => ({ default: m.PracticeRunnerPage })))
 const PracticeResultPage = lazy(() => import("@/pages/PracticeResultPage").then((m) => ({ default: m.PracticeResultPage })))
 
@@ -26,6 +27,7 @@ export default function App() {
             <Route path="/speaking-ifa" element={<IfaSpeakingPage />} />
             <Route path="/speaking-ifa/drill" element={<IfaSpeakingDrillPage />} />
             <Route path="/vocab-ifa" element={<IfaVocabPage />} />
+            <Route path="/grammar-ifa" element={<IfaGrammarPage />} />
             <Route path="/final-ifa/speaking" element={<IfaFinalSpeakingPage />} />
             <Route path="/final" element={<FinalPage />} />
             <Route path="/practice/runner/:sessionId" element={<PracticeRunnerPage />} />
