@@ -15,6 +15,8 @@ export function BottomNav() {
 
   // Default to the first course so the bar is never empty on pages like "/".
   const group = findGroupForPath(pathname) ?? NAV_GROUPS[0]
+  // Keep the phone bar readable. Remaining entries are shown as submenu items
+  // inside the drawer for the currently selected course.
   const items = group.items.slice(0, 4)
 
   return (
@@ -23,8 +25,8 @@ export function BottomNav() {
       className="fixed inset-x-0 bottom-0 z-40 border-t border-border bg-card/95 shadow-[0_-1px_12px_rgba(0,0,0,0.06)] backdrop-blur md:hidden"
       style={{ paddingBottom: "env(safe-area-inset-bottom)" }}
     >
-      <ul className="mx-auto flex max-w-xl items-stretch px-1">
-        <li className="flex-1">
+      <div className="mx-auto flex max-w-xl items-stretch px-1">
+        <div className="w-[68px] shrink-0">
           <button
             type="button"
             onClick={() => openMenu(true)}
@@ -36,15 +38,16 @@ export function BottomNav() {
             </span>
             <span>Menu</span>
           </button>
-        </li>
-        {items.map((item) => {
+        </div>
+        <ul className="flex min-w-0 flex-1 items-stretch">
+          {items.map((item) => {
           // Speaking stays highlighted across its sub-routes (drill, final).
           const active =
             pathname === item.to ||
             pathname.startsWith(`${item.to}/`) ||
             (item.to === "/speaking-ifa" && pathname.startsWith("/final-ifa"))
           return (
-            <li key={item.to} className="flex-1">
+            <li key={item.to} className="min-w-0 flex-1">
               <NavLink
                 to={item.to}
                 className={cn(
@@ -59,8 +62,9 @@ export function BottomNav() {
               </NavLink>
             </li>
           )
-        })}
-      </ul>
+          })}
+        </ul>
+      </div>
     </nav>
   )
 }

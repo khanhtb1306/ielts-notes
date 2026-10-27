@@ -237,6 +237,8 @@ export interface IfaGrammarSection {
   points: string[]
   /** Example sentences for this section. */
   examples?: string[]
+  /** Responsive comparison / reference table transcribed from the course handout. */
+  table?: { columns: string[]; rows: string[][] }
 }
 
 export interface IfaGrammarTopic {
@@ -246,6 +248,8 @@ export interface IfaGrammarTopic {
   vi: string
   summary: string
   sections: IfaGrammarSection[]
+  /** Page numbers in the 35-page course handout, for content cross-checking. */
+  sourcePages?: number[]
 }
 
 export interface PracticePreset {
@@ -348,6 +352,7 @@ export interface IpaEntry {
   word: string
   vi?: string
   voiced?: boolean
+  spell?: string
 }
 
 export interface IpaData {

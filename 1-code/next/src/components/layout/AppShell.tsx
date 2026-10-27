@@ -1,4 +1,5 @@
 import { useRef, type ReactNode } from "react"
+import { useLocation } from "react-router-dom"
 import { Sidebar } from "./Sidebar"
 import { TopBar } from "./TopBar"
 import { MobilePageTitle } from "./MobilePageTitle"
@@ -11,6 +12,19 @@ import { cn } from "@/lib/utils"
 export function AppShell({ children }: { children: ReactNode }) {
   const contentRef = useRef<HTMLDivElement>(null)
   const collapsed = useUi((s) => s.sidebarCollapsed)
+  const { pathname } = useLocation()
+
+  // The course picker ("/") is a chooser, not a place you navigate *within* —
+  // so it renders chrome-free (no sidebar, bottom nav, header or TOC).
+  if (pathname === "/") {
+    return (
+      <div className="min-h-screen bg-background text-foreground">
+        <main className="mx-auto min-h-screen max-w-3xl px-4 py-8 sm:px-6 sm:py-12">
+          {children}
+        </main>
+      </div>
+    )
+  }
 
   return (
     <div className="min-h-screen bg-background text-foreground">

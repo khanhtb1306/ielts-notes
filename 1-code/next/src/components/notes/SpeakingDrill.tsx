@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react"
 import { Bot, Check, Clock3, Copy, Eye, EyeOff, Gamepad2, GraduationCap, HeartPulse, Home, Lightbulb, Mic, MapPinHouse, Pencil, Plane, Play, Quote, RotateCcw, Square, Upload, UserRound, UsersRound, Utensils, Volume2, VolumeX, X } from "lucide-react"
 import type { LucideIcon } from "lucide-react"
-import { getEnglishVoices, speak } from "@/lib/tts"
+import { useSpeak } from "@/lib/use-speak"
 import { diffWords, tokenize } from "@/lib/speech-diff"
 
 import type { SpeakingQuestion, TopicLabel } from "@/types/content"
@@ -50,16 +50,6 @@ function formatTime(total: number) {
 function audioHref(file: string) {
   const path = `${AUDIO_DIR}/${file}`
   return `${APP_BASE}${path.split("/").map(encodeURIComponent).join("/")}`
-}
-
-function googleFemaleVoiceName(voices: SpeechSynthesisVoice[]) {
-  const preferred = [
-    /google uk english female/i,
-    /google us english/i,
-    /google.*english.*female/i,
-    /google.*english/i,
-  ]
-  return preferred.map((re) => voices.find((v) => re.test(v.name))).find(Boolean)?.name || ""
 }
 
 interface Props {
@@ -119,7 +109,7 @@ export function SpeakingDrill({ questions }: Props) {
     })).filter((section) => section.questions.length > 0)
   }, [questions])
   const audioRef = useRef<HTMLAudioElement | null>(null)
-  const [voiceName, setVoiceName] = useState("")
+  const speakText = useSpeak()
   const [selectedBySection, setSelectedBySection] = useState<Record<string, number>>({})
   const [sampleOverrides, setSampleOverrides] = useState<Record<string, string>>({})
   const [showQuestionText, setShowQuestionText] = useState(false)
@@ -337,13 +327,6 @@ export function SpeakingDrill({ questions }: Props) {
   }
 
   useEffect(() => {
-    const selectVoice = () => setVoiceName(googleFemaleVoiceName(getEnglishVoices()))
-    selectVoice()
-    const timer = window.setTimeout(selectVoice, 500)
-    return () => window.clearTimeout(timer)
-  }, [])
-
-  useEffect(() => {
     try {
       const raw = window.localStorage.getItem(SAMPLE_OVERRIDE_KEY)
       if (raw) {
@@ -389,7 +372,7 @@ export function SpeakingDrill({ questions }: Props) {
 
   function playGenerated(text: string) {
     audioRef.current?.pause()
-    speak(text, voiceName, 0.9)
+    speakText(text)
   }
 
   function playQuestion(item: SelectedQuestion) {
@@ -401,7 +384,7 @@ export function SpeakingDrill({ questions }: Props) {
   function playSampleAnswer(text: string) {
     if (isListeningRef.current) recStop()
     audioRef.current?.pause()
-    speak(text, voiceName, 0.9)
+    speakText(text)
   }
 
   function saveSampleAnswer(question: string, value: string) {

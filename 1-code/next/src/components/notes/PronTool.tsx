@@ -1,28 +1,21 @@
-import { useState, useEffect } from "react"
+import { useState } from "react"
 import { Volume2, PlayCircle } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card"
-import { getEnglishVoices, speak, dictLookup, playUrl } from "@/lib/tts"
+import { dictLookup, playUrl } from "@/lib/tts"
+import { useSpeak } from "@/lib/use-speak"
 
 export function PronTool() {
   const [word, setWord] = useState("")
-  const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([])
-  const [voice, setVoice] = useState<string>("")
-  const [rate, setRate] = useState(0.9)
   const [result, setResult] = useState<{ ipa: string; audio: string } | null>(null)
   const [status, setStatus] = useState<"idle" | "loading" | "done" | "empty">("idle")
-
-  useEffect(() => {
-    const v = getEnglishVoices()
-    setVoices(v)
-    if (v.length && !voice) setVoice(v[0].name)
-  }, [voice])
+  const speak = useSpeak()
 
   async function run() {
     const w = word.trim()
     if (!w) return
-    speak(w, voice, rate)
+    speak(w)
     setStatus("loading")
     setResult(null)
     const d = await dictLookup(w)
@@ -60,45 +53,14 @@ export function PronTool() {
           />
           <div className="flex gap-2">
             <Button onClick={run}>Nghe</Button>
-            <Button variant="outline" onClick={() => word.trim() && speak(word.trim(), voice, rate)}>
+            <Button variant="outline" onClick={() => word.trim() && speak(word.trim())}>
               Giọng máy
             </Button>
           </div>
         </div>
-        <div className="flex flex-wrap items-center gap-4 text-sm">
-          {voices.length > 0 && (
-            <label className="flex items-center gap-2" htmlFor="pron-voice">
-              Giọng
-              <select
-                id="pron-voice"
-                name="pron-voice"
-                className="rounded-md border border-input bg-transparent px-2 py-1 text-sm"
-                value={voice}
-                onChange={(e) => setVoice(e.target.value)}
-              >
-                {voices.map((v) => (
-                  <option key={v.name} value={v.name}>
-                    {v.name}
-                  </option>
-                ))}
-              </select>
-            </label>
-          )}
-          <label className="flex items-center gap-2" htmlFor="pron-rate">
-            Tốc độ
-            <input
-              id="pron-rate"
-              name="pron-rate"
-              type="range"
-              min={0.5}
-              max={1.1}
-              step={0.1}
-              value={rate}
-              onChange={(e) => setRate(parseFloat(e.target.value))}
-            />
-            <span className="text-muted-foreground w-8 tabular-nums">{rate.toFixed(1)}</span>
-          </label>
-        </div>
+        <p className="text-xs text-muted-foreground">
+          Giọng, âm điệu (Anh-Anh / Anh-Mỹ) và tốc độ đọc chỉnh chung ở nút Cài đặt trên thanh điều hướng — áp dụng cho toàn bộ web.
+        </p>
         {status === "loading" && <div className="text-sm text-muted-foreground">Đang tra...</div>}
         {status === "done" && result && (
           <div className="flex items-center gap-3 rounded-lg border border-border bg-muted/40 px-4 py-3">

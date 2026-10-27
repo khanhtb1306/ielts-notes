@@ -50,6 +50,19 @@ const config: Config = {
           foreground: "hsl(var(--card-foreground))",
         },
         "primary-soft": "hsl(var(--primary-soft))",
+        // Status palette — grading + state colours (one source, theme-aware).
+        success: {
+          DEFAULT: "hsl(var(--success))",
+          soft: "hsl(var(--success-soft))",
+        },
+        warn: {
+          DEFAULT: "hsl(var(--warn))",
+          soft: "hsl(var(--warn-soft))",
+        },
+        info: {
+          DEFAULT: "hsl(var(--info))",
+          soft: "hsl(var(--info-soft))",
+        },
         // Phrase-group hues for the answer builder.
         slot1: "hsl(var(--slot-1))",
         slot2: "hsl(var(--slot-2))",

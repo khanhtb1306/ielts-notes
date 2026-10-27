@@ -1,10 +1,7 @@
 import type { ReactNode } from "react"
-import { Settings2 } from "lucide-react"
 import { cn } from "@/lib/utils"
-import { VoicePicker } from "@/components/common/VoicePicker"
 import { Select } from "@/components/ui/select"
 import type { SelectOption } from "@/components/ui/select"
-import { Popover } from "@/components/ui/popover"
 
 /**
  * Sticky control rail for the IFA Speaking workspace.
@@ -146,36 +143,4 @@ export function RailProgress({ done, total, label }: { done: number; total: numb
   )
 }
 
-/**
- * Voice settings are rarely touched, so they collapse to an icon that opens a
- * popover instead of taking permanent room in the rail.
- */
-export function RailVoice() {
-  return (
-    <Popover
-      width={260}
-      trigger={({ open, toggle }) => (
-        <button
-          type="button"
-          onClick={toggle}
-          aria-expanded={open}
-          aria-label="Cài đặt giọng đọc"
-          title="Giọng đọc"
-          className={cn(
-            "flex size-9 items-center justify-center rounded-lg border transition-colors",
-            open
-              ? "border-primary bg-primary-soft text-primary"
-              : "border-input bg-card text-muted-foreground hover:border-primary/50 hover:text-foreground"
-          )}
-        >
-          <Settings2 className="size-4" />
-        </button>
-      )}
-    >
-      <p className="mb-2 text-[11px] font-bold uppercase tracking-[0.12em] text-muted-foreground">
-        Giọng đọc
-      </p>
-      <VoicePicker stacked />
-    </Popover>
-  )
-}
+

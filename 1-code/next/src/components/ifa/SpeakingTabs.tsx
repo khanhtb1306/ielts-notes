@@ -9,7 +9,7 @@ import { cn } from "@/lib/utils"
  */
 const TABS = [
   { to: "/speaking-ifa", label: "Theo chủ đề", icon: MessageSquare, end: true },
-  { to: "/speaking-ifa/drill", label: "Luyện phản xạ", icon: Shuffle, end: false },
+  { to: "/speaking-ifa/drill", label: "Phản xạ", icon: Shuffle, end: false },
   { to: "/final-ifa/speaking", label: "Final", icon: ClipboardCheck, end: false },
 ]
 
@@ -23,7 +23,7 @@ export function SpeakingTabs() {
           end={t.end}
           className={({ isActive }) =>
             cn(
-              "flex flex-1 items-center justify-center gap-1.5 whitespace-nowrap rounded-md px-3 py-2 text-sm font-semibold transition-colors",
+              "flex min-h-11 flex-1 items-center justify-center gap-1.5 whitespace-nowrap rounded-md px-2 py-2 text-xs font-semibold transition-colors sm:min-h-0 sm:px-3 sm:text-sm",
               isActive
                 ? "bg-card text-primary shadow-card"
                 : "text-muted-foreground hover:text-foreground"

@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react"
+import { useMemo, useRef, useState, type TouchEvent } from "react"
 import { ArrowLeft, ArrowRight, Settings2, Volume2, Trash2 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { cn } from "@/lib/utils"
@@ -14,7 +14,6 @@ import {
   RailItem,
   RailProgress,
   RailSelect,
-  RailVoice,
 } from "@/components/ifa/SpeakingRail"
 import { OptionsSheet } from "@/components/ifa/OptionsSheet"
 import { SpeakingTabs } from "@/components/ifa/SpeakingTabs"
@@ -28,6 +27,7 @@ export function IfaSpeakingPage() {
   const [topicKey, setTopicKey] = useState(topics[0]?.key ?? "")
   const [variantIdx, setVariantIdx] = useState(0)
   const [questionIndex, setQuestionIndex] = useState(0)
+  const swipeStart = useRef<{ x: number; y: number } | null>(null)
 
   const [sheetOpen, setSheetOpen] = useState(false)
   const topic = topics.find((t) => t.key === topicKey) ?? topics[0]
@@ -63,6 +63,29 @@ export function IfaSpeakingPage() {
     setQuestionIndex(0)
   }
 
+  function handleTouchStart(event: TouchEvent<HTMLDivElement>) {
+    const touch = event.touches[0]
+    swipeStart.current = touch ? { x: touch.clientX, y: touch.clientY } : null
+  }
+
+  function handleTouchEnd(event: TouchEvent<HTMLDivElement>) {
+    const start = swipeStart.current
+    const touch = event.changedTouches[0]
+    swipeStart.current = null
+    if (!start || !touch || !handout) return
+
+    const dx = touch.clientX - start.x
+    const dy = touch.clientY - start.y
+    // Ignore short gestures and normal vertical page scrolling.
+    if (Math.abs(dx) < 55 || Math.abs(dx) <= Math.abs(dy) * 1.25) return
+
+    if (dx < 0) {
+      setQuestionIndex((i) => Math.min(i + 1, handout.questions.length - 1))
+    } else {
+      setQuestionIndex((i) => Math.max(i - 1, 0))
+    }
+  }
+
   if (!ifaSpeakingHandouts.length) {
     return (
       <div className="rounded-xl border border-border bg-card p-8 text-center">
@@ -85,8 +108,6 @@ export function IfaSpeakingPage() {
       <SpeakingTabs />
       <div className="lg:flex lg:items-start lg:gap-6 2xl:gap-8">
         <SpeakingRail>
-          <RailVoice />
-
           <RailSection title="Chủ đề">
             {/* Dropdown keeps the rail a fixed height as more lessons ship. */}
             <RailSelect id="ifa-topic" value={topic?.key ?? ""} options={topicOptions} onChange={selectTopic} />
@@ -109,11 +130,11 @@ export function IfaSpeakingPage() {
                         className={cn(
                           isSaved &&
                             i !== questionIndex &&
-                            "border-emerald-500/50 text-emerald-700 dark:text-emerald-400"
+                            "border-success/50 text-success"
                         )}
                         trailing={
                           isSaved ? (
-                            <span className="size-2 shrink-0 rounded-full bg-emerald-500" aria-hidden />
+                            <span className="size-2 shrink-0 rounded-full bg-success" aria-hidden />
                           ) : undefined
                         }
                       >
@@ -152,12 +173,11 @@ export function IfaSpeakingPage() {
 
         <OptionsSheet open={sheetOpen} onClose={() => setSheetOpen(false)}>
           {handout && <RailProgress done={saved.length} total={handout.questions.length} label="đã lưu" />}
-          <RailVoice />
         </OptionsSheet>
 
         {handout && (
           <div className="min-w-0 flex-1 space-y-5">
-            <div className="flex flex-wrap items-baseline gap-x-2 gap-y-1">
+            <div className="hidden flex-wrap items-baseline gap-x-2 gap-y-1 lg:flex">
               <p className="text-lg font-bold tracking-tight">{handout.topicLabel}</p>
               {handout.grammarFocus && (
                 <span className="inline-flex items-center gap-1.5 rounded-md bg-primary-soft px-2 py-1 text-xs font-semibold text-primary">
@@ -176,12 +196,18 @@ export function IfaSpeakingPage() {
             )}
 
             {handout.questions[questionIndex] && (
-              <SpeakingQuestionCard
-                key={`${handoutId}-${questionIndex}`}
-                handoutId={handoutId}
-                questionIndex={questionIndex}
-                question={handout.questions[questionIndex]}
-              />
+              <div
+                className="touch-pan-y"
+                onTouchStart={handleTouchStart}
+                onTouchEnd={handleTouchEnd}
+              >
+                <SpeakingQuestionCard
+                  key={`${handoutId}-${questionIndex}`}
+                  handoutId={handoutId}
+                  questionIndex={questionIndex}
+                  question={handout.questions[questionIndex]}
+                />
+              </div>
             )}
 
             {/* Below 2xl the saved answers stay at the end of the working column. */}

@@ -35,6 +35,15 @@
     --slot-2: 32 85% 44%;
     --slot-3: 152 55% 33%;
 
+    /* Status palette — one source for grading / state colours so pages stop
+       hard-coding emerald/amber/sky. `-soft` is the tint background. */
+    --success: 152 60% 36%;
+    --success-soft: 152 55% 94%;
+    --warn: 32 90% 44%;
+    --warn-soft: 40 90% 94%;
+    --info: 205 85% 45%;
+    --info-soft: 205 90% 95%;
+
     --shadow-card: 0 1px 2px rgb(16 18 40 / 0.04), 0 6px 22px rgb(16 18 40 / 0.07);
     --shadow-lift: 0 2px 4px rgb(16 18 40 / 0.05), 0 10px 26px rgb(16 18 40 / 0.12);
   }
@@ -67,6 +76,13 @@
     --slot-1: 243 85% 72%;
     --slot-2: 32 90% 60%;
     --slot-3: 152 50% 55%;
+
+    --success: 152 50% 55%;
+    --success-soft: 152 40% 18%;
+    --warn: 32 90% 60%;
+    --warn-soft: 32 50% 18%;
+    --info: 205 85% 65%;
+    --info-soft: 205 50% 18%;
 
     --shadow-card: 0 1px 2px rgb(0 0 0 / 0.3), 0 6px 22px rgb(0 0 0 / 0.35);
     --shadow-lift: 0 2px 4px rgb(0 0 0 / 0.35), 0 10px 26px rgb(0 0 0 / 0.5);
@@ -139,6 +155,23 @@
     .lift:hover {
       transform: none;
     }
+  }
+
+  /* Clickable surface inside a grid/table (IPA cells, option tiles). Gives a
+     clear, consistent hover instead of each call site inventing its own faint
+     brightness/border tweak. */
+  .tile {
+    transition: background-color 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
+  }
+  .tile:hover {
+    background-color: hsl(var(--accent));
+    box-shadow: inset 0 0 0 2px hsl(var(--primary) / 0.35);
+    z-index: 10;
+  }
+  .tile[aria-pressed="true"],
+  .tile[data-selected="true"] {
+    box-shadow: inset 0 0 0 2px hsl(var(--primary));
+    z-index: 10;
   }
 }
 

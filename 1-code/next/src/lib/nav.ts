@@ -1,5 +1,18 @@
 import type { LucideIcon } from "lucide-react"
-import { Volume2, Rows, MessageSquare, GraduationCap, Mic, Shuffle, Layers, ClipboardCheck, BookOpen } from "lucide-react"
+import { Volume2, Rows, MessageSquare, GraduationCap, Mic, Shuffle, Layers, ClipboardCheck, BookOpen, BookOpenCheck, PenLine, Headphones } from "lucide-react"
+import { cn } from "@/lib/utils"
+
+/**
+ * Shared nav-link styling so the desktop Sidebar and the mobile drawer render
+ * every link identically. `collapsed` centres the icon for the rail.
+ */
+export function navLinkClass({ isActive, collapsed = false }: { isActive: boolean; collapsed?: boolean }): string {
+  return cn(
+    "flex items-center gap-2.5 rounded-lg px-3 py-2 font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground",
+    collapsed && "justify-center px-0",
+    isActive && "bg-primary text-primary-foreground shadow-card hover:bg-primary hover:text-primary-foreground"
+  )
+}
 
 export interface NavItem {
   to: string
@@ -37,6 +50,9 @@ export const NAV_GROUPS: NavGroup[] = [
     label: "IELTS Foundation A",
     items: [
       { to: "/speaking-ifa", label: "Speaking", icon: Mic, badge: "IFA", eyebrow: "IELTS Foundation A · Speaking", title: "Speaking — IELTS Foundation A", shortTitle: "Speaking", subtitle: "Khung trả lời theo chủ đề + luyện phản xạ" },
+      { to: "/listening-ifa", label: "Listening", icon: Headphones, badge: "IFA", eyebrow: "IELTS Foundation A · Listening", title: "Listening — IELTS Foundation A", shortTitle: "Listening", subtitle: "Nội dung Listening sẽ được cập nhật" },
+      { to: "/reading-ifa", label: "Reading", icon: BookOpenCheck, badge: "IFA", eyebrow: "IELTS Foundation A · Reading", title: "Reading — IELTS Foundation A", shortTitle: "Reading", subtitle: "Đề luyện Final Test · 14 câu, chấm tự động" },
+      { to: "/writing-ifa", label: "Writing", icon: PenLine, badge: "IFA", eyebrow: "IELTS Foundation A · Writing", title: "Writing — IELTS Foundation A", shortTitle: "Writing", subtitle: "Đề luyện Final Test · viết đoạn + tiêu chí" },
       { to: "/grammar-ifa", label: "Ngữ pháp", icon: BookOpen, badge: "IFA", eyebrow: "IELTS Foundation A · Ngữ pháp", title: "Ngữ pháp — IELTS Foundation A", shortTitle: "Ngữ pháp", subtitle: "8 chủ điểm ngữ pháp theo slide trên lớp" },
       { to: "/vocab-ifa", label: "Từ vựng", icon: Layers, badge: "IFA", eyebrow: "IELTS Foundation A · Từ vựng", title: "Từ vựng — lật thẻ", shortTitle: "Từ vựng", subtitle: "Ôn bằng thẻ hai mặt, theo chủ đề Speaking" },
     ],
@@ -106,6 +122,9 @@ export function findNavForPath(pathname: string): NavItem | undefined {
 /** Sub-routes map back to the course whose section they belong under. */
 const GROUP_PREFIXES: Record<string, string> = {
   "/speaking-ifa": "ifa-ielts",
+  "/listening-ifa": "ifa-ielts",
+  "/reading-ifa": "ifa-ielts",
+  "/writing-ifa": "ifa-ielts",
   "/final-ifa": "ifa-ielts",
   "/vocab-ifa": "ifa-ielts",
   "/grammar-ifa": "ifa-ielts",

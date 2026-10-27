@@ -14,7 +14,6 @@ import {
   SpeakingRail,
   RailSection,
   RailSelect,
-  RailVoice,
 } from "@/components/ifa/SpeakingRail"
 import { OptionsSheet } from "@/components/ifa/OptionsSheet"
 import { Select } from "@/components/ui/select"
@@ -127,14 +126,11 @@ export function IfaVocabPage() {
     <div data-toc-skip>
       <div className="lg:flex lg:items-start lg:gap-6 2xl:gap-8">
         <SpeakingRail>
-          <div className="flex items-center gap-2">
-            <Button asChild variant="outline" size="sm" className="h-9 flex-1 justify-center">
-              <Link to="/speaking-ifa">
-                <MessageSquare className="size-4" /> Khung trả lời
-              </Link>
-            </Button>
-            <RailVoice />
-          </div>
+          <Button asChild variant="outline" size="sm" className="h-9 w-full justify-center">
+            <Link to="/speaking-ifa">
+              <MessageSquare className="size-4" /> Khung trả lời
+            </Link>
+          </Button>
 
           {/* Two columns on phones so the controls do not push the card below
               the fold; a single stacked column once the rail exists. */}
@@ -250,7 +246,6 @@ export function IfaVocabPage() {
           <Button asChild variant="outline" size="sm" className="w-full justify-center">
             <Link to="/speaking-ifa"><MessageSquare className="size-4" /> Khung trả lời</Link>
           </Button>
-          <RailVoice />
         </OptionsSheet>
 
         <div className="min-w-0 flex-1 space-y-4">
@@ -320,22 +315,22 @@ function ProgressBreakdown({
   return (
     <div className="rounded-lg border border-border bg-card p-3">
       <div className="flex items-baseline justify-between gap-2">
-        <span className="text-lg font-bold tabular-nums text-emerald-600">
+        <span className="text-lg font-bold tabular-nums text-success">
           {known}
           <span className="text-sm font-medium text-muted-foreground">/{total}</span>
         </span>
         <span className="text-[11px] uppercase tracking-wide text-muted-foreground">đã thuộc</span>
       </div>
       <div className="mt-2 flex h-1.5 overflow-hidden rounded-full bg-muted">
-        <div className="h-full bg-emerald-500 transition-all" style={{ width: `${pct(known)}%` }} />
-        <div className="h-full bg-amber-500 transition-all" style={{ width: `${pct(learning)}%` }} />
+        <div className="h-full bg-success transition-all" style={{ width: `${pct(known)}%` }} />
+        <div className="h-full bg-warn transition-all" style={{ width: `${pct(learning)}%` }} />
       </div>
       {/* The breakdown is detail; phones only get the headline figure and bar. */}
       <dl className="mt-2.5 hidden space-y-1 text-xs lg:block">
-        <Row dotClass="bg-emerald-500" label="Đã thuộc" value={known} />
-        <Row dotClass="bg-amber-500" label="Đang học" value={learning} />
+        <Row dotClass="bg-success" label="Đã thuộc" value={known} />
+        <Row dotClass="bg-warn" label="Đang học" value={learning} />
         <Row dotClass="bg-muted-foreground/40" label="Chưa học" value={untouched} />
-        <Row dotClass="bg-amber-400" label="Gắn sao" value={starred} star />
+        <Row dotClass="bg-warn" label="Gắn sao" value={starred} star />
       </dl>
       <p className="mt-2 text-xs text-muted-foreground lg:hidden">
         {learning} đang học · {untouched} chưa học · {starred} gắn sao
@@ -359,7 +354,7 @@ function Row({
     <div className="flex items-center justify-between gap-2">
       <dt className="flex items-center gap-1.5 text-muted-foreground">
         {star ? (
-          <Star className="size-3 fill-current text-amber-500" />
+          <Star className="size-3 fill-current text-warn" />
         ) : (
           <span className={cn("size-2 rounded-full", dotClass)} />
         )}

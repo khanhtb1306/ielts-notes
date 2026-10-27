@@ -1,200 +1,82 @@
 import { Link } from "react-router-dom"
-import { ArrowRight, Volume2, Rows, MessageSquare, GraduationCap, Sparkles, Mic, Shuffle } from "lucide-react"
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { Badge } from "@/components/ui/badge"
-import { Button } from "@/components/ui/button"
-import { useData } from "@/stores/data"
-import { useHistory } from "@/stores/history"
-import { ifaSpeakingHandouts, ifaSpeakingDrills } from "@/lib/ifa-speaking"
+import { ArrowRight, GraduationCap } from "lucide-react"
+import { NAV_GROUPS } from "@/lib/nav"
+import { cn } from "@/lib/utils"
 
+/**
+ * Course picker — the app entry screen. Each card is one group from the nav
+ * (single source of truth), so adding a course in `nav.ts` surfaces it here
+ * automatically. No class metadata, just the group name + what's inside.
+ */
 export function LandingPage() {
-  const { docs, meta, finalTests } = useData()
-  const history = useHistory((s) => s.entries).slice(0, 5)
-
-  const nGrammar = docs.filter((d) => d.type === "grammar").length
-  const nPron = docs.filter((d) => d.type === "pronunciation").length
-  const nSpeaking = docs.filter((d) => d.type === "speaking").length
-
-  const ifaQuestions = ifaSpeakingHandouts.reduce((n, h) => n + h.questions.length, 0)
-  const ifaDrillCount = ifaSpeakingDrills.reduce(
-    (n, l) => n + l.variants.reduce((m, v) => m + v.items.length, 0),
-    0
-  )
-
   return (
-    <div className="space-y-6 sm:space-y-10">
-      <section className="overflow-hidden rounded-xl border border-border bg-card p-5 shadow-card sm:p-10">
-        <Badge variant="secondary" className="mb-3 hidden sm:inline-flex">Pre-IELTS · IELTS Foundation A</Badge>
-        <h2 className="text-2xl font-bold leading-tight tracking-tight sm:text-4xl">
-          Ôn tập tập trung — <span className="text-primary">Ngữ pháp & Speaking</span> cho cả hai khóa.
-        </h2>
-        <p className="mt-3 max-w-2xl text-sm text-muted-foreground sm:text-base">
-          {meta.stageIntro ||
-            "Học theo tài liệu tổng hợp của trung tâm, luyện Speaking theo bộ câu hỏi chắc chắn hỏi, và làm Final Test theo đúng cấu trúc mock."}
+    <div className="space-y-5">
+      {/* Greeting hero */}
+      <section className="overflow-hidden rounded-xl bg-gradient-to-br from-primary to-primary/80 p-6 text-primary-foreground shadow-card sm:p-8">
+        <p className="text-sm font-medium opacity-90">Xin chào 👋</p>
+        <h2 className="mt-1 text-2xl font-bold tracking-tight sm:text-3xl">Chọn nội dung ôn tập</h2>
+        <p className="mt-2 max-w-xl text-sm opacity-90">
+          Chúc bạn một buổi học hiệu quả. Chọn một khóa bên dưới để bắt đầu.
         </p>
-        <div className="mt-6 flex flex-wrap gap-2">
-          <Button asChild>
-            <Link to="/final">
-              <GraduationCap className="h-4 w-4" /> Vào Final Test
-            </Link>
-          </Button>
-          <Button asChild variant="outline">
-            <Link to="/speaking-ifa">
-              <Mic className="h-4 w-4" /> Speaking IELTS Foundation A
-            </Link>
-          </Button>
-        </div>
       </section>
 
-      <CourseSection title="Pre-IELTS" note="Ôn thi cuối khóa">
-        <EntryCard
-          to="/pronunciation"
-          icon={Volume2}
-          title="Phát âm"
-          description={`${nPron} bài phát âm · IPA tương tác · hộp luyện âm`}
-          accent="text-teal-500 bg-teal-500/10"
-        />
-        <EntryCard
-          to="/grammar"
-          icon={Rows}
-          title="Ngữ pháp"
-          description={`Tổng hợp kiến thức toàn khóa (ảnh của trung tâm) + ${nGrammar} ghi chú giải thích sâu`}
-          accent="text-indigo-500 bg-indigo-500/10"
-        />
-        <EntryCard
-          to="/speaking"
-          icon={MessageSquare}
-          title="Speaking"
-          description={`${nSpeaking} chủ đề · answer frame · tài liệu + bộ câu hỏi cuối khóa`}
-          accent="text-pink-500 bg-pink-500/10"
-        />
-        <EntryCard
-          to="/final"
-          icon={GraduationCap}
-          title="Final Test"
-          description={`${finalTests.sets.length} đề thi thử chuẩn · 50 câu/đề · 45 phút`}
-          accent="text-emerald-500 bg-emerald-500/10"
-        />
-      </CourseSection>
-
-      {ifaSpeakingHandouts.length > 0 && (
-        <CourseSection title="IELTS Foundation A" note="Speaking Part 1">
-          <EntryCard
-            to="/speaking-ifa"
-            icon={Mic}
-            title="Speaking — Khung trả lời"
-            description={`${ifaSpeakingHandouts.length} chủ đề · ${ifaQuestions} câu hỏi · ghép câu theo cụm từ + IPA`}
-            accent="text-violet-500 bg-violet-500/10"
+      {/* Course cards */}
+      <div className="grid gap-4 sm:grid-cols-2">
+        {NAV_GROUPS.map((group) => (
+          <CourseCard
+            key={group.id}
+            to={group.items[0]?.to ?? "/"}
+            label={group.label}
+            items={group.items.map((i) => i.label)}
           />
-          <EntryCard
-            to="/speaking-ifa/drill"
-            icon={Shuffle}
-            title="Luyện phản xạ"
-            description={`${ifaDrillCount} câu hỏi ngẫu nhiên · ${ifaSpeakingDrills.length} lesson`}
-            accent="text-orange-500 bg-orange-500/10"
-          />
-        </CourseSection>
-      )}
-
-      {history.length > 0 && (
-        <section>
-          <div className="mb-3 flex items-center gap-2">
-            <Sparkles className="h-5 w-5 text-primary" />
-            <h3 className="text-lg font-semibold">Lần làm bài gần đây</h3>
-          </div>
-          <Card>
-            <CardContent className="divide-y divide-border p-0">
-              {history.map((h) => {
-                const pct = h.total ? Math.round((h.score / h.total) * 100) : 0
-                return (
-                  <Link
-                    key={h.id}
-                    to={`/practice/result/${h.id}`}
-                    className="flex items-center justify-between px-6 py-4 transition-colors hover:bg-accent/30"
-                  >
-                    <div className="flex min-w-0 items-center gap-4">
-                      <div className="w-14 shrink-0 text-2xl font-bold text-primary">{pct}%</div>
-                      <div className="min-w-0">
-                        <div className="truncate font-medium">{h.presetLabel || "Đề"}</div>
-                        <div className="truncate text-xs text-muted-foreground">
-                          {h.score}/{h.total} câu · {new Date(h.submittedAt).toLocaleString()}
-                        </div>
-                      </div>
-                    </div>
-                    <ArrowRight className="h-4 w-4 shrink-0 text-muted-foreground" />
-                  </Link>
-                )
-              })}
-            </CardContent>
-          </Card>
-        </section>
-      )}
-
-      {meta.goals && meta.goals.length > 0 && (
-        <section>
-          <h3 className="mb-3 text-lg font-semibold">Mục tiêu ôn tập</h3>
-          <Card>
-            <CardContent className="pt-6">
-              <ol className="list-inside list-decimal space-y-2 marker:font-semibold marker:text-primary">
-                {meta.goals.map((g, i) => (
-                  <li key={i}>{g}</li>
-                ))}
-              </ol>
-            </CardContent>
-          </Card>
-        </section>
-      )}
+        ))}
+      </div>
     </div>
   )
 }
 
-function CourseSection({
-  title,
-  note,
-  children,
-}: {
-  title: string
-  note: string
-  children: React.ReactNode
-}) {
-  return (
-    <section>
-      <div className="mb-3 flex items-baseline gap-2">
-        <h3 className="text-lg font-semibold">{title}</h3>
-        <span className="text-xs text-muted-foreground">{note}</span>
-      </div>
-      <div className="grid gap-4 md:grid-cols-2">{children}</div>
-    </section>
-  )
-}
-
-function EntryCard({
+function CourseCard({
   to,
-  icon: Icon,
-  title,
-  description,
-  accent,
+  label,
+  items,
 }: {
   to: string
-  icon: typeof Volume2
-  title: string
-  description: string
-  accent: string
+  label: string
+  items: string[]
 }) {
+  // De-duplicate labels (e.g. two "Ngữ pháp") while keeping order.
+  const chips = Array.from(new Set(items))
   return (
-    <Link to={to} className="group">
-      <Card className="lift h-full group-hover:border-primary/40">
-        <CardHeader>
-          <div className="flex items-start justify-between">
-            <div className={`rounded-xl p-3 ${accent}`}>
-              <Icon className="h-6 w-6" />
-            </div>
-            <ArrowRight className="h-5 w-5 text-muted-foreground transition-transform group-hover:translate-x-1 group-hover:text-primary" />
-          </div>
-          <CardTitle className="mt-3 text-xl tracking-tight">{title}</CardTitle>
-          <CardDescription className="leading-relaxed">{description}</CardDescription>
-        </CardHeader>
-      </Card>
+    <Link
+      to={to}
+      className={cn(
+        "group flex flex-col rounded-xl border border-border bg-card p-5 shadow-card transition-all",
+        "hover:-translate-y-0.5 hover:border-primary/40 hover:shadow-lift"
+      )}
+    >
+      <div className="flex items-start justify-between gap-3">
+        <span className="flex size-11 shrink-0 items-center justify-center rounded-lg bg-primary-soft text-primary">
+          <GraduationCap className="size-6" />
+        </span>
+        <ArrowRight className="size-5 text-muted-foreground transition-transform group-hover:translate-x-1 group-hover:text-primary" />
+      </div>
+
+      <h3 className="mt-4 text-lg font-bold tracking-tight">{label}</h3>
+
+      <div className="mt-3 flex flex-wrap gap-1.5">
+        {chips.map((chip) => (
+          <span
+            key={chip}
+            className="rounded-full bg-muted px-2.5 py-1 text-xs font-medium text-muted-foreground"
+          >
+            {chip}
+          </span>
+        ))}
+      </div>
+
+      <span className="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-primary">
+        Vào học <ArrowRight className="size-4" />
+      </span>
     </Link>
   )
 }

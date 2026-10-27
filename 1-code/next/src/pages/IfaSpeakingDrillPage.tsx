@@ -11,7 +11,6 @@ import {
   RailSection,
   RailProgress,
   RailSelect,
-  RailVoice,
 } from "@/components/ifa/SpeakingRail"
 import { OptionsSheet } from "@/components/ifa/OptionsSheet"
 import { SpeakingTabs } from "@/components/ifa/SpeakingTabs"
@@ -175,8 +174,6 @@ export function IfaSpeakingDrillPage() {
       <SpeakingTabs />
       <div className="lg:flex lg:items-start lg:gap-6 2xl:gap-8">
         <SpeakingRail>
-          <RailVoice />
-
           <RailSection title="Bài học">
             {/* Dropdown keeps the rail a fixed height as more lessons ship. */}
             <RailSelect id="ifa-drill-lesson" value={lessonId} options={lessonOptions} onChange={selectLesson} />
@@ -239,7 +236,6 @@ export function IfaSpeakingDrillPage() {
               <Button variant="outline" size="sm" className="w-full" onClick={restart}><RotateCcw className="size-4" /> Xáo lại từ đầu</Button>
             </>
           )}
-          <RailVoice />
         </OptionsSheet>
 
         <div className="min-w-0 flex-1 space-y-4">
@@ -272,8 +268,8 @@ export function IfaSpeakingDrillPage() {
                       <div className="flex items-center justify-between text-xs font-medium">
                         <span
                           className={cn(
-                            phase === "prep" && "text-amber-600",
-                            phase === "speaking" && "text-emerald-600",
+                            phase === "prep" && "text-warn",
+                            phase === "speaking" && "text-success",
                             phase === "done" && "text-muted-foreground"
                           )}
                         >
@@ -285,7 +281,7 @@ export function IfaSpeakingDrillPage() {
                         <div
                           className={cn(
                             "h-full transition-[width] duration-1000 ease-linear",
-                            phase === "prep" ? "bg-amber-500" : phase === "speaking" ? "bg-emerald-500" : "bg-muted-foreground/40"
+                            phase === "prep" ? "bg-warn" : phase === "speaking" ? "bg-success" : "bg-muted-foreground/40"
                           )}
                           style={{ width: `${ringPct}%` }}
                         />

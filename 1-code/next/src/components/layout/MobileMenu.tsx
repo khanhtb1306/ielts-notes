@@ -1,7 +1,9 @@
 import { useEffect } from "react"
-import { useLocation } from "react-router-dom"
-import { Sidebar } from "./Sidebar"
+import { NavLink, useLocation } from "react-router-dom"
+import { Home } from "lucide-react"
+import { SettingsMenu } from "./SettingsMenu"
 import { useUi } from "@/stores/ui"
+import { NAV_GROUPS, findGroupForPath, navLinkClass } from "@/lib/nav"
 import { cn } from "@/lib/utils"
 
 /**
@@ -13,6 +15,9 @@ export function MobileMenu() {
   const open = useUi((s) => s.mobileMenuOpen)
   const setOpen = useUi((s) => s.setMobileMenuOpen)
   const location = useLocation()
+  // Once inside a course, the drawer shows *only* that course's items — never a
+  // mix of both courses. Switching course happens via "Trang chủ" (the picker).
+  const group = findGroupForPath(location.pathname) ?? NAV_GROUPS[0]
 
   // Close on navigation.
   useEffect(() => {
@@ -54,7 +59,33 @@ export function MobileMenu() {
         )}
         style={{ paddingTop: "env(safe-area-inset-top)" }}
       >
-        <Sidebar className="h-full border-r-0" />
+        <aside className="flex min-h-full flex-col border-r border-border bg-card p-4">
+          <div className="border-b border-border pb-4">
+            <div className="text-lg font-bold tracking-tight">{group.label}</div>
+            <div className="text-xs text-muted-foreground">Nội dung ôn tập</div>
+          </div>
+
+          {/* Only the active course's items — same list as the desktop Sidebar. */}
+          <nav className="mt-4 flex flex-col gap-1 text-sm" aria-label="Điều hướng">
+            <NavLink to="/" end className={({ isActive }) => navLinkClass({ isActive })} title="Đổi khóa học">
+              <Home className="size-4 shrink-0" />
+              <span>Đổi khóa học</span>
+            </NavLink>
+
+            <div className="mt-2">
+              {group.items.map((item) => (
+                <NavLink key={item.to} to={item.to} className={({ isActive }) => navLinkClass({ isActive })} title={`${group.label} · ${item.label}`}>
+                  <item.icon className="size-4 shrink-0" />
+                  <span className="min-w-0 flex-1 truncate">{item.label}</span>
+                </NavLink>
+              ))}
+            </div>
+          </nav>
+
+          <div className="mt-auto border-t border-border pt-4">
+            <SettingsMenu />
+          </div>
+        </aside>
       </div>
     </div>
   )

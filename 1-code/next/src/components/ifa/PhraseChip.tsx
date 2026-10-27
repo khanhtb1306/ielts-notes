@@ -46,7 +46,7 @@ export function PhraseChip({ phrase, group, selected, onSelect }: Props) {
         type="button"
         onClick={onSelect}
         aria-pressed={selected}
-        className="min-w-0 flex-1 px-3.5 py-3 text-left"
+        className="min-h-12 min-w-0 flex-1 px-3.5 py-3 text-left"
       >
         <span className="flex items-start gap-1.5">
           {selected && <Check className={cn("mt-1 size-4 shrink-0", tone.ipa)} />}
@@ -54,7 +54,7 @@ export function PhraseChip({ phrase, group, selected, onSelect }: Props) {
         </span>
         <span className="mt-1.5 flex flex-wrap items-baseline gap-x-2 gap-y-0.5">
           {phrase.ipa && <span className={cn("ipa text-[13px]", tone.ipa)}>{phrase.ipa}</span>}
-          {phrase.vi && <span className="min-w-0 break-words text-xs text-muted-foreground">{phrase.vi}</span>}
+          {phrase.vi && <span className="min-w-0 break-words text-[13px] text-muted-foreground">{phrase.vi}</span>}
         </span>
       </button>
 

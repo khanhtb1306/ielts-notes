@@ -1,27 +1,20 @@
-import { useEffect, useState } from "react"
-import { ArrowLeft, ArrowRight, Check, ClipboardCopy, Eye, EyeOff, FileUp, RotateCcw, Settings2, Volume2 } from "lucide-react"
+import { useEffect, useRef, useState, type TouchEvent } from "react"
+import { ArrowLeft, ArrowRight, Check, FileUp, Mic, Play, RotateCcw, Settings2, Square, Volume2, X } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { cn } from "@/lib/utils"
 import { useSpeak } from "@/lib/use-speak"
 import { ttsSupported } from "@/lib/tts"
-import { ifaFinalTopics, allFinalQuestions, findFinalQuestion, matchedHandoutAnswers, localDay } from "@/lib/ifa-final-speaking"
+import { ifaFinalTopics, allFinalQuestions, findFinalQuestion, localDay } from "@/lib/ifa-final-speaking"
 import { useIfaFinalSpeaking } from "@/stores/ifa-final-speaking"
 import type { FinalConfidence } from "@/stores/ifa-final-speaking"
-import { useIfaSpeaking } from "@/stores/ifa-speaking"
 import { parseSpeakingDrafts } from "@/lib/ifa-final-import"
 import type { ImportedSpeakingDraft } from "@/lib/ifa-final-import"
-import { SpeakingRail, RailSection, RailSelect, RailProgress, RailStrip, RailItem, RailVoice } from "@/components/ifa/SpeakingRail"
+import { SpeakingRail, RailSection, RailSelect, RailProgress, RailStrip, RailItem } from "@/components/ifa/SpeakingRail"
 import { OptionsSheet } from "@/components/ifa/OptionsSheet"
 import { SpeakingTabs } from "@/components/ifa/SpeakingTabs"
 import { Select } from "@/components/ui/select"
 import type { IfaFinalQuestion } from "@/types/content"
-
-const STATUS: { id: FinalConfidence; label: string }[] = [
-  { id: "new", label: "Chưa soạn" },
-  { id: "learning", label: "Cần luyện" },
-  { id: "confident", label: "Đã tự tin" },
-]
 
 type Mode = "browse" | "daily"
 type Phase = "idle" | "prep" | "speaking" | "done"
@@ -36,13 +29,13 @@ export function IfaFinalSpeakingPage() {
   const [imported, setImported] = useState<ImportedSpeakingDraft[]>([])
   const [importMessage, setImportMessage] = useState("")
   const [sheetOpen, setSheetOpen] = useState(false)
+  const swipeStart = useRef<{ x: number; y: number } | null>(null)
   const progress = useIfaFinalSpeaking((s) => s.progress)
   const daily = useIfaFinalSpeaking((s) => s.daily)
   const ensureToday = useIfaFinalSpeaking((s) => s.ensureToday)
   const setCursor = useIfaFinalSpeaking((s) => s.setCursor)
   const recordPractice = useIfaFinalSpeaking((s) => s.recordPractice)
   const saveAnswer = useIfaFinalSpeaking((s) => s.saveAnswer)
-  const lessonAnswers = useIfaSpeaking((s) => s.answers)
   const speak = useSpeak()
 
   useEffect(() => { ensureToday() }, [ensureToday])
@@ -73,6 +66,28 @@ export function IfaFinalSpeakingPage() {
   function startSpeaking() {
     setPhase(timerOn ? "prep" : "speaking")
     setSeconds(timerOn ? 5 : 0)
+  }
+
+  function handleTouchStart(event: TouchEvent<HTMLDivElement>) {
+    const touch = event.touches[0]
+    swipeStart.current = touch ? { x: touch.clientX, y: touch.clientY } : null
+  }
+
+  function handleTouchEnd(event: TouchEvent<HTMLDivElement>) {
+    const start = swipeStart.current
+    const touch = event.changedTouches[0]
+    swipeStart.current = null
+    if (mode !== "browse" || !start || !touch || !topic) return
+
+    const dx = touch.clientX - start.x
+    const dy = touch.clientY - start.y
+    if (Math.abs(dx) < 55 || Math.abs(dx) <= Math.abs(dy) * 1.25) return
+
+    if (dx < 0) {
+      setQuestionIndex((i) => Math.min(i + 1, topic.questions.length - 1))
+    } else {
+      setQuestionIndex((i) => Math.max(i - 1, 0))
+    }
   }
 
   function finishQuestion(status: FinalConfidence) {
@@ -154,7 +169,6 @@ export function IfaFinalSpeakingPage() {
           {imported.some((draft) => draft.exact) && <Button variant="outline" size="sm" className="w-full" onClick={importExactDrafts}>Nhập bản nháp khớp chính xác còn trống</Button>}
           <p className="text-xs text-muted-foreground">Tệp chỉ được đọc trên thiết bị này; các câu tương tự cần bạn chọn thủ công.</p>
         </RailSection>
-        <RailVoice />
       </SpeakingRail>
 
       {/* Mobile control bar: topic + question nav + options sheet. Hidden from lg. */}
@@ -204,7 +218,6 @@ export function IfaFinalSpeakingPage() {
           {importMessage && <p role="status" className="text-xs text-muted-foreground">{importMessage}</p>}
           {imported.some((draft) => draft.exact) && <Button variant="outline" size="sm" className="w-full" onClick={importExactDrafts}>Nhập bản nháp khớp chính xác còn trống</Button>}
         </RailSection>
-        <RailVoice />
       </OptionsSheet>
 
       <div className="min-w-0 flex-1 space-y-4">
@@ -212,7 +225,12 @@ export function IfaFinalSpeakingPage() {
           <Card><CardContent className="space-y-3 p-8 text-center"><h2 className="text-xl font-bold">Hoàn thành lượt ôn hôm nay!</h2><p className="text-sm text-muted-foreground">Đã đi qua {daily.ids.length} câu. Ngày mai app sẽ ưu tiên những câu bạn luyện ít hơn.</p><Button onClick={() => setCursor(0)}>Luyện lại</Button></CardContent></Card>
         ) : currentQuestion && (
           <>
-            <Card key={currentQuestion.id}>
+            <Card
+              key={currentQuestion.id}
+              className="touch-pan-y"
+              onTouchStart={handleTouchStart}
+              onTouchEnd={handleTouchEnd}
+            >
               <CardHeader className="gap-2">
                 <p className="text-xs font-semibold uppercase tracking-wide text-primary">{mode === "daily" ? currentDailyQuestion?.topicLabel : `${topic.label} · ${topic.vi}`}</p>
                 <div className="flex items-start justify-between gap-3">
@@ -231,7 +249,7 @@ export function IfaFinalSpeakingPage() {
                     )}
                   </div>
                 )}
-                <FinalQuestionDetails key={`${mode}-${currentQuestion.id}`} question={currentQuestion} revealed={mode === "browse" || phase === "done"} lessonAnswers={lessonAnswers} imported={imported.filter((draft) => draft.questionId === currentQuestion.id)} />
+                <FinalQuestionDetails key={`${mode}-${currentQuestion.id}`} question={currentQuestion} revealed={mode === "browse" || phase === "done"} />
                 {mode === "browse" ? (
                   <div className="flex justify-between gap-2 border-t border-border pt-4">
                     <Button variant="outline" disabled={questionIndex === 0} onClick={() => setQuestionIndex((i) => i - 1)}><ArrowLeft className="size-4" /> Trước</Button>
@@ -250,46 +268,47 @@ export function IfaFinalSpeakingPage() {
         )}
       </div>
       </div>
+      {currentQuestion && (
+        <FinalSpeakingRecorder
+          key={currentQuestion.id}
+          question={currentQuestion}
+          onStarted={() => { setPhase("speaking"); setSeconds(0) }}
+          onCompleted={() => { setPhase("done"); setSeconds(0) }}
+          onNext={() => {
+            if (mode === "browse") setQuestionIndex((i) => Math.min(i + 1, topic.questions.length - 1))
+            else if (daily) { setCursor(daily.cursor + 1); setPhase("idle") }
+          }}
+          hasNext={mode === "browse" ? questionIndex < topic.questions.length - 1 : !!daily && daily.cursor < daily.ids.length - 1}
+        />
+      )}
     </div>
   )
 }
 
-function FinalQuestionDetails({ question, revealed, lessonAnswers, imported }: {
+function FinalQuestionDetails({ question, revealed }: {
   question: IfaFinalQuestion
   revealed: boolean
-  lessonAnswers: Record<string, { answer: string; title: string }>
-  imported: ImportedSpeakingDraft[]
 }) {
-  const progress = useIfaFinalSpeaking((s) => s.progress[question.id])
-  const saveAnswer = useIfaFinalSpeaking((s) => s.saveAnswer)
-  const setConfidence = useIfaFinalSpeaking((s) => s.setConfidence)
-  const [showHints, setShowHints] = useState(false)
-  const [showMyAnswer, setShowMyAnswer] = useState(false)
   const speak = useSpeak()
-  const matches = matchedHandoutAnswers(question.id, lessonAnswers)
-  const visible = revealed && showHints
 
   return (
     <div className="space-y-5">
       {revealed && (
         <section className="space-y-3">
-          <Button variant="outline" size="sm" onClick={() => setShowHints((v) => !v)} aria-expanded={visible}>
-            {visible ? <EyeOff className="size-4" /> : <Eye className="size-4" />} {visible ? "Ẩn gợi ý" : "Xem gợi ý"}
-          </Button>
-          {visible && (
-            <div className="space-y-4 rounded-xl border border-border bg-muted/30 p-4">
+            <div className="space-y-4">
               <div className="space-y-3">
-                <div className="flex flex-wrap items-center justify-between gap-2">
-                  <h3 className="text-sm font-bold">Ý để phát triển câu trả lời</h3>
+                <div className="flex flex-wrap items-center justify-between gap-2 rounded-lg bg-primary-soft px-3 py-2.5">
+                  <h3 className="text-sm font-bold text-primary">Khung trả lời gợi ý</h3>
                   <span className="rounded-full bg-primary-soft px-2.5 py-0.5 text-[11px] font-semibold text-primary">Từ {question.source}</span>
                 </div>
-                <p className="text-xs text-muted-foreground">Trả lời trực tiếp → giải thích → thêm chi tiết. Mở từng ý rồi chọn cụm từ muốn dùng; bấm loa để nghe.</p>
+                <p className="text-sm text-muted-foreground">Trả lời trực tiếp → giải thích → thêm chi tiết. Chọn cụm từ phù hợp với bản thân; bấm loa để nghe.</p>
+                <div className="divide-y divide-border border-y border-border">
                 {question.guide.map((point, i) => (
-                  <details key={i} open={i === 0} className="rounded-lg border border-border bg-card p-3 open:border-primary/40">
-                    <summary className="cursor-pointer text-sm font-semibold leading-relaxed">{i + 1}. {point.idea}</summary>
-                    <div className="mt-3 grid gap-2 sm:grid-cols-2">
+                  <div key={i} className="py-4 first:pt-3 last:pb-3">
+                    <h4 className="text-sm font-semibold leading-relaxed"><span className="mr-1.5 inline-flex size-5 items-center justify-center rounded-full bg-primary text-[11px] font-bold text-primary-foreground">{i + 1}</span>{point.idea}</h4>
+                    <div className="mt-2 divide-y divide-border/70 overflow-hidden rounded-lg border border-border sm:grid sm:grid-cols-2 sm:divide-x sm:divide-y-0">
                       {point.phrases.map(({ en, vi, ipa }, j) => (
-                        <div key={j} className="flex items-start justify-between gap-2 rounded-md bg-muted/50 p-2.5 text-sm">
+                        <div key={j} className="flex min-h-16 items-start justify-between gap-2 px-3 py-2.5 text-sm transition-colors hover:bg-muted/40">
                           <div className="min-w-0">
                             <p className="content-en font-semibold">{en}</p>
                             {ipa && <p className="ipa mt-0.5 text-xs text-primary">/{ipa}/</p>}
@@ -303,46 +322,214 @@ function FinalQuestionDetails({ question, revealed, lessonAnswers, imported }: {
                         </div>
                       ))}
                     </div>
-                  </details>
+                  </div>
                 ))}
+                </div>
               </div>
               {question.sample && (
-                <details className="border-t border-border pt-4"><summary className="cursor-pointer text-sm font-bold">Xem câu trả lời mẫu (tham khảo, không phải bài của bạn)</summary><p className="content-en mt-2 rounded-lg bg-card p-3 text-sm leading-relaxed">{question.sample}</p></details>
+                <div className="border-t border-border pt-4">
+                  <h4 className="text-sm font-bold">Câu trả lời mẫu</h4>
+                  <p className="mt-1 text-xs text-muted-foreground">Dùng để tham khảo cách triển khai, không cần học thuộc.</p>
+                  <div className="mt-2 flex items-start gap-2 border-l-2 border-primary bg-muted/30 px-3 py-2.5">
+                    <p className="content-en min-w-0 flex-1 text-sm leading-relaxed">{question.sample}</p>
+                    {ttsSupported() && <button type="button" aria-label="Nghe câu trả lời mẫu" onClick={() => speak(question.sample!)} className="flex size-10 shrink-0 items-center justify-center rounded-lg text-muted-foreground hover:bg-accent hover:text-primary"><Volume2 className="size-4" /></button>}
+                  </div>
+                </div>
               )}
             </div>
-          )}
         </section>
       )}
-      <section className="space-y-3 border-t border-border pt-4">
-        <div className="flex flex-wrap items-center justify-between gap-2"><h3 className="font-bold">Bài của tôi</h3>{ttsSupported() && !!progress?.answer.trim() && <Button variant="outline" size="sm" onClick={() => speak(progress.answer)}><Volume2 className="size-4" /> Nghe bài của tôi</Button>}</div>
-        {revealed ? (
-          <>
-            <label htmlFor={`answer-${question.id}`} className="text-sm text-muted-foreground">Viết câu trả lời của riêng bạn; nội dung được lưu tự động trên trình duyệt này.</label>
-            <textarea id={`answer-${question.id}`} value={progress?.answer ?? ""} onChange={(e) => saveAnswer(question.id, e.target.value)} placeholder="Viết bằng tiếng Anh theo ý của bạn…" rows={5} className="content-en w-full resize-y rounded-lg border border-input bg-card p-3 text-base leading-relaxed outline-none focus:border-primary sm:text-[15px]" />
-            {!progress?.answer.trim() && matches.length > 0 && (
-              <div className="rounded-lg border border-border bg-muted/30 p-3 text-sm">
-                <p className="font-semibold">Bạn đã lưu {matches.length} câu gần tương ứng trong Speaking theo lesson.</p>
-                {matches.map((answer, i) => <div key={i} className="mt-2 space-y-1"><p className="content-en text-muted-foreground">{answer.title}</p><p className="content-en">{answer.answer}</p><Button variant="outline" size="sm" onClick={() => saveAnswer(question.id, answer.answer)}><ClipboardCopy className="size-4" /> Dùng làm bản nháp</Button></div>)}
-              </div>
-            )}
-            {imported.length > 0 && (
-              <div className="space-y-3 rounded-lg border border-border bg-muted/30 p-3 text-sm">
-                <p className="font-semibold">Bản nháp từ tệp của bạn · xem lại trước khi dùng</p>
-                {imported.map((draft, i) => <div key={i} className="space-y-2 border-t border-border pt-2">
-                  <p className="content-en text-muted-foreground">{draft.sourceQuestion}{!draft.exact && " · câu hỏi tương tự"}</p>
-                  <p className="content-en whitespace-pre-wrap">{draft.answer}</p>
-                  <Button variant="outline" size="sm" onClick={() => saveAnswer(question.id, draft.answer)}><ClipboardCopy className="size-4" /> Dùng bản nháp này</Button>
-                </div>)}
-              </div>
-            )}
-            <div className="flex flex-wrap gap-2">{STATUS.map(({ id, label }) => <Button key={id} size="sm" variant={(progress?.status ?? "new") === id ? "default" : "outline"} onClick={() => setConfidence(question.id, id)}>{label}</Button>)}</div>
-          </>
-        ) : <>
-          <Button variant="outline" size="sm" onClick={() => setShowMyAnswer((v) => !v)} disabled={!progress?.answer.trim()}>{showMyAnswer ? "Ẩn bài của tôi" : "Xem bài đã soạn"}</Button>
-          {showMyAnswer && <p className="content-en whitespace-pre-wrap rounded-lg bg-muted/40 p-3 text-sm">{progress?.answer}</p>}
-        </>}
-      </section>
-      {revealed && <p className={cn("text-xs", progress?.answer ? "text-emerald-700 dark:text-emerald-400" : "text-muted-foreground")}>{progress?.answer ? "Đã lưu tự động" : "Bạn có thể bắt đầu bằng các gợi ý rồi viết lại theo trải nghiệm của mình."}</p>}
     </div>
+  )
+}
+
+interface SpeechRecognitionResultLike {
+  0?: { transcript?: string }
+  isFinal: boolean
+}
+
+interface SpeechRecognitionEventLike {
+  results: ArrayLike<SpeechRecognitionResultLike>
+}
+
+interface SpeechRecognitionLike {
+  lang: string
+  continuous: boolean
+  interimResults: boolean
+  onresult: ((event: SpeechRecognitionEventLike) => void) | null
+  onerror: (() => void) | null
+  onend: (() => void) | null
+  start: () => void
+  abort: () => void
+}
+
+type SpeechRecognitionConstructor = new () => SpeechRecognitionLike
+
+function FinalSpeakingRecorder({
+  question,
+  onStarted,
+  onCompleted,
+  onNext,
+  hasNext,
+}: {
+  question: IfaFinalQuestion
+  onStarted: () => void
+  onCompleted: () => void
+  onNext: () => void
+  hasNext: boolean
+}) {
+  const [open, setOpen] = useState(false)
+  const [listening, setListening] = useState(false)
+  const [transcript, setTranscript] = useState("")
+  const [interim, setInterim] = useState("")
+  const [elapsed, setElapsed] = useState(0)
+  const [error, setError] = useState("")
+  const [showDraft, setShowDraft] = useState(false)
+  const recognitionRef = useRef<SpeechRecognitionLike | null>(null)
+  const progress = useIfaFinalSpeaking((s) => s.progress[question.id])
+  const recordPractice = useIfaFinalSpeaking((s) => s.recordPractice)
+
+  useEffect(() => {
+    if (!listening) return
+    const timer = window.setInterval(() => setElapsed((n) => n + 1), 1000)
+    return () => window.clearInterval(timer)
+  }, [listening])
+
+  useEffect(() => () => {
+    recognitionRef.current?.abort()
+    recognitionRef.current = null
+  }, [])
+
+  function start() {
+    const win = window as Window & {
+      SpeechRecognition?: SpeechRecognitionConstructor
+      webkitSpeechRecognition?: SpeechRecognitionConstructor
+    }
+    const Recognition = win.SpeechRecognition ?? win.webkitSpeechRecognition
+    if (!Recognition) {
+      setError("Trình duyệt chưa hỗ trợ nhận diện giọng nói. Hãy dùng Chrome hoặc Edge.")
+      return
+    }
+
+    recognitionRef.current?.abort()
+    const recognition = new Recognition()
+    recognition.lang = "en-GB"
+    recognition.continuous = true
+    recognition.interimResults = true
+    recognition.onresult = (event) => {
+      let finalText = ""
+      let pending = ""
+      for (let i = 0; i < event.results.length; i++) {
+        const result = event.results[i]
+        const text = result[0]?.transcript?.trim() ?? ""
+        if (!text) continue
+        if (result.isFinal) finalText += `${finalText ? " " : ""}${text}`
+        else pending += `${pending ? " " : ""}${text}`
+      }
+      setTranscript(finalText)
+      setInterim(pending)
+    }
+    recognition.onerror = () => {
+      setListening(false)
+      setError("Không nhận được giọng nói. Kiểm tra quyền microphone rồi thử lại.")
+    }
+    recognition.onend = () => setListening(false)
+
+    setTranscript("")
+    setInterim("")
+    setElapsed(0)
+    setError("")
+    setListening(true)
+    recognitionRef.current = recognition
+    onStarted()
+    try {
+      recognition.start()
+    } catch {
+      setListening(false)
+      setError("Không thể mở microphone. Hãy thử lại.")
+    }
+  }
+
+  function stop(completed = true) {
+    recognitionRef.current?.abort()
+    recognitionRef.current = null
+    setListening(false)
+    setInterim("")
+    if (completed && (transcript.trim() || elapsed > 0)) {
+      recordPractice(question.id, "learning")
+      onCompleted()
+    }
+  }
+
+  function clear() {
+    if (listening) stop(false)
+    setTranscript("")
+    setInterim("")
+    setElapsed(0)
+    setError("")
+  }
+
+  const spoken = `${transcript} ${interim}`.trim()
+  const words = spoken ? spoken.split(/\s+/).length : 0
+  const wpm = elapsed >= 3 ? Math.round((words / elapsed) * 60) : 0
+
+  return (
+    <>
+      {open && (
+        <aside className="fixed inset-x-3 bottom-[calc(9.5rem+env(safe-area-inset-bottom))] z-40 max-h-[55vh] overflow-y-auto rounded-2xl border border-border bg-card shadow-2xl md:inset-x-auto md:bottom-24 md:right-6 md:w-96">
+          <div className="flex items-center gap-2 border-b border-border px-3 py-2.5">
+            {listening ? <span className="relative flex size-2 shrink-0"><span className="absolute size-2 animate-ping rounded-full bg-destructive/60" /><span className="size-2 rounded-full bg-destructive" /></span> : <Mic className="size-4 shrink-0 text-primary" />}
+            <span className="min-w-0 flex-1 truncate text-sm font-semibold">Luyện nói Final</span>
+            <span className="text-xs tabular-nums text-muted-foreground">{Math.floor(elapsed / 60)}:{String(elapsed % 60).padStart(2, "0")}</span>
+            <button type="button" onClick={() => { stop(false); setOpen(false) }} className="flex size-9 items-center justify-center rounded-lg text-muted-foreground hover:bg-accent" aria-label="Đóng"><X className="size-4" /></button>
+          </div>
+
+          <div className="space-y-3 p-3">
+            <p className="content-en text-sm font-bold leading-relaxed">{question.q}</p>
+
+            <div className="min-h-20 whitespace-pre-wrap rounded-lg bg-muted/40 p-3 text-sm leading-relaxed">
+              {spoken || <span className="text-muted-foreground">{listening ? "Đang nghe… hãy trả lời bằng tiếng Anh." : "Bấm Bắt đầu nói khi bạn đã sẵn sàng."}</span>}
+            </div>
+
+            {(elapsed > 0 || words > 0) && (
+              <div className="flex gap-3 text-xs text-muted-foreground">
+                <span>{words} từ</span><span>{elapsed}s</span>{wpm > 0 && <span>{wpm} từ/phút</span>}
+              </div>
+            )}
+            {error && <p className="text-xs font-medium text-destructive">{error}</p>}
+
+            {progress?.answer.trim() && (
+              <div>
+                <button type="button" onClick={() => setShowDraft((v) => !v)} className="text-xs font-semibold text-primary hover:underline">{showDraft ? "Ẩn bản nháp cũ" : "Xem bản nháp cũ"}</button>
+                {showDraft && <p className="content-en mt-2 whitespace-pre-wrap border-l-2 border-primary px-3 text-sm text-muted-foreground">{progress.answer}</p>}
+              </div>
+            )}
+
+            <div className="flex flex-wrap gap-2 border-t border-border pt-3">
+              {listening ? (
+                <Button onClick={() => stop(true)}><Square className="size-4" /> Dừng</Button>
+              ) : (
+                <Button onClick={start}><Play className="size-4" /> {elapsed > 0 ? "Nói lại" : "Bắt đầu nói"}</Button>
+              )}
+              <Button variant="outline" onClick={clear}><RotateCcw className="size-4" /> Xóa</Button>
+              {!listening && elapsed > 0 && hasNext && <Button variant="ghost" className="ml-auto" onClick={onNext}>Câu tiếp <ArrowRight className="size-4" /></Button>}
+            </div>
+          </div>
+        </aside>
+      )}
+
+      <button
+        type="button"
+        onClick={() => setOpen((v) => !v)}
+        aria-label={open ? "Đóng luyện nói" : "Mở luyện nói"}
+        title={open ? "Đóng luyện nói" : "Luyện nói"}
+        className={cn(
+          "fixed bottom-[calc(5rem+env(safe-area-inset-bottom))] right-4 z-40 flex size-14 items-center justify-center rounded-full border shadow-lg transition-all active:scale-95 md:bottom-6 md:right-6",
+          listening ? "border-destructive bg-destructive text-destructive-foreground" : open ? "border-primary bg-primary text-primary-foreground" : "border-border bg-card text-primary hover:bg-primary hover:text-primary-foreground"
+        )}
+      >
+        <Mic className="size-6" />
+      </button>
+    </>
   )
 }

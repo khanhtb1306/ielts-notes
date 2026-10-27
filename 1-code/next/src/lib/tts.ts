@@ -15,48 +15,82 @@ export function getEnglishVoices(): SpeechSynthesisVoice[] {
   return cachedVoices.filter((v) => /^en/i.test(v.lang))
 }
 
+export type Accent = "en-GB" | "en-US"
+
+/** English voices that match the requested accent, falling back to all if none. */
+export function getVoicesForAccent(accent: Accent): SpeechSynthesisVoice[] {
+  const en = getEnglishVoices()
+  const tag = accent === "en-US" ? /en[-_]?us/i : /en[-_]?gb/i
+  const matched = en.filter((v) => tag.test(v.lang) || tag.test(v.name))
+  return matched.length ? matched : en
+}
+
 export function ttsSupported(): boolean {
   return typeof window !== "undefined" && !!window.speechSynthesis
 }
 
 /**
- * Quality order for English voices. Notes use British English, so BrE voices win,
- * then modern "Natural/Neural" engines, then anything English. Without this the
- * browser hands back an arbitrary voice — often a robotic legacy one.
+ * Quality order per accent. The matching-accent "Natural/Neural" engine wins,
+ * then any voice tagged with that accent, then any modern engine, then anything
+ * English. Without this the browser hands back an arbitrary — often robotic —
+ * voice.
  */
-const VOICE_PREFERENCE: RegExp[] = [
-  /google uk english female/i,
-  /google uk english/i,
-  /microsoft (libby|sonia|ryan).*natural/i,
-  /\b(natural|neural)\b.*\ben-?gb\b/i,
-  /en-?gb/i,
-  /google us english/i,
-  /\b(natural|neural)\b/i,
-  /google.*english/i,
-]
+const ACCENT_PREFERENCE: Record<Accent, RegExp[]> = {
+  "en-GB": [
+    /google uk english female/i,
+    /google uk english/i,
+    /microsoft (libby|sonia|ryan).*natural/i,
+    /\b(natural|neural)\b.*\ben-?gb\b/i,
+    /en-?gb/i,
+    /\b(natural|neural)\b/i,
+    /google.*english/i,
+  ],
+  "en-US": [
+    /google us english/i,
+    /microsoft (aria|jenny|guy|michelle).*natural/i,
+    /\b(natural|neural)\b.*\ben-?us\b/i,
+    /en-?us/i,
+    /\b(natural|neural)\b/i,
+    /google.*english/i,
+  ],
+}
 
-/** Best available English voice name, or "" when nothing sensible exists. */
-export function preferredVoiceName(voices: SpeechSynthesisVoice[] = getEnglishVoices()): string {
-  for (const re of VOICE_PREFERENCE) {
+/** Best available voice name for `accent`, or "" when nothing sensible exists. */
+export function preferredVoiceName(
+  voices: SpeechSynthesisVoice[] = getEnglishVoices(),
+  accent: Accent = "en-GB"
+): string {
+  for (const re of ACCENT_PREFERENCE[accent]) {
     const hit = voices.find((v) => re.test(v.name) || re.test(v.lang))
     if (hit) return hit.name
   }
   return voices[0]?.name || ""
 }
 
-export function speak(text: string, voiceName?: string, rate = 0.9): boolean {
+export interface SpeakOptions {
+  voiceName?: string
+  rate?: number
+  accent?: Accent
+}
+
+/**
+ * Central speech entry point. Pass the user's saved prefs (via `useSpeak`) so
+ * every "Nghe" button across the app reads with one consistent voice/accent.
+ */
+export function speak(text: string, opts: SpeakOptions = {}): boolean {
   if (typeof window === "undefined" || !window.speechSynthesis) return false
   if (!text.trim()) return false
+  const { voiceName, rate = 0.9, accent = "en-GB" } = opts
   window.speechSynthesis.cancel()
   const u = new SpeechSynthesisUtterance(text)
   const enVoices = getEnglishVoices()
-  const name = voiceName || preferredVoiceName(enVoices)
+  const name = voiceName || preferredVoiceName(enVoices, accent)
   const voice = enVoices.find((v) => v.name === name)
   if (voice) {
     u.voice = voice
     u.lang = voice.lang
   } else {
-    u.lang = "en-GB"
+    u.lang = accent
   }
   u.rate = rate
   window.speechSynthesis.speak(u)

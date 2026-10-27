@@ -1,6 +1,6 @@
 import { useState } from "react"
 import { Link } from "react-router-dom"
-import { Volume2, Check, RotateCcw, Save, Lightbulb, Layers } from "lucide-react"
+import { Volume2, Check, RotateCcw, Save, Lightbulb, Layers, ChevronDown } from "lucide-react"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { cn } from "@/lib/utils"
@@ -28,6 +28,8 @@ export function SpeakingQuestionCard({ handoutId, questionIndex, question }: Pro
   const [structIdx, setStructIdx] = useState(0)
   const [chosen, setChosen] = useState<Record<number, IfaPhrase | null>>({})
   const [showExample, setShowExample] = useState(false)
+  const [answerExpanded, setAnswerExpanded] = useState(false)
+  const [vocabExpanded, setVocabExpanded] = useState(false)
 
   const speak = useSpeak()
   const save = useIfaSpeaking((s) => s.save)
@@ -99,7 +101,7 @@ export function SpeakingQuestionCard({ handoutId, questionIndex, question }: Pro
         )}
       </CardHeader>
 
-      <CardContent className="space-y-6">
+      <CardContent className="space-y-5 sm:space-y-6">
         {/* Structure picker */}
         {scenario.structs.length > 1 && (
           <section className="space-y-2">
@@ -144,12 +146,19 @@ export function SpeakingQuestionCard({ handoutId, questionIndex, question }: Pro
           </section>
         )}
 
-        {/* Answer frame — the hero. Solid brand block so it never reads as a panel. */}
-        <div className="z-20 overflow-hidden rounded-xl bg-primary text-primary-foreground shadow-lift sm:sticky sm:top-4">
-          <div className="flex items-center justify-between gap-2 border-b border-white/15 px-4 py-2">
-            <p className="text-[11px] font-bold uppercase tracking-[0.12em] text-primary-foreground/80">
-              Câu của bạn
-            </p>
+        {/* Mobile: floating composer above bottom navigation. Desktop: inline sticky card. */}
+        <div className="fixed inset-x-3 bottom-[calc(68px+env(safe-area-inset-bottom))] z-30 max-h-[55vh] overflow-y-auto rounded-2xl border border-primary/30 bg-card text-card-foreground shadow-[0_8px_32px_rgba(44,36,120,0.22)] md:sticky md:inset-x-auto md:bottom-auto md:top-4 md:z-20 md:max-h-none md:overflow-hidden">
+          <div className="flex items-center justify-between gap-2 border-b border-border bg-primary-soft px-3 py-1.5 md:px-4 md:py-2">
+            <button
+              type="button"
+              onClick={() => setAnswerExpanded((v) => !v)}
+              className="flex min-h-9 min-w-0 flex-1 items-center gap-2 text-left md:pointer-events-none"
+              aria-expanded={answerExpanded}
+            >
+              <span className="flex size-6 items-center justify-center rounded-full bg-primary text-xs font-bold text-primary-foreground">✓</span>
+              <span className="text-xs font-bold uppercase tracking-[0.1em] text-primary">Câu của bạn</span>
+              <ChevronDown className={cn("size-4 text-primary transition-transform md:hidden", answerExpanded && "rotate-180")} />
+            </button>
             <div className="flex items-center gap-1">
               {ttsSupported() && (
                 <FrameButton onClick={() => speak(sentence)} disabled={!complete}>
@@ -162,14 +171,25 @@ export function SpeakingQuestionCard({ handoutId, questionIndex, question }: Pro
             </div>
           </div>
 
-          <p className="content-en flex flex-wrap items-center gap-x-1.5 gap-y-2 px-4 py-4 text-sentence">
+          {!answerExpanded && (
+            <button
+              type="button"
+              onClick={() => setAnswerExpanded(true)}
+              className="content-en block w-full truncate px-4 py-3 text-left text-[15px] font-semibold text-foreground md:hidden"
+            >
+              {sentence || "Chọn các cụm từ bên dưới để ghép câu…"}
+            </button>
+          )}
+
+          <div className={cn(!answerExpanded && "hidden md:block")}>
+          <p className="content-en flex flex-wrap items-center gap-x-1.5 gap-y-1.5 px-4 py-3 text-base font-semibold leading-relaxed md:gap-y-2 md:py-4 md:text-sentence">
             {struct.parts.map((p, j) => {
               if (p.type === "text") return <span key={j}>{p.text}</span>
               const val = chosen[p.slot]
               return val ? (
                 <span
                   key={j}
-                  className="inline-flex max-w-full items-center gap-1.5 rounded-2xl bg-white px-3 py-1 text-[17px] font-bold text-primary"
+                  className="inline-flex max-w-full items-center gap-1.5 rounded-2xl bg-primary px-2.5 py-0.5 text-sm font-bold text-primary-foreground md:px-3 md:py-1 md:text-[17px]"
                 >
                   <span className={cn("size-1.5 shrink-0 rounded-full", SLOT_DOT[p.slot] ?? "bg-primary")} />
                   <span className="min-w-0 break-words">{val.en}</span>
@@ -177,9 +197,9 @@ export function SpeakingQuestionCard({ handoutId, questionIndex, question }: Pro
               ) : (
                 <span
                   key={j}
-                  className="inline-flex max-w-full items-center gap-1.5 rounded-2xl border border-dashed border-white/55 bg-white/15 px-3 py-1 text-[15px] font-semibold"
+                  className="inline-flex max-w-full items-center gap-1.5 rounded-2xl border border-dashed border-primary/40 bg-primary-soft px-2.5 py-0.5 text-sm font-semibold text-primary md:px-3 md:py-1 md:text-[15px]"
                 >
-                  <span className="flex size-4 shrink-0 items-center justify-center rounded-full bg-white text-[10px] font-extrabold text-primary">
+                  <span className="flex size-4 shrink-0 items-center justify-center rounded-full bg-primary text-[10px] font-extrabold text-primary-foreground">
                     {p.slot}
                   </span>
                   …
@@ -189,15 +209,15 @@ export function SpeakingQuestionCard({ handoutId, questionIndex, question }: Pro
           </p>
 
           {struct.vi && (
-            <p className="px-4 pb-3 text-xs italic text-primary-foreground/75">{struct.vi}</p>
+            <p className="px-4 pb-3 text-[13px] italic text-muted-foreground">{struct.vi}</p>
           )}
 
-          <div className="flex flex-wrap items-center gap-2 bg-black/10 px-4 py-3">
+          <div className="flex flex-wrap items-center gap-2 border-t border-border bg-muted/40 px-4 py-3">
             <button
               type="button"
               disabled={!complete}
               onClick={() => save({ handoutId, questionIndex, title: question.title, answer: sentence })}
-              className="inline-flex items-center gap-1.5 rounded-md bg-white px-3 py-1.5 text-xs font-bold text-primary shadow-sm transition-opacity hover:opacity-90 disabled:pointer-events-none disabled:opacity-40"
+              className="inline-flex min-h-9 items-center gap-1.5 rounded-md bg-primary px-3 py-1.5 text-xs font-bold text-primary-foreground shadow-sm transition-opacity hover:opacity-90 disabled:pointer-events-none disabled:opacity-40"
             >
               <Save className="size-4" /> Lưu câu trả lời
             </button>
@@ -205,19 +225,19 @@ export function SpeakingQuestionCard({ handoutId, questionIndex, question }: Pro
               <Lightbulb className="size-3.5" /> {showExample ? "Ẩn ví dụ" : "Ví dụ mẫu"}
             </FrameButton>
             {savedAnswer && (
-              <span className="inline-flex items-center gap-1 text-xs font-semibold text-primary-foreground/90">
+              <span className="inline-flex items-center gap-1 text-xs font-semibold text-primary">
                 <Check className="size-3.5" /> Đã lưu
               </span>
             )}
           </div>
 
           {showExample && struct.example && (
-            <p className="content-en border-t border-white/15 bg-white/10 px-4 py-3 text-[15px] leading-relaxed">
+            <p className="content-en border-t border-border bg-primary-soft px-4 py-3 text-[15px] leading-relaxed">
               {struct.example}
             </p>
           )}
+          </div>
         </div>
-
         {/* One picker per slot */}
         {sources.map((src) => (
           <section key={src.slot} className="space-y-3">
@@ -249,16 +269,27 @@ export function SpeakingQuestionCard({ handoutId, questionIndex, question }: Pro
 
         {/* Vocabulary */}
         {question.vocab.length > 0 && (
-          <section className="space-y-2">
-            <div className="flex items-center justify-between gap-2">
-              <SectionLabel>Từ vựng chủ đề</SectionLabel>
+          <section className="space-y-2 rounded-xl border border-border bg-card p-3">
+            <div className="flex min-h-11 items-center justify-between gap-2">
+              <button
+                type="button"
+                onClick={() => setVocabExpanded((v) => !v)}
+                className="flex min-h-11 min-w-0 flex-1 items-center gap-2 text-left"
+                aria-expanded={vocabExpanded}
+              >
+                <Layers className="size-4 shrink-0 text-primary" />
+                <span className="text-sm font-bold">Từ vựng chủ đề</span>
+                <span className="text-xs text-muted-foreground">({question.vocab.length})</span>
+                <ChevronDown className={cn("ml-auto size-4 shrink-0 transition-transform", vocabExpanded && "rotate-180")} />
+              </button>
               <Link
                 to="/vocab-ifa"
-                className="inline-flex items-center gap-1 text-xs font-semibold text-primary hover:underline"
+                className="inline-flex min-h-11 shrink-0 items-center gap-1 px-2 text-xs font-semibold text-primary hover:underline"
               >
-                <Layers className="size-3.5" /> Ôn bằng thẻ
+                Ôn bằng thẻ
               </Link>
             </div>
+            {vocabExpanded && (
             <ul className="divide-y divide-border overflow-hidden rounded-xl border border-border">
               {question.vocab.map((v, i) => (
                 <li
@@ -280,7 +311,7 @@ export function SpeakingQuestionCard({ handoutId, questionIndex, question }: Pro
                       type="button"
                       aria-label={`Nghe: ${v.term}`}
                       onClick={() => speak(v.term.replace(/^to\s+/i, ""))}
-                      className="shrink-0 rounded-md p-1.5 text-muted-foreground transition-colors hover:bg-background hover:text-primary"
+                      className="flex size-11 shrink-0 items-center justify-center rounded-md text-muted-foreground transition-colors hover:bg-background hover:text-primary"
                     >
                       <Volume2 className="size-4" />
                     </button>
@@ -288,8 +319,13 @@ export function SpeakingQuestionCard({ handoutId, questionIndex, question }: Pro
                 </li>
               ))}
             </ul>
+            )}
           </section>
         )}
+
+        {/* Reserve room only at the end so the floating mobile composer does not
+            cover the final content without creating a gap between exercises. */}
+        <div className="h-20 md:hidden" aria-hidden />
       </CardContent>
     </Card>
   )
@@ -301,7 +337,7 @@ function slotText(slot: number): string {
 
 function SectionLabel({ children }: { children: React.ReactNode }) {
   return (
-    <p className="text-[11px] font-bold uppercase tracking-[0.12em] text-muted-foreground">{children}</p>
+    <p className="text-xs font-bold uppercase tracking-[0.1em] text-muted-foreground">{children}</p>
   )
 }
 
@@ -320,7 +356,7 @@ function FrameButton({
       type="button"
       onClick={onClick}
       disabled={disabled}
-      className="inline-flex items-center gap-1.5 rounded-md px-2.5 py-1.5 text-xs font-semibold text-primary-foreground/90 transition-colors hover:bg-white/15 disabled:pointer-events-none disabled:opacity-45"
+      className="inline-flex min-h-9 items-center gap-1.5 rounded-md px-2.5 py-1.5 text-xs font-semibold text-muted-foreground transition-colors hover:bg-accent hover:text-foreground disabled:pointer-events-none disabled:opacity-45"
     >
       {children}
     </button>
@@ -339,7 +375,7 @@ function SlotHeading({ slot, label, hint }: { slot: number; label: string; hint:
         {slot}
       </span>
       <span className="text-[15px] font-bold">{label}</span>
-      <span className="rounded-full bg-muted px-2 py-0.5 text-[10px] font-bold uppercase tracking-wide text-muted-foreground">
+      <span className="rounded-full bg-muted px-2 py-0.5 text-[11px] font-bold uppercase tracking-wide text-muted-foreground">
         {hint}
       </span>
     </div>
