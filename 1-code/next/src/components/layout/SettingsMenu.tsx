@@ -2,6 +2,8 @@ import { useEffect, useState } from "react"
 import { Moon, Settings, Sun, MonitorSmartphone } from "lucide-react"
 import { useTheme, applyThemeClass } from "@/stores/theme"
 import { VoicePicker } from "@/components/common/VoicePicker"
+import { UNLOCK_KEY } from "@/content/ifa-reading"
+import { useUnlock } from "@/stores/unlock"
 import { cn } from "@/lib/utils"
 
 type ThemeValue = "light" | "dark" | "system"
@@ -87,8 +89,38 @@ export function SettingsMenu({ collapsed = false }: { collapsed?: boolean }) {
             <span className="block text-xs font-semibold text-muted-foreground">Đọc to (toàn web)</span>
             <VoicePicker stacked />
           </div>
+
+          <div className="border-t border-border pt-3">
+            <UnlockField />
+          </div>
         </div>
       )}
     </div>
+  )
+}
+
+/** Quiet unlock: type the key, it saves itself. No labels, no messages. When
+ *  already unlocked, clearing the field (empty + Enter) locks again. */
+function UnlockField() {
+  const unlocked = useUnlock((s) => s.unlocked)
+  const setUnlocked = useUnlock((s) => s.setUnlocked)
+  const [val, setVal] = useState("")
+
+  function apply(next: string) {
+    setVal(next)
+    if (next.trim() === UNLOCK_KEY) setUnlocked(true)
+  }
+
+  return (
+    <input
+      type="password"
+      value={val}
+      onChange={(e) => apply(e.target.value)}
+      onKeyDown={(e) => { if (e.key === "Enter" && !val.trim() && unlocked) setUnlocked(false) }}
+      className={cn(
+        "w-full rounded-lg border bg-background px-2 py-1.5 text-xs outline-none focus-visible:ring-2 focus-visible:ring-ring",
+        unlocked ? "border-success/50" : "border-input"
+      )}
+    />
   )
 }

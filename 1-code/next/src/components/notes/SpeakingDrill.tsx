@@ -3,6 +3,8 @@ import { Bot, Check, Clock3, Copy, Eye, EyeOff, Gamepad2, GraduationCap, HeartPu
 import type { LucideIcon } from "lucide-react"
 import { useSpeak } from "@/lib/use-speak"
 import { diffWords, tokenize } from "@/lib/speech-diff"
+import { useUnlock } from "@/stores/unlock"
+import { speakingAnswers } from "@/content/speaking-answers"
 
 import type { SpeakingQuestion, TopicLabel } from "@/types/content"
 
@@ -110,6 +112,7 @@ export function SpeakingDrill({ questions }: Props) {
   }, [questions])
   const audioRef = useRef<HTMLAudioElement | null>(null)
   const speakText = useSpeak()
+  const unlocked = useUnlock((s) => s.unlocked)
   const [selectedBySection, setSelectedBySection] = useState<Record<string, number>>({})
   const [sampleOverrides, setSampleOverrides] = useState<Record<string, string>>({})
   const [showQuestionText, setShowQuestionText] = useState(false)
@@ -329,20 +332,15 @@ export function SpeakingDrill({ questions }: Props) {
   useEffect(() => {
     try {
       const raw = window.localStorage.getItem(SAMPLE_OVERRIDE_KEY)
-      if (raw) {
-        setSampleOverrides(JSON.parse(raw))
-      } else {
-        // Seed câu mẫu đầu tiên để người dùng biết cách dùng chức năng sửa
-        const seed: Record<string, string> = {
-          "What's your name?": "My name is Khanh, my full name is Trinh Bao Khanh.",
-        }
-        setSampleOverrides(seed)
-        window.localStorage.setItem(SAMPLE_OVERRIDE_KEY, JSON.stringify(seed, null, 2))
-      }
+      const saved: Record<string, string> = raw ? JSON.parse(raw) : {}
+      // Once unlocked, the private answer set is merged in (saved edits win).
+      const merged = unlocked ? { ...speakingAnswers, ...saved } : saved
+      setSampleOverrides(merged)
+      if (unlocked) window.localStorage.setItem(SAMPLE_OVERRIDE_KEY, JSON.stringify(merged, null, 2))
     } catch {
       setSampleOverrides({})
     }
-  }, [])
+  }, [unlocked])
 
   if (sections.length === 0) return null
 

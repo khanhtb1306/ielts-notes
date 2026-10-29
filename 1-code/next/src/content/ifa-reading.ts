@@ -57,6 +57,9 @@ export interface IfaTestPaper {
   id: string
   title: string
   subtitle: string
+  /** Hidden papers (e.g. the teacher's original) are kept out of the public
+   *  list unless the URL carries the unlock key. */
+  hidden?: boolean
   reading: {
     timeAllowed: string
     totalQuestions: number
@@ -73,6 +76,9 @@ const paperRetake1: IfaTestPaper = {
   id: "final-retake-1",
   title: "FINAL TEST — RETAKE",
   subtitle: "IELTS Foundation A · luyện tập",
+  // Teacher's original paper: hidden from the shared list; only shows when the
+  // URL carries ?key=<UNLOCK_KEY>.
+  hidden: true,
   reading: {
     timeAllowed: "30 phút",
     totalQuestions: 14,
@@ -271,10 +277,29 @@ const paperRetake1: IfaTestPaper = {
 }
 
 /**
- * All practice papers. Add a new paper object and push it here — the Reading
- * and Writing pages render the list automatically.
+ * All practice papers. `paperRetake1` has both Reading + Writing; the extra
+ * sets are skill-specific. The list pages filter by which section is non-empty.
  */
-export const ifaTestPapers: IfaTestPaper[] = [paperRetake1]
+import { ifaReadingExtra } from "./ifa-reading-extra"
+import { ifaWritingExtra } from "./ifa-writing-extra"
+
+export const ifaTestPapers: IfaTestPaper[] = [paperRetake1, ...ifaReadingExtra, ...ifaWritingExtra]
+
+/**
+ * Secret unlock key. Hidden papers only appear in the list when the URL has
+ * `?key=<UNLOCK_KEY>` (e.g. .../#/reading-ifa?key=khanh2026). Change it freely.
+ * Links shared without this parameter won't reveal the hidden papers.
+ */
+export const UNLOCK_KEY = "HE153468"
+
+/** Papers that contain a Reading section, honouring the unlock flag. */
+export function readingPapers(unlocked: boolean): IfaTestPaper[] {
+  return ifaTestPapers.filter((p) => p.reading.passages.length > 0 && (unlocked || !p.hidden))
+}
+/** Papers that contain a Writing section, honouring the unlock flag. */
+export function writingPapers(unlocked: boolean): IfaTestPaper[] {
+  return ifaTestPapers.filter((p) => p.writing.exercises.length > 0 && (unlocked || !p.hidden))
+}
 
 export function getPaper(id: string): IfaTestPaper | undefined {
   return ifaTestPapers.find((p) => p.id === id)

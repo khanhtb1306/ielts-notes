@@ -145,13 +145,15 @@ function QuestionRow({
   onChange: (v: string) => void
 }) {
   const ok = isCorrect(q, value)
+  // Split a fill prompt at its blank ("______") so the input sits inline.
+  const fillParts = q.kind === "fill" ? q.prompt.split(/_{2,}/) : null
 
   return (
     <li className="space-y-2">
       <div className="flex gap-2">
         <span
           className={cn(
-            "flex size-6 shrink-0 items-center justify-center rounded-full text-xs font-bold",
+            "mt-0.5 flex size-6 shrink-0 items-center justify-center rounded-full text-xs font-bold",
             submitted
               ? ok
                 ? "bg-success-soft text-success"
@@ -161,14 +163,27 @@ function QuestionRow({
         >
           {submitted ? (ok ? <Check className="size-3.5" /> : <X className="size-3.5" />) : q.n}
         </span>
-        <p className="font-medium">{q.prompt}</p>
+
+        {q.kind === "fill" && fillParts ? (
+          <p className="font-medium leading-8">
+            {fillParts[0]}
+            <FillInput q={q} value={value} submitted={submitted} ok={ok} onChange={onChange} />
+            {fillParts.slice(1).join(" ")}
+          </p>
+        ) : (
+          <p className="font-medium">{q.prompt}</p>
+        )}
       </div>
 
+      {q.kind === "fill" && submitted && !ok && (
+        <p className="pl-8 text-xs text-muted-foreground">
+          Đáp án: <span className="font-semibold text-success">{q.answers[0]}</span>
+        </p>
+      )}
+
+      {q.kind === "choice" && (
       <div className="pl-8">
-        {q.kind === "fill" ? (
-          <FillInput q={q} value={value} submitted={submitted} ok={ok} onChange={onChange} />
-        ) : (
-          <div className="grid gap-1.5">
+        <div className="grid gap-1.5">
             {q.options.map((o) => {
               const chosen = value === o.id
               const isAnswer = submitted && o.id === q.answer
@@ -197,15 +212,14 @@ function QuestionRow({
                 </label>
               )
             })}
-          </div>
-        )}
+        </div>
       </div>
+      )}
     </li>
   )
 }
 
 function FillInput({
-  q,
   value,
   submitted,
   ok,
@@ -217,28 +231,23 @@ function FillInput({
   ok: boolean
   onChange: (v: string) => void
 }) {
+  // Inline blank: a dotted underline the text is typed onto, flush with the
+  // sentence — no box, no fill, like writing over a "......".
   return (
-    <div className="space-y-1">
-      <input
-        type="text"
-        value={value ?? ""}
-        disabled={submitted}
-        onChange={(e) => onChange(e.target.value)}
-        placeholder="Nhập đáp án…"
-        className={cn(
-          "w-full max-w-sm rounded-lg border bg-background px-3 py-1.5 text-sm outline-none transition-colors focus-visible:ring-2 focus-visible:ring-ring",
-          submitted
-            ? ok
-              ? "border-success text-success"
-              : "border-destructive text-destructive"
-            : "border-input"
-        )}
-      />
-      {submitted && !ok && (
-        <p className="text-xs text-muted-foreground">
-          Đáp án: <span className="font-semibold text-success">{q.answers[0]}</span>
-        </p>
+    <input
+      type="text"
+      value={value ?? ""}
+      disabled={submitted}
+      onChange={(e) => onChange(e.target.value)}
+      size={Math.max((value?.length ?? 0) + 2, 8)}
+      className={cn(
+        "mx-0.5 inline-block min-w-[5rem] border-0 border-b border-dotted bg-transparent px-1 py-0 text-center font-medium outline-none focus:border-solid",
+        submitted
+          ? ok
+            ? "border-success text-success"
+            : "border-destructive text-destructive"
+          : "border-foreground/50 text-foreground focus:border-primary"
       )}
-    </div>
+    />
   )
 }

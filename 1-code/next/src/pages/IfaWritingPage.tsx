@@ -1,6 +1,8 @@
+import { useState } from "react"
 import { Link, useParams } from "react-router-dom"
-import { PenLine, Clock3, ChevronLeft } from "lucide-react"
+import { PenLine, Clock3, ChevronLeft, Copy, Check } from "lucide-react"
 import { getPaper } from "@/content/ifa-reading"
+import type { IfaTestPaper } from "@/content/ifa-reading"
 import { useIfaReading } from "@/stores/ifa-reading"
 import { PageHeader, PageSection, EmptyState } from "@/components/common/Page"
 import { Button } from "@/components/ui/button"
@@ -15,6 +17,27 @@ function countSentences(text: string): number {
 function countWords(text: string): number {
   const t = text.trim()
   return t ? t.split(/\s+/).length : 0
+}
+
+/** Assemble the task + the learner's answers as plain text to copy out. */
+function buildCopyText(paper: IfaTestPaper, drafts: Record<number, string>): string {
+  const lines: string[] = []
+  lines.push(`${paper.title} — Writing`)
+  for (const ex of paper.writing.exercises) {
+    lines.push("")
+    lines.push(`--- Exercise ${ex.n} (${ex.points} pts) ---`)
+    lines.push(ex.instruction)
+    if (ex.passage) {
+      lines.push(`[${ex.passage.title}]`)
+      lines.push(ex.passage.body)
+    }
+    if (ex.topics) ex.topics.forEach((t) => lines.push(`• ${t}`))
+    if (ex.notes) ex.notes.forEach((n) => lines.push(`(Yêu cầu) ${n}`))
+    lines.push("")
+    lines.push("Bài làm:")
+    lines.push((drafts[ex.n] ?? "").trim() || "(chưa viết)")
+  }
+  return lines.join("\n")
 }
 
 export function IfaWritingPage() {
@@ -47,9 +70,10 @@ export function IfaWritingPage() {
         title={`${paper.title} · Writing`}
         description={
           <span className="inline-flex items-center gap-1">
-            <Clock3 className="size-3.5" /> {writing.timeAllowed}
+            <Clock3 className="size-3.5" /> {writing.timeAllowed} · bài tự lưu, sửa lại bất cứ lúc nào
           </span>
         }
+        actions={<CopyButton text={buildCopyText(paper, drafts)} />}
       />
 
       {writing.exercises.map((ex) => {
@@ -92,11 +116,12 @@ export function IfaWritingPage() {
               )}
 
               <div>
+                <label className="mb-1 block text-xs font-semibold text-muted-foreground">Bài làm của tôi</label>
                 <textarea
                   value={value}
                   onChange={(e) => setWriting(paperId, ex.n, e.target.value)}
                   rows={ex.n === 1 ? 5 : 10}
-                  placeholder="Viết bài của bạn ở đây… (tự động lưu trên thiết bị này)"
+                  placeholder="Viết bài của bạn ở đây… (tự động lưu trên thiết bị này, sửa lại bất cứ lúc nào)"
                   className="w-full resize-y rounded-lg border border-input bg-background p-3 text-sm leading-relaxed outline-none focus-visible:ring-2 focus-visible:ring-ring"
                 />
                 <div className="mt-1 flex items-center gap-3 text-xs text-muted-foreground">
@@ -111,6 +136,42 @@ export function IfaWritingPage() {
           </PageSection>
         )
       })}
+
+      <PageSection className="border-primary/30">
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <div>
+            <p className="font-semibold">Sao chép bài</p>
+            <p className="text-sm text-muted-foreground">Copy đề + bài làm của bạn ra văn bản.</p>
+          </div>
+          <CopyButton text={buildCopyText(paper, drafts)} />
+        </div>
+      </PageSection>
     </div>
+  )
+}
+
+function CopyButton({ text }: { text: string }) {
+  const [copied, setCopied] = useState(false)
+  async function copy() {
+    try {
+      await navigator.clipboard.writeText(text)
+    } catch {
+      // Fallback for insecure contexts / older browsers.
+      const ta = document.createElement("textarea")
+      ta.value = text
+      ta.style.position = "fixed"
+      ta.style.opacity = "0"
+      document.body.appendChild(ta)
+      ta.select()
+      document.execCommand("copy")
+      document.body.removeChild(ta)
+    }
+    setCopied(true)
+    window.setTimeout(() => setCopied(false), 2000)
+  }
+  return (
+    <Button variant={copied ? "outline" : "default"} onClick={copy}>
+      {copied ? <><Check className="size-4" /> Đã sao chép</> : <><Copy className="size-4" /> Copy bài</>}
+    </Button>
   )
 }

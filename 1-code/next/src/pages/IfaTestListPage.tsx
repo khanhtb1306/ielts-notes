@@ -1,29 +1,27 @@
 import { Link } from "react-router-dom"
 import { ArrowRight, BookOpenCheck, PenLine, Clock3, Check } from "lucide-react"
-import { ifaTestPapers, paperTopics } from "@/content/ifa-reading"
+import { readingPapers, writingPapers, paperTopics } from "@/content/ifa-reading"
 import { useIfaReading } from "@/stores/ifa-reading"
-import { PageHeader } from "@/components/common/Page"
+import { useUnlock } from "@/stores/unlock"
+import { SkillBrief } from "@/components/ifa/SkillBrief"
 import { cn } from "@/lib/utils"
 
 /** Lists every practice paper for one skill and links into the runner. */
 export function IfaTestListPage({ skill }: { skill: "reading" | "writing" }) {
   const isReading = skill === "reading"
   const papers = useIfaReading((s) => s.papers)
+  // Hidden papers appear once the device is unlocked in Settings.
+  const unlocked = useUnlock((s) => s.unlocked)
+  const list = isReading ? readingPapers(unlocked) : writingPapers(unlocked)
 
   return (
     <div className="mx-auto max-w-4xl space-y-4 pb-10">
-      <PageHeader
-        icon={isReading ? BookOpenCheck : PenLine}
-        title={isReading ? "Reading — Đề luyện tập" : "Writing — Đề luyện tập"}
-        description={
-          isReading
-            ? "Chọn một đề để làm. Nộp bài là chấm điểm ngay."
-            : "Chọn một đề để viết. Bài tự lưu trên thiết bị này."
-        }
-      />
+      <SkillBrief skill={skill} />
+
+      <h3 className="pt-1 text-sm font-bold uppercase tracking-wide text-muted-foreground">Đề luyện tập</h3>
 
       <div className="grid gap-3 sm:grid-cols-2">
-        {ifaTestPapers.map((p) => {
+        {list.map((p) => {
           const progress = papers[p.id]
           const submitted = isReading && progress?.submitted
           const base = isReading ? "/reading-ifa" : "/writing-ifa"

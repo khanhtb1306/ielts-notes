@@ -15,7 +15,7 @@ const IfaGrammarPage = lazy(() => import("@/pages/IfaGrammarPage").then((m) => (
 const IfaReadingPage = lazy(() => import("@/pages/IfaReadingPage").then((m) => ({ default: m.IfaReadingPage })))
 const IfaWritingPage = lazy(() => import("@/pages/IfaWritingPage").then((m) => ({ default: m.IfaWritingPage })))
 const IfaTestListPage = lazy(() => import("@/pages/IfaTestListPage").then((m) => ({ default: m.IfaTestListPage })))
-const IfaSkillPlaceholderPage = lazy(() => import("@/pages/IfaSkillPlaceholderPage").then((m) => ({ default: m.IfaSkillPlaceholderPage })))
+const IfaListeningPage = lazy(() => import("@/pages/IfaListeningPage").then((m) => ({ default: m.IfaListeningPage })))
 const PracticeRunnerPage = lazy(() => import("@/pages/PracticeRunnerPage").then((m) => ({ default: m.PracticeRunnerPage })))
 const PracticeResultPage = lazy(() => import("@/pages/PracticeResultPage").then((m) => ({ default: m.PracticeResultPage })))
 
@@ -31,7 +31,7 @@ export default function App() {
             <Route path="/speaking" element={<NotesPage type="speaking" />} />
             <Route path="/speaking-ifa" element={<IfaSpeakingPage />} />
             <Route path="/speaking-ifa/drill" element={<IfaSpeakingDrillPage />} />
-            <Route path="/listening-ifa" element={<IfaSkillPlaceholderPage skill="Listening" />} />
+            <Route path="/listening-ifa" element={<IfaListeningPage />} />
             <Route path="/reading-ifa" element={<IfaTestListPage skill="reading" />} />
             <Route path="/reading-ifa/:paperId" element={<IfaReadingPage />} />
             <Route path="/writing-ifa" element={<IfaTestListPage skill="writing" />} />
