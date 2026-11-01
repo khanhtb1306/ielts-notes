@@ -55,7 +55,7 @@ const lesson18: ListeningPaper = {
         {
           title: "Questions 3-10",
           instruction: "Complete the booking form. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
-          context: "SUMMER MUSIC FESTIVAL · George O'Neill · Westsea · Guitarrini: 5 June (£7.50 × 2) · Singer: 17 June (£6 × 2) · Anna Ventura: 22 June (£7 × 1) · Spanish Dance & Guitar Concert: 23 June.",
+          context: "SUMMER MUSIC FESTIVAL — Booking form · Name: George O'Neill",
           questions: [
             { n: 3, kind: "fill", prompt: "Address: ______, Westsea", answers: ["48 North Avenue"] },
             { n: 4, kind: "fill", prompt: "Postcode: ______", answers: ["WS62YH", "WS6 2YH"] },
