@@ -51,6 +51,8 @@ export interface WritingExercise {
   /** Prompt options the learner picks from (Exercise 2). */
   topics?: string[]
   notes?: string[]
+  minSentences?: number
+  minWordsPerParagraph?: number
 }
 
 export interface IfaTestPaper {
@@ -282,8 +284,25 @@ const paperRetake1: IfaTestPaper = {
  */
 import { ifaReadingExtra } from "./ifa-reading-extra"
 import { ifaWritingExtra } from "./ifa-writing-extra"
+import { lesson18Paper } from "./ifa-lesson18"
 
-export const ifaTestPapers: IfaTestPaper[] = [paperRetake1, ...ifaReadingExtra, ...ifaWritingExtra]
+const mockWriting: IfaTestPaper = {
+  ...paperRetake1,
+  id: "mock-writing",
+  title: "MOCK TEST — Writing",
+  hidden: true,
+  reading: { timeAllowed: "30 phút", totalQuestions: 0, passages: [], sections: [] },
+  writing: {
+    ...paperRetake1.writing,
+    exercises: paperRetake1.writing.exercises.map((exercise) => exercise.n === 1
+      ? { ...exercise, notes: [...(exercise.notes ?? []), "Make 1 complex sentence and 1 compound sentence about Reading. (1 pt)"] }
+      : exercise),
+  },
+}
+
+export const ifaTestPapers: IfaTestPaper[] = [
+  paperRetake1, lesson18Paper, ...ifaReadingExtra, mockWriting, ...ifaWritingExtra,
+]
 
 /**
  * Secret unlock key. Hidden papers only appear in the list when the URL has

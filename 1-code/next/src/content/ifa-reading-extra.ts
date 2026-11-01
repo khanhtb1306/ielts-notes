@@ -848,7 +848,7 @@ const readingHealth: IfaTestPaper = {
 
 const readingVietnam: IfaTestPaper = {
   id: "reading-vietnam",
-  title: "FINAL TEST — Reading (VN)",
+  title: "MOCK TEST — Reading",
   subtitle: "IELTS Foundation A · luyện tập",
   hidden: true,
   reading: {
@@ -887,9 +887,9 @@ const readingVietnam: IfaTestPaper = {
         instruction: "Answer the questions below. Write NO MORE THAN TWO WORDS from the passage for each answer.",
         passageId: "p1",
         questions: [
-          { n: 1, kind: "fill", prompt: "On which day of the third lunar month is the holiday celebrated? ______", answers: ["tenth day", "tenth", "the tenth"] },
-          { n: 2, kind: "fill", prompt: "What do people burn to show respect at the temple? ______", answers: ["burn incense", "incense"] },
-          { n: 3, kind: "fill", prompt: "What type of contest is organised during the festival? ______", answers: ["cooking competitions", "cooking competition"] },
+          { n: 1, kind: "fill", prompt: "On which day of the third lunar month is the holiday celebrated? ______", answers: ["tenth", "the tenth"] },
+          { n: 2, kind: "fill", prompt: "What do people burn to show respect at the temple? ______", answers: ["incense"] },
+          { n: 3, kind: "fill", prompt: "What type of contest is organised during the festival? ______", answers: ["cooking", "cooking competitions"] },
         ],
       },
       {
@@ -989,26 +989,26 @@ const readingVietnam: IfaTestPaper = {
           {
             n: 13,
             kind: "choice",
-            prompt: "Why are motorbikes important in delivery work?",
+            prompt: "Why are motorbikes important for delivery drivers?",
             options: [
-              { id: "A", text: "They can carry very large vehicles." },
-              { id: "B", text: "They move quickly and reach customers faster than larger vehicles." },
-              { id: "C", text: "They are only used in rural areas." },
-              { id: "D", text: "They never face any challenges." },
+              { id: "A", text: "They can carry very large goods." },
+              { id: "B", text: "They are cheaper than bicycles." },
+              { id: "C", text: "They use less fuel than cars." },
+              { id: "D", text: "They can get around quickly in heavy traffic." },
             ],
-            answer: "B",
+            answer: "D",
           },
           {
             n: 14,
             kind: "choice",
-            prompt: "What does the writer say about the future of transport and delivery in Vietnam?",
+            prompt: "What is one challenge for delivery services in Vietnam?",
             options: [
-              { id: "A", text: "It looks positive as the country continues to grow." },
-              { id: "B", text: "It will stop improving soon." },
-              { id: "C", text: "It is getting worse every year." },
-              { id: "D", text: "It no longer uses technology." },
+              { id: "A", text: "Too many airports" },
+              { id: "B", text: "Lack of motorbikes" },
+              { id: "C", text: "High train ticket prices" },
+              { id: "D", text: "Traffic jams" },
             ],
-            answer: "A",
+            answer: "D",
           },
         ],
       },

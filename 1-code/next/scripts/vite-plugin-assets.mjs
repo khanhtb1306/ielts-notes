@@ -25,6 +25,7 @@ const COURSE_ROOT = join(REPO_ROOT, "courses", COURSE_ID)
 // Map stable browser URL prefixes → on-disk base folders (per course).
 // Order matters: more specific prefixes (e.g. /audio/daily/) come first.
 const URL_MAP = [
+  { prefix: "/audio/daily/ifa/", base: join(REPO_ROOT, "courses", "ifa-ielts", "daily", "audio") },
   { prefix: "/audio/daily/", base: join(COURSE_ROOT, "daily", "audio") },
   { prefix: "/audio/", base: join(COURSE_ROOT, "notes", "audio") },
   { prefix: "/source/daily/", base: join(COURSE_ROOT, "daily", "lessons") },
@@ -114,6 +115,11 @@ export function assetsPlugin() {
       const dailyAudioSrc = join(COURSE_ROOT, "daily", "audio")
       if (existsSync(dailyAudioSrc)) {
         cpSync(dailyAudioSrc, join(distDir, "audio", "daily"), { recursive: true })
+      }
+      // Foundation A listening practice recordings → /audio/daily/ifa/*
+      const ifaTestAudioSrc = join(REPO_ROOT, "courses", "ifa-ielts", "daily", "audio")
+      if (existsSync(ifaTestAudioSrc)) {
+        cpSync(ifaTestAudioSrc, join(distDir, "audio", "daily", "ifa"), { recursive: true })
       }
       // Daily lesson images (courses/<id>/daily/lessons/*/images) → dist/source/daily/*/images
       const dailyRoot = join(COURSE_ROOT, "daily", "lessons")

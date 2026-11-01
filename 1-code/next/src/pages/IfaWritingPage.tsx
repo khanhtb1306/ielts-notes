@@ -127,9 +127,10 @@ export function IfaWritingPage() {
                 <div className="mt-1 flex items-center gap-3 text-xs text-muted-foreground">
                   <span>{words} từ</span>
                   <span>·</span>
-                  <span className={ex.n === 2 && sentences < 7 ? "text-warn" : undefined}>
-                    {sentences} câu{ex.n === 2 ? " (cần ≥ 7)" : ""}
+                  <span className={(ex.minWordsPerParagraph ? false : sentences < (ex.minSentences ?? (ex.n === 2 ? 7 : 0))) ? "text-warn" : undefined}>
+                    {sentences} câu{!ex.minWordsPerParagraph && ex.n === 2 ? ` (cần ≥ ${ex.minSentences ?? 7})` : ""}
                   </span>
+                  {ex.minWordsPerParagraph && <span>· Mỗi đoạn cần ≥ {ex.minWordsPerParagraph} từ</span>}
                 </div>
               </div>
             </div>

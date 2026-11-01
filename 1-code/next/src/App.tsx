@@ -31,7 +31,8 @@ export default function App() {
             <Route path="/speaking" element={<NotesPage type="speaking" />} />
             <Route path="/speaking-ifa" element={<IfaSpeakingPage />} />
             <Route path="/speaking-ifa/drill" element={<IfaSpeakingDrillPage />} />
-            <Route path="/listening-ifa" element={<IfaListeningPage />} />
+            <Route path="/listening-ifa" element={<IfaTestListPage skill="listening" />} />
+            <Route path="/listening-ifa/:paperId" element={<IfaListeningPage />} />
             <Route path="/reading-ifa" element={<IfaTestListPage skill="reading" />} />
             <Route path="/reading-ifa/:paperId" element={<IfaReadingPage />} />
             <Route path="/writing-ifa" element={<IfaTestListPage skill="writing" />} />

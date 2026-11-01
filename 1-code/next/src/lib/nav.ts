@@ -50,7 +50,7 @@ export const NAV_GROUPS: NavGroup[] = [
     label: "IELTS Foundation A",
     items: [
       { to: "/speaking-ifa", label: "Speaking", icon: Mic, badge: "IFA", eyebrow: "IELTS Foundation A · Speaking", title: "Speaking — IELTS Foundation A", shortTitle: "Speaking", subtitle: "Khung trả lời theo chủ đề + luyện phản xạ" },
-      { to: "/listening-ifa", label: "Listening", icon: Headphones, badge: "IFA", eyebrow: "IELTS Foundation A · Listening", title: "Listening — IELTS Foundation A", shortTitle: "Listening", subtitle: "Nội dung Listening sẽ được cập nhật" },
+      { to: "/listening-ifa", label: "Listening", icon: Headphones, badge: "IFA", eyebrow: "IELTS Foundation A · Listening", title: "Listening — IELTS Foundation A", shortTitle: "Listening", subtitle: "Ôn kỹ năng nghe và luyện đề 20 câu" },
       { to: "/reading-ifa", label: "Reading", icon: BookOpenCheck, badge: "IFA", eyebrow: "IELTS Foundation A · Reading", title: "Reading — IELTS Foundation A", shortTitle: "Reading", subtitle: "Đề luyện Final Test · 14 câu, chấm tự động" },
       { to: "/writing-ifa", label: "Writing", icon: PenLine, badge: "IFA", eyebrow: "IELTS Foundation A · Writing", title: "Writing — IELTS Foundation A", shortTitle: "Writing", subtitle: "Đề luyện Final Test · viết đoạn + tiêu chí" },
       { to: "/grammar-ifa", label: "Ngữ pháp", icon: BookOpen, badge: "IFA", eyebrow: "IELTS Foundation A · Ngữ pháp", title: "Ngữ pháp — IELTS Foundation A", shortTitle: "Ngữ pháp", subtitle: "8 chủ điểm ngữ pháp theo slide trên lớp" },

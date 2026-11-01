@@ -1,18 +1,31 @@
 import { Link } from "react-router-dom"
-import { ArrowRight, BookOpenCheck, PenLine, Clock3, Check } from "lucide-react"
+import { ArrowRight, BookOpenCheck, PenLine, Headphones, Clock3, Check } from "lucide-react"
 import { readingPapers, writingPapers, paperTopics } from "@/content/ifa-reading"
+import { ifaListeningPapers } from "@/content/ifa-listening"
 import { useIfaReading } from "@/stores/ifa-reading"
 import { useUnlock } from "@/stores/unlock"
 import { SkillBrief } from "@/components/ifa/SkillBrief"
 import { cn } from "@/lib/utils"
 
 /** Lists every practice paper for one skill and links into the runner. */
-export function IfaTestListPage({ skill }: { skill: "reading" | "writing" }) {
+export function IfaTestListPage({ skill }: { skill: "reading" | "writing" | "listening" }) {
   const isReading = skill === "reading"
+  const isListening = skill === "listening"
   const papers = useIfaReading((s) => s.papers)
   // Hidden papers appear once the device is unlocked in Settings.
   const unlocked = useUnlock((s) => s.unlocked)
-  const list = isReading ? readingPapers(unlocked) : writingPapers(unlocked)
+  const list = isListening
+    ? ifaListeningPapers.filter((p) => unlocked || !p.hidden).map((p) => ({
+        id: p.id, title: p.title, count: 20,
+        time: "~30 phút", topics: p.sections.map((s) => s.title),
+        hasAudio: p.sections.some((s) => s.audio),
+      }))
+    : (isReading ? readingPapers(unlocked) : writingPapers(unlocked)).map((p) => ({
+        id: p.id, title: p.title,
+        count: isReading ? p.reading.totalQuestions : p.writing.exercises.length,
+        time: isReading ? p.reading.timeAllowed : p.writing.timeAllowed,
+        topics: isReading ? paperTopics(p) : [], hasAudio: true,
+      }))
 
   return (
     <div className="mx-auto max-w-4xl space-y-4 pb-10">
@@ -22,10 +35,9 @@ export function IfaTestListPage({ skill }: { skill: "reading" | "writing" }) {
 
       <div className="grid gap-3 sm:grid-cols-2">
         {list.map((p) => {
-          const progress = papers[p.id]
-          const submitted = isReading && progress?.submitted
-          const base = isReading ? "/reading-ifa" : "/writing-ifa"
-          const count = isReading ? p.reading.totalQuestions : p.writing.exercises.length
+          const progress = papers[isListening ? `listening:${p.id}` : p.id]
+          const submitted = (isReading || isListening) && progress?.submitted
+          const base = isReading ? "/reading-ifa" : isListening ? "/listening-ifa" : "/writing-ifa"
           return (
             <Link
               key={p.id}
@@ -37,7 +49,7 @@ export function IfaTestListPage({ skill }: { skill: "reading" | "writing" }) {
             >
               <div className="flex items-start justify-between gap-3">
                 <span className="flex size-10 shrink-0 items-center justify-center rounded-lg bg-primary-soft text-primary">
-                  {isReading ? <BookOpenCheck className="size-5" /> : <PenLine className="size-5" />}
+                  {isReading ? <BookOpenCheck className="size-5" /> : isListening ? <Headphones className="size-5" /> : <PenLine className="size-5" />}
                 </span>
                 {submitted && (
                   <span className="inline-flex items-center gap-1 rounded-full bg-success-soft px-2 py-0.5 text-xs font-semibold text-success">
@@ -50,14 +62,15 @@ export function IfaTestListPage({ skill }: { skill: "reading" | "writing" }) {
 
               <div className="mt-2 flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-muted-foreground">
                 <span className="inline-flex items-center gap-1">
-                  <Clock3 className="size-3.5" /> {isReading ? p.reading.timeAllowed : p.writing.timeAllowed}
+                  <Clock3 className="size-3.5" /> {p.time}
                 </span>
-                <span>{isReading ? `${count} câu` : `${count} bài`}</span>
+                <span>{isReading || isListening ? `${p.count} câu` : `${p.count} bài`}</span>
               </div>
 
-              {isReading && (
+              {!p.hasAudio && <p className="mt-2 text-xs text-warn">Bản gốc chưa có file nghe · có thể chọn tệp của bạn</p>}
+              {(isReading || isListening) && (
                 <div className="mt-3 flex flex-wrap gap-1.5">
-                  {paperTopics(p).map((t) => (
+                  {p.topics.map((t) => (
                     <span key={t} className="rounded-full bg-muted px-2.5 py-1 text-xs font-medium text-muted-foreground">
                       {t}
                     </span>
@@ -66,7 +79,7 @@ export function IfaTestListPage({ skill }: { skill: "reading" | "writing" }) {
               )}
 
               <span className="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-primary">
-                {isReading ? "Làm bài" : "Viết bài"} <ArrowRight className="size-4 transition-transform group-hover:translate-x-1" />
+                {isReading || isListening ? "Làm bài" : "Viết bài"} <ArrowRight className="size-4 transition-transform group-hover:translate-x-1" />
               </span>
             </Link>
           )
