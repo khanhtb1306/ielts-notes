@@ -1,11 +1,18 @@
 import { useState } from "react"
 import { Link, useParams } from "react-router-dom"
-import { PenLine, Clock3, ChevronLeft, Copy, Check } from "lucide-react"
+import { PenLine, Clock3, ChevronLeft, Copy, Check, X, RotateCcw } from "lucide-react"
 import { getPaper } from "@/content/ifa-reading"
 import type { IfaTestPaper } from "@/content/ifa-reading"
 import { useIfaReading } from "@/stores/ifa-reading"
+import { normStr } from "@/lib/grading"
 import { PageHeader, PageSection, EmptyState } from "@/components/common/Page"
 import { Button } from "@/components/ui/button"
+import { cn } from "@/lib/utils"
+
+/** Check-answer keys are stored in `answers` under a high offset so they never
+ *  collide with Reading question numbers on shared papers. */
+const CHECK_BASE = 1000
+const checkKey = (exN: number, i: number) => CHECK_BASE + exN * 10 + i
 
 /** Rough sentence count — splits on ., ! and ? followed by space/end. */
 function countSentences(text: string): number {
@@ -31,6 +38,7 @@ function buildCopyText(paper: IfaTestPaper, drafts: Record<number, string>): str
       lines.push(`[${ex.passage.title}]`)
       lines.push(ex.passage.body)
     }
+    if (ex.checks) ex.checks.forEach((c) => lines.push(`(Câu hỏi) ${c.prompt} → ${c.answer}`))
     if (ex.topics) ex.topics.forEach((t) => lines.push(`• ${t}`))
     if (ex.notes) ex.notes.forEach((n) => lines.push(`(Yêu cầu) ${n}`))
     lines.push("")
@@ -45,7 +53,12 @@ export function IfaWritingPage() {
   const paper = getPaper(paperId)
   const progress = useIfaReading((s) => s.papers[paperId])
   const setWriting = useIfaReading((s) => s.setWriting)
+  const setAnswer = useIfaReading((s) => s.setAnswer)
+  const submit = useIfaReading((s) => s.submit)
+  const reset = useIfaReading((s) => s.reset)
   const drafts = progress?.writing ?? {}
+  const answers = progress?.answers ?? {}
+  const submitted = progress?.submitted ?? false
 
   if (!paper) {
     return (
@@ -76,6 +89,15 @@ export function IfaWritingPage() {
         actions={<CopyButton text={buildCopyText(paper, drafts)} />}
       />
 
+      {submitted && (
+        <PageSection className="border-primary/30">
+          <div className="flex items-center justify-between gap-3">
+            <span className="font-semibold">Đã nộp bài · đáp án câu hỏi đã hiện bên dưới</span>
+            <Button variant="outline" onClick={() => reset(paperId)}><RotateCcw className="size-4" /> Làm lại</Button>
+          </div>
+        </PageSection>
+      )}
+
       {writing.exercises.map((ex) => {
         const value = drafts[ex.n] ?? ""
         const sentences = countSentences(value)
@@ -94,6 +116,38 @@ export function IfaWritingPage() {
                     {ex.passage.body}
                   </p>
                 </div>
+              )}
+
+              {ex.checks && ex.checks.length > 0 && (
+                <ol className="space-y-3">
+                  {ex.checks.map((c, i) => {
+                    const key = checkKey(ex.n, i)
+                    const val = answers[key] ?? ""
+                    const correct = normStr(val) === normStr(c.answer) && val.trim() !== ""
+                    return (
+                      <li key={i} className="space-y-1.5">
+                        <p className="text-sm font-medium">{c.prompt}</p>
+                        <input
+                          type="text"
+                          value={val}
+                          disabled={submitted}
+                          onChange={(e) => setAnswer(paperId, key, e.target.value)}
+                          placeholder="Viết câu trả lời…"
+                          className={cn(
+                            "w-full rounded-lg border bg-background p-2.5 text-sm outline-none focus-visible:ring-2 focus-visible:ring-ring",
+                            submitted ? (correct ? "border-success text-success" : "border-destructive text-destructive") : "border-input"
+                          )}
+                        />
+                        {submitted && (
+                          <p className={cn("flex items-center gap-1 text-xs", correct ? "text-success" : "text-muted-foreground")}>
+                            {correct ? <Check className="size-3" /> : <X className="size-3 text-destructive" />}
+                            Đáp án: <strong className="text-success">{c.answer}</strong>
+                          </p>
+                        )}
+                      </li>
+                    )
+                  })}
+                </ol>
               )}
 
               {ex.topics && (
@@ -141,10 +195,19 @@ export function IfaWritingPage() {
       <PageSection className="border-primary/30">
         <div className="flex flex-wrap items-center justify-between gap-3">
           <div>
-            <p className="font-semibold">Sao chép bài</p>
-            <p className="text-sm text-muted-foreground">Copy đề + bài làm của bạn ra văn bản.</p>
+            <p className="font-semibold">{submitted ? "Sao chép bài" : "Nộp & lưu bài"}</p>
+            <p className="text-sm text-muted-foreground">
+              {submitted
+                ? "Copy đề + bài làm của bạn ra văn bản."
+                : "Lưu lại bài đã làm và hiện đáp án các câu hỏi Exercise 1."}
+            </p>
           </div>
-          <CopyButton text={buildCopyText(paper, drafts)} />
+          <div className="flex items-center gap-2">
+            <CopyButton text={buildCopyText(paper, drafts)} />
+            {!submitted
+              ? <Button onClick={() => submit(paperId)}><Check className="size-4" /> Nộp bài</Button>
+              : <Button variant="outline" onClick={() => reset(paperId)}><RotateCcw className="size-4" /> Làm lại</Button>}
+          </div>
         </div>
       </PageSection>
     </div>

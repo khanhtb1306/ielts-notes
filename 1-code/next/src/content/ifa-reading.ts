@@ -42,12 +42,21 @@ export interface ReadingSection {
   questions: ReadingQuestion[]
 }
 
+export interface WritingCheck {
+  /** Question shown to the learner, e.g. "What is the topic sentence?" */
+  prompt: string
+  /** Correct sentence copied verbatim from the passage; graded leniently. */
+  answer: string
+}
+
 export interface WritingExercise {
   n: number
   points: number
   instruction: string
   /** Optional source paragraph (Exercise 1 completes tasks on a text). */
   passage?: { title: string; body: string }
+  /** Self-checkable questions with fixed answers (Exercise 1 analysis tasks). */
+  checks?: WritingCheck[]
   /** Prompt options the learner picks from (Exercise 2). */
   topics?: string[]
   notes?: string[]
@@ -254,10 +263,12 @@ const paperRetake1: IfaTestPaper = {
           body:
             "Reading books can have many benefits. One of them is improving knowledge. This means that people can learn new information about different topics such as history, science, or culture. As a result, readers can become more informed and develop better critical thinking skills. For example, someone who reads novels may improve their vocabulary and imagination. Another benefit is reducing stress. People who read regularly often feel more relaxed because reading helps them escape from daily problems and focus on the story. For instance, reading a few pages before bed can help someone sleep better at night. Reading books also strengthens concentration. This is because readers need to pay attention to the details of the story or the facts in the text. Spending time in nature is also very important for good health. These benefits show that reading books is a valuable and enjoyable activity for many people.",
         },
+        checks: [
+          { prompt: "What is the topic sentence in the paragraph?", answer: "Reading books can have many benefits." },
+          { prompt: "Find the sentence not related to the topic.", answer: "Spending time in nature is also very important for good health." },
+        ],
         notes: [
-          "Tìm câu chủ đề (topic sentence) của đoạn.",
-          "Gạch các câu nêu lợi ích (main ideas) và ví dụ (supporting ideas).",
-          "Tìm 1 câu không liên quan đến chủ đề và loại bỏ.",
+          "Make 1 complex sentence and 1 compound sentence about \"Reading\". (1 pt)",
         ],
       },
       {
@@ -292,12 +303,6 @@ const mockWriting: IfaTestPaper = {
   title: "MOCK TEST — Writing",
   hidden: true,
   reading: { timeAllowed: "30 phút", totalQuestions: 0, passages: [], sections: [] },
-  writing: {
-    ...paperRetake1.writing,
-    exercises: paperRetake1.writing.exercises.map((exercise) => exercise.n === 1
-      ? { ...exercise, notes: [...(exercise.notes ?? []), "Make 1 complex sentence and 1 compound sentence about Reading. (1 pt)"] }
-      : exercise),
-  },
 }
 
 export const ifaTestPapers: IfaTestPaper[] = [

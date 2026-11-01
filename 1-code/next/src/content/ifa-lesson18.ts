@@ -91,7 +91,11 @@ export const lesson18Paper: IfaTestPaper = {
           title: "e-Readers",
           body: "For many students, e-readers are better than paper books. First, e-books are better for students' bodies. Before e-readers, students had to carry several heavy books with them each day. However, e-readers are very light and usually weigh less than a pound, so there is less stress on students' bodies. Second, e-readers are more convenient than regular books. Students can take all their textbooks with them anywhere they want. They are easy to hold and are clear even in bright sunlight. In addition, reading an e-reader is just like reading a paper book, but they are more convenient because it is not necessary to turn the pages. My friend has an e-reader, and she convinced me to buy one. Finally, buying a new e-book often costs less than buying a traditional paper book, so students may spend less if they buy e-books.",
         },
-        notes: ["What is the topic sentence in the paragraph?", "Find the sentence not related to the topic.", "Make 1 complex sentence and 1 compound sentence about Reading."],
+        checks: [
+          { prompt: "What is the topic sentence in the paragraph?", answer: "For many students, e-readers are better than paper books." },
+          { prompt: "Find the sentence not related to the topic.", answer: "My friend has an e-reader, and she convinced me to buy one." },
+        ],
+        notes: ["Make 1 complex sentence and 1 compound sentence about \"Reading\". (1 pt)"],
       },
       {
         n: 2,
