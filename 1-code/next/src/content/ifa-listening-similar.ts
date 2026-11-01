@@ -9,6 +9,187 @@ import type { ListeningPaper } from "./ifa-listening"
  */
 export const similarListeningPapers: ListeningPaper[] = [
   {
+    id: "cambridge-10-test-3",
+    title: "CAMBRIDGE 10 · TEST 3 — Điền form (tên, địa chỉ, SĐT)",
+    hidden: false,
+    source: "https://simplyielts.com/cambridge-ielts-10-listening-test-3-answers-explanation/",
+    sections: [
+      {
+        title: "Section 1 · Childcare Enrolment Form (điền form cá nhân)",
+        audio: "audio/daily/ifa/cambridge-10-test-3/part-1.mp3",
+        groups: [{
+          title: "Questions 1-10",
+          instruction: "Complete the form. Write ONE WORD AND/OR A NUMBER for each answer.",
+          notes: {
+            title: "Early Learning Childcare Centre — Enrolment Form",
+            sections: [
+              { heading: "Personal Details", rows: [
+                { before: "Parent/guardian: Carol Smith (example)" },
+                { before: "Child's name: Kate" },
+                { before: "Age: ", question: 1 },
+                { before: "Address: ", question: 2, after: " Road, Woodside, 4032" },
+                { before: "Phone: 3345 9865" },
+              ] },
+              { heading: "Childcare Information", rows: [
+                { before: "Days enrolled: Monday and ", question: 3 },
+                { before: "Start time: ", question: 4, after: " am" },
+                { before: "Childcare group: the ", question: 5, after: " group" },
+                { before: "Meal required each day: ", question: 6 },
+                { before: "Medical conditions: needs ", question: 7 },
+                { before: "Emergency contact: Jenny ", question: 8, after: " (phone 3346 7523)" },
+                { before: "Relationship to child: ", question: 9 },
+              ] },
+              { heading: "Fees", rows: [
+                { before: "Will pay each ", question: 10 },
+              ] },
+            ],
+          },
+          questions: [
+            { n: 1, kind: "fill", prompt: "Age: ______.", answers: ["4", "four"] },
+            { n: 2, kind: "fill", prompt: "Address: ______ Road, Woodside.", answers: ["46 Wombat", "46 wombat"] },
+            { n: 3, kind: "fill", prompt: "Days: Monday and ______.", answers: ["Thursday"] },
+            { n: 4, kind: "fill", prompt: "Start time: ______ am.", answers: ["8.30", "8:30"] },
+            { n: 5, kind: "fill", prompt: "Childcare group: the ______ group.", answers: ["red"] },
+            { n: 6, kind: "fill", prompt: "Meal required: ______.", answers: ["lunch"] },
+            { n: 7, kind: "fill", prompt: "Medical: needs ______.", answers: ["glasses"] },
+            { n: 8, kind: "fill", prompt: "Emergency contact: Jenny ______.", answers: ["BALL", "Ball"] },
+            { n: 9, kind: "fill", prompt: "Relationship to child: ______.", answers: ["aunt"] },
+            { n: 10, kind: "fill", prompt: "Will pay each ______.", answers: ["month"] },
+          ],
+        }],
+      },
+      {
+        title: "Section 2 · Dolphin Conservation Trust (môi trường)",
+        audio: "audio/daily/ifa/cambridge-10-test-3/part-2.mp3",
+        groups: [
+          {
+            title: "Questions 11-15",
+            instruction: "Choose the correct letter, A, B or C.",
+            context: "Dolphin Conservation Trust",
+            questions: [
+              { n: 11, kind: "choice", prompt: "What does Alice say about the Trust's work?", options: [{ id: "A", text: "Children make up most of the membership." }, { id: "B", text: "It is the country's largest conservation group." }, { id: "C", text: "It helps finance campaigns to change fishing practices." }], answer: "C" },
+              { n: 12, kind: "choice", prompt: "How do volunteers help the Trust?", options: [{ id: "A", text: "in various ways" }, { id: "B", text: "only by giving money" }, { id: "C", text: "only as dolphin experts" }], answer: "A" },
+              { n: 13, kind: "choice", prompt: "Why is Alice pleased the Trust won the Charity Commission award?", options: [{ id: "A", text: "It brought in extra money." }, { id: "B", text: "It made the Trust's work better known." }, { id: "C", text: "It attracted more members." }], answer: "B" },
+              { n: 14, kind: "choice", prompt: "Oil exploration causes problems to dolphins because of", options: [{ id: "A", text: "noise." }, { id: "B", text: "oil leaks." }, { id: "C", text: "movement of ships." }], answer: "A" },
+              { n: 15, kind: "choice", prompt: "Alice became interested in dolphins when", options: [{ id: "A", text: "she saw one near her home." }, { id: "B", text: "she heard a speaker at school." }, { id: "C", text: "she read a book about them." }], answer: "C" },
+            ],
+          },
+          {
+            title: "Questions 16-20 · The dolphins",
+            instruction: "Complete the sentences. Write ONE NAME for each answer (Moondancer, Echo, Kiwi or Samson).",
+            notes: {
+              title: "Comments about each dolphin",
+              sections: [{ rows: [
+                { before: "Has not been seen this year: ", question: 16 },
+                { before: "Is photographed more than the others: ", question: 17 },
+                { before: "Is always very energetic: ", question: 18 },
+                { before: "Is the newest one in the scheme: ", question: 19 },
+                { before: "Has an unusual shape: ", question: 20 },
+              ] }],
+            },
+            questions: [
+              { n: 16, kind: "fill", prompt: "Not seen this year: ______.", answers: ["Echo"] },
+              { n: 17, kind: "fill", prompt: "Photographed most: ______.", answers: ["Kiwi"] },
+              { n: 18, kind: "fill", prompt: "Always energetic: ______.", answers: ["Samson"] },
+              { n: 19, kind: "fill", prompt: "Newest in the scheme: ______.", answers: ["Samson"] },
+              { n: 20, kind: "fill", prompt: "Unusual shape: ______.", answers: ["Moondancer"] },
+            ],
+          },
+        ],
+      },
+    ],
+  },
+  {
+    id: "cambridge-11-test-2",
+    title: "CAMBRIDGE 11 · TEST 2 — Điền form (tên, địa chỉ, SĐT)",
+    hidden: false,
+    source: "https://simplyielts.com/cambridge-ielts-11-listening-test-2-answers-explanation/",
+    sections: [
+      {
+        title: "Section 1 · Youth Council Enquiry (điền form cá nhân)",
+        audio: "audio/daily/ifa/cambridge-11-test-2/part-1.mp3",
+        groups: [{
+          title: "Questions 1-10",
+          instruction: "Complete the notes. Write ONE WORD AND/OR A NUMBER for each answer.",
+          notes: {
+            title: "Enquiry about Joining Youth Council",
+            sections: [
+              { heading: "Applicant", rows: [
+                { before: "Name: Roger Brown (example)" },
+                { before: "Age: 18" },
+                { before: "During the week, stays in a ", question: 1 },
+                { before: "Postal address: 17, ", question: 2, after: " Street, Stamford, Lincs" },
+                { before: "Postcode: ", question: 3 },
+                { before: "Occupation: student and part-time ", question: 4 },
+              ] },
+              { heading: "Background", rows: [
+                { before: "Studying ", question: 5, after: " (major) and history (minor)" },
+                { before: "Hobbies: does a lot of ", question: 6 },
+                { before: "Also interested in the ", question: 7 },
+                { before: "Wants to work with young people who are ", question: 8 },
+              ] },
+              { heading: "Contact", rows: [
+                { before: "Will meet the Elections Officer on Monday at ", question: 9, after: " pm" },
+                { before: "Mobile number: ", question: 10 },
+              ] },
+            ],
+          },
+          questions: [
+            { n: 1, kind: "fill", prompt: "Stays in a ______ during the week.", answers: ["hostel"] },
+            { n: 2, kind: "fill", prompt: "17, ______ Street.", answers: ["Buckleigh"] },
+            { n: 3, kind: "fill", prompt: "Postcode: ______.", answers: ["PE9 7QT", "PE97QT"] },
+            { n: 4, kind: "fill", prompt: "Part-time job as a ______.", answers: ["waiter"] },
+            { n: 5, kind: "fill", prompt: "Studying ______ (major).", answers: ["politics"] },
+            { n: 6, kind: "fill", prompt: "Does a lot of ______.", answers: ["cycling"] },
+            { n: 7, kind: "fill", prompt: "Interested in the ______.", answers: ["cinema"] },
+            { n: 8, kind: "fill", prompt: "Wants to work with young people who are ______.", answers: ["disabled"] },
+            { n: 9, kind: "fill", prompt: "Meets the officer at ______ pm.", answers: ["4.30", "4:30"] },
+            { n: 10, kind: "fill", prompt: "Mobile number: ______.", answers: ["07788 136711", "07788136711"] },
+          ],
+        }],
+      },
+      {
+        title: "Section 2 · Amersham Theatre (địa phương / sự kiện)",
+        audio: "audio/daily/ifa/cambridge-11-test-2/part-2.mp3",
+        groups: [
+          {
+            title: "Questions 11-15",
+            instruction: "Choose the correct letter, A, B or C.",
+            context: "Amersham Theatre — job induction",
+            questions: [
+              { n: 11, kind: "choice", prompt: "Which change has been made during the refurbishment?", options: [{ id: "A", text: "Some rooms now have a different use." }, { id: "B", text: "Extra seats have been added." }, { id: "C", text: "A café has been removed." }], answer: "A" },
+              { n: 12, kind: "choice", prompt: "Which other change has been made?", options: [{ id: "A", text: "An elevator has been installed." }, { id: "B", text: "A different type of seating has been installed." }, { id: "C", text: "The roof has been replaced." }], answer: "B" },
+              { n: 13, kind: "choice", prompt: "Which facility does the theatre currently offer to the public?", options: [{ id: "A", text: "backstage tours" }, { id: "B", text: "rooms for hire" }, { id: "C", text: "a bookshop" }], answer: "B" },
+              { n: 14, kind: "choice", prompt: "Which other facility is offered to the public?", options: [{ id: "A", text: "hire of costumes" }, { id: "B", text: "a café" }, { id: "C", text: "a car park" }], answer: "B" },
+              { n: 15, kind: "choice", prompt: "Which workshop does the theatre currently offer?", options: [{ id: "A", text: "lighting" }, { id: "B", text: "making puppets" }, { id: "C", text: "acting" }], answer: "B" },
+            ],
+          },
+          {
+            title: "Questions 16-20 · Theatre information",
+            instruction: "Complete the sentences. Write ONE OR TWO WORDS for each answer.",
+            notes: {
+              title: "Amersham Theatre — notes",
+              sections: [{ rows: [
+                { before: "Another workshop currently offered is ", question: 16 },
+                { before: "Visitors enter and buy tickets at the ", question: 17 },
+                { before: "Day-to-day running is done by the theatre ", question: 18 },
+                { before: "Performances are controlled from the ", question: 19, after: " box" },
+                { before: "Shows are chosen by the ", question: 20, after: " director" },
+              ] }],
+            },
+            questions: [
+              { n: 16, kind: "fill", prompt: "Another workshop offered: ______.", answers: ["make-up", "makeup"] },
+              { n: 17, kind: "fill", prompt: "Buy tickets at the ______.", answers: ["box office"] },
+              { n: 18, kind: "fill", prompt: "Run day-to-day by the theatre ______.", answers: ["manager"] },
+              { n: 19, kind: "fill", prompt: "Performances controlled from the ______ box.", answers: ["lighting"] },
+              { n: 20, kind: "fill", prompt: "Shows chosen by the ______ director.", answers: ["artistic"] },
+            ],
+          },
+        ],
+      },
+    ],
+  },
+  {
     id: "cambridge-12-test-1",
     title: "CAMBRIDGE 12 · TEST 1 — Luyện nghe tương tự",
     hidden: false,
