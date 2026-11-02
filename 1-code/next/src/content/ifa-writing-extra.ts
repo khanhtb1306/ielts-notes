@@ -84,9 +84,9 @@ const writingRelationships: IfaTestPaper = {
         points: 8,
         instruction: "Pick one of the following topics to write a paragraph about (at least 7 sentences).",
         topics: [
-          "The importance of spending time with family. (at least 2 main ideas)",
-          "The qualities of a good friend. (at least 2 main ideas)",
-          "The advantages and disadvantages of living with a large family.",
+          "The benefits of making new friends. (at least 2 main ideas)",
+          "The advantages and disadvantages of making new friends online.",
+          "Ways to make new friends at school or work. (at least 2 main ideas)",
         ],
         notes: WRITING_NOTES_EX2,
       },
@@ -199,10 +199,46 @@ const writingTravelling: IfaTestPaper = {
   },
 }
 
+const writingOnlineShopping: IfaTestPaper = {
+  id: "writing-online-shopping",
+  title: "WRITING 6 — Online Shopping",
+  subtitle: "IELTS Foundation A · luyện tập",
+  reading: { timeAllowed: "30 phút", totalQuestions: 0, passages: [], sections: [] },
+  writing: {
+    timeAllowed: "30 phút",
+    exercises: [
+      {
+        n: 1,
+        points: 2,
+        instruction: "Read the paragraph and complete the tasks that follow.",
+        passage: {
+          title: "Shopping online",
+          body:
+            "Shopping online has both advantages and disadvantages. One advantage is convenience because people can order things from home at any time. For example, a busy student can buy books in the evening without going to a shop. Online shops also offer a wide range of products, so customers can compare prices before they buy. However, shoppers cannot check the quality or size of a product in person. A piece of clothing may look different when it arrives, and returning it can take time. Deliveries can also be delayed, especially during busy holidays. My neighbour plays the guitar every weekend. Overall, online shopping can save time, but customers should read product details carefully before ordering.",
+        },
+        checks: writingChecksEx1("Shopping online has both advantages and disadvantages.", "My neighbour plays the guitar every weekend."),
+        notes: writingNotesEx1("Online Shopping"),
+      },
+      {
+        n: 2,
+        points: 8,
+        instruction: "Pick one of the following topics to write a paragraph about (at least 7 sentences).",
+        topics: [
+          "The advantages and disadvantages of shopping online. (at least 2 main ideas)",
+          "The benefits of shopping online. (at least 2 main ideas)",
+          "The disadvantages of shopping online. (at least 2 main ideas)",
+        ],
+        notes: WRITING_NOTES_EX2,
+      },
+    ],
+  },
+}
+
 export const ifaWritingExtra: IfaTestPaper[] = [
   writingSports,
   writingRelationships,
   writingWork,
   writingFilms,
   writingTravelling,
+  writingOnlineShopping,
 ]
