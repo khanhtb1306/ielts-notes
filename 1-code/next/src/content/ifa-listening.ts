@@ -28,6 +28,8 @@ export interface ListeningPaper {
   title: string
   hidden: boolean
   source?: string
+  /** One recording covering the whole paper (rather than separate sections). */
+  audio?: string
   sections: {
     title: string
     audio?: string
@@ -103,10 +105,10 @@ const mock: ListeningPaper = {
   id: "mock-listening",
   title: "MOCK TEST — Listening",
   hidden: false,
+  audio: "audio/daily/ifa/mock-test/AU - Listening Final Test.mp3",
   sections: [
     {
       title: "Section 1 · Home Repair Form",
-      // The LangGo mock publishes the questions but no recording/audio URL.
       groups: [{
         title: "Questions 1-10",
         instruction: "Complete the notes. Write ONE WORD AND/OR A NUMBER for each answer.",

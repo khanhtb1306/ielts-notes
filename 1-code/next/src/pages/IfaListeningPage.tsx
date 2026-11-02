@@ -44,6 +44,9 @@ export function IfaListeningPage() {
       <Link to="/listening-ifa" className="inline-flex items-center gap-1 text-sm text-muted-foreground hover:text-foreground"><ChevronLeft className="size-4" /> Danh sách đề</Link>
       <h2 className="text-xl font-bold">{paper.title} · Listening</h2>
       {paper.source && <p className="text-sm text-muted-foreground">Bài luyện tương tự theo chủ đề IFA · <a href={paper.source} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 text-primary underline underline-offset-2">Nguồn đề và transcript <ExternalLink className="size-3" /></a></p>}
+      {paper.audio && <PageSection title="Audio toàn bài · Section 1 & 2">
+        <audio controls preload="none" src={`${base}${paper.audio}`} className="w-full" aria-label="Nghe toàn bài Mock Listening" />
+      </PageSection>}
 
       {submitted && <PageSection>
         <div className="flex items-center justify-between gap-3">
@@ -52,17 +55,17 @@ export function IfaListeningPage() {
         </div>
       </PageSection>}
 
-      {!paper.sections.some((s) => s.audio) && <PageSection>
+      {!paper.audio && !paper.sections.some((s) => s.audio) && <PageSection>
         <p className="mb-2 text-sm text-muted-foreground">Bài gốc LangGo không cung cấp file nghe. Nếu bạn có bản ghi, chọn tệp âm thanh trên thiết bị để luyện bài này.</p>
         <input type="file" accept="audio/*" aria-label="Chọn file nghe" className="max-w-full text-sm" onChange={(e) => { const f = e.target.files?.[0]; if (f) setUploadedAudio(URL.createObjectURL(f)) }} />
         {uploadedAudio && <audio controls src={uploadedAudio} className="mt-3 w-full" />}
       </PageSection>}
 
       {paper.sections.map((section) => <div key={section.title} className="space-y-3">
-        <PageSection title={section.title}>
+        {paper.audio && !section.audio ? <h3 className="rounded-lg border-l-4 border-primary bg-primary-soft px-4 py-2 font-bold">{section.title}</h3> : <PageSection title={section.title}>
           {section.audio && <audio controls preload="none" src={`${base}${section.audio}`} className="w-full" aria-label={`Nghe ${section.title}`} />}
-          {!section.audio && !uploadedAudio && <p className="text-sm text-muted-foreground">Chưa có audio cho phần này.</p>}
-        </PageSection>
+          {!paper.audio && !section.audio && !uploadedAudio && <p className="text-sm text-muted-foreground">Chưa có audio cho phần này.</p>}
+        </PageSection>}
         {section.groups.map((group) => <PageSection key={group.title} title={group.title} description={group.instruction}>
           {group.context && <p className="mb-4 rounded-lg bg-muted/50 p-3 text-sm">{group.context}</p>}
           {group.notes ? <div className="rounded-lg border border-border bg-muted/20 px-4 py-3 text-sm">

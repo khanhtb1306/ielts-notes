@@ -18,7 +18,7 @@ export function IfaTestListPage({ skill }: { skill: "reading" | "writing" | "lis
     ? ifaListeningPapers.filter((p) => unlocked || !p.hidden).map((p) => ({
         id: p.id, title: p.title, count: 20,
         time: "~30 phút", topics: p.sections.map((s) => s.title),
-        hasAudio: p.sections.some((s) => s.audio),
+        hasAudio: Boolean(p.audio || p.sections.some((s) => s.audio)),
       }))
     : (isReading ? readingPapers(unlocked) : writingPapers(unlocked)).map((p) => ({
         id: p.id, title: p.title,
