@@ -1,6 +1,6 @@
 import { useState } from "react"
 import { Link } from "react-router-dom"
-import { Volume2, Check, RotateCcw, Save, Lightbulb, Layers, ChevronDown } from "lucide-react"
+import { Volume2, Check, RotateCcw, Save, Lightbulb, Layers, ChevronDown, Sparkles } from "lucide-react"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { cn } from "@/lib/utils"
@@ -15,6 +15,8 @@ interface Props {
   handoutId: string
   questionIndex: number
   question: IfaSpeakingQuestion
+  /** Mark questions supplemented from the Final bank (not an original handout). */
+  supplement?: boolean
 }
 
 const SLOT_DOT: Record<number, string> = {
@@ -23,7 +25,7 @@ const SLOT_DOT: Record<number, string> = {
   3: "bg-slot3",
 }
 
-export function SpeakingQuestionCard({ handoutId, questionIndex, question }: Props) {
+export function SpeakingQuestionCard({ handoutId, questionIndex, question, supplement = false }: Props) {
   const [scenarioIdx, setScenarioIdx] = useState(0)
   const [structIdx, setStructIdx] = useState(0)
   const [chosen, setChosen] = useState<Record<number, IfaPhrase | null>>({})
@@ -67,17 +69,23 @@ export function SpeakingQuestionCard({ handoutId, questionIndex, question }: Pro
             <CardTitle className="content-en text-xl leading-snug">{question.title}</CardTitle>
             {question.vi && <p className="mt-1.5 text-sm text-muted-foreground">{question.vi}</p>}
           </div>
-          {ttsSupported() && (
-            <Button
-              variant="outline"
-              size="icon"
-              aria-label="Đọc câu hỏi"
-              className="shrink-0"
-              onClick={() => speak(question.title.replace(/^\d+\.\s*/, ""))}
-            >
-              <Volume2 className="size-4" />
-            </Button>
-          )}
+          <div className="flex shrink-0 items-center gap-1">
+            {supplement && (
+              <span title="Câu bổ sung từ bộ Final" aria-label="Câu bổ sung" className="flex size-9 items-center justify-center rounded-lg bg-primary-soft text-primary">
+                <Sparkles className="size-4" />
+              </span>
+            )}
+            {ttsSupported() && (
+              <Button
+                variant="outline"
+                size="icon"
+                aria-label="Đọc câu hỏi"
+                onClick={() => speak(question.title.replace(/^\d+\.\s*/, ""))}
+              >
+                <Volume2 className="size-4" />
+              </Button>
+            )}
+          </div>
         </div>
 
         {question.scenarios.length > 1 && (

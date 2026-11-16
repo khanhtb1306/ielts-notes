@@ -1,10 +1,56 @@
 import { ifaSpeakingHandouts, ifaSpeakingDrills } from "@/data/ifa-speaking"
-import type { IfaHandout, IfaStructure, IfaPhrase, IfaScenario, IfaGroup } from "@/types/content"
+import { ifaFinalTopics } from "@/data/ifa-final-speaking"
+import type { IfaHandout, IfaStructure, IfaPhrase, IfaScenario, IfaGroup, IfaFinalTopic } from "@/types/content"
 
 export { ifaSpeakingHandouts, ifaSpeakingDrills }
 
 export function getHandout(id: string): IfaHandout | undefined {
   return ifaSpeakingHandouts.find((h) => h.id === id)
+}
+
+/**
+ * Unified "Theo chủ đề" taxonomy. Lesson handouts come first (Study split into
+ * three audience topics), then the final-only topics are appended. Each topic
+ * carries its final questions + guide and, where a handout exists, the
+ * sentence-builder variants for "Ghép câu".
+ */
+export interface SpeakingTopicEntry {
+  num: number
+  key: string
+  label: string
+  vi: string
+  finalTopic?: IfaFinalTopic
+  handouts: IfaHandout[]
+}
+
+const TOPIC_PLAN: { label: string; vi: string; finalId?: string; handoutIds: string[] }[] = [
+  { label: "Shopping", vi: "Mua sắm", finalId: "shopping", handoutIds: ["dc2"] },
+  { label: "Sports", vi: "Thể thao", finalId: "sports", handoutIds: ["dc3"] },
+  { label: "Study · Học sinh", vi: "Học tập (học sinh)", finalId: "studying", handoutIds: ["dc4hs"] },
+  { label: "Study · Sinh viên", vi: "Học tập (sinh viên)", finalId: "studying", handoutIds: ["dc4uni"] },
+  { label: "Study · Người đi làm", vi: "Học tập (người đi làm)", finalId: "studying", handoutIds: ["dc4work"] },
+  { label: "Transport", vi: "Giao thông", finalId: "transport", handoutIds: ["dc5"] },
+  { label: "Healthy Lifestyles", vi: "Lối sống lành mạnh", finalId: "healthy", handoutIds: ["dc6"] },
+  { label: "Family & Relations", vi: "Gia đình & quan hệ", finalId: "family", handoutIds: ["dc7"] },
+  { label: "Working", vi: "Công việc", finalId: "working", handoutIds: ["dc8student", "dc8work"] },
+  { label: "Films", vi: "Phim ảnh", finalId: "movies", handoutIds: ["dc9"] },
+  { label: "Hometown", vi: "Quê hương", finalId: "hometown", handoutIds: [] },
+  { label: "Friends", vi: "Bạn bè", finalId: "friends", handoutIds: [] },
+  { label: "Hobbies", vi: "Sở thích", finalId: "hobbies", handoutIds: [] },
+  { label: "Tea & Coffee", vi: "Trà & cà phê", finalId: "tea-coffee", handoutIds: [] },
+  { label: "Languages", vi: "Ngôn ngữ", finalId: "languages", handoutIds: [] },
+  { label: "Music", vi: "Âm nhạc", finalId: "music", handoutIds: [] },
+]
+
+export function speakingTopics(): SpeakingTopicEntry[] {
+  return TOPIC_PLAN.map((t, i) => ({
+    num: i + 1,
+    key: `t${i + 1}`,
+    label: t.label,
+    vi: t.vi,
+    finalTopic: t.finalId ? ifaFinalTopics.find((f) => f.id === t.finalId) : undefined,
+    handouts: t.handoutIds.map((id) => getHandout(id)).filter((h): h is IfaHandout => !!h),
+  }))
 }
 
 /** One entry per topic; audience splits (e.g. Study) collapse into `variants`. */

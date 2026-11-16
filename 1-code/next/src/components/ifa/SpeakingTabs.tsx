@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom"
-import { MessageSquare, Shuffle, ClipboardCheck } from "lucide-react"
+import { MessageSquare, Shuffle, Mic } from "lucide-react"
 import { cn } from "@/lib/utils"
 
 /**
@@ -10,7 +10,7 @@ import { cn } from "@/lib/utils"
 const TABS = [
   { to: "/speaking-ifa", label: "Theo chủ đề", icon: MessageSquare, end: true },
   { to: "/speaking-ifa/drill", label: "Phản xạ", icon: Shuffle, end: false },
-  { to: "/final-ifa/speaking", label: "Final", icon: ClipboardCheck, end: false },
+  { to: "/speaking-ifa/practice", label: "Final", icon: Mic, end: false },
 ]
 
 export function SpeakingTabs() {

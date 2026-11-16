@@ -44,8 +44,7 @@ export function BottomNav() {
           // Speaking stays highlighted across its sub-routes (drill, final).
           const active =
             pathname === item.to ||
-            pathname.startsWith(`${item.to}/`) ||
-            (item.to === "/speaking-ifa" && pathname.startsWith("/final-ifa"))
+            pathname.startsWith(`${item.to}/`)
           return (
             <li key={item.to} className="min-w-0 flex-1">
               <NavLink

@@ -1,277 +1,199 @@
-import { useMemo, useRef, useState, type TouchEvent } from "react"
-import { ArrowLeft, ArrowRight, Settings2, Volume2, Trash2 } from "lucide-react"
+import { useMemo, useState } from "react"
+import { ArrowLeft, ArrowRight, Sparkles, Volume2 } from "lucide-react"
 import { Button } from "@/components/ui/button"
-import { cn } from "@/lib/utils"
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { Select } from "@/components/ui/select"
 import { ttsSupported } from "@/lib/tts"
 import { useSpeak } from "@/lib/use-speak"
-import { ifaSpeakingHandouts, handoutTopics } from "@/lib/ifa-speaking"
-import { useIfaSpeaking } from "@/stores/ifa-speaking"
+import { ifaSpeakingHandouts, speakingTopics } from "@/lib/ifa-speaking"
+import { ifaSpeakingSupplements } from "@/content/ifa-speaking-supplements"
 import { SpeakingQuestionCard } from "@/components/ifa/SpeakingQuestionCard"
-import {
-  SpeakingRail,
-  RailSection,
-  RailStrip,
-  RailItem,
-  RailProgress,
-  RailSelect,
-} from "@/components/ifa/SpeakingRail"
-import { OptionsSheet } from "@/components/ifa/OptionsSheet"
 import { SpeakingTabs } from "@/components/ifa/SpeakingTabs"
-import { Select } from "@/components/ui/select"
 import { VariantTabs } from "@/components/ifa/VariantTabs"
-import type { RailSelectOption } from "@/components/ifa/SpeakingRail"
-import type { SavedAnswer } from "@/stores/ifa-speaking"
+import type { IfaFinalQuestion, IfaHandout, IfaSpeakingQuestion } from "@/types/content"
+
+type Item =
+  | { kind: "build"; handout: IfaHandout; index: number; question: IfaSpeakingQuestion }
+  | { kind: "final"; question: IfaFinalQuestion }
+
+/** Normalise a question for dedup: drop a leading "N. ", punctuation and case. */
+function normQuestion(s: string): string {
+  return s.toLowerCase().replace(/^\s*\d+[.)]\s*/, "").replace(/[^a-z0-9]+/g, " ").trim()
+}
+
+// Filler words ignored when matching questions, so "Do you think that you're a
+// good student?" and "Do you think you're a good student?" count as the same.
+const STOP = new Set("do does did you your the a an to that is are am be been it its i my we they them this these those of or and with on why".split(" "))
+
+function coreTokens(s: string): Set<string> {
+  return new Set(normQuestion(s).split(" ").filter((w) => w && !STOP.has(w)))
+}
+
+/** True when the shorter question's core words are fully contained in the other. */
+function sameQuestion(a: Set<string>, b: Set<string>): boolean {
+  const [small, big] = a.size <= b.size ? [a, b] : [b, a]
+  if (small.size < 2) return false
+  for (const w of small) if (!big.has(w)) return false
+  return true
+}
 
 export function IfaSpeakingPage() {
-  const topics = useMemo(() => handoutTopics(), [])
+  const topics = useMemo(() => speakingTopics(), [])
   const [topicKey, setTopicKey] = useState(topics[0]?.key ?? "")
   const [variantIdx, setVariantIdx] = useState(0)
-  const [questionIndex, setQuestionIndex] = useState(0)
-  const swipeStart = useRef<{ x: number; y: number } | null>(null)
+  const [itemIndex, setItemIndex] = useState(0)
 
-  const [sheetOpen, setSheetOpen] = useState(false)
   const topic = topics.find((t) => t.key === topicKey) ?? topics[0]
-  const handout = topic?.variants[variantIdx] ?? topic?.variants[0]
-  const handoutId = handout?.id ?? ""
+  const handout = topic?.handouts[variantIdx] ?? topic?.handouts[0]
 
-  const topicOptions = useMemo<RailSelectOption[]>(
-    () =>
-      topics.map((t) => ({ value: t.key, label: t.topicLabel })),
-    [topics]
-  )
+  // One list per topic: sentence-builder questions first, then only the final
+  // questions that aren't already covered by a handout (dedup by text — the
+  // topic's own questions stay the standard). Same card style for both.
+  const items = useMemo<Item[]>(() => {
+    const out: Item[] = []
+    if (handout) handout.questions.forEach((q, i) => out.push({ kind: "build", handout, index: i, question: q }))
 
-  const savedList = useIfaSpeaking((s) => s.answers)
-  const clearHandout = useIfaSpeaking((s) => s.clearHandout)
+    const covered: Set<string>[] = []
+    for (const h of topic?.handouts ?? []) for (const q of h.questions) covered.push(coreTokens(q.title))
 
-  const saved = useMemo(
-    () =>
-      Object.values(savedList)
-        .filter((a) => a.handoutId === handoutId)
-        .sort((x, y) => x.questionIndex - y.questionIndex),
-    [savedList, handoutId]
-  )
-  const savedIndexes = useMemo(() => new Set(saved.map((a) => a.questionIndex)), [saved])
-
-  function selectTopic(key: string) {
-    setTopicKey(key)
-    setVariantIdx(0)
-    setQuestionIndex(0)
-  }
-
-  function selectVariant(i: number) {
-    setVariantIdx(i)
-    setQuestionIndex(0)
-  }
-
-  function handleTouchStart(event: TouchEvent<HTMLDivElement>) {
-    const touch = event.touches[0]
-    swipeStart.current = touch ? { x: touch.clientX, y: touch.clientY } : null
-  }
-
-  function handleTouchEnd(event: TouchEvent<HTMLDivElement>) {
-    const start = swipeStart.current
-    const touch = event.changedTouches[0]
-    swipeStart.current = null
-    if (!start || !touch || !handout) return
-
-    const dx = touch.clientX - start.x
-    const dy = touch.clientY - start.y
-    // Ignore short gestures and normal vertical page scrolling.
-    if (Math.abs(dx) < 55 || Math.abs(dx) <= Math.abs(dy) * 1.25) return
-
-    if (dx < 0) {
-      setQuestionIndex((i) => Math.min(i + 1, handout.questions.length - 1))
-    } else {
-      setQuestionIndex((i) => Math.max(i - 1, 0))
+    if (topic?.finalTopic) {
+      for (const q of topic.finalTopic.questions) {
+        const core = coreTokens(q.q)
+        if (covered.some((c) => sameQuestion(core, c))) continue
+        out.push({ kind: "final", question: q })
+      }
     }
-  }
+    return out
+  }, [handout, topic])
 
-  if (!ifaSpeakingHandouts.length) {
+  if (!ifaSpeakingHandouts.length && !topics.length) {
     return (
       <div className="rounded-xl border border-border bg-card p-8 text-center">
         <h2 className="text-xl font-semibold">Chưa có dữ liệu Speaking IFA</h2>
-        <p className="mt-2 text-muted-foreground">Chạy lại preprocess sau khi thêm handout.</p>
+        <p className="mt-2 text-muted-foreground">Chạy lại preprocess sau khi thêm nội dung.</p>
       </div>
     )
   }
 
-  const savedPanel = handout ? (
-    <SavedAnswersPanel
-      topicLabel={handout.topicLabel}
-      saved={saved}
-      onClear={() => clearHandout(handoutId)}
-    />
-  ) : null
+  function selectTopic(key: string) {
+    setTopicKey(key)
+    setVariantIdx(0)
+    setItemIndex(0)
+  }
+
+  const topicOptions = topics.map((t) => ({ value: t.key, label: `${t.num}. ${t.label}` }))
+  const topicPos = topics.findIndex((t) => t.key === topic?.key)
+  const idx = Math.min(itemIndex, Math.max(items.length - 1, 0))
+  const item = items[idx]
 
   return (
     <div data-toc-skip>
       <SpeakingTabs />
-      <div className="lg:flex lg:items-start lg:gap-6 2xl:gap-8">
-        <SpeakingRail>
-          <RailSection title="Chủ đề">
-            {/* Dropdown keeps the rail a fixed height as more lessons ship. */}
-            <RailSelect id="ifa-topic" value={topic?.key ?? ""} options={topicOptions} onChange={selectTopic} />
-          </RailSection>
 
-          {handout && (
-            <>
-              <RailProgress done={saved.length} total={handout.questions.length} label="đã lưu" />
-
-              <RailSection title="Câu hỏi">
-                <RailStrip>
-                  {handout.questions.map((q, i) => {
-                    const isSaved = savedIndexes.has(i)
-                    return (
-                      <RailItem
-                        key={i}
-                        active={i === questionIndex}
-                        onClick={() => setQuestionIndex(i)}
-                        title={isSaved ? `${q.title} — đã lưu` : q.title}
-                        className={cn(
-                          isSaved &&
-                            i !== questionIndex &&
-                            "border-success/50 text-success"
-                        )}
-                        trailing={
-                          isSaved ? (
-                            <span className="size-2 shrink-0 rounded-full bg-success" aria-hidden />
-                          ) : undefined
-                        }
-                      >
-                        <span className="tabular-nums">{i + 1}.</span>
-                        {/* Preview only helps once the rail is a vertical list. */}
-                        <span className="content-en ml-1.5 hidden font-medium lg:inline">
-                          {stripNumber(q.title)}
-                        </span>
-                      </RailItem>
-                    )
-                  })}
-                </RailStrip>
-              </RailSection>
-            </>
-          )}
-        </SpeakingRail>
-
-        {/* Mobile control bar + options sheet. Hidden from lg. */}
-        <div className="mb-4 flex items-center gap-2 lg:hidden">
-          <Select
-            id="ifa-topic-m"
-            className="flex-1"
-            value={topic?.key ?? ""}
-            options={topicOptions}
-            onChange={selectTopic}
-          />
-          {handout && (
-            <div className="flex items-center gap-1 rounded-lg border border-input bg-card px-1">
-              <Button variant="ghost" size="icon" disabled={questionIndex === 0} onClick={() => setQuestionIndex((i) => i - 1)} aria-label="Câu trước"><ArrowLeft className="size-4" /></Button>
-              <span className="min-w-[3ch] text-center text-sm font-semibold tabular-nums">{questionIndex + 1}/{handout.questions.length}</span>
-              <Button variant="ghost" size="icon" disabled={questionIndex >= handout.questions.length - 1} onClick={() => setQuestionIndex((i) => i + 1)} aria-label="Câu tiếp"><ArrowRight className="size-4" /></Button>
-            </div>
-          )}
-          <Button variant="outline" size="icon" aria-label="Tùy chọn" onClick={() => setSheetOpen(true)}><Settings2 className="size-4" /></Button>
+      {/* Topic picker + prev/next */}
+      <div className="mb-4 flex items-center gap-2">
+        <Select id="ifa-topic" className="flex-1" value={topic?.key ?? ""} options={topicOptions} onChange={selectTopic} />
+        <div className="flex items-center gap-1 rounded-lg border border-input bg-card px-1">
+          <Button variant="ghost" size="icon" disabled={topicPos <= 0} onClick={() => selectTopic(topics[topicPos - 1].key)} aria-label="Chủ đề trước"><ArrowLeft className="size-4" /></Button>
+          <span className="min-w-[3ch] text-center text-sm font-semibold tabular-nums">{topicPos + 1}/{topics.length}</span>
+          <Button variant="ghost" size="icon" disabled={topicPos >= topics.length - 1} onClick={() => selectTopic(topics[topicPos + 1].key)} aria-label="Chủ đề tiếp"><ArrowRight className="size-4" /></Button>
         </div>
-
-        <OptionsSheet open={sheetOpen} onClose={() => setSheetOpen(false)}>
-          {handout && <RailProgress done={saved.length} total={handout.questions.length} label="đã lưu" />}
-        </OptionsSheet>
-
-        {handout && (
-          <div className="min-w-0 flex-1 space-y-5">
-            <div className="hidden flex-wrap items-baseline gap-x-2 gap-y-1 lg:flex">
-              <p className="text-lg font-bold tracking-tight">{handout.topicLabel}</p>
-              {handout.grammarFocus && (
-                <span className="inline-flex items-center gap-1.5 rounded-md bg-primary-soft px-2 py-1 text-xs font-semibold text-primary">
-                  Trọng tâm: {handout.grammarFocus}
-                </span>
-              )}
-            </div>
-
-            {/* Audience splits become tabs here instead of extra rail entries. */}
-            {topic && (
-              <VariantTabs
-                labels={topic.variants.map((v, i) => v.audienceLabel || `Bản ${i + 1}`)}
-                active={variantIdx}
-                onSelect={selectVariant}
-              />
-            )}
-
-            {handout.questions[questionIndex] && (
-              <div
-                className="touch-pan-y"
-                onTouchStart={handleTouchStart}
-                onTouchEnd={handleTouchEnd}
-              >
-                <SpeakingQuestionCard
-                  key={`${handoutId}-${questionIndex}`}
-                  handoutId={handoutId}
-                  questionIndex={questionIndex}
-                  question={handout.questions[questionIndex]}
-                />
-              </div>
-            )}
-
-            {/* Below 2xl the saved answers stay at the end of the working column. */}
-            <div className="2xl:hidden">{savedPanel}</div>
-          </div>
-        )}
-
-        {saved.length > 0 && (
-          <aside className="hidden w-[280px] shrink-0 self-start 2xl:sticky 2xl:top-6 2xl:block 2xl:max-h-[calc(100vh-3rem)] 2xl:overflow-y-auto">
-            {savedPanel}
-          </aside>
-        )}
       </div>
+
+      {/* Audience variants (e.g. Working: học sinh / người đi làm) */}
+      {(topic?.handouts.length ?? 0) > 1 && (
+        <div className="mb-4">
+          <VariantTabs
+            labels={topic!.handouts.map((h, i) => h.audienceLabel || `Bản ${i + 1}`)}
+            active={variantIdx}
+            onSelect={(i) => { setVariantIdx(i); setItemIndex(0) }}
+          />
+        </div>
+      )}
+
+      {items.length > 0 && (
+        <>
+          <div className="mb-4 flex items-center justify-between gap-2">
+            <Button variant="outline" size="sm" disabled={idx === 0} onClick={() => setItemIndex(idx - 1)}><ArrowLeft className="size-4" /> Câu trước</Button>
+            <span className="text-sm font-semibold tabular-nums">{idx + 1}/{items.length}</span>
+            <Button variant="outline" size="sm" disabled={idx >= items.length - 1} onClick={() => setItemIndex(idx + 1)}>Câu tiếp <ArrowRight className="size-4" /></Button>
+          </div>
+
+          {item?.kind === "build" && (
+            <SpeakingQuestionCard
+              key={`${item.handout.id}-${item.index}`}
+              handoutId={item.handout.id}
+              questionIndex={item.index}
+              question={item.question}
+            />
+          )}
+
+          {item?.kind === "final" && (() => {
+            const sup = ifaSpeakingSupplements[item.question.id]
+            if (sup) return <SpeakingQuestionCard key={item.question.id} handoutId={`sup-${item.question.id}`} questionIndex={0} question={{ ...sup, title: `${idx + 1}. ${sup.title}` }} supplement />
+            return <FinalGuideFallback key={item.question.id} question={item.question} num={idx + 1} />
+          })()}
+        </>
+      )}
     </div>
   )
 }
 
-function stripNumber(title: string): string {
-  return title.replace(/^\d+\.\s*/, "")
-}
-
-function SavedAnswersPanel({
-  topicLabel,
-  saved,
-  onClear,
-}: {
-  topicLabel: string
-  saved: SavedAnswer[]
-  onClear: () => void
-}) {
+/**
+ * Fallback for supplemented Final questions not yet authored into the builder
+ * shape — shows the read-only guide so the topic still works while we author
+ * them one by one. Same card style; marked with the supplement icon.
+ */
+function FinalGuideFallback({ question, num }: { question: IfaFinalQuestion; num: number }) {
   const speak = useSpeak()
-  if (!saved.length) return null
-
   return (
-    <div className="rounded-xl border border-border bg-card shadow-card">
-      <div className="flex items-center justify-between gap-2 border-b border-border px-4 py-2.5">
-        <p className="min-w-0 truncate text-sm font-bold" title={`Bài làm của tôi — ${topicLabel}`}>
-          Bài làm của tôi
-        </p>
-        <Button variant="ghost" size="sm" className="shrink-0" onClick={onClear}>
-          <Trash2 className="size-4" /> Xóa hết
-        </Button>
-      </div>
-      <div className="space-y-3 p-3">
-        {saved.map((a) => (
-          <div key={a.questionIndex} className="rounded-lg border border-border bg-muted/30 p-3">
-            <div className="flex items-start justify-between gap-2">
-              <p className="content-en text-sm font-bold text-muted-foreground">{a.title}</p>
-              {ttsSupported() && (
-                <Button
-                  variant="ghost"
-                  size="icon"
-                  className="shrink-0"
-                  aria-label="Đọc câu trả lời"
-                  onClick={() => speak(a.answer)}
-                >
-                  <Volume2 className="size-4" />
-                </Button>
-              )}
-            </div>
-            <p className="content-en mt-1.5 text-[15px] leading-relaxed">{a.answer}</p>
+    <Card>
+      <CardHeader className="gap-2">
+        <div className="flex items-start justify-between gap-3">
+          <div className="min-w-0">
+            <CardTitle className="content-en text-xl leading-snug">{num}. {question.q}</CardTitle>
+            <p className="mt-1 text-sm text-muted-foreground">{question.vi}</p>
           </div>
-        ))}
-      </div>
-    </div>
+          <div className="flex shrink-0 items-center gap-1">
+            <span title="Câu bổ sung từ bộ Final" aria-label="Câu bổ sung" className="flex size-9 items-center justify-center rounded-lg bg-primary-soft text-primary"><Sparkles className="size-4" /></span>
+            {ttsSupported() && (
+              <Button variant="outline" size="icon" aria-label="Nghe câu hỏi" onClick={() => speak(question.q)}><Volume2 className="size-4" /></Button>
+            )}
+          </div>
+        </div>
+      </CardHeader>
+      <CardContent className="space-y-4">
+        <div className="flex flex-wrap items-center justify-between gap-2 rounded-lg bg-primary-soft px-3 py-2.5">
+          <h4 className="text-sm font-bold text-primary">Khung trả lời gợi ý</h4>
+          <span className="rounded-full bg-primary-soft px-2.5 py-0.5 text-[11px] font-semibold text-primary">Từ {question.source}</span>
+        </div>
+        <div className="divide-y divide-border border-y border-border">
+          {question.guide.map((point, i) => (
+            <div key={i} className="py-4 first:pt-3 last:pb-3">
+              <h4 className="text-sm font-semibold leading-relaxed">
+                <span className="mr-1.5 inline-flex size-5 items-center justify-center rounded-full bg-primary text-[11px] font-bold text-primary-foreground">{i + 1}</span>
+                {point.idea}
+              </h4>
+              <div className="mt-2 divide-y divide-border/70 overflow-hidden rounded-lg border border-border sm:grid sm:grid-cols-2 sm:divide-x sm:divide-y-0">
+                {point.phrases.map(({ en, vi, ipa }, j) => (
+                  <div key={j} className="flex min-h-16 items-start justify-between gap-2 px-3 py-2.5 text-sm transition-colors hover:bg-muted/40">
+                    <div className="min-w-0">
+                      <p className="content-en font-semibold">{en}</p>
+                      {ipa && <p className="ipa mt-0.5 text-xs text-primary">/{ipa}/</p>}
+                      <p className="mt-1 text-xs text-muted-foreground">{vi}</p>
+                    </div>
+                    {ttsSupported() && (
+                      <button type="button" aria-label={`Nghe: ${en}`} onClick={() => speak(en)} className="shrink-0 rounded-md p-1.5 text-muted-foreground transition-colors hover:bg-background hover:text-primary">
+                        <Volume2 className="size-4" />
+                      </button>
+                    )}
+                  </div>
+                ))}
+              </div>
+            </div>
+          ))}
+        </div>
+      </CardContent>
+    </Card>
   )
 }

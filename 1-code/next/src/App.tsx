@@ -10,7 +10,7 @@ const FinalPage = lazy(() => import("@/pages/FinalPage").then((m) => ({ default:
 const IfaSpeakingPage = lazy(() => import("@/pages/IfaSpeakingPage").then((m) => ({ default: m.IfaSpeakingPage })))
 const IfaSpeakingDrillPage = lazy(() => import("@/pages/IfaSpeakingDrillPage").then((m) => ({ default: m.IfaSpeakingDrillPage })))
 const IfaVocabPage = lazy(() => import("@/pages/IfaVocabPage").then((m) => ({ default: m.IfaVocabPage })))
-const IfaFinalSpeakingPage = lazy(() => import("@/pages/IfaFinalSpeakingPage").then((m) => ({ default: m.IfaFinalSpeakingPage })))
+const IfaSpeakingPracticePage = lazy(() => import("@/pages/IfaSpeakingPracticePage").then((m) => ({ default: m.IfaSpeakingPracticePage })))
 const IfaGrammarPage = lazy(() => import("@/pages/IfaGrammarPage").then((m) => ({ default: m.IfaGrammarPage })))
 const IfaReadingPage = lazy(() => import("@/pages/IfaReadingPage").then((m) => ({ default: m.IfaReadingPage })))
 const IfaWritingPage = lazy(() => import("@/pages/IfaWritingPage").then((m) => ({ default: m.IfaWritingPage })))
@@ -31,6 +31,7 @@ export default function App() {
             <Route path="/speaking" element={<NotesPage type="speaking" />} />
             <Route path="/speaking-ifa" element={<IfaSpeakingPage />} />
             <Route path="/speaking-ifa/drill" element={<IfaSpeakingDrillPage />} />
+            <Route path="/speaking-ifa/practice" element={<IfaSpeakingPracticePage />} />
             <Route path="/listening-ifa" element={<IfaTestListPage skill="listening" />} />
             <Route path="/listening-ifa/:paperId" element={<IfaListeningPage />} />
             <Route path="/reading-ifa" element={<IfaTestListPage skill="reading" />} />
@@ -39,7 +40,6 @@ export default function App() {
             <Route path="/writing-ifa/:paperId" element={<IfaWritingPage />} />
             <Route path="/vocab-ifa" element={<IfaVocabPage />} />
             <Route path="/grammar-ifa" element={<IfaGrammarPage />} />
-            <Route path="/final-ifa/speaking" element={<IfaFinalSpeakingPage />} />
             <Route path="/final" element={<FinalPage />} />
             <Route path="/practice/runner/:sessionId" element={<PracticeRunnerPage />} />
             <Route path="/practice/result/:sessionId" element={<PracticeResultPage />} />

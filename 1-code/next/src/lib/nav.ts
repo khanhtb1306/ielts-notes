@@ -74,13 +74,13 @@ export const SUB_ROUTES: NavItem[] = [
     subtitle: "Câu hỏi ngẫu nhiên — trả lời ngay, không nhìn script",
   },
   {
-    to: "/final-ifa/speaking",
+    to: "/speaking-ifa/practice",
     label: "Final Speaking",
     icon: ClipboardCheck,
     eyebrow: "IELTS Foundation A · Thi cuối khóa",
     title: "Final Speaking — IELTS Foundation A",
     shortTitle: "Final Speaking",
-    subtitle: "Bộ câu hỏi giáo viên · luyện nói mỗi ngày",
+    subtitle: "Đọc lại câu trả lời đã soạn · chấm độ khớp",
   },
   {
     to: "/practice/runner",
@@ -125,7 +125,6 @@ const GROUP_PREFIXES: Record<string, string> = {
   "/listening-ifa": "ifa-ielts",
   "/reading-ifa": "ifa-ielts",
   "/writing-ifa": "ifa-ielts",
-  "/final-ifa": "ifa-ielts",
   "/vocab-ifa": "ifa-ielts",
   "/grammar-ifa": "ifa-ielts",
   "/practice": "pre-ielts",
