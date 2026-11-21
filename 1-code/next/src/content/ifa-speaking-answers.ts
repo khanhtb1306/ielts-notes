@@ -3,13 +3,13 @@
 // after the device is unlocked (Settings → key). Never bundled into the
 // visible lesson content; gated exactly like the hidden practice papers.
 export const ifaSpeakingAnswers: Record<string, string> = {
-  "studying-01": "I'm currently studying English at LangGo in Hanoi. I want to improve my English skills because English is important for my job. It also helps me get better job opportunities.",
-  "studying-02": "My major was Software Engineering at FPT University. I chose this major because I am interested in technology. I also enjoy solving problems and developing software.",
-  "studying-03": "One thing I don't like is the heavy workload. I sometimes have a lot of homework after a long day at work. It is difficult for me to balance work and study.",
-  "studying-04": "Yes, I think so. I always pay attention in class and complete my homework on time. I also try to review my lessons in my free time.",
-  "studying-05": "I prefer studying alone because I can concentrate better. I can also study at my own pace and spend more time on difficult lessons.",
-  "studying-06": "I never play truant because studying is important to me. I always try to attend all my classes. If I miss a class, I try to catch up on my lessons.",
-  "studying-07": "Yes, I think so. I can pick up new skills quickly, especially in technology. I also use AI tools to learn new things and solve problems.",
+  "studying-01": "I graduated from FPT University, and I'm currently studying English at LangGo in Hanoi. I want to improve my English skills because I hope to work for an international company in the future.",
+  "studying-02": "My major was Software Engineering. I chose this major because I enjoy working with computers, and it helps me earn a good living.",
+  "studying-03": "Yes, one thing I didn't like about my university was the heavy workload. I had a lot of assignments, and I often had to stay up late to finish them.",
+  "studying-04": "Yes, I think so. I always pay attention in class, and I study hard every day.",
+  "studying-05": "I prefer to study alone because it's quiet, and I can focus better.",
+  "studying-06": "I never skip my classes. If I miss a lesson, I study it later.",
+  "studying-07": "Yes, I think so. I learn new things quickly, and I often use AI tools to help me learn.",
 
   "working-01": "I work as a software developer at an IT company in Hanoi. I decided to pursue a career in IT because I am interested in technology. Besides, this job helps me earn a good living.",
   "working-02": "Sometimes, I have a heavy workload, and I have to work under pressure. I also have to work overtime to meet deadlines. This makes it difficult to maintain a good work-life balance.",
