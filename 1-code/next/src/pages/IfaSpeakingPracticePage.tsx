@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react"
-import { Check, CheckCircle2, ChevronDown, Circle, Clock3, Eye, EyeOff, Lightbulb, Mic, Play, Quote, RotateCcw, Square, Volume2, X } from "lucide-react"
+import { Check, CheckCircle2, ChevronDown, Circle, ClipboardCheck, ClipboardCopy, Clock3, Eye, EyeOff, Lightbulb, Mic, Play, Quote, RotateCcw, Square, Volume2, X } from "lucide-react"
 import { useSpeak } from "@/lib/use-speak"
 import { ttsSupported } from "@/lib/tts"
 import { diffWords, tokenize } from "@/lib/speech-diff"
@@ -77,8 +77,26 @@ type SpeechRecognitionConstructor = new () => SpeechRecognitionLike
 export function IfaSpeakingPracticePage() {
   const [selectedByTopic, setSelectedByTopic] = useState<Record<string, number>>({})
   const [showQuestionText, setShowQuestionText] = useState(false)
+  const [copied, setCopied] = useState(false)
   const progress = useIfaFinalSpeaking((s) => s.progress)
   const unlocked = useUnlock((s) => s.unlocked)
+
+  // Copy every current answer (edits win, otherwise the unlocked private set) as
+  // JSON so it can be pasted back from a phone where in-field copy is awkward.
+  async function copyAllAnswers() {
+    const out: Record<string, string> = {}
+    for (const q of allFinalQuestions) {
+      const text = resolveAnswer(q.id, progress[q.id]?.answer, unlocked).trim()
+      if (text) out[q.id] = text
+    }
+    try {
+      await navigator.clipboard.writeText(JSON.stringify(out, null, 2))
+      setCopied(true)
+      window.setTimeout(() => setCopied(false), 1600)
+    } catch {
+      /* clipboard blocked */
+    }
+  }
 
   const topics = useMemo(() => ifaFinalTopics.filter((t) => t.questions.length > 0), [])
 
@@ -371,6 +389,19 @@ export function IfaSpeakingPracticePage() {
           </div>
         </div>
       )}
+
+      {/* FAB copy — sao chép toàn bộ đáp án đã soạn */}
+      <button
+        type="button"
+        onClick={copyAllAnswers}
+        title="Copy toàn bộ đáp án"
+        className={
+          "fixed bottom-[13.5rem] right-6 z-40 flex h-14 w-14 items-center justify-center rounded-full shadow-lg transition-all hover:scale-105 active:scale-95 md:bottom-[10.5rem] " +
+          (copied ? "bg-emerald-500 text-white" : "bg-card border border-border text-primary hover:bg-primary hover:text-primary-foreground")
+        }
+      >
+        {copied ? <ClipboardCheck className="h-6 w-6" /> : <ClipboardCopy className="h-6 w-6" />}
+      </button>
 
       {/* FAB mic */}
       <button

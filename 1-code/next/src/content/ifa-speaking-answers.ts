@@ -11,13 +11,13 @@ export const ifaSpeakingAnswers: Record<string, string> = {
   "studying-06": "I never skip my classes. If I miss a lesson, I study it later.",
   "studying-07": "Yes, I think so. I learn new things quickly, and I often use AI tools to help me learn.",
 
-  "working-01": "I work as a software developer at an IT company in Hanoi. I decided to pursue a career in IT because I am interested in technology. Besides, this job helps me earn a good living.",
-  "working-02": "Sometimes, I have a heavy workload, and I have to work under pressure. I also have to work overtime to meet deadlines. This makes it difficult to maintain a good work-life balance.",
-  "working-03": "Yes, I think so. When I have a heavy workload, I usually make a plan and prioritise important tasks. I also try to manage my time effectively to meet deadlines.",
+  "working-01": "I am a software engineer at FPT IS in Hanoi. I develop applications for businesses. My dream job is to become a senior software engineer at an international company because I want to improve my skills and knowledge and earn more money.\nSometimes, I have a heavy workload, so I have to work overtime to meet deadlines. This makes it difficult to maintain a good work-life balance.\nHowever, I think I can work well under pressure because I usually make a plan and prioritise important tasks. I also try to manage my time effectively.",
+  "working-02": "Sometimes, I have a heavy workload, so I have to work overtime to meet deadlines. This makes it difficult to maintain a good work-life balance.",
+  "working-03": "Yes, I think I can work well under pressure because I usually make a plan and prioritise important tasks. I also try to manage my time effectively.",
 
-  "hometown-01": "I come from Nga Son, which is in Thanh Hoa Province. My hometown is known for Tu Thuc Cave and its beautiful natural scenery. It is also a peaceful place with friendly people.",
-  "hometown-02": "What I like most about my hometown is the peaceful atmosphere. I can enjoy fresh air and relieve stress when I go back home. I also have more opportunities to spend time with my family.",
-  "hometown-03": "There are not many job opportunities in my hometown, especially in IT. There are also fewer entertainment facilities than in big cities. That is why I moved to Hanoi to work.",
+  "hometown-01": "I come from Thanh Hoa Province, which is in the north-central part of Vietnam. It has many beautiful places and delicious food.",
+  "hometown-02": "What I like about my hometown is the people and the food. The people are very friendly, and the food is very delicious.",
+  "hometown-03": "What I don't like about my hometown is the weather because it is very hot in the summer. I often feel tired and don't want to go outside.",
   "hometown-04": "Young people often hang out at coffee shops. They usually drink coffee and talk about their daily lives. Some of them also play sports together at local sports centres.",
 
   "transport-01": "The traffic in Hanoi is very heavy, especially during rush hour. People often get stuck in traffic jams. This wastes a lot of time and causes air pollution.",
