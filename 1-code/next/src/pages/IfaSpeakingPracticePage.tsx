@@ -478,7 +478,7 @@ function TopicSection({
         </div>
 
         {selected ? (
-          <QuestionDetail question={selected} unlocked={unlocked} showQuestionText={showQuestionText} />
+          <QuestionDetail question={selected} unlocked={unlocked} />
         ) : (
           <section className="relative flex min-h-56 items-center justify-center overflow-hidden bg-card p-6 text-center">
             <p className="max-w-xs text-sm text-muted-foreground">Chọn một câu hỏi bên trái để soạn và luyện câu trả lời.</p>
@@ -489,7 +489,7 @@ function TopicSection({
   )
 }
 
-function QuestionDetail({ question, unlocked, showQuestionText }: { question: IfaFinalQuestion; unlocked: boolean; showQuestionText: boolean }) {
+function QuestionDetail({ question, unlocked }: { question: IfaFinalQuestion; unlocked: boolean }) {
   const speak = useSpeak()
   const saveAnswer = useIfaFinalSpeaking((s) => s.saveAnswer)
   const setConfidence = useIfaFinalSpeaking((s) => s.setConfidence)
@@ -505,8 +505,8 @@ function QuestionDetail({ question, unlocked, showQuestionText }: { question: If
       <div className="border-b border-border bg-muted/20 px-4 py-3">
         <div className="flex items-start justify-between gap-2">
           <div className="min-w-0">
-            <h3 className="content-en text-lg font-bold leading-snug">{showQuestionText ? question.q : "Câu hỏi đang ẩn — bấm con mắt để hiện"}</h3>
-            {showQuestionText && <p className="mt-1 text-sm text-muted-foreground">{question.vi}</p>}
+            <h3 className="content-en text-lg font-bold leading-snug">{question.q}</h3>
+            <p className="mt-1 text-sm text-muted-foreground">{question.vi}</p>
           </div>
           <div className="flex shrink-0 items-center gap-1">
             <button
