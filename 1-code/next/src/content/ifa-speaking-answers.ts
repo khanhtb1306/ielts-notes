@@ -22,11 +22,11 @@ export const ifaSpeakingAnswers: Record<string, string> = {
 
   "transport-01": "The traffic in Hanoi is very heavy, especially during rush hour. People often get stuck in traffic jams. This wastes a lot of time and causes air pollution.",
   "transport-02": "My favourite mode of transport is the motorbike because it is convenient. I usually use it to commute to work. It also helps me move through narrow streets easily.",
-  "transport-03": "I rarely use public transport because I usually travel by motorbike. However, I sometimes take a bus when I travel long distances. Public transport is a good way to save money.",
-  "transport-04": "I prefer private transport because it is more convenient. I can travel anywhere without having to wait for a bus. It also helps me save time when I go to work.",
+  "transport-03": "I rarely use public transport because I usually travel by motorbike. However, I sometimes take it because it helps me save money.",
+  "transport-04": "I prefer private transport because it is more convenient. It helps me move through narrow streets easily and saves time when I go to work.",
   "transport-05": "I often get stuck in traffic jams when I go home after work. The traffic is especially heavy during rush hour. Sometimes, I take a shortcut to save time.",
-  "transport-06": "Most people in Hanoi travel by motorbike because it is convenient and affordable. Motorbikes are suitable for daily travel in the city. They can also help people move through traffic more easily.",
-  "transport-07": "I think electric vehicles will become more popular in the future. They are environmentally friendly, and they help reduce air pollution. They can also help people save money on fuel.",
+  "transport-06": "Most people in Hanoi travel by motorbike because it is convenient and cheap. They use motorbikes every day to go to work or school. Motorbikes also help them move through traffic easily.",
+  "transport-07": "I think electric vehicles will be the most popular in the future. They are good for the environment and help reduce air pollution. They also help people save money on fuel.",
 
   "shopping-01": "Yes, I do. I usually go shopping for clothes and electronic devices. Shopping helps me relax, and I can buy useful things for my daily life.",
   "shopping-02": "I prefer shopping online because it helps me save time. I can buy things at home without having to travel. I can also compare prices easily.",
