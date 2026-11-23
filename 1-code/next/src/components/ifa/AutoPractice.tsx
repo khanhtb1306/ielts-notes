@@ -21,12 +21,28 @@ const RATES = [
 const TIMES = [15, 30, 45, 60]
 
 interface SRLike {
-  lang: string; continuous: boolean; interimResults: boolean
+  lang: string; continuous: boolean; interimResults: boolean; maxAlternatives?: number
   onresult: ((e: { results: ArrayLike<ArrayLike<{ transcript?: string }> & { isFinal: boolean }> }) => void) | null
   onerror: (() => void) | null; onend: (() => void) | null
   start: () => void; abort: () => void
 }
 type SRCtor = new () => SRLike
+
+/** Join two chunks, trimming an overlap at the seam (Safari/Chrome re-emit the tail on restart). */
+function joinNoOverlap(base: string, next: string) {
+  if (!base) return next
+  if (!next) return base
+  const key = (s: string) => s.toLowerCase().replace(/[^a-z0-9']+/g, "")
+  const a = base.split(/\s+/)
+  const b = next.split(/\s+/)
+  const max = Math.min(8, a.length, b.length)
+  for (let k = max; k > 0; k--) {
+    const tail = a.slice(a.length - k).map(key).join(" ")
+    const head = b.slice(0, k).map(key).join(" ")
+    if (tail && tail === head) return [...a, ...b.slice(k)].join(" ")
+  }
+  return `${base} ${next}`
+}
 
 /**
  * Hands-free practice over the Final questions. Two modes:
@@ -59,6 +75,10 @@ export function AutoPractice({ open, onClose, getAnswer }: {
   const runningRef = useRef(false)
   const timerRef = useRef<number | null>(null)
   const recRef = useRef<SRLike | null>(null)
+  const recActiveRef = useRef(false)
+  const recBaseRef = useRef("")
+  const recMergedRef = useRef("")
+  const recRestartRef = useRef<number | null>(null)
 
   useEffect(() => () => hardStop(), [])
   useEffect(() => { if (!open) hardStop() }, [open])
@@ -67,8 +87,7 @@ export function AutoPractice({ open, onClose, getAnswer }: {
     runningRef.current = false
     if (timerRef.current) { window.clearInterval(timerRef.current); window.clearTimeout(timerRef.current); timerRef.current = null }
     try { window.speechSynthesis?.cancel() } catch { /* ignore */ }
-    recRef.current?.abort()
-    recRef.current = null
+    stopRecognition()
     setRunning(false)
     setRemaining(0)
   }
@@ -118,28 +137,66 @@ export function AutoPractice({ open, onClose, getAnswer }: {
     })
   }
 
-  function startRecognition() {
+  function destroyRec(r: SRLike | null) {
+    if (!r) return
+    r.onresult = null; r.onerror = null; r.onend = null
+    try { r.abort() } catch { /* ignore */ }
+  }
+
+  function createRec() {
     const w = window as Window & { SpeechRecognition?: SRCtor; webkitSpeechRecognition?: SRCtor }
     const Ctor = w.SpeechRecognition || w.webkitSpeechRecognition
-    if (!Ctor) { setError("Trình duyệt chưa hỗ trợ ghi âm. Hãy dùng Chrome hoặc Edge."); return }
+    if (!Ctor) { setError("Trình duyệt chưa hỗ trợ ghi âm. Hãy dùng Chrome hoặc Edge."); recActiveRef.current = false; return }
     const r = new Ctor()
-    r.lang = "en-GB"; r.continuous = true; r.interimResults = true
+    r.lang = "en-GB"; r.continuous = true; r.interimResults = true; r.maxAlternatives = 1
+    // Rebuild this instance's final text from scratch each event (idempotent, no
+    // duplication), then stitch it onto text finalised by previous instances.
     r.onresult = (e) => {
-      let out = ""
+      if (recRef.current !== r) return
+      let finalText = ""
+      let interim = ""
       for (let i = 0; i < e.results.length; i++) {
-        const t = e.results[i][0]?.transcript?.trim() ?? ""
-        if (t) out += (out ? " " : "") + t
+        const res = e.results[i]
+        const t = res[0]?.transcript?.trim() ?? ""
+        if (!t) continue
+        if (res.isFinal) finalText += (finalText ? " " : "") + t
+        else interim += (interim ? " " : "") + t
       }
-      setTranscript(out)
+      const merged = joinNoOverlap(recBaseRef.current, finalText)
+      recMergedRef.current = merged
+      setTranscript((merged + " " + interim).trim())
     }
     r.onerror = null
-    r.onend = null
+    r.onend = () => {
+      if (recRef.current !== r) return
+      if (!recActiveRef.current) return
+      // Safari auto-ends after a pause — bank the text and restart within the window.
+      recBaseRef.current = recMergedRef.current
+      recRef.current = null
+      destroyRec(r)
+      if (recRestartRef.current) window.clearTimeout(recRestartRef.current)
+      recRestartRef.current = window.setTimeout(() => { recRestartRef.current = null; if (recActiveRef.current) createRec() }, 120)
+    }
     recRef.current = r
-    setTranscript("")
     try { r.start() } catch { /* already running */ }
   }
 
-  function stopRecognition() { recRef.current?.abort(); recRef.current = null }
+  function startRecognition() {
+    recActiveRef.current = true
+    recBaseRef.current = ""
+    recMergedRef.current = ""
+    setTranscript("")
+    setError("")
+    createRec()
+  }
+
+  function stopRecognition() {
+    recActiveRef.current = false
+    if (recRestartRef.current) { window.clearTimeout(recRestartRef.current); recRestartRef.current = null }
+    const r = recRef.current
+    recRef.current = null
+    destroyRec(r)
+  }
 
   async function start() {
     const items: Item[] = []
