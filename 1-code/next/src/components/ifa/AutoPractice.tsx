@@ -20,6 +20,13 @@ const RATES = [
 ]
 const TIMES = [15, 30, 45, 60]
 
+/** Auto speaking window: time to read the answer at the chosen rate, plus 5s. */
+function estimateSeconds(answer: string, rate: number) {
+  const words = answer.trim() ? answer.trim().split(/\s+/).length : 25
+  const wps = 2.6 * rate // ~156 wpm at 1x
+  return Math.max(8, Math.round(words / wps) + 5)
+}
+
 interface SRLike {
   lang: string; continuous: boolean; interimResults: boolean; maxAlternatives?: number
   onresult: ((e: { results: ArrayLike<ArrayLike<{ transcript?: string }> & { isFinal: boolean }> }) => void) | null
@@ -61,6 +68,7 @@ export function AutoPractice({ open, onClose, getAnswer }: {
 
   const [mode, setMode] = useState<Mode>("listen")
   const [rate, setRate] = useState(0.85)
+  const [autoTime, setAutoTime] = useState(true)
   const [seconds, setSeconds] = useState(30)
   const [selected, setSelected] = useState<Set<string>>(new Set(ifaFinalTopics.map((t) => t.id)))
 
@@ -234,7 +242,7 @@ export function AutoPractice({ open, onClose, getAnswer }: {
       } else {
         setPhase("prep")
         startRecognition()
-        await countdown(seconds)
+        await countdown(autoTime ? estimateSeconds(it.answer, rate) : seconds)
         stopRecognition()
         if (!runningRef.current) break
         setPhase("review")
@@ -299,8 +307,10 @@ export function AutoPractice({ open, onClose, getAnswer }: {
                 <section>
                   <h3 className="mb-2 text-xs font-bold uppercase tracking-wide text-primary">Thời gian nói mỗi câu</h3>
                   <div className="flex flex-wrap gap-2">
-                    {TIMES.map((s) => <button key={s} type="button" onClick={() => setSeconds(s)} className={cn("rounded-full border px-3 py-1 text-xs font-semibold", seconds === s ? "border-primary bg-primary text-primary-foreground" : "border-input bg-card hover:bg-accent")}>{s}s</button>)}
+                    <button type="button" onClick={() => setAutoTime(true)} className={cn("rounded-full border px-3 py-1 text-xs font-semibold", autoTime ? "border-primary bg-primary text-primary-foreground" : "border-input bg-card hover:bg-accent")}>Tự động</button>
+                    {TIMES.map((s) => <button key={s} type="button" onClick={() => { setAutoTime(false); setSeconds(s) }} className={cn("rounded-full border px-3 py-1 text-xs font-semibold", !autoTime && seconds === s ? "border-primary bg-primary text-primary-foreground" : "border-input bg-card hover:bg-accent")}>{s}s</button>)}
                   </div>
+                  {autoTime && <p className="mt-1 text-[11px] text-muted-foreground">Tự tính theo thời lượng đọc câu trả lời + 5 giây.</p>}
                 </section>
               )}
 
