@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react"
-import { Check, CheckCircle2, ChevronDown, Circle, ClipboardCheck, ClipboardCopy, Clock3, Eye, EyeOff, Lightbulb, Mic, Play, Quote, RotateCcw, Square, Volume2, X } from "lucide-react"
+import { Check, CheckCircle2, ChevronDown, Circle, ClipboardCheck, ClipboardCopy, Clock3, Eye, EyeOff, Headphones, Lightbulb, Mic, Play, Quote, RotateCcw, Square, Volume2, X } from "lucide-react"
 import { useSpeak } from "@/lib/use-speak"
 import { ttsSupported } from "@/lib/tts"
 import { diffWords, tokenize } from "@/lib/speech-diff"
@@ -9,6 +9,7 @@ import type { FinalConfidence } from "@/stores/ifa-final-speaking"
 import { useUnlock } from "@/stores/unlock"
 import { ifaSpeakingAnswers } from "@/content/ifa-speaking-answers"
 import { SpeakingTabs } from "@/components/ifa/SpeakingTabs"
+import { AutoPractice } from "@/components/ifa/AutoPractice"
 import type { IfaFinalQuestion, IfaFinalTopic } from "@/types/content"
 
 const STATUS_META: Record<FinalConfidence, { label: string; Icon: typeof Circle; cls: string }> = {
@@ -78,6 +79,7 @@ export function IfaSpeakingPracticePage() {
   const [selectedByTopic, setSelectedByTopic] = useState<Record<string, number>>({})
   const [showQuestionText, setShowQuestionText] = useState(false)
   const [copied, setCopied] = useState(false)
+  const [autoOpen, setAutoOpen] = useState(false)
   const progress = useIfaFinalSpeaking((s) => s.progress)
   const unlocked = useUnlock((s) => s.unlocked)
 
@@ -389,6 +391,17 @@ export function IfaSpeakingPracticePage() {
           </div>
         </div>
       )}
+
+      {/* FAB luyện tự động */}
+      <button
+        type="button"
+        onClick={() => setAutoOpen(true)}
+        title="Luyện tự động (nghe / hỏi đáp)"
+        className="fixed bottom-[17.5rem] right-6 z-40 flex h-14 w-14 items-center justify-center rounded-full border border-border bg-card text-primary shadow-lg transition-all hover:scale-105 hover:bg-primary hover:text-primary-foreground active:scale-95 md:bottom-[15rem]"
+      >
+        <Headphones className="h-6 w-6" />
+      </button>
+      <AutoPractice open={autoOpen} onClose={() => setAutoOpen(false)} getAnswer={(id) => resolveAnswer(id, progress[id]?.answer, unlocked)} />
 
       {/* FAB copy — sao chép toàn bộ đáp án đã soạn */}
       <button
