@@ -3,7 +3,7 @@
 // after the device is unlocked (Settings → key). Never bundled into the
 // visible lesson content; gated exactly like the hidden practice papers.
 export const ifaSpeakingAnswers: Record<string, string> = {
-  "studying-01": "I graduated from FPT University, and I'm currently studying English at LangGo in Hanoi. I want to improve my English skills because I hope to work for an international company in the future.",
+  "studying-01": "I graduated from FPT University in Hanoi, and my major was Software Engineering. I'm currently studying English at LangGo because I want to improve my English skills and work for an international company in the future.",
   "studying-02": "My major was Software Engineering. I chose this major because I enjoy working with computers, and it helps me earn a good living.",
   "studying-03": "Yes, one thing I didn't like about my university was the heavy workload. I had a lot of assignments, and I often had to stay up late to finish them.",
   "studying-04": "Yes, I think so. I always pay attention in class, and I study hard every day.",
@@ -13,7 +13,7 @@ export const ifaSpeakingAnswers: Record<string, string> = {
 
   "working-01": "I am a software engineer at FPT IS in Hanoi. I develop applications for businesses. My dream job is to become a senior software engineer at an international company because I want to improve my skills and knowledge and earn more money.\nSometimes, I have a heavy workload, so I have to work overtime to meet deadlines. This makes it difficult to maintain a good work-life balance.\nHowever, I think I can work well under pressure because I usually make a plan and prioritise important tasks. I also try to manage my time effectively.",
   "working-02": "Sometimes, I have a heavy workload, so I have to work overtime to meet deadlines. This makes it difficult to maintain a good work-life balance.",
-  "working-03": "Yes, I think I can work well under pressure because I usually make a plan and prioritise important tasks. I also try to manage my time effectively.",
+  "working-03": "Yes, I think I can work well under pressure because I usually make a plan and do important tasks first. I also try to manage my time effectively.",
 
   "hometown-01": "I come from Thanh Hoa Province, which is in the north-central part of Vietnam. It has many beautiful places and delicious food.",
   "hometown-02": "What I like about my hometown is the people and the food. The people are very friendly, and the food is very delicious.",
@@ -72,15 +72,15 @@ export const ifaSpeakingAnswers: Record<string, string> = {
   "movies-03": "I rarely go to the cinema because I am quite busy with work and study. I prefer watching films at home because it is more convenient. However, I sometimes go to the cinema with my friends to enjoy films on the big screen.",
   "movies-04": "My favourite film is Iron Man, which is a science fiction and superhero film. It is about a man who uses technology to create a powerful suit. I like the main character because he is intelligent and creative. The film also has amazing special effects and an interesting story.",
 
-  "tea-coffee-01": "Both tea and coffee are popular in Vietnam. Many people drink coffee in the morning to stay awake and have more energy for work. Older people often drink tea when they talk with their friends or family members.",
-  "tea-coffee-02": "Yes, I do. When we have guests, we usually offer them a cup of tea. Sometimes, we prepare coffee if they prefer it. I think this is a good way to make guests feel welcome.",
+  "tea-coffee-01": "Both tea and coffee are popular in Vietnam. Many people drink coffee in the morning to stay awake. Older people often drink tea when they talk with friends or family.",
+  "tea-coffee-02": "Yes, I do. When guests come to my house, I usually offer them tea or coffee. I think it makes them feel welcome.",
   "tea-coffee-03": "The last time I drank coffee was this morning. I had a cup of coffee before work because it helped me stay awake. I sometimes drink coffee to concentrate better at work.",
 
-  "languages-01": "I speak Vietnamese and a little English. Vietnamese is my native language, and I use it every day. I am currently learning English to improve my communication skills and get better job opportunities.",
+  "languages-01": "I speak Vietnamese and a little English. Vietnamese is my native language. I'm learning English because I want to work for an international company in the future.",
   "languages-02": "Yes, I would like to learn German in the future. It will help me communicate with local people if I go to Germany. Learning German may also help me find more job opportunities there.",
-  "languages-03": "Yes, I think so. I sometimes find it difficult to remember new vocabulary and improve my pronunciation. However, I believe that practising regularly can help me improve my language skills.",
+  "languages-03": "Yes, I think so. I find it difficult to remember new words and pronounce them correctly. However, I try to practise English every day to improve my skills.",
 
-  "music-01": "Yes, I do. I usually listen to music when I work out at the gym or have free time. Music helps me relieve stress after a long day. It also makes me feel more energetic.",
+  "music-01": "Yes. I like listening to pop music because it has catchy melodies. I usually listen to music when I work or hit the gym. Music helps me relax after a long day. I also like singing, but I'm not very good at it. I sometimes sing along to my favourite songs when I'm alone.",
   "music-02": "I usually listen to pop music because it has catchy melodies. I enjoy listening to music when I exercise or relax at home. It helps me improve my mood and forget about work for a while.",
   "music-03": "Yes, I have. I sometimes sing along to my favourite songs when I listen to music. I also enjoy singing karaoke with my friends. Although I am not a good singer, singing helps me relax and have fun.",
 }
