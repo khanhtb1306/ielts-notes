@@ -47,11 +47,11 @@ export const ifaSpeakingAnswers: Record<string, string> = {
   "healthy-05": "Yes, I do. I usually hit the gym three or four times a week. I also play badminton with my friends at weekends. They help me stay in shape and reduce stress.",
   "healthy-06": "I can exercise regularly and have a balanced diet. I also try to stay hydrated by drinking enough water and get into the habit of going to bed early. These habits help me improve my physical and mental health.",
 
-  "family-01": "I come from a nuclear family. There are four of us: my parents, my younger sister and me. My parents are tailors, and my sister is a university student.",
-  "family-02": "I can't spend much time with my family because I work in Hanoi. However, I often call my parents. I go home to spend quality time with them whenever I have a holiday.",
+  "family-01": "Yes, I come from a small family. There are four people in my family: my father, my mother, my younger sister and me. My family lives in Thanh Hoa Province.",
+  "family-02": "I cannot spend much time with my family because I work in Hanoi. However, I often call my parents. I go home to spend time with them whenever I have a holiday.",
   "family-03": "We enjoy having dinner together and talking about our day. Sometimes we go out to eat or visit our relatives. It's a great way to bond as a family.",
   "family-04": "We go out once in a while because I work far from home. When I go home, we usually eat at local restaurants. Sometimes we visit interesting places together.",
-  "family-05": "Yes, I get on well with my parents and my sister. We often share our problems and support each other. My family always encourages me to work hard.",
+  "family-05": "Yes, I get on well with my parents and my younger sister. We often share our problems and support each other. My family always encourages me to work hard.",
   "family-06": "I'm closest to my mother because she understands me very well. I can share my problems with her, and she always gives me useful advice.",
   "family-07": "I prefer spending time with my family because they always stand by me. I feel comfortable when I talk with them. Besides, I don't have many chances to see them because I work far away.",
 
