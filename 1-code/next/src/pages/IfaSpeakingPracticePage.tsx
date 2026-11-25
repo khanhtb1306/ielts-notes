@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react"
-import { Check, CheckCircle2, ChevronDown, Circle, ClipboardCheck, ClipboardCopy, Clock3, Eye, EyeOff, Headphones, Lightbulb, Mic, Play, Quote, RotateCcw, Square, Volume2, X } from "lucide-react"
+import { Check, CheckCircle2, ChevronDown, Circle, ClipboardCheck, ClipboardCopy, ClipboardPaste, Clock3, Eye, EyeOff, Headphones, Lightbulb, Mic, Play, Quote, RotateCcw, Square, Volume2, X } from "lucide-react"
 import { useSpeak } from "@/lib/use-speak"
 import { ttsSupported } from "@/lib/tts"
 import { diffWords, tokenize } from "@/lib/speech-diff"
@@ -466,9 +466,57 @@ function TopicSection({
   onBack: () => void
 }) {
   const speak = useSpeak()
+  const saveAnswer = useIfaFinalSpeaking((s) => s.saveAnswer)
   const list = topic.questions
   const prepared = list.filter((q) => !!resolveAnswer(q.id, progress[q.id]?.answer, unlocked).trim()).length
   const selected = selectedIndex === undefined ? null : list[Math.min(selectedIndex, list.length - 1)]
+  const [copied, setCopied] = useState(false)
+
+  // Copy chỉ các đáp án của riêng chủ đề này (edit thắng, nếu không có thì lấy
+  // bộ private khi đã mở khoá) dưới dạng JSON {id: answer}.
+  async function copyTopicAnswers() {
+    const out: Record<string, string> = {}
+    for (const q of list) {
+      const text = resolveAnswer(q.id, progress[q.id]?.answer, unlocked).trim()
+      if (text) out[q.id] = text
+    }
+    try {
+      await navigator.clipboard.writeText(JSON.stringify(out, null, 2))
+      setCopied(true)
+      window.setTimeout(() => setCopied(false), 1600)
+    } catch {
+      /* clipboard blocked */
+    }
+  }
+
+  // Dán JSON {id: answer} để cập nhật hàng loạt đáp án của riêng chủ đề này.
+  // Chỉ nhận id thuộc chủ đề để không ghi nhầm sang chủ đề khác.
+  function updateTopicAnswers() {
+    const raw = window.prompt(
+      `Dán JSON đáp án cho chủ đề "${topic.label}" (dạng {"${list[0]?.id ?? "id"}": "..."}):`,
+    )
+    if (!raw) return
+    let parsed: unknown
+    try {
+      parsed = JSON.parse(raw)
+    } catch {
+      window.alert("JSON không hợp lệ. Hãy dán đúng dạng {\"id\": \"đáp án\"}.")
+      return
+    }
+    if (!parsed || typeof parsed !== "object" || Array.isArray(parsed)) {
+      window.alert("Dữ liệu phải là object {\"id\": \"đáp án\"}.")
+      return
+    }
+    const ids = new Set(list.map((q) => q.id))
+    let applied = 0
+    for (const [id, value] of Object.entries(parsed as Record<string, unknown>)) {
+      if (ids.has(id) && typeof value === "string") {
+        saveAnswer(id, value)
+        applied++
+      }
+    }
+    window.alert(applied > 0 ? `Đã cập nhật ${applied} đáp án cho chủ đề "${topic.label}".` : "Không có id nào khớp với chủ đề này.")
+  }
 
   return (
     <section id={`practice-${topic.id}`} className="scroll-mt-28 overflow-hidden rounded-2xl border border-border bg-card shadow-sm">
@@ -482,9 +530,38 @@ function TopicSection({
           >
             {topic.label} · {topic.vi}
           </button>
-          <span className="shrink-0 rounded-full border border-border bg-background px-2 py-0.5 text-[11px] text-muted-foreground">
-            {list.length} câu
-          </span>
+          <div className="flex shrink-0 items-center gap-1">
+            {!showQuestionText && (
+              <>
+                <button
+                  type="button"
+                  onClick={copyTopicAnswers}
+                  title={`Copy toàn bộ đáp án của "${topic.label}"`}
+                  aria-label={`Copy đáp án chủ đề ${topic.label}`}
+                  className={
+                    "flex size-7 items-center justify-center rounded-lg border transition-colors " +
+                    (copied
+                      ? "border-emerald-400/60 bg-emerald-100 text-emerald-700 dark:bg-emerald-500/15 dark:text-emerald-300"
+                      : "border-border bg-background text-muted-foreground hover:bg-primary hover:text-primary-foreground")
+                  }
+                >
+                  {copied ? <ClipboardCheck className="size-3.5" /> : <ClipboardCopy className="size-3.5" />}
+                </button>
+                <button
+                  type="button"
+                  onClick={updateTopicAnswers}
+                  title={`Cập nhật toàn bộ đáp án của "${topic.label}" từ JSON`}
+                  aria-label={`Cập nhật đáp án chủ đề ${topic.label}`}
+                  className="flex size-7 items-center justify-center rounded-lg border border-border bg-background text-muted-foreground transition-colors hover:bg-primary hover:text-primary-foreground"
+                >
+                  <ClipboardPaste className="size-3.5" />
+                </button>
+              </>
+            )}
+            <span className="rounded-full border border-border bg-background px-2 py-0.5 text-[11px] text-muted-foreground">
+              {list.length} câu
+            </span>
+          </div>
         </div>
         <div className="mt-1 text-xs text-muted-foreground">{prepared}/{list.length} câu đã soạn</div>
       </div>
