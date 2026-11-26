@@ -53,7 +53,7 @@ export const ifaSpeakingAnswers: Record<string, string> = {
   "family-04": "We go out once in a while because I work far from home. When I go home, we usually eat at local restaurants. Sometimes we visit interesting places together.",
   "family-05": "Yes, I get on well with my parents and my younger sister. We often share our problems and support each other. My family always encourages me to work hard.",
   "family-06": "I'm closest to my mother because she understands me very well. I can share my problems with her, and she always gives me useful advice.",
-  "family-07": "I prefer spending time with my family because they always stand by me. I feel comfortable when I talk with them. Besides, I don't have many chances to see them because I work far away.",
+  "family-07": "I prefer spending time with my family because I love them. I feel happy when we are together. However, I don't see them very often because I work in Hanoi.",
 
   "friends-01": "Yes, I have some close friends from university and work. We have a lot in common, especially technology and sports. We often help each other when we have problems.",
   "friends-02": "My best friend is someone I met at university. He is friendly, helpful and reliable. What I like most is that he always gives me useful advice.",
