@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react"
-import { Check, CheckCircle2, ChevronDown, Circle, ClipboardCheck, ClipboardCopy, ClipboardPaste, Clock3, Eye, EyeOff, Headphones, Lightbulb, Mic, Play, Quote, RotateCcw, Square, Volume2, X } from "lucide-react"
+import { Check, CheckCircle2, ChevronDown, Circle, ClipboardCopy, ClipboardPaste, Clock3, Database, Eye, EyeOff, Headphones, Lightbulb, Mic, Play, Quote, RotateCcw, Square, Volume2, X } from "lucide-react"
 import { useSpeak } from "@/lib/use-speak"
 import { ttsSupported } from "@/lib/tts"
 import { diffWords, tokenize } from "@/lib/speech-diff"
@@ -78,27 +78,10 @@ type SpeechRecognitionConstructor = new () => SpeechRecognitionLike
 export function IfaSpeakingPracticePage() {
   const [selectedByTopic, setSelectedByTopic] = useState<Record<string, number>>({})
   const [showQuestionText, setShowQuestionText] = useState(false)
-  const [copied, setCopied] = useState(false)
   const [autoOpen, setAutoOpen] = useState(false)
+  const [manageOpen, setManageOpen] = useState(false)
   const progress = useIfaFinalSpeaking((s) => s.progress)
   const unlocked = useUnlock((s) => s.unlocked)
-
-  // Copy every current answer (edits win, otherwise the unlocked private set) as
-  // JSON so it can be pasted back from a phone where in-field copy is awkward.
-  async function copyAllAnswers() {
-    const out: Record<string, string> = {}
-    for (const q of allFinalQuestions) {
-      const text = resolveAnswer(q.id, progress[q.id]?.answer, unlocked).trim()
-      if (text) out[q.id] = text
-    }
-    try {
-      await navigator.clipboard.writeText(JSON.stringify(out, null, 2))
-      setCopied(true)
-      window.setTimeout(() => setCopied(false), 1600)
-    } catch {
-      /* clipboard blocked */
-    }
-  }
 
   const topics = useMemo(() => ifaFinalTopics.filter((t) => t.questions.length > 0), [])
 
@@ -403,18 +386,22 @@ export function IfaSpeakingPracticePage() {
       </button>
       <AutoPractice open={autoOpen} onClose={() => setAutoOpen(false)} getAnswer={(id) => resolveAnswer(id, progress[id]?.answer, unlocked)} />
 
-      {/* FAB copy — sao chép toàn bộ đáp án đã soạn */}
+      {/* FAB quản lý đáp án — copy / cập nhật theo chủ đề + nạp lại cả trang */}
       <button
         type="button"
-        onClick={copyAllAnswers}
-        title="Copy toàn bộ đáp án"
-        className={
-          "fixed bottom-[13.5rem] right-6 z-40 flex h-14 w-14 items-center justify-center rounded-full shadow-lg transition-all hover:scale-105 active:scale-95 md:bottom-[10.5rem] " +
-          (copied ? "bg-emerald-500 text-white" : "bg-card border border-border text-primary hover:bg-primary hover:text-primary-foreground")
-        }
+        onClick={() => setManageOpen(true)}
+        title="Quản lý đáp án (copy / cập nhật / nạp lại)"
+        className="fixed bottom-[13.5rem] right-6 z-40 flex h-14 w-14 items-center justify-center rounded-full border border-border bg-card text-primary shadow-lg transition-all hover:scale-105 hover:bg-primary hover:text-primary-foreground active:scale-95 md:bottom-[10.5rem]"
       >
-        {copied ? <ClipboardCheck className="h-6 w-6" /> : <ClipboardCopy className="h-6 w-6" />}
+        <Database className="h-6 w-6" />
       </button>
+      <AnswerManager
+        open={manageOpen}
+        onClose={() => setManageOpen(false)}
+        topics={topics}
+        progress={progress}
+        unlocked={unlocked}
+      />
 
       {/* FAB mic */}
       <button
@@ -466,72 +453,9 @@ function TopicSection({
   onBack: () => void
 }) {
   const speak = useSpeak()
-  const saveAnswer = useIfaFinalSpeaking((s) => s.saveAnswer)
   const list = topic.questions
   const prepared = list.filter((q) => !!resolveAnswer(q.id, progress[q.id]?.answer, unlocked).trim()).length
   const selected = selectedIndex === undefined ? null : list[Math.min(selectedIndex, list.length - 1)]
-  const [copied, setCopied] = useState(false)
-
-  // Copy chỉ các đáp án của riêng chủ đề này (edit thắng, nếu không có thì lấy
-  // bộ private khi đã mở khoá) dưới dạng JSON {id: answer}.
-  async function copyTopicAnswers() {
-    const out: Record<string, string> = {}
-    for (const q of list) {
-      const text = resolveAnswer(q.id, progress[q.id]?.answer, unlocked).trim()
-      if (text) out[q.id] = text
-    }
-    try {
-      await navigator.clipboard.writeText(JSON.stringify(out, null, 2))
-      setCopied(true)
-      window.setTimeout(() => setCopied(false), 1600)
-    } catch {
-      /* clipboard blocked */
-    }
-  }
-
-  // Ghi đè localStorage bằng bản đáp án gốc mới nhất trong code cho riêng chủ đề
-  // này. Dùng khi bản đã lưu (localStorage) đang che mất đáp án vừa cập nhật.
-  function reloadTopicAnswers() {
-    const fresh = list.filter((q) => (ifaSpeakingAnswers[q.id] ?? "").trim())
-    if (!fresh.length) {
-      window.alert(unlocked ? "Chủ đề này chưa có đáp án gốc để nạp lại." : "Hãy mở khoá trước khi nạp lại đáp án gốc.")
-      return
-    }
-    const ok = window.confirm(
-      `Nạp lại ${fresh.length} đáp án gốc mới nhất cho chủ đề "${topic.label}"?\nCác chỉnh sửa đang lưu của chủ đề này sẽ bị ghi đè.`,
-    )
-    if (!ok) return
-    for (const q of fresh) saveAnswer(q.id, ifaSpeakingAnswers[q.id])
-  }
-
-  // Dán JSON {id: answer} để cập nhật hàng loạt đáp án của riêng chủ đề này.
-  // Chỉ nhận id thuộc chủ đề để không ghi nhầm sang chủ đề khác.
-  function updateTopicAnswers() {
-    const raw = window.prompt(
-      `Dán JSON đáp án cho chủ đề "${topic.label}" (dạng {"${list[0]?.id ?? "id"}": "..."}):`,
-    )
-    if (!raw) return
-    let parsed: unknown
-    try {
-      parsed = JSON.parse(raw)
-    } catch {
-      window.alert("JSON không hợp lệ. Hãy dán đúng dạng {\"id\": \"đáp án\"}.")
-      return
-    }
-    if (!parsed || typeof parsed !== "object" || Array.isArray(parsed)) {
-      window.alert("Dữ liệu phải là object {\"id\": \"đáp án\"}.")
-      return
-    }
-    const ids = new Set(list.map((q) => q.id))
-    let applied = 0
-    for (const [id, value] of Object.entries(parsed as Record<string, unknown>)) {
-      if (ids.has(id) && typeof value === "string") {
-        saveAnswer(id, value)
-        applied++
-      }
-    }
-    window.alert(applied > 0 ? `Đã cập nhật ${applied} đáp án cho chủ đề "${topic.label}".` : "Không có id nào khớp với chủ đề này.")
-  }
 
   return (
     <section id={`practice-${topic.id}`} className="scroll-mt-28 overflow-hidden rounded-2xl border border-border bg-card shadow-sm">
@@ -545,47 +469,9 @@ function TopicSection({
           >
             {topic.label} · {topic.vi}
           </button>
-          <div className="flex shrink-0 items-center gap-1">
-            {!showQuestionText && (
-              <>
-                <button
-                  type="button"
-                  onClick={copyTopicAnswers}
-                  title={`Copy toàn bộ đáp án của "${topic.label}"`}
-                  aria-label={`Copy đáp án chủ đề ${topic.label}`}
-                  className={
-                    "flex size-7 items-center justify-center rounded-lg border transition-colors " +
-                    (copied
-                      ? "border-emerald-400/60 bg-emerald-100 text-emerald-700 dark:bg-emerald-500/15 dark:text-emerald-300"
-                      : "border-border bg-background text-muted-foreground hover:bg-primary hover:text-primary-foreground")
-                  }
-                >
-                  {copied ? <ClipboardCheck className="size-3.5" /> : <ClipboardCopy className="size-3.5" />}
-                </button>
-                <button
-                  type="button"
-                  onClick={updateTopicAnswers}
-                  title={`Cập nhật toàn bộ đáp án của "${topic.label}" từ JSON`}
-                  aria-label={`Cập nhật đáp án chủ đề ${topic.label}`}
-                  className="flex size-7 items-center justify-center rounded-lg border border-border bg-background text-muted-foreground transition-colors hover:bg-primary hover:text-primary-foreground"
-                >
-                  <ClipboardPaste className="size-3.5" />
-                </button>
-                <button
-                  type="button"
-                  onClick={reloadTopicAnswers}
-                  title={`Nạp lại đáp án gốc mới nhất cho "${topic.label}" (ghi đè bản đã lưu)`}
-                  aria-label={`Nạp lại đáp án gốc chủ đề ${topic.label}`}
-                  className="flex size-7 items-center justify-center rounded-lg border border-border bg-background text-muted-foreground transition-colors hover:bg-primary hover:text-primary-foreground"
-                >
-                  <RotateCcw className="size-3.5" />
-                </button>
-              </>
-            )}
-            <span className="rounded-full border border-border bg-background px-2 py-0.5 text-[11px] text-muted-foreground">
-              {list.length} câu
-            </span>
-          </div>
+          <span className="shrink-0 rounded-full border border-border bg-background px-2 py-0.5 text-[11px] text-muted-foreground">
+            {list.length} câu
+          </span>
         </div>
         <div className="mt-1 text-xs text-muted-foreground">{prepared}/{list.length} câu đã soạn</div>
       </div>
@@ -755,5 +641,196 @@ function QuestionDetail({ question, unlocked }: { question: IfaFinalQuestion; un
         </div>
       </div>
     </section>
+  )
+}
+
+/**
+ * Bảng quản lý đáp án đặt ở ngoài (không nhét vào từng card):
+ * - Chọn 1 chủ đề rồi Copy hoặc Update đáp án của riêng chủ đề đó.
+ * - Update: dán JSON {id: answer}; nếu id không thuộc chủ đề đang chọn → báo nhầm topic.
+ * - Nạp lại cả trang: ghi đè TOÀN BỘ localStorage bằng đáp án gốc mới nhất trong
+ *   code rồi reload, khắc phục trường hợp bản đã lưu che mất bản vừa cập nhật.
+ */
+function AnswerManager({
+  open,
+  onClose,
+  topics,
+  progress,
+  unlocked,
+}: {
+  open: boolean
+  onClose: () => void
+  topics: IfaFinalTopic[]
+  progress: Record<string, { answer: string; status: FinalConfidence }>
+  unlocked: boolean
+}) {
+  const saveAnswer = useIfaFinalSpeaking((s) => s.saveAnswer)
+  const [topicId, setTopicId] = useState(topics[0]?.id ?? "")
+  const [pasted, setPasted] = useState("")
+  const [note, setNote] = useState<{ kind: "ok" | "err"; text: string } | null>(null)
+
+  const topic = topics.find((t) => t.id === topicId) ?? topics[0]
+
+  useEffect(() => {
+    if (open) setNote(null)
+  }, [open])
+
+  if (!open || !topic) return null
+
+  async function copyTopic() {
+    const out: Record<string, string> = {}
+    for (const q of topic.questions) {
+      const text = resolveAnswer(q.id, progress[q.id]?.answer, unlocked).trim()
+      if (text) out[q.id] = text
+    }
+    if (!Object.keys(out).length) {
+      setNote({ kind: "err", text: unlocked ? `Chủ đề "${topic.label}" chưa có đáp án nào.` : "Hãy mở khoá để xem và copy đáp án." })
+      return
+    }
+    try {
+      await navigator.clipboard.writeText(JSON.stringify(out, null, 2))
+      setNote({ kind: "ok", text: `Đã copy ${Object.keys(out).length} đáp án của "${topic.label}".` })
+    } catch {
+      setNote({ kind: "err", text: "Trình duyệt chặn clipboard. Hãy thử lại." })
+    }
+  }
+
+  function updateTopic() {
+    const raw = pasted.trim()
+    if (!raw) {
+      setNote({ kind: "err", text: "Chưa có JSON để cập nhật." })
+      return
+    }
+    let parsed: unknown
+    try {
+      parsed = JSON.parse(raw)
+    } catch {
+      setNote({ kind: "err", text: 'JSON không hợp lệ. Dán đúng dạng {"id": "đáp án"}.' })
+      return
+    }
+    if (!parsed || typeof parsed !== "object" || Array.isArray(parsed)) {
+      setNote({ kind: "err", text: 'Dữ liệu phải là object {"id": "đáp án"}.' })
+      return
+    }
+    const entries = Object.entries(parsed as Record<string, unknown>).filter(([, v]) => typeof v === "string")
+    if (!entries.length) {
+      setNote({ kind: "err", text: "Không tìm thấy cặp id/đáp án nào." })
+      return
+    }
+    const ids = new Set(topic.questions.map((q) => q.id))
+    const matched = entries.filter(([id]) => ids.has(id))
+    // Phát hiện nhầm topic: có id nhưng không id nào thuộc chủ đề đang chọn.
+    if (!matched.length) {
+      const guessTopic = topics.find((t) => t.questions.some((q) => q.id === entries[0][0]))
+      setNote({
+        kind: "err",
+        text: guessTopic
+          ? `Nhầm chủ đề! JSON này thuộc "${guessTopic.label}", không phải "${topic.label}". Hãy chọn đúng chủ đề rồi cập nhật.`
+          : `Nhầm chủ đề! Không id nào trong JSON thuộc "${topic.label}".`,
+      })
+      return
+    }
+    for (const [id, value] of matched) saveAnswer(id, value as string)
+    const skipped = entries.length - matched.length
+    setNote({
+      kind: "ok",
+      text: `Đã cập nhật ${matched.length} đáp án cho "${topic.label}".` + (skipped > 0 ? ` (${skipped} id không thuộc chủ đề này đã bỏ qua.)` : ""),
+    })
+  }
+
+  // Ghi đè toàn bộ localStorage bằng đáp án gốc trong code rồi reload cả trang.
+  function reloadWholePage() {
+    if (!unlocked) {
+      setNote({ kind: "err", text: "Hãy mở khoá trước khi nạp lại đáp án gốc." })
+      return
+    }
+    const ok = window.confirm(
+      "Nạp lại TẤT CẢ đáp án gốc mới nhất và tải lại trang?\nMọi chỉnh sửa đang lưu sẽ bị ghi đè bằng bản trong code.",
+    )
+    if (!ok) return
+    for (const q of allFinalQuestions) {
+      const text = (ifaSpeakingAnswers[q.id] ?? "").trim()
+      if (text) saveAnswer(q.id, text)
+    }
+    window.location.reload()
+  }
+
+  return (
+    <div className="fixed inset-0 z-50 flex items-end justify-center bg-black/40 p-0 sm:items-center sm:p-4" onClick={onClose}>
+      <div
+        className="flex max-h-[85vh] w-full max-w-md flex-col overflow-hidden rounded-t-2xl border border-border bg-card shadow-2xl sm:rounded-2xl"
+        onClick={(e) => e.stopPropagation()}
+      >
+        <div className="flex items-center justify-between gap-2 border-b border-border px-4 py-3">
+          <span className="flex items-center gap-2 text-sm font-bold"><Database className="size-4 text-primary" /> Quản lý đáp án</span>
+          <button type="button" onClick={onClose} aria-label="Đóng" className="flex size-8 items-center justify-center rounded-lg text-muted-foreground hover:bg-muted">
+            <X className="size-4" />
+          </button>
+        </div>
+
+        <div className="space-y-4 overflow-y-auto p-4">
+          <div>
+            <label htmlFor="am-topic" className="mb-1.5 block text-xs font-bold uppercase tracking-wide text-primary">Chủ đề</label>
+            <select
+              id="am-topic"
+              value={topicId}
+              onChange={(e) => { setTopicId(e.target.value); setNote(null) }}
+              className="w-full rounded-lg border border-input bg-background px-3 py-2 text-sm outline-none focus:border-primary"
+            >
+              {topics.map((t) => (
+                <option key={t.id} value={t.id}>{t.label} · {t.vi} ({t.questions.length})</option>
+              ))}
+            </select>
+          </div>
+
+          <div className="flex gap-2">
+            <button
+              type="button"
+              onClick={copyTopic}
+              className="flex flex-1 items-center justify-center gap-2 rounded-lg border border-border bg-background px-3 py-2 text-sm font-semibold transition-colors hover:bg-primary hover:text-primary-foreground"
+            >
+              <ClipboardCopy className="size-4" /> Copy
+            </button>
+            <button
+              type="button"
+              onClick={updateTopic}
+              className="flex flex-1 items-center justify-center gap-2 rounded-lg border border-border bg-background px-3 py-2 text-sm font-semibold transition-colors hover:bg-primary hover:text-primary-foreground"
+            >
+              <ClipboardPaste className="size-4" /> Cập nhật
+            </button>
+          </div>
+
+          <div>
+            <label htmlFor="am-json" className="mb-1.5 block text-xs font-bold uppercase tracking-wide text-primary">JSON cập nhật</label>
+            <textarea
+              id="am-json"
+              value={pasted}
+              onChange={(e) => setPasted(e.target.value)}
+              placeholder={`{"${topic.questions[0]?.id ?? "id"}": "đáp án..."}`}
+              rows={5}
+              className="w-full resize-y rounded-lg border border-input bg-background p-3 font-mono text-xs leading-relaxed outline-none focus:border-primary"
+            />
+            <p className="mt-1 text-[11px] text-muted-foreground">Dán JSON rồi bấm “Cập nhật”. Chỉ áp cho chủ đề đang chọn — sai chủ đề sẽ được báo.</p>
+          </div>
+
+          {note && (
+            <div className={"rounded-lg px-3 py-2 text-xs font-medium " + (note.kind === "ok" ? "bg-emerald-100 text-emerald-700 dark:bg-emerald-500/15 dark:text-emerald-300" : "bg-red-100 text-red-700 dark:bg-red-500/15 dark:text-red-300")}>
+              {note.text}
+            </div>
+          )}
+
+          <div className="border-t border-border pt-3">
+            <button
+              type="button"
+              onClick={reloadWholePage}
+              className="flex w-full items-center justify-center gap-2 rounded-lg border border-amber-400/60 bg-amber-50 px-3 py-2.5 text-sm font-semibold text-amber-700 transition-colors hover:bg-amber-100 dark:bg-amber-500/10 dark:text-amber-300 dark:hover:bg-amber-500/20"
+            >
+              <RotateCcw className="size-4" /> Nạp lại đáp án gốc + tải lại trang
+            </button>
+            <p className="mt-1 text-[11px] text-muted-foreground">Ghi đè toàn bộ đáp án đã lưu bằng bản gốc mới nhất trong code (khi localStorage che mất bản vừa sửa).</p>
+          </div>
+        </div>
+      </div>
+    </div>
   )
 }
