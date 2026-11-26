@@ -489,6 +489,21 @@ function TopicSection({
     }
   }
 
+  // Ghi đè localStorage bằng bản đáp án gốc mới nhất trong code cho riêng chủ đề
+  // này. Dùng khi bản đã lưu (localStorage) đang che mất đáp án vừa cập nhật.
+  function reloadTopicAnswers() {
+    const fresh = list.filter((q) => (ifaSpeakingAnswers[q.id] ?? "").trim())
+    if (!fresh.length) {
+      window.alert(unlocked ? "Chủ đề này chưa có đáp án gốc để nạp lại." : "Hãy mở khoá trước khi nạp lại đáp án gốc.")
+      return
+    }
+    const ok = window.confirm(
+      `Nạp lại ${fresh.length} đáp án gốc mới nhất cho chủ đề "${topic.label}"?\nCác chỉnh sửa đang lưu của chủ đề này sẽ bị ghi đè.`,
+    )
+    if (!ok) return
+    for (const q of fresh) saveAnswer(q.id, ifaSpeakingAnswers[q.id])
+  }
+
   // Dán JSON {id: answer} để cập nhật hàng loạt đáp án của riêng chủ đề này.
   // Chỉ nhận id thuộc chủ đề để không ghi nhầm sang chủ đề khác.
   function updateTopicAnswers() {
@@ -555,6 +570,15 @@ function TopicSection({
                   className="flex size-7 items-center justify-center rounded-lg border border-border bg-background text-muted-foreground transition-colors hover:bg-primary hover:text-primary-foreground"
                 >
                   <ClipboardPaste className="size-3.5" />
+                </button>
+                <button
+                  type="button"
+                  onClick={reloadTopicAnswers}
+                  title={`Nạp lại đáp án gốc mới nhất cho "${topic.label}" (ghi đè bản đã lưu)`}
+                  aria-label={`Nạp lại đáp án gốc chủ đề ${topic.label}`}
+                  className="flex size-7 items-center justify-center rounded-lg border border-border bg-background text-muted-foreground transition-colors hover:bg-primary hover:text-primary-foreground"
+                >
+                  <RotateCcw className="size-3.5" />
                 </button>
               </>
             )}
